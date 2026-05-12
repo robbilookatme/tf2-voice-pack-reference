@@ -310,19 +310,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,axe_hit_flesh1,,Events:,"['weapon_shovel.hitflesh', 'weapon_fireaxe.hitflesh']"
+Filename:,axe_hit_flesh1,,Events:,"['weapon_fireaxe.hitflesh', 'weapon_shovel.hitflesh']"
 Full Path:,weapons/axe_hit_flesh1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,axe_hit_flesh2,,Events:,"['weapon_shovel.hitflesh', 'weapon_fireaxe.hitflesh']"
+Filename:,axe_hit_flesh2,,Events:,"['weapon_fireaxe.hitflesh', 'weapon_shovel.hitflesh']"
 Full Path:,weapons/axe_hit_flesh2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,axe_hit_flesh3,,Events:,"['weapon_shovel.hitflesh', 'weapon_fireaxe.hitflesh']"
+Filename:,axe_hit_flesh3,,Events:,"['weapon_fireaxe.hitflesh', 'weapon_shovel.hitflesh']"
 Full Path:,weapons/axe_hit_flesh3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -400,7 +400,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ball_buster_hit_01,,Events:,"['mvm_ballbuster.hitflesh', 'ballbuster.hitflesh', 'ballbuster.hitworld', 'ballbuster.drawcatch']"
+Filename:,ball_buster_hit_01,,Events:,"['ballbuster.drawcatch', 'ballbuster.hitflesh', 'ballbuster.hitworld', 'mvm_ballbuster.hitflesh']"
 Full Path:,weapons/ball_buster_hit_01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -466,13 +466,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bat_baseball_hit_flesh,,Events:,"['taunt_headbutt_sfx_head_impact', 'demo_taunt_forehead_slice_bat_baseball_hit_flesh', 'weapon_baseballbat.hitflesh']"
-Full Path:,weapons/bat_baseball_hit_flesh.wav,,Scenes:,"['scenes/player/demoman/low/taunt_headbutt_success.vcd', 'scenes/player/medic/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
-Transcription:,,,Responses:,"['Taunt: Mannrobics', 'Taunt: Skullcracker', 'Taunt: Fore-Head Slice']"
+Filename:,bat_baseball_hit_flesh,,Events:,"['demo_taunt_forehead_slice_bat_baseball_hit_flesh', 'taunt_headbutt_sfx_head_impact', 'weapon_baseballbat.hitflesh']"
+Full Path:,weapons/bat_baseball_hit_flesh.wav,,Scenes:,"['scenes/player/demoman/low/taunt_headbutt_success.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/player/medic/low/taunt_headbutt_success.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,,,Responses:,"['Taunt: Fore-Head Slice', 'Taunt: Mannrobics', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bat_baseball_hit_world1,,Events:,"['weapon_baseballbat.hitworld', 'soldier_tauntstarspangled_strategy_bat_baseball_hit_world1']"
+Filename:,bat_baseball_hit_world1,,Events:,"['soldier_tauntstarspangled_strategy_bat_baseball_hit_world1', 'weapon_baseballbat.hitworld']"
 Full Path:,weapons/bat_baseball_hit_world1.wav,,Scenes:,['scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']
 Transcription:,,,Responses:,['Taunt: Star-Spangled Strategy']
 Your Line:,,,Rules:,[]
@@ -490,15 +490,15 @@ Transcription:,,,Responses:,['Taunt: The Boston Boarder']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bat_draw_swoosh1,,Events:,"['spy_taunt_the_punchline_bat_draw_swoosh1', 'weapon_fist.miss', 'weapon_bat.drawswoosh1', 'soldier_tauntcan_it_bat_draw_swoosh1']"
-Full Path:,weapons/bat_draw_swoosh1.wav,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose.vcd']"
-Transcription:,,,Responses:,"['Taunt: The Punchline', 'Taunt: Yeti Punch', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Drunken Sailor', 'Taunt: Can It!', 'Taunt: The Profane Puppeteer', 'Taunt: Flying Colors']"
+Filename:,bat_draw_swoosh1,,Events:,"['soldier_tauntcan_it_bat_draw_swoosh1', 'spy_taunt_the_punchline_bat_draw_swoosh1', 'weapon_bat.drawswoosh1', 'weapon_fist.miss']"
+Full Path:,weapons/bat_draw_swoosh1.wav,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd']"
+Transcription:,,,Responses:,"['Taunt: Can It!', 'Taunt: Flying Colors', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Drunken Sailor', 'Taunt: The Profane Puppeteer', 'Taunt: The Punchline', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bat_draw_swoosh2,,Events:,"['spy_taunt_the_punchline_bat_draw_swoosh2', 'weapon_fist.miss', 'weapon_bat.drawswoosh2']"
-Full Path:,weapons/bat_draw_swoosh2.wav,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose.vcd']"
-Transcription:,,,Responses:,"['Taunt: The Punchline', 'Taunt: Rock, Paper, Scissors', 'Taunt: Flying Colors']"
+Filename:,bat_draw_swoosh2,,Events:,"['spy_taunt_the_punchline_bat_draw_swoosh2', 'weapon_bat.drawswoosh2', 'weapon_fist.miss']"
+Full Path:,weapons/bat_draw_swoosh2.wav,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose.vcd', 'scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose.vcd', 'scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd']"
+Transcription:,,,Responses:,"['Taunt: Flying Colors', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Punchline']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -616,7 +616,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bison_reload,,Events:,"['weapon_pomson.reload', 'weapon_bison.reload']"
+Filename:,bison_reload,,Events:,"['weapon_bison.reload', 'weapon_pomson.reload']"
 Full Path:,weapons/bison_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -646,7 +646,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,blade_hitworld,,Events:,"['weapon_knife.hitworld', 'weapon_assassin_knife.hitworld']"
+Filename:,blade_hitworld,,Events:,"['weapon_assassin_knife.hitworld', 'weapon_knife.hitworld']"
 Full Path:,weapons/blade_hitworld.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -670,7 +670,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bombinomicon_explode1,,Events:,"['mvm.bombresetexplode', 'bombinomicon.explode']"
+Filename:,bombinomicon_explode1,,Events:,"['bombinomicon.explode', 'mvm.bombresetexplode']"
 Full Path:,weapons/bombinomicon_explode1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -820,37 +820,37 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_crit_enabled,,Events:,"['weapon_metalgloves.critenabled', 'weapon_boxinggloves.critenabled']"
+Filename:,boxing_gloves_crit_enabled,,Events:,"['weapon_boxinggloves.critenabled', 'weapon_metalgloves.critenabled']"
 Full Path:,weapons/boxing_gloves_crit_enabled.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_hit,,Events:,"['weapon_boxinggloves.hitglove', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_hit']"
-Full Path:,weapons/boxing_gloves_hit.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd']"
-Transcription:,,,Responses:,"[""Taunt: The Trackman's Touchdown"", 'Taunt: Bare Knuckle Beatdown']"
+Filename:,boxing_gloves_hit,,Events:,"['scout_taunt_the_trackmans_touchdown_boxing_gloves_hit', 'weapon_boxinggloves.hitglove']"
+Full Path:,weapons/boxing_gloves_hit.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_hit1,,Events:,"['scout_taunt_the_trackmans_touchdown_boxing_gloves_hit1', 'mvm_weapon_boxinggloves.hitflesh', 'weapon_boxinggloves.hitflesh']"
-Full Path:,weapons/boxing_gloves_hit1.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd']"
-Transcription:,,,Responses:,"[""Taunt: The Trackman's Touchdown"", 'Taunt: Bare Knuckle Beatdown']"
+Filename:,boxing_gloves_hit1,,Events:,"['mvm_weapon_boxinggloves.hitflesh', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_hit1', 'weapon_boxinggloves.hitflesh']"
+Full Path:,weapons/boxing_gloves_hit1.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_hit2,,Events:,"['weapon_boxinggloves.hitflesh', 'mvm_weapon_boxinggloves.hitflesh']"
+Filename:,boxing_gloves_hit2,,Events:,"['mvm_weapon_boxinggloves.hitflesh', 'weapon_boxinggloves.hitflesh']"
 Full Path:,weapons/boxing_gloves_hit2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_hit3,,Events:,"['weapon_boxinggloves.hitflesh', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_hit3', 'mvm_weapon_boxinggloves.hitflesh']"
-Full Path:,weapons/boxing_gloves_hit3.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd']"
-Transcription:,,,Responses:,"[""Taunt: The Trackman's Touchdown"", 'Taunt: Bare Knuckle Beatdown']"
+Filename:,boxing_gloves_hit3,,Events:,"['mvm_weapon_boxinggloves.hitflesh', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_hit3', 'weapon_boxinggloves.hitflesh']"
+Full Path:,weapons/boxing_gloves_hit3.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_hit4,,Events:,"['weapon_boxinggloves.hitflesh', 'mvm_weapon_boxinggloves.hitflesh', 'scout_mic_drop_boxing_gloves_hit4']"
+Filename:,boxing_gloves_hit4,,Events:,"['mvm_weapon_boxinggloves.hitflesh', 'scout_mic_drop_boxing_gloves_hit4', 'weapon_boxinggloves.hitflesh']"
 Full Path:,weapons/boxing_gloves_hit4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -874,21 +874,21 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_swing1,,Events:,"['soldier_tauntcan_it_boxing_gloves_swing1', 'weapon_boxinggloves.miss', 'demo_taunt_forehead_slice_boxing_gloves_swing1', 'weapon_metalgloves.miss', 'evictionnotice.swing', 'bostonbasher.swing', 'scout_taunt_the_homerunners_hobby_boxing_gloves_swing1', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_swing1']"
-Full Path:,weapons/boxing_gloves_swing1.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
-Transcription:,,,Responses:,"['Taunt: Mannrobics', ""Taunt: The Homerunner's Hobby"", 'Taunt: Fore-Head Slice', 'Taunt: Bare Knuckle Beatdown', 'Taunt: The Boston Boarder', ""Taunt: The Trackman's Touchdown"", 'Taunt: Can It!', 'Taunt: Flying Colors', 'Taunt: The Crypt Creeper']"
+Filename:,boxing_gloves_swing1,,Events:,"['bostonbasher.swing', 'demo_taunt_forehead_slice_boxing_gloves_swing1', 'evictionnotice.swing', 'scout_taunt_the_homerunners_hobby_boxing_gloves_swing1', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_swing1', 'soldier_tauntcan_it_boxing_gloves_swing1', 'weapon_boxinggloves.miss', 'weapon_metalgloves.miss']"
+Full Path:,weapons/boxing_gloves_swing1.wav,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Can It!', 'Taunt: Flying Colors', 'Taunt: Fore-Head Slice', 'Taunt: Mannrobics', 'Taunt: The Boston Boarder', 'Taunt: The Crypt Creeper', ""Taunt: The Homerunner's Hobby"", ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_swing2,,Events:,"['weapon_boxinggloves.miss', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_swing2', 'weapon_metalgloves.miss', 'evictionnotice.swing', 'bostonbasher.swing', 'scout_taunt_the_homerunners_hobby_boxing_gloves_swing2']"
-Full Path:,weapons/boxing_gloves_swing2.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/heavy/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump_action.vcd']"
-Transcription:,,,Responses:,"['Taunt: Mannrobics', ""Taunt: The Homerunner's Hobby"", 'Taunt: Bare Knuckle Beatdown', 'Taunt: The Boston Boarder', ""Taunt: The Trackman's Touchdown"", 'Taunt: The Fist Bump', 'Taunt: Flying Colors']"
+Filename:,boxing_gloves_swing2,,Events:,"['bostonbasher.swing', 'evictionnotice.swing', 'scout_taunt_the_homerunners_hobby_boxing_gloves_swing2', 'scout_taunt_the_trackmans_touchdown_boxing_gloves_swing2', 'weapon_boxinggloves.miss', 'weapon_metalgloves.miss']"
+Full Path:,weapons/boxing_gloves_swing2.wav,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/heavy/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd', 'scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump_action.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Flying Colors', 'Taunt: Mannrobics', 'Taunt: The Boston Boarder', 'Taunt: The Fist Bump', ""Taunt: The Homerunner's Hobby"", ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,boxing_gloves_swing4,,Events:,"['demo_taunt_forehead_slice_boxing_gloves_swing4', 'engineer_taunt_texan_trickshot_boxing_gloves_swing4', 'weapon_boxinggloves.miss', 'weapon_metalgloves.miss', 'evictionnotice.swing', 'bostonbasher.swing']"
-Full Path:,weapons/boxing_gloves_swing4.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
-Transcription:,,,Responses:,"['Taunt: Mannrobics', 'Taunt: Fore-Head Slice', 'Taunt: Bare Knuckle Beatdown', 'Taunt: Texan Trickshot', 'Taunt: Flying Colors']"
+Filename:,boxing_gloves_swing4,,Events:,"['bostonbasher.swing', 'demo_taunt_forehead_slice_boxing_gloves_swing4', 'engineer_taunt_texan_trickshot_boxing_gloves_swing4', 'evictionnotice.swing', 'weapon_boxinggloves.miss', 'weapon_metalgloves.miss']"
+Full Path:,weapons/boxing_gloves_swing4.wav,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
+Transcription:,,,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Flying Colors', 'Taunt: Fore-Head Slice', 'Taunt: Mannrobics', 'Taunt: Texan Trickshot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -934,61 +934,61 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_scream_01,,Events:,"['weapon_bm_sapper.scream', 'taunt_burstchester_screams']"
+Filename:,bm_sapper_scream_01,,Events:,"['taunt_burstchester_screams', 'weapon_bm_sapper.scream']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_scream_01.wav,,Scenes:,[]
 Transcription:,[Long scream 1,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_scream_02,,Events:,"['weapon_bm_sapper.scream', 'taunt_burstchester_screams']"
+Filename:,bm_sapper_scream_02,,Events:,"['taunt_burstchester_screams', 'weapon_bm_sapper.scream']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_scream_02.wav,,Scenes:,[]
 Transcription:,[Long scream 2,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_01,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_01,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_01.wav,,Scenes:,[]
 Transcription:,[Snap 1,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_02,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_02,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_02.wav,,Scenes:,[]
 Transcription:,[Snap 2,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_03,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_03,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_03.wav,,Scenes:,[]
 Transcription:,[Snap 3,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_04,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_04,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_04.wav,,Scenes:,[]
 Transcription:,[Snap 4,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_05,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_05,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_05.wav,,Scenes:,[]
 Transcription:,[Snap 5,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_06,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_06,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_06.wav,,Scenes:,[]
 Transcription:,[Snap 6,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_07,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_07,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_07.wav,,Scenes:,[]
 Transcription:,[Snap 7,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_sapper_snap_08,,Events:,"['weapon_bm_sapper.snap', 'weapon_bm_gloves.snap', 'taunt_burstchester_snaps']"
+Filename:,bm_sapper_snap_08,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
 Full Path:,weapons/breadmonster/sapper/bm_sapper_snap_08.wav,,Scenes:,[]
 Transcription:,[Snap 8,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1054,13 +1054,13 @@ Transcription:,[Growl 10,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_throwable_growl_01,,Events:,"['weapon_bm_throwable.growl', 'taunt_burstchester_screams_short', 'taunt_burstchester_screams_happy_02']"
+Filename:,bm_throwable_growl_01,,Events:,"['taunt_burstchester_screams_happy_02', 'taunt_burstchester_screams_short', 'weapon_bm_throwable.growl']"
 Full Path:,weapons/breadmonster/throwable/bm_throwable_growl_01.wav,,Scenes:,[]
 Transcription:,[Happy scream 1,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bm_throwable_growl_02,,Events:,"['weapon_bm_throwable.growl', 'taunt_burstchester_screams_short', 'taunt_burstchester_screams_happy_02']"
+Filename:,bm_throwable_growl_02,,Events:,"['taunt_burstchester_screams_happy_02', 'taunt_burstchester_screams_short', 'weapon_bm_throwable.growl']"
 Full Path:,weapons/breadmonster/throwable/bm_throwable_growl_02.wav,,Scenes:,[]
 Transcription:,[Happy scream 2,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1331,8 +1331,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bumper_car_jump_land,,Events:,['bumpercar.jumpland']
-Full Path:,weapons/bumper_car_jump_land.wav,,Scenes:,"['scenes/player/sniper/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/player/spy/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon.vcd', 'scenes/player/heavy/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy_outro.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd']"
-Transcription:,,,Responses:,"['Taunt: Time Out Therapy', ""Taunt: Drunk Mann's Cannon"", 'Taunt: The Victory Lap']"
+Full Path:,weapons/bumper_car_jump_land.wav,,Scenes:,"['scenes/player/demoman/low/taunt_vehicle_allclass.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/player/heavy/low/taunt_vehicle_allclass.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/sniper/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/spy/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy_outro.vcd']"
+Transcription:,,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: The Victory Lap', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1378,43 +1378,43 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hit1,,Events:,"['weapon_fireaxe.hitworld', 'weapon_club.hitworld', 'weapon_machete.hitworld', 'weapon_shovel.hitworld', 'weapon_bat.hitworld', 'weapon_pipe.hitworld', 'weapon_bonesaw.hitworld', 'weapon_medikit.hitworld', 'weapon_crowbar.hitworld']"
+Filename:,cbar_hit1,,Events:,"['weapon_bat.hitworld', 'weapon_bonesaw.hitworld', 'weapon_club.hitworld', 'weapon_crowbar.hitworld', 'weapon_fireaxe.hitworld', 'weapon_machete.hitworld', 'weapon_medikit.hitworld', 'weapon_pipe.hitworld', 'weapon_shovel.hitworld']"
 Full Path:,weapons/cbar_hit1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hit2,,Events:,"['weapon_fireaxe.hitworld', 'weapon_club.hitworld', 'weapon_machete.hitworld', 'weapon_shovel.hitworld', 'weapon_bat.hitworld', 'weapon_pipe.hitworld', 'weapon_bonesaw.hitworld', 'weapon_medikit.hitworld', 'weapon_crowbar.hitworld']"
+Filename:,cbar_hit2,,Events:,"['weapon_bat.hitworld', 'weapon_bonesaw.hitworld', 'weapon_club.hitworld', 'weapon_crowbar.hitworld', 'weapon_fireaxe.hitworld', 'weapon_machete.hitworld', 'weapon_medikit.hitworld', 'weapon_pipe.hitworld', 'weapon_shovel.hitworld']"
 Full Path:,weapons/cbar_hit2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod1,,Events:,"['weapon_flag.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_wrench.hitflesh', 'weapon_fist.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_machete.hitflesh', 'weapon_bonesaw.hitflesh', 'weapon_club.hitflesh']"
-Full Path:,weapons/cbar_hitbod1.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd']"
+Filename:,cbar_hitbod1,,Events:,"['weapon_bonesaw.hitflesh', 'weapon_club.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_fist.hitflesh', 'weapon_flag.hitflesh', 'weapon_machete.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_wrench.hitflesh']"
+Full Path:,weapons/cbar_hitbod1.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod2,,Events:,"['weapon_flag.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_wrench.hitflesh', 'weapon_fist.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_machete.hitflesh', 'weapon_bonesaw.hitflesh', 'weapon_club.hitflesh']"
-Full Path:,weapons/cbar_hitbod2.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd']"
+Filename:,cbar_hitbod2,,Events:,"['weapon_bonesaw.hitflesh', 'weapon_club.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_fist.hitflesh', 'weapon_flag.hitflesh', 'weapon_machete.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_wrench.hitflesh']"
+Full Path:,weapons/cbar_hitbod2.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod3,,Events:,"['weapon_flag.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_wrench.hitflesh', 'weapon_fist.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_machete.hitflesh', 'weapon_bonesaw.hitflesh', 'weapon_club.hitflesh']"
-Full Path:,weapons/cbar_hitbod3.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd']"
+Filename:,cbar_hitbod3,,Events:,"['weapon_bonesaw.hitflesh', 'weapon_club.hitflesh', 'weapon_crowbar.hitflesh', 'weapon_fist.hitflesh', 'weapon_flag.hitflesh', 'weapon_machete.hitflesh', 'weapon_medikit.hitflesh', 'weapon_pipe.hitflesh', 'weapon_wrench.hitflesh']"
+Full Path:,weapons/cbar_hitbod3.wav,,Scenes:,"['scenes/player/heavy/low/taunt_rps_paper_lose.vcd', 'scenes/player/heavy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win.vcd', 'scenes/player/heavy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose.vcd', 'scenes/player/heavy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win.vcd', 'scenes/player/heavy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_miss1,,Events:,"['weapon_bonesaw.miss', 'weapon_bottle.miss', 'weapon_bat.miss', 'weapon_fireaxe.miss', 'weapon_club.miss', 'weapon_crowbar.miss', 'weapon_pipe.miss', 'weapon_flag.miss']"
+Filename:,cbar_miss1,,Events:,"['weapon_bat.miss', 'weapon_bonesaw.miss', 'weapon_bottle.miss', 'weapon_club.miss', 'weapon_crowbar.miss', 'weapon_fireaxe.miss', 'weapon_flag.miss', 'weapon_pipe.miss']"
 Full Path:,weapons/cbar_miss1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_miss1_crit,,Events:,"['weapon_bat.misscrit', 'weapon_bonesaw.misscrit', 'weapon_club.misscrit', 'weapon_bottle.misscrit', 'weapon_fireaxe.misscrit']"
+Filename:,cbar_miss1_crit,,Events:,"['weapon_bat.misscrit', 'weapon_bonesaw.misscrit', 'weapon_bottle.misscrit', 'weapon_club.misscrit', 'weapon_fireaxe.misscrit']"
 Full Path:,weapons/cbar_miss1_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1660,7 +1660,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,default_reload,,Events:,"['weapon_minifun.reload', 'weapon_gatling.reload', 'weapon_minigun.reload']"
+Filename:,default_reload,,Events:,"['weapon_gatling.reload', 'weapon_minifun.reload', 'weapon_minigun.reload']"
 Full Path:,weapons/default_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1702,7 +1702,7 @@ Transcription:,Impact on player at range with fanfare 3,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_charge_hit_world1,,Events:,"['heavy_taunt_soviet_strongarm_demo_charge_hit_world1', 'democharge.hitworld']"
+Filename:,demo_charge_hit_world1,,Events:,"['democharge.hitworld', 'heavy_taunt_soviet_strongarm_demo_charge_hit_world1']"
 Full Path:,weapons/demo_charge_hit_world1.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd']
 Transcription:,Impact on world 1,,Responses:,['Taunt: The Soviet Strongarm']
 Your Line:,,,Rules:,[]
@@ -1714,7 +1714,7 @@ Transcription:,Impact on world 2,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_charge_hit_world3,,Events:,"['heavy_taunt_soviet_strongarm_demo_charge_hit_world3', 'democharge.hitworld']"
+Filename:,demo_charge_hit_world3,,Events:,"['democharge.hitworld', 'heavy_taunt_soviet_strongarm_demo_charge_hit_world3']"
 Full Path:,weapons/demo_charge_hit_world3.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd']
 Transcription:,Impact on world 3,,Responses:,['Taunt: The Soviet Strongarm']
 Your Line:,,,Rules:,[]
@@ -1738,21 +1738,21 @@ Transcription:,(Loud scream 3),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_sword_hit_world1,,Events:,"['evictionnotice.hitworld', 'weapon_sword.hitworld', 'bostonbasher.hitworld']"
+Filename:,demo_sword_hit_world1,,Events:,"['bostonbasher.hitworld', 'evictionnotice.hitworld', 'weapon_sword.hitworld']"
 Full Path:,weapons/demo_sword_hit_world1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_sword_hit_world2,,Events:,"['evictionnotice.hitworld', 'weapon_sword.hitworld', 'bostonbasher.hitworld']"
+Filename:,demo_sword_hit_world2,,Events:,"['bostonbasher.hitworld', 'evictionnotice.hitworld', 'weapon_sword.hitworld']"
 Full Path:,weapons/demo_sword_hit_world2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_sword_swing1,,Events:,"['demo_taunt_forehead_slice_demo_sword_swing1', 'weapon_sword.swing']"
-Full Path:,weapons/demo_sword_swing1.wav,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
-Transcription:,,,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Flippin' Awesome"", 'Taunt: Fore-Head Slice']"
+Full Path:,weapons/demo_sword_swing1.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/flip_success_receiver0.vcd', 'scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Fore-Head Slice', 'Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2104,7 +2104,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_default,,Events:,"['pyro_taunt_the_grilled_gunman_draw_default', 'medic_tauntdoctors_defibrillators_draw_default']"
+Filename:,draw_default,,Events:,"['medic_tauntdoctors_defibrillators_draw_default', 'pyro_taunt_the_grilled_gunman_draw_default']"
 Full Path:,weapons/draw_default.wav,,Scenes:,['scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']
 Transcription:,,,Responses:,"[""Taunt: Doctor's Defibrillators""]"
 Your Line:,,,Rules:,[]
@@ -2134,21 +2134,21 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_melee,,Events:,"['weapon_boxinggloves.draw', 'weapon_metalgloves.draw', 'weapon_brandingiron.draw', 'weapon_knife.draw', 'weapon_fireaxe.draw', 'soldier_tauntcan_it_draw_melee', 'weapon_fist.draw']"
-Full Path:,weapons/draw_melee.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd']"
-Transcription:,,,Responses:,"['Taunt: The Boston Boarder', 'Taunt: Can It!']"
+Filename:,draw_melee,,Events:,"['soldier_tauntcan_it_draw_melee', 'weapon_boxinggloves.draw', 'weapon_brandingiron.draw', 'weapon_fireaxe.draw', 'weapon_fist.draw', 'weapon_knife.draw', 'weapon_metalgloves.draw']"
+Full Path:,weapons/draw_melee.wav,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd']"
+Transcription:,,,Responses:,"['Taunt: Can It!', 'Taunt: The Boston Boarder']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_minigun_heavy,,Events:,"['weapon_gatling.draw', 'weapon_minigun.draw', 'weapon_minifun.draw']"
+Filename:,draw_minigun_heavy,,Events:,"['weapon_gatling.draw', 'weapon_minifun.draw', 'weapon_minigun.draw']"
 Full Path:,weapons/draw_minigun_heavy.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_pda_antennae,,Events:,"['weapon_pda.antennaeengineer', 'soldier_tauntstarspangled_strategy_draw_pda_antennae']"
-Full Path:,weapons/draw_pda_antennae.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
-Transcription:,,,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Star-Spangled Strategy']"
+Filename:,draw_pda_antennae,,Events:,"['soldier_tauntstarspangled_strategy_draw_pda_antennae', 'weapon_pda.antennaeengineer']"
+Full Path:,weapons/draw_pda_antennae.wav,,Scenes:,"['scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
+Transcription:,,,Responses:,"['Taunt: Star-Spangled Strategy', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2170,9 +2170,9 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_primary,,Events:,"['weapon_flamethrower.draw', 'weapon_rpg.draw', 'weapon_sapper.draw', 'weapon_sniperrifle.draw', 'weapon_nailgun.draw', 'weapon_syringegun.draw', 'weapon_tranq.draw', 'heavy_taunt_soviet_strongarm_draw_primary', 'weapon_wrench.draw', 'weapon_sniperrailgun.draw', 'weapon_grenade_pipebomb.draw', 'weapon_backburner.draw']"
-Full Path:,weapons/draw_primary.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd', 'scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd', 'scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']"
-Transcription:,,,Responses:,"['Taunt: The Boston Breakdance', 'Taunt: Ring King', 'Taunt: The Soviet Strongarm', 'Taunt: Flying Colors', 'Taunt: Most Wanted']"
+Filename:,draw_primary,,Events:,"['heavy_taunt_soviet_strongarm_draw_primary', 'weapon_backburner.draw', 'weapon_flamethrower.draw', 'weapon_grenade_pipebomb.draw', 'weapon_nailgun.draw', 'weapon_rpg.draw', 'weapon_sapper.draw', 'weapon_sniperrailgun.draw', 'weapon_sniperrifle.draw', 'weapon_syringegun.draw', 'weapon_tranq.draw', 'weapon_wrench.draw']"
+Full Path:,weapons/draw_primary.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd', 'scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']"
+Transcription:,,,Responses:,"['Taunt: Flying Colors', 'Taunt: Most Wanted', 'Taunt: Ring King', 'Taunt: The Boston Breakdance', 'Taunt: The Soviet Strongarm']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2182,7 +2182,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,draw_secondary,,Events:,"['weapon_grenadelauncher.draw', 'weapon_pistol.draw', 'weapon_medigun.draw', 'weapon_revolver.draw', 'weapon_flaregun.draw', 'weapon_shotgun.draw', 'weapon_smg.draw', 'weapon_reserve_shooter.draw', 'weapon_scatter_gun.draw', 'weapon_bottle.draw', 'weapon_toolbox.draw']"
+Filename:,draw_secondary,,Events:,"['weapon_bottle.draw', 'weapon_flaregun.draw', 'weapon_grenadelauncher.draw', 'weapon_medigun.draw', 'weapon_pistol.draw', 'weapon_reserve_shooter.draw', 'weapon_revolver.draw', 'weapon_scatter_gun.draw', 'weapon_shotgun.draw', 'weapon_smg.draw', 'weapon_toolbox.draw']"
 Full Path:,weapons/draw_secondary.wav,,Scenes:,['scenes/workshop/player/scout/low/taunt_healthcarehog.vcd']
 Transcription:,,,Responses:,['Taunt: Healthcare Hog']
 Your Line:,,,Rules:,[]
@@ -2254,49 +2254,49 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,eviction_notice_01,,Events:,"['mvm_bostonbasher.impact', 'evictionnotice.impact', 'bostonbasher.impact']"
+Filename:,eviction_notice_01,,Events:,"['bostonbasher.impact', 'evictionnotice.impact', 'mvm_bostonbasher.impact']"
 Full Path:,weapons/eviction_notice_01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_01_crit,,Events:,"['evictionnotice.impactcrit', 'bostonbasher.impactcrit', 'mvm_bostonbasher.impactcrit']"
+Filename:,eviction_notice_01_crit,,Events:,"['bostonbasher.impactcrit', 'evictionnotice.impactcrit', 'mvm_bostonbasher.impactcrit']"
 Full Path:,weapons/eviction_notice_01_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_02,,Events:,"['mvm_bostonbasher.impact', 'evictionnotice.impact', 'bostonbasher.impact']"
+Filename:,eviction_notice_02,,Events:,"['bostonbasher.impact', 'evictionnotice.impact', 'mvm_bostonbasher.impact']"
 Full Path:,weapons/eviction_notice_02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_02_crit,,Events:,"['evictionnotice.impactcrit', 'bostonbasher.impactcrit', 'mvm_bostonbasher.impactcrit']"
+Filename:,eviction_notice_02_crit,,Events:,"['bostonbasher.impactcrit', 'evictionnotice.impactcrit', 'mvm_bostonbasher.impactcrit']"
 Full Path:,weapons/eviction_notice_02_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_03,,Events:,"['mvm_bostonbasher.impact', 'evictionnotice.impact', 'bostonbasher.impact']"
+Filename:,eviction_notice_03,,Events:,"['bostonbasher.impact', 'evictionnotice.impact', 'mvm_bostonbasher.impact']"
 Full Path:,weapons/eviction_notice_03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_03_crit,,Events:,"['evictionnotice.impactcrit', 'bostonbasher.impactcrit', 'mvm_bostonbasher.impactcrit']"
+Filename:,eviction_notice_03_crit,,Events:,"['bostonbasher.impactcrit', 'evictionnotice.impactcrit', 'mvm_bostonbasher.impactcrit']"
 Full Path:,weapons/eviction_notice_03_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_04,,Events:,"['mvm_bostonbasher.impact', 'evictionnotice.impact', 'bostonbasher.impact']"
+Filename:,eviction_notice_04,,Events:,"['bostonbasher.impact', 'evictionnotice.impact', 'mvm_bostonbasher.impact']"
 Full Path:,weapons/eviction_notice_04.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eviction_notice_04_crit,,Events:,"['evictionnotice.impactcrit', 'bostonbasher.impactcrit', 'mvm_bostonbasher.impactcrit']"
+Filename:,eviction_notice_04_crit,,Events:,"['bostonbasher.impactcrit', 'evictionnotice.impactcrit', 'mvm_bostonbasher.impactcrit']"
 Full Path:,weapons/eviction_notice_04_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2332,19 +2332,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,fist_hit_world1,,Events:,"['weapon_boxinggloves.hitworld', 'weapon_fist.hitworld', 'soldier_item_preview_soldier_fist_hit_world1', 'soldier_taunt_neck_snap_soldier_fist_hit_world1']"
+Filename:,fist_hit_world1,,Events:,"['soldier_item_preview_soldier_fist_hit_world1', 'soldier_taunt_neck_snap_soldier_fist_hit_world1', 'weapon_boxinggloves.hitworld', 'weapon_fist.hitworld']"
 Full Path:,weapons/fist_hit_world1.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd']"
-Transcription:,,,Responses:,"['Taunt: Unleashed Rage', 'Taunt: Neck Snap']"
+Transcription:,,,Responses:,"['Taunt: Neck Snap', 'Taunt: Unleashed Rage']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,fist_hit_world2,,Events:,"['weapon_boxinggloves.hitworld', 'soldier_item_preview_soldier_fist_hit_world2', 'soldier_taunt_neck_snap_soldier_fist_hit_world2', 'weapon_fist.hitworld']"
+Filename:,fist_hit_world2,,Events:,"['soldier_item_preview_soldier_fist_hit_world2', 'soldier_taunt_neck_snap_soldier_fist_hit_world2', 'weapon_boxinggloves.hitworld', 'weapon_fist.hitworld']"
 Full Path:,weapons/fist_hit_world2.wav,,Scenes:,"['scenes/workshop/player/soldier/low/taunt_neck_snap.vcd', 'scenes/workshop/player/soldier/low/taunt_peace.vcd']"
-Transcription:,,,Responses:,"['Taunt: Peace!', 'Taunt: Neck Snap']"
+Transcription:,,,Responses:,"['Taunt: Neck Snap', 'Taunt: Peace!']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,fist_swing_crit,,Events:,"['weapon_fist.misscrit', 'weapon_metalgloves.misscrit', 'weapon_boxinggloves.misscrit']"
+Filename:,fist_swing_crit,,Events:,"['weapon_boxinggloves.misscrit', 'weapon_fist.misscrit', 'weapon_metalgloves.misscrit']"
 Full Path:,weapons/fist_swing_crit.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2362,7 +2362,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,flame_thrower_bb_end,,Events:,"['weapon_backburner.winddown', 'weapon_backburner.fireend']"
+Filename:,flame_thrower_bb_end,,Events:,"['weapon_backburner.fireend', 'weapon_backburner.winddown']"
 Full Path:,weapons/flame_thrower_bb_end.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2380,7 +2380,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,flame_thrower_bb_start,,Events:,"['weapon_backburner.firestart', 'weapon_backburner.fire']"
+Filename:,flame_thrower_bb_start,,Events:,"['weapon_backburner.fire', 'weapon_backburner.firestart']"
 Full Path:,weapons/flame_thrower_bb_start.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2410,7 +2410,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,flame_thrower_end,,Events:,"['weapon_flamethrower.winddown', 'weapon_flamethrower.fireend']"
+Filename:,flame_thrower_end,,Events:,"['weapon_flamethrower.fireend', 'weapon_flamethrower.winddown']"
 Full Path:,weapons/flame_thrower_end.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2440,13 +2440,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,flame_thrower_pilot,,Events:,"['weapon_flamethrower.pilotloop', 'weapon_backburner.pilotloop']"
+Filename:,flame_thrower_pilot,,Events:,"['weapon_backburner.pilotloop', 'weapon_flamethrower.pilotloop']"
 Full Path:,weapons/flame_thrower_pilot.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,flame_thrower_start,,Events:,"['weapon_flamethrower.firestart', 'weapon_flamethrower.fire']"
+Filename:,flame_thrower_start,,Events:,"['weapon_flamethrower.fire', 'weapon_flamethrower.firestart']"
 Full Path:,weapons/flame_thrower_start.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2632,7 +2632,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,arrow_impact_flesh3,,Events:,"['weapon_arrow.impactflesh', 'demo_taunt_forehead_slice_arrow_impact_flesh3']"
+Filename:,arrow_impact_flesh3,,Events:,"['demo_taunt_forehead_slice_arrow_impact_flesh3', 'weapon_arrow.impactflesh']"
 Full Path:,weapons/fx/rics/arrow_impact_flesh3.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']
 Transcription:,,,Responses:,['Taunt: Fore-Head Slice']
 Your Line:,,,Rules:,[]
@@ -2663,19 +2663,19 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,arrow_impact_wood,,Events:,['weapon_arrow.impactwood']
-Full Path:,weapons/fx/rics/arrow_impact_wood.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd']"
+Full Path:,weapons/fx/rics/arrow_impact_wood.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,arrow_impact_wood2,,Events:,['weapon_arrow.impactwood']
-Full Path:,weapons/fx/rics/arrow_impact_wood2.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd']"
+Full Path:,weapons/fx/rics/arrow_impact_wood2.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,arrow_impact_wood4,,Events:,['weapon_arrow.impactwood']
-Full Path:,weapons/fx/rics/arrow_impact_wood4.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd']"
+Full Path:,weapons/fx/rics/arrow_impact_wood4.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2704,31 +2704,31 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ric1,,Events:,"['fx_ricochetsound.ricochet', 'bounce.shrapnel']"
+Filename:,ric1,,Events:,"['bounce.shrapnel', 'fx_ricochetsound.ricochet']"
 Full Path:,weapons/fx/rics/ric1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ric2,,Events:,"['fx_ricochetsound.ricochet', 'bounce.shrapnel']"
+Filename:,ric2,,Events:,"['bounce.shrapnel', 'fx_ricochetsound.ricochet']"
 Full Path:,weapons/fx/rics/ric2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ric3,,Events:,"['fx_ricochetsound.ricochet', 'bounce.shrapnel']"
+Filename:,ric3,,Events:,"['bounce.shrapnel', 'fx_ricochetsound.ricochet']"
 Full Path:,weapons/fx/rics/ric3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ric4,,Events:,"['fx_ricochetsound.ricochet', 'bounce.shrapnel']"
+Filename:,ric4,,Events:,"['bounce.shrapnel', 'fx_ricochetsound.ricochet']"
 Full Path:,weapons/fx/rics/ric4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,ric5,,Events:,"['fx_ricochetsound.ricochet', 'bounce.shrapnel']"
+Filename:,ric5,,Events:,"['bounce.shrapnel', 'fx_ricochetsound.ricochet']"
 Full Path:,weapons/fx/rics/ric5.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2860,19 +2860,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,grenade_impact,,Events:,"['grenade.impactsoft', 'grenade.stepright', 'weapon_grenade_pipebomb.bounce', 'basegrenade.bouncesound', 'grenade.stepleft', 'grenade.impacthard']"
+Filename:,grenade_impact,,Events:,"['basegrenade.bouncesound', 'grenade.impacthard', 'grenade.impactsoft', 'grenade.stepleft', 'grenade.stepright', 'weapon_grenade_pipebomb.bounce']"
 Full Path:,weapons/grenade_impact.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,grenade_impact2,,Events:,"['grenade.impactsoft', 'grenade.stepright', 'basegrenade.bouncesound', 'grenade.stepleft', 'grenade.impacthard']"
+Filename:,grenade_impact2,,Events:,"['basegrenade.bouncesound', 'grenade.impacthard', 'grenade.impactsoft', 'grenade.stepleft', 'grenade.stepright']"
 Full Path:,weapons/grenade_impact2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,grenade_impact3,,Events:,"['grenade.impactsoft', 'grenade.stepright', 'basegrenade.bouncesound', 'grenade.stepleft', 'grenade.impacthard']"
+Filename:,grenade_impact3,,Events:,"['basegrenade.bouncesound', 'grenade.impacthard', 'grenade.impactsoft', 'grenade.stepleft', 'grenade.stepright']"
 Full Path:,weapons/grenade_impact3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2944,19 +2944,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,guitar_strum,,Events:,"['weapon_guitar.strum', 'mvm.robot_engineer_spawn']"
+Filename:,guitar_strum,,Events:,"['mvm.robot_engineer_spawn', 'weapon_guitar.strum']"
 Full Path:,weapons/guitar_strum.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,gunslinger_draw,,Events:,"['engineer_item_preview_gunslinger_draw', 'engineer_bucking_bronco_gunslinger_draw']"
+Filename:,gunslinger_draw,,Events:,"['engineer_bucking_bronco_gunslinger_draw', 'engineer_item_preview_gunslinger_draw']"
 Full Path:,weapons/gunslinger_draw.mp3,,Scenes:,['scenes/workshop/player/engineer/low/bucking_bronco.vcd']
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,gunslinger_draw,,Events:,"['weapon_gunslinger.inspectfinish', 'weapon_gunslinger.draw']"
+Filename:,gunslinger_draw,,Events:,"['weapon_gunslinger.draw', 'weapon_gunslinger.inspectfinish']"
 Full Path:,weapons/gunslinger_draw.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3064,19 +3064,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,holy_mackerel1,,Events:,"['weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld', 'mvm_weapon_holymackerel.hitflesh']"
+Filename:,holy_mackerel1,,Events:,"['mvm_weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld']"
 Full Path:,weapons/holy_mackerel1.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,holy_mackerel2,,Events:,"['weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld', 'mvm_weapon_holymackerel.hitflesh']"
+Filename:,holy_mackerel2,,Events:,"['mvm_weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld']"
 Full Path:,weapons/holy_mackerel2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,holy_mackerel3,,Events:,"['weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld', 'mvm_weapon_holymackerel.hitflesh']"
+Filename:,holy_mackerel3,,Events:,"['mvm_weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitflesh', 'weapon_holymackerel.hitworld']"
 Full Path:,weapons/holy_mackerel3.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
@@ -3178,9 +3178,9 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,knife_swing,,Events:,"['weapon_assassin_knife.miss', 'weapon_knife.miss', 'soldier_item_preview_soldier_knife_swing', 'soldier_taunt_neck_snap_soldier_knife_swing']"
-Full Path:,weapons/knife_swing.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,,,Responses:,"['Taunt: Ring King', 'Taunt: Heartbreaker', 'Taunt: Neck Snap']"
+Filename:,knife_swing,,Events:,"['soldier_item_preview_soldier_knife_swing', 'soldier_taunt_neck_snap_soldier_knife_swing', 'weapon_assassin_knife.miss', 'weapon_knife.miss']"
+Full Path:,weapons/knife_swing.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd']"
+Transcription:,,,Responses:,"['Taunt: Heartbreaker', 'Taunt: Neck Snap', 'Taunt: Ring King']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3220,9 +3220,9 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,loose_cannon_ball_impact,,Events:,"['heavy_taunt_soviet_strongarm_loose_cannon_ball_impact', 'weapon_loosecannon.ballimpact', 'soldier_tauntcan_it_loose_cannon_ball_impact']"
+Filename:,loose_cannon_ball_impact,,Events:,"['heavy_taunt_soviet_strongarm_loose_cannon_ball_impact', 'soldier_tauntcan_it_loose_cannon_ball_impact', 'weapon_loosecannon.ballimpact']"
 Full Path:,weapons/loose_cannon_ball_impact.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd']"
-Transcription:,,,Responses:,"['Taunt: The Soviet Strongarm', 'Taunt: Can It!']"
+Transcription:,,,Responses:,"['Taunt: Can It!', 'Taunt: The Soviet Strongarm']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3376,13 +3376,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medigun_heal,,Events:,"['weaponmedigun.healinghealer', 'weaponmedigun.healingworld', 'weaponmedigun.healingtarget']"
+Filename:,medigun_heal,,Events:,"['weaponmedigun.healinghealer', 'weaponmedigun.healingtarget', 'weaponmedigun.healingworld']"
 Full Path:,weapons/medigun_heal.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medigun_heal_detach,,Events:,"['weaponmedigun.healingdetachworld', 'weaponmedigun.healingdetachhealer', 'weaponmedigun.healingdetachtarget']"
+Filename:,medigun_heal_detach,,Events:,"['weaponmedigun.healingdetachhealer', 'weaponmedigun.healingdetachtarget', 'weaponmedigun.healingdetachworld']"
 Full Path:,weapons/medigun_heal_detach.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3407,12 +3407,12 @@ Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
 Filename:,melee_inspect_movement2,,Events:,"['meleeinspect.movement', 'meleeinspect.movement2']"
-Full Path:,weapons/melee_inspect_movement2.wav,,Scenes:,"['scenes/workshop/player/soldier/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors_outro.vcd']"
+Full Path:,weapons/melee_inspect_movement2.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_flying_colors_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,melee_inspect_movement3,,Events:,"['meleeinspect.movement3', 'meleeinspect.movement']"
+Filename:,melee_inspect_movement3,,Events:,"['meleeinspect.movement', 'meleeinspect.movement3']"
 Full Path:,weapons/melee_inspect_movement3.wav,,Scenes:,['scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
@@ -3502,21 +3502,21 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_hit_hand1,,Events:,"['weapon_flaregun.grab', 'medic_tauntthe_head_doctor_metal_hit_hand1', 'weapon_fist.hithand', 'weapon_ball.drawcatch', 'weapon_bat.drawcatch', 'weapon_wrench.hithand']"
-Full Path:,weapons/metal_hit_hand1.wav,,Scenes:,"['scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd']"
-Transcription:,,,Responses:,"['Taunt: Yeti Punch', 'Taunt: Second Rate Sorcery', 'Taunt: Rock, Paper, Scissors', 'Taunt: Straight Shooter Tutor', 'Taunt: The Head Doctor', 'Taunt: Flying Colors']"
+Filename:,metal_hit_hand1,,Events:,"['medic_tauntthe_head_doctor_metal_hit_hand1', 'weapon_ball.drawcatch', 'weapon_bat.drawcatch', 'weapon_fist.hithand', 'weapon_flaregun.grab', 'weapon_wrench.hithand']"
+Full Path:,weapons/metal_hit_hand1.wav,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd']"
+Transcription:,,,Responses:,"['Taunt: Flying Colors', 'Taunt: Rock, Paper, Scissors', 'Taunt: Second Rate Sorcery', 'Taunt: Straight Shooter Tutor', 'Taunt: The Head Doctor', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_hit_hand2,,Events:,"['pyro_spring_rider_metal_hit_hand2', 'medic_taunt_neck_snap_medic_metal_hit_hand2', 'weapon_fist.hithand', 'medic_item_preview_medic_metal_hit_hand2', 'weapon_flaregun.grab', 'weapon_wrench.hithand']"
-Full Path:,weapons/metal_hit_hand2.wav,,Scenes:,"['scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/workshop/player/medic/low/taunt_neck_snap.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd']"
-Transcription:,,,Responses:,"['Taunt: Yeti Punch', 'Taunt: Neck Snap', 'Taunt: Rock, Paper, Scissors', 'Taunt: Straight Shooter Tutor', 'Taunt: Flying Colors']"
+Filename:,metal_hit_hand2,,Events:,"['medic_item_preview_medic_metal_hit_hand2', 'medic_taunt_neck_snap_medic_metal_hit_hand2', 'pyro_spring_rider_metal_hit_hand2', 'weapon_fist.hithand', 'weapon_flaregun.grab', 'weapon_wrench.hithand']"
+Full Path:,weapons/metal_hit_hand2.wav,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd']"
+Transcription:,,,Responses:,"['Taunt: Flying Colors', 'Taunt: Neck Snap', 'Taunt: Rock, Paper, Scissors', 'Taunt: Straight Shooter Tutor', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_hit_hand3,,Events:,"['weapon_fist.hithand', 'medic_tauntthe_head_doctor_metal_hit_hand3', 'weapon_flaregun.grab', 'weapon_wrench.hithand']"
-Full Path:,weapons/metal_hit_hand3.wav,,Scenes:,"['scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_peace_out.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd']"
-Transcription:,,,Responses:,"['Taunt: Yeti Punch', 'Taunt: Rock, Paper, Scissors', 'Taunt: Peace Out', 'Taunt: Straight Shooter Tutor', 'Taunt: The Head Doctor', 'Taunt: Flying Colors']"
+Filename:,metal_hit_hand3,,Events:,"['medic_tauntthe_head_doctor_metal_hit_hand3', 'weapon_fist.hithand', 'weapon_flaregun.grab', 'weapon_wrench.hithand']"
+Full Path:,weapons/metal_hit_hand3.wav,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/heavy/low/taunt_rps_start.vcd', 'scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose.vcd', 'scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose.vcd', 'scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/scout/low/taunt_peace_out.vcd', 'scenes/workshop/player/sniper/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd']"
+Transcription:,,,Responses:,"['Taunt: Flying Colors', 'Taunt: Peace Out', 'Taunt: Rock, Paper, Scissors', 'Taunt: Straight Shooter Tutor', 'Taunt: The Head Doctor', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3592,7 +3592,7 @@ Transcription:,,,Responses:,['Taunt: The Road Rager']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mittens_punch,,Events:,"['weapon_mittens.hitglove', 'weapon_mittens.hitworld', 'weapon_mittens.hitflesh', 'mvm_weapon_mittens.hitflesh']"
+Filename:,mittens_punch,,Events:,"['mvm_weapon_mittens.hitflesh', 'weapon_mittens.hitflesh', 'weapon_mittens.hitglove', 'weapon_mittens.hitworld']"
 Full Path:,weapons/mittens_punch.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3742,20 +3742,20 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pickaxe_swing1,,Events:,"['soldier_taunt_neck_snap_soldier_pickaxe_swing1', 'soldier_item_preview_soldier_pickaxe_swing1', 'weapon_pickaxe.swing']"
-Full Path:,weapons/pickaxe_swing1.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd']"
+Filename:,pickaxe_swing1,,Events:,"['soldier_item_preview_soldier_pickaxe_swing1', 'soldier_taunt_neck_snap_soldier_pickaxe_swing1', 'weapon_pickaxe.swing']"
+Full Path:,weapons/pickaxe_swing1.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pickaxe_swing2,,Events:,['weapon_pickaxe.swing']
-Full Path:,weapons/pickaxe_swing2.wav,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Full Path:,weapons/pickaxe_swing2.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pickaxe_swing3,,Events:,['weapon_pickaxe.swing']
-Full Path:,weapons/pickaxe_swing3.wav,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Full Path:,weapons/pickaxe_swing3.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3784,7 +3784,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pistol_empty,,Events:,"['weapon_nailgun.clipempty', 'weapon_revolver.clipempty', 'weapon_syringegun.clipempty', 'weapon_compoundbow.clipempty', 'weapon_smg.clipempty', 'weapon_sniperrifle.clipempty', 'weapon_pistol.clipempty', 'weapon_supersmg.clipempty', 'weapon_tranq.clipempty', 'weapon_flaregun.clipempty']"
+Filename:,pistol_empty,,Events:,"['weapon_compoundbow.clipempty', 'weapon_flaregun.clipempty', 'weapon_nailgun.clipempty', 'weapon_pistol.clipempty', 'weapon_revolver.clipempty', 'weapon_smg.clipempty', 'weapon_sniperrifle.clipempty', 'weapon_supersmg.clipempty', 'weapon_syringegun.clipempty', 'weapon_tranq.clipempty']"
 Full Path:,weapons/pistol/pistol_empty.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3814,7 +3814,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pistol_worldreload,,Events:,"['weapon_pistol.worldreload', 'weapon_compoundbow.worldreload']"
+Filename:,pistol_worldreload,,Events:,"['weapon_compoundbow.worldreload', 'weapon_pistol.worldreload']"
 Full Path:,weapons/pistol_worldreload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3838,7 +3838,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,push_impact,,Events:,"['weapon_hands.pushimpact', 'engineer_taunt_texas_twirl_em_push_impact']"
+Filename:,push_impact,,Events:,"['engineer_taunt_texas_twirl_em_push_impact', 'weapon_hands.pushimpact']"
 Full Path:,weapons/push_impact.wav,,Scenes:,['scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']
 Transcription:,,,Responses:,"[""Taunt: Texas Twirl 'Em""]"
 Your Line:,,,Rules:,[]
@@ -3904,7 +3904,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,rainblower_start,,Events:,"['weapon_rainblower.firestart', 'weapon_rainblower.fire']"
+Filename:,rainblower_start,,Events:,"['weapon_rainblower.fire', 'weapon_rainblower.firestart']"
 Full Path:,weapons/rainblower/rainblower_start.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4120,7 +4120,7 @@ Transcription:,,,Responses:,['Taunt: Rocket Jockey']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,rocket_ll_shoot,,Events:,"['weapon_liberty_launcher.single', 'equipment.rocketpack_activate']"
+Filename:,rocket_ll_shoot,,Events:,"['equipment.rocketpack_activate', 'weapon_liberty_launcher.single']"
 Full Path:,weapons/rocket_ll_shoot.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4186,7 +4186,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,rocket_reload,,Events:,"['weapon_rpg.worldreload', 'weapon_rpg.reload']"
+Filename:,rocket_reload,,Events:,"['weapon_rpg.reload', 'weapon_rpg.worldreload']"
 Full Path:,weapons/rocket_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4330,7 +4330,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sapper_timer,,Events:,"['weapon_sapper.timer', 'weapon_sapper_xmas.timer', 'weapon_breadmonster_sapper.timer', 'weapon_p2rec.timer']"
+Filename:,sapper_timer,,Events:,"['weapon_breadmonster_sapper.timer', 'weapon_p2rec.timer', 'weapon_sapper.timer', 'weapon_sapper_xmas.timer']"
 Full Path:,weapons/sapper_timer.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4408,7 +4408,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scatter_gun_reload,,Events:,"['weapon_scatter_gun.reload', 'weapon_reserve_shooter.reload']"
+Filename:,scatter_gun_reload,,Events:,"['weapon_reserve_shooter.reload', 'weapon_scatter_gun.reload']"
 Full Path:,weapons/scatter_gun_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4426,7 +4426,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scatter_gun_worldreload,,Events:,"['weapon_scatter_gun.pump', 'weapon_reserve_shooter.pump', 'weapon_reserve_shooter.worldreload', 'weapon_scatter_gun.worldreload']"
+Filename:,scatter_gun_worldreload,,Events:,"['weapon_reserve_shooter.pump', 'weapon_reserve_shooter.worldreload', 'weapon_scatter_gun.pump', 'weapon_scatter_gun.worldreload']"
 Full Path:,weapons/scatter_gun_worldreload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4462,7 +4462,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_empty,,Events:,"['building_sentrygun.empty', 'building_dispenser.build21']"
+Filename:,sentry_empty,,Events:,"['building_dispenser.build21', 'building_sentrygun.empty']"
 Full Path:,weapons/sentry_empty.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4504,25 +4504,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_move_medium3,,Events:,"['building_teleporter.build2c', 'building_sentrygun.build5', 'building_dispenser.build15']"
+Filename:,sentry_move_medium3,,Events:,"['building_dispenser.build15', 'building_sentrygun.build5', 'building_teleporter.build2c']"
 Full Path:,weapons/sentry_move_medium3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_move_short1,,Events:,"['building_sentrygun.rocketmove2', 'building_dispenser.build2', 'building_dispenser.build10', 'building_dispenser.build5']"
+Filename:,sentry_move_short1,,Events:,"['building_dispenser.build10', 'building_dispenser.build2', 'building_dispenser.build5', 'building_sentrygun.rocketmove2']"
 Full Path:,weapons/sentry_move_short1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_move_short2,,Events:,"['engineer_item_preview_sentry_move_short2', 'engineer_bucking_bronco_sentry_move_short2']"
+Filename:,sentry_move_short2,,Events:,"['engineer_bucking_bronco_sentry_move_short2', 'engineer_item_preview_sentry_move_short2']"
 Full Path:,weapons/sentry_move_short2.mp3,,Scenes:,['scenes/workshop/player/engineer/low/bucking_bronco.vcd']
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_move_short2,,Events:,"['building_dispenser.build6', 'building_teleporter.build5', 'building_dispenser.build8', 'building_dispenser.build3', 'building_sentrygun.rocketmove1', 'building_sentrygun.build2', 'building_sentrygun.build10']"
+Filename:,sentry_move_short2,,Events:,"['building_dispenser.build3', 'building_dispenser.build6', 'building_dispenser.build8', 'building_sentrygun.build10', 'building_sentrygun.build2', 'building_sentrygun.rocketmove1', 'building_teleporter.build5']"
 Full Path:,weapons/sentry_move_short2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4612,19 +4612,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading1,,Events:,"['building_dispenser.build1b', 'building_sentrygun.build1', 'building_teleporter.build1a', 'building_dispenser.build18a']"
+Filename:,sentry_upgrading1,,Events:,"['building_dispenser.build18a', 'building_dispenser.build1b', 'building_sentrygun.build1', 'building_teleporter.build1a']"
 Full Path:,weapons/sentry_upgrading1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading2,,Events:,"['engineer_item_preview_sentry_upgrading2', 'engineer_bucking_bronco_sentry_upgrading2']"
-Full Path:,weapons/sentry_upgrading2.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco_end.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Filename:,sentry_upgrading2,,Events:,"['engineer_bucking_bronco_sentry_upgrading2', 'engineer_item_preview_sentry_upgrading2']"
+Full Path:,weapons/sentry_upgrading2.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco_end.vcd']"
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading2,,Events:,"['building_sentrygun.build3', 'building_teleporter.build1', 'building_dispenser.build25', 'building_dispenser.build24a']"
+Filename:,sentry_upgrading2,,Events:,"['building_dispenser.build24a', 'building_dispenser.build25', 'building_sentrygun.build3', 'building_teleporter.build1']"
 Full Path:,weapons/sentry_upgrading2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4636,13 +4636,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading4,,Events:,"['building_dispenser.build16', 'building_sentrygun.rocketclunk1', 'building_sentrygun.build1a', 'building_sentrygun.build4']"
+Filename:,sentry_upgrading4,,Events:,"['building_dispenser.build16', 'building_sentrygun.build1a', 'building_sentrygun.build4', 'building_sentrygun.rocketclunk1']"
 Full Path:,weapons/sentry_upgrading4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading5,,Events:,"['building_sentrygun.build6', 'building_dispenser.build11', 'building_sentrygun.rocketclunk2', 'building_dispenser.build1']"
+Filename:,sentry_upgrading5,,Events:,"['building_dispenser.build1', 'building_dispenser.build11', 'building_sentrygun.build6', 'building_sentrygun.rocketclunk2']"
 Full Path:,weapons/sentry_upgrading5.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4654,7 +4654,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading7,,Events:,"['building_sentrygun.build7a', 'building_sentrygun.build1b']"
+Filename:,sentry_upgrading7,,Events:,"['building_sentrygun.build1b', 'building_sentrygun.build7a']"
 Full Path:,weapons/sentry_upgrading7.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4666,31 +4666,31 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading_steam1,,Events:,"['building_sentrygun.rocketsteam2', 'building_sentrygun.buildsteam1', 'building_dispenser.build13', 'building_dispenser.build12', 'building_teleporter.build3', 'building_dispenser.build7']"
+Filename:,sentry_upgrading_steam1,,Events:,"['building_dispenser.build12', 'building_dispenser.build13', 'building_dispenser.build7', 'building_sentrygun.buildsteam1', 'building_sentrygun.rocketsteam2', 'building_teleporter.build3']"
 Full Path:,weapons/sentry_upgrading_steam1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading_steam2,,Events:,"['building_teleporter.build2', 'building_sentrygun.buildsteam2', 'building_teleporter.build3a', 'building_teleporter.build4a', 'building_dispenser.build14', 'building_dispenser.build9']"
+Filename:,sentry_upgrading_steam2,,Events:,"['building_dispenser.build14', 'building_dispenser.build9', 'building_sentrygun.buildsteam2', 'building_teleporter.build2', 'building_teleporter.build3a', 'building_teleporter.build4a']"
 Full Path:,weapons/sentry_upgrading_steam2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading_steam3,,Events:,"['building_sentrygun.buildsteam3', 'building_teleporter.build3b', 'building_dispenser.build1a']"
+Filename:,sentry_upgrading_steam3,,Events:,"['building_dispenser.build1a', 'building_sentrygun.buildsteam3', 'building_teleporter.build3b']"
 Full Path:,weapons/sentry_upgrading_steam3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading_steam4,,Events:,"['building_sentrygun.rocketsteam1', 'building_dispenser.build19', 'building_dispenser.build4', 'building_sentrygun.buildsteam4']"
+Filename:,sentry_upgrading_steam4,,Events:,"['building_dispenser.build19', 'building_dispenser.build4', 'building_sentrygun.buildsteam4', 'building_sentrygun.rocketsteam1']"
 Full Path:,weapons/sentry_upgrading_steam4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sentry_upgrading_steam5,,Events:,"['building_dispenser.build24c', 'building_dispenser.build24d', 'building_dispenser.build23', 'building_sentrygun.buildsteam5', 'building_dispenser.build22', 'building_dispenser.build24b', 'building_teleporter.build2a', 'building_dispenser.build24']"
+Filename:,sentry_upgrading_steam5,,Events:,"['building_dispenser.build22', 'building_dispenser.build23', 'building_dispenser.build24', 'building_dispenser.build24b', 'building_dispenser.build24c', 'building_dispenser.build24d', 'building_sentrygun.buildsteam5', 'building_teleporter.build2a']"
 Full Path:,weapons/sentry_upgrading_steam5.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4744,7 +4744,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
-Filename:,shotgun_cock_back,,Events:,"['weapon_shotgunengineer.cock_back', 'taunt.soldiershotguncockback']"
+Filename:,shotgun_cock_back,,Events:,"['taunt.soldiershotguncockback', 'weapon_shotgunengineer.cock_back']"
 Full Path:,weapons/shotgun_cock_back.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4756,7 +4756,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,shotgun_empty,,Events:,"['weapon_reserve_shooter.empty', 'weapon_shotgun.empty', 'weapon_scatter_gun.empty']"
+Filename:,shotgun_empty,,Events:,"['weapon_reserve_shooter.empty', 'weapon_scatter_gun.empty', 'weapon_shotgun.empty']"
 Full Path:,weapons/shotgun_empty.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4768,7 +4768,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,shotgun_shoot,,Events:,"['weapon_shotgun.single', 'taunt.soldiershotgunfire']"
+Filename:,shotgun_shoot,,Events:,"['taunt.soldiershotgunfire', 'weapon_shotgun.single']"
 Full Path:,weapons/shotgun_shoot.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4787,7 +4787,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,shovel_swing,,Events:,['weapon_shovel.miss']
-Full Path:,weapons/shovel_swing.wav,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd']"
+Full Path:,weapons/shovel_swing.wav,,Scenes:,"['scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -4852,7 +4852,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,smg1_reload,,Events:,"['weapon_supersmg.reload', 'weapon_tranq.reload', 'weapon_nailgun.reload']"
+Filename:,smg1_reload,,Events:,"['weapon_nailgun.reload', 'weapon_supersmg.reload', 'weapon_tranq.reload']"
 Full Path:,weapons/smg1/smg1_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4870,7 +4870,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,smg_shoot,,Events:,"['weapon_supersmg.single', 'weapon_smg.single']"
+Filename:,smg_shoot,,Events:,"['weapon_smg.single', 'weapon_supersmg.single']"
 Full Path:,weapons/smg_shoot.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5122,7 +5122,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,stickybomblauncher_det,,Events:,"['weapon_stickybomblauncher.modeswitch', 'weapon_grenadelauncher.modeswitch', 'weapon_flaregun.modeswitch']"
+Filename:,stickybomblauncher_det,,Events:,"['weapon_flaregun.modeswitch', 'weapon_grenadelauncher.modeswitch', 'weapon_stickybomblauncher.modeswitch']"
 Full Path:,weapons/stickybomblauncher_det.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5476,20 +5476,20 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,weapon_crit_charged_off,,Events:,"['tfplayer.megahealoff', 'tfplayer.critboostoff', 'democharge.chargecritoff']"
+Filename:,weapon_crit_charged_off,,Events:,"['democharge.chargecritoff', 'tfplayer.critboostoff', 'tfplayer.megahealoff']"
 Full Path:,weapons/weapon_crit_charged_off.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,weapon_crit_charged_on,,Events:,"['medic_tauntdoctors_defibrillators_weapon_crit_charged_on', 'democharge.chargecriton', 'tfplayer.critbooston', 'tfplayer.megahealon']"
+Filename:,weapon_crit_charged_on,,Events:,"['democharge.chargecriton', 'medic_tauntdoctors_defibrillators_weapon_crit_charged_on', 'tfplayer.critbooston', 'tfplayer.megahealon']"
 Full Path:,weapons/weapon_crit_charged_on.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,weapon_inspect_movement1,,Events:,['weaponinspect.movement1']
-Full Path:,weapons/weapon_inspect_movement1.wav,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/workshop/player/heavy/low/taunt_flying_colors.vcd']"
+Full Path:,weapons/weapon_inspect_movement1.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/pyro/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]

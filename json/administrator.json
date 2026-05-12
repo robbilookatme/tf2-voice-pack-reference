@@ -33,8 +33,8 @@
         "base_name": "announcer_am_capenabled01",
         "criteria": [],
         "events": [
-            "announcer.am_capenabledrandom",
-            "announcer.am_capenabled01"
+            "announcer.am_capenabled01",
+            "announcer.am_capenabledrandom"
         ],
         "responses": [],
         "rules": [],
@@ -59,8 +59,8 @@
         "base_name": "announcer_am_capenabled03",
         "criteria": [],
         "events": [
-            "announcer.am_capenabledrandom",
-            "announcer.am_capenabled03"
+            "announcer.am_capenabled03",
+            "announcer.am_capenabledrandom"
         ],
         "responses": [],
         "rules": [],
@@ -157,8 +157,8 @@
         "base_name": "announcer_am_firstblood01",
         "criteria": [],
         "events": [
-            "announcer.am_firstbloodrandom",
-            "announcer.am_firstblood01"
+            "announcer.am_firstblood01",
+            "announcer.am_firstbloodrandom"
         ],
         "responses": [],
         "rules": [],
@@ -196,8 +196,8 @@
         "base_name": "announcer_am_firstblood04",
         "criteria": [],
         "events": [
-            "announcer.am_firstbloodrandom",
-            "announcer.am_firstblood04"
+            "announcer.am_firstblood04",
+            "announcer.am_firstbloodrandom"
         ],
         "responses": [],
         "rules": [],
@@ -209,8 +209,8 @@
         "base_name": "announcer_am_firstblood05",
         "criteria": [],
         "events": [
-            "announcer.am_firstbloodrandom",
-            "announcer.am_firstblood05"
+            "announcer.am_firstblood05",
+            "announcer.am_firstbloodrandom"
         ],
         "responses": [],
         "rules": [],
@@ -235,8 +235,8 @@
         "base_name": "announcer_am_flawlessdefeat01",
         "criteria": [],
         "events": [
-            "announcer.am_flawlessdefeatrandom",
-            "announcer.am_flawlessdefeat01"
+            "announcer.am_flawlessdefeat01",
+            "announcer.am_flawlessdefeatrandom"
         ],
         "responses": [],
         "rules": [],
@@ -248,8 +248,8 @@
         "base_name": "announcer_am_flawlessdefeat02",
         "criteria": [],
         "events": [
-            "announcer.am_flawlessdefeatrandom",
-            "announcer.am_flawlessdefeat02"
+            "announcer.am_flawlessdefeat02",
+            "announcer.am_flawlessdefeatrandom"
         ],
         "responses": [],
         "rules": [],
@@ -261,8 +261,8 @@
         "base_name": "announcer_am_flawlessdefeat03",
         "criteria": [],
         "events": [
-            "announcer.am_flawlessdefeatrandom",
-            "announcer.am_flawlessdefeat03"
+            "announcer.am_flawlessdefeat03",
+            "announcer.am_flawlessdefeatrandom"
         ],
         "responses": [],
         "rules": [],
@@ -274,8 +274,8 @@
         "base_name": "announcer_am_flawlessdefeat04",
         "criteria": [],
         "events": [
-            "announcer.am_flawlessdefeatrandom",
-            "announcer.am_flawlessdefeat04"
+            "announcer.am_flawlessdefeat04",
+            "announcer.am_flawlessdefeatrandom"
         ],
         "responses": [],
         "rules": [],
@@ -287,8 +287,8 @@
         "base_name": "announcer_am_flawlessvictory01",
         "criteria": [],
         "events": [
-            "announcer.am_flawlessvictoryrandom",
-            "announcer.am_flawlessvictory01"
+            "announcer.am_flawlessvictory01",
+            "announcer.am_flawlessvictoryrandom"
         ],
         "responses": [],
         "rules": [],
@@ -398,8 +398,8 @@
         "base_name": "announcer_am_killstreak02",
         "criteria": [],
         "events": [
-            "announcer.trkilltargetrandom",
-            "announcer.am_killstreak02"
+            "announcer.am_killstreak02",
+            "announcer.trkilltargetrandom"
         ],
         "responses": [],
         "rules": [],
@@ -411,8 +411,8 @@
         "base_name": "announcer_am_killstreak03",
         "criteria": [],
         "events": [
-            "announcer.trkilltargetrandom",
-            "announcer.am_killstreak03"
+            "announcer.am_killstreak03",
+            "announcer.trkilltargetrandom"
         ],
         "responses": [],
         "rules": [],
@@ -424,8 +424,8 @@
         "base_name": "announcer_am_killstreak04",
         "criteria": [],
         "events": [
-            "announcer.trkilltargetrandom",
-            "announcer.am_killstreak04"
+            "announcer.am_killstreak04",
+            "announcer.trkilltargetrandom"
         ],
         "responses": [],
         "rules": [],
@@ -449,8 +449,8 @@
         "base_name": "announcer_am_killstreak06",
         "criteria": [],
         "events": [
-            "announcer.trkilltargetrandom",
-            "announcer.am_killstreak06"
+            "announcer.am_killstreak06",
+            "announcer.trkilltargetrandom"
         ],
         "responses": [],
         "rules": [],
@@ -486,8 +486,8 @@
         "base_name": "announcer_am_killstreak09",
         "criteria": [],
         "events": [
-            "announcer.trkilltargetrandom",
-            "announcer.am_killstreak09"
+            "announcer.am_killstreak09",
+            "announcer.trkilltargetrandom"
         ],
         "responses": [],
         "rules": [],
@@ -620,8 +620,8 @@
         "base_name": "announcer_am_roundstart01",
         "criteria": [],
         "events": [
-            "announcer.am_roundstartrandom",
-            "announcer.am_roundstart01"
+            "announcer.am_roundstart01",
+            "announcer.am_roundstartrandom"
         ],
         "responses": [],
         "rules": [],
@@ -658,8 +658,8 @@
         "base_name": "announcer_am_roundstart04",
         "criteria": [],
         "events": [
-            "announcer.am_roundstartrandom",
-            "announcer.am_roundstart04"
+            "announcer.am_roundstart04",
+            "announcer.am_roundstartrandom"
         ],
         "responses": [],
         "rules": [],
@@ -671,8 +671,8 @@
         "base_name": "announcer_am_teamscramble01",
         "criteria": [],
         "events": [
-            "announcer.am_teamscramblerandom",
-            "announcer.am_teamscramble01"
+            "announcer.am_teamscramble01",
+            "announcer.am_teamscramblerandom"
         ],
         "responses": [],
         "rules": [],
@@ -684,8 +684,8 @@
         "base_name": "announcer_am_teamscramble02",
         "criteria": [],
         "events": [
-            "announcer.am_teamscramblerandom",
-            "announcer.am_teamscramble02"
+            "announcer.am_teamscramble02",
+            "announcer.am_teamscramblerandom"
         ],
         "responses": [],
         "rules": [],
@@ -697,8 +697,8 @@
         "base_name": "announcer_am_teamscramble03",
         "criteria": [],
         "events": [
-            "announcer.am_teamscramblerandom",
-            "announcer.am_teamscramble03"
+            "announcer.am_teamscramble03",
+            "announcer.am_teamscramblerandom"
         ],
         "responses": [],
         "rules": [],
@@ -1506,8 +1506,8 @@
         "base_name": "announcer_control_point_warning2",
         "criteria": [],
         "events": [
-            "announcer.controlpointcontested_neutral",
-            "announcer.controlpointcontested"
+            "announcer.controlpointcontested",
+            "announcer.controlpointcontested_neutral"
         ],
         "responses": [],
         "rules": [],
@@ -1519,8 +1519,8 @@
         "base_name": "announcer_control_point_warning3",
         "criteria": [],
         "events": [
-            "announcer.controlpointcontested_neutral",
-            "announcer.controlpointcontested"
+            "announcer.controlpointcontested",
+            "announcer.controlpointcontested_neutral"
         ],
         "responses": [],
         "rules": [],
@@ -3923,8 +3923,8 @@
         "base_name": "announcer_time_awarded",
         "criteria": [],
         "events": [
-            "announcer.timeawardedforteam",
-            "announcer.timeawarded"
+            "announcer.timeawarded",
+            "announcer.timeawardedforteam"
         ],
         "responses": [],
         "rules": [],
@@ -4964,8 +4964,8 @@
         "base_name": "cm_admin_compbeginsstart_05",
         "criteria": [],
         "events": [
-            "announcer.compgamebeginsfight",
-            "announcer.compfinalgamebeginsfight"
+            "announcer.compfinalgamebeginsfight",
+            "announcer.compgamebeginsfight"
         ],
         "responses": [],
         "rules": [],
@@ -6549,9 +6549,9 @@
         "base_name": "intel_enemydropped",
         "criteria": [],
         "events": [
-            "resource.enemydropped",
             "captureflag.enemydropped",
-            "mvm.attackdefend.enemydropped"
+            "mvm.attackdefend.enemydropped",
+            "resource.enemydropped"
         ],
         "responses": [],
         "rules": [],
@@ -6563,9 +6563,9 @@
         "base_name": "intel_enemydropped2",
         "criteria": [],
         "events": [
-            "resource.enemydropped",
             "captureflag.enemydropped",
-            "mvm.attackdefend.enemydropped"
+            "mvm.attackdefend.enemydropped",
+            "resource.enemydropped"
         ],
         "responses": [],
         "rules": [],
@@ -6577,8 +6577,8 @@
         "base_name": "intel_enemyreturned",
         "criteria": [],
         "events": [
-            "resource.enemyreturned",
-            "captureflag.enemyreturned"
+            "captureflag.enemyreturned",
+            "resource.enemyreturned"
         ],
         "responses": [],
         "rules": [],
@@ -6590,8 +6590,8 @@
         "base_name": "intel_enemyreturned2",
         "criteria": [],
         "events": [
-            "resource.enemyreturned",
-            "captureflag.enemyreturned"
+            "captureflag.enemyreturned",
+            "resource.enemyreturned"
         ],
         "responses": [],
         "rules": [],
@@ -6603,8 +6603,8 @@
         "base_name": "intel_enemyreturned3",
         "criteria": [],
         "events": [
-            "resource.enemyreturned",
-            "captureflag.enemyreturned"
+            "captureflag.enemyreturned",
+            "resource.enemyreturned"
         ],
         "responses": [],
         "rules": [],
@@ -6617,8 +6617,8 @@
         "criteria": [],
         "events": [
             "captureflag.enemystolen",
-            "resource.enemystolen",
-            "mvm.attackdefend.enemystolen"
+            "mvm.attackdefend.enemystolen",
+            "resource.enemystolen"
         ],
         "responses": [],
         "rules": [],
@@ -6631,8 +6631,8 @@
         "criteria": [],
         "events": [
             "captureflag.enemystolen",
-            "resource.enemystolen",
-            "mvm.attackdefend.enemystolen"
+            "mvm.attackdefend.enemystolen",
+            "resource.enemystolen"
         ],
         "responses": [],
         "rules": [],
@@ -6645,8 +6645,8 @@
         "criteria": [],
         "events": [
             "captureflag.enemystolen",
-            "resource.enemystolen",
-            "mvm.attackdefend.enemystolen"
+            "mvm.attackdefend.enemystolen",
+            "resource.enemystolen"
         ],
         "responses": [],
         "rules": [],
@@ -6659,8 +6659,8 @@
         "criteria": [],
         "events": [
             "captureflag.enemystolen",
-            "resource.enemystolen",
-            "mvm.attackdefend.enemystolen"
+            "mvm.attackdefend.enemystolen",
+            "resource.enemystolen"
         ],
         "responses": [],
         "rules": [],
@@ -6718,8 +6718,8 @@
         "base_name": "intel_teamdropped",
         "criteria": [],
         "events": [
-            "resource.teamdropped",
-            "captureflag.teamdropped"
+            "captureflag.teamdropped",
+            "resource.teamdropped"
         ],
         "responses": [],
         "rules": [],
@@ -6731,8 +6731,8 @@
         "base_name": "intel_teamdropped2",
         "criteria": [],
         "events": [
-            "resource.teamdropped",
-            "captureflag.teamdropped"
+            "captureflag.teamdropped",
+            "resource.teamdropped"
         ],
         "responses": [],
         "rules": [],
@@ -6757,8 +6757,8 @@
         "base_name": "intel_teamstolen",
         "criteria": [],
         "events": [
-            "resource.teamstolen",
-            "captureflag.teamstolen"
+            "captureflag.teamstolen",
+            "resource.teamstolen"
         ],
         "responses": [],
         "rules": [],
@@ -8998,9 +8998,9 @@
         "base_name": "mvm_wave_lose01",
         "criteria": [],
         "events": [
+            "announcer.mvm_robots_planted",
             "announcer.mvm_tank_planted",
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9012,8 +9012,8 @@
         "base_name": "mvm_wave_lose02",
         "criteria": [],
         "events": [
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_robots_planted",
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9038,8 +9038,8 @@
         "base_name": "mvm_wave_lose04",
         "criteria": [],
         "events": [
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_robots_planted",
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9090,8 +9090,8 @@
         "base_name": "mvm_wave_lose08",
         "criteria": [],
         "events": [
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_robots_planted",
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9103,9 +9103,9 @@
         "base_name": "mvm_wave_lose09",
         "criteria": [],
         "events": [
+            "announcer.mvm_robots_planted",
             "announcer.mvm_tank_planted",
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9117,9 +9117,9 @@
         "base_name": "mvm_wave_lose10",
         "criteria": [],
         "events": [
+            "announcer.mvm_robots_planted",
             "announcer.mvm_tank_planted",
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],
@@ -9131,8 +9131,8 @@
         "base_name": "mvm_wave_lose11",
         "criteria": [],
         "events": [
-            "announcer.mvm_wave_lose",
-            "announcer.mvm_robots_planted"
+            "announcer.mvm_robots_planted",
+            "announcer.mvm_wave_lose"
         ],
         "responses": [],
         "rules": [],

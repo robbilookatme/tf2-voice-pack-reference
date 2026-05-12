@@ -48,8 +48,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_gamewon_03"
+            "cm_soldier_gamewon_03",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerGameWinCompSoldier"
@@ -74,8 +74,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_gamewon_04"
+            "cm_soldier_gamewon_04",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerGameWinCompSoldier"
@@ -229,8 +229,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_gamewon_rare_02"
+            "cm_soldier_gamewon_rare_02",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerGameWinCompSoldier"
@@ -332,8 +332,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_gamewon_rare_06"
+            "cm_soldier_gamewon_rare_06",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerGameWinCompSoldier"
@@ -358,8 +358,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_gamewon_rare_07"
+            "cm_soldier_gamewon_rare_07",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerGameWinCompSoldier"
@@ -711,8 +711,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamefirst_03"
+            "cm_soldier_pregamefirst_03",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerFirstRoundStartCompSoldier"
@@ -763,8 +763,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamefirst_05"
+            "cm_soldier_pregamefirst_05",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerFirstRoundStartCompSoldier"
@@ -965,8 +965,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamefirst_comp_02"
+            "cm_soldier_pregamefirst_comp_02",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerFirstRoundStartCompSoldier"
@@ -1141,8 +1141,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamefirst_rare_02"
+            "cm_soldier_pregamefirst_rare_02",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerFirstRoundStartCompSoldier"
@@ -1167,8 +1167,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamefirst_rare_03"
+            "cm_soldier_pregamefirst_rare_03",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerFirstRoundStartCompSoldier"
@@ -1567,8 +1567,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamelostlast_rare_04"
+            "cm_soldier_pregamelostlast_rare_04",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerLostPrevRoundCompSoldier"
@@ -1988,8 +1988,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "cm_soldier_pregamewonlast_rare_04"
+            "cm_soldier_pregamewonlast_rare_04",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerWonPrevRoundCompSoldier"
@@ -2175,9 +2175,9 @@
         "base_name": "cm_soldier_summary_callout_01",
         "criteria": [],
         "events": [
-            "soldier_taunt_commending_clap_b",
             "soldier.comprankup",
-            "soldier.compsummaryscreenoutlier"
+            "soldier.compsummaryscreenoutlier",
+            "soldier_taunt_commending_clap_b"
         ],
         "responses": [
             "Taunt: Commending Clap"
@@ -2395,12 +2395,12 @@
             "soldier.statue"
         ],
         "responses": [
-            "PlayerCapturedPointSoldier",
-            "AwardSoldier"
+            "AwardSoldier",
+            "PlayerCapturedPointSoldier"
         ],
         "rules": [
-            "PlayerCapturedPointSoldier",
-            "AwardSoldier"
+            "AwardSoldier",
+            "PlayerCapturedPointSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1043.vcd"
@@ -2493,14 +2493,14 @@
             ]
         ],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_b",
+            "soldier.autocappedintelligence02",
             "soldier.statue",
-            "soldier.autocappedintelligence02"
+            "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
             "AwardSoldier",
-            "PlayerCappedIntelligenceSoldier"
+            "PlayerCappedIntelligenceSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "AwardSoldier",
@@ -2586,25 +2586,25 @@
         "base_name": "soldier_autodejectedtie03",
         "criteria": [
             [
-                "ConceptPlayerStalemate",
-                "IsSoldier"
-            ],
-            [
                 "ConceptJarateHit",
                 "IsSoldier",
                 "50PercentChance"
+            ],
+            [
+                "ConceptPlayerStalemate",
+                "IsSoldier"
             ]
         ],
         "events": [
             "soldier.autodejectedtie03"
         ],
         "responses": [
-            "SoldierJarateHit",
-            "PlayerStalemateSoldier"
+            "PlayerStalemateSoldier",
+            "SoldierJarateHit"
         ],
         "rules": [
-            "SoldierJarateHit",
-            "PlayerStalemateSoldier"
+            "PlayerStalemateSoldier",
+            "SoldierJarateHit"
         ],
         "scenes": [
             "scenes/player/soldier/low/1051.vcd"
@@ -2655,8 +2655,8 @@
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "PlayerOnFireRareSoldier"
+            "PlayerOnFireRareSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "PlayerOnFireRareSoldier"
@@ -2699,10 +2699,6 @@
         "base_name": "soldier_battlecry01",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
-                "IsSoldier"
-            ],
-            [
                 "ConceptKilledObject",
                 "IsSoldier",
                 "30PercentChance",
@@ -2711,6 +2707,10 @@
             ],
             [
                 "ConceptPlayerBattleCry",
+                "IsSoldier"
+            ],
+            [
+                "ConceptPlayerRoundStart",
                 "IsSoldier"
             ]
         ],
@@ -2721,21 +2721,21 @@
             "soldier_taunt_tank_spawn"
         ],
         "responses": [
-            "PlayerRoundStartSoldier",
-            "Taunt: Star-Spangled Strategy",
-            "Taunt: Panzer Pants",
+            "PlayerBattleCrySoldier",
             "PlayerKilledObjectSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerRoundStartSoldier",
+            "Taunt: Panzer Pants",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
-            "PlayerRoundStartSoldier",
             "PlayerBattleCrySoldier",
-            "PlayerKilledObjectSoldier"
+            "PlayerKilledObjectSoldier",
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
             "scenes/player/soldier/low/1055.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Charge!"
@@ -2744,25 +2744,25 @@
         "base_name": "soldier_battlecry02",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerBattleCry",
+                "ConceptPlayerRoundStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.battlecry02"
+            "soldier.battlecry02",
+            "soldier.statue"
         ],
         "responses": [
-            "PlayerRoundStartSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier"
         ],
         "rules": [
-            "PlayerRoundStartSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1057.vcd"
@@ -2774,28 +2774,28 @@
         "base_name": "soldier_battlecry03",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerBattleCry",
+                "ConceptPlayerRoundStart",
                 "IsSoldier"
             ]
         ],
         "events": [
             "soldier.battlecry03",
-            "soldier_taunt_star_spangled_strat_vo",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "PlayerRoundStartSoldier",
             "PlayerBattleCrySoldier",
-            "Taunt: Star-Spangled Strategy"
+            "PlayerRoundStartSoldier",
+            "Taunt: Star-Spangled Strategy",
+            "Taunt: The Fist Bump"
         ],
         "rules": [
-            "PlayerRoundStartSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1058.vcd",
@@ -2809,31 +2809,31 @@
         "base_name": "soldier_battlecry04",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerBattleCry",
+                "ConceptPlayerRoundStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
+            "soldier.battlecry04",
             "soldier.statue",
-            "soldier.battlecry04"
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
-            "PlayerRoundStartSoldier",
             "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
-            "PlayerRoundStartSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/1059.vcd"
+            "scenes/player/soldier/low/1059.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Last one alive, lock the door!"
@@ -2842,40 +2842,40 @@
         "base_name": "soldier_battlecry05",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerBattleCry",
+                "ConceptPlayerRoundStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "taunt_yetipunch_soldier_scream",
-            "soldier_taunt_tank_spawn",
             "soldier.battlecry05",
-            "taunt_burstchester_soldier_01",
             "soldier.statue",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "soldier_taunt_tank_spawn",
+            "taunt_burstchester_soldier_01",
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
+            "PlayerBattleCrySoldier",
             "PlayerRoundStartSoldier",
-            "Taunt: Star-Spangled Strategy",
-            "Taunt: Panzer Pants",
             "Taunt: Burstchester",
-            "PlayerBattleCrySoldier"
+            "Taunt: Panzer Pants",
+            "Taunt: Rocket Jockey",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
-            "PlayerRoundStartSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerBattleCrySoldier",
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/player/soldier/low/1056.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Attaaack!"
@@ -2884,19 +2884,11 @@
         "base_name": "soldier_battlecry06",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
-                "IsSoldier"
-            ],
-            [
                 "ConceptKilledPlayer",
                 "IsSoldier",
                 "IsRevenge",
                 "AppliesContext:SoldierKillSpeech:1:10",
                 "AppliesContext:IsDominating:1:10"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "IsSoldier"
             ],
             [
                 "ConceptKilledPlayer",
@@ -2905,41 +2897,49 @@
                 "IsRobotCostume",
                 "AppliesContext:SoldierKillSpeech:1:10",
                 "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsSoldier"
+            ],
+            [
+                "ConceptPlayerRoundStart",
+                "IsSoldier"
             ]
         ],
         "events": [
             "soldier.battlecry06",
-            "taunt_yetipunch_soldier_scream",
-            "soldier_taunt_tank_spawn",
-            "taunt_soldier_aerobic_shared_dance_a",
-            "taunt_burstchester_soldier_01",
             "soldier.statue",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "soldier_taunt_tank_spawn",
+            "taunt_burstchester_soldier_01",
+            "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: Rocket Jockey",
-            "PlayerRoundStartSoldier",
-            "Taunt: Star-Spangled Strategy",
+            "PlayerBattleCrySoldier",
             "PlayerKilledForRevengeRobotSoldier",
-            "Taunt: Panzer Pants",
             "PlayerKilledForRevengeSoldier",
+            "PlayerRoundStartSoldier",
             "Taunt: Burstchester",
-            "PlayerBattleCrySoldier"
+            "Taunt: Mannrobics",
+            "Taunt: Panzer Pants",
+            "Taunt: Rocket Jockey",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
+            "PlayerBattleCrySoldier",
             "PlayerKilledForRevengeRobotSoldier",
-            "PlayerRoundStartSoldier",
             "PlayerKilledForRevengeSoldier",
-            "PlayerBattleCrySoldier"
+            "PlayerRoundStartSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
             "scenes/player/soldier/low/1060.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Heh heh heeeh!"
@@ -3462,12 +3462,12 @@
             ]
         ],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_a",
-            "soldier_cartgoingforwardoffense12"
+            "soldier_cartgoingforwardoffense12",
+            "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "CartMovingForwardOffenseSoldier"
+            "CartMovingForwardOffenseSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "CartMovingForwardOffenseSoldier"
@@ -3525,15 +3525,15 @@
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "CartMovingForwardOffenseSoldier"
+            "CartMovingForwardOffenseSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "CartMovingForwardOffenseSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/7348.vcd"
+            "scenes/player/soldier/low/7348.vcd",
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "Keep pushing!"
@@ -3913,30 +3913,30 @@
                 "AppliesContext:IsDominating:1:10"
             ],
             [
-                "ConceptPlayerCheers",
-                "IsSoldier"
-            ],
-            [
                 "ConceptKilledPlayer",
                 "IsSoldier",
                 "IsRevenge",
                 "IsRobotCostume",
                 "AppliesContext:SoldierKillSpeech:1:10",
                 "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerCheers",
+                "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.cheers01"
+            "soldier.cheers01",
+            "soldier.statue"
         ],
         "responses": [
-            "PlayerKilledForRevengeRobotSoldier",
             "PlayerCheersSoldier",
+            "PlayerKilledForRevengeRobotSoldier",
             "PlayerKilledForRevengeSoldier"
         ],
         "rules": [
-            "PlayerKilledForRevengeRobotSoldier",
             "PlayerCheersSoldier",
+            "PlayerKilledForRevengeRobotSoldier",
             "PlayerKilledForRevengeSoldier"
         ],
         "scenes": [
@@ -3978,8 +3978,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.cheers03"
+            "soldier.cheers03",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerCheersSoldier"
@@ -4011,12 +4011,12 @@
             "soldier.statue"
         ],
         "responses": [
-            "PlayerKilledCapperSoldier",
-            "PlayerCheersSoldier"
+            "PlayerCheersSoldier",
+            "PlayerKilledCapperSoldier"
         ],
         "rules": [
-            "PlayerKilledCapperSoldier",
-            "PlayerCheersSoldier"
+            "PlayerCheersSoldier",
+            "PlayerKilledCapperSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1064.vcd"
@@ -4048,37 +4048,37 @@
         ],
         "events": [
             "soldier.cheers05",
-            "soldier_taunt_flag",
-            "soldier_taunt_tank_spawn",
-            "taunt_burstchester_soldier_01",
             "soldier.statue",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_flag",
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "soldier_taunt_tank_spawn",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "AcceptedDuelSoldier",
-            "Taunt: Star-Spangled Strategy",
-            "Taunt: Panzer Pants",
-            "PlayerKilledCapperSoldier",
-            "Taunt: The Fist Bump",
-            "SoldierTauntSecondary",
             "PlayerCheersSoldier",
+            "PlayerKilledCapperSoldier",
+            "SoldierTauntSecondary",
             "Taunt: Burstchester",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Panzer Pants",
+            "Taunt: Star-Spangled Strategy",
+            "Taunt: The Fist Bump"
         ],
         "rules": [
-            "PlayerKilledCapperSoldier",
-            "SoldierTauntPlayerSecondary",
+            "AcceptedDuelSoldier",
             "PlayerCheersSoldier",
-            "AcceptedDuelSoldier"
+            "PlayerKilledCapperSoldier",
+            "SoldierTauntPlayerSecondary"
         ],
         "scenes": [
             "scenes/player/soldier/low/1062.vcd",
-            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
-            "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd",
             "scenes/player/soldier/low/taunt04.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Booyah!"
@@ -4097,27 +4097,27 @@
             ]
         ],
         "events": [
-            "soldier_taunt_neck_snap_intro_01",
             "soldier.cheers06",
-            "taunt_burstchester_soldier_01",
             "soldier.statue",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_neck_snap_intro_01",
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
-            "Taunt: Neck Snap",
-            "Taunt: Star-Spangled Strategy",
-            "PlayerKilledCapperSoldier",
             "PlayerCheersSoldier",
-            "Taunt: Burstchester"
+            "PlayerKilledCapperSoldier",
+            "Taunt: Burstchester",
+            "Taunt: Neck Snap",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
-            "PlayerKilledCapperSoldier",
-            "PlayerCheersSoldier"
+            "PlayerCheersSoldier",
+            "PlayerKilledCapperSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/player/soldier/low/1063.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -4474,8 +4474,8 @@
             "KilledPlayerMeleeSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/3405.vcd"
+            "scenes/player/soldier/low/3405.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Raagh!"
@@ -5608,8 +5608,8 @@
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.dominationscout04"
+            "soldier.dominationscout04",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerKilledDominatingScoutSoldier"
@@ -6214,8 +6214,8 @@
             "PlayerKilledDominatingSoldierSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/3472.vcd"
+            "scenes/player/soldier/low/3472.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "Dominated, hippie, get a job!"
@@ -6341,8 +6341,8 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_01",
-            "soldier.dominationsoldier06"
+            "soldier.dominationsoldier06",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "PlayerKilledDominatingSoldierSoldier",
@@ -6352,8 +6352,8 @@
             "PlayerKilledDominatingSoldierSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/3477.vcd"
+            "scenes/player/soldier/low/3477.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "You're a disgrace to the uniform."
@@ -6624,11 +6624,11 @@
         "base_name": "soldier_go03",
         "criteria": [
             [
-                "ConceptRequestDuel",
+                "ConceptPlayerGo",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerGo",
+                "ConceptRequestDuel",
                 "IsSoldier"
             ]
         ],
@@ -6636,13 +6636,13 @@
             "soldier.go03"
         ],
         "responses": [
+            "MeleeDareSoldier",
             "PlayerGoSoldier",
-            "Taunt: The High Five!",
-            "MeleeDareSoldier"
+            "Taunt: The High Five!"
         ],
         "rules": [
-            "PlayerGoSoldier",
-            "MeleeDareSoldier"
+            "MeleeDareSoldier",
+            "PlayerGoSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1094.vcd",
@@ -6690,8 +6690,8 @@
             ]
         ],
         "events": [
-            "soldier_taunt_commending_clap_a",
-            "soldier.goodjob02"
+            "soldier.goodjob02",
+            "soldier_taunt_commending_clap_a"
         ],
         "responses": [
             "PlayerGoodJobSoldier",
@@ -6703,8 +6703,8 @@
             "PlayerKilledForRevengeSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd",
-            "scenes/player/soldier/low/1096.vcd"
+            "scenes/player/soldier/low/1096.vcd",
+            "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
         "transcript": "Outstanding!"
@@ -6775,8 +6775,8 @@
         "base_name": "soldier_hat_taunts17",
         "criteria": [],
         "events": [
-            "soldier_hat_taunts17",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_hat_taunts17"
         ],
         "responses": [],
         "rules": [],
@@ -6788,8 +6788,8 @@
         "base_name": "soldier_hat_taunts18",
         "criteria": [],
         "events": [
-            "soldier_hat_taunts18",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_hat_taunts18"
         ],
         "responses": [],
         "rules": [],
@@ -6824,23 +6824,23 @@
             ]
         ],
         "events": [
-            "taunt_yetipunch_soldier_end",
-            "taunt_maggots_condolence_soldier",
+            "soldier.hatoverhearttaunt01",
             "taunt_burstchester_soldier_02",
-            "soldier.hatoverhearttaunt01"
+            "taunt_maggots_condolence_soldier",
+            "taunt_yetipunch_soldier_end"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
             "KilledDemomanSoldier",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/player/soldier/low/3486.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/3486.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
         ],
         "state": "used",
         "transcript": "You will not be missed."
@@ -6849,6 +6849,10 @@
         "base_name": "soldier_hatoverhearttaunt02",
         "criteria": [
             [
+                "ConceptDuelRejected",
+                "IsSoldier"
+            ],
+            [
                 "ConceptKilledPlayer",
                 "KilledPlayerDelay",
                 "IsVictimDemoman",
@@ -6856,23 +6860,19 @@
                 "SoldierNotKillSpeech",
                 "IsSoldier",
                 "AppliesContext:SoldierKillSpeech:1:10"
-            ],
-            [
-                "ConceptDuelRejected",
-                "IsSoldier"
             ]
         ],
         "events": [
-            "taunt_maggots_condolence_soldier",
             "soldier.hatoverhearttaunt02",
             "taunt_burstchester_soldier_02",
+            "taunt_maggots_condolence_soldier",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
-            "Taunt: Burstchester",
             "KilledDemomanSoldier",
-            "RejectedDuelSoldier"
+            "RejectedDuelSoldier",
+            "Taunt: Burstchester",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier",
@@ -6905,8 +6905,8 @@
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
-            "KilledDemomanSoldier"
+            "KilledDemomanSoldier",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier"
@@ -6932,19 +6932,19 @@
             ]
         ],
         "events": [
-            "taunt_maggots_condolence_soldier",
-            "soldier.hatoverhearttaunt04"
+            "soldier.hatoverhearttaunt04",
+            "taunt_maggots_condolence_soldier"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
-            "KilledDemomanSoldier"
+            "KilledDemomanSoldier",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
-            "scenes/player/soldier/low/3489.vcd"
+            "scenes/player/soldier/low/3489.vcd",
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
         ],
         "state": "used",
         "transcript": "You're dead, that's good, amen."
@@ -6963,20 +6963,20 @@
             ]
         ],
         "events": [
-            "taunt_maggots_condolence_soldier",
             "soldier.hatoverhearttaunt05",
+            "taunt_maggots_condolence_soldier",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
-            "KilledDemomanSoldier"
+            "KilledDemomanSoldier",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
-            "scenes/player/soldier/low/3490.vcd"
+            "scenes/player/soldier/low/3490.vcd",
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
         ],
         "state": "used",
         "transcript": "Godspeed, you magnificent bastard."
@@ -6995,14 +6995,14 @@
             ]
         ],
         "events": [
-            "taunt_maggots_condolence_soldier",
+            "soldier.hatoverhearttaunt06",
             "taunt_burstchester_soldier_02",
-            "soldier.hatoverhearttaunt06"
+            "taunt_maggots_condolence_soldier"
         ],
         "responses": [
-            "Taunt: Soldier's Requiem",
             "KilledDemomanSoldier",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Soldier's Requiem"
         ],
         "rules": [
             "KilledDemomanSoldier"
@@ -7065,6 +7065,10 @@
         "base_name": "soldier_headleft03",
         "criteria": [
             [
+                "ConceptPlayerLeft",
+                "IsSoldier"
+            ],
+            [
                 "ConceptPlayerTaunt",
                 "IsSoldier",
                 "WeaponIsRocket"
@@ -7073,10 +7077,6 @@
                 "ConceptPlayerTaunt",
                 "IsSoldier",
                 "WeaponIsRocketLauncherAirStrike"
-            ],
-            [
-                "ConceptPlayerLeft",
-                "IsSoldier"
             ]
         ],
         "events": [
@@ -7092,8 +7092,8 @@
             "SoldierTauntPlayerPrimary"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt01_v1.vcd",
-            "scenes/player/soldier/low/1099.vcd"
+            "scenes/player/soldier/low/1099.vcd",
+            "scenes/player/soldier/low/taunt01_v1.vcd"
         ],
         "state": "used",
         "transcript": "He-leeeeft housh!"
@@ -7157,15 +7157,15 @@
             "soldier_taunt_flag"
         ],
         "responses": [
-            "Taunt: Flying Colors",
-            "PlayerHeadRightSoldier"
+            "PlayerHeadRightSoldier",
+            "Taunt: Flying Colors"
         ],
         "rules": [
             "PlayerHeadRightSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
-            "scenes/player/soldier/low/1102.vcd"
+            "scenes/player/soldier/low/1102.vcd",
+            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
         "transcript": "Uh-riiiight hoosh!"
@@ -7202,8 +7202,8 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_01",
-            "soldier.helpme02"
+            "soldier.helpme02",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "PlayerHelpSoldier",
@@ -7213,8 +7213,8 @@
             "PlayerHelpSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1105.vcd"
+            "scenes/player/soldier/low/1105.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Need some help here!"
@@ -7422,27 +7422,27 @@
             ]
         ],
         "events": [
+            "soldier.incoming01",
             "soldier_taunt_tank_shoot",
             "taunt_burstchester_soldier_01",
-            "soldier.incoming01",
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
+            "PlayerIncomingSoldier",
+            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "Taunt: Panzer Pants",
-            "Taunt: The Fist Bump",
-            "Taunt: Burstchester",
-            "PlayerIncomingSoldier"
+            "Taunt: The Fist Bump"
         ],
         "rules": [
             "PlayerIncomingSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
             "scenes/player/soldier/low/1114.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd"
         ],
         "state": "used",
         "transcript": "Incoming!"
@@ -8377,8 +8377,8 @@
             ]
         ],
         "events": [
-            "soldier_item_unicorn_domination01",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_item_unicorn_domination01"
         ],
         "responses": [
             "item_unicorn_dominationSoldier"
@@ -8754,15 +8754,15 @@
         "base_name": "soldier_jeers01",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
-                "IsSoldier"
-            ],
-            [
                 "ConceptDuelRejected",
                 "IsSoldier"
             ],
             [
                 "ConceptPlayerJeers",
+                "IsSoldier"
+            ],
+            [
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -8789,11 +8789,11 @@
         "base_name": "soldier_jeers02",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -8818,11 +8818,11 @@
         "base_name": "soldier_jeers03",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -8847,11 +8847,11 @@
         "base_name": "soldier_jeers04",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -8876,11 +8876,11 @@
         "base_name": "soldier_jeers05",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -8898,8 +8898,8 @@
             "PlayerSuddenDeathSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
-            "scenes/player/soldier/low/1124.vcd"
+            "scenes/player/soldier/low/1124.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "You have dishonored this entire unit."
@@ -8908,17 +8908,17 @@
         "base_name": "soldier_jeers06",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier_taunt_can_it_1",
-            "soldier.jeers06"
+            "soldier.jeers06",
+            "soldier_taunt_can_it_1"
         ],
         "responses": [
             "PlayerJeersSoldier",
@@ -8930,8 +8930,8 @@
             "PlayerSuddenDeathSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1125.vcd"
+            "scenes/player/soldier/low/1125.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are the sorriest excuses for soldiers I have ever seen!"
@@ -8940,17 +8940,17 @@
         "base_name": "soldier_jeers07",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.jeers07"
+            "soldier.jeers07",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerJeersSoldier",
@@ -8970,17 +8970,17 @@
         "base_name": "soldier_jeers08",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.jeers08"
+            "soldier.jeers08",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerJeersSoldier",
@@ -9000,11 +9000,11 @@
         "base_name": "soldier_jeers09",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -9029,17 +9029,17 @@
         "base_name": "soldier_jeers10",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.statue",
-            "soldier.jeers10"
+            "soldier.jeers10",
+            "soldier.statue"
         ],
         "responses": [
             "PlayerJeersSoldier",
@@ -9059,11 +9059,11 @@
         "base_name": "soldier_jeers11",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -9088,11 +9088,11 @@
         "base_name": "soldier_jeers12",
         "criteria": [
             [
-                "ConceptPlayerSuddenDeathStart",
+                "ConceptPlayerJeers",
                 "IsSoldier"
             ],
             [
-                "ConceptPlayerJeers",
+                "ConceptPlayerSuddenDeathStart",
                 "IsSoldier"
             ]
         ],
@@ -9139,8 +9139,8 @@
             "SpreeMedicSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
-            "scenes/player/soldier/low/3492.vcd"
+            "scenes/player/soldier/low/3492.vcd",
+            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd"
         ],
         "state": "used",
         "transcript": "Blammo!"
@@ -9160,9 +9160,9 @@
             ]
         ],
         "events": [
-            "soldier_taunt_tank_shoot",
             "soldier.kaboomalts02",
-            "soldier_taunt_neck_snap_02"
+            "soldier_taunt_neck_snap_02",
+            "soldier_taunt_tank_shoot"
         ],
         "responses": [
             "SpreeMedicSoldier",
@@ -9173,9 +9173,9 @@
             "SpreeMedicSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
             "scenes/player/soldier/low/3493.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Boom!"
@@ -9195,24 +9195,24 @@
             ]
         ],
         "events": [
-            "soldier_taunt_tank_shoot",
             "soldier.kaboomalts03",
-            "soldier_taunt_neck_snap_02"
+            "soldier_taunt_neck_snap_02",
+            "soldier_taunt_tank_shoot"
         ],
         "responses": [
+            "SpreeMedicSoldier",
             "Taunt: Neck Snap",
-            "Taunt: Second Rate Sorcery",
-            "Taunt: The High Five!",
             "Taunt: Panzer Pants",
-            "SpreeMedicSoldier"
+            "Taunt: Second Rate Sorcery",
+            "Taunt: The High Five!"
         ],
         "rules": [
             "SpreeMedicSoldier"
         ],
         "scenes": [
+            "scenes/player/soldier/low/3494.vcd",
             "scenes/player/soldier/low/taunt_hi5_a.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
-            "scenes/player/soldier/low/3494.vcd",
             "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
@@ -9232,22 +9232,22 @@
         ],
         "events": [
             "soldier.laughevil01",
-            "taunt_yeti_soldier",
+            "taunt.bearhug_soldier_b",
             "taunt_killer_joke_soldier",
-            "taunt.bearhug_soldier_b"
+            "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Killer Joke",
+            "PlayerKilledDominatingSoldier",
             "Taunt: Bear Hug",
-            "PlayerKilledDominatingSoldier"
+            "Taunt: Killer Joke"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/player/soldier/low/1132.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter 1)"
@@ -9266,24 +9266,24 @@
         "events": [
             "soldier.laughevil02",
             "soldier_taunt_neck_snap_03",
-            "taunt_yeti_soldier",
+            "taunt_killer_joke_soldier",
             "taunt_soldier_aerobic_shared_dance_a",
-            "taunt_killer_joke_soldier"
+            "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Mannrobics",
+            "PlayerKilledDominatingSoldier",
             "Taunt: Killer Joke",
-            "Taunt: Neck Snap",
-            "PlayerKilledDominatingSoldier"
+            "Taunt: Mannrobics",
+            "Taunt: Neck Snap"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/player/soldier/low/1346.vcd",
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter 2)"
@@ -9300,26 +9300,26 @@
             ]
         ],
         "events": [
-            "soldier_taunt_tank_shoot",
             "soldier.laughevil03",
+            "soldier_taunt_tank_shoot",
+            "taunt_killer_joke_soldier",
             "taunt_soldier_aerobic_shared_dance_b",
-            "taunt_yeti_soldier",
-            "taunt_killer_joke_soldier"
+            "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Mannrobics",
+            "PlayerKilledDominatingSoldier",
             "Taunt: Killer Joke",
-            "Taunt: Panzer Pants",
-            "PlayerKilledDominatingSoldier"
+            "Taunt: Mannrobics",
+            "Taunt: Panzer Pants"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/player/soldier/low/1348.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
+            "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter 3)"
@@ -9340,8 +9340,8 @@
             "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "PlayerKilledDominatingSoldier"
+            "PlayerKilledDominatingSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
@@ -9370,19 +9370,19 @@
             "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: Kazotsky Kick",
+            "PlayerKilledDominatingSoldier",
             "Taunt: Bear Hug",
-            "PlayerKilledDominatingSoldier"
+            "Taunt: Kazotsky Kick",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_russian.vcd",
+            "scenes/player/soldier/low/1134.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
-            "scenes/player/soldier/low/1134.vcd"
+            "scenes/player/soldier/low/taunt_russian.vcd",
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter 2)"
@@ -9410,10 +9410,10 @@
             "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: Kazotsky Kick",
             "AwardSoldier",
-            "PlayerKilledDominatingSoldier"
+            "PlayerKilledDominatingSoldier",
+            "Taunt: Kazotsky Kick",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "AwardSoldier",
@@ -9421,8 +9421,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1347.vcd",
-            "scenes/player/soldier/low/taunt_russian.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter 3)"
@@ -9430,36 +9430,6 @@
     "vo/soldier_laughlong01.mp3": {
         "base_name": "soldier_laughlong01",
         "criteria": [
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsBanner"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsFestiveBanner"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsSashimono"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsRayGun"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsBackup"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsSaxxy"
-            ],
             [
                 "ConceptAchievementAward",
                 "IsSoldier",
@@ -9473,6 +9443,36 @@
                 "IsDominated",
                 "AppliesContext:SoldierKillSpeech:1:10",
                 "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsBackup"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsBanner"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsFestiveBanner"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsRayGun"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsSashimono"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsSaxxy"
             ]
         ],
         "events": [
@@ -9480,17 +9480,17 @@
             "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "SoldierTauntBanner",
-            "AwardSoldier",
-            "PlayerKilledDominatingSoldier"
-        ],
-        "rules": [
-            "SoldierTauntFestiveBanner",
-            "SoldierTauntBanner",
-            "SoldierTauntBackup",
             "AwardSoldier",
             "PlayerKilledDominatingSoldier",
+            "SoldierTauntBanner",
+            "Taunt: Mannrobics"
+        ],
+        "rules": [
+            "AwardSoldier",
+            "PlayerKilledDominatingSoldier",
+            "SoldierTauntBackup",
+            "SoldierTauntBanner",
+            "SoldierTauntFestiveBanner",
             "SoldierTauntRayGun",
             "SoldierTauntSashimono",
             "SoldierTauntSaxxy"
@@ -9512,19 +9512,19 @@
             ]
         ],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_a",
-            "soldier.laughlong02"
+            "soldier.laughlong02",
+            "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "PlayerTauntsSoldier"
+            "PlayerTauntsSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/1136.vcd"
+            "scenes/player/soldier/low/1136.vcd",
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "Long laughing"
@@ -9533,8 +9533,11 @@
         "base_name": "soldier_laughlong03",
         "criteria": [
             [
-                "ConceptTauntLaugh",
-                "IsSoldier"
+                "ConceptKilledPlayer",
+                "IsSoldier",
+                "IsDominated",
+                "AppliesContext:SoldierKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
             ],
             [
                 "ConceptPlayerTaunt",
@@ -9542,11 +9545,8 @@
                 "IsSoldier"
             ],
             [
-                "ConceptKilledPlayer",
-                "IsSoldier",
-                "IsDominated",
-                "AppliesContext:SoldierKillSpeech:1:10",
-                "AppliesContext:IsDominating:1:10"
+                "ConceptTauntLaugh",
+                "IsSoldier"
             ]
         ],
         "events": [
@@ -9554,20 +9554,20 @@
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: The Schadenfreude",
             "PlayerKilledDominatingSoldier",
-            "SoldierTauntLaugh"
+            "SoldierTauntLaugh",
+            "Taunt: Mannrobics",
+            "Taunt: The Schadenfreude"
         ],
         "rules": [
-            "SoldierTauntAprilFools",
             "PlayerKilledDominatingSoldier",
+            "SoldierTauntAprilFools",
             "SoldierTauntLaugh"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt_laugh.vcd",
+            "scenes/player/soldier/low/1349.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/1349.vcd"
+            "scenes/player/soldier/low/taunt_laugh.vcd"
         ],
         "state": "used",
         "transcript": "(Long, wheezing laughter)"
@@ -9581,25 +9581,25 @@
             ]
         ],
         "events": [
-            "taunt_yeti_soldier",
-            "soldier_taunt_the_final_score_soldier_soldier_laughshort01",
             "soldier.laughshort01",
-            "taunt_soldier_aerobic_shared_dance_b"
+            "soldier_taunt_the_final_score_soldier_soldier_laughshort01",
+            "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Mannrobics",
             "PlayerTauntsSoldier",
-            "Taunt: The Profane Puppeteer",
-            "Taunt: The Final Score"
+            "Taunt: Mannrobics",
+            "Taunt: The Final Score",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
+            "scenes/player/soldier/low/1137.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/1137.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh"
@@ -9617,8 +9617,8 @@
             "soldier_taunt_commending_clap_b"
         ],
         "responses": [
-            "Taunt: Commending Clap",
-            "PlayerTauntsSoldier"
+            "PlayerTauntsSoldier",
+            "Taunt: Commending Clap"
         ],
         "rules": [
             "PlayerPositiveSoldier"
@@ -9662,21 +9662,21 @@
             ]
         ],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_b",
-            "soldier.laughshort04"
+            "soldier.laughshort04",
+            "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
+            "PlayerTauntsSoldier",
             "Taunt: Mannrobics",
-            "Taunt: Second Rate Sorcery",
-            "PlayerTauntsSoldier"
+            "Taunt: Second Rate Sorcery"
         ],
         "rules": [
             "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd",
+            "scenes/player/soldier/low/1352.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/1352.vcd"
+            "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh 4"
@@ -9825,8 +9825,8 @@
         "events": [
             "soldier.ready",
             "soldier.readycomp",
-            "soldier_mvm_ask_ready01",
-            "soldier.readymvm"
+            "soldier.readymvm",
+            "soldier_mvm_ask_ready01"
         ],
         "responses": [],
         "rules": [],
@@ -9838,11 +9838,11 @@
         "base_name": "soldier_mvm_ask_ready02",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
-            "soldier.readymvm",
             "soldier.ready",
+            "soldier.readycomp",
+            "soldier.readymvm",
             "soldier_mvm_ask_ready02",
-            "soldier.readycomp"
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
             "Taunt: Star-Spangled Strategy"
@@ -9858,11 +9858,11 @@
         "base_name": "soldier_mvm_ask_ready03",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
-            "soldier.readymvm",
             "soldier.ready",
             "soldier.readycomp",
-            "soldier_mvm_ask_ready03"
+            "soldier.readymvm",
+            "soldier_mvm_ask_ready03",
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
             "Taunt: Star-Spangled Strategy"
@@ -10590,25 +10590,25 @@
         "base_name": "soldier_mvm_loot_common01",
         "criteria": [
             [
-                "ConceptPlayerSpellPickupCommon",
-                "IsSoldier"
-            ],
-            [
                 "ConceptMvMLootCommon",
                 "IsSoldier",
                 "20PercentChance"
+            ],
+            [
+                "ConceptPlayerSpellPickupCommon",
+                "IsSoldier"
             ]
         ],
         "events": [
             "soldier_mvm_loot_common01"
         ],
         "responses": [
-            "SoldierSF13SpellPickupCommon",
-            "SoldierMvMLootCommon"
+            "SoldierMvMLootCommon",
+            "SoldierSF13SpellPickupCommon"
         ],
         "rules": [
-            "SoldierSF13SpellPickupCommon",
-            "SoldierMvMLootCommon"
+            "SoldierMvMLootCommon",
+            "SoldierSF13SpellPickupCommon"
         ],
         "scenes": [
             "scenes/player/soldier/low/7331.vcd"
@@ -10677,8 +10677,8 @@
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "SoldierMvMLootUltraRare"
+            "SoldierMvMLootUltraRare",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "SoldierMvMLootUltraRare"
@@ -10740,11 +10740,11 @@
         "base_name": "soldier_mvm_loot_rare01",
         "criteria": [
             [
-                "ConceptPlayerSpellPickupRare",
+                "ConceptMvMLootRare",
                 "IsSoldier"
             ],
             [
-                "ConceptMvMLootRare",
+                "ConceptPlayerSpellPickupRare",
                 "IsSoldier"
             ]
         ],
@@ -10753,17 +10753,17 @@
             "soldier_mvm_loot_rare01"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
+            "SoldierMvMLootRare",
             "SoldierSF13SpellPickupRare",
-            "SoldierMvMLootRare"
+            "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
-            "SoldierSF13SpellPickupRare",
-            "SoldierMvMLootRare"
+            "SoldierMvMLootRare",
+            "SoldierSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
-            "scenes/player/soldier/low/7333.vcd"
+            "scenes/player/soldier/low/7333.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "Holy Mary, mother of Joseph!"
@@ -10795,11 +10795,11 @@
         "base_name": "soldier_mvm_loot_rare03",
         "criteria": [
             [
-                "ConceptPlayerSpellPickupRare",
+                "ConceptMvMLootRare",
                 "IsSoldier"
             ],
             [
-                "ConceptMvMLootRare",
+                "ConceptPlayerSpellPickupRare",
                 "IsSoldier"
             ]
         ],
@@ -10807,12 +10807,12 @@
             "soldier_mvm_loot_rare03"
         ],
         "responses": [
-            "SoldierSF13SpellPickupRare",
-            "SoldierMvMLootRare"
+            "SoldierMvMLootRare",
+            "SoldierSF13SpellPickupRare"
         ],
         "rules": [
-            "SoldierSF13SpellPickupRare",
-            "SoldierMvMLootRare"
+            "SoldierMvMLootRare",
+            "SoldierSF13SpellPickupRare"
         ],
         "scenes": [
             "scenes/player/soldier/low/7332.vcd"
@@ -10900,8 +10900,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_resurrect01",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_mvm_resurrect01"
         ],
         "responses": [
             "SoldierMvmResurrected"
@@ -10924,8 +10924,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_resurrect02",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_mvm_resurrect02"
         ],
         "responses": [
             "SoldierMvmResurrected"
@@ -10982,8 +10982,8 @@
             "SoldierMvmResurrected"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/7326.vcd"
+            "scenes/player/soldier/low/7326.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Hello again!"
@@ -11090,8 +11090,8 @@
         "events": [
             "soldier.ready",
             "soldier.readycomp",
-            "soldier_mvm_say_ready01",
-            "soldier.readymvm"
+            "soldier.readymvm",
+            "soldier_mvm_say_ready01"
         ],
         "responses": [],
         "rules": [],
@@ -11103,11 +11103,11 @@
         "base_name": "soldier_mvm_say_ready02",
         "criteria": [],
         "events": [
-            "taunt.bearhug_soldier_a",
-            "soldier.readymvm",
             "soldier.ready",
             "soldier.readycomp",
-            "soldier_mvm_say_ready02"
+            "soldier.readymvm",
+            "soldier_mvm_say_ready02",
+            "taunt.bearhug_soldier_a"
         ],
         "responses": [
             "Taunt: Bear Hug"
@@ -11609,8 +11609,8 @@
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "MvMWaveWinSoldier"
+            "MvMWaveWinSoldier",
+            "Taunt: Mannrobics"
         ],
         "rules": [
             "MvMWaveWinSoldier"
@@ -11758,8 +11758,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_wave_end07",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_mvm_wave_end07"
         ],
         "responses": [
             "MvMWaveLoseSoldier"
@@ -11968,19 +11968,19 @@
             "taunt_burstchester_soldier_02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1152.vcd"
+            "scenes/player/soldier/low/1152.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "No...!"
@@ -12002,8 +12002,8 @@
         ],
         "responses": [
             "PlayerLostPointSoldier",
-            "Taunt: The Critical Fail",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "Taunt: The Critical Fail"
         ],
         "rules": [
             "PlayerLostPointSoldier",
@@ -12033,22 +12033,22 @@
             "taunt_burstchester_soldier_02"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "PlayerLostPointSoldier",
             "PlayerNegativeSoldier",
-            "Taunt: Cheers!",
             "Taunt: Burstchester",
-            "Taunt: Peace!"
+            "Taunt: Cheers!",
+            "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery"
         ],
         "rules": [
             "PlayerLostPointSoldier",
             "PlayerNegativeSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
-            "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd",
             "scenes/player/soldier/low/1154.vcd",
+            "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd"
         ],
         "state": "used",
@@ -12075,14 +12075,14 @@
             "soldier.negativevocalization05"
         ],
         "responses": [
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit"
         ],
         "rules": [
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit"
         ],
         "scenes": [
             "scenes/player/soldier/low/1155.vcd"
@@ -12111,14 +12111,14 @@
             "soldier.negativevocalization06"
         ],
         "responses": [
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit"
         ],
         "rules": [
-            "SoldierJarateHit",
             "PlayerLostPointSoldier",
-            "PlayerNegativeSoldier"
+            "PlayerNegativeSoldier",
+            "SoldierJarateHit"
         ],
         "scenes": [
             "scenes/player/soldier/low/1353.vcd"
@@ -12275,29 +12275,29 @@
         ],
         "events": [
             "mvm.playerdiedsoldier",
-            "soldier.paincrticialdeath01",
+            "soldier.critdeath",
             "soldier.meleedeath",
+            "soldier.paincrticialdeath01",
             "soldier.scardy_cat",
             "taunt_burstchester_soldier_01",
-            "taunt_yetipunch_soldier_scream",
-            "soldier.critdeath"
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
-            "Taunt: The Scaredy-Cat!",
-            "Taunt: Burstchester",
             "SoldierTauntMelee",
-            "Taunt: Mourning Mercs"
+            "Taunt: Burstchester",
+            "Taunt: Mourning Mercs",
+            "Taunt: Rocket Jockey",
+            "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
-            "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
             "scenes/player/soldier/low/taunt03_v1.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Dying scream)"
@@ -12312,25 +12312,25 @@
             ]
         ],
         "events": [
-            "sniper_taunt_unleashed_rage_sniper_soldier_paincrticialdeath02",
-            "scout_taunt_unleashed_rage_scout_soldier_paincrticialdeath02",
-            "mvm.playerdiedsoldier",
-            "medic_taunt_unleashed_rage_medic_soldier_paincrticialdeath02",
             "demo_taunt_unleashed_rage_demo_soldier_paincrticialdeath02",
-            "pyro_taunt_unleashed_rage_pyro_soldier_paincrticialdeath02",
-            "soldier.paincrticialdeath02",
             "engineer_taunt_unleashed_rage_engineer_soldier_paincrticialdeath02",
-            "spy_taunt_unleashed_rage_spy_soldier_paincrticialdeath02",
             "heavy_taunt_unleashed_rage_heavy_soldier_paincrticialdeath02",
-            "soldier.meleedeath",
-            "soldier.scardy_cat",
-            "taunt_yetipunch_soldier_scream",
+            "medic_taunt_unleashed_rage_medic_soldier_paincrticialdeath02",
+            "mvm.playerdiedsoldier",
+            "pyro_taunt_unleashed_rage_pyro_soldier_paincrticialdeath02",
+            "scout_taunt_unleashed_rage_scout_soldier_paincrticialdeath02",
+            "sniper_taunt_unleashed_rage_sniper_soldier_paincrticialdeath02",
             "soldier.critdeath",
-            "soldier_taunt_unleashed_rage_soldier_soldier_paincrticialdeath02"
+            "soldier.meleedeath",
+            "soldier.paincrticialdeath02",
+            "soldier.scardy_cat",
+            "soldier_taunt_unleashed_rage_soldier_soldier_paincrticialdeath02",
+            "spy_taunt_unleashed_rage_spy_soldier_paincrticialdeath02",
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
             "SoldierTauntMelee",
+            "Taunt: Rocket Jockey",
             "Taunt: The Scaredy-Cat!",
             "Taunt: Unleashed Rage"
         ],
@@ -12338,9 +12338,9 @@
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/player/soldier/low/taunt03_v3.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd"
         ],
         "state": "used",
@@ -12357,10 +12357,10 @@
         ],
         "events": [
             "mvm.playerdiedsoldier",
-            "soldier.paincrticialdeath03",
+            "soldier.critdeath",
             "soldier.meleedeath",
-            "soldier.scardy_cat",
-            "soldier.critdeath"
+            "soldier.paincrticialdeath03",
+            "soldier.scardy_cat"
         ],
         "responses": [
             "SoldierTauntMelee",
@@ -12370,8 +12370,8 @@
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
-            "scenes/player/soldier/low/taunt03_v4.vcd"
+            "scenes/player/soldier/low/taunt03_v4.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Dying scream)"
@@ -12387,24 +12387,24 @@
         ],
         "events": [
             "mvm.playerdiedsoldier",
-            "soldier.paincrticialdeath04",
+            "soldier.critdeath",
             "soldier.meleedeath",
+            "soldier.paincrticialdeath04",
             "soldier.scardy_cat",
-            "taunt_yetipunch_soldier_scream",
-            "soldier.critdeath"
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
             "SoldierTauntMelee",
+            "Taunt: Rocket Jockey",
             "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
+            "scenes/player/soldier/low/taunt03_v2.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
-            "scenes/player/soldier/low/taunt03_v2.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Dying scream)"
@@ -12419,8 +12419,8 @@
             ]
         ],
         "events": [
-            "soldier.painsevere01",
-            "soldier.death"
+            "soldier.death",
+            "soldier.painsevere01"
         ],
         "responses": [
             "PlayerAttackerPainSoldier"
@@ -12547,8 +12547,8 @@
             ]
         ],
         "events": [
-            "soldier.painsevere06",
             "soldier.death",
+            "soldier.painsevere06",
             "soldier_taunt_neck_snap_07"
         ],
         "responses": [
@@ -12569,22 +12569,22 @@
         "base_name": "soldier_painsharp01",
         "criteria": [
             [
-                "ConceptPain",
-                "IsSoldier",
-                "IsNotDominating"
-            ],
-            [
                 "ConceptFire",
                 "IsSoldier",
                 "SoldierIsStillonFire",
                 "IsNotDominating",
                 "AppliesContext:SoldierOnFire:1:7"
+            ],
+            [
+                "ConceptPain",
+                "IsSoldier",
+                "IsNotDominating"
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_pain",
             "soldier.explosiondeath",
-            "soldier.painsharp01"
+            "soldier.painsharp01",
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12596,9 +12596,9 @@
             "PlayerStillOnFireSoldier"
         ],
         "scenes": [
+            "scenes/player/soldier/low/1168.vcd",
             "scenes/player/soldier/low/1926.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1168.vcd"
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oof!"
@@ -12613,9 +12613,9 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_pain",
             "soldier.explosiondeath",
-            "soldier.painsharp02"
+            "soldier.painsharp02",
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12625,8 +12625,8 @@
             "PlayerPainSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1169.vcd"
+            "scenes/player/soldier/low/1169.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Urg!"
@@ -12635,38 +12635,38 @@
         "base_name": "soldier_painsharp03",
         "criteria": [
             [
-                "ConceptPain",
-                "IsSoldier",
-                "IsNotDominating"
-            ],
-            [
                 "ConceptFire",
                 "IsSoldier",
                 "SoldierIsStillonFire",
                 "IsNotDominating",
                 "AppliesContext:SoldierOnFire:1:7"
+            ],
+            [
+                "ConceptPain",
+                "IsSoldier",
+                "IsNotDominating"
             ]
         ],
         "events": [
+            "soldier.explosiondeath",
             "soldier.painsharp03",
-            "taunt_burstchester_soldier_pain",
-            "soldier.explosiondeath"
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
             "PlayerStillOnFireSoldier",
-            "Taunt: The Critical Fail",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: The Critical Fail"
         ],
         "rules": [
             "PlayerPainSoldier",
             "PlayerStillOnFireSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd",
+            "scenes/player/soldier/low/1170.vcd",
             "scenes/player/soldier/low/1926.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1170.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd"
         ],
         "state": "used",
         "transcript": "Unf!"
@@ -12681,10 +12681,10 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_pain",
-            "soldier_taunt_star_spangled_strat_vo_exert",
+            "soldier.explosiondeath",
             "soldier.painsharp04",
-            "soldier.explosiondeath"
+            "soldier_taunt_star_spangled_strat_vo_exert",
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12706,22 +12706,22 @@
         "base_name": "soldier_painsharp05",
         "criteria": [
             [
-                "ConceptPain",
-                "IsSoldier",
-                "IsNotDominating"
-            ],
-            [
                 "ConceptFire",
                 "IsSoldier",
                 "SoldierIsStillonFire",
                 "IsNotDominating",
                 "AppliesContext:SoldierOnFire:1:7"
+            ],
+            [
+                "ConceptPain",
+                "IsSoldier",
+                "IsNotDominating"
             ]
         ],
         "events": [
+            "soldier.explosiondeath",
             "soldier.painsharp05",
-            "taunt_burstchester_soldier_pain",
-            "soldier.explosiondeath"
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12733,8 +12733,8 @@
             "PlayerStillOnFireSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/1926.vcd",
             "scenes/player/soldier/low/1375.vcd",
+            "scenes/player/soldier/low/1926.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -12750,10 +12750,10 @@
             ]
         ],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
-            "taunt_burstchester_soldier_pain",
             "soldier.explosiondeath",
-            "soldier.painsharp06"
+            "soldier.painsharp06",
+            "soldier_taunt_star_spangled_strat_vo_exert",
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12781,10 +12781,10 @@
             ]
         ],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
-            "taunt_burstchester_soldier_pain",
             "soldier.explosiondeath",
-            "soldier.painsharp07"
+            "soldier.painsharp07",
+            "soldier_taunt_star_spangled_strat_vo_exert",
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12795,8 +12795,8 @@
             "PlayerPainSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/player/soldier/low/1377.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -12812,9 +12812,9 @@
             ]
         ],
         "events": [
+            "soldier.explosiondeath",
             "soldier.painsharp08",
-            "taunt_burstchester_soldier_pain",
-            "soldier.explosiondeath"
+            "taunt_burstchester_soldier_pain"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12845,23 +12845,23 @@
         ],
         "events": [
             "soldier.pickaxetaunt01",
-            "taunt_yetipunch_soldier_jeers",
+            "soldier_taunt_neck_snap_intro_02",
             "taunt_burstchester_soldier_01",
-            "soldier_taunt_neck_snap_intro_02"
+            "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
             "MedicFollowSoldier",
-            "Taunt: Peace!",
+            "Taunt: Burstchester",
             "Taunt: Neck Snap",
-            "Taunt: Burstchester"
+            "Taunt: Peace!"
         ],
         "rules": [
             "MedicFollowSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
             "scenes/player/soldier/low/3495.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd"
         ],
         "state": "used",
@@ -12881,22 +12881,22 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_01",
             "soldier.pickaxetaunt02",
-            "soldier_taunt_neck_snap_intro_02"
+            "soldier_taunt_neck_snap_intro_02",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "MedicFollowSoldier",
-            "Taunt: Neck Snap",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Neck Snap"
         ],
         "rules": [
             "MedicFollowSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
+            "scenes/player/soldier/low/3496.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/3496.vcd"
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
         "state": "used",
         "transcript": "C'mere, sister."
@@ -12916,21 +12916,21 @@
         ],
         "events": [
             "soldier.pickaxetaunt03",
-            "taunt_burstchester_soldier_01",
-            "soldier_taunt_neck_snap_intro_02"
+            "soldier_taunt_neck_snap_intro_02",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "MedicFollowSoldier",
-            "Taunt: Neck Snap",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Neck Snap"
         ],
         "rules": [
             "MedicFollowSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
+            "scenes/player/soldier/low/3497.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/3497.vcd"
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
         "state": "used",
         "transcript": "C'mere, Sally."
@@ -12951,18 +12951,18 @@
         ],
         "events": [
             "soldier.pickaxetaunt04",
-            "taunt_yetipunch_soldier_jeers",
+            "soldier_taunt_neck_snap_intro_02",
             "taunt_burstchester_soldier_01",
-            "soldier_taunt_neck_snap_intro_02"
+            "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
-            "Taunt: Neck Snap",
             "SoldierTauntPickaxe",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Neck Snap"
         ],
         "rules": [
-            "SoldierTauntEscapePlan",
-            "SoldierTauntEqualizer"
+            "SoldierTauntEqualizer",
+            "SoldierTauntEscapePlan"
         ],
         "scenes": [
             "scenes/player/soldier/low/taunt05.vcd",
@@ -12986,9 +12986,9 @@
             ]
         ],
         "events": [
-            "taunt_yetipunch_soldier_jeers",
+            "soldier.pickaxetaunt05",
             "soldier_taunt_neck_snap_intro_02",
-            "soldier.pickaxetaunt05"
+            "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
             "MedicFollowSoldier",
@@ -12998,8 +12998,8 @@
             "MedicFollowSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
-            "scenes/player/soldier/low/3499.vcd"
+            "scenes/player/soldier/low/3499.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
         "state": "used",
         "transcript": "C'mere, pumpkin."
@@ -13020,30 +13020,30 @@
             ]
         ],
         "events": [
-            "taunt.bearhug_soldier_c",
-            "soldier_taunt_flag",
             "soldier.positivevocalization01",
-            "soldier_taunt_neck_snap_03"
+            "soldier_taunt_flag",
+            "soldier_taunt_neck_snap_03",
+            "taunt.bearhug_soldier_c"
         ],
         "responses": [
-            "Taunt: Bear Hug",
-            "Taunt: Neck Snap",
-            "Taunt: The High Five!",
             "PlayerKilledObjectSoldier",
             "PlayerPositiveSoldier",
-            "Taunt: Flying Colors"
+            "Taunt: Bear Hug",
+            "Taunt: Flying Colors",
+            "Taunt: Neck Snap",
+            "Taunt: The High Five!"
         ],
         "rules": [
-            "PlayerPositiveSoldier",
-            "PlayerKilledObjectSoldier"
+            "PlayerKilledObjectSoldier",
+            "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
+            "scenes/player/soldier/low/1345.vcd",
             "scenes/player/soldier/low/taunt_hi5_a.vcd",
             "scenes/player/soldier/low/taunt_hi5_b.vcd",
-            "scenes/player/soldier/low/1345.vcd",
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Hoo.. ah!"
@@ -13052,6 +13052,10 @@
         "base_name": "soldier_positivevocalization02",
         "criteria": [
             [
+                "ConceptIAcceptDuel",
+                "IsSoldier"
+            ],
+            [
                 "ConceptKilledObject",
                 "IsSoldier",
                 "30PercentChance",
@@ -13059,28 +13063,24 @@
                 "AppliesContext:SoldierKillSpeechObject:1:30"
             ],
             [
-                "ConceptIAcceptDuel",
-                "IsSoldier"
-            ],
-            [
                 "ConceptPlayerPositive",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "soldier_taunt_tank_shoot",
-            "soldier.positivevocalization02"
+            "soldier.positivevocalization02",
+            "soldier_taunt_tank_shoot"
         ],
         "responses": [
-            "PlayerPositiveSoldier",
-            "Taunt: Panzer Pants",
+            "AcceptedDuelSoldier",
             "PlayerKilledObjectSoldier",
-            "AcceptedDuelSoldier"
+            "PlayerPositiveSoldier",
+            "Taunt: Panzer Pants"
         ],
         "rules": [
             "AcceptedDuelSoldier",
-            "PlayerPositiveSoldier",
-            "PlayerKilledObjectSoldier"
+            "PlayerKilledObjectSoldier",
+            "PlayerPositiveSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1172.vcd",
@@ -13093,6 +13093,10 @@
         "base_name": "soldier_positivevocalization03",
         "criteria": [
             [
+                "ConceptIAcceptDuel",
+                "IsSoldier"
+            ],
+            [
                 "ConceptKilledObject",
                 "IsSoldier",
                 "30PercentChance",
@@ -13100,27 +13104,23 @@
                 "AppliesContext:SoldierKillSpeechObject:1:30"
             ],
             [
-                "ConceptIAcceptDuel",
-                "IsSoldier"
-            ],
-            [
                 "ConceptPlayerPositive",
                 "IsSoldier"
             ]
         ],
         "events": [
-            "taunt_yeti_soldier",
-            "soldier.positivevocalization03"
+            "soldier.positivevocalization03",
+            "taunt_yeti_soldier"
         ],
         "responses": [
-            "PlayerPositiveSoldier",
+            "AcceptedDuelSoldier",
             "PlayerKilledObjectSoldier",
-            "AcceptedDuelSoldier"
+            "PlayerPositiveSoldier"
         ],
         "rules": [
             "AcceptedDuelSoldier",
-            "PlayerPositiveSoldier",
-            "PlayerKilledObjectSoldier"
+            "PlayerKilledObjectSoldier",
+            "PlayerPositiveSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1175.vcd"
@@ -13144,12 +13144,12 @@
             "soldier.positivevocalization04"
         ],
         "responses": [
-            "PlayerPositiveSoldier",
-            "AcceptedDuelSoldier"
+            "AcceptedDuelSoldier",
+            "PlayerPositiveSoldier"
         ],
         "rules": [
-            "PlayerPositiveSoldier",
-            "AcceptedDuelSoldier"
+            "AcceptedDuelSoldier",
+            "PlayerPositiveSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1174.vcd"
@@ -13177,8 +13177,8 @@
             "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/player/soldier/low/1171.vcd"
+            "scenes/player/soldier/low/1171.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Yeah."
@@ -14170,12 +14170,12 @@
         ],
         "responses": [
             "SoldierSF13SpellMovementBuff",
-            "soldierDanceMagicReaction",
-            "SoldierSeeSpellMeteorSwarm"
+            "SoldierSeeSpellMeteorSwarm",
+            "soldierDanceMagicReaction"
         ],
         "rules": [
-            "SoldierSeeSpellMeteorSwarm",
             "SoldierSF13SpellMovementBuff",
+            "SoldierSeeSpellMeteorSwarm",
             "soldierDanceMagicReaction"
         ],
         "scenes": [
@@ -14248,12 +14248,12 @@
         ],
         "responses": [
             "SoldierSF13SpellMovementBuff",
-            "Taunt: Mourning Mercs",
-            "SoldierSeeSpellMeteorSwarm"
+            "SoldierSeeSpellMeteorSwarm",
+            "Taunt: Mourning Mercs"
         ],
         "rules": [
-            "SoldierSeeSpellMeteorSwarm",
-            "SoldierSF13SpellMovementBuff"
+            "SoldierSF13SpellMovementBuff",
+            "SoldierSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/soldier/low/4551.vcd",
@@ -14403,8 +14403,8 @@
         "base_name": "soldier_sf12_badmagic14",
         "criteria": [],
         "events": [
-            "taunt_burstchester_soldier_01",
-            "soldier_sf12_badmagic14"
+            "soldier_sf12_badmagic14",
+            "taunt_burstchester_soldier_01"
         ],
         "responses": [
             "Taunt: Burstchester"
@@ -14574,15 +14574,15 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
-            "soldierGoodMagicReaction",
-            "Taunt: Star-Spangled Strategy"
+            "Taunt: Star-Spangled Strategy",
+            "soldierGoodMagicReaction"
         ],
         "rules": [
             "soldierGoodMagicReaction"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/4565.vcd"
+            "scenes/player/soldier/low/4565.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter)"
@@ -14781,12 +14781,12 @@
             ]
         ],
         "events": [
-            "soldier_sf12_scared01",
-            "soldier.scardy_cat_b"
+            "soldier.scardy_cat_b",
+            "soldier_sf12_scared01"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
-            "SoldierSF13SkeletonKingAppear"
+            "SoldierSF13SkeletonKingAppear",
+            "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
             "SoldierSF13SkeletonKingAppear"
@@ -15138,29 +15138,29 @@
         "base_name": "soldier_sf12_taunts02",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts02"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4522.vcd"
@@ -15172,29 +15172,29 @@
         "base_name": "soldier_sf12_taunts03",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts03"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4523.vcd"
@@ -15206,29 +15206,29 @@
         "base_name": "soldier_sf12_taunts04",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts04"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4526.vcd"
@@ -15240,29 +15240,29 @@
         "base_name": "soldier_sf12_taunts05",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts05"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4525.vcd"
@@ -15274,29 +15274,29 @@
         "base_name": "soldier_sf12_taunts06",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts06"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4527.vcd"
@@ -15308,29 +15308,29 @@
         "base_name": "soldier_sf12_taunts07",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts07"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4529.vcd"
@@ -15342,29 +15342,29 @@
         "base_name": "soldier_sf12_taunts08",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts08"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4528.vcd"
@@ -15376,29 +15376,29 @@
         "base_name": "soldier_sf12_taunts09",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts09"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4530.vcd"
@@ -15410,29 +15410,29 @@
         "base_name": "soldier_sf12_taunts10",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts10"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4531.vcd"
@@ -15444,29 +15444,29 @@
         "base_name": "soldier_sf12_taunts11",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts11"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4533.vcd"
@@ -15478,29 +15478,29 @@
         "base_name": "soldier_sf12_taunts12",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts12"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4534.vcd"
@@ -15512,17 +15512,17 @@
         "base_name": "soldier_sf12_taunts13",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
@@ -15530,12 +15530,12 @@
             "soldier_sf12_taunts13"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4535.vcd"
@@ -15547,29 +15547,29 @@
         "base_name": "soldier_sf12_taunts14",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts14"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4536.vcd"
@@ -15581,29 +15581,29 @@
         "base_name": "soldier_sf12_taunts15",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts15"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4537.vcd"
@@ -15615,29 +15615,29 @@
         "base_name": "soldier_sf12_taunts16",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts16"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4538.vcd"
@@ -15649,29 +15649,29 @@
         "base_name": "soldier_sf12_taunts17",
         "criteria": [
             [
+                "ConceptMagicGood",
+                "Issoldier",
+                "50PercentChance"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsMerasmusHiding",
                 "NotMerasmusHideCooldown",
                 "20PercentChance",
                 "AppliesContextToWorld:MerasmusHideCooldown:1:30"
-            ],
-            [
-                "ConceptMagicGood",
-                "Issoldier",
-                "50PercentChance"
             ]
         ],
         "events": [
             "soldier_sf12_taunts17"
         ],
         "responses": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "rules": [
-            "soldierMerasmusHideTaunt",
-            "soldierGoodMagicReaction"
+            "soldierGoodMagicReaction",
+            "soldierMerasmusHideTaunt"
         ],
         "scenes": [
             "scenes/player/soldier/low/4539.vcd"
@@ -15683,17 +15683,17 @@
         "base_name": "soldier_sf12_zombie01",
         "criteria": [
             [
+                "ConceptPlayerBattleCry",
+                "Issoldier",
+                "IsZombieCostume",
+                "AppliesContext:soldierZombieNoises:1:30"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsZombieCostume",
                 "soldierNotZombieNoises",
                 "20PercentChance",
-                "AppliesContext:soldierZombieNoises:1:30"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "Issoldier",
-                "IsZombieCostume",
                 "AppliesContext:soldierZombieNoises:1:30"
             ]
         ],
@@ -15701,12 +15701,12 @@
             "soldier_sf12_zombie01"
         ],
         "responses": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "rules": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "scenes": [
             "scenes/player/soldier/low/4562.vcd"
@@ -15718,17 +15718,17 @@
         "base_name": "soldier_sf12_zombie02",
         "criteria": [
             [
+                "ConceptPlayerBattleCry",
+                "Issoldier",
+                "IsZombieCostume",
+                "AppliesContext:soldierZombieNoises:1:30"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsZombieCostume",
                 "soldierNotZombieNoises",
                 "20PercentChance",
-                "AppliesContext:soldierZombieNoises:1:30"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "Issoldier",
-                "IsZombieCostume",
                 "AppliesContext:soldierZombieNoises:1:30"
             ]
         ],
@@ -15736,12 +15736,12 @@
             "soldier_sf12_zombie02"
         ],
         "responses": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "rules": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "scenes": [
             "scenes/player/soldier/low/4729.vcd"
@@ -15753,17 +15753,17 @@
         "base_name": "soldier_sf12_zombie03",
         "criteria": [
             [
+                "ConceptPlayerBattleCry",
+                "Issoldier",
+                "IsZombieCostume",
+                "AppliesContext:soldierZombieNoises:1:30"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsZombieCostume",
                 "soldierNotZombieNoises",
                 "20PercentChance",
-                "AppliesContext:soldierZombieNoises:1:30"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "Issoldier",
-                "IsZombieCostume",
                 "AppliesContext:soldierZombieNoises:1:30"
             ]
         ],
@@ -15771,12 +15771,12 @@
             "soldier_sf12_zombie03"
         ],
         "responses": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "rules": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "scenes": [
             "scenes/player/soldier/low/4563.vcd"
@@ -15788,17 +15788,17 @@
         "base_name": "soldier_sf12_zombie04",
         "criteria": [
             [
+                "ConceptPlayerBattleCry",
+                "Issoldier",
+                "IsZombieCostume",
+                "AppliesContext:soldierZombieNoises:1:30"
+            ],
+            [
                 "ConceptPlayerExpression",
                 "Issoldier",
                 "IsZombieCostume",
                 "soldierNotZombieNoises",
                 "20PercentChance",
-                "AppliesContext:soldierZombieNoises:1:30"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "Issoldier",
-                "IsZombieCostume",
                 "AppliesContext:soldierZombieNoises:1:30"
             ]
         ],
@@ -15806,12 +15806,12 @@
             "soldier_sf12_zombie04"
         ],
         "responses": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "rules": [
-            "soldierZombieCostume",
-            "soldierPlayerBattleCryZombie"
+            "soldierPlayerBattleCryZombie",
+            "soldierZombieCostume"
         ],
         "scenes": [
             "scenes/player/soldier/low/4730.vcd"
@@ -15823,16 +15823,16 @@
         "base_name": "soldier_sf13_cart_forward01",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
+                "IsSoldier",
+                "IsSoldier",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
                 "IsNotInHell"
             ],
             [
-                "ConceptPlayerBattleCry",
-                "IsSoldier",
-                "IsSoldier",
+                "ConceptPlayerRoundStart",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
@@ -15860,16 +15860,16 @@
         "base_name": "soldier_sf13_cart_forward02",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
+                "IsSoldier",
+                "IsSoldier",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
                 "IsNotInHell"
             ],
             [
-                "ConceptPlayerBattleCry",
-                "IsSoldier",
-                "IsSoldier",
+                "ConceptPlayerRoundStart",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
@@ -15929,15 +15929,15 @@
             "soldier_sf13_influx_big02"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
-            "SoldierSF13SpellPickupRare"
+            "SoldierSF13SpellPickupRare",
+            "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
             "SoldierSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
-            "scenes/player/soldier/low/7440.vcd"
+            "scenes/player/soldier/low/7440.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "I am having a heart attack!"
@@ -15961,8 +15961,8 @@
             "SoldierSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
-            "scenes/player/soldier/low/7439.vcd"
+            "scenes/player/soldier/low/7439.vcd",
+            "scenes/workshop/player/soldier/low/taunt_cheers.vcd"
         ],
         "state": "used",
         "transcript": "God Bless America!"
@@ -16108,16 +16108,16 @@
         "base_name": "soldier_sf13_round_start01",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
+                "ConceptPlayerBattleCry",
+                "IsSoldier",
+                "IsSoldier",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
                 "IsNotInHell"
             ],
             [
-                "ConceptPlayerBattleCry",
-                "IsSoldier",
-                "IsSoldier",
+                "ConceptPlayerRoundStart",
                 "IsSoldier",
                 "75PercentChance",
                 "IsMapHelltower",
@@ -16145,13 +16145,6 @@
         "base_name": "soldier_sf13_round_start02",
         "criteria": [
             [
-                "ConceptPlayerRoundStart",
-                "IsSoldier",
-                "75PercentChance",
-                "IsMapHelltower",
-                "IsNotInHell"
-            ],
-            [
                 "ConceptPlayerBattleCry",
                 "IsSoldier",
                 "IsSoldier",
@@ -16159,11 +16152,18 @@
                 "75PercentChance",
                 "IsMapHelltower",
                 "IsNotInHell"
+            ],
+            [
+                "ConceptPlayerRoundStart",
+                "IsSoldier",
+                "75PercentChance",
+                "IsMapHelltower",
+                "IsNotInHell"
             ]
         ],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
-            "soldier_sf13_round_start02"
+            "soldier_sf13_round_start02",
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
             "SoldierSF13BattleCry",
@@ -16579,25 +16579,25 @@
             ]
         ],
         "events": [
-            "soldier_taunt_tank_shoot",
             "soldier.specialcompleted03",
+            "soldier_taunt_neck_snap_02",
             "soldier_taunt_star_spangled_strat_vo_fist",
-            "soldier_taunt_neck_snap_02"
+            "soldier_taunt_tank_shoot"
         ],
         "responses": [
-            "Taunt: Star-Spangled Strategy",
+            "KilledPlayerManySoldier",
             "Taunt: Neck Snap",
             "Taunt: Panzer Pants",
-            "KilledPlayerManySoldier"
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
             "KilledPlayerManySoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
+            "scenes/player/soldier/low/1181.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
-            "scenes/player/soldier/low/1181.vcd"
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Ka-boom!"
@@ -16622,6 +16622,11 @@
             [
                 "ConceptPlayerTaunt",
                 "IsSoldier",
+                "WeaponIsBackup"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
                 "WeaponIsBanner"
             ],
             [
@@ -16632,17 +16637,12 @@
             [
                 "ConceptPlayerTaunt",
                 "IsSoldier",
-                "WeaponIsSashimono"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
                 "WeaponIsRayGun"
             ],
             [
                 "ConceptPlayerTaunt",
                 "IsSoldier",
-                "WeaponIsBackup"
+                "WeaponIsSashimono"
             ],
             [
                 "ConceptPlayerTaunt",
@@ -16651,36 +16651,36 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_01",
-            "taunt_yetipunch_soldier_scream",
             "soldier.specialcompleted04",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "taunt_burstchester_soldier_01",
+            "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
-            "Taunt: Star-Spangled Strategy",
-            "SoldierTauntBanner",
             "AwardSoldier",
+            "PlayerKilledObjectSoldier",
+            "SoldierTauntBanner",
             "Taunt: Burstchester",
-            "PlayerKilledObjectSoldier"
+            "Taunt: Rocket Jockey",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
-            "SoldierTauntFestiveBanner",
-            "SoldierTauntBanner",
-            "SoldierTauntBackup",
             "AwardSoldier",
-            "SoldierTauntSashimono",
             "PlayerKilledObjectSoldier",
+            "SoldierTauntBackup",
+            "SoldierTauntBanner",
+            "SoldierTauntFestiveBanner",
             "SoldierTauntRayGun",
+            "SoldierTauntSashimono",
             "SoldierTauntSaxxy"
         ],
         "scenes": [
+            "scenes/player/soldier/low/1182.vcd",
+            "scenes/player/soldier/low/taunt02_v1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
-            "scenes/player/soldier/low/1182.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/taunt02_v1.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Screamin' Eagles!"
@@ -16700,21 +16700,21 @@
         ],
         "events": [
             "soldier.specialcompleted05",
-            "soldier_taunt_star_spangled_strat_vo_fist",
-            "soldier_taunt_neck_snap_02"
+            "soldier_taunt_neck_snap_02",
+            "soldier_taunt_star_spangled_strat_vo_fist"
         ],
         "responses": [
-            "Taunt: Neck Snap",
             "KilledPlayerMeleeSoldier",
+            "Taunt: Neck Snap",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
             "KilledPlayerMeleeSoldier"
         ],
         "scenes": [
+            "scenes/player/soldier/low/1185.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/1185.vcd"
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Yaaaaagh!"
@@ -16740,12 +16740,12 @@
             "soldier.standonthepoint01"
         ],
         "responses": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "rules": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1187.vcd"
@@ -16774,12 +16774,12 @@
             "soldier.standonthepoint02"
         ],
         "responses": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "rules": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1354.vcd"
@@ -16808,12 +16808,12 @@
             "soldier.standonthepoint03"
         ],
         "responses": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "rules": [
-            "PlayerHelpCapture2Soldier",
-            "DefendOnThePointSoldier"
+            "DefendOnThePointSoldier",
+            "PlayerHelpCapture2Soldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1355.vcd"
@@ -17222,12 +17222,12 @@
             "soldier.yes03"
         ],
         "responses": [
-            "PlayerYesSoldier",
-            "AcceptedDuelSoldier"
+            "AcceptedDuelSoldier",
+            "PlayerYesSoldier"
         ],
         "rules": [
-            "PlayerYesSoldier",
-            "AcceptedDuelSoldier"
+            "AcceptedDuelSoldier",
+            "PlayerYesSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1221.vcd"
@@ -17248,15 +17248,15 @@
             "soldier_taunt_flag"
         ],
         "responses": [
-            "Taunt: Flying Colors",
-            "PlayerYesSoldier"
+            "PlayerYesSoldier",
+            "Taunt: Flying Colors"
         ],
         "rules": [
             "PlayerYesSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
-            "scenes/player/soldier/low/1219.vcd"
+            "scenes/player/soldier/low/1219.vcd",
+            "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
         "transcript": "Sir, yes, Sir!"
@@ -17660,8 +17660,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
         "transcript": "For Americaaaaa!"
@@ -17744,8 +17744,8 @@
         "base_name": "soldier_tank_warcry_13",
         "criteria": [],
         "events": [
-            "taunt.bearhug_soldier_b",
-            "soldier_taunt_tank_spawn"
+            "soldier_taunt_tank_spawn",
+            "taunt.bearhug_soldier_b"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -17753,8 +17753,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_tank.vcd"
+            "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "Ahhhhhh!"
@@ -17799,22 +17799,22 @@
         "base_name": "soldier_taunt_admire_09",
         "criteria": [],
         "events": [
-            "soldier_taunt_dosido_end_rand",
             "soldier_taunt_conga_random_fun3",
+            "soldier_taunt_dosido_end_rand",
             "soldier_taunt_neck_snap_03"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
             "Taunt: Conga",
+            "Taunt: Kazotsky Kick",
             "Taunt: Neck Snap",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/conga.vcd",
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_russian.vcd",
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd"
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Hooah!"
@@ -17823,8 +17823,8 @@
         "base_name": "soldier_taunt_admire_10",
         "criteria": [],
         "events": [
-            "taunt.bearhug_soldier_c",
-            "soldier_taunt_flip_random_flipfinish"
+            "soldier_taunt_flip_random_flipfinish",
+            "taunt.bearhug_soldier_c"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -17863,8 +17863,8 @@
             "soldier_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Square Dance",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
@@ -17894,28 +17894,28 @@
         "base_name": "soldier_taunt_admire_22",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
+            "soldier.statue",
             "soldier_taunt_conga_random_fun3",
             "soldier_taunt_flip_random_flipflipping",
-            "taunt_soldier_aerobic_shared_dance_a",
-            "soldier.statue"
+            "soldier_taunt_star_spangled_strat_vo",
+            "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: Kazotsky Kick",
-            "Taunt: Rocket Jockey",
-            "Taunt: Star-Spangled Strategy",
             "Taunt: Conga",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Kazotsky Kick",
+            "Taunt: Mannrobics",
+            "Taunt: Rocket Jockey",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/conga.vcd",
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
             "scenes/player/soldier/low/flip_success_receiver1.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_russian.vcd"
+            "scenes/player/soldier/low/taunt_russian.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "Medals for everyone!"
@@ -17924,8 +17924,8 @@
         "base_name": "soldier_taunt_admire_24",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_flipfinish",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier_taunt_flip_random_flipfinish"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -17957,8 +17957,8 @@
         "base_name": "soldier_taunt_bos_pain_01",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
-            "soldier_taunt_conga_random_accent"
+            "soldier_taunt_conga_random_accent",
+            "soldier_taunt_star_spangled_strat_vo_exert"
         ],
         "responses": [
             "Taunt: Conga",
@@ -17992,8 +17992,8 @@
         "base_name": "soldier_taunt_bos_pain_06",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
-            "soldier_taunt_conga_random_accent"
+            "soldier_taunt_conga_random_accent",
+            "soldier_taunt_star_spangled_strat_vo_exert"
         ],
         "responses": [
             "Taunt: Conga",
@@ -18011,8 +18011,8 @@
         "base_name": "soldier_taunt_cong_fun_01",
         "criteria": [],
         "events": [
-            "taunt.bearhug_soldier_a",
-            "soldier_taunt_conga_random_fun1"
+            "soldier_taunt_conga_random_fun1",
+            "taunt.bearhug_soldier_a"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -18078,8 +18078,8 @@
         "base_name": "soldier_taunt_cong_fun_24",
         "criteria": [],
         "events": [
-            "soldier_taunt_conga_random_fun2",
-            "soldier_taunt_conga_random_fun1"
+            "soldier_taunt_conga_random_fun1",
+            "soldier_taunt_conga_random_fun2"
         ],
         "responses": [
             "Taunt: Conga"
@@ -18139,8 +18139,8 @@
         "base_name": "soldier_taunt_cong_int_02",
         "criteria": [],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_a",
-            "soldier_taunt_russian_rand"
+            "soldier_taunt_russian_rand",
+            "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
             "Taunt: Mannrobics"
@@ -18159,8 +18159,8 @@
             "soldier_taunt_conga_random_fun3"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
-            "Taunt: Conga"
+            "Taunt: Conga",
+            "Taunt: Kazotsky Kick"
         ],
         "rules": [],
         "scenes": [
@@ -18205,8 +18205,8 @@
             "soldier_taunt_conga_random_fun3"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
-            "Taunt: Conga"
+            "Taunt: Conga",
+            "Taunt: Kazotsky Kick"
         ],
         "rules": [],
         "scenes": [
@@ -18252,22 +18252,22 @@
         "base_name": "soldier_taunt_dosi_fun_05",
         "criteria": [],
         "events": [
-            "taunt_yeti_soldier",
             "soldier_taunt_dosido_start_rand",
-            "taunt_soldier_aerobic_shared_dance_a"
+            "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_yeti_soldier"
         ],
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd",
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
+            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
         "transcript": "Whoa! Ha ha ha!"
@@ -18276,8 +18276,8 @@
         "base_name": "soldier_taunt_dosi_fun_06",
         "criteria": [],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_a",
-            "soldier_taunt_russian_rand"
+            "soldier_taunt_russian_rand",
+            "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
             "Taunt: Mannrobics"
@@ -18299,15 +18299,15 @@
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd",
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
+            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha!"
@@ -18332,24 +18332,24 @@
         "base_name": "soldier_taunt_dosi_fun_29",
         "criteria": [],
         "events": [
-            "taunt_yeti_soldier",
             "soldier_taunt_dosido_mid_rand",
             "soldier_taunt_dosido_start_rand",
-            "taunt_soldier_aerobic_shared_dance_a"
+            "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_yeti_soldier"
         ],
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd",
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
+            "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
         "transcript": "Whaa, ho ho ha ha!"
@@ -18358,10 +18358,10 @@
         "base_name": "soldier_taunt_dosi_fun_30",
         "criteria": [],
         "events": [
-            "taunt_soldier_aerobic_shared_dance_b",
+            "soldier_taunt_dosi_fun_30",
             "soldier_taunt_dosido_mid_rand",
-            "taunt_yeti_soldier",
-            "soldier_taunt_dosi_fun_30"
+            "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_yeti_soldier"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -18370,15 +18370,15 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_win.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_win.vcd"
+            "scenes/player/soldier/low/taunt_rps_rock_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "He he he he he hah hah!"
@@ -18395,8 +18395,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha hah, I'm dancing!"
@@ -18446,8 +18446,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/taunt_dosido_intro01.vcd"
         ],
         "state": "used",
         "transcript": "Dance time, boys!"
@@ -18456,19 +18456,19 @@
         "base_name": "soldier_taunt_exert_02",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
             "soldier_taunt_headbutt_success_windup",
-            "soldier_taunt_neck_snap_06"
+            "soldier_taunt_neck_snap_06",
+            "soldier_taunt_star_spangled_strat_vo_exert"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Neck Snap",
+            "Taunt: Skullcracker",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
             "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -18478,19 +18478,19 @@
         "base_name": "soldier_taunt_exert_06",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo_exert",
             "soldier_taunt_headbutt_success_exert",
-            "soldier_taunt_neck_snap_05"
+            "soldier_taunt_neck_snap_05",
+            "soldier_taunt_star_spangled_strat_vo_exert"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Neck Snap",
+            "Taunt: Skullcracker",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
             "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -18552,13 +18552,13 @@
             "taunt_soldier_aerobic_shared_dance_b"
         ],
         "responses": [
-            "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Mannrobics"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "The Eagle has landed."
@@ -18649,8 +18649,8 @@
         "base_name": "soldier_taunt_flip_exert_21",
         "criteria": [],
         "events": [
-            "soldier_taunt_neck_snap_01",
-            "soldier_taunt_flip_random_flipexert"
+            "soldier_taunt_flip_random_flipexert",
+            "soldier_taunt_neck_snap_01"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -18659,8 +18659,8 @@
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_success_initiator0.vcd",
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Hut hut hut!"
@@ -18669,8 +18669,8 @@
         "base_name": "soldier_taunt_flip_exert_31",
         "criteria": [],
         "events": [
-            "taunt_yetipunch_soldier_intro",
-            "soldier_taunt_flip_random_flipexert"
+            "soldier_taunt_flip_random_flipexert",
+            "taunt_yetipunch_soldier_intro"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -18690,8 +18690,8 @@
             "soldier_taunt_flip_random_flipflipping"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Rocket Jockey"
         ],
         "rules": [],
         "scenes": [
@@ -18708,8 +18708,8 @@
             "soldier_taunt_flip_random_flipflipping"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Rocket Jockey"
         ],
         "rules": [],
         "scenes": [
@@ -18726,8 +18726,8 @@
             "soldier_taunt_flip_random_flipflipping"
         ],
         "responses": [
-            "Taunt: Rocket Jockey",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Rocket Jockey"
         ],
         "rules": [],
         "scenes": [
@@ -18901,8 +18901,8 @@
         "base_name": "soldier_taunt_head_end_13",
         "criteria": [],
         "events": [
-            "taunt_yeti_soldier",
-            "soldier_taunt_headbutt_success_recover"
+            "soldier_taunt_headbutt_success_recover",
+            "taunt_yeti_soldier"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -19046,13 +19046,13 @@
             "soldier_taunt_neck_snap_02"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
-            "scenes/player/soldier/low/taunt_headbutt_success.vcd"
+            "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
         "transcript": "Ahhhhhhh!"
@@ -19061,8 +19061,8 @@
         "base_name": "soldier_taunt_int_02",
         "criteria": [],
         "events": [
-            "soldier_taunt_star_spangled_strat_vo",
             "soldier_taunt_dosido_intro_rand",
+            "soldier_taunt_star_spangled_strat_vo",
             "taunt_soldier_aerobic_shared_dance_a"
         ],
         "responses": [
@@ -19072,8 +19072,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -19086,8 +19086,8 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -19104,8 +19104,8 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -19122,8 +19122,8 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -19141,13 +19141,13 @@
             "soldier_taunt_flip_random_flipthrowantic"
         ],
         "responses": [
-            "Taunt: Square Dance",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/player/soldier/low/taunt_dosido_intro01.vcd"
         ],
         "state": "used",
         "transcript": "Come on."
@@ -19156,21 +19156,21 @@
         "base_name": "soldier_taunt_int_10",
         "criteria": [],
         "events": [
-            "soldier_taunt_rps_intro_wait_rand",
-            "soldier_taunt_flip_random_waiting2"
+            "soldier_taunt_flip_random_waiting2",
+            "soldier_taunt_rps_intro_wait_rand"
         ],
         "responses": [
+            "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_start.vcd",
-            "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd",
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
             "scenes/player/soldier/low/taunt_rps_start.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "I haven't got all day!"
@@ -19183,14 +19183,14 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
+            "Taunt: Flippin' Awesome",
             "Taunt: Square Dance",
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/player/soldier/low/flip_start.vcd",
+            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -19235,8 +19235,8 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -19254,14 +19254,14 @@
             "soldier_taunt_flip_random_waiting2"
         ],
         "responses": [
+            "Taunt: Flippin' Awesome",
             "Taunt: Square Dance",
-            "Taunt: The Fist Bump",
-            "Taunt: Flippin' Awesome"
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/player/soldier/low/flip_start.vcd",
+            "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -19271,12 +19271,12 @@
         "base_name": "soldier_taunt_int_24",
         "criteria": [],
         "events": [
-            "taunt.bearhug_soldier_a",
-            "soldier_taunt_dosido_intro_wait_rand"
+            "soldier_taunt_dosido_intro_wait_rand",
+            "taunt.bearhug_soldier_a"
         ],
         "responses": [
-            "Taunt: Square Dance",
-            "Taunt: Bear Hug"
+            "Taunt: Bear Hug",
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
@@ -19298,8 +19298,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_start.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_rps_start.vcd"
         ],
         "state": "used",
         "transcript": "Come on maggots!"
@@ -19340,18 +19340,18 @@
         "base_name": "soldier_taunt_kill_10",
         "criteria": [],
         "events": [
+            "soldier.statue",
             "soldier_taunt_coffee_1_speech",
-            "soldier_taunt_star_spangled_strat_vo",
-            "soldier.statue"
+            "soldier_taunt_star_spangled_strat_vo"
         ],
         "responses": [
-            "Taunt: Star-Spangled Strategy",
-            "Taunt: Fresh Brewed Victory"
+            "Taunt: Fresh Brewed Victory",
+            "Taunt: Star-Spangled Strategy"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
-            "scenes/player/soldier/low/taunt_coffee.vcd"
+            "scenes/player/soldier/low/taunt_coffee.vcd",
+            "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
         "transcript": "I love the smell of a kicked ass in the morning!"
@@ -19410,11 +19410,11 @@
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
             "scenes/player/soldier/low/taunt_rps_rock_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd"
         ],
         "state": "used",
         "transcript": "On three..."
@@ -19423,8 +19423,8 @@
         "base_name": "soldier_taunt_rps_int_01",
         "criteria": [],
         "events": [
-            "soldier_taunt_rps_start_rand",
-            "soldier_taunt_rps_int_01"
+            "soldier_taunt_rps_int_01",
+            "soldier_taunt_rps_start_rand"
         ],
         "responses": [
             "Taunt: Rock, Paper, Scissors"
@@ -19432,18 +19432,18 @@
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_rock_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_start.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_start.vcd"
         ],
         "state": "used",
         "transcript": "Rock, paper, scissors!"
@@ -19468,9 +19468,9 @@
         "base_name": "soldier_taunt_rps_int_05",
         "criteria": [],
         "events": [
-            "taunt_yetipunch_soldier_jeers",
             "soldier_taunt_rps_intro_wait_rand",
-            "soldier_taunt_rps_start_rand"
+            "soldier_taunt_rps_start_rand",
+            "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -19478,8 +19478,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_start.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_rps_start.vcd"
         ],
         "state": "used",
         "transcript": "Let's throw down!"
@@ -19496,8 +19496,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_start.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_b.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_b.vcd",
+            "scenes/player/soldier/low/taunt_rps_start.vcd"
         ],
         "state": "used",
         "transcript": "Who wants some?"
@@ -19506,8 +19506,8 @@
         "base_name": "soldier_taunt_rps_int_08",
         "criteria": [],
         "events": [
-            "taunt_yetipunch_soldier_jeers",
-            "soldier_taunt_rps_start_rand"
+            "soldier_taunt_rps_start_rand",
+            "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
             "Taunt: Rock, Paper, Scissors"
@@ -19527,14 +19527,14 @@
             "taunt_burstchester_soldier_02"
         ],
         "responses": [
-            "Taunt: Rock, Paper, Scissors",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Rock, Paper, Scissors"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_rps_paper_lose.vcd",
-            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd"
+            "scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Awww."
@@ -19602,11 +19602,11 @@
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_paper_lose_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Did I win?"
@@ -19622,8 +19622,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd"
+            "scenes/player/soldier/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/soldier/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "I won! No, wait."
@@ -19639,8 +19639,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_paper_win.vcd"
+            "scenes/player/soldier/low/taunt_rps_paper_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Paper wins!"
@@ -19673,8 +19673,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Scissors win!"
@@ -19804,8 +19804,8 @@
             "soldier_taunt_coffee_2_slurp"
         ],
         "responses": [
-            "Taunt: Shooter's Stakeout",
-            "Taunt: Fresh Brewed Victory"
+            "Taunt: Fresh Brewed Victory",
+            "Taunt: Shooter's Stakeout"
         ],
         "rules": [],
         "scenes": [
@@ -19835,16 +19835,6 @@
         "base_name": "soldier_taunts01",
         "criteria": [
             [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsRocket"
-            ],
-            [
-                "ConceptPlayerTaunt",
-                "IsSoldier",
-                "WeaponIsRocketLauncherAirStrike"
-            ],
-            [
                 "ConceptKilledPlayer",
                 "IsManyRecentKills",
                 "30PercentChance",
@@ -19853,34 +19843,44 @@
                 "SoldierNotKillSpeech",
                 "IsSoldier",
                 "AppliesContext:SoldierKillSpeech:1:10"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsRocket"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsRocketLauncherAirStrike"
             ]
         ],
         "events": [
+            "demo_taunt_unleashed_rage_demo_soldier_taunts01",
+            "engineer_taunt_unleashed_rage_engineer_soldier_taunts01",
             "heavy_taunt_unleashed_rage_heavy_soldier_taunts01",
             "medic_taunt_unleashed_rage_medic_soldier_taunts01",
-            "engineer_taunt_unleashed_rage_engineer_soldier_taunts01",
-            "soldier_taunt_unleashed_rage_soldier_soldier_taunts01",
             "pyro_taunt_unleashed_rage_pyro_soldier_taunts01",
-            "sniper_taunt_unleashed_rage_sniper_soldier_taunts01",
             "scout_taunt_unleashed_rage_scout_soldier_taunts01",
-            "spy_taunt_unleashed_rage_spy_soldier_taunts01",
+            "sniper_taunt_unleashed_rage_sniper_soldier_taunts01",
             "soldier.statue",
             "soldier.taunts01",
-            "demo_taunt_unleashed_rage_demo_soldier_taunts01"
+            "soldier_taunt_unleashed_rage_soldier_soldier_taunts01",
+            "spy_taunt_unleashed_rage_spy_soldier_taunts01"
         ],
         "responses": [
-            "Taunt: Unleashed Rage",
+            "KilledPlayerManySoldier",
             "SoldierTauntPrimary",
-            "KilledPlayerManySoldier"
+            "Taunt: Unleashed Rage"
         ],
         "rules": [
+            "KilledPlayerManySoldier",
             "SoldierTauntPlayerAirStrike",
-            "SoldierTauntPlayerPrimary",
-            "KilledPlayerManySoldier"
+            "SoldierTauntPlayerPrimary"
         ],
         "scenes": [
-            "scenes/player/soldier/low/taunt01_v2.vcd",
             "scenes/player/soldier/low/1356.vcd",
+            "scenes/player/soldier/low/taunt01_v2.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd"
         ],
         "state": "used",
@@ -19905,16 +19905,16 @@
             ]
         ],
         "events": [
-            "soldier.taunts02",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts02"
         ],
         "responses": [
-            "MeleeDareSoldier",
-            "KilledPlayerVeryManySoldier"
+            "KilledPlayerVeryManySoldier",
+            "MeleeDareSoldier"
         ],
         "rules": [
-            "MeleeDareSoldier",
-            "KilledPlayerVeryManySoldier"
+            "KilledPlayerVeryManySoldier",
+            "MeleeDareSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1188.vcd"
@@ -19937,25 +19937,25 @@
             ]
         ],
         "events": [
-            "soldier.taunts03",
             "soldier.profane_puppeteer",
             "soldier.statue",
+            "soldier.taunts03",
             "taunt_burstchester_soldier_02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: The Profane Puppeteer",
+            "AcceptedDuelSoldier",
             "MeleeDareCombatSoldier",
-            "AcceptedDuelSoldier"
+            "Taunt: Burstchester",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
-            "MeleeDareCombatSoldier",
-            "AcceptedDuelSoldier"
+            "AcceptedDuelSoldier",
+            "MeleeDareCombatSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
+            "scenes/player/soldier/low/1190.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/player/soldier/low/1190.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
         "transcript": "If you know what's good for ya, you will run!"
@@ -19972,23 +19972,23 @@
             ]
         ],
         "events": [
-            "soldier.taunts04",
-            "soldier_taunt_can_it_1",
             "soldier.profane_puppeteer",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts04",
+            "soldier_taunt_can_it_1"
         ],
         "responses": [
+            "InvulnerableSpeechSoldier",
             "Taunt: Can It!",
-            "Taunt: The Profane Puppeteer",
-            "InvulnerableSpeechSoldier"
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "InvulnerableSpeechSoldier"
         ],
         "scenes": [
+            "scenes/player/soldier/low/1189.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1189.vcd"
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are scum! You are nothin' but a buncha' cowards!"
@@ -20005,8 +20005,8 @@
             ]
         ],
         "events": [
-            "soldier.taunts05",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts05"
         ],
         "responses": [
             "InvulnerableSpeechSoldier"
@@ -20032,8 +20032,8 @@
             ]
         ],
         "events": [
-            "soldier.taunts06",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts06"
         ],
         "responses": [
             "InvulnerableSpeechSoldier"
@@ -20063,22 +20063,22 @@
             ]
         ],
         "events": [
-            "soldier.taunts07",
             "soldier.profane_puppeteer",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts07"
         ],
         "responses": [
             "MeleeDareSoldier",
-            "Taunt: The Profane Puppeteer",
-            "PlayerKilledDominatingSoldier"
+            "PlayerKilledDominatingSoldier",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "MeleeDareSoldier",
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
-            "scenes/player/soldier/low/1195.vcd"
+            "scenes/player/soldier/low/1195.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
         "transcript": "If God had wanted you to live, He would not have created me!"
@@ -20087,27 +20087,27 @@
         "base_name": "soldier_taunts08",
         "criteria": [
             [
-                "ConceptRequestDuel",
-                "IsSoldier"
-            ],
-            [
                 "ConceptPlayerBattleCry",
                 "IsWeaponMelee",
                 "IsSoldier",
                 "IsCrosshairEnemy"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.taunts08",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts08"
         ],
         "responses": [
-            "MeleeDareSoldier",
-            "MeleeDareCombatSoldier"
+            "MeleeDareCombatSoldier",
+            "MeleeDareSoldier"
         ],
         "rules": [
-            "MeleeDareSoldier",
-            "MeleeDareCombatSoldier"
+            "MeleeDareCombatSoldier",
+            "MeleeDareSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1196.vcd"
@@ -20135,15 +20135,15 @@
             "soldier.taunts09"
         ],
         "responses": [
-            "Taunt: The Profane Puppeteer",
-            "KilledPlayerManySoldier"
+            "KilledPlayerManySoldier",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "KilledPlayerManySoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
-            "scenes/player/soldier/low/1197.vcd"
+            "scenes/player/soldier/low/1197.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
         "transcript": "Take your lumps like a man, Private Twinkletoes."
@@ -20163,23 +20163,23 @@
             ]
         ],
         "events": [
-            "soldier.taunts10",
-            "soldier_taunt_can_it_1",
             "soldier.profane_puppeteer",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts10",
+            "soldier_taunt_can_it_1"
         ],
         "responses": [
+            "KilledPlayerManySoldier",
             "Taunt: Can It!",
-            "Taunt: The Profane Puppeteer",
-            "KilledPlayerManySoldier"
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "KilledPlayerManySoldier"
         ],
         "scenes": [
+            "scenes/player/soldier/low/1199.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1199.vcd"
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are all weak. You are all bleeders."
@@ -20201,8 +20201,8 @@
             "soldier.taunts11"
         ],
         "responses": [
-            "Taunt: The Profane Puppeteer",
-            "InvulnerableSpeechSoldier"
+            "InvulnerableSpeechSoldier",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "InvulnerableSpeechSoldier"
@@ -20226,20 +20226,20 @@
             ]
         ],
         "events": [
-            "soldier.taunts12",
             "soldier.profane_puppeteer",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts12"
         ],
         "responses": [
-            "Taunt: The Profane Puppeteer",
-            "InvulnerableSpeechSoldier"
+            "InvulnerableSpeechSoldier",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "InvulnerableSpeechSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
-            "scenes/player/soldier/low/1201.vcd"
+            "scenes/player/soldier/low/1201.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
         "transcript": "We have you surrounded, at least from this side!"
@@ -20260,8 +20260,8 @@
             ]
         ],
         "events": [
-            "soldier.taunts13",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts13"
         ],
         "responses": [
             "MeleeDareSoldier",
@@ -20323,8 +20323,8 @@
             "soldier.taunts15"
         ],
         "responses": [
-            "Taunt: The Profane Puppeteer",
-            "InvulnerableSpeechSoldier"
+            "InvulnerableSpeechSoldier",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "InvulnerableSpeechSoldier"
@@ -20401,20 +20401,20 @@
             ]
         ],
         "events": [
-            "soldier_taunt_can_it_1",
             "soldier.statue",
-            "soldier.taunts18"
+            "soldier.taunts18",
+            "soldier_taunt_can_it_1"
         ],
         "responses": [
-            "Taunt: Can It!",
-            "RejectedDuelSoldier"
+            "RejectedDuelSoldier",
+            "Taunt: Can It!"
         ],
         "rules": [
             "RejectedDuelSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1207.vcd"
+            "scenes/player/soldier/low/1207.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are a spineless worm! You are a mistake of nature! You are walking vomit!"
@@ -20430,26 +20430,26 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_soldier_02",
-            "soldier_taunt_can_it_1",
             "soldier.profane_puppeteer",
+            "soldier.statue",
             "soldier.taunts19",
-            "soldier.statue"
+            "soldier_taunt_can_it_1",
+            "taunt_burstchester_soldier_02"
         ],
         "responses": [
-            "Taunt: Can It!",
-            "Taunt: The Profane Puppeteer",
             "MeleeDareCombatSoldier",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Can It!",
+            "Taunt: The Profane Puppeteer"
         ],
         "rules": [
             "MeleeDareCombatSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
+            "scenes/player/soldier/low/1208.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1208.vcd"
+            "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are a maggot hatched from a mutant maggot egg!"
@@ -20458,27 +20458,27 @@
         "base_name": "soldier_taunts20",
         "criteria": [
             [
-                "ConceptRequestDuel",
-                "IsSoldier"
-            ],
-            [
                 "ConceptPlayerBattleCry",
                 "IsWeaponMelee",
                 "IsSoldier",
                 "IsCrosshairEnemy"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsSoldier"
             ]
         ],
         "events": [
-            "soldier.taunts20",
-            "soldier.statue"
+            "soldier.statue",
+            "soldier.taunts20"
         ],
         "responses": [
-            "MeleeDareSoldier",
-            "MeleeDareCombatSoldier"
+            "MeleeDareCombatSoldier",
+            "MeleeDareSoldier"
         ],
         "rules": [
-            "MeleeDareSoldier",
-            "MeleeDareCombatSoldier"
+            "MeleeDareCombatSoldier",
+            "MeleeDareSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1210.vcd"
@@ -20498,20 +20498,20 @@
             ]
         ],
         "events": [
-            "soldier_taunt_can_it_1",
+            "soldier.statue",
             "soldier.taunts21",
-            "soldier.statue"
+            "soldier_taunt_can_it_1"
         ],
         "responses": [
-            "Taunt: Can It!",
-            "InvulnerableSpeechSoldier"
+            "InvulnerableSpeechSoldier",
+            "Taunt: Can It!"
         ],
         "rules": [
             "InvulnerableSpeechSoldier"
         ],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/player/soldier/low/1192.vcd"
+            "scenes/player/soldier/low/1192.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": "You are all maggots, you scum sucking fruit baskets!"

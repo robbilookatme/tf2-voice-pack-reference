@@ -1,4 +1,4 @@
-Filename:,ammo_pickup,,Events:,"['player.pickupweapon', 'basecombatcharacter.ammopickup']"
+Filename:,ammo_pickup,,Events:,"['basecombatcharacter.ammopickup', 'player.pickupweapon']"
 Full Path:,items/ammo_pickup.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -424,7 +424,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,para_close,,Events:,"['pyro_taunt_the_skating_scorcher_para_close', 'parachute_close']"
+Filename:,para_close,,Events:,"['parachute_close', 'pyro_taunt_the_skating_scorcher_para_close']"
 Full Path:,items/para_close.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd']
 Transcription:,,,Responses:,['Taunt: The Skating Scorcher']
 Your Line:,,,Rules:,[]

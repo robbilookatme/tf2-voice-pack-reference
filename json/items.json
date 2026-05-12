@@ -3,8 +3,8 @@
         "base_name": "ammo_pickup",
         "criteria": [],
         "events": [
-            "player.pickupweapon",
-            "basecombatcharacter.ammopickup"
+            "basecombatcharacter.ammopickup",
+            "player.pickupweapon"
         ],
         "responses": [],
         "rules": [],
@@ -846,8 +846,8 @@
         "base_name": "para_close",
         "criteria": [],
         "events": [
-            "pyro_taunt_the_skating_scorcher_para_close",
-            "parachute_close"
+            "parachute_close",
+            "pyro_taunt_the_skating_scorcher_para_close"
         ],
         "responses": [
             "Taunt: The Skating Scorcher"
