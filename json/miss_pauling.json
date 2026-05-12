@@ -1,0 +1,4375 @@
+{
+    "vo/pauling/plng_contract_50_allclass_01.mp3": {
+        "base_name": "plng_contract_50_allclass_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_50_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You're halfway done."
+    },
+    "vo/pauling/plng_contract_50_allclass_02.mp3": {
+        "base_name": "plng_contract_50_allclass_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_50_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Halfway to Contract complete."
+    },
+    "vo/pauling/plng_contract_50_allclass_03.mp3": {
+        "base_name": "plng_contract_50_allclass_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_50_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work, half the Contract's fulfilled."
+    },
+    "vo/pauling/plng_contract_50_allclass_04.mp3": {
+        "base_name": "plng_contract_50_allclass_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_50_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Halfway there."
+    },
+    "vo/pauling/plng_contract_50_allclass_05.mp3": {
+        "base_name": "plng_contract_50_allclass_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_50_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work. You're halfway there."
+    },
+    "vo/pauling/plng_contract_complete_allclass_01.mp3": {
+        "base_name": "plng_contract_complete_allclass_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work."
+    },
+    "vo/pauling/plng_contract_complete_allclass_02.mp3": {
+        "base_name": "plng_contract_complete_allclass_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work!"
+    },
+    "vo/pauling/plng_contract_complete_allclass_03.mp3": {
+        "base_name": "plng_contract_complete_allclass_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work."
+    },
+    "vo/pauling/plng_contract_complete_allclass_04.mp3": {
+        "base_name": "plng_contract_complete_allclass_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work!"
+    },
+    "vo/pauling/plng_contract_complete_allclass_05.mp3": {
+        "base_name": "plng_contract_complete_allclass_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_objective_completion"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job."
+    },
+    "vo/pauling/plng_contract_complete_allclass_06.mp3": {
+        "base_name": "plng_contract_complete_allclass_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Well done."
+    },
+    "vo/pauling/plng_contract_complete_allclass_07.mp3": {
+        "base_name": "plng_contract_complete_allclass_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You did it!"
+    },
+    "vo/pauling/plng_contract_complete_allclass_08.mp3": {
+        "base_name": "plng_contract_complete_allclass_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done."
+    },
+    "vo/pauling/plng_contract_complete_allclass_09.mp3": {
+        "base_name": "plng_contract_complete_allclass_09",
+        "criteria": [],
+        "events": [
+            "plng_contract_credits_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Here you go."
+    },
+    "vo/pauling/plng_contract_complete_allclass_10.mp3": {
+        "base_name": "plng_contract_complete_allclass_10",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I knew I could count on you."
+    },
+    "vo/pauling/plng_contract_complete_allclass_11.mp3": {
+        "base_name": "plng_contract_complete_allclass_11",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'm glad I came to you on this one."
+    },
+    "vo/pauling/plng_contract_complete_allclass_12.mp3": {
+        "base_name": "plng_contract_complete_allclass_12",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Job well done."
+    },
+    "vo/pauling/plng_contract_complete_allclass_13.mp3": {
+        "base_name": "plng_contract_complete_allclass_13",
+        "criteria": [],
+        "events": [
+            "plng_contract_credits_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Annnnnd here you go."
+    },
+    "vo/pauling/plng_contract_complete_allclass_14.mp3": {
+        "base_name": "plng_contract_complete_allclass_14",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks! I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_allclass_15.mp3": {
+        "base_name": "plng_contract_complete_allclass_15",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again."
+    },
+    "vo/pauling/plng_contract_complete_allclass_16.mp3": {
+        "base_name": "plng_contract_complete_allclass_16",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I owe you one."
+    },
+    "vo/pauling/plng_contract_complete_allclass_17.mp3": {
+        "base_name": "plng_contract_complete_allclass_17",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks. The Administrator really wanted this done."
+    },
+    "vo/pauling/plng_contract_complete_allclass_18.mp3": {
+        "base_name": "plng_contract_complete_allclass_18",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks. The Administrator was really on me about this."
+    },
+    "vo/pauling/plng_contract_complete_allclass_19.mp3": {
+        "base_name": "plng_contract_complete_allclass_19",
+        "criteria": [],
+        "events": [
+            "plng_contract_credits_earned",
+            "plng_contract_objective_completion",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Payment for services rendered."
+    },
+    "vo/pauling/plng_contract_complete_allclass_20.mp3": {
+        "base_name": "plng_contract_complete_allclass_20",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pleasure doing business. Thanks again."
+    },
+    "vo/pauling/plng_contract_complete_allclass_21.mp3": {
+        "base_name": "plng_contract_complete_allclass_21",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work. Don't worry, I'll run cleanup on this."
+    },
+    "vo/pauling/plng_contract_complete_allclass_22.mp3": {
+        "base_name": "plng_contract_complete_allclass_22",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_points_completion",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'll run cleanup. Don't worry, you're a ghost on this."
+    },
+    "vo/pauling/plng_contract_complete_allclass_23.mp3": {
+        "base_name": "plng_contract_complete_allclass_23",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work. And don't worry, you were never there."
+    },
+    "vo/pauling/plng_contract_complete_allclass_24.mp3": {
+        "base_name": "plng_contract_complete_allclass_24",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'll make sure the evidence is disposed of."
+    },
+    "vo/pauling/plng_contract_complete_allclass_25.mp3": {
+        "base_name": "plng_contract_complete_allclass_25",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Don't worry, I can make the bodies disappear."
+    },
+    "vo/pauling/plng_contract_complete_allclass_26.mp3": {
+        "base_name": "plng_contract_complete_allclass_26",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_partially_completed",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_spy",
+            "plng_contract_complete_scout",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "If you need a place to lay low, I can secure you a safehouse."
+    },
+    "vo/pauling/plng_contract_complete_allclass_27.mp3": {
+        "base_name": "plng_contract_complete_allclass_27",
+        "criteria": [],
+        "events": [
+            "plng_contract_item_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "And to the victor goes...this thing!"
+    },
+    "vo/pauling/plng_contract_complete_allclass_28.mp3": {
+        "base_name": "plng_contract_complete_allclass_28",
+        "criteria": [],
+        "events": [
+            "plng_contract_item_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Wow, that's...ca-can I have that?"
+    },
+    "vo/pauling/plng_contract_complete_allclass_29.mp3": {
+        "base_name": "plng_contract_complete_allclass_29",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "If you don't want that...I...will take it."
+    },
+    "vo/pauling/plng_contract_complete_allclass_30.mp3": {
+        "base_name": "plng_contract_complete_allclass_30",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, here's the pay."
+    },
+    "vo/pauling/plng_contract_complete_allclass_31.mp3": {
+        "base_name": "plng_contract_complete_allclass_31",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work! Here's your payment."
+    },
+    "vo/pauling/plng_contract_complete_allclass_32.mp3": {
+        "base_name": "plng_contract_complete_allclass_32",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, here's your fee."
+    },
+    "vo/pauling/plng_contract_complete_allclass_33.mp3": {
+        "base_name": "plng_contract_complete_allclass_33",
+        "criteria": [],
+        "events": [
+            "plng_contract_item_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Here, this one came straight from Saxton."
+    },
+    "vo/pauling/plng_contract_complete_allclass_34.mp3": {
+        "base_name": "plng_contract_complete_allclass_34",
+        "criteria": [],
+        "events": [
+            "plng_contract_credits_earned",
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Here's the contract fee. You earned it."
+    },
+    "vo/pauling/plng_contract_complete_allclass_35.mp3": {
+        "base_name": "plng_contract_complete_allclass_35",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work. Here, you might like this."
+    },
+    "vo/pauling/plng_contract_complete_allclass_36.mp3": {
+        "base_name": "plng_contract_complete_allclass_36",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work. This...uh, fell...off the back of a Mann Co. truck."
+    },
+    "vo/pauling/plng_contract_complete_allclass_37.mp3": {
+        "base_name": "plng_contract_complete_allclass_37",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_give_item_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete."
+    },
+    "vo/pauling/plng_contract_complete_allclass_38.mp3": {
+        "base_name": "plng_contract_complete_allclass_38",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie",
+            "plng_contract_complete_heavy",
+            "plng_contract_complete_pyro",
+            "plng_contract_complete_allclass",
+            "plng_contract_complete_give_item_allclass",
+            "plng_contract_complete_demo",
+            "plng_contract_complete_soldier",
+            "plng_contract_complete_scout",
+            "plng_contract_fully_completed",
+            "plng_contract_complete_sniper",
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled."
+    },
+    "vo/pauling/plng_contract_complete_demo_01.mp3": {
+        "base_name": "plng_contract_complete_demo_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Demo."
+    },
+    "vo/pauling/plng_contract_complete_demo_02.mp3": {
+        "base_name": "plng_contract_complete_demo_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Demo."
+    },
+    "vo/pauling/plng_contract_complete_demo_03.mp3": {
+        "base_name": "plng_contract_complete_demo_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work Demo."
+    },
+    "vo/pauling/plng_contract_complete_demo_04.mp3": {
+        "base_name": "plng_contract_complete_demo_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again, Demo."
+    },
+    "vo/pauling/plng_contract_complete_demo_05.mp3": {
+        "base_name": "plng_contract_complete_demo_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Demo. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_demo_06.mp3": {
+        "base_name": "plng_contract_complete_demo_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Well, that's one less thing to worry about. Thanks Demo."
+    },
+    "vo/pauling/plng_contract_complete_demo_07.mp3": {
+        "base_name": "plng_contract_complete_demo_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks Demo. I owe you one."
+    },
+    "vo/pauling/plng_contract_complete_engie_01.mp3": {
+        "base_name": "plng_contract_complete_engie_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Engie."
+    },
+    "vo/pauling/plng_contract_complete_engie_02.mp3": {
+        "base_name": "plng_contract_complete_engie_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Engie."
+    },
+    "vo/pauling/plng_contract_complete_engie_03.mp3": {
+        "base_name": "plng_contract_complete_engie_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job, Engie. Thanks!"
+    },
+    "vo/pauling/plng_contract_complete_engie_04.mp3": {
+        "base_name": "plng_contract_complete_engie_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work, Engie."
+    },
+    "vo/pauling/plng_contract_complete_engie_05.mp3": {
+        "base_name": "plng_contract_complete_engie_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Engie. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_engie_06.mp3": {
+        "base_name": "plng_contract_complete_engie_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Engie."
+    },
+    "vo/pauling/plng_contract_complete_engie_07.mp3": {
+        "base_name": "plng_contract_complete_engie_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "That'll do Engie! Thanks!"
+    },
+    "vo/pauling/plng_contract_complete_engie_08.mp3": {
+        "base_name": "plng_contract_complete_engie_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Fulfilled to the letter, Engie. Thanks again."
+    },
+    "vo/pauling/plng_contract_complete_heavy_01.mp3": {
+        "base_name": "plng_contract_complete_heavy_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks Heavy. Administrator was really on me about this one."
+    },
+    "vo/pauling/plng_contract_complete_heavy_02.mp3": {
+        "base_name": "plng_contract_complete_heavy_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job, Heavy."
+    },
+    "vo/pauling/plng_contract_complete_heavy_03.mp3": {
+        "base_name": "plng_contract_complete_heavy_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work, Heavy."
+    },
+    "vo/pauling/plng_contract_complete_heavy_04.mp3": {
+        "base_name": "plng_contract_complete_heavy_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Heavy. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_heavy_05.mp3": {
+        "base_name": "plng_contract_complete_heavy_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Heavy."
+    },
+    "vo/pauling/plng_contract_complete_heavy_06.mp3": {
+        "base_name": "plng_contract_complete_heavy_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Knew I could count on you, Heavy. Thanks."
+    },
+    "vo/pauling/plng_contract_complete_heavy_07.mp3": {
+        "base_name": "plng_contract_complete_heavy_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I owe you one, Heavy. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_heavy_08.mp3": {
+        "base_name": "plng_contract_complete_heavy_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again, Heavy. I appreciate it."
+    },
+    "vo/pauling/plng_contract_complete_heavy_09.mp3": {
+        "base_name": "plng_contract_complete_heavy_09",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Heavy!"
+    },
+    "vo/pauling/plng_contract_complete_medic_01.mp3": {
+        "base_name": "plng_contract_complete_medic_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Doc."
+    },
+    "vo/pauling/plng_contract_complete_medic_02.mp3": {
+        "base_name": "plng_contract_complete_medic_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again, Doc."
+    },
+    "vo/pauling/plng_contract_complete_medic_03.mp3": {
+        "base_name": "plng_contract_complete_medic_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work, Medic."
+    },
+    "vo/pauling/plng_contract_complete_medic_04.mp3": {
+        "base_name": "plng_contract_complete_medic_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Medic. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_medic_05.mp3": {
+        "base_name": "plng_contract_complete_medic_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Medic."
+    },
+    "vo/pauling/plng_contract_complete_medic_06.mp3": {
+        "base_name": "plng_contract_complete_medic_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'll give you this, Medic. You get results."
+    },
+    "vo/pauling/plng_contract_complete_pyro_01.mp3": {
+        "base_name": "plng_contract_complete_pyro_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Pyro!"
+    },
+    "vo/pauling/plng_contract_complete_pyro_02.mp3": {
+        "base_name": "plng_contract_complete_pyro_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You did it Pyro! Thanks buddy."
+    },
+    "vo/pauling/plng_contract_complete_pyro_03.mp3": {
+        "base_name": "plng_contract_complete_pyro_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again Pyro."
+    },
+    "vo/pauling/plng_contract_complete_pyro_04.mp3": {
+        "base_name": "plng_contract_complete_pyro_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ohh, thanks Pyro. Administrator really wanted this one taken care of."
+    },
+    "vo/pauling/plng_contract_complete_pyro_05.mp3": {
+        "base_name": "plng_contract_complete_pyro_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks Pyro. I owe you one."
+    },
+    "vo/pauling/plng_contract_complete_pyro_06.mp3": {
+        "base_name": "plng_contract_complete_pyro_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work Pyro."
+    },
+    "vo/pauling/plng_contract_complete_pyro_07.mp3": {
+        "base_name": "plng_contract_complete_pyro_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done Pyro. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_pyro_08.mp3": {
+        "base_name": "plng_contract_complete_pyro_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Pyro."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_01.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Just so you know, I don't give a lot of these out."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_02.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work. Your reward on this one is gonna be...pretty one of a kind."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_03.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Here's your payday. You earned it."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_04.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Don't tell the other guys I gave you this."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_05.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Here's your payday for the big job."
+    },
+    "vo/pauling/plng_contract_complete_rareitem_allclass_06.mp3": {
+        "base_name": "plng_contract_complete_rareitem_allclass_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_give_item_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Here's the payout...I know right?"
+    },
+    "vo/pauling/plng_contract_complete_scout_01.mp3": {
+        "base_name": "plng_contract_complete_scout_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Scout."
+    },
+    "vo/pauling/plng_contract_complete_scout_02.mp3": {
+        "base_name": "plng_contract_complete_scout_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job, Scout."
+    },
+    "vo/pauling/plng_contract_complete_scout_03.mp3": {
+        "base_name": "plng_contract_complete_scout_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work, Scout."
+    },
+    "vo/pauling/plng_contract_complete_scout_04.mp3": {
+        "base_name": "plng_contract_complete_scout_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Scout. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_scout_05.mp3": {
+        "base_name": "plng_contract_complete_scout_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Job well done, Scout."
+    },
+    "vo/pauling/plng_contract_complete_sniper_01.mp3": {
+        "base_name": "plng_contract_complete_sniper_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Sniper."
+    },
+    "vo/pauling/plng_contract_complete_sniper_02.mp3": {
+        "base_name": "plng_contract_complete_sniper_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work, Sniper."
+    },
+    "vo/pauling/plng_contract_complete_sniper_03.mp3": {
+        "base_name": "plng_contract_complete_sniper_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Sniper. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_sniper_04.mp3": {
+        "base_name": "plng_contract_complete_sniper_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks Sniper."
+    },
+    "vo/pauling/plng_contract_complete_sniper_05.mp3": {
+        "base_name": "plng_contract_complete_sniper_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks Sniper. I owe you one."
+    },
+    "vo/pauling/plng_contract_complete_sniper_06.mp3": {
+        "base_name": "plng_contract_complete_sniper_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again, Sniper."
+    },
+    "vo/pauling/plng_contract_complete_sniper_07.mp3": {
+        "base_name": "plng_contract_complete_sniper_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job, Sniper!"
+    },
+    "vo/pauling/plng_contract_complete_soldier_01.mp3": {
+        "base_name": "plng_contract_complete_soldier_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Soldier."
+    },
+    "vo/pauling/plng_contract_complete_soldier_02.mp3": {
+        "base_name": "plng_contract_complete_soldier_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good work, men."
+    },
+    "vo/pauling/plng_contract_complete_soldier_03.mp3": {
+        "base_name": "plng_contract_complete_soldier_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "At ease, Soldier."
+    },
+    "vo/pauling/plng_contract_complete_soldier_04.mp3": {
+        "base_name": "plng_contract_complete_soldier_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, son."
+    },
+    "vo/pauling/plng_contract_complete_soldier_05.mp3": {
+        "base_name": "plng_contract_complete_soldier_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good job, Soldier."
+    },
+    "vo/pauling/plng_contract_complete_soldier_06.mp3": {
+        "base_name": "plng_contract_complete_soldier_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Soldier. As you were."
+    },
+    "vo/pauling/plng_contract_complete_soldier_07.mp3": {
+        "base_name": "plng_contract_complete_soldier_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Soldier. I'm proud of you."
+    },
+    "vo/pauling/plng_contract_complete_soldier_08.mp3": {
+        "base_name": "plng_contract_complete_soldier_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "All gave some, some gave all, Soldier. Nice work."
+    },
+    "vo/pauling/plng_contract_complete_spy_01.mp3": {
+        "base_name": "plng_contract_complete_spy_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nice work, Spy."
+    },
+    "vo/pauling/plng_contract_complete_spy_02.mp3": {
+        "base_name": "plng_contract_complete_spy_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks again Spy."
+    },
+    "vo/pauling/plng_contract_complete_spy_03.mp3": {
+        "base_name": "plng_contract_complete_spy_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract fulfilled. Nice work, Spy."
+    },
+    "vo/pauling/plng_contract_complete_spy_04.mp3": {
+        "base_name": "plng_contract_complete_spy_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Always a pleasure, Spy."
+    },
+    "vo/pauling/plng_contract_complete_spy_05.mp3": {
+        "base_name": "plng_contract_complete_spy_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nicely done, Spy. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_complete_spy_06.mp3": {
+        "base_name": "plng_contract_complete_spy_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract complete. Thanks, Spy."
+    },
+    "vo/pauling/plng_contract_complete_spy_07.mp3": {
+        "base_name": "plng_contract_complete_spy_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_complete_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Job well done, Spy!"
+    },
+    "vo/pauling/plng_contract_fail_allclass_01.mp3": {
+        "base_name": "plng_contract_fail_allclass_01",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "The Administrator will have to be notified. Sorry."
+    },
+    "vo/pauling/plng_contract_fail_allclass_02.mp3": {
+        "base_name": "plng_contract_fail_allclass_02",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Crap! The Administrator is gonna kill me."
+    },
+    "vo/pauling/plng_contract_fail_allclass_03.mp3": {
+        "base_name": "plng_contract_fail_allclass_03",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I should've asked one of the other guys."
+    },
+    "vo/pauling/plng_contract_fail_allclass_04.mp3": {
+        "base_name": "plng_contract_fail_allclass_04",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I had a bad feeling about this one anyway."
+    },
+    "vo/pauling/plng_contract_fail_allclass_05.mp3": {
+        "base_name": "plng_contract_fail_allclass_05",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "S'okay. We'll get them next time."
+    },
+    "vo/pauling/plng_contract_fail_allclass_06.mp3": {
+        "base_name": "plng_contract_fail_allclass_06",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Let's uh...call this a learning experience?"
+    },
+    "vo/pauling/plng_contract_fail_allclass_07.mp3": {
+        "base_name": "plng_contract_fail_allclass_07",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, sometimes you have to walk away. I get it."
+    },
+    "vo/pauling/plng_contract_fail_allclass_08.mp3": {
+        "base_name": "plng_contract_fail_allclass_08",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract incomplete."
+    },
+    "vo/pauling/plng_contract_fail_allclass_09.mp3": {
+        "base_name": "plng_contract_fail_allclass_09",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Looks like I'll have to shunt this around somewhere else..."
+    },
+    "vo/pauling/plng_contract_fail_allclass_10.mp3": {
+        "base_name": "plng_contract_fail_allclass_10",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks anyway."
+    },
+    "vo/pauling/plng_contract_fail_allclass_11.mp3": {
+        "base_name": "plng_contract_fail_allclass_11",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You did it! Wait, you didn't do it."
+    },
+    "vo/pauling/plng_contract_fail_allclass_12.mp3": {
+        "base_name": "plng_contract_fail_allclass_12",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "All right, fair enough. I'll be in touch."
+    },
+    "vo/pauling/plng_contract_fail_allclass_13.mp3": {
+        "base_name": "plng_contract_fail_allclass_13",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Well, you can't win them all."
+    },
+    "vo/pauling/plng_contract_fail_allclass_14.mp3": {
+        "base_name": "plng_contract_fail_allclass_14",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hmm. Well maybe next time."
+    },
+    "vo/pauling/plng_contract_fail_allclass_15.mp3": {
+        "base_name": "plng_contract_fail_allclass_15",
+        "criteria": [],
+        "events": [
+            "plng_contract_fail_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You did it! Wait, you didn't do it."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_01.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_01",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "This contract's big. Don't pass this up."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_02.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_02",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's Pauling. This is a big one. That means a big payday."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_03.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_03",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling here. This contract is big. I don't give these out everyday."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_04.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_04",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's Pauling. This is a high value contract. That means a big reward on this one."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_05.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_05",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling here. This contract's big. And big contracts mean big payouts."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_06.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_06",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ok, I managed to get you one of the big contracts. And that means a big payday. Don't make me look bad."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_07.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_07",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's Pauling. This is a big one. Don't screw it up."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_08.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_08",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ok, I pulled some strings and secured you one of the big contracts. This'll be a high-end payout so get it done."
+    },
+    "vo/pauling/plng_give_bigcontract_allclass_09.mp3": {
+        "base_name": "plng_give_bigcontract_allclass_09",
+        "criteria": [],
+        "events": [
+            "plng_give_bigcontract_allclass"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I made some calls and got you one of the big contracts. I don't give these out everyday, so don't screw it up, all right?"
+    },
+    "vo/pauling/plng_give_contract_demo_01.mp3": {
+        "base_name": "plng_give_contract_demo_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_demo_02.mp3": {
+        "base_name": "plng_give_contract_demo_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_demo_03.mp3": {
+        "base_name": "plng_give_contract_demo_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pack up some bombs, Demo. I've got a contract."
+    },
+    "vo/pauling/plng_give_contract_demo_04.mp3": {
+        "base_name": "plng_give_contract_demo_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_demo_05.mp3": {
+        "base_name": "plng_give_contract_demo_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? Pauling here. I need your help."
+    },
+    "vo/pauling/plng_give_contract_demo_06.mp3": {
+        "base_name": "plng_give_contract_demo_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo, it's Pauling. I've got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_demo_07.mp3": {
+        "base_name": "plng_give_contract_demo_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo, Pauling here. This one came right from the Administrator."
+    },
+    "vo/pauling/plng_give_contract_demo_08.mp3": {
+        "base_name": "plng_give_contract_demo_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Demo, Pauling here. I've got work."
+    },
+    "vo/pauling/plng_give_contract_demo_09.mp3": {
+        "base_name": "plng_give_contract_demo_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo. Hey, it's Pauling. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_demo_10.mp3": {
+        "base_name": "plng_give_contract_demo_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo. It's Pauling. I've got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_engie_01.mp3": {
+        "base_name": "plng_give_contract_engie_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_engie_02.mp3": {
+        "base_name": "plng_give_contract_engie_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie. Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_engie_03.mp3": {
+        "base_name": "plng_give_contract_engie_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Engie. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_engie_04.mp3": {
+        "base_name": "plng_give_contract_engie_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie. Administrator asked for you on this one. Specifically."
+    },
+    "vo/pauling/plng_give_contract_engie_05.mp3": {
+        "base_name": "plng_give_contract_engie_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Engie, it's Pauling."
+    },
+    "vo/pauling/plng_give_contract_engie_06.mp3": {
+        "base_name": "plng_give_contract_engie_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie, Pauling here. This contract is high priority."
+    },
+    "vo/pauling/plng_give_contract_engie_07.mp3": {
+        "base_name": "plng_give_contract_engie_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Contract just came in. I need this done by the numbers, Engie."
+    },
+    "vo/pauling/plng_give_contract_engie_08.mp3": {
+        "base_name": "plng_give_contract_engie_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "This one's gonna need some strategy, Engie."
+    },
+    "vo/pauling/plng_give_contract_engie_09.mp3": {
+        "base_name": "plng_give_contract_engie_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pack up your tools, Engie. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_engie_10.mp3": {
+        "base_name": "plng_give_contract_engie_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Pauling. Think you can handle this?"
+    },
+    "vo/pauling/plng_give_contract_engie_11.mp3": {
+        "base_name": "plng_give_contract_engie_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Hey, it's Pauling. Interested in some extra work?"
+    },
+    "vo/pauling/plng_give_contract_engie_12.mp3": {
+        "base_name": "plng_give_contract_engie_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Pauling here. I need your help."
+    },
+    "vo/pauling/plng_give_contract_engie_13.mp3": {
+        "base_name": "plng_give_contract_engie_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Pauling, here. I need something done. Quietly."
+    },
+    "vo/pauling/plng_give_contract_engie_14.mp3": {
+        "base_name": "plng_give_contract_engie_14",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/pauling/plng_give_contract_heavy_01.mp3": {
+        "base_name": "plng_give_contract_heavy_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_heavy_02.mp3": {
+        "base_name": "plng_give_contract_heavy_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy. Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_heavy_03.mp3": {
+        "base_name": "plng_give_contract_heavy_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_heavy_04.mp3": {
+        "base_name": "plng_give_contract_heavy_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? It's Pauling. I'm cashing in a favor on this one."
+    },
+    "vo/pauling/plng_give_contract_heavy_05.mp3": {
+        "base_name": "plng_give_contract_heavy_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? It's Pauling. Got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_heavy_06.mp3": {
+        "base_name": "plng_give_contract_heavy_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? It's Pauling. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_heavy_07.mp3": {
+        "base_name": "plng_give_contract_heavy_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? Pauling here. Something just came up."
+    },
+    "vo/pauling/plng_give_contract_heavy_08.mp3": {
+        "base_name": "plng_give_contract_heavy_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy. Pauling here. This contract just came in."
+    },
+    "vo/pauling/plng_give_contract_heavy_09.mp3": {
+        "base_name": "plng_give_contract_heavy_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? Pauling here. I've got work."
+    },
+    "vo/pauling/plng_give_contract_heavy_10.mp3": {
+        "base_name": "plng_give_contract_heavy_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? Can you talk? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_heavy_11.mp3": {
+        "base_name": "plng_give_contract_heavy_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? Pauling here. This one came right from the Administrator."
+    },
+    "vo/pauling/plng_give_contract_heavy_12.mp3": {
+        "base_name": "plng_give_contract_heavy_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I need something taken care of, Heavy. I know I can trust you."
+    },
+    "vo/pauling/plng_give_contract_heavy_13.mp3": {
+        "base_name": "plng_give_contract_heavy_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Administrator wants this taken care of, Heavy. No loose ends."
+    },
+    "vo/pauling/plng_give_contract_heavy_14.mp3": {
+        "base_name": "plng_give_contract_heavy_14",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Administrator's on the warpath, Heavy. I need this done."
+    },
+    "vo/pauling/plng_give_contract_heavy_15.mp3": {
+        "base_name": "plng_give_contract_heavy_15",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "This one's got your name all over it, big guy."
+    },
+    "vo/pauling/plng_give_contract_heavy_16.mp3": {
+        "base_name": "plng_give_contract_heavy_16",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Heavy. I've got work for you and Sasha."
+    },
+    "vo/pauling/plng_give_contract_heavy_17.mp3": {
+        "base_name": "plng_give_contract_heavy_17",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Heavy, it's Pauling. You're the only one I trust for this."
+    },
+    "vo/pauling/plng_give_contract_heavy_18.mp3": {
+        "base_name": "plng_give_contract_heavy_18",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy, Pauling here. Keep this job between you and me."
+    },
+    "vo/pauling/plng_give_contract_medic_01.mp3": {
+        "base_name": "plng_give_contract_medic_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_medic_02.mp3": {
+        "base_name": "plng_give_contract_medic_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic. Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_medic_03.mp3": {
+        "base_name": "plng_give_contract_medic_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Doc. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_medic_04.mp3": {
+        "base_name": "plng_give_contract_medic_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_medic_05.mp3": {
+        "base_name": "plng_give_contract_medic_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic, it's Pauling. I've got something I wanted you to look at."
+    },
+    "vo/pauling/plng_give_contract_medic_06.mp3": {
+        "base_name": "plng_give_contract_medic_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic, it's Pauling. You've got time to look into something for me?"
+    },
+    "vo/pauling/plng_give_contract_medic_07.mp3": {
+        "base_name": "plng_give_contract_medic_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Doc? Pauling here. Take a look at this."
+    },
+    "vo/pauling/plng_give_contract_medic_08.mp3": {
+        "base_name": "plng_give_contract_medic_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Medic. Pauling here. I saw this and thought of you."
+    },
+    "vo/pauling/plng_give_contract_medic_09.mp3": {
+        "base_name": "plng_give_contract_medic_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic, it's Pauling. I've got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_medic_10.mp3": {
+        "base_name": "plng_give_contract_medic_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling, here. Let's keep this job confidential."
+    },
+    "vo/pauling/plng_give_contract_medic_11.mp3": {
+        "base_name": "plng_give_contract_medic_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Nobody's crazy enough to do this but you, doctor."
+    },
+    "vo/pauling/plng_give_contract_medic_12.mp3": {
+        "base_name": "plng_give_contract_medic_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Doc. It's Pauling. I've got a contract for you. Anything goes."
+    },
+    "vo/pauling/plng_give_contract_medic_13.mp3": {
+        "base_name": "plng_give_contract_medic_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic, it's Pauling. This one...might get messy."
+    },
+    "vo/pauling/plng_give_contract_medic_14.mp3": {
+        "base_name": "plng_give_contract_medic_14",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Doc. Pauling. Got a live one for you."
+    },
+    "vo/pauling/plng_give_contract_pyro_01.mp3": {
+        "base_name": "plng_give_contract_pyro_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro? Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_pyro_02.mp3": {
+        "base_name": "plng_give_contract_pyro_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro? Pauling here. I saw this and thought of you."
+    },
+    "vo/pauling/plng_give_contract_pyro_03.mp3": {
+        "base_name": "plng_give_contract_pyro_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_pyro_04.mp3": {
+        "base_name": "plng_give_contract_pyro_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hi Pyro. It's Miss Pauling."
+    },
+    "vo/pauling/plng_give_contract_pyro_05.mp3": {
+        "base_name": "plng_give_contract_pyro_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Pyro, Pauling here. This contract just came in."
+    },
+    "vo/pauling/plng_give_contract_pyro_06.mp3": {
+        "base_name": "plng_give_contract_pyro_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro? Pauling here. Think you can handle this?"
+    },
+    "vo/pauling/plng_give_contract_pyro_07.mp3": {
+        "base_name": "plng_give_contract_pyro_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro, Pauling here. I need something done. Quietly."
+    },
+    "vo/pauling/plng_give_contract_pyro_08.mp3": {
+        "base_name": "plng_give_contract_pyro_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pyro, Pauling here. Something just came up."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_01.mp3": {
+        "base_name": "plng_give_contract_rare_demo_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? It's Miss Pauling. The Miss Pauling...that's...I...I'm not actually famous. That was a joke I've been researching. Could you...rate your amusement on a scale of 1-100?"
+    },
+    "vo/pauling/plng_give_contract_rare_demo_02.mp3": {
+        "base_name": "plng_give_contract_rare_demo_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, Demo. I was on the phone with your mom. She said you didn't have enough jobs, so I got you an extra one. I won't lie, she sounded angry."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_03.mp3": {
+        "base_name": "plng_give_contract_rare_demo_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo, it's Pauling. Place your eyeballs on this...eye...eyeball...whatever you see with. Make it...just make it look at this."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_04.mp3": {
+        "base_name": "plng_give_contract_rare_demo_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo, it's your liver. I'm kidding, it's Miss Pauling. If I was your liver, I'd just be screaming."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_05.mp3": {
+        "base_name": "plng_give_contract_rare_demo_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Demo, wake up. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_06.mp3": {
+        "base_name": "plng_give_contract_rare_demo_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo, it's Pauling. If you're not dead, I've got work for you."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_07.mp3": {
+        "base_name": "plng_give_contract_rare_demo_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo. Pauling. Sober up, I've got work."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_08.mp3": {
+        "base_name": "plng_give_contract_rare_demo_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? Pauling. I've got a job here that requires killing a lot of people and blowing up everything else. I thought of you."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_09.mp3": {
+        "base_name": "plng_give_contract_rare_demo_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo! Demo? You there? It's Pauling. Demo? Demo?"
+    },
+    "vo/pauling/plng_give_contract_rare_demo_10.mp3": {
+        "base_name": "plng_give_contract_rare_demo_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, Demo. This job is for your eyes only...eye...I mean...you get it."
+    },
+    "vo/pauling/plng_give_contract_rare_demo_11.mp3": {
+        "base_name": "plng_give_contract_rare_demo_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demo? Pauling. I've got a job that requires no depth perception. You in?"
+    },
+    "vo/pauling/plng_give_contract_rare_demo_12.mp3": {
+        "base_name": "plng_give_contract_rare_demo_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_demo"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Demoman? It's Pauling. I've got work. I...Demoman? That sounds weird. Does anyone actually call you that? Let's go back to 'Demo'."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_01.mp3": {
+        "base_name": "plng_give_contract_rare_engie_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Big Brains! Pauling here."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_02.mp3": {
+        "base_name": "plng_give_contract_rare_engie_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie. It's Pauling. My moped's making a funny noise like a *chuk chuk chuk chuk* *whirr* *chuk chuk* sort of...thing. You know what? You're busy. Uh anyway, I've got work."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_03.mp3": {
+        "base_name": "plng_give_contract_rare_engie_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Engie, you got anything in your warehouse that can liquify about...hold on...let's call it 80 bodies? My chipper shredder's backed up. Anyway think about it. I've got a job."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_04.mp3": {
+        "base_name": "plng_give_contract_rare_engie_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie, this job requires someone who can read...you're my only hope."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_05.mp3": {
+        "base_name": "plng_give_contract_rare_engie_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie, it's Pauling. Is Scout there? Cough if he's there. I've got a job for you. Not him."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_06.mp3": {
+        "base_name": "plng_give_contract_rare_engie_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Howdy pardner! Rustle up the...cows...and move...move 'em out..of the barn...partner."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_07.mp3": {
+        "base_name": "plng_give_contract_rare_engie_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Howdy cowpoke! Let's ride...oh what other cowboy words do I know? Oh, saddle! Engie? You still there? Saddle up! Saddle 'em up!"
+    },
+    "vo/pauling/plng_give_contract_rare_engie_08.mp3": {
+        "base_name": "plng_give_contract_rare_engie_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Engie? Pauling. I need someone who's smart for this."
+    },
+    "vo/pauling/plng_give_contract_rare_engie_09.mp3": {
+        "base_name": "plng_give_contract_rare_engie_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_engie"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Howdy pardner! I'm...so sorry for that."
+    },
+    "vo/pauling/plng_give_contract_rare_heavy_01.mp3": {
+        "base_name": "plng_give_contract_rare_heavy_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy? It's Pauling. I know you're working so you're probably killing...like...everything right now, but this just came in."
+    },
+    "vo/pauling/plng_give_contract_rare_heavy_02.mp3": {
+        "base_name": "plng_give_contract_rare_heavy_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_heavy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heavy, I need to you keep quiet on this. Well, you're always quiet. Quieter."
+    },
+    "vo/pauling/plng_give_contract_rare_medic_01.mp3": {
+        "base_name": "plng_give_contract_rare_medic_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "MEDIC! That was...just an impression. In bad taste, now that I think about it. I guess the people screaming that are usually, you know, dying."
+    },
+    "vo/pauling/plng_give_contract_rare_medic_02.mp3": {
+        "base_name": "plng_give_contract_rare_medic_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_medic"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Medic. Pauling here. Take the gloves off for this one. Actually keep the gloves on. That might get messy."
+    },
+    "vo/pauling/plng_give_contract_rare_pyro_01.mp3": {
+        "base_name": "plng_give_contract_rare_pyro_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey buddy! It's Pauling!"
+    },
+    "vo/pauling/plng_give_contract_rare_pyro_02.mp3": {
+        "base_name": "plng_give_contract_rare_pyro_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hi Pyro! I've got something I need you to do, OK buddy?"
+    },
+    "vo/pauling/plng_give_contract_rare_pyro_03.mp3": {
+        "base_name": "plng_give_contract_rare_pyro_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Pyro! You want to do a real big favor for Miss Pauling?"
+    },
+    "vo/pauling/plng_give_contract_rare_pyro_04.mp3": {
+        "base_name": "plng_give_contract_rare_pyro_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_pyro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Pyro! [extended mumbling] I've always wanted to try that. I hope I just said 'I have a job'. Because I have a job."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_01.mp3": {
+        "base_name": "plng_give_contract_rare_scout_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout? Pauling. I need something done fast. I thought of you."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_02.mp3": {
+        "base_name": "plng_give_contract_rare_scout_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout. First, 'No' to whatever you're about to ask. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_03.mp3": {
+        "base_name": "plng_give_contract_rare_scout_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. I'm assuming you're talking right now. Please stop."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_04.mp3": {
+        "base_name": "plng_give_contract_rare_scout_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, Pauling here. Wrap up whatever you were bragging about and look at this."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_05.mp3": {
+        "base_name": "plng_give_contract_rare_scout_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout, I need you...I...I...I mean for...for this."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_06.mp3": {
+        "base_name": "plng_give_contract_rare_scout_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. Whatever stupid thing you're doing, stop it. I've got work."
+    },
+    "vo/pauling/plng_give_contract_rare_scout_07.mp3": {
+        "base_name": "plng_give_contract_rare_scout_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. I need something done quietly. Scout? Quietly."
+    },
+    "vo/pauling/plng_give_contract_rare_sniper_01.mp3": {
+        "base_name": "plng_give_contract_rare_sniper_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, Sniper. So you're a Kiwi now, huh? Right, allotted small talk time over, I've got work."
+    },
+    "vo/pauling/plng_give_contract_rare_sniper_02.mp3": {
+        "base_name": "plng_give_contract_rare_sniper_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Pauling. What's that sound? Are you...are you peeing in a jar right now?"
+    },
+    "vo/pauling/plng_give_contract_rare_soldier_01.mp3": {
+        "base_name": "plng_give_contract_rare_soldier_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "If this mission weren't maximum deniability, you'd be a hero for this, son. There would be a parade."
+    },
+    "vo/pauling/plng_give_contract_rare_soldier_02.mp3": {
+        "base_name": "plng_give_contract_rare_soldier_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier, I need you and Pepper Pot Pete, and Salty Pete, and Pete Pepper Pants...Hell, all your cardboard friends on this one."
+    },
+    "vo/pauling/plng_give_contract_rare_soldier_03.mp3": {
+        "base_name": "plng_give_contract_rare_soldier_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier, you know who doesn't want you to take this job? Hippies, Communists, Tom Jones. Show them, Soldier. Show them all."
+    },
+    "vo/pauling/plng_give_contract_rare_soldier_04.mp3": {
+        "base_name": "plng_give_contract_rare_soldier_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ten-hut, Soldier! Alpha...Romeo...Zero Dark...army words."
+    },
+    "vo/pauling/plng_give_contract_rare_soldier_05.mp3": {
+        "base_name": "plng_give_contract_rare_soldier_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I want you to go out there with all you've got and win just one for Miss Pauling, Soldier!"
+    },
+    "vo/pauling/plng_give_contract_rare_spy_01.mp3": {
+        "base_name": "plng_give_contract_rare_spy_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Spy. Pauling. I took care of that DNA test for you. You owe me one and I'm cashing it in. Take care of this."
+    },
+    "vo/pauling/plng_give_contract_rare_spy_02.mp3": {
+        "base_name": "plng_give_contract_rare_spy_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, just between you and me, you should really wash that ski mask. Like once. There's visible stink lines coming off that thing. Anyway, I need a favor."
+    },
+    "vo/pauling/plng_give_contract_rare_spy_03.mp3": {
+        "base_name": "plng_give_contract_rare_spy_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "(attempting a French accent) Bonjour Spy! It ees I, Francis zhe Talking France. I have zhe job for you, yes? Oui? Baguettes? (normal voice) No, it's Miss Pauling, sorry. I do have a job for you. It's not French though, sorry."
+    },
+    "vo/pauling/plng_give_contract_rare_spy_04.mp3": {
+        "base_name": "plng_give_contract_rare_spy_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Spy! Oh, oh right. You're probably sneaking up on somebody. To stab them. Oh, I bet you're about to do it too. They can't...hear me, can they? Do you have video on this thing?"
+    },
+    "vo/pauling/plng_give_contract_scout_01.mp3": {
+        "base_name": "plng_give_contract_scout_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_scout_02.mp3": {
+        "base_name": "plng_give_contract_scout_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout? Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_scout_03.mp3": {
+        "base_name": "plng_give_contract_scout_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_scout_04.mp3": {
+        "base_name": "plng_give_contract_scout_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout. It's Pauling. Got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_scout_05.mp3": {
+        "base_name": "plng_give_contract_scout_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, Pauling here. I've got work."
+    },
+    "vo/pauling/plng_give_contract_scout_06.mp3": {
+        "base_name": "plng_give_contract_scout_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout, Pauling here. I need your help."
+    },
+    "vo/pauling/plng_give_contract_scout_07.mp3": {
+        "base_name": "plng_give_contract_scout_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout, Pauling here. Think you can handle this?"
+    },
+    "vo/pauling/plng_give_contract_scout_08.mp3": {
+        "base_name": "plng_give_contract_scout_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, Pauling here. This one came right from the Administrator."
+    },
+    "vo/pauling/plng_give_contract_scout_09.mp3": {
+        "base_name": "plng_give_contract_scout_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. Something big just came up."
+    },
+    "vo/pauling/plng_give_contract_scout_10.mp3": {
+        "base_name": "plng_give_contract_scout_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. Listen up, this is big."
+    },
+    "vo/pauling/plng_give_contract_scout_11.mp3": {
+        "base_name": "plng_give_contract_scout_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout? Pauling. Don't talk, just listen. I've got a job."
+    },
+    "vo/pauling/plng_give_contract_scout_12.mp3": {
+        "base_name": "plng_give_contract_scout_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Scout. Take a look at this."
+    },
+    "vo/pauling/plng_give_contract_scout_13.mp3": {
+        "base_name": "plng_give_contract_scout_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_scout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Scout, it's Pauling. This isn't a social call. I've got work."
+    },
+    "vo/pauling/plng_give_contract_sniper_01.mp3": {
+        "base_name": "plng_give_contract_sniper_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_sniper_02.mp3": {
+        "base_name": "plng_give_contract_sniper_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper. Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_sniper_03.mp3": {
+        "base_name": "plng_give_contract_sniper_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Sniper. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_sniper_04.mp3": {
+        "base_name": "plng_give_contract_sniper_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_sniper_05.mp3": {
+        "base_name": "plng_give_contract_sniper_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Heads up, Sniper. I've got work."
+    },
+    "vo/pauling/plng_give_contract_sniper_06.mp3": {
+        "base_name": "plng_give_contract_sniper_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Pauling here. Take a look at this."
+    },
+    "vo/pauling/plng_give_contract_sniper_07.mp3": {
+        "base_name": "plng_give_contract_sniper_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper, it's Pauling. You've got time to look into something for me?"
+    },
+    "vo/pauling/plng_give_contract_sniper_08.mp3": {
+        "base_name": "plng_give_contract_sniper_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Sniper. It's Pauling. Got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_sniper_09.mp3": {
+        "base_name": "plng_give_contract_sniper_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Hey, it's Pauling. Interested in some extra work?"
+    },
+    "vo/pauling/plng_give_contract_sniper_10.mp3": {
+        "base_name": "plng_give_contract_sniper_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Pauling here. This contract is high priority."
+    },
+    "vo/pauling/plng_give_contract_sniper_11.mp3": {
+        "base_name": "plng_give_contract_sniper_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Sniper? Pauling here. Think you can handle this?"
+    },
+    "vo/pauling/plng_give_contract_sniper_12.mp3": {
+        "base_name": "plng_give_contract_sniper_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_sniper"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling here. I need a professional on this one, Sniper."
+    },
+    "vo/pauling/plng_give_contract_soldier_01.mp3": {
+        "base_name": "plng_give_contract_soldier_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_soldier_02.mp3": {
+        "base_name": "plng_give_contract_soldier_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier. Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_soldier_03.mp3": {
+        "base_name": "plng_give_contract_soldier_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Soldier. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_soldier_04.mp3": {
+        "base_name": "plng_give_contract_soldier_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier, it's Pauling. I've got a job for you."
+    },
+    "vo/pauling/plng_give_contract_soldier_05.mp3": {
+        "base_name": "plng_give_contract_soldier_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier? Hey, it's Pauling. There's something I wanted you to look into."
+    },
+    "vo/pauling/plng_give_contract_soldier_06.mp3": {
+        "base_name": "plng_give_contract_soldier_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier? Pauling. I've got a contract for you."
+    },
+    "vo/pauling/plng_give_contract_soldier_07.mp3": {
+        "base_name": "plng_give_contract_soldier_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Got some new marching orders, Soldier."
+    },
+    "vo/pauling/plng_give_contract_soldier_08.mp3": {
+        "base_name": "plng_give_contract_soldier_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Got a contract, Soldier. You good to go?"
+    },
+    "vo/pauling/plng_give_contract_soldier_09.mp3": {
+        "base_name": "plng_give_contract_soldier_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Move out, Soldier! You've been reassigned."
+    },
+    "vo/pauling/plng_give_contract_soldier_10.mp3": {
+        "base_name": "plng_give_contract_soldier_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Eyes front, Soldier. There's work to do."
+    },
+    "vo/pauling/plng_give_contract_soldier_11.mp3": {
+        "base_name": "plng_give_contract_soldier_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You've got incoming, Soldier. Get to work."
+    },
+    "vo/pauling/plng_give_contract_soldier_12.mp3": {
+        "base_name": "plng_give_contract_soldier_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Incoming, Soldier. Get this squared away."
+    },
+    "vo/pauling/plng_give_contract_soldier_13.mp3": {
+        "base_name": "plng_give_contract_soldier_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier, it's Pauling. You got time to look into something for me?"
+    },
+    "vo/pauling/plng_give_contract_soldier_14.mp3": {
+        "base_name": "plng_give_contract_soldier_14",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Show these maggots how it's done, Soldier."
+    },
+    "vo/pauling/plng_give_contract_soldier_15.mp3": {
+        "base_name": "plng_give_contract_soldier_15",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier? It's Pauling, son. Your country needs you."
+    },
+    "vo/pauling/plng_give_contract_soldier_16.mp3": {
+        "base_name": "plng_give_contract_soldier_16",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I've got a job for you, Soldier. Make me proud, son."
+    },
+    "vo/pauling/plng_give_contract_soldier_17.mp3": {
+        "base_name": "plng_give_contract_soldier_17",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I want you to know, Soldier. You're doing hero's work out there, son."
+    },
+    "vo/pauling/plng_give_contract_soldier_18.mp3": {
+        "base_name": "plng_give_contract_soldier_18",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_soldier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Soldier, it's Pauling. There will be medals given out for this one."
+    },
+    "vo/pauling/plng_give_contract_spy_01.mp3": {
+        "base_name": "plng_give_contract_spy_01",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy? Pauling here."
+    },
+    "vo/pauling/plng_give_contract_spy_02.mp3": {
+        "base_name": "plng_give_contract_spy_02",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, Miss Pauling here."
+    },
+    "vo/pauling/plng_give_contract_spy_03.mp3": {
+        "base_name": "plng_give_contract_spy_03",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Spy. It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_spy_04.mp3": {
+        "base_name": "plng_give_contract_spy_04",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy? It's Pauling."
+    },
+    "vo/pauling/plng_give_contract_spy_05.mp3": {
+        "base_name": "plng_give_contract_spy_05",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey Spy. It's Pauling. Interested in some extra work?"
+    },
+    "vo/pauling/plng_give_contract_spy_06.mp3": {
+        "base_name": "plng_give_contract_spy_06",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy? Pauling here. This contract is high priority."
+    },
+    "vo/pauling/plng_give_contract_spy_07.mp3": {
+        "base_name": "plng_give_contract_spy_07",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, Pauling here. This contract just came in."
+    },
+    "vo/pauling/plng_give_contract_spy_08.mp3": {
+        "base_name": "plng_give_contract_spy_08",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, it's Pauling. I need something done. Quietly."
+    },
+    "vo/pauling/plng_give_contract_spy_09.mp3": {
+        "base_name": "plng_give_contract_spy_09",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, Pauling here. Take a look at this."
+    },
+    "vo/pauling/plng_give_contract_spy_10.mp3": {
+        "base_name": "plng_give_contract_spy_10",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy? It's Pauling. I never gave you this, got me?"
+    },
+    "vo/pauling/plng_give_contract_spy_11.mp3": {
+        "base_name": "plng_give_contract_spy_11",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Do it quickly, do it quietly. Just get it done, Spy."
+    },
+    "vo/pauling/plng_give_contract_spy_12.mp3": {
+        "base_name": "plng_give_contract_spy_12",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, it's Pauling. Utmost discretion on this one."
+    },
+    "vo/pauling/plng_give_contract_spy_13.mp3": {
+        "base_name": "plng_give_contract_spy_13",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, it's Pauling. Got a black bag job."
+    },
+    "vo/pauling/plng_give_contract_spy_14.mp3": {
+        "base_name": "plng_give_contract_spy_14",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Spy, I've got a custom contract: your eyes only."
+    },
+    "vo/pauling/plng_give_contract_spy_15.mp3": {
+        "base_name": "plng_give_contract_spy_15",
+        "criteria": [],
+        "events": [
+            "plng_give_contract_spy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "This one's nasty. I thought of you, Spy."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgive01.mp3": {
+        "base_name": "plng_toughbreak_contractgive01",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Pauling. Look, I'm...technically on vacation here, but something big just came up."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgive02.mp3": {
+        "base_name": "plng_toughbreak_contractgive02",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling, here. I'm on vacation, but a contract just came in. Thought of you...to, you know...kill people...for prizes."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgive03.mp3": {
+        "base_name": "plng_toughbreak_contractgive03",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, it's me! The Administrator's been ringing me off the hook about this. Can you get this done? Done, done? Like...bang, bang done?"
+    },
+    "vo/toughbreak/plng_toughbreak_contractgive04.mp3": {
+        "base_name": "plng_toughbreak_contractgive04",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Aw crap! I'm supposed to be on vacation here. Can you get this done for me, man? Thank you thank you thank you."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgive05.mp3": {
+        "base_name": "plng_toughbreak_contractgive05",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Pauling. I'm not in the office but the Administrator needs a lot of people killed and I've got some nice payouts here."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_ambush.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_ambush",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[She's over there!] \"Hey, it's Pauling\" [Go! Go! Go!] \"So, the Administrator invited me to her place for dinner.\" [There she is!; gunshot] \"Uh!\" [I got her!] \"But it turns out it was just an ambush to kill me. Hold on.\" [more gunfire; screams; Watch out, she's armed!] \"She does this every few years; it's like her version of an employee review. Anyway, got time for a contract?\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_beergarden.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_beergarden",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "(tipsy) \"Say, it's, it's Pauling. I'm at a, a beer garden with Demo, so there's lots of beer and...uh...beer. I had something I was gonna...tell you- Oh! You're a good friend! I'm always sending you on contracts to get you killed, and, and that's not friends, right? 'Cause, 'cause we're friends, man. And also, there's something I'm not supposed to tell you. Umm...two teams and the Administrator and umm...and there's this secret that...Oh, oh gotta go! Demo wants me to drink beer. So I'm gonna drink beer.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_bookclub.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_bookclub",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "(whispering) \"Hey, it's Pauling here. I'm at the Teufort Ladies Book Club, and I'm the only one who hasn't actually read Belinda...so...I-It's just about relationships, right? Guy meets girl, love stuff, happy ending? I-It's a good thing, right? I'm, I'm gonna tell everyone how I'm really rooting for these two as a couple.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_boxing.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_boxing",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[boxing bell rings] \"Hey! Just a, taking a boxing class here. [grunts of pain] Listen, a contract...[grunt]...a contract came in and...[sharp grunt]...Uh, arms in, arms in...and I thought of you [grunt] That's mine! That's my molar! Did, did anyone see where that went?\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_bus.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_bus",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[roar of bus engine] \"Hey, Pauling. I'm on a Teufort sightseeing tour. We just went to the library and took pictures of both the books. And then they took us to a tramp fight. And I guess now we're going to go look at a sewage fire. It hasn't gone out in like fifty years or something. So, they're really proud of it.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_campfire.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_campfire",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[campfire crackling] \"Pauling here. I'm at a campfire with Soldier, Salty Pete, Pepper Pot Pete, and Perry Pepper Pants, and Peter Poopy-Toots. [sotto voce] And they're all cardboard. I think he's crazy. [normal voice] Oh, what's that Soldier? Tree bark rations...sounds American! [sotto voce] Do this contract, and then get this man some help.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_cavetour.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_cavetour",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[water bubbling and bats rustling] \"Hey, Pauling here. I'm on a Teufort cave tour and...oh my God. These are the same caves I bury bodies in.\" [Ahhh! There's so many bodies!] \"And they found them.\" [Somebody call the police!] \"Okay, anyway, here's a contract.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_conference.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_conference",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling here. I'm at an Assistant's Conference with Bidwell, they just debuted this year's clipboards. And, wow! The clip, the board, they're both great. Some years, it's one or the other. It's a great time to be alive. Speaking of which, I need you to kill somebody."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_gargoyles.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_gargoyles",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[Scout: Oh, oh, and...(dice clatter)...not too shabby!] \"Pauling here. I'm trying to teach Scout Gargoyles and Gravel. [Yeah!] Ugh, no Scout, there's no such thing as a Muscle Wizard.\" [Yeah whatever.] \"No you can't beat an Orc by doing push-ups at it. Look, please, please put your shirt back on. Scout, stop flexing. Scout. Scout! Stop flexing.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_gunshow.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_gunshow",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, did you know a gun show is a real thing? I'm at one with Heavy right now. [Heavy: Is perfect, this is gun.] Oh wow, what's the gauge on that? Yeah, Scout's been saying he's going to take me to one for years, but all he does is shove his stupid arms in my face. Anyway, I've got something for you."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_hotdog.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_hotdog",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "(strained) \"Pauling here. I'm at a hotdog eating contest, and Engie made me a stomach teleporter, but...oogh...it's not working. I think it's only teleporting undigested hotdogs into my colon.\" [stomach growling] \"Ok, gotta go.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_keyparty.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_keyparty",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, Pauling here. I got invited to something called a \"key party\". I guess we all...trade houses or something? Anyway, they wanted my keys and I said no. If they keep pressing, I brought my gun. I've got a contract coming your way."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_ladiesnight.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_ladiesnight",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, it's Pauling. Sorry for the noise, it's Ladies Night at the Cap Point, and I...misunderstood what that meant.\" [Hey, what's a nice girl like you doing in a place like this?] \"I'm trying to get someone killed for money. Can you give me a second? Sorry about that. Anyway, take a look."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_ontherocks.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_ontherocks",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, sorry for the noise! It's Dollar Drinks Night at the Cap Point! Hold on, on the rocks please.\" [On the rocks!; rocks tinkle into a glass] \"N-No, not act...not actual...is that gravel? You know what, never mind. Just, just pour liquor on it. I'll drink it anyway.\" [drink pouring] \"You still there? I've got something for you."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_piano.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_piano",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[piano being played frantically, intermittent electrical zaps] \"Pauling here. Spy's teaching me piano. Apparently, it takes a person...ugh, seven years to learn, but Spy says that with electroshock he can teach me in an hour.\" [grunts of pain and electrical shocks] [Spy: Again.; piano plays a slow melody] \"Huh. Okay, that's done. Here's a contract.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_poopyjoe.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_poopyjoe",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": " [\"Taps\" being played] (on the verge of tears) \"Hey, Pauling here. I'm, I-I-I'm sorry, I'm, I'm at the Poopy Joe Memorial and, and it's just too much. That monkey was an American hero!\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_pottery.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_pottery",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Hey, it's Pauling here. I'm at a pottery class. I'm trying to make a porcelain gun, but it's a lot harder than it looks. Ugh, dammit.\" [dripping clay; Oh, what a lovely flower vase!] \"Yeah, I know it looks like a flower vase, it's a cannon all right! Ugh, I hate pottery. Anyway, I've got a contract."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_raccoons.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_raccoons",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[raccoons trilling] \"Pauling here. Soldier invited me over to his house...cave...for a soup tasting. I have been bitten by like sixty raccoons. Do raccoons have rabies? I mean, they have to, right? Didn't raccoons invent rabies? Are-are they like old rats? Like don't rats go into their cocoons in the winter and emerge as fully grown raccoons in the spring? I lost a lot of blood here. Maybe it took the rabies with it. Ugh, I gotta go. One of the raccoons is eyeballing me. You gotta problem, pal?\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_shakespearicles.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_shakespearicles",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Hey, it's Pauling here. I'm watching Shakespearicles in the Park, and we just got to the part in Hamlet where Macbeth tells Hercules he's from the future, and Macbeth gets so angry, he uses his heat vision and...\" [Steel cage!] \"Oh ho ho, they're lowering the steel cage! Oh, Hercules is losing the intercontinental title for sure! Look, I gotta go. Here's a mission.\"[He zapped Macbeth!; I love you Hercules!"
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_tiger.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_tiger",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "He-hey, sorry about the reception, I'm on a ladies safari in the middle of a forest. Listen, a contract came in...\" [I'm being mauled to death by a tiger! Ahhh!] \"Lady, would you please keep it down! I'm on the phone!"
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_tugboat.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_tugboat",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Pauling here. So the New Mexico Department of Labor found out I haven't gotten any time off in...uh...ever. So, I'm on a state-mandated vacation. But don't worry! I'm still working, but don't tell anyone.\" [foghorn sounds] \"Oh good, the tugboat's here. Anyway, here's a contract."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_turducken.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_turducken",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[heartbeat monitor beeps steadily] \"Medic's showing me how to sew a heart inside another heart and pump them full of radiation. It's sorta like making a turducken, but with people!\" [Medic: Oh, ho ho!; monitor beeps faster] \"And I think a clump of my hair just fell out.\" [monitor beeps rapidly; Medic: Oh ho, ho, ho, ho, ho, ho!"
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_visionquest.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_visionquest",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, it's Pauling here. I'm on a vision quest with Sniper. I just ate some ground-up mushrooms and grubs. Sniper says it's supposed to make me ghost noise picnic dripping, but I don't boot soup what he's mustaching about. I don't even dynamite a little pyramid gravy. Anyway, here's a condor."
+    },
+    "vo/toughbreak/plng_toughbreak_contractgiverare_winetasting.mp3": {
+        "base_name": "plng_toughbreak_contractgiverare_winetasting",
+        "criteria": [],
+        "events": [
+            "toughbreak_get_contract_rare"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[wine bottle being uncorked; Spy: Ahh, a 1962 Ch\u00e2teau Matador.; wine pouring into glasses] \"(sotto voce) Hey, hey, I'm at a wine tasting with Spy...it all tastes like raisins and gasoline. Uh, quick! give me some fancy-pants words to say to him.\" [Spy: \u00c0 votre sant\u00e9!] \"(normal voice) Spy, your wine is...great! It's really, uh, pre-precocious! Uh...volup-voluptuous? And uh, uh, big, big-boned!\" [Spy: Ugh...] \"Yeah, it's got a very big...boned...wine taste.\""
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin01.mp3": {
+        "base_name": "plng_toughbreak_contractwin01",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, you did it! Back to my vacation."
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin02.mp3": {
+        "base_name": "plng_toughbreak_contractwin02",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, good work! Okay, back to vacation."
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin03.mp3": {
+        "base_name": "plng_toughbreak_contractwin03",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, good work! You did it! Now back to my state-mandated vacation."
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin04.mp3": {
+        "base_name": "plng_toughbreak_contractwin04",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Great job! I'm really enjoying..being out of the office...doing all this work."
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin05.mp3": {
+        "base_name": "plng_toughbreak_contractwin05",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, you finished the contract! Okay, back to my stupid vacation."
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin06.mp3": {
+        "base_name": "plng_toughbreak_contractwin06",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, you did it! Can I be done with my vacation now? Please?"
+    },
+    "vo/toughbreak/plng_toughbreak_contractwin07.mp3": {
+        "base_name": "plng_toughbreak_contractwin07",
+        "criteria": [],
+        "events": [
+            "toughbreak_win_contract_pauling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, you did it! Can I be done with my vacation now? I wanna come home."
+    }
+}

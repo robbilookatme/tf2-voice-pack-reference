@@ -1,0 +1,4557 @@
+{
+    "items/ammo_pickup.wav": {
+        "base_name": "ammo_pickup",
+        "criteria": [],
+        "events": [
+            "basecombatcharacter.ammopickup",
+            "player.pickupweapon"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/bomb_warning.wav": {
+        "base_name": "bomb_warning",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/cart_explode.wav": {
+        "base_name": "cart_explode",
+        "criteria": [],
+        "events": [
+            "cart.explode"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_explode_falling.wav": {
+        "base_name": "cart_explode_falling",
+        "criteria": [],
+        "events": [
+            "cart.falling"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_explode_trigger.wav": {
+        "base_name": "cart_explode_trigger",
+        "criteria": [],
+        "events": [
+            "cart.trigger"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling.wav": {
+        "base_name": "cart_rolling",
+        "criteria": [],
+        "events": [
+            "cart.roll"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_back_grind1.wav": {
+        "base_name": "cart_rolling_back_grind1",
+        "criteria": [],
+        "events": [
+            "cart.grind"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_back_grind2.wav": {
+        "base_name": "cart_rolling_back_grind2",
+        "criteria": [],
+        "events": [
+            "cart.grind"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_back_grind3.wav": {
+        "base_name": "cart_rolling_back_grind3",
+        "criteria": [],
+        "events": [
+            "cart.grind"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_back_grind4.wav": {
+        "base_name": "cart_rolling_back_grind4",
+        "criteria": [],
+        "events": [
+            "cart.grind"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_start.wav": {
+        "base_name": "cart_rolling_start",
+        "criteria": [],
+        "events": [
+            "cart.rollstart"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_rolling_stop.wav": {
+        "base_name": "cart_rolling_stop",
+        "criteria": [],
+        "events": [
+            "cart.rollstop"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_warning.wav": {
+        "base_name": "cart_warning",
+        "criteria": [],
+        "events": [
+            "cart.warning"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/cart_warning_single.wav": {
+        "base_name": "cart_warning_single",
+        "criteria": [],
+        "events": [
+            "cart.warningsingle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_01.wav": {
+        "base_name": "vuvezela_01",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_02.wav": {
+        "base_name": "vuvezela_02",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_03.wav": {
+        "base_name": "vuvezela_03",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_04.wav": {
+        "base_name": "vuvezela_04",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_05.wav": {
+        "base_name": "vuvezela_05",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_06.wav": {
+        "base_name": "vuvezela_06",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_07.wav": {
+        "base_name": "vuvezela_07",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_08.wav": {
+        "base_name": "vuvezela_08",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_09.wav": {
+        "base_name": "vuvezela_09",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_10.wav": {
+        "base_name": "vuvezela_10",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_11.wav": {
+        "base_name": "vuvezela_11",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_12.wav": {
+        "base_name": "vuvezela_12",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_13.wav": {
+        "base_name": "vuvezela_13",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_14.wav": {
+        "base_name": "vuvezela_14",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_15.wav": {
+        "base_name": "vuvezela_15",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_16.wav": {
+        "base_name": "vuvezela_16",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/football_manager/vuvezela_17.wav": {
+        "base_name": "vuvezela_17",
+        "criteria": [],
+        "events": [
+            "soccer.vuvezela"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/gift_drop.wav": {
+        "base_name": "gift_drop",
+        "criteria": [],
+        "events": [
+            "christmas.giftdrop"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/gift_pickup.wav": {
+        "base_name": "gift_pickup",
+        "criteria": [],
+        "events": [
+            "christmas.giftpickup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/gunpickup2.wav": {
+        "base_name": "gunpickup2",
+        "criteria": [],
+        "events": [
+            "grenadepack.touch",
+            "ammopack.touch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/banshee01.wav": {
+        "base_name": "banshee01",
+        "criteria": [],
+        "events": [
+            "halloween.banshee"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/banshee02.wav": {
+        "base_name": "banshee02",
+        "criteria": [],
+        "events": [
+            "halloween.banshee"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/banshee03.wav": {
+        "base_name": "banshee03",
+        "criteria": [],
+        "events": [
+            "halloween.banshee"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/cat01.wav": {
+        "base_name": "cat01",
+        "criteria": [],
+        "events": [
+            "halloween.blackcat"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/cat02.wav": {
+        "base_name": "cat02",
+        "criteria": [],
+        "events": [
+            "halloween.blackcat"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/cat03.wav": {
+        "base_name": "cat03",
+        "criteria": [],
+        "events": [
+            "halloween.blackcat"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/crazy01.wav": {
+        "base_name": "crazy01",
+        "criteria": [],
+        "events": [
+            "halloween.crazylaugh"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/crazy02.wav": {
+        "base_name": "crazy02",
+        "criteria": [],
+        "events": [
+            "halloween.crazylaugh"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/crazy03.wav": {
+        "base_name": "crazy03",
+        "criteria": [],
+        "events": [
+            "halloween.crazylaugh"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/gremlin01.wav": {
+        "base_name": "gremlin01",
+        "criteria": [],
+        "events": [
+            "halloween.gremlin"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/gremlin02.wav": {
+        "base_name": "gremlin02",
+        "criteria": [],
+        "events": [
+            "halloween.gremlin"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/gremlin03.wav": {
+        "base_name": "gremlin03",
+        "criteria": [],
+        "events": [
+            "halloween.gremlin"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/spooky01.wav": {
+        "base_name": "spooky01",
+        "criteria": [],
+        "events": [
+            "halloween.sfx"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/spooky02.wav": {
+        "base_name": "spooky02",
+        "criteria": [],
+        "events": [
+            "halloween.sfx"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/spooky03.wav": {
+        "base_name": "spooky03",
+        "criteria": [],
+        "events": [
+            "halloween.sfx"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/stabby.wav": {
+        "base_name": "stabby",
+        "criteria": [],
+        "events": [
+            "halloween.stabby"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/werewolf01.wav": {
+        "base_name": "werewolf01",
+        "criteria": [],
+        "events": [
+            "halloween.werewolf"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/werewolf02.wav": {
+        "base_name": "werewolf02",
+        "criteria": [],
+        "events": [
+            "halloween.werewolf"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/werewolf03.wav": {
+        "base_name": "werewolf03",
+        "criteria": [],
+        "events": [
+            "halloween.werewolf"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/witch01.wav": {
+        "base_name": "witch01",
+        "criteria": [],
+        "events": [
+            "halloween.witch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/witch02.wav": {
+        "base_name": "witch02",
+        "criteria": [],
+        "events": [
+            "halloween.witch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/halloween/witch03.wav": {
+        "base_name": "witch03",
+        "criteria": [],
+        "events": [
+            "halloween.witch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/itembk2.wav": {
+        "base_name": "itembk2",
+        "criteria": [],
+        "events": [
+            "captureflag.flagspawn",
+            "resource.flagspawn"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_bell_01.wav": {
+        "base_name": "tf_zen_bell_01",
+        "criteria": [],
+        "events": [
+            "fundraiser.bell"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_bell_02.wav": {
+        "base_name": "tf_zen_bell_02",
+        "criteria": [],
+        "events": [
+            "fundraiser.bell"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_bell_03.wav": {
+        "base_name": "tf_zen_bell_03",
+        "criteria": [],
+        "events": [
+            "fundraiser.bell"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_bell_04.wav": {
+        "base_name": "tf_zen_bell_04",
+        "criteria": [],
+        "events": [
+            "fundraiser.bell"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_bell_05.wav": {
+        "base_name": "tf_zen_bell_05",
+        "criteria": [],
+        "events": [
+            "fundraiser.bell"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_prayer_bowl_01.wav": {
+        "base_name": "tf_zen_prayer_bowl_01",
+        "criteria": [],
+        "events": [
+            "fundraiser.prayerbowl"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_prayer_bowl_02.wav": {
+        "base_name": "tf_zen_prayer_bowl_02",
+        "criteria": [],
+        "events": [
+            "fundraiser.prayerbowl"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_prayer_bowl_03.wav": {
+        "base_name": "tf_zen_prayer_bowl_03",
+        "criteria": [],
+        "events": [
+            "fundraiser.prayerbowl"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_01.wav": {
+        "base_name": "tf_zen_tingsha_01",
+        "criteria": [],
+        "events": [
+            "fundraiser.tingsha"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_02.wav": {
+        "base_name": "tf_zen_tingsha_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_03.wav": {
+        "base_name": "tf_zen_tingsha_03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_04.wav": {
+        "base_name": "tf_zen_tingsha_04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_05.wav": {
+        "base_name": "tf_zen_tingsha_05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/japan_fundraiser/tf_zen_tingsha_06.wav": {
+        "base_name": "tf_zen_tingsha_06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "items/para_close.wav": {
+        "base_name": "para_close",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_the_skating_scorcher_para_close",
+            "parachute_close"
+        ],
+        "responses": [
+            "Taunt: The Skating Scorcher"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd"
+        ],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/para_open.wav": {
+        "base_name": "para_open",
+        "criteria": [],
+        "events": [
+            "parachute_open",
+            "pyro_taunt_the_skating_scorcher_para_open"
+        ],
+        "responses": [
+            "Taunt: The Skating Scorcher"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd"
+        ],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pegleg_01.wav": {
+        "base_name": "pegleg_01",
+        "criteria": [],
+        "events": [
+            "pegleg.stepright"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pegleg_02.wav": {
+        "base_name": "pegleg_02",
+        "criteria": [],
+        "events": [
+            "pegleg.stepright"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_agility.wav": {
+        "base_name": "powerup_pickup_agility",
+        "criteria": [],
+        "events": [
+            "powerup.pickupagility"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_base.wav": {
+        "base_name": "powerup_pickup_base",
+        "criteria": [],
+        "events": [
+            "powerup.pickupbase"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_crits.wav": {
+        "base_name": "powerup_pickup_crits",
+        "criteria": [],
+        "events": [
+            "powerup.pickuptemp.crit"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_haste.wav": {
+        "base_name": "powerup_pickup_haste",
+        "criteria": [],
+        "events": [
+            "powerup.pickuphaste"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_king.wav": {
+        "base_name": "powerup_pickup_king",
+        "criteria": [],
+        "events": [
+            "powerup.pickupking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_knockout.wav": {
+        "base_name": "powerup_pickup_knockout",
+        "criteria": [],
+        "events": [
+            "powerup.pickupknockout"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_knockout_melee_hit.wav": {
+        "base_name": "powerup_pickup_knockout_melee_hit",
+        "criteria": [],
+        "events": [
+            "powerup.knockout_melee_hit"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_plague.wav": {
+        "base_name": "powerup_pickup_plague",
+        "criteria": [],
+        "events": [
+            "powerup.pickupplague"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_plague_infected.wav": {
+        "base_name": "powerup_pickup_plague_infected",
+        "criteria": [],
+        "events": [
+            "powerup.pickupplagueinfected"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_plague_infected_loop.wav": {
+        "base_name": "powerup_pickup_plague_infected_loop",
+        "criteria": [],
+        "events": [
+            "powerup.pickupplagueinfectedloop"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_precision.wav": {
+        "base_name": "powerup_pickup_precision",
+        "criteria": [],
+        "events": [
+            "powerup.pickupprecision"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_reduced_damage.wav": {
+        "base_name": "powerup_pickup_reduced_damage",
+        "criteria": [],
+        "events": [
+            "powerup.reduceddamage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_reflect.wav": {
+        "base_name": "powerup_pickup_reflect",
+        "criteria": [],
+        "events": [
+            "powerup.pickupreflect"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_reflect_reflect_damage.wav": {
+        "base_name": "powerup_pickup_reflect_reflect_damage",
+        "criteria": [],
+        "events": [
+            "powerup.reflect.reflect"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_regeneration.wav": {
+        "base_name": "powerup_pickup_regeneration",
+        "criteria": [],
+        "events": [
+            "powerup.pickupregeneration"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_resistance.wav": {
+        "base_name": "powerup_pickup_resistance",
+        "criteria": [],
+        "events": [
+            "powerup.pickupresistance"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_strength.wav": {
+        "base_name": "powerup_pickup_strength",
+        "criteria": [],
+        "events": [
+            "powerup.pickupstrength"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_supernova.wav": {
+        "base_name": "powerup_pickup_supernova",
+        "criteria": [],
+        "events": [
+            "powerup.pickupsupernova"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_supernova_activate.wav": {
+        "base_name": "powerup_pickup_supernova_activate",
+        "criteria": [],
+        "events": [
+            "powerup.pickupsupernovaactivate"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_team_revenge.wav": {
+        "base_name": "powerup_pickup_team_revenge",
+        "criteria": [],
+        "events": [
+            "powerup.volume.use"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_uber.wav": {
+        "base_name": "powerup_pickup_uber",
+        "criteria": [],
+        "events": [
+            "powerup.pickuptemp.uber"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_vampire.wav": {
+        "base_name": "powerup_pickup_vampire",
+        "criteria": [],
+        "events": [
+            "powerup.pickupvampire"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/powerup_pickup_warlock.wav": {
+        "base_name": "powerup_pickup_warlock",
+        "criteria": [],
+        "events": [
+            "powerup.pickupthorns"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "items/pumpkin_drop.wav": {
+        "base_name": "pumpkin_drop",
+        "criteria": [],
+        "events": [
+            "halloween.pumpkindrop"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pumpkin_explode1.wav": {
+        "base_name": "pumpkin_explode1",
+        "criteria": [],
+        "events": [
+            "halloween.pumpkinexplode"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pumpkin_explode2.wav": {
+        "base_name": "pumpkin_explode2",
+        "criteria": [],
+        "events": [
+            "halloween.pumpkinexplode"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pumpkin_explode3.wav": {
+        "base_name": "pumpkin_explode3",
+        "criteria": [],
+        "events": [
+            "halloween.pumpkinexplode"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pumpkin_pickup.wav": {
+        "base_name": "pumpkin_pickup",
+        "criteria": [],
+        "events": [
+            "halloween.pumpkinpickup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pyro_guitar_solo_no_verb.wav": {
+        "base_name": "pyro_guitar_solo_no_verb",
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsThirdDegree"
+            ]
+        ],
+        "events": [
+            "pyro.guitar_shred_01"
+        ],
+        "responses": [
+            "PyroTauntThirdDegree"
+        ],
+        "rules": [
+            "PyroTauntThirdDegree"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/drg_axe_taunt.vcd"
+        ],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/pyro_guitar_solo_with_verb.wav": {
+        "base_name": "pyro_guitar_solo_with_verb",
+        "criteria": [],
+        "events": [
+            "pyro.guitar_shred_02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "items/pyro_music_tube.wav": {
+        "base_name": "pyro_music_tube",
+        "criteria": [],
+        "events": [
+            "pyro.music_backpack"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/r_item1.wav": {
+        "base_name": "r_item1",
+        "criteria": [],
+        "events": [
+            "changeclass.touch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "items/regenerate.wav": {
+        "base_name": "regenerate",
+        "criteria": [],
+        "events": [
+            "regenerate.touch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_conch.wav": {
+        "base_name": "tf_conch",
+        "criteria": [],
+        "events": [
+            "samurai.conch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_seta_01.wav": {
+        "base_name": "tf_samurai_noisemaker_seta_01",
+        "criteria": [],
+        "events": [
+            "samurai.exaltation"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_seta_02.wav": {
+        "base_name": "tf_samurai_noisemaker_seta_02",
+        "criteria": [],
+        "events": [
+            "samurai.exaltation"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_seta_03.wav": {
+        "base_name": "tf_samurai_noisemaker_seta_03",
+        "criteria": [],
+        "events": [
+            "samurai.exaltation"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_setb_01.wav": {
+        "base_name": "tf_samurai_noisemaker_setb_01",
+        "criteria": [],
+        "events": [
+            "samurai.koto"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_setb_02.wav": {
+        "base_name": "tf_samurai_noisemaker_setb_02",
+        "criteria": [],
+        "events": [
+            "samurai.koto"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/samurai/tf_samurai_noisemaker_setb_03.wav": {
+        "base_name": "tf_samurai_noisemaker_setb_03",
+        "criteria": [],
+        "events": [
+            "samurai.koto"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/scout_boombox_02.wav": {
+        "base_name": "scout_boombox_02",
+        "criteria": [],
+        "events": [
+            "scout.boombox"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/scout_boombox_03.wav": {
+        "base_name": "scout_boombox_03",
+        "criteria": [],
+        "events": [
+            "scout.boombox"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/scout_boombox_04.wav": {
+        "base_name": "scout_boombox_04",
+        "criteria": [],
+        "events": [
+            "scout.boombox"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/scout_boombox_05.wav": {
+        "base_name": "scout_boombox_05",
+        "criteria": [],
+        "events": [
+            "scout.boombox"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/smallmedkit1.wav": {
+        "base_name": "smallmedkit1",
+        "criteria": [],
+        "events": [
+            "healthkit.touch"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "items/spawn_item.wav": {
+        "base_name": "spawn_item",
+        "criteria": [],
+        "events": [
+            "item.materialize"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/suitchargeok1.wav": {
+        "base_name": "suitchargeok1",
+        "criteria": [],
+        "events": [
+            "basecombatweapon.weaponmaterialize"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "items/summer/summer_fireworks1.wav": {
+        "base_name": "summer_fireworks1",
+        "criteria": [],
+        "events": [
+            "summer.fireworks"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/summer/summer_fireworks2.wav": {
+        "base_name": "summer_fireworks2",
+        "criteria": [],
+        "events": [
+            "summer.fireworks"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/summer/summer_fireworks3.wav": {
+        "base_name": "summer_fireworks3",
+        "criteria": [],
+        "events": [
+            "summer.fireworks"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/summer/summer_fireworks4.wav": {
+        "base_name": "summer_fireworks4",
+        "criteria": [],
+        "events": [
+            "summer.fireworks"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "items/taunts/badpipes/badpipes1.mp3": {
+        "base_name": "badpipes1",
+        "criteria": [],
+        "events": [
+            "true_scotsmans_music"
+        ],
+        "responses": [
+            "Taunt: Bad Pipes"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
+        ],
+        "state": "used",
+        "transcript": "First tune"
+    },
+    "items/taunts/badpipes/badpipes2.mp3": {
+        "base_name": "badpipes2",
+        "criteria": [],
+        "events": [
+            "true_scotsmans_music"
+        ],
+        "responses": [
+            "Taunt: Bad Pipes"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
+        ],
+        "state": "used",
+        "transcript": "Second tune"
+    },
+    "items/taunts/badpipes/badpipes3.mp3": {
+        "base_name": "badpipes3",
+        "criteria": [],
+        "events": [
+            "true_scotsmans_music"
+        ],
+        "responses": [
+            "Taunt: Bad Pipes"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
+        ],
+        "state": "used",
+        "transcript": "Third tune"
+    },
+    "items/taunts/badpipes/badpipes4.mp3": {
+        "base_name": "badpipes4",
+        "criteria": [],
+        "events": [
+            "true_scotsmans_music"
+        ],
+        "responses": [
+            "Taunt: Bad Pipes"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
+        ],
+        "state": "used",
+        "transcript": "Fourth tune"
+    },
+    "items/taunts/badpipes/badpipes5.mp3": {
+        "base_name": "badpipes5",
+        "criteria": [],
+        "events": [
+            "true_scotsmans_music"
+        ],
+        "responses": [
+            "Taunt: Bad Pipes"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
+        ],
+        "state": "used",
+        "transcript": "Fifth tune"
+    },
+    "items/taunts/borrowed_bones/borrowed_bones_end.wav": {
+        "base_name": "borrowed_bones_end",
+        "criteria": [],
+        "events": [
+            "medic_taunt_burrowed_bones_end"
+        ],
+        "responses": [
+            "Taunt: Borrowed Bones"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+        ],
+        "state": "used",
+        "transcript": "[bones rattling, as the skeleton is put away"
+    },
+    "items/taunts/borrowed_bones/borrowed_bones_mid.wav": {
+        "base_name": "borrowed_bones_mid",
+        "criteria": [],
+        "events": [
+            "medic_taunt_burrowed_bones_mid"
+        ],
+        "responses": [
+            "Taunt: Borrowed Bones"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+        ],
+        "state": "used",
+        "transcript": "[bones rattling, as the skeleton is made to wave"
+    },
+    "items/taunts/borrowed_bones/borrowed_bones_start.wav": {
+        "base_name": "borrowed_bones_start",
+        "criteria": [],
+        "events": [
+            "medic_taunt_burrowed_bones_start"
+        ],
+        "responses": [
+            "Taunt: Borrowed Bones"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+        ],
+        "state": "used",
+        "transcript": "[bones rattling, as the skeleton is pulled out"
+    },
+    "items/taunts/killer_solo/killer_solo_01.mp3": {
+        "base_name": "killer_solo_01",
+        "criteria": [],
+        "events": [
+            "sniper.killer_solo_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "First tune"
+    },
+    "items/taunts/killer_solo/killer_solo_02.mp3": {
+        "base_name": "killer_solo_02",
+        "criteria": [],
+        "events": [
+            "sniper.killer_solo_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Second tune"
+    },
+    "items/taunts/killer_solo/killer_solo_03.mp3": {
+        "base_name": "killer_solo_03",
+        "criteria": [],
+        "events": [
+            "sniper.killer_solo_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Third tune"
+    },
+    "items/taunts/killer_solo/killer_solo_04.mp3": {
+        "base_name": "killer_solo_04",
+        "criteria": [],
+        "events": [
+            "sniper.killer_solo_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Fourth tune"
+    },
+    "items/taunts/killer_solo/killer_solo_05.mp3": {
+        "base_name": "killer_solo_05",
+        "criteria": [],
+        "events": [
+            "sniper.killer_solo_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Fifth tune"
+    },
+    "items/taunts/scout_boston_breakdance/scout_boston_breakdance_02.mp3": {
+        "base_name": "scout_boston_breakdance_02",
+        "criteria": [],
+        "events": [
+            "scout.boston_breakdance_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "First tune"
+    },
+    "items/taunts/scout_boston_breakdance/scout_boston_breakdance_03.mp3": {
+        "base_name": "scout_boston_breakdance_03",
+        "criteria": [],
+        "events": [
+            "scout.boston_breakdance_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Second tune"
+    },
+    "items/taunts/scout_boston_breakdance/scout_boston_breakdance_04.mp3": {
+        "base_name": "scout_boston_breakdance_04",
+        "criteria": [],
+        "events": [
+            "scout.boston_breakdance_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Third tune"
+    },
+    "items/taunts/scout_boston_breakdance/scout_boston_breakdance_05.mp3": {
+        "base_name": "scout_boston_breakdance_05",
+        "criteria": [],
+        "events": [
+            "scout.boston_breakdance_music"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Fourth tune"
+    },
+    "items/taunts/spy_travel_agent/spy.travel_agent_helicopter_loop.wav": {
+        "base_name": "spy.travel_agent_helicopter_loop",
+        "criteria": [],
+        "events": [
+            "spy.travel_agent_helicopter_loop"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "[Helicopter engine"
+    },
+    "items/tf_music_upgrade_machine.wav": {
+        "base_name": "tf_music_upgrade_machine",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": ""
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death01.mp3": {
+        "base_name": "wheatley_player_death01",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You know what? It's not the winning, is it? It's the taking part that counts. And you're, uh... And you're doing that."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death02.mp3": {
+        "base_name": "wheatley_player_death02",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You know what? You win just for taking part. We're all winners!"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death03.mp3": {
+        "base_name": "wheatley_player_death03",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Aw! Bless your heart, you're doing your best."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death04.mp3": {
+        "base_name": "wheatley_player_death04",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's the trying that counts! It's the trying that counts."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death05.mp3": {
+        "base_name": "wheatley_player_death05",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death06.mp3": {
+        "base_name": "wheatley_player_death06",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death07.mp3": {
+        "base_name": "wheatley_player_death07",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ooh..."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death08.mp3": {
+        "base_name": "wheatley_player_death08",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Uh-oh! That's--ugh..."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death09.mp3": {
+        "base_name": "wheatley_player_death09",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ooh, I felt that..."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death10.mp3": {
+        "base_name": "wheatley_player_death10",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ooh! That looked painful."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death12.mp3": {
+        "base_name": "wheatley_player_death12",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Are you okay?"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death13.mp3": {
+        "base_name": "wheatley_player_death13",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "If you're alive, can you say something? Jump around, so I know you're okay! Unless you've broken your legs, in which case, don't jump around - that'll just make it worse!"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death14.mp3": {
+        "base_name": "wheatley_player_death14",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "That did not end well."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death15.mp3": {
+        "base_name": "wheatley_player_death15",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Embarrassing."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death16.mp3": {
+        "base_name": "wheatley_player_death16",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay. Well..."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death17.mp3": {
+        "base_name": "wheatley_player_death17",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! That's nasty."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death19.mp3": {
+        "base_name": "wheatley_player_death19",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, bless him. Trying so hard. Useless."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death21.mp3": {
+        "base_name": "wheatley_player_death21",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ooh..."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death22.mp3": {
+        "base_name": "wheatley_player_death22",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Uh-oh. That's...mmm."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death23.mp3": {
+        "base_name": "wheatley_player_death23",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ugh! Um...mmm."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death24.mp3": {
+        "base_name": "wheatley_player_death24",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Uh-oh.\" *chuckle*"
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death25.mp3": {
+        "base_name": "wheatley_player_death25",
+        "criteria": [],
+        "events": [
+            "psap.death"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh dear."
+    },
+    "vo/items/wheatley_sapper/wheatley_player_death26.mp3": {
+        "base_name": "wheatley_player_death26",
+        "criteria": [],
+        "events": [
+            "psap.deathlong"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Uh...I might not have completely thought this one through."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached05.mp3": {
+        "base_name": "wheatley_sapper_attached05",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Well done!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached06.mp3": {
+        "base_name": "wheatley_sapper_attached06",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh great!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached09.mp3": {
+        "base_name": "wheatley_sapper_attached09",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Just hold tight."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached10.mp3": {
+        "base_name": "wheatley_sapper_attached10",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! Brilliant!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached13.mp3": {
+        "base_name": "wheatley_sapper_attached13",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ah! Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached14.mp3": {
+        "base_name": "wheatley_sapper_attached14",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay! I'm about to start hacking!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached16.mp3": {
+        "base_name": "wheatley_sapper_attached16",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! Perfect!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached18.mp3": {
+        "base_name": "wheatley_sapper_attached18",
+        "criteria": [],
+        "events": [
+            "psap.attachedpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ah, there's a password."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached19.mp3": {
+        "base_name": "wheatley_sapper_attached19",
+        "criteria": [],
+        "events": [
+            "psap.attachedpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, th--there's a password..."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached20.mp3": {
+        "base_name": "wheatley_sapper_attached20",
+        "criteria": [],
+        "events": [
+            "psap.attachedpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay. Password hacking."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached22.mp3": {
+        "base_name": "wheatley_sapper_attached22",
+        "criteria": [],
+        "events": [
+            "psap.attachedpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! There's a--there's a password!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached23.mp3": {
+        "base_name": "wheatley_sapper_attached23",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Okay. Hacking, begin!\" *typing*"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attached26.mp3": {
+        "base_name": "wheatley_sapper_attached26",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay. Let's see...what we've got here..."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack01.mp3": {
+        "base_name": "wheatley_sapper_attack01",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Is that gunfire? Is--is someone shooting?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack02.mp3": {
+        "base_name": "wheatley_sapper_attack02",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh my God, they're shooting at us! They're shooting at us! Don't panic, but they are shooting at us!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack03.mp3": {
+        "base_name": "wheatley_sapper_attack03",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "What--what's that? Is that gunfire?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack04.mp3": {
+        "base_name": "wheatley_sapper_attack04",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh God, someone's shooting at us now!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack05.mp3": {
+        "base_name": "wheatley_sapper_attack05",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Is someone--oh, is someone shooting at us?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack06.mp3": {
+        "base_name": "wheatley_sapper_attack06",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "All right, fun's over! Fun's over! Put me back in the pocket!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack07.mp3": {
+        "base_name": "wheatley_sapper_attack07",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Seriously, now--put me away. 'Cause I don't want any piece of this."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack08.mp3": {
+        "base_name": "wheatley_sapper_attack08",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay, I definitely heard a gunshot then! This is... Mental. Did no one else hear that?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack09.mp3": {
+        "base_name": "wheatley_sapper_attack09",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Bloody hell, what've you got me into here, mate?! This is mental!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack10.mp3": {
+        "base_name": "wheatley_sapper_attack10",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Are these--are these live?! Do I actually hear shooting?! Is this live rounds?! Is it live ammunition?!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_attack11.mp3": {
+        "base_name": "wheatley_sapper_attack11",
+        "criteria": [],
+        "events": [
+            "psap.damage"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Bloody--what have you got me into?!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked01.mp3": {
+        "base_name": "wheatley_sapper_hacked01",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Thank you very much indeed. Thank you."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked02.mp3": {
+        "base_name": "wheatley_sapper_hacked02",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Whoa! There we go!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked03.mp3": {
+        "base_name": "wheatley_sapper_hacked03",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Looking--do you know what? Looking good, if I'm honest. Looking really good."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked04.mp3": {
+        "base_name": "wheatley_sapper_hacked04",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "There we go!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked05.mp3": {
+        "base_name": "wheatley_sapper_hacked05",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hee hee hee!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked06.mp3": {
+        "base_name": "wheatley_sapper_hacked06",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, brilliant!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked07.mp3": {
+        "base_name": "wheatley_sapper_hacked07",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ha-ha!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked08.mp3": {
+        "base_name": "wheatley_sapper_hacked08",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, well done!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked09.mp3": {
+        "base_name": "wheatley_sapper_hacked09",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I tell you, this is going much better than I ever expected it would."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked10.mp3": {
+        "base_name": "wheatley_sapper_hacked10",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! Brilliant!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked11.mp3": {
+        "base_name": "wheatley_sapper_hacked11",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! That's--that's amazing."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked13.mp3": {
+        "base_name": "wheatley_sapper_hacked13",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Short laugh"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked14.mp3": {
+        "base_name": "wheatley_sapper_hacked14",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ha-ha, this is amazing!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked15.mp3": {
+        "base_name": "wheatley_sapper_hacked15",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Short laugh"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked16.mp3": {
+        "base_name": "wheatley_sapper_hacked16",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, this is brilliant."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked17.mp3": {
+        "base_name": "wheatley_sapper_hacked17",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Looking good. Looking good!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked18.mp3": {
+        "base_name": "wheatley_sapper_hacked18",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Act natural. Act natural--we've done nothing wrong."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked19.mp3": {
+        "base_name": "wheatley_sapper_hacked19",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Act natural--all right? Just--just play it cool, we've done nothing wrong."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked20.mp3": {
+        "base_name": "wheatley_sapper_hacked20",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Act natural--all right? Just--just play it cool, we've done nothing wrong. Couple of people, going about their business. Just a couple of dudes, doing their thing."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked21.mp3": {
+        "base_name": "wheatley_sapper_hacked21",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Act natural. Act natural--we've done nothing wrong! Play it cool."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked22.mp3": {
+        "base_name": "wheatley_sapper_hacked22",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Come on, let's go."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked23.mp3": {
+        "base_name": "wheatley_sapper_hacked23",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Come on, let's go!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked24.mp3": {
+        "base_name": "wheatley_sapper_hacked24",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ta-da! Thank you very much."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked25.mp3": {
+        "base_name": "wheatley_sapper_hacked25",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Done! Expertly hacked!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked26.mp3": {
+        "base_name": "wheatley_sapper_hacked26",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "There you go! Once again, expertly hacked. Quite technical."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked27.mp3": {
+        "base_name": "wheatley_sapper_hacked27",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Done! Hacked! Quite complicated."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked28.mp3": {
+        "base_name": "wheatley_sapper_hacked28",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Done! Hacked! Quite complicated; pulled it out of the bag, as usual."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked29.mp3": {
+        "base_name": "wheatley_sapper_hacked29",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "That should do it!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked32.mp3": {
+        "base_name": "wheatley_sapper_hacked32",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Happy laugh"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked33.mp3": {
+        "base_name": "wheatley_sapper_hacked33",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It worked! Hee hee hee!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked34.mp3": {
+        "base_name": "wheatley_sapper_hacked34",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, it worked! Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked35.mp3": {
+        "base_name": "wheatley_sapper_hacked35",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It worked!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked37.mp3": {
+        "base_name": "wheatley_sapper_hacked37",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! Huh! Look at that."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked38.mp3": {
+        "base_name": "wheatley_sapper_hacked38",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Wooooo! Ha-ha! Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked40.mp3": {
+        "base_name": "wheatley_sapper_hacked40",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked41.mp3": {
+        "base_name": "wheatley_sapper_hacked41",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh-ho-ho, yes! What about that?! Oh...crumbs! I'm almost speechless."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked42.mp3": {
+        "base_name": "wheatley_sapper_hacked42",
+        "criteria": [],
+        "events": [
+            "psap.hackedfollowup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*laugh* \"That's tremendous.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked43.mp3": {
+        "base_name": "wheatley_sapper_hacked43",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "And...there we go."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked44.mp3": {
+        "base_name": "wheatley_sapper_hacked44",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "And...there we go!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked47.mp3": {
+        "base_name": "wheatley_sapper_hacked47",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Yes! Yes!! In your face!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacked48.mp3": {
+        "base_name": "wheatley_sapper_hacked48",
+        "criteria": [],
+        "events": [
+            "psap.hackedloud"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Yes! Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking02.mp3": {
+        "base_name": "wheatley_sapper_hacking02",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"It's gonna be trickier than I thought. Do--uh, we should be making a note of this. Have you got a pen? Make a note of--of what I'm doing.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking03.mp3": {
+        "base_name": "wheatley_sapper_hacking03",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*buzz* \"Buzzer again! I'm--that's surprising. That's...\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking04.mp3": {
+        "base_name": "wheatley_sapper_hacking04",
+        "criteria": [],
+        "events": [
+            "psap.hackingpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"Let's think more abstractly. What was your first pet's name? The ca--probably a cat or dog.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking05.mp3": {
+        "base_name": "wheatley_sapper_hacking05",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"No! I could've swore that was it! I was rea--I'm surprised. I am surprised at that. Actually.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking06.mp3": {
+        "base_name": "wheatley_sapper_hacking06",
+        "criteria": [],
+        "events": [
+            "psap.hackingpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"Okay, other words. Just think of other words that could be the password.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking07.mp3": {
+        "base_name": "wheatley_sapper_hacking07",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"All right! That should do it!\" *buzz* \"Oh, it hasn't done it. That's... Hmm.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking08.mp3": {
+        "base_name": "wheatley_sapper_hacking08",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Okay! That should do it; well done! ...Ah, it's not done it--that's...ah, okay.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking09.mp3": {
+        "base_name": "wheatley_sapper_hacking09",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Okay! That should do it; well done! *buzz* Ah, it's not done it--that's... Ah, okay.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking10.mp3": {
+        "base_name": "wheatley_sapper_hacking10",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Oh, wait! No, I've got it! I've--\" *buzz* \"No, that won't work. Wait! Oh, I'm a genius! I'm an absolute g--\" *buzz* \"No, I'm not."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking11.mp3": {
+        "base_name": "wheatley_sapper_hacking11",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"Hmm...\" *stammering* *typing* *buzzers*"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking12.mp3": {
+        "base_name": "wheatley_sapper_hacking12",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*stammering* *typing* *buzzers* \"No, I'm--honestly, I'm stumped. I've got no ideas.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking13.mp3": {
+        "base_name": "wheatley_sapper_hacking13",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Okay, wait--here's a brain wave! Yes! Oh wait, no--I've got it! I've got--\" *buzz* \"No, that won't work."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking14.mp3": {
+        "base_name": "wheatley_sapper_hacking14",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Oh! Good news!\" *buzz* \"Never mind.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking15.mp3": {
+        "base_name": "wheatley_sapper_hacking15",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Oh-ho! I've got it--I've got it! *buzz* Never mind.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking16.mp3": {
+        "base_name": "wheatley_sapper_hacking16",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh!\" *typing* \"Here we go! Here it comes! I think this one's gonna be good."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking17.mp3": {
+        "base_name": "wheatley_sapper_hacking17",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"All right. Here we go! Don't wanna set it up too much, but I think this one's gonna be good.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking18.mp3": {
+        "base_name": "wheatley_sapper_hacking18",
+        "criteria": [],
+        "events": [
+            "psap.hackingpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"Oh, what is it? What's it likely to be? What's your mother's maiden name? Probably not gonna be that, is it?\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking19.mp3": {
+        "base_name": "wheatley_sapper_hacking19",
+        "criteria": [],
+        "events": [
+            "psap.hackingpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* \"What's the name of your first dog? Probably that one. It's a long shot--\" *buzz* \"No. Okay.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking20.mp3": {
+        "base_name": "wheatley_sapper_hacking20",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"No? Really? That's--all right.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking21.mp3": {
+        "base_name": "wheatley_sapper_hacking21",
+        "criteria": [],
+        "events": [
+            "psap.hackingshort"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *buzz* \"Oh! That's--I thought that was gonna be it. I'm surprised.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking22.mp3": {
+        "base_name": "wheatley_sapper_hacking22",
+        "criteria": [],
+        "events": [
+            "psap.hackingpw"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay, if I had--if I was gonna do a password, do you know what I'd do? Zebra! Zebra! It's gotta be zebra!\" *typing* Z-E-B-R-A. *buzz* \"Not a zebra! That's--I'd have put money on zebra, if I'm honest."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking23.mp3": {
+        "base_name": "wheatley_sapper_hacking23",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*singing* \"Hacking, hacking! Harmless hacking! Not in danger!\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking24.mp3": {
+        "base_name": "wheatley_sapper_hacking24",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*singing* \"Hacking, hacking! Doing a bit of harmless hacking! Not in danger!\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking25.mp3": {
+        "base_name": "wheatley_sapper_hacking25",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*singing* \"Just doing a bit of hacking. Totally safe, nothing to see here! Nothing to worry about!\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking26.mp3": {
+        "base_name": "wheatley_sapper_hacking26",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! I feel sorry for you, mate. About to be another victim of the master hacker."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking27.mp3": {
+        "base_name": "wheatley_sapper_hacking27",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* Ooh! About to be another victim of the master hacker! It's a bit sad, really. To be honest."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking28.mp3": {
+        "base_name": "wheatley_sapper_hacking28",
+        "criteria": [],
+        "events": [
+            "psap.attached"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "All right, let's have a look at this..."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking29.mp3": {
+        "base_name": "wheatley_sapper_hacking29",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, this is interesting--you'll like this. There's a--a green wire in here, big plump one. Tell you what, I'll cut it, we'll see what happens."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking30.mp3": {
+        "base_name": "wheatley_sapper_hacking30",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ooh, this is complicated. Um--more so, actually, than it looked on the outside. I'll say that."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking31.mp3": {
+        "base_name": "wheatley_sapper_hacking31",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Uh, okay--no need to panic. Um... *stammers* Oh! There's a button! Pressed."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking32.mp3": {
+        "base_name": "wheatley_sapper_hacking32",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Interfacing with sentry control unit.\" *typing* \"Hello mate, how's everything going? Good! Good! Yep."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking33.mp3": {
+        "base_name": "wheatley_sapper_hacking33",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Guess how many wires are in one of these things? What's your guess? Five or six? No, I'll tell you what it is: it's actually six million!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking34.mp3": {
+        "base_name": "wheatley_sapper_hacking34",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "First rule of hacking: look for the green wire! And...mmm. What color would you say that is?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking35.mp3": {
+        "base_name": "wheatley_sapper_hacking35",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "First rule of hacking: look for the green wire! Oh...what color would you say that is? It's more of a sort of aqua marine, isn't it?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking36.mp3": {
+        "base_name": "wheatley_sapper_hacking36",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "First rule of hacking: look for the green wire! Oh, that's--that's a sort of--that's more like a dark forest green..."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_hacking37.mp3": {
+        "base_name": "wheatley_sapper_hacking37",
+        "criteria": [],
+        "events": [
+            "psap.hacking"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*typing* *singing* \"Doing some hacking, here I am! Doing a bit of hacking! Probably--I probably shouldn't sing.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle02.mp3": {
+        "base_name": "wheatley_sapper_idle02",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*pages turning* \"Hmm.\" *pages turning* \"Oh! Oh, sorry. Sorry! Hope that didn't disturb you too much, then. That was--did you hear that noise? Yeah, that was just the sound of...some books. Pages being turned. By me. 'Cause I was reading...the books. *chuckles* You know what it's like, you know? When you get the urge. And--and ability. To read. Suddenly takes you, you're like I've gotta read some books! So that was what I was doing, just reading the old, uh--some of the old bloody classics. Of literature. By uh...Dickens. And uh...um...others. So uh, so I'm not a moron.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle03.mp3": {
+        "base_name": "wheatley_sapper_idle03",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*cleaning noises* \"Oh! Sorry! Sorry, sorry! I hope I didn't disturb you too much, then. Um, I was just polishing...my book museum. When it occurred to me that I've read all of the books. Tragic! Speaking as, uh, someone who can literally read. Not bragging, not trying to show off; but uh, but I can read. And uh, yeah! I've just been working my way through all of the classics, really: Pride and Punishment, Brothers Masagiganovnov, Franken's...Dickinson. Um, read all of 'em. So I'm not a moron.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle04.mp3": {
+        "base_name": "wheatley_sapper_idle04",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*classical music* \"Oh! Sorry! Sorry, sorry! I hope I didn't disturb you too much, then. Um, I'm listening to some uh, classical music. This one is by, um--what's his name? Wolfgang...uh, Wolfgang Beethoven. Who--my personal favorite, if I'm honest. Um, I just love all the--I just love all the bloody melodies! That he comes up with. Hummable, they are. That's--to me, that is the mark of great music, if you can hum along. And I can, to this one, on all of them. So I'm not a moron.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle05.mp3": {
+        "base_name": "wheatley_sapper_idle05",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "*pages turning* \"Hmm.\" *pages turning* \"Ah! So yeah, finished reading all the books now! All the books ever made. So...good riddance. To that fun, I mean. You know, I love--too much fun, actually. It was--I was getting tired of all the fun. Of reading. Just...ah! What fun! So I'm not a moron.\""
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle06.mp3": {
+        "base_name": "wheatley_sapper_idle06",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Looks like you're having fun! At least. Yeah, why not? Have a bit of fun. Enjoy yourself."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle07.mp3": {
+        "base_name": "wheatley_sapper_idle07",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Let's get a picture!\" *click* *click click* \"Oh!\" *click* \"There you are! Quick picture. That's lovely, very inspirational. Brave!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle10.mp3": {
+        "base_name": "wheatley_sapper_idle10",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "This is a--this is amazing! We can--we can walk wherever we want! Look, just go left. No, go right! Go right! Don't even care, don't even care. Just go wherever you want. Couldn't care less."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle11.mp3": {
+        "base_name": "wheatley_sapper_idle11",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Just go left. Go left, for a laugh. All right, go right. Having a bit of fun, let's go right. Don't even care, don't even care! Just go somewhere."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle12.mp3": {
+        "base_name": "wheatley_sapper_idle12",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "We can go wherever we want! Just go o--go over there, if you want! Go left, go right! Up to you! Do whatever you fancy. Doesn't matter to me, just go. Just go somewhere."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle13.mp3": {
+        "base_name": "wheatley_sapper_idle13",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Let me just interject a thought here: I would love to run in the other direction. I don't know what you're feeling. I've been thinking about it, giving it some thought: almost certain death, running in the other direction. That's the one I'm leaning towards. Option B."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle14.mp3": {
+        "base_name": "wheatley_sapper_idle14",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Let me tell you where I am right now: I am of the view of running away in the other direction. Don't know what you're thinking, but that's my view. At this juncture."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle15.mp3": {
+        "base_name": "wheatley_sapper_idle15",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Do you know what I'm leaning towards? I am leaning towards running away in the other direction. What's your view? I'm very pro that one. At the moment."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle16.mp3": {
+        "base_name": "wheatley_sapper_idle16",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'm...pretty sure we're going the right way. Pretty sure."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle17.mp3": {
+        "base_name": "wheatley_sapper_idle17",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "I'll be honest, I'm not a hundred percent sure that we're going the right way, but I'm pretty sure. I'll give it--I'll give it sixty-five percent."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle18.mp3": {
+        "base_name": "wheatley_sapper_idle18",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Careful..."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle19.mp3": {
+        "base_name": "wheatley_sapper_idle19",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Careful, now!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle20.mp3": {
+        "base_name": "wheatley_sapper_idle20",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh! Careful, now!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle21.mp3": {
+        "base_name": "wheatley_sapper_idle21",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Careful! Careful!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle22.mp3": {
+        "base_name": "wheatley_sapper_idle22",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Let's keep moving!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle26.mp3": {
+        "base_name": "wheatley_sapper_idle26",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Watch yourself!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle28.mp3": {
+        "base_name": "wheatley_sapper_idle28",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Aw, bless your little heart! Believe in yourself! Shoot for the stars! Why not? You can be anything you want to be!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle29.mp3": {
+        "base_name": "wheatley_sapper_idle29",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, just--make sure you keep a tight grip on me. If you would. Poor, fragile little Wheatley. Easily breakable."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle30.mp3": {
+        "base_name": "wheatley_sapper_idle30",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Just, you know--uh, please do keep a--a tight grip on me. If you would. Just using grip. Classic grip. You know, just grip tightly. That's what I'm saying. 'Cause I'm quite, uh--I'm surprisingly fragile."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle31.mp3": {
+        "base_name": "wheatley_sapper_idle31",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, close call, that--wasn't it?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle35.mp3": {
+        "base_name": "wheatley_sapper_idle35",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Um, couldn't help but notice, when I was in your pocket, that you've, uh--you've got a knife. Looked pretty sharp. Could've had--could've had me eye out!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle36.mp3": {
+        "base_name": "wheatley_sapper_idle36",
+        "criteria": [],
+        "events": [
+            "psap.idleknife02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Just throwing this out there, um--perhaps skip the hacking entirely. Just go straight to the stabbing! All right? Love a bit of stabbing. Less work for me."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle37.mp3": {
+        "base_name": "wheatley_sapper_idle37",
+        "criteria": [],
+        "events": [
+            "psap.idleknife03"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Simple solution, stabbing. You know, Occam's razor, if you will. Stabbing with the razor."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle38.mp3": {
+        "base_name": "wheatley_sapper_idle38",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "So this--this thing we'll be hacking. Um, is it--is it harmless? Yeah?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle40.mp3": {
+        "base_name": "wheatley_sapper_idle40",
+        "criteria": [],
+        "events": [
+            "psap.idleharmless02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Not that I--you know, not that I couldn't hack something dangerous. Willing to, certainly. Up to a point, obviously. Don't get carried away."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle41.mp3": {
+        "base_name": "wheatley_sapper_idle41",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Computers? Hacked those. Mainframes? Hacked as well. Um...regular frames. All your different kind of frames."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle42.mp3": {
+        "base_name": "wheatley_sapper_idle42",
+        "criteria": [],
+        "events": [
+            "psap.idlehack02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Your knife. Hacked that, just now--for a laugh. Probably didn't even see that coming."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle43.mp3": {
+        "base_name": "wheatley_sapper_idle43",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "You gotta keep your eye on me. 'Cause I am, as I said before, a master hacker. Uh, all in good fun, though. You know, it's all harmless fun."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_idle44.mp3": {
+        "base_name": "wheatley_sapper_idle44",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "We've been walking for...quite some time. Where--where're we going now, by the way?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_intro01.mp3": {
+        "base_name": "wheatley_sapper_intro01",
+        "criteria": [],
+        "events": [
+            "psap.idleintro01"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "What's going on here, then?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_intro02.mp3": {
+        "base_name": "wheatley_sapper_intro02",
+        "criteria": [],
+        "events": [
+            "psap.idleintro02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, hacking something, are we?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_intro03.mp3": {
+        "base_name": "wheatley_sapper_intro03",
+        "criteria": [],
+        "events": [
+            "psap.idleintro02"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, hacking something, are we? Cheeky."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_intro04.mp3": {
+        "base_name": "wheatley_sapper_intro04",
+        "criteria": [],
+        "events": [
+            "psap.idleintro03"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Uh, you've come to the right guy."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_intro05.mp3": {
+        "base_name": "wheatley_sapper_intro05",
+        "criteria": [],
+        "events": [
+            "psap.idleintro04"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Don't wanna brag. Master hacker."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout01.mp3": {
+        "base_name": "wheatley_sapper_pulledout01",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout02.mp3": {
+        "base_name": "wheatley_sapper_pulledout02",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout03.mp3": {
+        "base_name": "wheatley_sapper_pulledout03",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout04.mp3": {
+        "base_name": "wheatley_sapper_pulledout04",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "'ello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout05.mp3": {
+        "base_name": "wheatley_sapper_pulledout05",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout06.mp3": {
+        "base_name": "wheatley_sapper_pulledout06",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout07.mp3": {
+        "base_name": "wheatley_sapper_pulledout07",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello, friend!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout08.mp3": {
+        "base_name": "wheatley_sapper_pulledout08",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oi, oi!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout09.mp3": {
+        "base_name": "wheatley_sapper_pulledout09",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "He-hey!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout11.mp3": {
+        "base_name": "wheatley_sapper_pulledout11",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "How's it going?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout12.mp3": {
+        "base_name": "wheatley_sapper_pulledout12",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Go team!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout13.mp3": {
+        "base_name": "wheatley_sapper_pulledout13",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Welcome! Good to see you."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout14.mp3": {
+        "base_name": "wheatley_sapper_pulledout14",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout16.mp3": {
+        "base_name": "wheatley_sapper_pulledout16",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout18.mp3": {
+        "base_name": "wheatley_sapper_pulledout18",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's me!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout19.mp3": {
+        "base_name": "wheatley_sapper_pulledout19",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ta-da!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout20.mp3": {
+        "base_name": "wheatley_sapper_pulledout20",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Bam!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout21.mp3": {
+        "base_name": "wheatley_sapper_pulledout21",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ta-da!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout22.mp3": {
+        "base_name": "wheatley_sapper_pulledout22",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout23.mp3": {
+        "base_name": "wheatley_sapper_pulledout23",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout24.mp3": {
+        "base_name": "wheatley_sapper_pulledout24",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "How are you?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout25.mp3": {
+        "base_name": "wheatley_sapper_pulledout25",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout26.mp3": {
+        "base_name": "wheatley_sapper_pulledout26",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout29.mp3": {
+        "base_name": "wheatley_sapper_pulledout29",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout36.mp3": {
+        "base_name": "wheatley_sapper_pulledout36",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! How's it going?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout37.mp3": {
+        "base_name": "wheatley_sapper_pulledout37",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Here I am! How's it going?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout38.mp3": {
+        "base_name": "wheatley_sapper_pulledout38",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oi, oi! Partner!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout39.mp3": {
+        "base_name": "wheatley_sapper_pulledout39",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey, partner! How's it going? All right?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout40.mp3": {
+        "base_name": "wheatley_sapper_pulledout40",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Partner! How's it going?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout41.mp3": {
+        "base_name": "wheatley_sapper_pulledout41",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout44.mp3": {
+        "base_name": "wheatley_sapper_pulledout44",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout46.mp3": {
+        "base_name": "wheatley_sapper_pulledout46",
+        "criteria": [],
+        "events": [
+            "psap.hacked"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Yes!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout59.mp3": {
+        "base_name": "wheatley_sapper_pulledout59",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ah! Oh! Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout60.mp3": {
+        "base_name": "wheatley_sapper_pulledout60",
+        "criteria": [],
+        "events": [
+            "psap.deployintro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello! Good to see you!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledout64.mp3": {
+        "base_name": "wheatley_sapper_pulledout64",
+        "criteria": [],
+        "events": [
+            "psap.deploy"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain03.mp3": {
+        "base_name": "wheatley_sapper_pulledoutagain03",
+        "criteria": [],
+        "events": [
+            "psap.deployagain"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey! Me again!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain04.mp3": {
+        "base_name": "wheatley_sapper_pulledoutagain04",
+        "criteria": [],
+        "events": [
+            "psap.deployagain"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Me again!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_pulledoutagain05.mp3": {
+        "base_name": "wheatley_sapper_pulledoutagain05",
+        "criteria": [],
+        "events": [
+            "psap.deployagain"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello again!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback01.mp3": {
+        "base_name": "wheatley_sapper_putback01",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Wait, wait! No!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback02.mp3": {
+        "base_name": "wheatley_sapper_putback02",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "No no no no no! Wait wait wait wait wait!!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback03.mp3": {
+        "base_name": "wheatley_sapper_putback03",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "We'll talk later."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback04.mp3": {
+        "base_name": "wheatley_sapper_putback04",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, not the pocket!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback05.mp3": {
+        "base_name": "wheatley_sapper_putback05",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Off I go."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback06.mp3": {
+        "base_name": "wheatley_sapper_putback06",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "All right, we'll talk later."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback07.mp3": {
+        "base_name": "wheatley_sapper_putback07",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "No no no no no! Don't do that!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback08.mp3": {
+        "base_name": "wheatley_sapper_putback08",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, you're kidding me!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback09.mp3": {
+        "base_name": "wheatley_sapper_putback09",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Goodbye."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback10.mp3": {
+        "base_name": "wheatley_sapper_putback10",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hey!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback12.mp3": {
+        "base_name": "wheatley_sapper_putback12",
+        "criteria": [],
+        "events": [
+            "psap.holsterfast"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Okay."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback15.mp3": {
+        "base_name": "wheatley_sapper_putback15",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Fair enough."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback17.mp3": {
+        "base_name": "wheatley_sapper_putback17",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ugh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback20.mp3": {
+        "base_name": "wheatley_sapper_putback20",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Cheers!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback22.mp3": {
+        "base_name": "wheatley_sapper_putback22",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Thanks very much."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback23.mp3": {
+        "base_name": "wheatley_sapper_putback23",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "See you later."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback24.mp3": {
+        "base_name": "wheatley_sapper_putback24",
+        "criteria": [],
+        "events": [
+            "psap.holsterfast"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Hello and goodbye!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback26.mp3": {
+        "base_name": "wheatley_sapper_putback26",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "What?!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback27.mp3": {
+        "base_name": "wheatley_sapper_putback27",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Ugh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback37.mp3": {
+        "base_name": "wheatley_sapper_putback37",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Good luck."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback44.mp3": {
+        "base_name": "wheatley_sapper_putback44",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback47.mp3": {
+        "base_name": "wheatley_sapper_putback47",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Oh! No!\" *stammers*"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback48.mp3": {
+        "base_name": "wheatley_sapper_putback48",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "What?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback49.mp3": {
+        "base_name": "wheatley_sapper_putback49",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, you--"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback50.mp3": {
+        "base_name": "wheatley_sapper_putback50",
+        "criteria": [],
+        "events": [
+            "psap.holster"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh!"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_putback53.mp3": {
+        "base_name": "wheatley_sapper_putback53",
+        "criteria": [],
+        "events": [
+            "psap.idle"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Whoa, whoa, whoa! Hold on! Hold on, what're you doing?"
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_sneak01.mp3": {
+        "base_name": "wheatley_sapper_sneak01",
+        "criteria": [],
+        "events": [
+            "psap.sneak"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Oh, are we--are we sneaking now? Are we? Sorry, I should--should keep my trap shut. Sorry."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_sneak02.mp3": {
+        "base_name": "wheatley_sapper_sneak02",
+        "criteria": [],
+        "events": [
+            "psap.sneak"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "It's probably worth flagging up, if we're gonna do any sneaking. Just--just quietly, just go sneaking! And then I'll keep qu--I'll keep schtum."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_sneak03.mp3": {
+        "base_name": "wheatley_sapper_sneak03",
+        "criteria": [],
+        "events": [
+            "psap.sneak"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Shouldn't we both have...ski masks? 'Cause if this job goes south, I don't wanna--you know, take all the rap."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_sneak04.mp3": {
+        "base_name": "wheatley_sapper_sneak04",
+        "criteria": [],
+        "events": [
+            "psap.sneak"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Look at the pair of us, sneaking around. Like a couple of ne'er-do-wells."
+    },
+    "vo/items/wheatley_sapper/wheatley_sapper_sneak05.mp3": {
+        "base_name": "wheatley_sapper_sneak05",
+        "criteria": [],
+        "events": [
+            "psap.sneak"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "Dashing rogues! The both of us. Like Robin Hood or something! Role playing. Love it. Absolutely love it."
+    }
+}

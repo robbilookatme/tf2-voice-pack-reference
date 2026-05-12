@@ -1,0 +1,4745 @@
+{
+    "vo/compmode/cm_pyro_pregamelostlast_01.mp3": {
+        "base_name": "cm_pyro_pregamelostlast_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": "Awwwww!"
+    },
+    "vo/compmode/cm_pyro_pregamelostlast_02.mp3": {
+        "base_name": "cm_pyro_pregamelostlast_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": "Heh thubba theh then, wohha?"
+    },
+    "vo/compmode/cm_pyro_pregamelostlast_03.mp3": {
+        "base_name": "cm_pyro_pregamelostlast_03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": "Yah fuddah gon den dey fhumah!"
+    },
+    "vo/compmode/cm_pyro_pregamewonlast_01.mp3": {
+        "base_name": "cm_pyro_pregamewonlast_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "unused",
+        "transcript": "Heh dum dummad."
+    },
+    "vo/compmode/cm_pyro_rankup_01.mp3": {
+        "base_name": "cm_pyro_rankup_01",
+        "criteria": [],
+        "events": [
+            "pyro.comprankup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_rankup_02.mp3": {
+        "base_name": "cm_pyro_rankup_02",
+        "criteria": [],
+        "events": [
+            "pyro.comprankup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_rankup_03.mp3": {
+        "base_name": "cm_pyro_rankup_03",
+        "criteria": [],
+        "events": [
+            "pyro.comprankup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_rankup_04.mp3": {
+        "base_name": "cm_pyro_rankup_04",
+        "criteria": [],
+        "events": [
+            "pyro.comprankup"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_rankup_highest_01.mp3": {
+        "base_name": "cm_pyro_rankup_highest_01",
+        "criteria": [],
+        "events": [
+            "pyro.comprankuphighest"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_summary_callout_01.mp3": {
+        "base_name": "cm_pyro_summary_callout_01",
+        "criteria": [],
+        "events": [
+            "pyro.compsummaryscreenoutlier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_summary_callout_02.mp3": {
+        "base_name": "cm_pyro_summary_callout_02",
+        "criteria": [],
+        "events": [
+            "pyro.compsummaryscreenoutlier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/compmode/cm_pyro_summary_callout_03.mp3": {
+        "base_name": "cm_pyro_summary_callout_03",
+        "criteria": [],
+        "events": [
+            "pyro.compsummaryscreenoutlier"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/pyro_activatecharge01.mp3": {
+        "base_name": "pyro_activatecharge01",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsRevenge",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerActivateCharge",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.activatecharge01"
+        ],
+        "responses": [
+            "PlayerKilledForRevengePyro",
+            "PlayerActivateChargePyro"
+        ],
+        "rules": [
+            "PlayerKilledForRevengePyro",
+            "PlayerActivateChargePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1403.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hudda hudda huh!"
+    },
+    "vo/pyro_autocappedcontrolpoint01.mp3": {
+        "base_name": "pyro_autocappedcontrolpoint01",
+        "criteria": [
+            [
+                "ConceptPlayerCapturedPoint",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.autocappedcontrolpoint01"
+        ],
+        "responses": [
+            "PlayerCapturedPointPyro"
+        ],
+        "rules": [
+            "PlayerCapturedPointPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1406.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hurrururururu!"
+    },
+    "vo/pyro_autocappedintelligence01.mp3": {
+        "base_name": "pyro_autocappedintelligence01",
+        "criteria": [
+            [
+                "ConceptPlayerCapturedIntelligence",
+                "IsPyro"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsWeaponMelee",
+                "IsPyro",
+                "IsCrosshairEnemy"
+            ]
+        ],
+        "events": [
+            "pyro.autocappedintelligence01"
+        ],
+        "responses": [
+            "MeleeDarePyro",
+            "MeleeDareCombatPyro",
+            "PlayerCappedIntelligencePyro"
+        ],
+        "rules": [
+            "MeleeDarePyro",
+            "MeleeDareCombatPyro",
+            "PlayerCappedIntelligencePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1409.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmmphya harrgh mrgha hrghgph."
+    },
+    "vo/pyro_autodejectedtie01.mp3": {
+        "base_name": "pyro_autodejectedtie01",
+        "criteria": [
+            [
+                "ConceptPlayerStalemate",
+                "IsPyro"
+            ],
+            [
+                "ConceptJarateHit",
+                "IsPyro",
+                "50PercentChance"
+            ],
+            [
+                "ConceptDuelRejected",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.autodejectedtie01"
+        ],
+        "responses": [
+            "PyroJarateHit",
+            "PlayerStalematePyro",
+            "RejectedDuelPyro"
+        ],
+        "rules": [
+            "PyroJarateHit",
+            "PlayerStalematePyro",
+            "RejectedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1412.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmmrpgh crpyha drghya!"
+    },
+    "vo/pyro_autoonfire01.mp3": {
+        "base_name": "pyro_autoonfire01",
+        "criteria": [
+            [
+                "ConceptFire",
+                "IsPyro",
+                "PyroIsNotStillonFire",
+                "IsNotDominating",
+                "AppliesContext:PyroOnFire:1:7"
+            ],
+            [
+                "ConceptIAcceptDuel",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.autoonfire01"
+        ],
+        "responses": [
+            "AcceptedDuelPyro",
+            "PlayerOnFirePyro"
+        ],
+        "rules": [
+            "AcceptedDuelPyro",
+            "PlayerOnFirePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1415.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmmh,mmh!"
+    },
+    "vo/pyro_autoonfire02.mp3": {
+        "base_name": "pyro_autoonfire02",
+        "criteria": [
+            [
+                "ConceptJarateHit",
+                "IsPyro",
+                "50PercentChance"
+            ],
+            [
+                "ConceptFire",
+                "IsPyro",
+                "PyroIsNotStillonFire",
+                "IsNotDominating",
+                "AppliesContext:PyroOnFire:1:7"
+            ]
+        ],
+        "events": [
+            "pyro.autoonfire02"
+        ],
+        "responses": [
+            "PyroJarateHit",
+            "PlayerOnFirePyro"
+        ],
+        "rules": [
+            "PyroJarateHit",
+            "PlayerOnFirePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1416.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmmrgh!"
+    },
+    "vo/pyro_battlecry01.mp3": {
+        "base_name": "pyro_battlecry01",
+        "criteria": [
+            [
+                "ConceptPlayerRoundStart",
+                "IsPyro"
+            ],
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsRevenge",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.battlecry01"
+        ],
+        "responses": [
+            "PlayerBattleCryPyro",
+            "PlayerRoundStartPyro",
+            "PlayerKilledForRevengePyro"
+        ],
+        "rules": [
+            "PlayerBattleCryPyro",
+            "PlayerRoundStartPyro",
+            "PlayerKilledForRevengePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1418.vcd"
+        ],
+        "state": "used",
+        "transcript": "Khamaahh!"
+    },
+    "vo/pyro_battlecry02.mp3": {
+        "base_name": "pyro_battlecry02",
+        "criteria": [
+            [
+                "ConceptPlayerRoundStart",
+                "IsPyro"
+            ],
+            [
+                "ConceptDuelRejected",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.battlecry02"
+        ],
+        "responses": [
+            "PlayerBattleCryPyro",
+            "PlayerRoundStartPyro",
+            "RejectedDuelPyro"
+        ],
+        "rules": [
+            "PlayerBattleCryPyro",
+            "PlayerRoundStartPyro",
+            "RejectedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1419.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Hudda hudda huh!\" "
+    },
+    "vo/pyro_cheers01.mp3": {
+        "base_name": "pyro_cheers01",
+        "criteria": [
+            [
+                "ConceptCapBlocked",
+                "IsPyro",
+                "AppliesContext:PyroKillSpeech:1:10"
+            ],
+            [
+                "ConceptPlayerCheers",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.cheers01"
+        ],
+        "responses": [
+            "PlayerKilledCapperPyro",
+            "PlayerCheersPyro",
+            "Taunt: The Fist Bump"
+        ],
+        "rules": [
+            "PlayerKilledCapperPyro",
+            "PlayerCheersPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/pyro/low/1421.vcd"
+        ],
+        "state": "used",
+        "transcript": "Fhanks a lah!"
+    },
+    "vo/pyro_cloakedspy01.mp3": {
+        "base_name": "pyro_cloakedspy01",
+        "criteria": [
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.cloakedspy01"
+        ],
+        "responses": [
+            "PlayerCloakedSpyPyro"
+        ],
+        "rules": [
+            "PlayerCloakedSpyPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1429.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mrr hurrdurr hm hurr!"
+    },
+    "vo/pyro_cloakedspyidentify01.mp3": {
+        "base_name": "pyro_cloakedspyidentify01",
+        "criteria": [
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnSniper"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnHeavy"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnPyro"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnMedic"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnDemoman"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnScout"
+            ],
+            [
+                "ConceptDuelRejected",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnSpy"
+            ],
+            [
+                "ConceptPlayerCloakedSpy",
+                "IsPyro",
+                "IsOnEngineer"
+            ]
+        ],
+        "events": [
+            "pyro.cloakedspyidentify01"
+        ],
+        "responses": [
+            "PlayerCloakedSpyDemomanPyro",
+            "PlayerCloakedSpySniperPyro",
+            "PlayerCloakedSpySpyPyro",
+            "PlayerCloakedSpyMedicPyro",
+            "PlayerCloakedSpyScoutPyro",
+            "PlayerCloakedSpyHeavyPyro",
+            "PlayerCloakedSpyEngineerPyro",
+            "PlayerCloakedSpyPyroPyro",
+            "RejectedDuelPyro"
+        ],
+        "rules": [
+            "PlayerCloakedSpyDemomanPyro",
+            "PlayerCloakedSpySniperPyro",
+            "PlayerCloakedSpySpyPyro",
+            "PlayerCloakedSpyMedicPyro",
+            "PlayerCloakedSpyScoutPyro",
+            "PlayerCloakedSpyHeavyPyro",
+            "PlayerCloakedSpyEngineerPyro",
+            "PlayerCloakedSpyPyroPyro",
+            "RejectedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1438.vcd",
+            "scenes/player/pyro/low/1444.vcd",
+            "scenes/player/pyro/low/1440.vcd",
+            "scenes/player/pyro/low/1442.vcd",
+            "scenes/player/pyro/low/1448.vcd",
+            "scenes/player/pyro/low/1432.vcd",
+            "scenes/player/pyro/low/1436.vcd",
+            "scenes/player/pyro/low/1446.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ah hyro ifva phy!"
+    },
+    "vo/pyro_go01.mp3": {
+        "base_name": "pyro_go01",
+        "criteria": [
+            [
+                "ConceptPlayerGo",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.readycomp",
+            "pyro.go01",
+            "pyro.ready",
+            "pyro.readymvm"
+        ],
+        "responses": [
+            "PlayerGoPyro"
+        ],
+        "rules": [
+            "PlayerGoPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1451.vcd"
+        ],
+        "state": "used",
+        "transcript": "Gho gho gho!"
+    },
+    "vo/pyro_goodjob01.mp3": {
+        "base_name": "pyro_goodjob01",
+        "criteria": [
+            [
+                "ConceptPlayerGoodJob",
+                "IsPyro"
+            ],
+            [
+                "ConceptMvMLootCommon",
+                "IsPyro",
+                "20PercentChance"
+            ]
+        ],
+        "events": [
+            "pyro.goodjob01",
+            "pyro.scardy_cat_b",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Scorcher's Solo",
+            "PlayerGoodJobPyro",
+            "Taunt: Roasty Toasty",
+            "PyroMvMLootCommon"
+        ],
+        "rules": [
+            "PlayerGoodJobPyro",
+            "PyroMvMLootCommon"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/1454.vcd"
+        ],
+        "state": "used",
+        "transcript": "Gvuuh jovhh."
+    },
+    "vo/pyro_headleft01.mp3": {
+        "base_name": "pyro_headleft01",
+        "criteria": [
+            [
+                "ConceptPlayerLeft",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.headleft01"
+        ],
+        "responses": [
+            "PlayerHeadLeftPyro"
+        ],
+        "rules": [
+            "PlayerHeadLeftPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1457.vcd"
+        ],
+        "state": "used",
+        "transcript": "Oohthuhhumph!"
+    },
+    "vo/pyro_headright01.mp3": {
+        "base_name": "pyro_headright01",
+        "criteria": [
+            [
+                "ConceptPlayerRight",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsShotgunPyro"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsManmelter"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsGasCan"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsSlap"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsFlaregun"
+            ]
+        ],
+        "events": [
+            "pyro.headright01"
+        ],
+        "responses": [
+            "PlayerHeadRightPyro",
+            "PyroTauntSecondary",
+            "PyroTauntItem1"
+        ],
+        "rules": [
+            "PyroTauntPlayerItem1",
+            "PlayerHeadRightPyro",
+            "PyroTauntSlap",
+            "PyroTauntGasCan",
+            "PyroTauntManmelter",
+            "PyroTauntPlayerSecondary"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1460.vcd",
+            "scenes/player/pyro/low/taunt02.vcd"
+        ],
+        "state": "used",
+        "transcript": "OOoh la ruuh!"
+    },
+    "vo/pyro_helpme01.mp3": {
+        "base_name": "pyro_helpme01",
+        "criteria": [
+            [
+                "ConceptPlayerHelp",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.helpme01"
+        ],
+        "responses": [
+            "PlayerHelpPyro"
+        ],
+        "rules": [
+            "PlayerHelpPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1463.vcd"
+        ],
+        "state": "used",
+        "transcript": "Heelp mfe!"
+    },
+    "vo/pyro_helpmecapture01.mp3": {
+        "base_name": "pyro_helpmecapture01",
+        "criteria": [
+            [
+                "ConceptDuelRejected",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerHelp",
+                "IsPyro",
+                "IsOnCappableControlPoint",
+                "AppliesContext:PyroHelpCap:1:10"
+            ]
+        ],
+        "events": [
+            "pyro.helpmecapture01"
+        ],
+        "responses": [
+            "PlayerHelpCapturePyro",
+            "RejectedDuelPyro"
+        ],
+        "rules": [
+            "PlayerHelpCapturePyro",
+            "RejectedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1466.vcd"
+        ],
+        "state": "used",
+        "transcript": "Helfp ee cafpter!"
+    },
+    "vo/pyro_helpmedefend01.mp3": {
+        "base_name": "pyro_helpmedefend01",
+        "criteria": [
+            [
+                "ConceptDuelRejected",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerHelp",
+                "IsPyro",
+                "IsOnFriendlyControlPoint"
+            ]
+        ],
+        "events": [
+            "pyro.helpmedefend01"
+        ],
+        "responses": [
+            "PlayerHelpDefendPyro",
+            "RejectedDuelPyro"
+        ],
+        "rules": [
+            "PlayerHelpDefendPyro",
+            "RejectedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1469.vcd"
+        ],
+        "state": "used",
+        "transcript": "Helfp ee defen!"
+    },
+    "vo/pyro_incoming01.mp3": {
+        "base_name": "pyro_incoming01",
+        "criteria": [
+            [
+                "ConceptPlayerIncoming",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.incoming01"
+        ],
+        "responses": [
+            "PlayerIncomingPyro"
+        ],
+        "rules": [
+            "PlayerIncomingPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1472.vcd"
+        ],
+        "state": "used",
+        "transcript": "Khamahh!"
+    },
+    "vo/pyro_jeers01.mp3": {
+        "base_name": "pyro_jeers01",
+        "criteria": [
+            [
+                "ConceptPlayerSuddenDeathStart",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerJeers",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.jeers01"
+        ],
+        "responses": [
+            "Taunt: The Critical Fail",
+            "PlayerSuddenDeathPyro",
+            "PlayerJeersPyro"
+        ],
+        "rules": [
+            "PlayerSuddenDeathPyro",
+            "PlayerJeersPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1476.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd"
+        ],
+        "state": "used",
+        "transcript": "Bvoooh!"
+    },
+    "vo/pyro_jeers02.mp3": {
+        "base_name": "pyro_jeers02",
+        "criteria": [
+            [
+                "ConceptPlayerSuddenDeathStart",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerJeers",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_taunt_spring_rider_pyro_jeers02",
+            "pyro.jeers02"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "PlayerSuddenDeathPyro",
+            "PlayerJeersPyro"
+        ],
+        "rules": [
+            "PlayerSuddenDeathPyro",
+            "PlayerJeersPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1477.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "Yahf fvaorarh!"
+    },
+    "vo/pyro_laugh_addl04.mp3": {
+        "base_name": "pyro_laugh_addl04",
+        "criteria": [
+            [
+                "ConceptTauntLaugh",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsAprilFoolsTaunt",
+                "IsPyro"
+            ],
+            [
+                "ConceptTauntPyroArmageddon",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.laugh_addl04"
+        ],
+        "responses": [
+            "PyroTauntArmageddon",
+            "PyroTauntLaugh",
+            "Taunt: The Schadenfreude"
+        ],
+        "rules": [
+            "PyroTauntArmageddon",
+            "PyroTauntAprilFools",
+            "PyroTauntLaugh"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_laugh.vcd"
+        ],
+        "state": "used",
+        "transcript": "laughs a hearty laugh"
+    },
+    "vo/pyro_laughevil01.mp3": {
+        "base_name": "pyro_laughevil01",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsDominated",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsFlamethrower"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsDragonsFury"
+            ]
+        ],
+        "events": [
+            "pyro.laughevil01"
+        ],
+        "responses": [
+            "PyroTauntPrimary",
+            "PlayerKilledDominatingPyro",
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [
+            "PlayerKilledDominatingPyro",
+            "PyroTauntDragonsFury",
+            "PyroTauntPlayerPrimary"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/1450.vcd",
+            "scenes/player/pyro/low/taunt01_v3.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd"
+        ],
+        "state": "used",
+        "transcript": "Evil laugh"
+    },
+    "vo/pyro_laughevil02.mp3": {
+        "base_name": "pyro_laughevil02",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsDominated",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsWeaponMelee",
+                "IsPyro",
+                "IsCrosshairEnemy"
+            ],
+            [
+                "ConceptMvMResurrected",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_taunt_roasty_toasty_loop_3",
+            "pyro_taunt_the_final_score_pyro_pyro_laughevil02",
+            "taunt_springrider_giggles",
+            "pyro.laughevil02"
+        ],
+        "responses": [
+            "Taunt: The Final Score",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Roasty Toasty",
+            "PyroMvmResurrected",
+            "PlayerKilledDominatingPyro",
+            "MeleeDareCombatPyro"
+        ],
+        "rules": [
+            "PyroMvmResurrected",
+            "PlayerKilledDominatingPyro",
+            "MeleeDareCombatPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/1482.vcd"
+        ],
+        "state": "used",
+        "transcript": "Evil laugh"
+    },
+    "vo/pyro_laughevil03.mp3": {
+        "base_name": "pyro_laughevil03",
+        "criteria": [
+            [
+                "ConceptPlayerPositive",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.laughevil03",
+            "pyro_taunt_roasty_toasty_loop_3"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "PlayerTauntsPyro"
+        ],
+        "rules": [
+            "PlayerPositivePyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/1563.vcd"
+        ],
+        "state": "used",
+        "transcript": "Evil laugh"
+    },
+    "vo/pyro_laughevil04.mp3": {
+        "base_name": "pyro_laughevil04",
+        "criteria": [
+            [
+                "ConceptPlayerPositive",
+                "IsPyro"
+            ],
+            [
+                "ConceptMvMResurrected",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.laughevil04",
+            "pyro_taunt_roasty_toasty_outro",
+            "pyro_taunt_roasty_toasty_pyro_laughevil04",
+            "taunt_springrider_giggles"
+        ],
+        "responses": [
+            "Taunt: The Fist Bump",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Cremators Condolences",
+            "PlayerTauntsPyro",
+            "PyroMvmResurrected",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [
+            "PyroMvmResurrected",
+            "PlayerPositivePyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/1595.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd"
+        ],
+        "state": "used",
+        "transcript": "Evil laugh 2"
+    },
+    "vo/pyro_laughhappy01.mp3": {
+        "base_name": "pyro_laughhappy01",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsDominated",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ],
+            [
+                "ConceptMvMLootUltraRare",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.laughhappy01"
+        ],
+        "responses": [
+            "PyroMvMLootUltraRare",
+            "PlayerKilledDominatingPyro"
+        ],
+        "rules": [
+            "PyroMvMLootUltraRare",
+            "PlayerKilledDominatingPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1483.vcd"
+        ],
+        "state": "used",
+        "transcript": "Happy laugh"
+    },
+    "vo/pyro_laughlong01.mp3": {
+        "base_name": "pyro_laughlong01",
+        "criteria": [
+            [
+                "ConceptFireWeapon",
+                "IsPyro",
+                "IsInvulnerable",
+                "PyroNotInvulnerableSpeech",
+                "AppliesContext:PyroInvulnerableSpeech:1:30"
+            ],
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsDominated",
+                "AppliesContext:PyroKillSpeech:1:10",
+                "AppliesContext:IsDominating:1:10"
+            ]
+        ],
+        "events": [
+            "pyro_taunt_flag",
+            "pyro.laughlong01",
+            "taunt_springrider_giggles"
+        ],
+        "responses": [
+            "InvulnerableSpeechPyro",
+            "PlayerKilledDominatingPyro",
+            "Taunt: Flying Colors",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [
+            "PlayerKilledDominatingPyro",
+            "InvulnerableSpeechPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/player/pyro/low/1485.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+        ],
+        "state": "used",
+        "transcript": "Long laugh"
+    },
+    "vo/pyro_laughshort01.mp3": {
+        "base_name": "pyro_laughshort01",
+        "criteria": [
+            [
+                "ConceptPlayerPositive",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.laughshort01"
+        ],
+        "responses": [
+            "PlayerTauntsPyro"
+        ],
+        "rules": [
+            "PlayerPositivePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1487.vcd"
+        ],
+        "state": "used",
+        "transcript": "Short laugh"
+    },
+    "vo/pyro_medic01.mp3": {
+        "base_name": "pyro_medic01",
+        "criteria": [
+            [
+                "ConceptPlayerMedic",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.medic01"
+        ],
+        "responses": [
+            "PlayerMedicPyro"
+        ],
+        "rules": [
+            "PlayerMedicPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1489.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mhdrrk!"
+    },
+    "vo/pyro_moveup01.mp3": {
+        "base_name": "pyro_moveup01",
+        "criteria": [
+            [
+                "ConceptPlayerMoveUp",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.moveup01"
+        ],
+        "responses": [
+            "PlayerMoveUpPyro"
+        ],
+        "rules": [
+            "PlayerMoveUpPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1492.vcd"
+        ],
+        "state": "used",
+        "transcript": "Oove! Oove up! Oove up!"
+    },
+    "vo/pyro_needdispenser01.mp3": {
+        "base_name": "pyro_needdispenser01",
+        "criteria": [
+            [
+                "ConceptPlayerDispenserHere",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.needdispenser01"
+        ],
+        "responses": [
+            "PlayerDispenserHerePyro"
+        ],
+        "rules": [
+            "PlayerDispenserHerePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1493.vcd"
+        ],
+        "state": "used",
+        "transcript": "Phudda Dipenza heah!"
+    },
+    "vo/pyro_needsentry01.mp3": {
+        "base_name": "pyro_needsentry01",
+        "criteria": [
+            [
+                "ConceptPlayerSentryHere",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.needsentry01"
+        ],
+        "responses": [
+            "PlayerSentryHerePyro"
+        ],
+        "rules": [
+            "PlayerSentryHerePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1495.vcd"
+        ],
+        "state": "used",
+        "transcript": "Pudda Sfenty heah!"
+    },
+    "vo/pyro_needteleporter01.mp3": {
+        "base_name": "pyro_needteleporter01",
+        "criteria": [
+            [
+                "ConceptPlayerTeleporterHere",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.needteleporter01"
+        ],
+        "responses": [
+            "PlayerTeleporterHerePyro"
+        ],
+        "rules": [
+            "PlayerTeleporterHerePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1497.vcd"
+        ],
+        "state": "used",
+        "transcript": "Phudda Teddapudda heah!"
+    },
+    "vo/pyro_negativevocalization01.mp3": {
+        "base_name": "pyro_negativevocalization01",
+        "criteria": [
+            [
+                "ConceptRequestDuel",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerLostPoint",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerNegative",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.scardy_cat_b",
+            "pyro_taunt_neck_snap_04",
+            "pyro.negativevocalization01",
+            "taunt_burstchester_pyro_happy"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerNegativePyro",
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Neck Snap",
+            "Taunt: The Critical Fail",
+            "Taunt: Unleashed Rage",
+            "PlayerLostPointPyro",
+            "MeleeDarePyro"
+        ],
+        "rules": [
+            "PlayerLostPointPyro",
+            "MeleeDarePyro",
+            "PlayerNegativePyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/1499.vcd",
+            "scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd",
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
+        ],
+        "state": "used",
+        "transcript": "Eeuaghafvada..."
+    },
+    "vo/pyro_niceshot01.mp3": {
+        "base_name": "pyro_niceshot01",
+        "criteria": [
+            [
+                "ConceptPlayerNiceShot",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.niceshot01",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "PlayerNiceShotPyro"
+        ],
+        "rules": [
+            "PlayerNiceShotPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/1504.vcd"
+        ],
+        "state": "used",
+        "transcript": "Phice fah."
+    },
+    "vo/pyro_no01.mp3": {
+        "base_name": "pyro_no01",
+        "criteria": [
+            [
+                "ConceptPlayerNo",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.no01"
+        ],
+        "responses": [
+            "PlayerNoPyro"
+        ],
+        "rules": [
+            "PlayerNoPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1507.vcd"
+        ],
+        "state": "used",
+        "transcript": "Nho."
+    },
+    "vo/pyro_paincrticialdeath01.mp3": {
+        "base_name": "pyro_paincrticialdeath01",
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsFlamethrower"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsDragonsFury"
+            ]
+        ],
+        "events": [
+            "pyro.critdeath",
+            "pyro.meleedeath",
+            "pyro.paincrticialdeath01",
+            "pyro.scardy_cat",
+            "mvm.playerdiedpyro"
+        ],
+        "responses": [
+            "PyroTauntPrimary",
+            "Taunt: The Scaredy-Cat!"
+        ],
+        "rules": [
+            "PyroTauntDragonsFury",
+            "PyroTauntPlayerPrimary"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
+            "scenes/player/pyro/low/taunt01_v1.vcd"
+        ],
+        "state": "used",
+        "transcript": "(Muffled dying scream 1)"
+    },
+    "vo/pyro_paincrticialdeath02.mp3": {
+        "base_name": "pyro_paincrticialdeath02",
+        "criteria": [],
+        "events": [
+            "pyro.critdeath",
+            "pyro.meleedeath",
+            "pyro.scardy_cat",
+            "pyro.paincrticialdeath02",
+            "mvm.playerdiedpyro"
+        ],
+        "responses": [
+            "Taunt: The Scaredy-Cat!"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
+        ],
+        "state": "used",
+        "transcript": "(Muffled dying scream 2)"
+    },
+    "vo/pyro_paincrticialdeath03.mp3": {
+        "base_name": "pyro_paincrticialdeath03",
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsFlamethrower"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsDragonsFury"
+            ]
+        ],
+        "events": [
+            "pyro.critdeath",
+            "pyro.meleedeath",
+            "pyro.scardy_cat",
+            "pyro.paincrticialdeath03",
+            "mvm.playerdiedpyro"
+        ],
+        "responses": [
+            "PyroTauntPrimary",
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Unleashed Rage"
+        ],
+        "rules": [
+            "PyroTauntDragonsFury",
+            "PyroTauntPlayerPrimary"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
+            "scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd",
+            "scenes/player/pyro/low/taunt01_v2.vcd"
+        ],
+        "state": "used",
+        "transcript": "(Muffled dying scream 3)"
+    },
+    "vo/pyro_painsevere01.mp3": {
+        "base_name": "pyro_painsevere01",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsShotgunPyro"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsManmelter"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsGasCan"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsSlap"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsFlaregun"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere01"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro",
+            "PyroTauntSecondary",
+            "PyroTauntItem1"
+        ],
+        "rules": [
+            "PyroTauntPlayerItem1",
+            "PyroTauntSlap",
+            "PyroTauntGasCan",
+            "PyroTauntManmelter",
+            "PlayerAttackerPainPyro",
+            "PyroTauntPlayerSecondary"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1581.vcd",
+            "scenes/player/pyro/low/taunt02.vcd"
+        ],
+        "state": "used",
+        "transcript": "Aaah!"
+    },
+    "vo/pyro_painsevere02.mp3": {
+        "base_name": "pyro_painsevere02",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere02"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro"
+        ],
+        "rules": [
+            "PlayerAttackerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1582.vcd"
+        ],
+        "state": "used",
+        "transcript": "[*Whimper*]"
+    },
+    "vo/pyro_painsevere03.mp3": {
+        "base_name": "pyro_painsevere03",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere03"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro"
+        ],
+        "rules": [
+            "PlayerAttackerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1583.vcd"
+        ],
+        "state": "used",
+        "transcript": "Agh!"
+    },
+    "vo/pyro_painsevere04.mp3": {
+        "base_name": "pyro_painsevere04",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere04"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro"
+        ],
+        "rules": [
+            "PlayerAttackerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1591.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ungh!"
+    },
+    "vo/pyro_painsevere05.mp3": {
+        "base_name": "pyro_painsevere05",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere05"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro"
+        ],
+        "rules": [
+            "PlayerAttackerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1592.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ah!"
+    },
+    "vo/pyro_painsevere06.mp3": {
+        "base_name": "pyro_painsevere06",
+        "criteria": [
+            [
+                "ConceptAttackerPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.death",
+            "pyro.painsevere06"
+        ],
+        "responses": [
+            "PlayerAttackerPainPyro"
+        ],
+        "rules": [
+            "PlayerAttackerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1593.vcd"
+        ],
+        "state": "used",
+        "transcript": "Unh!"
+    },
+    "vo/pyro_painsharp01.mp3": {
+        "base_name": "pyro_painsharp01",
+        "criteria": [
+            [
+                "ConceptFire",
+                "IsPyro",
+                "PyroIsStillonFire",
+                "IsNotDominating",
+                "AppliesContext:PyroOnFire:1:7"
+            ],
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.painsharp01",
+            "pyro.explosiondeath",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro",
+            "Taunt: The Hot Wheeler"
+        ],
+        "rules": [
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1930.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd",
+            "scenes/player/pyro/low/1584.vcd"
+        ],
+        "state": "used",
+        "transcript": "Oof!"
+    },
+    "vo/pyro_painsharp02.mp3": {
+        "base_name": "pyro_painsharp02",
+        "criteria": [
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ],
+            [
+                "ConceptFire",
+                "IsPyro",
+                "PyroIsStillonFire",
+                "IsNotDominating",
+                "AppliesContext:PyroOnFire:1:7"
+            ]
+        ],
+        "events": [
+            "pyro.explosiondeath",
+            "pyro.painsharp02",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro"
+        ],
+        "rules": [
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1930.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/1585.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ah!"
+    },
+    "vo/pyro_painsharp03.mp3": {
+        "base_name": "pyro_painsharp03",
+        "criteria": [
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro_taunt_neck_snap_02",
+            "pyro.explosiondeath",
+            "pyro.painsharp03",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro",
+            "Taunt: Neck Snap"
+        ],
+        "rules": [
+            "PlayerPainPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
+            "scenes/player/pyro/low/1586.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ow!"
+    },
+    "vo/pyro_painsharp04.mp3": {
+        "base_name": "pyro_painsharp04",
+        "criteria": [
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.explosiondeath",
+            "pyro.painsharp04",
+            "pyro_taunt_neck_snap_03",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro",
+            "Taunt: Neck Snap"
+        ],
+        "rules": [
+            "PlayerPainPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1587.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd"
+        ],
+        "state": "used",
+        "transcript": "Uh!"
+    },
+    "vo/pyro_painsharp05.mp3": {
+        "base_name": "pyro_painsharp05",
+        "criteria": [
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.explosiondeath",
+            "pyro.painsharp05",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro"
+        ],
+        "rules": [
+            "PlayerPainPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/1588.vcd"
+        ],
+        "state": "used",
+        "transcript": "Uf!"
+    },
+    "vo/pyro_painsharp06.mp3": {
+        "base_name": "pyro_painsharp06",
+        "criteria": [
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.explosiondeath",
+            "pyro.painsharp06",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "PlayerPainPyro"
+        ],
+        "rules": [
+            "PlayerPainPyro"
+        ],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/1589.vcd"
+        ],
+        "state": "used",
+        "transcript": "Arg!"
+    },
+    "vo/pyro_painsharp07.mp3": {
+        "base_name": "pyro_painsharp07",
+        "criteria": [
+            [
+                "ConceptFire",
+                "IsPyro",
+                "PyroIsStillonFire",
+                "IsNotDominating",
+                "AppliesContext:PyroOnFire:1:7"
+            ],
+            [
+                "ConceptPain",
+                "IsPyro",
+                "IsNotDominating"
+            ]
+        ],
+        "events": [
+            "pyro.painsharp07",
+            "pyro.explosiondeath",
+            "taunt_burstchester_pyro_pain"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Cheers!",
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro"
+        ],
+        "rules": [
+            "PlayerPainPyro",
+            "PlayerStillOnFirePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1930.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/1590.vcd",
+            "scenes/workshop/player/pyro/low/taunt_cheers.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ungh!"
+    },
+    "vo/pyro_positivevocalization01.mp3": {
+        "base_name": "pyro_positivevocalization01",
+        "criteria": [
+            [
+                "ConceptPlayerPositive",
+                "IsPyro"
+            ],
+            [
+                "ConceptMvMLootRare",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "taunt.skating_scorcher_trick",
+            "pyro.positivevocalization01",
+            "taunt_springrider_intro",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: Kazotsky Kick",
+            "PyroMvMLootRare",
+            "PlayerPositivePyro",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [
+            "PyroMvMLootRare",
+            "PlayerPositivePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1510.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_russian.vcd"
+        ],
+        "state": "used",
+        "transcript": "Exfellend!"
+    },
+    "vo/pyro_sentryahead01.mp3": {
+        "base_name": "pyro_sentryahead01",
+        "criteria": [
+            [
+                "ConceptPlayerSentryAhead",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.sentryahead01"
+        ],
+        "responses": [
+            "PlayerSentryAheadPyro"
+        ],
+        "rules": [
+            "PlayerSentryAheadPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1515.vcd"
+        ],
+        "state": "used",
+        "transcript": "Sphenty ahefv!"
+    },
+    "vo/pyro_sf13_influx_big01.mp3": {
+        "base_name": "pyro_sf13_influx_big01",
+        "criteria": [
+            [
+                "ConceptPlayerSpellPickupRare",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_influx_big01"
+        ],
+        "responses": [
+            "PyroSF13SpellPickupRare"
+        ],
+        "rules": [
+            "PyroSF13SpellPickupRare"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6498.vcd"
+        ],
+        "state": "used",
+        "transcript": "*Evil laugh*"
+    },
+    "vo/pyro_sf13_influx_small01.mp3": {
+        "base_name": "pyro_sf13_influx_small01",
+        "criteria": [
+            [
+                "ConceptPlayerSpellPickupCommon",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_influx_small01",
+            "pyro_taunt_roasty_toasty_pyro_sf13_influx_small01"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "PyroSF13SpellPickupCommon",
+            "Taunt: Yeti Punch"
+        ],
+        "rules": [
+            "PyroSF13SpellPickupCommon"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6499.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_yetipunch.vcd"
+        ],
+        "state": "used",
+        "transcript": "*Small chuckle*"
+    },
+    "vo/pyro_sf13_spell_generic01.mp3": {
+        "base_name": "pyro_sf13_spell_generic01",
+        "criteria": [
+            [
+                "ConceptPlayerCastMirv",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerCastSkeletonHorde",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic01"
+        ],
+        "responses": [
+            "PyroCastSkeletonHorde",
+            "PyroCastMirv"
+        ],
+        "rules": [
+            "PyroCastSkeletonHorde",
+            "PyroCastMirv"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6435.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Mumuno, muh bumuno!\" (\"Pactum diabolus!\" and \"Mortis animataris!\")"
+    },
+    "vo/pyro_sf13_spell_generic02.mp3": {
+        "base_name": "pyro_sf13_spell_generic02",
+        "criteria": [
+            [
+                "ConceptPlayerCastLightningBall",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic02"
+        ],
+        "responses": [
+            "PyroCastLightningBall"
+        ],
+        "rules": [
+            "PyroCastLightningBall"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6436.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Bumunuh, bun!\" (\"Imputum fulminus!\")"
+    },
+    "vo/pyro_sf13_spell_generic03.mp3": {
+        "base_name": "pyro_sf13_spell_generic03",
+        "criteria": [
+            [
+                "ConceptPlayerCastBlastJump",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic03"
+        ],
+        "responses": [
+            "PyroCastBlastJump"
+        ],
+        "rules": [
+            "PyroCastBlastJump"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6437.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Buh blumunuh!\" (\"Amplus tripudio!\")"
+    },
+    "vo/pyro_sf13_spell_generic04.mp3": {
+        "base_name": "pyro_sf13_spell_generic04",
+        "criteria": [
+            [
+                "ConceptPlayerCastMerasmusZap",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerCastSelfHeal",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic04"
+        ],
+        "responses": [
+            "PyroCastSelfHeal",
+            "PyroCastMerasmusZap"
+        ],
+        "rules": [
+            "PyroCastSelfHeal",
+            "PyroCastMerasmusZap"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6438.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Cuhts me trihp!\" (\"Deus invictus!\" and \"Barpo kabalto!\")"
+    },
+    "vo/pyro_sf13_spell_generic05.mp3": {
+        "base_name": "pyro_sf13_spell_generic05",
+        "criteria": [
+            [
+                "ConceptPlayerCastStealth",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic05"
+        ],
+        "responses": [
+            "PyroCastStealth"
+        ],
+        "rules": [
+            "PyroCastStealth"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6439.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Muphituh lurr!\" (\"Barpo invisium!\")"
+    },
+    "vo/pyro_sf13_spell_generic06.mp3": {
+        "base_name": "pyro_sf13_spell_generic06",
+        "criteria": [
+            [
+                "ConceptPlayerCastTeleport",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerCastMeteorSwarm",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic06"
+        ],
+        "responses": [
+            "PyroCastMeteorSwarm",
+            "PyroCastTeleport"
+        ],
+        "rules": [
+            "PyroCastMeteorSwarm",
+            "PyroCastTeleport"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/6440.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Muhk niphurr!\" (\"Ipsum instanterium!\" and \"Seismela tremoro!\")"
+    },
+    "vo/pyro_sf13_spell_generic07.mp3": {
+        "base_name": "pyro_sf13_spell_generic07",
+        "criteria": [
+            [
+                "ConceptPlayerCastBombHeadCurse",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic07"
+        ],
+        "responses": [
+            "PyroCastBombHeadCurse"
+        ],
+        "rules": [
+            "PyroCastBombHeadCurse"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/8478.vcd"
+        ],
+        "state": "used",
+        "transcript": "Buh phuh murrit uph truph!"
+    },
+    "vo/pyro_sf13_spell_generic08.mp3": {
+        "base_name": "pyro_sf13_spell_generic08",
+        "criteria": [
+            [
+                "ConceptPlayerCastMovementBuff",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic08"
+        ],
+        "responses": [
+            "PyroCastMovementBuff"
+        ],
+        "rules": [
+            "PyroCastMovementBuff"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/8479.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Cuhts me trihp!\" (\"Paidum celeris!\")"
+    },
+    "vo/pyro_sf13_spell_generic09.mp3": {
+        "base_name": "pyro_sf13_spell_generic09",
+        "criteria": [
+            [
+                "ConceptPlayerCastMonoculous",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro_sf13_spell_generic09"
+        ],
+        "responses": [
+            "PyroCastMonoculous"
+        ],
+        "rules": [
+            "PyroCastMonoculous"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/8480.vcd"
+        ],
+        "state": "used",
+        "transcript": "\"Muhk muttuh!\" (\"Invokum MONOCULUS!\")"
+    },
+    "vo/pyro_specialcompleted-assistedkill01.mp3": {
+        "base_name": "pyro_specialcompleted-assistedkill01",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsPyro",
+                "IsBeingHealed",
+                "IsManyRecentKills",
+                "KilledPlayerDelay",
+                "20PercentChance",
+                "PyroNotAssistSpeech",
+                "AppliesContext:PyroAssistSpeech:1:20"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerThanks",
+                "IsPyro",
+                "IsARecentKill",
+                "KilledPlayerDelay",
+                "PyroNotAssistSpeech",
+                "AppliesContext:PyroAssistSpeech:1:20"
+            ]
+        ],
+        "events": [
+            "pyro.specialcompleted-assistedkill01"
+        ],
+        "responses": [
+            "KilledPlayerAssistAutoPyro",
+            "MeleeDarePyro",
+            "KilledPlayerAssistPyro"
+        ],
+        "rules": [
+            "KilledPlayerAssistAutoPyro",
+            "MeleeDarePyro",
+            "KilledPlayerAssistPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1529.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmph mphna mprh."
+    },
+    "vo/pyro_specialcompleted01.mp3": {
+        "base_name": "pyro_specialcompleted01",
+        "criteria": [
+            [
+                "ConceptFireWeapon",
+                "IsPyro",
+                "IsInvulnerable",
+                "PyroNotInvulnerableSpeech",
+                "AppliesContext:PyroInvulnerableSpeech:1:30"
+            ],
+            [
+                "ConceptPlayerBattleCry",
+                "IsWeaponMelee",
+                "IsPyro",
+                "IsCrosshairEnemy"
+            ]
+        ],
+        "events": [
+            "pyro.specialcompleted01"
+        ],
+        "responses": [
+            "MeleeDareCombatPyro",
+            "InvulnerableSpeechPyro"
+        ],
+        "rules": [
+            "MeleeDareCombatPyro",
+            "InvulnerableSpeechPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1517.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!"
+    },
+    "vo/pyro_standonthepoint01.mp3": {
+        "base_name": "pyro_standonthepoint01",
+        "criteria": [
+            [
+                "ConceptFireWeapon",
+                "IsPyro",
+                "IsOnFriendlyControlPoint",
+                "NotDefendOnThePointSpeech",
+                "AppliesContextToWorld:DefendOnThePointSpeech:1:30"
+            ],
+            [
+                "ConceptPlayerHelp",
+                "IsPyro",
+                "IsOnCappableControlPoint",
+                "IsHelpCapPyro"
+            ]
+        ],
+        "events": [
+            "pyro.standonthepoint01"
+        ],
+        "responses": [
+            "DefendOnThePointPyro",
+            "PlayerHelpCapture2Pyro"
+        ],
+        "rules": [
+            "DefendOnThePointPyro",
+            "PlayerHelpCapture2Pyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1531.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mrh! Hrt hr nha phrnt yrh mrprph!"
+    },
+    "vo/pyro_thanks01.mp3": {
+        "base_name": "pyro_thanks01",
+        "criteria": [
+            [
+                "ConceptIAcceptDuel",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerThanks",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.thanks01",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "PlayerThanksPyro",
+            "Taunt: Roasty Toasty",
+            "AcceptedDuelPyro"
+        ],
+        "rules": [
+            "PlayerThanksPyro",
+            "AcceptedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1550.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+        ],
+        "state": "used",
+        "transcript": "Fink fhu."
+    },
+    "vo/pyro_thanksfortheheal01.mp3": {
+        "base_name": "pyro_thanksfortheheal01",
+        "criteria": [
+            [
+                "ConceptMedicChargeStopped",
+                "IsPyro",
+                "SuperHighHealthContext",
+                "PyroNotSaidHealThanks",
+                "50PercentChance",
+                "AppliesContext:PyroSaidHealThanks:1:20"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.thanksfortheheal01"
+        ],
+        "responses": [
+            "MeleeDarePyro",
+            "HealThanksPyro"
+        ],
+        "rules": [
+            "MeleeDarePyro",
+            "HealThanksPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1552.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mhnk nhya mhph."
+    },
+    "vo/pyro_thanksfortheteleporter01.mp3": {
+        "base_name": "pyro_thanksfortheteleporter01",
+        "criteria": [
+            [
+                "ConceptTeleported",
+                "IsNotEngineer",
+                "IsPyro",
+                "30PercentChance"
+            ],
+            [
+                "ConceptRequestDuel",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.thanksfortheteleporter01"
+        ],
+        "responses": [
+            "MeleeDarePyro",
+            "PlayerTeleporterThanksPyro"
+        ],
+        "rules": [
+            "MeleeDarePyro",
+            "PlayerTeleporterThanksPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1555.vcd"
+        ],
+        "state": "used",
+        "transcript": "Mmphn frphha herrpha."
+    },
+    "vo/pyro_yes01.mp3": {
+        "base_name": "pyro_yes01",
+        "criteria": [
+            [
+                "ConceptPlayerYes",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.yes01",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "PlayerYesPyro",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [
+            "PlayerYesPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1558.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+        ],
+        "state": "used",
+        "transcript": "Uh-huh."
+    },
+    "vo/taunts/pyro/pyro_taunt_ballon_06.mp3": {
+        "base_name": "pyro_taunt_ballon_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_1_blow"
+        ],
+        "responses": [
+            "Taunt: Party Trick"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[puffing sounds"
+    },
+    "vo/taunts/pyro/pyro_taunt_ballon_07.mp3": {
+        "base_name": "pyro_taunt_ballon_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_2_make"
+        ],
+        "responses": [
+            "Taunt: Party Trick"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[busy mumbling"
+    },
+    "vo/taunts/pyro/pyro_taunt_ballon_11.mp3": {
+        "base_name": "pyro_taunt_ballon_11",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_4_laugh",
+            "taunt_springrider_giggles"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[maniacal laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap1.mp3": {
+        "base_name": "pyro_taunt_clap1",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_5_clap",
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap1"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: Mannrobics",
+            "Taunt: The Final Score"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/medic/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap2.mp3": {
+        "base_name": "pyro_taunt_clap2",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap2",
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap2",
+            "pyro_taunt_partytrick_6_clap"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Fist Bump",
+            "Taunt: The Final Score"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap3.mp3": {
+        "base_name": "pyro_taunt_clap3",
+        "criteria": [],
+        "events": [
+            "scout_taunt_the_homerunners_hobby_pyro_taunt_clap3",
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap3",
+            "pyro_taunt_partytrick_6_clap"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: The Homerunner's Hobby",
+            "Taunt: The Fist Bump",
+            "Taunt: The Final Score"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap4.mp3": {
+        "base_name": "pyro_taunt_clap4",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap4",
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap4",
+            "pyro_taunt_partytrick_7_clap"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Final Score",
+            "Taunt: Mourning Mercs"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap5.mp3": {
+        "base_name": "pyro_taunt_clap5",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap5",
+            "pyro_taunt_partytrick_7_clap"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: The Final Score",
+            "Taunt: Mourning Mercs"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap6.mp3": {
+        "base_name": "pyro_taunt_clap6",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_8_clap",
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap6"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Fist Bump",
+            "Taunt: Mourning Mercs"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_clap7.mp3": {
+        "base_name": "pyro_taunt_clap7",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_partytrick_8_clap",
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap7"
+        ],
+        "responses": [
+            "Taunt: Party Trick",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Fist Bump",
+            "Taunt: Mourning Mercs"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[clap"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_05.mp3": {
+        "base_name": "pyro_taunt_cong_fun_05",
+        "criteria": [],
+        "events": [
+            "taunt_burstchester_pyro_happy",
+            "taunt.bearhug_pyro_b",
+            "pyro_taunt_partytrick_3_giggle",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Party Trick",
+            "Taunt: Bear Hug"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
+            "scenes/player/pyro/low/taunt_party_trick.vcd"
+        ],
+        "state": "used",
+        "transcript": "[amused laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_08.mp3": {
+        "base_name": "pyro_taunt_cong_fun_08",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun1",
+            "taunt_springrider_giggles",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+        ],
+        "state": "used",
+        "transcript": "[gleeful laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_09.mp3": {
+        "base_name": "pyro_taunt_cong_fun_09",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun1",
+            "pyro_taunt_conga_random_fun3"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "[cheerful humming"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_10.mp3": {
+        "base_name": "pyro_taunt_cong_fun_10",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun1",
+            "pyro_taunt_conga_random_fun3",
+            "pyro_taunt_roasty_toasty_pyro_taunt_cong_fun_10"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "[rhythmic laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_11.mp3": {
+        "base_name": "pyro_taunt_cong_fun_11",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun1",
+            "taunt_springrider_giggles",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+        ],
+        "state": "used",
+        "transcript": "[rhythmic laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_12.mp3": {
+        "base_name": "pyro_taunt_cong_fun_12",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun3"
+        ],
+        "responses": [
+            "Taunt: Conga"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "[rhythmic humming"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_13.mp3": {
+        "base_name": "pyro_taunt_cong_fun_13",
+        "criteria": [],
+        "events": [
+            "taunt_springrider_giggles",
+            "pyro_taunt_conga_random_fun3"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+        ],
+        "state": "used",
+        "transcript": "[rhythmic humming"
+    },
+    "vo/taunts/pyro/pyro_taunt_cong_fun_14.mp3": {
+        "base_name": "pyro_taunt_cong_fun_14",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun1",
+            "pyro_taunt_conga_random_fun3",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "Whoo hoo!"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_end_05.mp3": {
+        "base_name": "pyro_taunt_dosi_end_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_endlong_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "(liltingly) \"Do-si-do?\""
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_end_06.mp3": {
+        "base_name": "pyro_taunt_dosi_end_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_endlong_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[offended mumbling"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_end_08.mp3": {
+        "base_name": "pyro_taunt_dosi_end_08",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_endlong_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled compliment"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_end_09.mp3": {
+        "base_name": "pyro_taunt_dosi_end_09",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_mid_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled] \"Boo!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_fun_02.mp3": {
+        "base_name": "pyro_taunt_dosi_fun_02",
+        "criteria": [],
+        "events": [
+            "taunt.bearhug_pyro_a",
+            "taunt_burstchester_pyro_happy",
+            "taunt_springrider_giggles",
+            "pyro_taunt_commending_clap_b",
+            "taunt.skating_scorcher_trick",
+            "pyro_taunt_dosido_start_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance",
+            "Taunt: Bear Hug",
+            "Taunt: Burstchester",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[gleeful laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_fun_03.mp3": {
+        "base_name": "pyro_taunt_dosi_fun_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun2"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Mannrobics"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled singing"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_fun_04.mp3": {
+        "base_name": "pyro_taunt_dosi_fun_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_start_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled comment"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3": {
+        "base_name": "pyro_taunt_dosi_fun_05",
+        "criteria": [],
+        "events": [
+            "taunt_springrider_giggles",
+            "pyro_taunt_dosido_mid_rand",
+            "taunt_burstchester_pyro_happy",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Square Dance",
+            "Taunt: Burstchester",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_fun_06.mp3": {
+        "base_name": "pyro_taunt_dosi_fun_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun3",
+            "pyro_taunt_roasty_toasty_loop"
+        ],
+        "responses": [
+            "Taunt: Conga",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/conga.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled scat singing"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_01.mp3": {
+        "base_name": "pyro_taunt_dosi_int_01",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_wait_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled] \"Do-si-do!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_02.mp3": {
+        "base_name": "pyro_taunt_dosi_int_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Peace!",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "[gleeful laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3": {
+        "base_name": "pyro_taunt_dosi_int_05",
+        "criteria": [],
+        "events": [
+            "taunt.bearhug_pyro_a",
+            "pyro_taunt_dosido_intro_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Peace!",
+            "Taunt: Bear Hug",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled laughter"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_07.mp3": {
+        "base_name": "pyro_taunt_dosi_int_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_wait_rand",
+            "pyro_taunt_roasty_toasty_tada"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huh dah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_13.mp3": {
+        "base_name": "pyro_taunt_dosi_int_13",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Peace!",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "[excited mumbling"
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_14.mp3": {
+        "base_name": "pyro_taunt_dosi_int_14",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Peace!",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled] \"Do-si-do!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_dosi_int_16.mp3": {
+        "base_name": "pyro_taunt_dosi_int_16",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Peace!",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "[mumbled] \"Dance time!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_exert_12.mp3": {
+        "base_name": "pyro_taunt_exert_12",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_roasty_toasty_exert",
+            "pyro_taunt_headbutt_success_exert"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: Yeti Punch"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huhyah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_admire_01.mp3": {
+        "base_name": "pyro_taunt_flip_admire_01",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipflipping",
+            "pyro_taunt_flip_random_waiting1"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome",
+            "Taunt: Scorcher's Solo"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+        ],
+        "state": "used",
+        "transcript": "Yee haw!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_admire_02.mp3": {
+        "base_name": "pyro_taunt_flip_admire_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting1"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ha ha ha!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_admire_03.mp3": {
+        "base_name": "pyro_taunt_flip_admire_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_cheers",
+            "pyro_taunt_flip_random_waiting1",
+            "pyro_taunt_roasty_toasty_tada"
+        ],
+        "responses": [
+            "Taunt: Cheers!",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_cheers.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huddah hudduh!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3": {
+        "base_name": "pyro_taunt_flip_admire_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_neck_snap_01",
+            "pyro_taunt_flip_random_flipfinish",
+            "pyro_taunt_commending_clap_b",
+            "pyro_taunt_russian_rand",
+            "taunt_yeti_pyro"
+        ],
+        "responses": [
+            "Taunt: Kazotsky Kick",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Neck Snap",
+            "Taunt: The Hot Wheeler"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
+            "scenes/player/pyro/low/taunt_russian.vcd",
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+        ],
+        "state": "used",
+        "transcript": "Come to me!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_admire_06.mp3": {
+        "base_name": "pyro_taunt_flip_admire_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting1"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hud hudda hud hah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_exert_02.mp3": {
+        "base_name": "pyro_taunt_flip_exert_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipexert",
+            "pyro_taunt_roasty_toasty_exert",
+            "pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_02",
+            "taunt.skating_scorcher_exert"
+        ],
+        "responses": [
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Uhrah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_exert_04.mp3": {
+        "base_name": "pyro_taunt_flip_exert_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipexert",
+            "pyro_taunt_roasty_toasty_exert",
+            "taunt.skating_scorcher_exert"
+        ],
+        "responses": [
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Uhhrah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_exert_05.mp3": {
+        "base_name": "pyro_taunt_flip_exert_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipexert",
+            "taunt.skating_scorcher_exert",
+            "pyro_taunt_roasty_toasty_exert",
+            "pyro_taunt_spring_rider_pyro_taunt_flip_exert_05",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Hot Wheeler"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ah-oop!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_exert_06.mp3": {
+        "base_name": "pyro_taunt_flip_exert_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipexert",
+            "taunt.skating_scorcher_trick",
+            "pyro_taunt_roasty_toasty_tada",
+            "pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_06"
+        ],
+        "responses": [
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huppo hoh!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_01.mp3": {
+        "base_name": "pyro_taunt_flip_fun_01",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipflipping",
+            "pyro_taunt_commending_clap_a",
+            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_01"
+        ],
+        "responses": [
+            "Taunt: Commending Clap",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Scorcher's Solo"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+        ],
+        "state": "used",
+        "transcript": "Woooh!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_04.mp3": {
+        "base_name": "pyro_taunt_flip_fun_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_flipflipping",
+            "pyro_taunt_commending_clap_a",
+            "pyro_taunt_flip_random_intro"
+        ],
+        "responses": [
+            "Taunt: Commending Clap",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Scorcher's Solo"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+        ],
+        "state": "used",
+        "transcript": "I'm flying!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3": {
+        "base_name": "pyro_taunt_flip_fun_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_intro",
+            "taunt_yeti_pyro",
+            "pyro_taunt_flip_random_flipfinish"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hah da-ra!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3": {
+        "base_name": "pyro_taunt_flip_fun_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_06",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_springrider_giggles",
+            "pyro_taunt_conga_random_fun2",
+            "pyro_taunt_flip_random_flipadmire",
+            "pyro_taunt_roasty_toasty_outro",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: The Balloonibouncer",
+            "Taunt: Conga",
+            "Taunt: Peace!",
+            "Taunt: Roasty Toasty",
+            "Taunt: Killer Joke",
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Pool Party",
+            "Taunt: The Victory Lap"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Wooo hoo hoo hoo!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3": {
+        "base_name": "pyro_taunt_flip_fun_09",
+        "criteria": [],
+        "events": [
+            "taunt_burstchester_pyro_happy",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_springrider_giggles",
+            "pyro_taunt_conga_random_fun2",
+            "pyro_taunt_flip_random_flipadmire",
+            "pyro_taunt_roasty_toasty_outro",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Conga",
+            "Taunt: Peace!",
+            "Taunt: Roasty Toasty",
+            "Taunt: Killer Joke",
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Pool Party",
+            "Taunt: The Victory Lap"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Woo hoo hoo hoo hoo hoo!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3": {
+        "base_name": "pyro_taunt_flip_fun_10",
+        "criteria": [],
+        "events": [
+            "taunt_burstchester_pyro_happy",
+            "taunt_killer_joke_pyro_laugh",
+            "pyro_taunt_flip_random_flipfinish",
+            "taunt_springrider_giggles",
+            "pyro_taunt_flip_random_flipadmire",
+            "pyro_taunt_roasty_toasty_outro",
+            "taunt.skating_scorcher_trick",
+            "pyro_taunt_russian_rand",
+            "taunt_yeti_pyro"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Kazotsky Kick",
+            "Taunt: The Hot Wheeler",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Peace!",
+            "Taunt: Roasty Toasty",
+            "Taunt: Killer Joke",
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Pool Party",
+            "Taunt: The Victory Lap"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
+            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
+            "scenes/player/pyro/low/taunt_russian.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Woo hoo hoo hoo hoo hoo!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3": {
+        "base_name": "pyro_taunt_flip_fun_11",
+        "criteria": [],
+        "events": [
+            "taunt_burstchester_pyro_happy",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_springrider_giggles",
+            "pyro_taunt_flip_random_flipadmire",
+            "pyro_taunt_roasty_toasty_outro"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: The Balloonibouncer",
+            "Taunt: Peace!",
+            "Taunt: Roasty Toasty",
+            "Taunt: Killer Joke",
+            "Taunt: Mannrobics",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Pool Party",
+            "Taunt: The Victory Lap"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ah ha ha ha ha ha!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_int_02.mp3": {
+        "base_name": "pyro_taunt_flip_int_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_intro",
+            "taunt.bearhug_pyro_a",
+            "taunt_springrider_giggles",
+            "taunt_burstchester_pyro_happy"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Bear Hug",
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
+        ],
+        "state": "used",
+        "transcript": "Whoo hoo hoo! Hudda!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_int_05.mp3": {
+        "base_name": "pyro_taunt_flip_int_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_spring_rider_pyro_taunt_flip_int_05",
+            "taunt.bearhug_pyro_b",
+            "taunt_springrider_giggles",
+            "taunt.skating_scorcher_trick",
+            "pyro_taunt_flip_random_intro"
+        ],
+        "responses": [
+            "Taunt: Bear Hug",
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hoo! Hud hudda!"
+    },
+    "vo/taunts/pyro/pyro_taunt_flip_int_07.mp3": {
+        "base_name": "pyro_taunt_flip_int_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_intro"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hellooo! Let's load 'em up!!"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_exert_03.mp3": {
+        "base_name": "pyro_taunt_head_exert_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_roasty_toasty_exert",
+            "pyro_taunt_headbutt_success_recover_2",
+            "pyro_taunt_the_grilled_gunman_pyro_taunt_head_exert_03"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_success.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled grunt of effort"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_int_01.mp3": {
+        "base_name": "pyro_taunt_head_int_01",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_headbutt_start"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: The Fist Bump"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled] \"Right here!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_head_int_03.mp3": {
+        "base_name": "pyro_taunt_head_int_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_headbutt_start"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: The Fist Bump"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled challenging"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_int_04.mp3": {
+        "base_name": "pyro_taunt_head_int_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_conga_random_fun2",
+            "pyro_taunt_headbutt_start"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: Conga",
+            "Taunt: Mannrobics",
+            "Taunt: The Fist Bump"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "[menacing muffles"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_pain_03.mp3": {
+        "base_name": "pyro_taunt_head_pain_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_headbutt_success_recover_1"
+        ],
+        "responses": [
+            "Taunt: Skullcracker"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_headbutt_success.vcd"
+        ],
+        "state": "used",
+        "transcript": "[exhausted grunt"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_pain_04.mp3": {
+        "base_name": "pyro_taunt_head_pain_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_spring_rider_pyro_taunt_head_pain_04",
+            "pyro_taunt_headbutt_success_exert"
+        ],
+        "responses": [
+            "Taunt: Yeti Punch"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_yetipunch.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ow!"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_pain_21.mp3": {
+        "base_name": "pyro_taunt_head_pain_21",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flag",
+            "pyro_taunt_headbutt_success_windup"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: Flying Colors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_success.vcd"
+        ],
+        "state": "used",
+        "transcript": "[rocking out"
+    },
+    "vo/taunts/pyro/pyro_taunt_head_pain_22.mp3": {
+        "base_name": "pyro_taunt_head_pain_22",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flag",
+            "pyro_taunt_headbutt_success_windup"
+        ],
+        "responses": [
+            "Taunt: Skullcracker",
+            "Taunt: Flying Colors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/player/pyro/low/taunt_headbutt_success.vcd"
+        ],
+        "state": "used",
+        "transcript": "[intense rocking out"
+    },
+    "vo/taunts/pyro/pyro_taunt_int_05.mp3": {
+        "base_name": "pyro_taunt_int_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_the_grilled_gunman_pyro_taunt_int_05",
+            "pyro_taunt_dosido_intro_wait_rand",
+            "pyro_taunt_flip_random_waiting1"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"Right here!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_07.mp3": {
+        "base_name": "pyro_taunt_int_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting2"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"Let's headbutt!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_11.mp3": {
+        "base_name": "pyro_taunt_int_11",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting1",
+            "pyro_taunt_roasty_toasty_tada"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huhfallah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_int_12.mp3": {
+        "base_name": "pyro_taunt_int_12",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting2"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"A headbutt?\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_13.mp3": {
+        "base_name": "pyro_taunt_int_13",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting2"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"Come on!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_15.mp3": {
+        "base_name": "pyro_taunt_int_15",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting2"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"Let's do this!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_21.mp3": {
+        "base_name": "pyro_taunt_int_21",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_start_rand",
+            "pyro_taunt_roasty_toasty_tada"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ruh dyah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_int_22.mp3": {
+        "base_name": "pyro_taunt_int_22",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_flip_random_waiting2"
+        ],
+        "responses": [
+            "Taunt: Flippin' Awesome"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled]\"Let's do this!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_int_24.mp3": {
+        "base_name": "pyro_taunt_int_24",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_mid_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "[muffled](possibly) \"Come get your skull cracked!\""
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_exert_18.mp3": {
+        "base_name": "pyro_taunt_rps_exert_18",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_exert_18"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+        ],
+        "state": "used",
+        "transcript": "Here we go!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_exert_21.mp3": {
+        "base_name": "pyro_taunt_rps_exert_21",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_exert_21"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+        ],
+        "state": "used",
+        "transcript": "One!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_exert_22.mp3": {
+        "base_name": "pyro_taunt_rps_exert_22",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_exert_22"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+        ],
+        "state": "used",
+        "transcript": "Two!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_exert_23.mp3": {
+        "base_name": "pyro_taunt_rps_exert_23",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_exert_23"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+        ],
+        "state": "used",
+        "transcript": "Three!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_int_02.mp3": {
+        "base_name": "pyro_taunt_rps_int_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_start_rand"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "Rock, paper, scissors!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_int_04.mp3": {
+        "base_name": "pyro_taunt_rps_int_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_start_rand"
+        ],
+        "responses": [
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_start.vcd"
+        ],
+        "state": "used",
+        "transcript": "(liltingly) \"Who wants to throw?\""
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_int_05.mp3": {
+        "base_name": "pyro_taunt_rps_int_05",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_intro_wait_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "Anyone want a throw?"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_int_07.mp3": {
+        "base_name": "pyro_taunt_rps_int_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_intro_wait_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "Betta!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_int_08.mp3": {
+        "base_name": "pyro_taunt_rps_int_08",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_rps_int_08",
+            "pyro_taunt_rps_intro_wait_rand"
+        ],
+        "responses": [
+            "Taunt: Second Rate Sorcery",
+            "Taunt: The Final Score",
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+        ],
+        "state": "used",
+        "transcript": "Betta bah!"
+    },
+    "vo/taunts/pyro/pyro_taunt_rps_lose_03.mp3": {
+        "base_name": "pyro_taunt_rps_lose_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_rps_lose_03"
+        ],
+        "responses": [
+            "Taunt: Mourning Mercs",
+            "Taunt: Cremators Condolences",
+            "Taunt: Rock, Paper, Scissors"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/workshop/player/pyro/low/taunt_mourning_mercs.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+        ],
+        "state": "used",
+        "transcript": "cry"
+    },
+    "vo/taunts/pyro/pyro_taunt_thanks_07.mp3": {
+        "base_name": "pyro_taunt_thanks_07",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_endlong_rand",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huddah hu-oh!"
+    },
+    "vo/taunts/pyro/pyro_taunt_thanks_08.mp3": {
+        "base_name": "pyro_taunt_thanks_08",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_intro_wait_rand",
+            "pyro_taunt_roasty_toasty_pyro_taunt_thanks_08",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huffah hu-oh!"
+    },
+    "vo/taunts/pyro/pyro_taunt_thanks_09.mp3": {
+        "base_name": "pyro_taunt_thanks_09",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_dosido_endlong_rand"
+        ],
+        "responses": [
+            "Taunt: Square Dance"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+        ],
+        "state": "used",
+        "transcript": "Thank you for the (unintelligible)!"
+    },
+    "vo/taunts/pyro/pyro_trade_01.mp3": {
+        "base_name": "pyro_trade_01",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_commending_clap_c",
+            "pyro_taunt_trade_loop_rand",
+            "taunt_burstchester_pyro_happy",
+            "pyro_taunt_roasty_toasty_loop_2"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huh-nah! Huh-naaah..."
+    },
+    "vo/taunts/pyro/pyro_trade_02.mp3": {
+        "base_name": "pyro_trade_02",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_loop_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro/pyro_trade_03.mp3": {
+        "base_name": "pyro_trade_03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_commending_clap_c",
+            "taunt_burstchester_pyro_happy",
+            "pyro_taunt_trade_start_rand",
+            "pyro_taunt_roasty_toasty_loop",
+            "pyro.scardy_cat_b",
+            "pyro_taunt_the_final_score_pyro_pyro_trade_03"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Roasty Toasty",
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: The Final Score"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
+        "state": "used",
+        "transcript": "Euduh rah!"
+    },
+    "vo/taunts/pyro/pyro_trade_04.mp3": {
+        "base_name": "pyro_trade_04",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_loop_rand",
+            "taunt.bearhug_pyro_b",
+            "taunt_burstchester_pyro_happy",
+            "pyro_taunt_roasty_toasty_loop"
+        ],
+        "responses": [
+            "Taunt: Burstchester",
+            "Taunt: Bear Hug",
+            "Taunt: Roasty Toasty"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ohh...ruddah buddoh."
+    },
+    "vo/taunts/pyro/pyro_trade_06.mp3": {
+        "base_name": "pyro_trade_06",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_loop_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro/pyro_trade_09.mp3": {
+        "base_name": "pyro_trade_09",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_loop_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro/pyro_trade_12.mp3": {
+        "base_name": "pyro_trade_12",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_start_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro/pyro_trade_15.mp3": {
+        "base_name": "pyro_trade_15",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_start_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro/pyro_trade_17.mp3": {
+        "base_name": "pyro_trade_17",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_trade_start_rand"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro_highfive01.mp3": {
+        "base_name": "pyro_highfive01",
+        "criteria": [],
+        "events": [
+            "pyro.highfive01",
+            "taunt_killer_joke_pyro"
+        ],
+        "responses": [
+            "Taunt: The High Five!",
+            "Taunt: Killer Joke"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/player/pyro/low/taunt_hi5_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
+        ],
+        "state": "used",
+        "transcript": "Hit me!"
+    },
+    "vo/taunts/pyro_highfive02.mp3": {
+        "base_name": "pyro_highfive02",
+        "criteria": [],
+        "events": [
+            "taunt_killer_joke_pyro",
+            "pyro.highfive02"
+        ],
+        "responses": [
+            "Taunt: Killer Joke",
+            "Taunt: The Fist Bump"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
+        ],
+        "state": "used",
+        "transcript": "Huddah!"
+    },
+    "vo/taunts/pyro_highfive_success01.mp3": {
+        "base_name": "pyro_highfive_success01",
+        "criteria": [],
+        "events": [
+            "taunt_springrider_intro",
+            "pyro.highfivesuccess01"
+        ],
+        "responses": [
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+        ],
+        "state": "used",
+        "transcript": "*Laugh* \"Mweh!\""
+    },
+    "vo/taunts/pyro_highfive_success02.mp3": {
+        "base_name": "pyro_highfive_success02",
+        "criteria": [
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsScout"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsSniper"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsSoldier"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsDemoman"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsMedic"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsHeavy"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsSpy"
+            ],
+            [
+                "ConceptPlayerTaunt2",
+                "HasTaunt2Item_TauntEnablerTest",
+                "IsEngineer"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsScout"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsSniper"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsSoldier"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsDemoman"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsMedic"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsPyro"
+            ],
+            [
+                "ConceptPlayerShowItemTaunt",
+                "IsSpy"
+            ]
+        ],
+        "events": [
+            "pyro.highfivesuccess02",
+            "taunt_springrider_intro"
+        ],
+        "responses": [
+            "Taunt: The Hot Wheeler",
+            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
+            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
+            "SoldierShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsEngineer",
+            "PlayerTaunt2_TestTauntEnabler_IsScout",
+            "PlayerTaunt2_TestTauntEnabler_IsSpy",
+            "SniperShowItemTauntResponse",
+            "SpyShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsMedic",
+            "Taunt: The High Five!",
+            "PlayerTaunt2_TestTauntEnabler_IsPyro",
+            "Taunt: The Balloonibouncer",
+            "DemomanShowItemTauntResponse",
+            "MedicShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
+            "PyroShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsSniper",
+            "ScoutShowItemTauntResponse"
+        ],
+        "rules": [
+            "PyroShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsMedic",
+            "PlayerTaunt2_TestTauntEnabler_IsPyro",
+            "PlayerTaunt2_TestTauntEnabler_IsEngineer",
+            "DemomanShowItemTaunt",
+            "MedicShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsSpy",
+            "ScoutShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsScout",
+            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
+            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
+            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
+            "SpyShowItemTaunt",
+            "SniperShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsSniper",
+            "SoldierShowItemTaunt"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_highfivesuccess.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_hi5_b.vcd"
+        ],
+        "state": "used",
+        "transcript": "*Laugh* \"Hueh.\""
+    },
+    "vo/taunts/pyro_highfive_success03.mp3": {
+        "base_name": "pyro_highfive_success03",
+        "criteria": [],
+        "events": [
+            "pyro_taunt_roasty_toasty_outro",
+            "pyro.highfivesuccess03",
+            "taunt_springrider_intro",
+            "taunt.skating_scorcher_trick"
+        ],
+        "responses": [
+            "Taunt: Roasty Toasty",
+            "Taunt: The High Five!",
+            "Taunt: The Balloonibouncer"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_hi5_a.vcd"
+        ],
+        "state": "used",
+        "transcript": "*Gleeful laugh*"
+    },
+    "vo/taunts/pyro_lollichop.mp3": {
+        "base_name": "pyro_lollichop",
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsPyro",
+                "WeaponIsLollichop"
+            ]
+        ],
+        "events": [
+            "pyro.lollichop"
+        ],
+        "responses": [
+            "PyroTauntLollichop"
+        ],
+        "rules": [
+            "PyroTauntPlayerLollichop"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/taunt_lollichop.vcd"
+        ],
+        "state": "used",
+        "transcript": ""
+    },
+    "vo/taunts/pyro_painsevere01.mp3": {
+        "base_name": "pyro_painsevere01",
+        "criteria": [],
+        "events": [
+            "taunt_killer_joke_pyro"
+        ],
+        "responses": [
+            "Taunt: Killer Joke"
+        ],
+        "rules": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
+        ],
+        "state": "missing",
+        "transcript": ""
+    },
+    "vo/taunts/pyro_taunts01.mp3": {
+        "base_name": "pyro_taunts01",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "KilledPlayerDelay",
+                "30PercentChance",
+                "IsWeaponMelee",
+                "PyroNotKillSpeechMelee",
+                "IsPyro",
+                "AppliesContext:PyroKillSpeechMelee:1:10"
+            ]
+        ],
+        "events": [
+            "pyro.taunts01"
+        ],
+        "responses": [
+            "KilledPlayerMeleePyro"
+        ],
+        "rules": [
+            "KilledPlayerMeleePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1532.vcd"
+        ],
+        "state": "used",
+        "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
+    },
+    "vo/taunts/pyro_taunts02.mp3": {
+        "base_name": "pyro_taunts02",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "KilledPlayerDelay",
+                "30PercentChance",
+                "IsWeaponMelee",
+                "PyroNotKillSpeechMelee",
+                "IsPyro",
+                "AppliesContext:PyroKillSpeechMelee:1:10"
+            ]
+        ],
+        "events": [
+            "pyro.taunts02"
+        ],
+        "responses": [
+            "KilledPlayerMeleePyro"
+        ],
+        "rules": [
+            "KilledPlayerMeleePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1533.vcd"
+        ],
+        "state": "used",
+        "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
+    },
+    "vo/taunts/pyro_taunts03.mp3": {
+        "base_name": "pyro_taunts03",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "KilledPlayerDelay",
+                "30PercentChance",
+                "IsWeaponMelee",
+                "PyroNotKillSpeechMelee",
+                "IsPyro",
+                "AppliesContext:PyroKillSpeechMelee:1:10"
+            ]
+        ],
+        "events": [
+            "pyro.taunts03"
+        ],
+        "responses": [
+            "KilledPlayerMeleePyro"
+        ],
+        "rules": [
+            "KilledPlayerMeleePyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1594.vcd"
+        ],
+        "state": "used",
+        "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
+    },
+    "vo/taunts/pyro_taunts04.mp3": {
+        "base_name": "pyro_taunts04",
+        "criteria": [
+            [
+                "ConceptKilledPlayer",
+                "IsManyRecentKills",
+                "30PercentChance",
+                "IsWeaponPrimary",
+                "KilledPlayerDelay",
+                "PyroNotKillSpeech",
+                "IsPyro",
+                "AppliesContext:PyroKillSpeech:1:10"
+            ],
+            [
+                "ConceptIAcceptDuel",
+                "IsPyro"
+            ]
+        ],
+        "events": [
+            "pyro.taunts04"
+        ],
+        "responses": [
+            "KilledPlayerManyPyro",
+            "AcceptedDuelPyro"
+        ],
+        "rules": [
+            "KilledPlayerManyPyro",
+            "AcceptedDuelPyro"
+        ],
+        "scenes": [
+            "scenes/player/pyro/low/1534.vcd"
+        ],
+        "state": "used",
+        "transcript": "Ow dow how dow."
+    }
+}
