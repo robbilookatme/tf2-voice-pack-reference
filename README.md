@@ -27,7 +27,7 @@ The spreadsheet (.csv) files will contain the following data:
 | 2 | Full Path:     | (full filename with extension)                  | Scenes:            | (list of scenes)             |
 | 3 | Transcription: | (line transcription)                            | Responses:         | (list of responses)          |
 | 4 | Your Line:     | (empty space to type your dialogue, if desired) | Rules:             | (list of rules)              |
-| 5 | (line usage)   | Criteria:                                       | (list of criteria) |                              |
+| 5 | (line usage)   |                                                 | Criteria:          | (list of criteria)           |
 
 For writing new dialogue, what matters most is the sets of criteria, which tell you the situations in which a line is used.
 
