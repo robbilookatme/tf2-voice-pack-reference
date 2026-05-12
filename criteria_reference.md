@@ -419,25 +419,27 @@ In the following list, I explain every criteria and when they are resolved as ma
 
 ### Random Chance Criteria
 
+Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibilities. Also, the 2 and 5 percent chance rules use a different comparator to the others, meaning they have different odds than the names suggest.
+
 <dl>
   <dt>2PercentChance</dt>
-  <dd>2% chance of passing</dd>
+  <dd>3 out of 101 chance of passing, approx 3%</dd>
   <dt>5PercentChance</dt>
-  <dd>5% chance of passing</dd>
+  <dd>6 out of 101 chance of passing, approx 5.9% chance</dd>
   <dt>10PercentChance</dt>
-  <dd>9% chance of passing</dd>
+  <dd>10 out of 101 chance of passing, approx 9.9% chance</dd>
   <dt>20PercentChance</dt>
-  <dd>19% chance of passing</dd>
+  <dd>20 out of 101 chance of passing, approx 19.8% chance</dd>
   <dt>30PercentChance</dt>
-  <dd>29% chance of passing</dd>
+  <dd>30 out of 101 chance of passing, approx 29.7% chance</dd>
   <dt>40PercentChance</dt>
-  <dd>39% chance of passing</dd>
+  <dd>40 out of 101 chance of passing, approx 39.6% chance</dd>
   <dt>50PercentChance</dt>
-  <dd>49% chance of passing</dd>
+  <dd>50 out of 101 chance of passing, approx 49.5% chance</dd>
   <dt>75PercentChance</dt>
-  <dd>74% chance of passing</dd>
+  <dd>75 out of 101 chance of passing, approx 74.3% chance</dd>
   <dt>100PercentChance</dt>
-  <dd>Has 99% chance of matching, has extra weight so rules with this criteria will usually fire above other rules</dd>
+  <dd>100 out of 101 chance of passing, approx 99% chance, has extra weight so rules with this criteria will fire above other rules</dd>
 </dl>
 
 ### Game State Criteria
