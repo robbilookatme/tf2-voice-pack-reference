@@ -21,12 +21,12 @@
             "cm_sniper_gamewon_01"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_01.vcd"
@@ -56,12 +56,12 @@
             "cm_sniper_gamewon_02"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_02.vcd"
@@ -91,12 +91,12 @@
             "cm_sniper_gamewon_03"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_03.vcd"
@@ -126,12 +126,12 @@
             "cm_sniper_gamewon_04"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_04.vcd"
@@ -161,12 +161,12 @@
             "cm_sniper_gamewon_05"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_05.vcd"
@@ -196,12 +196,12 @@
             "cm_sniper_gamewon_06"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_06.vcd"
@@ -231,12 +231,12 @@
             "cm_sniper_gamewon_07"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_07.vcd"
@@ -266,12 +266,12 @@
             "cm_sniper_gamewon_08"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_08.vcd"
@@ -301,12 +301,12 @@
             "cm_sniper_gamewon_09"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_09.vcd"
@@ -336,12 +336,12 @@
             "cm_sniper_gamewon_10"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_10.vcd"
@@ -423,12 +423,12 @@
             "cm_sniper_gamewon_comp_01"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_01.vcd"
@@ -458,12 +458,12 @@
             "cm_sniper_gamewon_comp_02"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_02.vcd"
@@ -493,12 +493,12 @@
             "cm_sniper_gamewon_comp_03"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_03.vcd"
@@ -528,12 +528,12 @@
             "cm_sniper_gamewon_comp_04"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_04.vcd"
@@ -563,12 +563,12 @@
             "cm_sniper_gamewon_comp_05"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_05.vcd"
@@ -598,12 +598,12 @@
             "cm_sniper_gamewon_comp_06"
         ],
         "responses": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "rules": [
-            "PlayerGameWinCompSniper",
-            "PlayerGameWinComp6sSniper"
+            "PlayerGameWinComp6sSniper",
+            "PlayerGameWinCompSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/cm_sniper_gamewon_comp_06.vcd"
@@ -3285,12 +3285,12 @@
             "sniper.autodejectedtie01"
         ],
         "responses": [
-            "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "RejectedDuelSniper"
         ],
         "rules": [
-            "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "RejectedDuelSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1606.vcd"
@@ -3314,12 +3314,12 @@
             "sniper.autodejectedtie02"
         ],
         "responses": [
-            "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "RejectedDuelSniper"
         ],
         "rules": [
-            "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "RejectedDuelSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1607.vcd"
@@ -3349,13 +3349,13 @@
         ],
         "responses": [
             "SniperJarateHit",
-            "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "RejectedDuelSniper"
         ],
         "rules": [
-            "SniperJarateHit",
             "RejectedDuelSniper",
-            "PlayerStalemateSniper"
+            "PlayerStalemateSniper",
+            "SniperJarateHit"
         ],
         "scenes": [
             "scenes/player/sniper/low/1608.vcd"
@@ -3516,8 +3516,8 @@
             "AwardSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
-            "scenes/player/sniper/low/2339.vcd"
+            "scenes/player/sniper/low/2339.vcd",
+            "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd"
         ],
         "state": "used",
         "transcript": "Sniping's a good job, mate!"
@@ -3541,8 +3541,8 @@
             "sniper.award04"
         ],
         "responses": [
-            "AwardSniper",
-            "AcceptedDuelSniper"
+            "AcceptedDuelSniper",
+            "AwardSniper"
         ],
         "rules": [
             "AwardSniper",
@@ -3573,8 +3573,8 @@
             "sniper.award05"
         ],
         "responses": [
-            "AwardSniper",
-            "AcceptedDuelSniper"
+            "AcceptedDuelSniper",
+            "AwardSniper"
         ],
         "rules": [
             "AwardSniper",
@@ -3706,8 +3706,8 @@
             "taunt_burstchester_sniper_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "AwardSniper"
+            "AwardSniper",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "AwardSniper"
@@ -3738,8 +3738,8 @@
             "sniper.award11"
         ],
         "responses": [
-            "AwardSniper",
-            "AcceptedDuelSniper"
+            "AcceptedDuelSniper",
+            "AwardSniper"
         ],
         "rules": [
             "AwardSniper",
@@ -3883,13 +3883,13 @@
             "sniper.battlecry02"
         ],
         "responses": [
-            "PlayerBattleCrySniper",
             "AcceptedDuelSniper",
+            "PlayerBattleCrySniper",
             "PlayerRoundStartSniper"
         ],
         "rules": [
-            "PlayerBattleCrySniper",
             "AcceptedDuelSniper",
+            "PlayerBattleCrySniper",
             "PlayerRoundStartSniper"
         ],
         "scenes": [
@@ -3930,23 +3930,23 @@
             ]
         ],
         "events": [
-            "sniper.battlecry03",
-            "taunt.bearhug_sniper_a"
+            "taunt.bearhug_sniper_a",
+            "sniper.battlecry03"
         ],
         "responses": [
             "Taunt: Bear Hug",
             "PlayerBattleCrySniper",
             "SniperTauntSecondary",
-            "PlayerKilledCapperSniper",
             "AcceptedDuelSniper",
+            "PlayerKilledCapperSniper",
             "PlayerRoundStartSniper"
         ],
         "rules": [
             "PlayerBattleCrySniper",
-            "PlayerKilledCapperSniper",
+            "SniperTauntPlayerSecondary",
             "SniperTauntPlayerChargedSecondary",
             "AcceptedDuelSniper",
-            "SniperTauntPlayerSecondary",
+            "PlayerKilledCapperSniper",
             "PlayerRoundStartSniper"
         ],
         "scenes": [
@@ -4023,8 +4023,8 @@
             "PlayerRoundStartSniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/taunt02_v1.vcd",
-            "scenes/player/sniper/low/1616.vcd"
+            "scenes/player/sniper/low/1616.vcd",
+            "scenes/player/sniper/low/taunt02_v1.vcd"
         ],
         "state": "used",
         "transcript": "God Save the Queen!"
@@ -6911,13 +6911,13 @@
             "sniper.cheers05"
         ],
         "responses": [
-            "PlayerKilledForRevengeSniper",
             "Taunt: Peace!",
+            "PlayerKilledForRevengeSniper",
             "PlayerCheersSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
             "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper",
             "PlayerCheersSniper"
         ],
         "scenes": [
@@ -6977,9 +6977,9 @@
             "sniper.cheers07"
         ],
         "responses": [
+            "Taunt: The Fist Bump",
             "SniperTauntPrimary",
-            "PlayerCheersSniper",
-            "Taunt: The Fist Bump"
+            "PlayerCheersSniper"
         ],
         "rules": [
             "SniperTauntPlayerBazaarBargain",
@@ -6988,9 +6988,9 @@
             "PlayerCheersSniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/taunt01_v5.vcd",
+            "scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd",
             "scenes/player/sniper/low/1624.vcd",
-            "scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd"
+            "scenes/player/sniper/low/taunt01_v5.vcd"
         ],
         "state": "used",
         "transcript": "Bewdy!"
@@ -7636,12 +7636,12 @@
             "sniper.domination12"
         ],
         "responses": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "rules": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/2366.vcd"
@@ -7730,12 +7730,12 @@
             "sniper.domination15"
         ],
         "responses": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "rules": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/2397.vcd"
@@ -7768,12 +7768,12 @@
             "sniper.domination16"
         ],
         "responses": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "rules": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/2417.vcd"
@@ -7806,12 +7806,12 @@
             "sniper.domination17"
         ],
         "responses": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "rules": [
-            "KilledPlayerDominatingSniper",
-            "PlayerKilledDominatingSniperSniper"
+            "PlayerKilledDominatingSniperSniper",
+            "KilledPlayerDominatingSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/2434.vcd"
@@ -8935,8 +8935,8 @@
             ]
         ],
         "events": [
-            "sniper.dominationsniper18",
-            "sniper.taunt_shooter_tutor_vo_1"
+            "sniper.taunt_shooter_tutor_vo_1",
+            "sniper.dominationsniper18"
         ],
         "responses": [
             "Taunt: Straight Shooter Tutor",
@@ -8946,8 +8946,8 @@
             "PlayerKilledDominatingSniperSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/player/sniper/low/3113.vcd"
+            "scenes/player/sniper/low/3113.vcd",
+            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
         "state": "used",
         "transcript": "The bullets come outta the slim end, mate!"
@@ -8965,8 +8965,8 @@
             ]
         ],
         "events": [
-            "sniper.dominationsniper19",
-            "sniper.taunt_shooter_tutor_vo_1"
+            "sniper.taunt_shooter_tutor_vo_1",
+            "sniper.dominationsniper19"
         ],
         "responses": [
             "Taunt: Straight Shooter Tutor",
@@ -8976,8 +8976,8 @@
             "PlayerKilledDominatingSniperSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/player/sniper/low/3114.vcd"
+            "scenes/player/sniper/low/3114.vcd",
+            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
         "state": "used",
         "transcript": "Nice try, mate, but I'm the best!"
@@ -8995,8 +8995,8 @@
             ]
         ],
         "events": [
-            "sniper.dominationsniper20",
-            "sniper.taunt_shooter_tutor_vo_1"
+            "sniper.taunt_shooter_tutor_vo_1",
+            "sniper.dominationsniper20"
         ],
         "responses": [
             "Taunt: Straight Shooter Tutor",
@@ -9006,8 +9006,8 @@
             "PlayerKilledDominatingSniperSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/player/sniper/low/3115.vcd"
+            "scenes/player/sniper/low/3115.vcd",
+            "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
         "state": "used",
         "transcript": "You call that snipin'?"
@@ -9582,10 +9582,10 @@
             ]
         ],
         "events": [
-            "sniper.ready",
-            "sniper.readycomp",
             "sniper.go01",
-            "sniper.readymvm"
+            "sniper.readymvm",
+            "sniper.ready",
+            "sniper.readycomp"
         ],
         "responses": [
             "PlayerGoSniper"
@@ -9608,8 +9608,8 @@
             ]
         ],
         "events": [
-            "sniper.ready",
             "sniper.go02",
+            "sniper.ready",
             "sniper.readycomp",
             "sniper.readymvm"
         ],
@@ -9636,10 +9636,10 @@
             ]
         ],
         "events": [
+            "sniper.readymvm",
             "sniper.ready",
             "sniper.readycomp",
-            "sniper.go03",
-            "sniper.readymvm"
+            "sniper.go03"
         ],
         "responses": [
             "PlayerGoSniper"
@@ -9682,13 +9682,13 @@
             "sniper.goodjob01"
         ],
         "responses": [
-            "PlayerKilledForRevengeSniper",
-            "PlayerGoodJobSniper"
+            "PlayerGoodJobSniper",
+            "PlayerKilledForRevengeSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
+            "PlayerGoodJobSniper",
             "PlayerKilledForRevengeSoftSniper",
-            "PlayerGoodJobSniper"
+            "PlayerKilledForRevengeSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1641.vcd"
@@ -9705,8 +9705,8 @@
             ]
         ],
         "events": [
-            "sniper.goodjob02",
-            "sniper_taunt_commending_clap_b"
+            "sniper_taunt_commending_clap_b",
+            "sniper.goodjob02"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -9944,8 +9944,8 @@
             "taunt_burstchester_sniper_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerHelpSniper"
+            "PlayerHelpSniper",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerHelpSniper"
@@ -9968,12 +9968,12 @@
             ]
         ],
         "events": [
-            "sniper.helpmecapture01",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.helpmecapture01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerHelpCaptureSniper"
+            "PlayerHelpCaptureSniper",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerHelpCaptureSniper"
@@ -10975,14 +10975,14 @@
             ]
         ],
         "events": [
-            "sniper.jeers02",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.jeers02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "RejectedDuelSniper",
+            "PlayerSuddenDeathSniper",
             "PlayerJeersSniper",
-            "PlayerSuddenDeathSniper"
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerSuddenDeathSniper",
@@ -11009,13 +11009,13 @@
             ]
         ],
         "events": [
-            "sniper.jeers03",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.jeers03"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "PlayerSuddenDeathSniper",
             "PlayerJeersSniper",
-            "PlayerSuddenDeathSniper"
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerSuddenDeathSniper",
@@ -11132,16 +11132,16 @@
         ],
         "responses": [
             "PlayerSuddenDeathSniper",
-            "PlayerJeersSniper",
-            "Taunt: The Critical Fail"
+            "Taunt: The Critical Fail",
+            "PlayerJeersSniper"
         ],
         "rules": [
             "PlayerSuddenDeathSniper",
             "PlayerJeersSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_the_critical_fail.vcd",
-            "scenes/player/sniper/low/1668.vcd"
+            "scenes/player/sniper/low/1668.vcd",
+            "scenes/workshop/player/sniper/low/taunt_the_critical_fail.vcd"
         ],
         "state": "used",
         "transcript": "Should've saved a bullet for some of you, blokes!"
@@ -11162,8 +11162,8 @@
             "sniper.jeers08"
         ],
         "responses": [
-            "PlayerSuddenDeathSniper",
             "Taunt: Second Rate Sorcery",
+            "PlayerSuddenDeathSniper",
             "PlayerJeersSniper"
         ],
         "rules": [
@@ -11171,8 +11171,8 @@
             "PlayerJeersSniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1669.vcd",
-            "scenes/workshop/player/sniper/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/sniper/low/secondrate_sorcery.vcd",
+            "scenes/player/sniper/low/1669.vcd"
         ],
         "state": "used",
         "transcript": "Gaaahhhh!"
@@ -11211,22 +11211,22 @@
             ]
         ],
         "events": [
-            "sniper.laughevil01",
-            "sniper_most_wanted_laughs"
+            "sniper_most_wanted_laughs",
+            "sniper.laughevil01"
         ],
         "responses": [
+            "Taunt: Most Wanted",
             "KilledPlayerManySniper",
-            "KilledPlayerSaxxySniper",
-            "Taunt: Most Wanted"
+            "KilledPlayerSaxxySniper"
         ],
         "rules": [
-            "KilledPlayerManySniper",
             "KilledPlayerManySniperBow",
+            "KilledPlayerManySniper",
             "KilledPlayerSaxxySniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1670.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/1670.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter 1)"
@@ -11265,22 +11265,22 @@
             ]
         ],
         "events": [
-            "sniper.laughevil02",
-            "sniper_most_wanted_laughs"
+            "sniper_most_wanted_laughs",
+            "sniper.laughevil02"
         ],
         "responses": [
+            "Taunt: Most Wanted",
             "KilledPlayerManySniper",
-            "KilledPlayerSaxxySniper",
-            "Taunt: Most Wanted"
+            "KilledPlayerSaxxySniper"
         ],
         "rules": [
-            "KilledPlayerManySniper",
             "KilledPlayerManySniperBow",
+            "KilledPlayerManySniper",
             "KilledPlayerSaxxySniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
-            "scenes/player/sniper/low/1671.vcd"
+            "scenes/player/sniper/low/1671.vcd",
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter 2)"
@@ -11333,17 +11333,17 @@
             ]
         ],
         "events": [
-            "sniper.laughhappy01",
-            "sniper_most_wanted_laughs"
+            "sniper_most_wanted_laughs",
+            "sniper.laughhappy01"
         ],
         "responses": [
-            "KilledPlayerManySniper",
             "Taunt: Kazotsky Kick",
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "KilledPlayerManySniper"
         ],
         "rules": [
-            "KilledPlayerManySniper",
-            "KilledPlayerManySniperBow"
+            "KilledPlayerManySniperBow",
+            "KilledPlayerManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt_russian.vcd",
@@ -11382,16 +11382,16 @@
             "sniper_most_wanted_laughs"
         ],
         "responses": [
-            "KilledPlayerManySniper",
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "KilledPlayerManySniper"
         ],
         "rules": [
-            "KilledPlayerManySniper",
-            "KilledPlayerManySniperBow"
+            "KilledPlayerManySniperBow",
+            "KilledPlayerManySniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1673.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/1673.vcd"
         ],
         "state": "used",
         "transcript": "(Harsh, happy laughter 2)"
@@ -11437,8 +11437,8 @@
             "KilledPlayerSaxxySniper"
         ],
         "rules": [
-            "KilledPlayerManySniper",
             "KilledPlayerManySniperBow",
+            "KilledPlayerManySniper",
             "KilledPlayerSaxxySniper"
         ],
         "scenes": [
@@ -11493,22 +11493,22 @@
             "sniper.laughlong02"
         ],
         "responses": [
-            "Taunt: The Schadenfreude",
             "KilledPlayerSaxxySniper",
-            "Taunt: Shooter's Stakeout",
             "KilledPlayerManySniper",
-            "SniperTauntLaugh"
+            "Taunt: The Schadenfreude",
+            "SniperTauntLaugh",
+            "Taunt: Shooter's Stakeout"
         ],
         "rules": [
             "KilledPlayerManySniperBow",
-            "SniperTauntAprilFools",
             "KilledPlayerSaxxySniper",
             "KilledPlayerManySniper",
-            "SniperTauntLaugh"
+            "SniperTauntLaugh",
+            "SniperTauntAprilFools"
         ],
         "scenes": [
-            "scenes/player/sniper/low/taunt_laugh.vcd",
             "scenes/player/sniper/low/1675.vcd",
+            "scenes/player/sniper/low/taunt_laugh.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
@@ -11523,21 +11523,21 @@
             ]
         ],
         "events": [
-            "sniper.laughshort01",
-            "sniper_taunt_russian_rand01"
+            "sniper_taunt_russian_rand01",
+            "sniper.laughshort01"
         ],
         "responses": [
-            "PlayerTauntsSniper",
+            "Taunt: Didgeridrongo",
             "Taunt: Kazotsky Kick",
-            "Taunt: Didgeridrongo"
+            "PlayerTauntsSniper"
         ],
         "rules": [
             "PlayerPositiveSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd",
+            "scenes/player/sniper/low/1676.vcd",
             "scenes/player/sniper/low/taunt_russian.vcd",
-            "scenes/player/sniper/low/1676.vcd"
+            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh 1"
@@ -12048,8 +12048,8 @@
             "MeleeDareCombatSniper"
         ],
         "rules": [
-            "SniperTauntPlayerBow",
-            "MeleeDareCombatSniper"
+            "MeleeDareCombatSniper",
+            "SniperTauntPlayerBow"
         ],
         "scenes": [
             "scenes/player/sniper/low/2388.vcd",
@@ -12152,12 +12152,12 @@
             "sniper_mvm_loot_common01"
         ],
         "responses": [
-            "SniperSF13SpellPickupCommon",
-            "SniperMvMLootCommon"
+            "SniperMvMLootCommon",
+            "SniperSF13SpellPickupCommon"
         ],
         "rules": [
-            "SniperSF13SpellPickupCommon",
-            "SniperMvMLootCommon"
+            "SniperMvMLootCommon",
+            "SniperSF13SpellPickupCommon"
         ],
         "scenes": [
             "scenes/player/sniper/low/7211.vcd"
@@ -12206,17 +12206,17 @@
             "sniper_mvm_loot_common03"
         ],
         "responses": [
+            "SniperMvMLootCommon",
             "SniperSF13SpellPickupCommon",
-            "Taunt: Cheers!",
-            "SniperMvMLootCommon"
+            "Taunt: Cheers!"
         ],
         "rules": [
-            "SniperSF13SpellPickupCommon",
-            "SniperMvMLootCommon"
+            "SniperMvMLootCommon",
+            "SniperSF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_cheers.vcd",
-            "scenes/player/sniper/low/7213.vcd"
+            "scenes/player/sniper/low/7213.vcd",
+            "scenes/workshop/player/sniper/low/taunt_cheers.vcd"
         ],
         "state": "used",
         "transcript": "Not bad!"
@@ -12231,8 +12231,8 @@
             ]
         ],
         "events": [
-            "sniper_most_wanted_vo",
-            "sniper_mvm_loot_common04"
+            "sniper_mvm_loot_common04",
+            "sniper_most_wanted_vo"
         ],
         "responses": [
             "SniperMvMLootCommon",
@@ -12259,24 +12259,24 @@
         ],
         "events": [
             "sniper_taunt_flag",
+            "sniper_mvm_loot_common05",
             "sniper.taunt_shooters_stake_rand01",
-            "sniper_most_wanted_vo",
-            "sniper_mvm_loot_common05"
+            "sniper_most_wanted_vo"
         ],
         "responses": [
-            "Taunt: Most Wanted",
             "SniperMvMLootCommon",
             "Taunt: Flying Colors",
+            "Taunt: Most Wanted",
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
             "SniperMvMLootCommon"
         ],
         "scenes": [
-            "scenes/player/sniper/low/7212.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
-            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd"
+            "scenes/player/sniper/low/7212.vcd",
+            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "That'll bloody do!"
@@ -12291,9 +12291,9 @@
             ]
         ],
         "events": [
+            "sniper_mvm_loot_common06",
             "sniper_taunt_flag",
-            "sniper.taunt_shooters_stake_rand01",
-            "sniper_mvm_loot_common06"
+            "sniper.taunt_shooters_stake_rand01"
         ],
         "responses": [
             "SniperMvMLootCommon",
@@ -12305,8 +12305,8 @@
         ],
         "scenes": [
             "scenes/player/sniper/low/7216.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Huh, now that's nice!"
@@ -12389,8 +12389,8 @@
             ]
         ],
         "events": [
-            "sniper_mvm_loot_rare02",
-            "sniper_taunt_commending_clap_a"
+            "sniper_taunt_commending_clap_a",
+            "sniper_mvm_loot_rare02"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -12449,8 +12449,8 @@
             "SniperMvMLootRare"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/7220.vcd"
+            "scenes/player/sniper/low/7220.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Now that is the Queen's birthday right there."
@@ -12464,8 +12464,8 @@
             ]
         ],
         "events": [
-            "sniper.taunt_shooters_stake_rand01",
-            "sniper_mvm_loot_rare05"
+            "sniper_mvm_loot_rare05",
+            "sniper.taunt_shooters_stake_rand01"
         ],
         "responses": [
             "SniperMvMLootRare",
@@ -12636,8 +12636,8 @@
             "taunt_burstchester_sniper_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SniperMvmResurrected"
+            "SniperMvmResurrected",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "SniperMvmResurrected"
@@ -12681,25 +12681,25 @@
             ]
         ],
         "events": [
-            "sniper_mvm_resurrect03",
-            "taunt_burstchester_sniper_02",
+            "sniper.scardy_cat_b",
             "sniper_taunt_neck_snap_04",
-            "sniper.scardy_cat_b"
+            "taunt_burstchester_sniper_02",
+            "sniper_mvm_resurrect03"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SniperMvmResurrected",
             "Taunt: The Scaredy-Cat!",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "SniperMvmResurrected",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "SniperMvmResurrected"
         ],
         "scenes": [
-            "scenes/player/sniper/low/7240.vcd",
+            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/sniper/low/taunt_neck_snap.vcd",
-            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd"
+            "scenes/player/sniper/low/7240.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Huhbluhbluhbluhbluhbluh! Bloody hell!"
@@ -12821,8 +12821,8 @@
             "PlayerLostPointSniper"
         ],
         "rules": [
-            "RejectedDuelSniper",
             "PlayerNegativeSniper",
+            "RejectedDuelSniper",
             "PlayerLostPointSniper"
         ],
         "scenes": [
@@ -12848,18 +12848,18 @@
             ]
         ],
         "events": [
-            "sniper.negativevocalization02",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.negativevocalization02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "RejectedDuelSniper",
             "PlayerNegativeSniper",
-            "PlayerLostPointSniper"
+            "PlayerLostPointSniper",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "RejectedDuelSniper",
             "PlayerNegativeSniper",
+            "RejectedDuelSniper",
             "PlayerLostPointSniper"
         ],
         "scenes": [
@@ -12887,18 +12887,18 @@
             ]
         ],
         "events": [
-            "sniper.negativevocalization03",
-            "taunt_burstchester_sniper_02"
+            "taunt_burstchester_sniper_02",
+            "sniper.negativevocalization03"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerNegativeSniper",
-            "PlayerLostPointSniper",
-            "SniperJarateHit"
-        ],
-        "rules": [
             "SniperJarateHit",
             "PlayerNegativeSniper",
+            "PlayerLostPointSniper",
+            "Taunt: Burstchester"
+        ],
+        "rules": [
+            "PlayerNegativeSniper",
+            "SniperJarateHit",
             "PlayerLostPointSniper"
         ],
         "scenes": [
@@ -12929,15 +12929,15 @@
             "sniper.negativevocalization04"
         ],
         "responses": [
-            "PlayerNegativeSniper",
-            "Taunt: The Critical Fail",
             "PlayerLostPointSniper",
+            "Taunt: The Critical Fail",
             "SniperJarateHit",
-            "Taunt: Mourning Mercs"
+            "Taunt: Mourning Mercs",
+            "PlayerNegativeSniper"
         ],
         "rules": [
-            "SniperJarateHit",
             "PlayerNegativeSniper",
+            "SniperJarateHit",
             "PlayerLostPointSniper"
         ],
         "scenes": [
@@ -12971,10 +12971,10 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
-            "PlayerNegativeSniper",
             "PlayerLostPointSniper",
             "SniperJarateHitScoped",
-            "Taunt: Mourning Mercs"
+            "Taunt: Mourning Mercs",
+            "PlayerNegativeSniper"
         ],
         "rules": [
             "SniperJarateHitScoped",
@@ -12983,8 +12983,8 @@
         ],
         "scenes": [
             "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/sniper/low/taunt_mourning_mercs.vcd",
-            "scenes/player/sniper/low/1690.vcd"
+            "scenes/player/sniper/low/1690.vcd",
+            "scenes/workshop/player/sniper/low/taunt_mourning_mercs.vcd"
         ],
         "state": "used",
         "transcript": "Nrgh, arrggghh..."
@@ -13041,9 +13041,9 @@
             "sniper.negativevocalization07"
         ],
         "responses": [
+            "Taunt: Mourning Mercs",
             "PlayerNegativeSniper",
-            "PlayerLostPointSniper",
-            "Taunt: Mourning Mercs"
+            "PlayerLostPointSniper"
         ],
         "rules": [
             "PlayerNegativeSniper",
@@ -13108,17 +13108,17 @@
             "sniper.negativevocalization09"
         ],
         "responses": [
+            "Taunt: Unleashed Rage",
             "PlayerNegativeSniper",
-            "PlayerLostPointSniper",
-            "Taunt: Unleashed Rage"
+            "PlayerLostPointSniper"
         ],
         "rules": [
             "PlayerNegativeSniper",
             "PlayerLostPointSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_unleashed_rage.vcd",
-            "scenes/player/sniper/low/1781.vcd"
+            "scenes/player/sniper/low/1781.vcd",
+            "scenes/workshop/player/sniper/low/taunt_unleashed_rage.vcd"
         ],
         "state": "used",
         "transcript": "Nrrgghh."
@@ -13288,10 +13288,10 @@
         "base_name": "sniper_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "mvm.playerdiedsniper",
-            "sniper.paincrticialdeath01",
             "sniper.meleedeath",
-            "sniper.critdeath"
+            "sniper.critdeath",
+            "mvm.playerdiedsniper",
+            "sniper.paincrticialdeath01"
         ],
         "responses": [],
         "rules": [],
@@ -13303,10 +13303,10 @@
         "base_name": "sniper_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "mvm.playerdiedsniper",
             "sniper.paincrticialdeath02",
             "sniper.meleedeath",
-            "sniper.critdeath"
+            "sniper.critdeath",
+            "mvm.playerdiedsniper"
         ],
         "responses": [],
         "rules": [],
@@ -13318,10 +13318,10 @@
         "base_name": "sniper_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "mvm.playerdiedsniper",
             "sniper.meleedeath",
             "sniper.critdeath",
-            "sniper.paincrticialdeath03"
+            "sniper.paincrticialdeath03",
+            "mvm.playerdiedsniper"
         ],
         "responses": [
             "Taunt: Unleashed Rage"
@@ -13337,10 +13337,10 @@
         "base_name": "sniper_paincrticialdeath04",
         "criteria": [],
         "events": [
-            "mvm.playerdiedsniper",
-            "sniper.paincrticialdeath04",
             "sniper.meleedeath",
-            "sniper.critdeath"
+            "sniper.critdeath",
+            "sniper.paincrticialdeath04",
+            "mvm.playerdiedsniper"
         ],
         "responses": [],
         "rules": [],
@@ -13383,8 +13383,8 @@
             ]
         ],
         "events": [
-            "sniper.painsevere02",
-            "sniper.death"
+            "sniper.death",
+            "sniper.painsevere02"
         ],
         "responses": [
             "PlayerAttackerPainSniper"
@@ -13502,14 +13502,14 @@
         ],
         "events": [
             "sniper.explosiondeath",
-            "taunt_burstchester_sniper_pain",
             "sniper_taunt_neck_snap_02",
-            "sniper.painsharp02"
+            "sniper.painsharp02",
+            "taunt_burstchester_sniper_pain"
         ],
         "responses": [
-            "PlayerPainSniper",
             "PlayerStillOnFireSniper",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "PlayerPainSniper"
         ],
         "rules": [
             "PlayerStillOnFireSniper",
@@ -13541,8 +13541,8 @@
         ],
         "events": [
             "sniper.explosiondeath",
-            "taunt_burstchester_sniper_pain",
-            "sniper.painsharp03"
+            "sniper.painsharp03",
+            "taunt_burstchester_sniper_pain"
         ],
         "responses": [
             "PlayerStillOnFireSniper",
@@ -13570,8 +13570,8 @@
         ],
         "events": [
             "sniper.explosiondeath",
-            "taunt_burstchester_sniper_pain",
-            "sniper.painsharp04"
+            "sniper.painsharp04",
+            "taunt_burstchester_sniper_pain"
         ],
         "responses": [
             "PlayerPainSniper"
@@ -13664,8 +13664,8 @@
             "PlayerPositiveSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
             "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper",
             "PlayerPositiveSniper"
         ],
         "scenes": [
@@ -13707,8 +13707,8 @@
             "PlayerPositiveSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
             "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper",
             "PlayerPositiveSniper"
         ],
         "scenes": [
@@ -13749,16 +13749,16 @@
             "sniper.positivevocalization05"
         ],
         "responses": [
-            "SniperTauntPrimary",
             "PlayerKilledCapperSniper",
+            "SniperTauntPrimary",
             "PlayerPositiveSniper"
         ],
         "rules": [
-            "SniperTauntPlayerPrimaryClassic",
-            "PlayerPositiveSniper",
-            "PlayerKilledCapperSniper",
             "SniperTauntPlayerBazaarBargain",
-            "SniperTauntPlayerPrimary"
+            "PlayerKilledCapperSniper",
+            "SniperTauntPlayerPrimary",
+            "SniperTauntPlayerPrimaryClassic",
+            "PlayerPositiveSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt01_v2.vcd",
@@ -13776,19 +13776,19 @@
             ]
         ],
         "events": [
-            "sniper_most_wanted_vo",
-            "sniper.positivevocalization06"
+            "sniper.positivevocalization06",
+            "sniper_most_wanted_vo"
         ],
         "responses": [
-            "PlayerPositiveSniper",
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "PlayerPositiveSniper"
         ],
         "rules": [
             "PlayerPositiveSniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1783.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/1783.vcd"
         ],
         "state": "used",
         "transcript": "Ripper you little."
@@ -13855,15 +13855,15 @@
             "sniper_most_wanted_vo"
         ],
         "responses": [
-            "PlayerPositiveSniper",
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "PlayerPositiveSniper"
         ],
         "rules": [
             "PlayerPositiveSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
-            "scenes/player/sniper/low/1786.vcd"
+            "scenes/player/sniper/low/1786.vcd",
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
         "transcript": "Piece of piss."
@@ -13888,8 +13888,8 @@
             "PlayerPositiveSniper"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1787.vcd"
+            "scenes/player/sniper/low/1787.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "'Ere ya go."
@@ -14710,12 +14710,12 @@
             "sniper_sf13_magic_reac01"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7276.vcd"
@@ -14742,25 +14742,25 @@
             ]
         ],
         "events": [
-            "sniper_sf13_magic_reac02",
+            "sniper_taunt_neck_snap_03",
             "taunt_burstchester_sniper_01",
-            "sniper_taunt_neck_snap_03"
+            "sniper_sf13_magic_reac02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm",
             "Taunt: Neck Snap",
+            "SniperSeeSpellSkeletonHorde",
             "SniperSF13SkeletonKingAppear",
-            "SniperSeeSpellMeteorSwarm"
+            "Taunt: Burstchester"
         ],
         "rules": [
+            "SniperSeeSpellSkeletonHorde",
             "SniperSeeSpellMeteorSwarm",
-            "SniperSF13SkeletonKingAppear",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSF13SkeletonKingAppear"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_neck_snap.vcd",
             "scenes/player/sniper/low/8483.vcd",
+            "scenes/workshop/player/sniper/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/sniper/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -14782,12 +14782,12 @@
             "sniper_sf13_magic_reac03"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7277.vcd"
@@ -14811,12 +14811,12 @@
             "sniper_sf13_magic_reac04"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7278.vcd"
@@ -14840,12 +14840,12 @@
             "sniper_sf13_magic_reac05"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7279.vcd"
@@ -14869,12 +14869,12 @@
             "sniper_sf13_magic_reac06"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7280.vcd"
@@ -14898,12 +14898,12 @@
             "sniper_sf13_magic_reac07"
         ],
         "responses": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "SniperSeeSpellMeteorSwarm",
-            "SniperSeeSpellSkeletonHorde"
+            "SniperSeeSpellSkeletonHorde",
+            "SniperSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/sniper/low/7281.vcd"
@@ -15040,12 +15040,12 @@
             "sniper_sf13_round_start01"
         ],
         "responses": [
-            "SniperSF13RoundStart",
-            "SniperSF13BattleCry"
+            "SniperSF13BattleCry",
+            "SniperSF13RoundStart"
         ],
         "rules": [
-            "SniperSF13RoundStart",
-            "SniperSF13BattleCry"
+            "SniperSF13BattleCry",
+            "SniperSF13RoundStart"
         ],
         "scenes": [
             "scenes/player/sniper/low/7244.vcd"
@@ -15078,19 +15078,19 @@
             "sniper_didgeriddrongo_into"
         ],
         "responses": [
-            "SniperSF13RoundStart",
-            "SniperSF13BattleCry",
             "Taunt: Didgeridrongo",
-            "Taunt: The Fist Bump"
+            "SniperSF13BattleCry",
+            "Taunt: The Fist Bump",
+            "SniperSF13RoundStart"
         ],
         "rules": [
-            "SniperSF13RoundStart",
-            "SniperSF13BattleCry"
+            "SniperSF13BattleCry",
+            "SniperSF13RoundStart"
         ],
         "scenes": [
+            "scenes/player/sniper/low/7245.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd",
-            "scenes/player/sniper/low/7245.vcd"
+            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
         "transcript": "Let's make some bloody magic!"
@@ -15131,8 +15131,8 @@
             ]
         ],
         "events": [
-            "sniper_sf13_scared02",
-            "sniper.scardy_cat"
+            "sniper.scardy_cat",
+            "sniper_sf13_scared02"
         ],
         "responses": [
             "SniperSF13SkeletonKingAppear",
@@ -15142,8 +15142,8 @@
             "SniperSF13SkeletonKingAppear"
         ],
         "scenes": [
-            "scenes/player/sniper/low/8487.vcd",
-            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd"
+            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
+            "scenes/player/sniper/low/8487.vcd"
         ],
         "state": "used",
         "transcript": "(Scream 2)"
@@ -15346,8 +15346,8 @@
             "sniper_sf13_spell_super_jump01"
         ],
         "responses": [
-            "SniperCastBlastJump",
-            "Taunt: Second Rate Sorcery"
+            "Taunt: Second Rate Sorcery",
+            "SniperCastBlastJump"
         ],
         "rules": [
             "SniperCastBlastJump"
@@ -15583,8 +15583,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1713.vcd"
@@ -15623,8 +15623,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1714.vcd"
@@ -15672,25 +15672,25 @@
             ]
         ],
         "events": [
-            "sniper.specialcompleted04",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.specialcompleted04"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "SniperTauntPrimary",
-            "KilledPlayerManySniper"
+            "KilledPlayerManySniper",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "KilledPlayerManySniperBow",
-            "SniperTauntPlayerPrimaryClassic",
             "SniperTauntPlayerBazaarBargain",
             "KilledPlayerManySniper",
-            "SniperTauntPlayerPrimary"
+            "SniperTauntPlayerPrimary",
+            "SniperTauntPlayerPrimaryClassic"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1715.vcd",
             "scenes/player/sniper/low/taunt01_v4.vcd",
-            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/player/sniper/low/1715.vcd"
         ],
         "state": "used",
         "transcript": "G'day!"
@@ -15795,13 +15795,13 @@
             "sniper.specialcompleted07"
         ],
         "responses": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerSaxxySniper"
+            "KilledPlayerSaxxySniper",
+            "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
             "KilledPlayerVeryManySniperBow",
-            "KilledPlayerSaxxySniper"
+            "KilledPlayerSaxxySniper",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1718.vcd"
@@ -15841,21 +15841,21 @@
             ]
         ],
         "events": [
-            "sniper_taunt_the_final_score_sniper_sniper_specialcompleted08",
-            "sniper.specialcompleted08"
+            "sniper.specialcompleted08",
+            "sniper_taunt_the_final_score_sniper_sniper_specialcompleted08"
         ],
         "responses": [
             "SniperKillSoldier",
             "Taunt: The Final Score"
         ],
         "rules": [
-            "SniperKillSoldierBow",
+            "SniperKillSoldierClassic",
             "SniperKillSoldier",
-            "SniperKillSoldierClassic"
+            "SniperKillSoldierBow"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd",
-            "scenes/player/sniper/low/1719.vcd"
+            "scenes/player/sniper/low/1719.vcd",
+            "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "Ah, I'm sorry, mate."
@@ -15925,23 +15925,23 @@
             ]
         ],
         "events": [
-            "sniper.specialcompleted10",
             "taunt_burstchester_sniper_02",
+            "sniper.specialcompleted10",
             "sniper.taunt_shooter_tutor_vo_2"
         ],
         "responses": [
+            "Taunt: Straight Shooter Tutor",
             "Taunt: Burstchester",
-            "KilledPlayerVeryManySniper",
-            "Taunt: Straight Shooter Tutor"
+            "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1721.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/player/sniper/low/1721.vcd"
         ],
         "state": "used",
         "transcript": "Bloody piker!"
@@ -16049,9 +16049,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1724.vcd"
@@ -16090,8 +16090,8 @@
             "SniperHeadShotKillSoldier"
         ],
         "rules": [
-            "SniperHeadShotKillSoldierClassic",
-            "SniperHeadShotKillSoldier"
+            "SniperHeadShotKillSoldier",
+            "SniperHeadShotKillSoldierClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1725.vcd"
@@ -16142,19 +16142,19 @@
             "sniper.specialcompleted15"
         ],
         "responses": [
-            "KilledPlayerManySniper",
-            "SniperTauntPrimary"
+            "SniperTauntPrimary",
+            "KilledPlayerManySniper"
         ],
         "rules": [
             "KilledPlayerManySniperBow",
-            "SniperTauntPlayerPrimaryClassic",
             "SniperTauntPlayerBazaarBargain",
             "KilledPlayerManySniper",
-            "SniperTauntPlayerPrimary"
+            "SniperTauntPlayerPrimary",
+            "SniperTauntPlayerPrimaryClassic"
         ],
         "scenes": [
-            "scenes/player/sniper/low/taunt01_v3.vcd",
-            "scenes/player/sniper/low/1726.vcd"
+            "scenes/player/sniper/low/1726.vcd",
+            "scenes/player/sniper/low/taunt01_v3.vcd"
         ],
         "state": "used",
         "transcript": "Wave goodbye to your head, wanker."
@@ -16197,9 +16197,9 @@
             "SniperKillSoldier"
         ],
         "rules": [
-            "SniperKillSoldierBow",
+            "SniperKillSoldierClassic",
             "SniperKillSoldier",
-            "SniperKillSoldierClassic"
+            "SniperKillSoldierBow"
         ],
         "scenes": [
             "scenes/player/sniper/low/1727.vcd"
@@ -16235,8 +16235,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt_yetipunch.vcd",
@@ -16324,9 +16324,9 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "SniperKillSoldierBow",
+            "SniperKillSoldierClassic",
             "SniperKillSoldier",
-            "SniperKillSoldierClassic"
+            "SniperKillSoldierBow"
         ],
         "scenes": [
             "scenes/player/sniper/low/1731.vcd",
@@ -16408,8 +16408,8 @@
             "SniperTauntSaxxy"
         ],
         "rules": [
-            "SniperTauntSaxxy",
-            "SniperTauntPlayerMelee"
+            "SniperTauntPlayerMelee",
+            "SniperTauntSaxxy"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt03_v1.vcd"
@@ -16444,8 +16444,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1789.vcd"
@@ -16480,8 +16480,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1790.vcd"
@@ -16516,8 +16516,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1791.vcd"
@@ -16552,8 +16552,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1792.vcd"
@@ -16607,8 +16607,8 @@
             "SniperTauntSaxxy"
         ],
         "rules": [
-            "SniperTauntSaxxy",
-            "SniperTauntPlayerMelee"
+            "SniperTauntPlayerMelee",
+            "SniperTauntSaxxy"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt03_v3.vcd"
@@ -16643,8 +16643,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1795.vcd"
@@ -16719,8 +16719,8 @@
             "SniperHeadShotKillSpy"
         ],
         "rules": [
-            "SniperHeadShotKillSpy",
-            "SniperHeadShotKillSpyClassic"
+            "SniperHeadShotKillSpyClassic",
+            "SniperHeadShotKillSpy"
         ],
         "scenes": [
             "scenes/player/sniper/low/1798.vcd"
@@ -16759,8 +16759,8 @@
             "SniperHeadShotKillSpy"
         ],
         "rules": [
-            "SniperHeadShotKillSpy",
-            "SniperHeadShotKillSpyClassic"
+            "SniperHeadShotKillSpyClassic",
+            "SniperHeadShotKillSpy"
         ],
         "scenes": [
             "scenes/player/sniper/low/1799.vcd"
@@ -16795,8 +16795,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1800.vcd"
@@ -16831,8 +16831,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1801.vcd"
@@ -16867,8 +16867,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1802.vcd"
@@ -16905,16 +16905,16 @@
             "sniper.specialcompleted38"
         ],
         "responses": [
-            "SniperHeadShotKillSoldier",
-            "Taunt: Flying Colors"
-        ],
-        "rules": [
-            "SniperHeadShotKillSoldierClassic",
+            "Taunt: Flying Colors",
             "SniperHeadShotKillSoldier"
         ],
+        "rules": [
+            "SniperHeadShotKillSoldier",
+            "SniperHeadShotKillSoldierClassic"
+        ],
         "scenes": [
-            "scenes/player/sniper/low/1803.vcd",
-            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/player/sniper/low/1803.vcd"
         ],
         "state": "used",
         "transcript": "Standin' around like a bloody idiot."
@@ -16932,12 +16932,12 @@
             ]
         ],
         "events": [
-            "sniper_taunt_flag",
-            "sniper.specialcompleted39"
+            "sniper.specialcompleted39",
+            "sniper_taunt_flag"
         ],
         "responses": [
-            "Taunt: Flying Colors",
-            "SniperHoldStill"
+            "SniperHoldStill",
+            "Taunt: Flying Colors"
         ],
         "rules": [
             "SniperHoldStill"
@@ -16980,8 +16980,8 @@
             "SniperHeadShotKillSpy"
         ],
         "rules": [
-            "SniperHeadShotKillSpy",
-            "SniperHeadShotKillSpyClassic"
+            "SniperHeadShotKillSpyClassic",
+            "SniperHeadShotKillSpy"
         ],
         "scenes": [
             "scenes/player/sniper/low/1805.vcd"
@@ -17020,8 +17020,8 @@
             "SniperHeadShotKillSpy"
         ],
         "rules": [
-            "SniperHeadShotKillSpy",
-            "SniperHeadShotKillSpyClassic"
+            "SniperHeadShotKillSpyClassic",
+            "SniperHeadShotKillSpy"
         ],
         "scenes": [
             "scenes/player/sniper/low/1806.vcd"
@@ -17060,8 +17060,8 @@
             "SniperHeadShotKillSoldier"
         ],
         "rules": [
-            "SniperHeadShotKillSoldierClassic",
-            "SniperHeadShotKillSoldier"
+            "SniperHeadShotKillSoldier",
+            "SniperHeadShotKillSoldierClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1807.vcd"
@@ -17100,8 +17100,8 @@
             "SniperHeadShotKillSpy"
         ],
         "rules": [
-            "SniperHeadShotKillSpy",
-            "SniperHeadShotKillSpyClassic"
+            "SniperHeadShotKillSpyClassic",
+            "SniperHeadShotKillSpy"
         ],
         "scenes": [
             "scenes/player/sniper/low/1808.vcd"
@@ -17154,10 +17154,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1809.vcd"
@@ -17208,15 +17208,15 @@
             "sniper.specialcompleted45"
         ],
         "responses": [
-            "KilledPlayerManySniper",
-            "SniperTauntPrimary"
+            "SniperTauntPrimary",
+            "KilledPlayerManySniper"
         ],
         "rules": [
             "KilledPlayerManySniperBow",
-            "SniperTauntPlayerPrimaryClassic",
             "SniperTauntPlayerBazaarBargain",
             "KilledPlayerManySniper",
-            "SniperTauntPlayerPrimary"
+            "SniperTauntPlayerPrimary",
+            "SniperTauntPlayerPrimaryClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/taunt01_v1.vcd",
@@ -17252,8 +17252,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1811.vcd"
@@ -17311,11 +17311,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2284.vcd"
@@ -17373,11 +17373,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2285.vcd"
@@ -17435,11 +17435,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2286.vcd"
@@ -17499,15 +17499,15 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/2287.vcd"
+            "scenes/player/sniper/low/2287.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Someone's about to have a very bad day."
@@ -17562,11 +17562,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2288.vcd"
@@ -17624,11 +17624,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2421.vcd"
@@ -17686,11 +17686,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2422.vcd"
@@ -17748,11 +17748,11 @@
             "PlayerShinyCrySniper"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
             "scenes/player/sniper/low/2433.vcd"
@@ -17812,15 +17812,15 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary",
+            "PlayerShinyCrySniper",
             "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniper"
+            "PlayerShinyCrySniperMelee",
+            "PlayerShinyCrySniperJarate",
+            "PlayerShinyCrySniperSecondary"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/2477.vcd"
+            "scenes/player/sniper/low/2477.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Take a gander at this, little princess."
@@ -17846,12 +17846,12 @@
             "sniper.standonthepoint01"
         ],
         "responses": [
-            "DefendOnThePointSniper",
-            "PlayerHelpCapture2Sniper"
+            "PlayerHelpCapture2Sniper",
+            "DefendOnThePointSniper"
         ],
         "rules": [
-            "DefendOnThePointSniper",
-            "PlayerHelpCapture2Sniper"
+            "PlayerHelpCapture2Sniper",
+            "DefendOnThePointSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1736.vcd"
@@ -17880,12 +17880,12 @@
             "sniper.standonthepoint02"
         ],
         "responses": [
-            "DefendOnThePointSniper",
-            "PlayerHelpCapture2Sniper"
+            "PlayerHelpCapture2Sniper",
+            "DefendOnThePointSniper"
         ],
         "rules": [
-            "DefendOnThePointSniper",
-            "PlayerHelpCapture2Sniper"
+            "PlayerHelpCapture2Sniper",
+            "DefendOnThePointSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1737.vcd"
@@ -18175,8 +18175,8 @@
             "sniper.yes03"
         ],
         "responses": [
-            "Taunt: The High Five!",
             "AcceptedDuelSniper",
+            "Taunt: The High Five!",
             "PlayerYesSniper"
         ],
         "rules": [
@@ -18184,8 +18184,8 @@
             "PlayerYesSniper"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1769.vcd",
-            "scenes/player/sniper/low/taunt_hi5_start.vcd"
+            "scenes/player/sniper/low/taunt_hi5_start.vcd",
+            "scenes/player/sniper/low/1769.vcd"
         ],
         "state": "used",
         "transcript": "Okay, mate!"
@@ -18454,8 +18454,8 @@
         "base_name": "sniper_laughhappy01",
         "criteria": [],
         "events": [
-            "sniper_taunt_russian_rand_rand02",
-            "taunt_yetipunch_sniper_end"
+            "taunt_yetipunch_sniper_end",
+            "sniper_taunt_russian_rand_rand02"
         ],
         "responses": [],
         "rules": [],
@@ -18491,12 +18491,12 @@
         "base_name": "sniper_taunt_admire_01",
         "criteria": [],
         "events": [
-            "sniper_taunt_cheers",
-            "sniper_taunt_dosido_endshort_rand"
+            "sniper_taunt_dosido_endshort_rand",
+            "sniper_taunt_cheers"
         ],
         "responses": [
-            "Taunt: Cheers!",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Cheers!"
         ],
         "rules": [],
         "scenes": [
@@ -18535,8 +18535,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/sniper/low/taunt_peace.vcd"
+            "scenes/workshop/player/sniper/low/taunt_peace.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha! No worries!"
@@ -18563,20 +18563,20 @@
         "events": [
             "sniper_didgeriddrongo_outro",
             "sniper.taunt_shooters_stake_outro",
-            "sniper_taunt_dosido_endlong_rand",
-            "sniper.taunt_shooters_stake_intro"
+            "sniper.taunt_shooters_stake_intro",
+            "sniper_taunt_dosido_endlong_rand"
         ],
         "responses": [
-            "Taunt: Shooter's Stakeout",
             "Taunt: Didgeridrongo",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shooter's Stakeout"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Heh heh heh! That'll do!"
@@ -18585,23 +18585,23 @@
         "base_name": "sniper_taunt_admire_12",
         "criteria": [],
         "events": [
-            "sniper_most_wanted_vo",
             "sniper_taunt_dosido_endshort_rand",
             "sniper_taunt_commending_clap_b",
-            "sniper.taunt_shooters_stake_outro"
+            "sniper.taunt_shooters_stake_outro",
+            "sniper_most_wanted_vo"
         ],
         "responses": [
-            "Taunt: Most Wanted",
-            "Taunt: Shooter's Stakeout",
             "Taunt: Commending Clap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Most Wanted",
+            "Taunt: Shooter's Stakeout"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/taunt_dosido_dance02.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd",
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
-            "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
+            "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
         "transcript": "That will do!"
@@ -18619,8 +18619,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd"
+            "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Hah ha hah! Brilliant!"
@@ -18766,14 +18766,14 @@
             "snipes_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Conga",
             "Taunt: Mannrobics",
+            "Taunt: Conga",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/conga.vcd",
             "scenes/player/sniper/low/taunt_aerobic_b.vcd",
+            "scenes/player/sniper/low/conga.vcd",
             "scenes/player/sniper/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -18834,8 +18834,8 @@
             "snipes_taunt_conga_random_fun2"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -18852,8 +18852,8 @@
             "snipes_taunt_conga_random_fun2"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -18871,10 +18871,10 @@
             "sniper_didgeriddrongo_into"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics",
             "Taunt: Didgeridrongo",
-            "Taunt: The Fist Bump"
+            "Taunt: Conga",
+            "Taunt: The Fist Bump",
+            "Taunt: Mannrobics"
         ],
         "rules": [],
         "scenes": [
@@ -18893,8 +18893,8 @@
             "snipes_taunt_conga_random_fun2"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -18928,15 +18928,15 @@
             "snipes_taunt_conga_random_fun2"
         ],
         "responses": [
-            "Taunt: Conga",
+            "Taunt: Mannrobics",
             "Taunt: Bear Hug",
-            "Taunt: Mannrobics"
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd",
             "scenes/player/sniper/low/conga.vcd",
-            "scenes/player/sniper/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd"
+            "scenes/player/sniper/low/taunt_aerobic_b.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo, ha ha ha!"
@@ -19028,20 +19028,20 @@
         "base_name": "sniper_taunt_dosi_fun_02",
         "criteria": [],
         "events": [
-            "sniper_taunt_dosido_mid_rand",
-            "sniper_taunt_russian_rand01"
+            "sniper_taunt_russian_rand01",
+            "sniper_taunt_dosido_mid_rand"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
             "Taunt: Didgeridrongo",
+            "Taunt: Kazotsky Kick",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/player/sniper/low/taunt_russian.vcd",
             "scenes/player/sniper/low/taunt_dosido_dance00.vcd",
             "scenes/player/sniper/low/taunt_dosido_dance02.vcd",
+            "scenes/player/sniper/low/taunt_russian.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
@@ -19058,9 +19058,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance02.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance00.vcd",
             "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/player/sniper/low/taunt_dosido_dance00.vcd"
+            "scenes/player/sniper/low/taunt_dosido_dance02.vcd"
         ],
         "state": "used",
         "transcript": "Do-si-do, yes, he ha ha!"
@@ -19076,9 +19076,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance02.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance00.vcd",
             "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/player/sniper/low/taunt_dosido_dance00.vcd"
+            "scenes/player/sniper/low/taunt_dosido_dance02.vcd"
         ],
         "state": "used",
         "transcript": "Oh, look at my happy feet!"
@@ -19087,8 +19087,8 @@
         "base_name": "sniper_taunt_dosi_fun_06",
         "criteria": [],
         "events": [
-            "sniper_taunt_dosido_mid_rand",
-            "sniper_taunt_dosido_start_rand"
+            "sniper_taunt_dosido_start_rand",
+            "sniper_taunt_dosido_mid_rand"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -19096,10 +19096,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_dosido_dance02.vcd",
+            "scenes/player/sniper/low/taunt_dosido_dance00.vcd",
             "scenes/player/sniper/low/taunt_aerobic_b.vcd",
             "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
-            "scenes/player/sniper/low/taunt_dosido_dance00.vcd"
+            "scenes/player/sniper/low/taunt_dosido_dance02.vcd"
         ],
         "state": "used",
         "transcript": "Happy feet, happy feet!"
@@ -19243,8 +19243,8 @@
             "sniper.taunt_shooter_tutor_vo_2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Straight Shooter Tutor"
+            "Taunt: Straight Shooter Tutor",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -19299,8 +19299,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha ha, wanker!"
@@ -19313,14 +19313,14 @@
             "snipes_taunt_flip_random_flipadmire"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Didgeridrongo"
+            "Taunt: Didgeridrongo",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha ha, bloody brilliant!"
@@ -19339,8 +19339,8 @@
         "rules": [],
         "scenes": [
             "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ha hah! Ha ha ha hah!"
@@ -19356,8 +19356,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ugh! Ha ha hah ha ha ha ha!"
@@ -19366,8 +19366,8 @@
         "base_name": "sniper_taunt_flip_exert_01",
         "criteria": [],
         "events": [
-            "snipes_taunt_flip_random_flipexert",
-            "sniper.taunt_shooters_stake_outro"
+            "sniper.taunt_shooters_stake_outro",
+            "snipes_taunt_flip_random_flipexert"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -19375,9 +19375,9 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Up you go!"
@@ -19390,14 +19390,14 @@
             "sniper.taunt_shooter_tutor_vo_2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Straight Shooter Tutor"
+            "Taunt: Straight Shooter Tutor",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ughh!"
@@ -19411,15 +19411,15 @@
             "sniper.taunt_shooter_tutor_vo_2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Straight Shooter Tutor"
+            "Taunt: Straight Shooter Tutor",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
             "scenes/player/sniper/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Uah!"
@@ -19435,8 +19435,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ha haa!"
@@ -19455,8 +19455,8 @@
         "rules": [],
         "scenes": [
             "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator0.vcd"
+            "scenes/player/sniper/low/flip_success_initiator0.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Huyeah gah!"
@@ -19602,13 +19602,13 @@
             "taunt_yeti_sniper"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd"
+            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
+            "scenes/player/sniper/low/taunt_headbutt_success.vcd"
         ],
         "state": "used",
         "transcript": "Crikey!"
@@ -19617,13 +19617,13 @@
         "base_name": "sniper_taunt_head_end_37",
         "criteria": [],
         "events": [
-            "taunt.bearhug_sniper_b",
             "sniper_taunt_headbutt_success_recover",
-            "taunt_yeti_sniper"
+            "taunt_yeti_sniper",
+            "taunt.bearhug_sniper_b"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Bear Hug"
+            "Taunt: Bear Hug",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -19750,25 +19750,25 @@
         "base_name": "sniper_taunt_int_01",
         "criteria": [],
         "events": [
-            "sniper_taunt_dosido_intro_wait_rand",
-            "snipes_taunt_flip_random_waiting1",
             "snipes_taunt_flip_random_flipflipantic",
             "snipes_taunt_fistbump_start",
-            "sniper_didgeriddrongo_into"
+            "sniper_didgeriddrongo_into",
+            "sniper_taunt_dosido_intro_wait_rand",
+            "snipes_taunt_flip_random_waiting1"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
             "Taunt: Didgeridrongo",
+            "Taunt: Square Dance",
             "Taunt: The Fist Bump",
-            "Taunt: Square Dance"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/taunt_dosido_intro01.vcd",
             "scenes/player/sniper/low/flip_start.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd",
             "scenes/player/sniper/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
@@ -19784,18 +19784,18 @@
             "sniper_didgeriddrongo_into"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
             "Taunt: Didgeridrongo",
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_start.vcd",
             "scenes/player/sniper/low/flip_start.vcd",
+            "scenes/player/sniper/low/taunt_rps_start.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd",
             "scenes/player/sniper/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
@@ -19814,8 +19814,8 @@
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/flip_success_receiver1.vcd",
-            "scenes/player/sniper/low/flip_success_initiator1.vcd",
-            "scenes/player/sniper/low/flip_start.vcd"
+            "scenes/player/sniper/low/flip_start.vcd",
+            "scenes/player/sniper/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Let's go!"
@@ -19830,17 +19830,17 @@
             "sniper_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: Kazotsky Kick",
             "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/taunt_rps_start.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/player/sniper/low/taunt_russian.vcd",
             "scenes/player/sniper/low/taunt_dosido_intro01.vcd",
-            "scenes/player/sniper/low/taunt_rps_start.vcd"
+            "scenes/player/sniper/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "Come on, mate!"
@@ -19888,15 +19888,15 @@
             "sniper_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance",
             "Taunt: The Fist Bump",
-            "Taunt: Square Dance"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/flip_start.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/player/sniper/low/taunt_dosido_intro01.vcd",
-            "scenes/player/sniper/low/flip_start.vcd"
+            "scenes/player/sniper/low/taunt_dosido_intro01.vcd"
         ],
         "state": "used",
         "transcript": "Haven't got all bloody day!"
@@ -19998,18 +19998,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "One!"
@@ -20025,18 +20025,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "Two!"
@@ -20052,18 +20052,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "Three!"
@@ -20079,12 +20079,12 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "On three!"
@@ -20114,14 +20114,14 @@
         ],
         "responses": [
             "Taunt: Didgeridrongo",
-            "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/taunt_rps_start.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd",
-            "scenes/player/sniper/low/taunt_rps_start.vcd"
+            "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
         "transcript": "Let's play!"
@@ -20218,8 +20218,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd"
+            "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd"
         ],
         "state": "used",
         "transcript": "Aaah!"
@@ -20232,14 +20232,14 @@
             "sniper_taunt_rps_lose_13"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Scaredy-Cat!"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd"
+            "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_lose.vcd"
         ],
         "state": "used",
         "transcript": "Bloody, stupid game!"
@@ -20248,24 +20248,24 @@
         "base_name": "sniper_taunt_rps_lose_15",
         "criteria": [],
         "events": [
-            "taunt_burstchester_sniper_02",
             "sniper.scardy_cat_b",
+            "taunt_burstchester_sniper_02",
             "sniper.taunt_shooters_stake_rand01",
             "sniper_taunt_rps_lose_15"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: The Scaredy-Cat!",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Burstchester",
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
             "scenes/player/sniper/low/taunt_rps_scissors_lose.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "You sneaky ratbag!"
@@ -20281,8 +20281,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "Bah! Who needs it?"
@@ -20307,25 +20307,25 @@
         "base_name": "sniper_taunt_rps_win_02",
         "criteria": [],
         "events": [
+            "sniper_most_wanted_laughs",
             "sniper_taunt_russian_rand_rand02",
-            "sniper_taunt_rps_win_02",
-            "sniper_most_wanted_laughs"
+            "sniper_taunt_rps_win_02"
         ],
         "responses": [
-            "Taunt: The Victory Lap",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/sniper/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh 2"
@@ -20415,9 +20415,9 @@
         "base_name": "sniper_taunt_rps_win_14",
         "criteria": [],
         "events": [
+            "sniper_taunt_rps_win_14",
             "sniper_didgeriddrongo_outro",
             "sniper.taunt_shooters_stake_outro",
-            "sniper_taunt_rps_win_14",
             "taunt_yeti_sniper"
         ],
         "responses": [
@@ -20427,10 +20427,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win.vcd"
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "That was a ripsnorter!"
@@ -20448,13 +20448,13 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_scissors_win.vcd",
             "scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Yes!"
@@ -20502,8 +20502,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/sniper/low/taunt_rps_rock_win.vcd"
+            "scenes/player/sniper/low/taunt_rps_rock_win.vcd",
+            "scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Rock beats scissors!"
@@ -20530,8 +20530,8 @@
         "criteria": [],
         "events": [
             "sniper.taunt_shooters_stake_intro",
-            "sniper_most_wanted_vo",
-            "taunt_yeti_sniper"
+            "taunt_yeti_sniper",
+            "sniper_most_wanted_vo"
         ],
         "responses": [
             "Taunt: Most Wanted",
@@ -20539,8 +20539,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Ain't that something."
@@ -20549,8 +20549,8 @@
         "base_name": "sniper_trade_13",
         "criteria": [],
         "events": [
-            "sniper_most_wanted_vo",
-            "sniper_taunt_commending_clap_a"
+            "sniper_taunt_commending_clap_a",
+            "sniper_most_wanted_vo"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -20558,8 +20558,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
-            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
+            "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
+            "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
         "transcript": "Good as gold, mate!"
@@ -20585,22 +20585,22 @@
             ]
         ],
         "events": [
-            "sniper_taunt_the_final_score_sniper_sniper_taunts01",
-            "sniper.taunts01"
+            "sniper.taunts01",
+            "sniper_taunt_the_final_score_sniper_sniper_taunts01"
         ],
         "responses": [
             "Taunt: Killer Joke",
-            "Taunt: The Final Score",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "Taunt: The Final Score"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/sniper/low/taunt_killer_joke.vcd",
             "scenes/player/sniper/low/1738.vcd",
-            "scenes/workshop/player/sniper/low/taunt_killer_joke.vcd"
+            "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "(Hocks and spits 2)"
@@ -20650,8 +20650,8 @@
             ]
         ],
         "events": [
-            "sniper.taunts02",
-            "taunt_burstchester_sniper_01"
+            "taunt_burstchester_sniper_01",
+            "sniper.taunts02"
         ],
         "responses": [
             "Taunt: Burstchester",
@@ -20660,9 +20660,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1739.vcd",
@@ -20699,8 +20699,8 @@
             "PlayerKilledForRevengeSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
-            "PlayerKilledForRevengeSoftSniper"
+            "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1740.vcd"
@@ -20736,8 +20736,8 @@
             "PlayerKilledForRevengeSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
-            "PlayerKilledForRevengeSoftSniper"
+            "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1741.vcd"
@@ -20776,8 +20776,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1742.vcd"
@@ -20816,8 +20816,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1743.vcd"
@@ -20856,8 +20856,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1744.vcd"
@@ -20918,9 +20918,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1745.vcd"
@@ -20981,9 +20981,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1746.vcd"
@@ -21044,9 +21044,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1747.vcd"
@@ -21085,8 +21085,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1748.vcd"
@@ -21172,16 +21172,16 @@
             "sniper.taunts13"
         ],
         "responses": [
-            "SniperKill",
-            "InvulnerableSpeechSniper"
+            "InvulnerableSpeechSniper",
+            "SniperKill"
         ],
         "rules": [
+            "SniperKill",
+            "SniperKillBow",
             "SniperKillClassic",
-            "InvulnerableSpeechSniper",
             "SniperHeadShotKillClassic",
             "SniperHeadShotKill",
-            "SniperKill",
-            "SniperKillBow"
+            "InvulnerableSpeechSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1750.vcd"
@@ -21244,16 +21244,16 @@
             "sniper.taunts14"
         ],
         "responses": [
-            "SniperKill",
-            "InvulnerableSpeechSniper"
+            "InvulnerableSpeechSniper",
+            "SniperKill"
         ],
         "rules": [
+            "SniperKill",
+            "SniperKillBow",
             "SniperKillClassic",
-            "InvulnerableSpeechSniper",
             "SniperHeadShotKillClassic",
             "SniperHeadShotKill",
-            "SniperKill",
-            "SniperKillBow"
+            "InvulnerableSpeechSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1751.vcd"
@@ -21289,8 +21289,8 @@
             "PlayerKilledForRevengeSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
-            "PlayerKilledForRevengeSoftSniper"
+            "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1752.vcd"
@@ -21326,8 +21326,8 @@
             "PlayerKilledForRevengeSniper"
         ],
         "rules": [
-            "PlayerKilledForRevengeSniper",
-            "PlayerKilledForRevengeSoftSniper"
+            "PlayerKilledForRevengeSoftSniper",
+            "PlayerKilledForRevengeSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1753.vcd"
@@ -21390,16 +21390,16 @@
             "sniper.taunts17"
         ],
         "responses": [
-            "SniperKill",
-            "InvulnerableSpeechSniper"
+            "InvulnerableSpeechSniper",
+            "SniperKill"
         ],
         "rules": [
+            "SniperKill",
+            "SniperKillBow",
             "SniperKillClassic",
-            "InvulnerableSpeechSniper",
             "SniperHeadShotKillClassic",
             "SniperHeadShotKill",
-            "SniperKill",
-            "SniperKillBow"
+            "InvulnerableSpeechSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1754.vcd"
@@ -21438,8 +21438,8 @@
             "KilledPlayerVeryManySniper"
         ],
         "rules": [
-            "KilledPlayerVeryManySniper",
-            "KilledPlayerVeryManySniperBow"
+            "KilledPlayerVeryManySniperBow",
+            "KilledPlayerVeryManySniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1755.vcd"
@@ -21502,16 +21502,16 @@
             "sniper.taunts19"
         ],
         "responses": [
-            "SniperKill",
-            "InvulnerableSpeechSniper"
+            "InvulnerableSpeechSniper",
+            "SniperKill"
         ],
         "rules": [
+            "SniperKill",
+            "SniperKillBow",
             "SniperKillClassic",
-            "InvulnerableSpeechSniper",
             "SniperHeadShotKillClassic",
             "SniperHeadShotKill",
-            "SniperKill",
-            "SniperKillBow"
+            "InvulnerableSpeechSniper"
         ],
         "scenes": [
             "scenes/player/sniper/low/1756.vcd"
@@ -21557,9 +21557,9 @@
             "SniperKillSoldier"
         ],
         "rules": [
-            "SniperKillSoldierBow",
+            "SniperKillSoldierClassic",
             "SniperKillSoldier",
-            "SniperKillSoldierClassic"
+            "SniperKillSoldierBow"
         ],
         "scenes": [
             "scenes/player/sniper/low/1757.vcd"
@@ -21605,8 +21605,8 @@
             "SniperKillHeavy"
         ],
         "rules": [
-            "SniperKillHeavyClassic",
             "SniperKillHeavyBow",
+            "SniperKillHeavyClassic",
             "SniperKillHeavy"
         ],
         "scenes": [
@@ -21668,9 +21668,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1759.vcd"
@@ -21705,8 +21705,8 @@
             "SniperHeadShotKill"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1812.vcd"
@@ -21761,14 +21761,14 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1813.vcd"
+            "scenes/player/sniper/low/1813.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Bloody bogan."
@@ -21876,14 +21876,14 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1816.vcd"
+            "scenes/player/sniper/low/1816.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "You big-head wankers."
@@ -21933,10 +21933,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1817.vcd"
@@ -21989,10 +21989,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1818.vcd"
@@ -22045,10 +22045,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1819.vcd"
@@ -22095,22 +22095,22 @@
             ]
         ],
         "events": [
-            "sniper.taunts31",
-            "sniper.taunt_shooters_stake_rand02"
+            "sniper.taunt_shooters_stake_rand02",
+            "sniper.taunts31"
         ],
         "responses": [
             "SniperKillSoft",
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1820.vcd"
+            "scenes/player/sniper/low/1820.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "You're all a bunch'a'no-hopers."
@@ -22128,8 +22128,8 @@
             ]
         ],
         "events": [
-            "sniper.taunts32",
-            "sniper.taunt_shooters_stake_rand02"
+            "sniper.taunt_shooters_stake_rand02",
+            "sniper.taunts32"
         ],
         "responses": [
             "SniperHoldStill",
@@ -22139,8 +22139,8 @@
             "SniperHoldStill"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1821.vcd"
+            "scenes/player/sniper/low/1821.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "All your heads look bloody twelve feet tall."
@@ -22304,10 +22304,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1826.vcd"
@@ -22360,10 +22360,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1827.vcd"
@@ -22416,10 +22416,10 @@
             "SniperKillSoft"
         ],
         "rules": [
-            "SniperHeadShotKillClassic",
-            "SniperKillSoftClassic",
             "SniperKillSoft",
-            "SniperHeadShotKill"
+            "SniperHeadShotKill",
+            "SniperKillSoftClassic",
+            "SniperHeadShotKillClassic"
         ],
         "scenes": [
             "scenes/player/sniper/low/1828.vcd"
@@ -22440,8 +22440,8 @@
             ]
         ],
         "events": [
-            "sniper.taunt_shooters_stake_rand02",
-            "sniper.taunts40"
+            "sniper.taunts40",
+            "sniper.taunt_shooters_stake_rand02"
         ],
         "responses": [
             "SniperHoldStill",
@@ -22520,12 +22520,12 @@
             "Taunt: Shooter's Stakeout"
         ],
         "rules": [
-            "SniperHeadShotKillSoldierClassic",
-            "SniperHeadShotKillSoldier"
+            "SniperHeadShotKillSoldier",
+            "SniperHeadShotKillSoldierClassic"
         ],
         "scenes": [
-            "scenes/player/sniper/low/1831.vcd",
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
+            "scenes/player/sniper/low/1831.vcd"
         ],
         "state": "used",
         "transcript": "That helmet's gonna make a nice bowl for ya brains."
@@ -22559,8 +22559,8 @@
             "sniper.taunts43"
         ],
         "responses": [
-            "SniperHeadShotKillHeavy",
-            "Taunt: Shooter's Stakeout"
+            "Taunt: Shooter's Stakeout",
+            "SniperHeadShotKillHeavy"
         ],
         "rules": [
             "SniperHeadShotKillHeavyClassic",
@@ -22586,8 +22586,8 @@
             ]
         ],
         "events": [
-            "sniper.taunts44",
-            "sniper.taunt_shooters_stake_rand02"
+            "sniper.taunt_shooters_stake_rand02",
+            "sniper.taunts44"
         ],
         "responses": [
             "SniperHoldStill",
@@ -22597,8 +22597,8 @@
             "SniperHoldStill"
         ],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/player/sniper/low/1833.vcd"
+            "scenes/player/sniper/low/1833.vcd",
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "Everything above your neck's gonna be a fine red mist."
@@ -22656,9 +22656,9 @@
         "rules": [
             "SniperKill",
             "SniperKillClassic",
+            "SniperKillBow",
             "SniperHeadShotKillClassic",
-            "SniperHeadShotKill",
-            "SniperKillBow"
+            "SniperHeadShotKill"
         ],
         "scenes": [
             "scenes/player/sniper/low/1834.vcd"

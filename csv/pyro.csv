@@ -12,20 +12,20 @@ Your Line:,,,Rules:,['PlayerCapturedPointPyro']
 
 Filename:,pyro_autocappedintelligence01,,Events:,['pyro.autocappedintelligence01']
 Full Path:,vo/pyro_autocappedintelligence01.mp3,,Scenes:,['scenes/player/pyro/low/1409.vcd']
-Transcription:,Mmmphya harrgh mrgha hrghgph.,,Responses:,"['MeleeDarePyro', 'MeleeDareCombatPyro', 'PlayerCappedIntelligencePyro']"
-Your Line:,,,Rules:,"['MeleeDarePyro', 'MeleeDareCombatPyro', 'PlayerCappedIntelligencePyro']"
+Transcription:,Mmmphya harrgh mrgha hrghgph.,,Responses:,"['PlayerCappedIntelligencePyro', 'MeleeDareCombatPyro', 'MeleeDarePyro']"
+Your Line:,,,Rules:,"['PlayerCappedIntelligencePyro', 'MeleeDareCombatPyro', 'MeleeDarePyro']"
 ,,,Criteria:,"[['ConceptPlayerCapturedIntelligence', 'IsPyro'], ['ConceptRequestDuel', 'IsPyro'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsPyro', 'IsCrosshairEnemy']]"
 
 Filename:,pyro_autodejectedtie01,,Events:,['pyro.autodejectedtie01']
 Full Path:,vo/pyro_autodejectedtie01.mp3,,Scenes:,['scenes/player/pyro/low/1412.vcd']
-Transcription:,Mmmrpgh crpyha drghya!,,Responses:,"['PyroJarateHit', 'PlayerStalematePyro', 'RejectedDuelPyro']"
-Your Line:,,,Rules:,"['PyroJarateHit', 'PlayerStalematePyro', 'RejectedDuelPyro']"
+Transcription:,Mmmrpgh crpyha drghya!,,Responses:,"['RejectedDuelPyro', 'PyroJarateHit', 'PlayerStalematePyro']"
+Your Line:,,,Rules:,"['RejectedDuelPyro', 'PyroJarateHit', 'PlayerStalematePyro']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsPyro'], ['ConceptJarateHit', 'IsPyro', '50PercentChance'], ['ConceptDuelRejected', 'IsPyro']]"
 
 Filename:,pyro_autoonfire01,,Events:,['pyro.autoonfire01']
 Full Path:,vo/pyro_autoonfire01.mp3,,Scenes:,['scenes/player/pyro/low/1415.vcd']
-Transcription:,"Mmmh,mmh!",,Responses:,"['AcceptedDuelPyro', 'PlayerOnFirePyro']"
-Your Line:,,,Rules:,"['AcceptedDuelPyro', 'PlayerOnFirePyro']"
+Transcription:,"Mmmh,mmh!",,Responses:,"['PlayerOnFirePyro', 'AcceptedDuelPyro']"
+Your Line:,,,Rules:,"['PlayerOnFirePyro', 'AcceptedDuelPyro']"
 ,,,Criteria:,"[['ConceptFire', 'IsPyro', 'PyroIsNotStillonFire', 'IsNotDominating', 'AppliesContext:PyroOnFire:1:7'], ['ConceptIAcceptDuel', 'IsPyro']]"
 
 Filename:,pyro_autoonfire02,,Events:,['pyro.autoonfire02']
@@ -36,20 +36,20 @@ Your Line:,,,Rules:,"['PyroJarateHit', 'PlayerOnFirePyro']"
 
 Filename:,pyro_battlecry01,,Events:,['pyro.battlecry01']
 Full Path:,vo/pyro_battlecry01.mp3,,Scenes:,['scenes/player/pyro/low/1418.vcd']
-Transcription:,Khamaahh!,,Responses:,"['PlayerBattleCryPyro', 'PlayerRoundStartPyro', 'PlayerKilledForRevengePyro']"
-Your Line:,,,Rules:,"['PlayerBattleCryPyro', 'PlayerRoundStartPyro', 'PlayerKilledForRevengePyro']"
+Transcription:,Khamaahh!,,Responses:,"['PlayerRoundStartPyro', 'PlayerKilledForRevengePyro', 'PlayerBattleCryPyro']"
+Your Line:,,,Rules:,"['PlayerRoundStartPyro', 'PlayerKilledForRevengePyro', 'PlayerBattleCryPyro']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsPyro'], ['ConceptKilledPlayer', 'IsPyro', 'IsRevenge', 'AppliesContext:PyroKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerBattleCry', 'IsPyro']]"
 
 Filename:,pyro_battlecry02,,Events:,['pyro.battlecry02']
 Full Path:,vo/pyro_battlecry02.mp3,,Scenes:,['scenes/player/pyro/low/1419.vcd']
-Transcription:,"""Hudda hudda huh!"" ",,Responses:,"['PlayerBattleCryPyro', 'PlayerRoundStartPyro', 'RejectedDuelPyro']"
-Your Line:,,,Rules:,"['PlayerBattleCryPyro', 'PlayerRoundStartPyro', 'RejectedDuelPyro']"
+Transcription:,"""Hudda hudda huh!"" ",,Responses:,"['RejectedDuelPyro', 'PlayerRoundStartPyro', 'PlayerBattleCryPyro']"
+Your Line:,,,Rules:,"['RejectedDuelPyro', 'PlayerRoundStartPyro', 'PlayerBattleCryPyro']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsPyro'], ['ConceptDuelRejected', 'IsPyro'], ['ConceptPlayerBattleCry', 'IsPyro']]"
 
 Filename:,pyro_cheers01,,Events:,['pyro.cheers01']
-Full Path:,vo/pyro_cheers01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/player/pyro/low/1421.vcd']"
-Transcription:,Fhanks a lah!,,Responses:,"['PlayerKilledCapperPyro', 'PlayerCheersPyro', 'Taunt: The Fist Bump']"
-Your Line:,,,Rules:,"['PlayerKilledCapperPyro', 'PlayerCheersPyro']"
+Full Path:,vo/pyro_cheers01.mp3,,Scenes:,"['scenes/player/pyro/low/1421.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd']"
+Transcription:,Fhanks a lah!,,Responses:,"['PlayerCheersPyro', 'Taunt: The Fist Bump', 'PlayerKilledCapperPyro']"
+Your Line:,,,Rules:,"['PlayerCheersPyro', 'PlayerKilledCapperPyro']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsPyro', 'AppliesContext:PyroKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsPyro']]"
 
 Filename:,pyro_cloakedspy01,,Events:,['pyro.cloakedspy01']
@@ -59,21 +59,21 @@ Your Line:,,,Rules:,['PlayerCloakedSpyPyro']
 ,,,Criteria:,"[['ConceptPlayerCloakedSpy', 'IsPyro']]"
 
 Filename:,pyro_cloakedspyidentify01,,Events:,['pyro.cloakedspyidentify01']
-Full Path:,vo/pyro_cloakedspyidentify01.mp3,,Scenes:,"['scenes/player/pyro/low/1438.vcd', 'scenes/player/pyro/low/1444.vcd', 'scenes/player/pyro/low/1440.vcd', 'scenes/player/pyro/low/1442.vcd', 'scenes/player/pyro/low/1448.vcd', 'scenes/player/pyro/low/1432.vcd', 'scenes/player/pyro/low/1436.vcd', 'scenes/player/pyro/low/1446.vcd']"
-Transcription:,Ah hyro ifva phy!,,Responses:,"['PlayerCloakedSpyDemomanPyro', 'PlayerCloakedSpySniperPyro', 'PlayerCloakedSpySpyPyro', 'PlayerCloakedSpyMedicPyro', 'PlayerCloakedSpyScoutPyro', 'PlayerCloakedSpyHeavyPyro', 'PlayerCloakedSpyEngineerPyro', 'PlayerCloakedSpyPyroPyro', 'RejectedDuelPyro']"
-Your Line:,,,Rules:,"['PlayerCloakedSpyDemomanPyro', 'PlayerCloakedSpySniperPyro', 'PlayerCloakedSpySpyPyro', 'PlayerCloakedSpyMedicPyro', 'PlayerCloakedSpyScoutPyro', 'PlayerCloakedSpyHeavyPyro', 'PlayerCloakedSpyEngineerPyro', 'PlayerCloakedSpyPyroPyro', 'RejectedDuelPyro']"
+Full Path:,vo/pyro_cloakedspyidentify01.mp3,,Scenes:,"['scenes/player/pyro/low/1432.vcd', 'scenes/player/pyro/low/1438.vcd', 'scenes/player/pyro/low/1440.vcd', 'scenes/player/pyro/low/1448.vcd', 'scenes/player/pyro/low/1442.vcd', 'scenes/player/pyro/low/1444.vcd', 'scenes/player/pyro/low/1446.vcd', 'scenes/player/pyro/low/1436.vcd']"
+Transcription:,Ah hyro ifva phy!,,Responses:,"['PlayerCloakedSpyMedicPyro', 'PlayerCloakedSpySniperPyro', 'PlayerCloakedSpyScoutPyro', 'PlayerCloakedSpySpyPyro', 'RejectedDuelPyro', 'PlayerCloakedSpyHeavyPyro', 'PlayerCloakedSpyPyroPyro', 'PlayerCloakedSpyDemomanPyro', 'PlayerCloakedSpyEngineerPyro']"
+Your Line:,,,Rules:,"['PlayerCloakedSpyMedicPyro', 'PlayerCloakedSpySniperPyro', 'PlayerCloakedSpyScoutPyro', 'PlayerCloakedSpySpyPyro', 'RejectedDuelPyro', 'PlayerCloakedSpyHeavyPyro', 'PlayerCloakedSpyPyroPyro', 'PlayerCloakedSpyDemomanPyro', 'PlayerCloakedSpyEngineerPyro']"
 ,,,Criteria:,"[['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnSniper'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnHeavy'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnPyro'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnMedic'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnDemoman'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnScout'], ['ConceptDuelRejected', 'IsPyro'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnSpy'], ['ConceptPlayerCloakedSpy', 'IsPyro', 'IsOnEngineer']]"
 
-Filename:,pyro_go01,,Events:,"['pyro.readycomp', 'pyro.go01', 'pyro.ready', 'pyro.readymvm']"
+Filename:,pyro_go01,,Events:,"['pyro.go01', 'pyro.ready', 'pyro.readycomp', 'pyro.readymvm']"
 Full Path:,vo/pyro_go01.mp3,,Scenes:,['scenes/player/pyro/low/1451.vcd']
 Transcription:,Gho gho gho!,,Responses:,['PlayerGoPyro']
 Your Line:,,,Rules:,['PlayerGoPyro']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsPyro']]"
 
-Filename:,pyro_goodjob01,,Events:,"['pyro.goodjob01', 'pyro.scardy_cat_b', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/pyro_goodjob01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1454.vcd']"
-Transcription:,Gvuuh jovhh.,,Responses:,"['Taunt: The Scaredy-Cat!', ""Taunt: Scorcher's Solo"", 'PlayerGoodJobPyro', 'Taunt: Roasty Toasty', 'PyroMvMLootCommon']"
-Your Line:,,,Rules:,"['PlayerGoodJobPyro', 'PyroMvMLootCommon']"
+Filename:,pyro_goodjob01,,Events:,"['pyro.scardy_cat_b', 'pyro_taunt_roasty_toasty_loop_2', 'pyro.goodjob01']"
+Full Path:,vo/pyro_goodjob01.mp3,,Scenes:,"['scenes/player/pyro/low/1454.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']"
+Transcription:,Gvuuh jovhh.,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: The Scaredy-Cat!', 'PyroMvMLootCommon', ""Taunt: Scorcher's Solo"", 'PlayerGoodJobPyro']"
+Your Line:,,,Rules:,"['PyroMvMLootCommon', 'PlayerGoodJobPyro']"
 ,,,Criteria:,"[['ConceptPlayerGoodJob', 'IsPyro'], ['ConceptMvMLootCommon', 'IsPyro', '20PercentChance']]"
 
 Filename:,pyro_headleft01,,Events:,['pyro.headleft01']
@@ -83,9 +83,9 @@ Your Line:,,,Rules:,['PlayerHeadLeftPyro']
 ,,,Criteria:,"[['ConceptPlayerLeft', 'IsPyro']]"
 
 Filename:,pyro_headright01,,Events:,['pyro.headright01']
-Full Path:,vo/pyro_headright01.mp3,,Scenes:,"['scenes/player/pyro/low/1460.vcd', 'scenes/player/pyro/low/taunt02.vcd']"
-Transcription:,OOoh la ruuh!,,Responses:,"['PlayerHeadRightPyro', 'PyroTauntSecondary', 'PyroTauntItem1']"
-Your Line:,,,Rules:,"['PyroTauntPlayerItem1', 'PlayerHeadRightPyro', 'PyroTauntSlap', 'PyroTauntGasCan', 'PyroTauntManmelter', 'PyroTauntPlayerSecondary']"
+Full Path:,vo/pyro_headright01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt02.vcd', 'scenes/player/pyro/low/1460.vcd']"
+Transcription:,OOoh la ruuh!,,Responses:,"['PyroTauntItem1', 'PlayerHeadRightPyro', 'PyroTauntSecondary']"
+Your Line:,,,Rules:,"['PyroTauntManmelter', 'PyroTauntPlayerSecondary', 'PyroTauntSlap', 'PlayerHeadRightPyro', 'PyroTauntGasCan', 'PyroTauntPlayerItem1']"
 ,,,Criteria:,"[['ConceptPlayerRight', 'IsPyro'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsShotgunPyro'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsManmelter'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsGasCan'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsSlap'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlaregun']]"
 
 Filename:,pyro_helpme01,,Events:,['pyro.helpme01']
@@ -96,14 +96,14 @@ Your Line:,,,Rules:,['PlayerHelpPyro']
 
 Filename:,pyro_helpmecapture01,,Events:,['pyro.helpmecapture01']
 Full Path:,vo/pyro_helpmecapture01.mp3,,Scenes:,['scenes/player/pyro/low/1466.vcd']
-Transcription:,Helfp ee cafpter!,,Responses:,"['PlayerHelpCapturePyro', 'RejectedDuelPyro']"
-Your Line:,,,Rules:,"['PlayerHelpCapturePyro', 'RejectedDuelPyro']"
+Transcription:,Helfp ee cafpter!,,Responses:,"['RejectedDuelPyro', 'PlayerHelpCapturePyro']"
+Your Line:,,,Rules:,"['RejectedDuelPyro', 'PlayerHelpCapturePyro']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsPyro'], ['ConceptPlayerHelp', 'IsPyro', 'IsOnCappableControlPoint', 'AppliesContext:PyroHelpCap:1:10']]"
 
 Filename:,pyro_helpmedefend01,,Events:,['pyro.helpmedefend01']
 Full Path:,vo/pyro_helpmedefend01.mp3,,Scenes:,['scenes/player/pyro/low/1469.vcd']
-Transcription:,Helfp ee defen!,,Responses:,"['PlayerHelpDefendPyro', 'RejectedDuelPyro']"
-Your Line:,,,Rules:,"['PlayerHelpDefendPyro', 'RejectedDuelPyro']"
+Transcription:,Helfp ee defen!,,Responses:,"['RejectedDuelPyro', 'PlayerHelpDefendPyro']"
+Your Line:,,,Rules:,"['RejectedDuelPyro', 'PlayerHelpDefendPyro']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsPyro'], ['ConceptPlayerHelp', 'IsPyro', 'IsOnFriendlyControlPoint']]"
 
 Filename:,pyro_incoming01,,Events:,['pyro.incoming01']
@@ -113,56 +113,56 @@ Your Line:,,,Rules:,['PlayerIncomingPyro']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsPyro']]"
 
 Filename:,pyro_jeers01,,Events:,['pyro.jeers01']
-Full Path:,vo/pyro_jeers01.mp3,,Scenes:,"['scenes/player/pyro/low/1476.vcd', 'scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd']"
-Transcription:,Bvoooh!,,Responses:,"['Taunt: The Critical Fail', 'PlayerSuddenDeathPyro', 'PlayerJeersPyro']"
+Full Path:,vo/pyro_jeers01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd', 'scenes/player/pyro/low/1476.vcd']"
+Transcription:,Bvoooh!,,Responses:,"['PlayerSuddenDeathPyro', 'Taunt: The Critical Fail', 'PlayerJeersPyro']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathPyro', 'PlayerJeersPyro']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsPyro'], ['ConceptPlayerJeers', 'IsPyro']]"
 
-Filename:,pyro_jeers02,,Events:,"['pyro_taunt_spring_rider_pyro_jeers02', 'pyro.jeers02']"
-Full Path:,vo/pyro_jeers02.mp3,,Scenes:,"['scenes/player/pyro/low/1477.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
+Filename:,pyro_jeers02,,Events:,"['pyro.jeers02', 'pyro_taunt_spring_rider_pyro_jeers02']"
+Full Path:,vo/pyro_jeers02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/player/pyro/low/1477.vcd']"
 Transcription:,Yahf fvaorarh!,,Responses:,"['Taunt: Second Rate Sorcery', 'PlayerSuddenDeathPyro', 'PlayerJeersPyro']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathPyro', 'PlayerJeersPyro']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsPyro'], ['ConceptPlayerJeers', 'IsPyro']]"
 
 Filename:,pyro_laugh_addl04,,Events:,['pyro.laugh_addl04']
 Full Path:,vo/pyro_laugh_addl04.mp3,,Scenes:,['scenes/player/pyro/low/taunt_laugh.vcd']
-Transcription:,laughs a hearty laugh,,Responses:,"['PyroTauntArmageddon', 'PyroTauntLaugh', 'Taunt: The Schadenfreude']"
-Your Line:,,,Rules:,"['PyroTauntArmageddon', 'PyroTauntAprilFools', 'PyroTauntLaugh']"
+Transcription:,laughs a hearty laugh,,Responses:,"['Taunt: The Schadenfreude', 'PyroTauntArmageddon', 'PyroTauntLaugh']"
+Your Line:,,,Rules:,"['PyroTauntAprilFools', 'PyroTauntArmageddon', 'PyroTauntLaugh']"
 ,,,Criteria:,"[['ConceptTauntLaugh', 'IsPyro'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsPyro'], ['ConceptTauntPyroArmageddon', 'IsPyro']]"
 
 Filename:,pyro_laughevil01,,Events:,['pyro.laughevil01']
-Full Path:,vo/pyro_laughevil01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/1450.vcd', 'scenes/player/pyro/low/taunt01_v3.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd']"
-Transcription:,Evil laugh,,Responses:,"['PyroTauntPrimary', 'PlayerKilledDominatingPyro', 'Taunt: Rock, Paper, Scissors']"
-Your Line:,,,Rules:,"['PlayerKilledDominatingPyro', 'PyroTauntDragonsFury', 'PyroTauntPlayerPrimary']"
+Full Path:,vo/pyro_laughevil01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt01_v3.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/1450.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd']"
+Transcription:,Evil laugh,,Responses:,"['PlayerKilledDominatingPyro', 'Taunt: Rock, Paper, Scissors', 'PyroTauntPrimary']"
+Your Line:,,,Rules:,"['PlayerKilledDominatingPyro', 'PyroTauntPlayerPrimary', 'PyroTauntDragonsFury']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsDominated', 'AppliesContext:PyroKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlamethrower'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsDragonsFury']]"
 
-Filename:,pyro_laughevil02,,Events:,"['pyro_taunt_roasty_toasty_loop_3', 'pyro_taunt_the_final_score_pyro_pyro_laughevil02', 'taunt_springrider_giggles', 'pyro.laughevil02']"
-Full Path:,vo/pyro_laughevil02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/1482.vcd']"
-Transcription:,Evil laugh,,Responses:,"['Taunt: The Final Score', 'Taunt: The Balloonibouncer', 'Taunt: Roasty Toasty', 'PyroMvmResurrected', 'PlayerKilledDominatingPyro', 'MeleeDareCombatPyro']"
-Your Line:,,,Rules:,"['PyroMvmResurrected', 'PlayerKilledDominatingPyro', 'MeleeDareCombatPyro']"
+Filename:,pyro_laughevil02,,Events:,"['taunt_springrider_giggles', 'pyro.laughevil02', 'pyro_taunt_the_final_score_pyro_pyro_laughevil02', 'pyro_taunt_roasty_toasty_loop_3']"
+Full Path:,vo/pyro_laughevil02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1482.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
+Transcription:,Evil laugh,,Responses:,"['Taunt: Roasty Toasty', 'MeleeDareCombatPyro', 'Taunt: The Balloonibouncer', 'Taunt: The Final Score', 'PlayerKilledDominatingPyro', 'PyroMvmResurrected']"
+Your Line:,,,Rules:,"['PlayerKilledDominatingPyro', 'MeleeDareCombatPyro', 'PyroMvmResurrected']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsDominated', 'AppliesContext:PyroKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsPyro', 'IsCrosshairEnemy'], ['ConceptMvMResurrected', 'IsPyro']]"
 
 Filename:,pyro_laughevil03,,Events:,"['pyro.laughevil03', 'pyro_taunt_roasty_toasty_loop_3']"
-Full Path:,vo/pyro_laughevil03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1563.vcd']"
+Full Path:,vo/pyro_laughevil03.mp3,,Scenes:,"['scenes/player/pyro/low/1563.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
 Transcription:,Evil laugh,,Responses:,"['Taunt: Roasty Toasty', 'PlayerTauntsPyro']"
 Your Line:,,,Rules:,['PlayerPositivePyro']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsPyro']]"
 
-Filename:,pyro_laughevil04,,Events:,"['pyro.laughevil04', 'pyro_taunt_roasty_toasty_outro', 'pyro_taunt_roasty_toasty_pyro_laughevil04', 'taunt_springrider_giggles']"
-Full Path:,vo/pyro_laughevil04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/1595.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd']"
-Transcription:,Evil laugh 2,,Responses:,"['Taunt: The Fist Bump', 'Taunt: The Balloonibouncer', 'Taunt: Cremators Condolences', 'PlayerTauntsPyro', 'PyroMvmResurrected', 'Taunt: Roasty Toasty']"
-Your Line:,,,Rules:,"['PyroMvmResurrected', 'PlayerPositivePyro']"
+Filename:,pyro_laughevil04,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_roasty_toasty_outro', 'pyro_taunt_roasty_toasty_pyro_laughevil04', 'pyro.laughevil04']"
+Full Path:,vo/pyro_laughevil04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/1595.vcd', 'scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd']"
+Transcription:,Evil laugh 2,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: The Balloonibouncer', 'PlayerTauntsPyro', 'Taunt: The Fist Bump', 'Taunt: Cremators Condolences', 'PyroMvmResurrected']"
+Your Line:,,,Rules:,"['PlayerPositivePyro', 'PyroMvmResurrected']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsPyro'], ['ConceptMvMResurrected', 'IsPyro']]"
 
 Filename:,pyro_laughhappy01,,Events:,['pyro.laughhappy01']
 Full Path:,vo/pyro_laughhappy01.mp3,,Scenes:,['scenes/player/pyro/low/1483.vcd']
-Transcription:,Happy laugh,,Responses:,"['PyroMvMLootUltraRare', 'PlayerKilledDominatingPyro']"
-Your Line:,,,Rules:,"['PyroMvMLootUltraRare', 'PlayerKilledDominatingPyro']"
+Transcription:,Happy laugh,,Responses:,"['PlayerKilledDominatingPyro', 'PyroMvMLootUltraRare']"
+Your Line:,,,Rules:,"['PlayerKilledDominatingPyro', 'PyroMvMLootUltraRare']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsDominated', 'AppliesContext:PyroKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptMvMLootUltraRare', 'IsPyro']]"
 
-Filename:,pyro_laughlong01,,Events:,"['pyro_taunt_flag', 'pyro.laughlong01', 'taunt_springrider_giggles']"
+Filename:,pyro_laughlong01,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_flag', 'pyro.laughlong01']"
 Full Path:,vo/pyro_laughlong01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/1485.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
-Transcription:,Long laugh,,Responses:,"['InvulnerableSpeechPyro', 'PlayerKilledDominatingPyro', 'Taunt: Flying Colors', 'Taunt: The Balloonibouncer']"
+Transcription:,Long laugh,,Responses:,"['PlayerKilledDominatingPyro', 'Taunt: The Balloonibouncer', 'Taunt: Flying Colors', 'InvulnerableSpeechPyro']"
 Your Line:,,,Rules:,"['PlayerKilledDominatingPyro', 'InvulnerableSpeechPyro']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsPyro', 'IsInvulnerable', 'PyroNotInvulnerableSpeech', 'AppliesContext:PyroInvulnerableSpeech:1:30'], ['ConceptKilledPlayer', 'IsPyro', 'IsDominated', 'AppliesContext:PyroKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -202,13 +202,13 @@ Transcription:,Phudda Teddapudda heah!,,Responses:,['PlayerTeleporterHerePyro']
 Your Line:,,,Rules:,['PlayerTeleporterHerePyro']
 ,,,Criteria:,"[['ConceptPlayerTeleporterHere', 'IsPyro']]"
 
-Filename:,pyro_negativevocalization01,,Events:,"['pyro.scardy_cat_b', 'pyro_taunt_neck_snap_04', 'pyro.negativevocalization01', 'taunt_burstchester_pyro_happy']"
-Full Path:,vo/pyro_negativevocalization01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1499.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']"
-Transcription:,Eeuaghafvada...,,Responses:,"['Taunt: Burstchester', 'PlayerNegativePyro', 'Taunt: The Scaredy-Cat!', 'Taunt: Neck Snap', 'Taunt: The Critical Fail', 'Taunt: Unleashed Rage', 'PlayerLostPointPyro', 'MeleeDarePyro']"
+Filename:,pyro_negativevocalization01,,Events:,"['pyro_taunt_neck_snap_04', 'taunt_burstchester_pyro_happy', 'pyro.scardy_cat_b', 'pyro.negativevocalization01']"
+Full Path:,vo/pyro_negativevocalization01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1499.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']"
+Transcription:,Eeuaghafvada...,,Responses:,"['PlayerLostPointPyro', 'Taunt: The Scaredy-Cat!', 'Taunt: The Critical Fail', 'Taunt: Neck Snap', 'Taunt: Unleashed Rage', 'Taunt: Burstchester', 'MeleeDarePyro', 'PlayerNegativePyro']"
 Your Line:,,,Rules:,"['PlayerLostPointPyro', 'MeleeDarePyro', 'PlayerNegativePyro']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsPyro'], ['ConceptPlayerLostPoint', 'IsPyro'], ['ConceptPlayerNegative', 'IsPyro']]"
 
-Filename:,pyro_niceshot01,,Events:,"['pyro.niceshot01', 'pyro_taunt_roasty_toasty_loop_2']"
+Filename:,pyro_niceshot01,,Events:,"['pyro_taunt_roasty_toasty_loop_2', 'pyro.niceshot01']"
 Full Path:,vo/pyro_niceshot01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1504.vcd']"
 Transcription:,Phice fah.,,Responses:,"['Taunt: Roasty Toasty', 'PlayerNiceShotPyro']"
 Your Line:,,,Rules:,['PlayerNiceShotPyro']
@@ -220,13 +220,13 @@ Transcription:,Nho.,,Responses:,['PlayerNoPyro']
 Your Line:,,,Rules:,['PlayerNoPyro']
 ,,,Criteria:,"[['ConceptPlayerNo', 'IsPyro']]"
 
-Filename:,pyro_paincrticialdeath01,,Events:,"['pyro.critdeath', 'pyro.meleedeath', 'pyro.paincrticialdeath01', 'pyro.scardy_cat', 'mvm.playerdiedpyro']"
-Full Path:,vo/pyro_paincrticialdeath01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/player/pyro/low/taunt01_v1.vcd']"
-Transcription:,(Muffled dying scream 1),,Responses:,"['PyroTauntPrimary', 'Taunt: The Scaredy-Cat!']"
-Your Line:,,,Rules:,"['PyroTauntDragonsFury', 'PyroTauntPlayerPrimary']"
+Filename:,pyro_paincrticialdeath01,,Events:,"['pyro.paincrticialdeath01', 'pyro.critdeath', 'pyro.meleedeath', 'pyro.scardy_cat', 'mvm.playerdiedpyro']"
+Full Path:,vo/pyro_paincrticialdeath01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt01_v1.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']"
+Transcription:,(Muffled dying scream 1),,Responses:,"['Taunt: The Scaredy-Cat!', 'PyroTauntPrimary']"
+Your Line:,,,Rules:,"['PyroTauntPlayerPrimary', 'PyroTauntDragonsFury']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlamethrower'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsDragonsFury']]"
 
-Filename:,pyro_paincrticialdeath02,,Events:,"['pyro.critdeath', 'pyro.meleedeath', 'pyro.scardy_cat', 'pyro.paincrticialdeath02', 'mvm.playerdiedpyro']"
+Filename:,pyro_paincrticialdeath02,,Events:,"['pyro.critdeath', 'pyro.meleedeath', 'pyro.paincrticialdeath02', 'pyro.scardy_cat', 'mvm.playerdiedpyro']"
 Full Path:,vo/pyro_paincrticialdeath02.mp3,,Scenes:,['scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']
 Transcription:,(Muffled dying scream 2),,Responses:,['Taunt: The Scaredy-Cat!']
 Your Line:,,,Rules:,[]
@@ -234,29 +234,29 @@ Your Line:,,,Rules:,[]
 
 Filename:,pyro_paincrticialdeath03,,Events:,"['pyro.critdeath', 'pyro.meleedeath', 'pyro.scardy_cat', 'pyro.paincrticialdeath03', 'mvm.playerdiedpyro']"
 Full Path:,vo/pyro_paincrticialdeath03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd', 'scenes/player/pyro/low/taunt01_v2.vcd']"
-Transcription:,(Muffled dying scream 3),,Responses:,"['PyroTauntPrimary', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
-Your Line:,,,Rules:,"['PyroTauntDragonsFury', 'PyroTauntPlayerPrimary']"
+Transcription:,(Muffled dying scream 3),,Responses:,"['Taunt: The Scaredy-Cat!', 'PyroTauntPrimary', 'Taunt: Unleashed Rage']"
+Your Line:,,,Rules:,"['PyroTauntPlayerPrimary', 'PyroTauntDragonsFury']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlamethrower'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsDragonsFury']]"
 
 Filename:,pyro_painsevere01,,Events:,"['pyro.death', 'pyro.painsevere01']"
-Full Path:,vo/pyro_painsevere01.mp3,,Scenes:,"['scenes/player/pyro/low/1581.vcd', 'scenes/player/pyro/low/taunt02.vcd']"
-Transcription:,Aaah!,,Responses:,"['PlayerAttackerPainPyro', 'PyroTauntSecondary', 'PyroTauntItem1']"
-Your Line:,,,Rules:,"['PyroTauntPlayerItem1', 'PyroTauntSlap', 'PyroTauntGasCan', 'PyroTauntManmelter', 'PlayerAttackerPainPyro', 'PyroTauntPlayerSecondary']"
+Full Path:,vo/pyro_painsevere01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt02.vcd', 'scenes/player/pyro/low/1581.vcd']"
+Transcription:,Aaah!,,Responses:,"['PyroTauntItem1', 'PlayerAttackerPainPyro', 'PyroTauntSecondary']"
+Your Line:,,,Rules:,"['PyroTauntManmelter', 'PyroTauntPlayerSecondary', 'PyroTauntSlap', 'PlayerAttackerPainPyro', 'PyroTauntGasCan', 'PyroTauntPlayerItem1']"
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsShotgunPyro'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsManmelter'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsGasCan'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsSlap'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlaregun']]"
 
-Filename:,pyro_painsevere02,,Events:,"['pyro.death', 'pyro.painsevere02']"
+Filename:,pyro_painsevere02,,Events:,"['pyro.painsevere02', 'pyro.death']"
 Full Path:,vo/pyro_painsevere02.mp3,,Scenes:,['scenes/player/pyro/low/1582.vcd']
 Transcription:,[*Whimper*],,Responses:,['PlayerAttackerPainPyro']
 Your Line:,,,Rules:,['PlayerAttackerPainPyro']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_painsevere03,,Events:,"['pyro.death', 'pyro.painsevere03']"
+Filename:,pyro_painsevere03,,Events:,"['pyro.painsevere03', 'pyro.death']"
 Full Path:,vo/pyro_painsevere03.mp3,,Scenes:,['scenes/player/pyro/low/1583.vcd']
 Transcription:,Agh!,,Responses:,['PlayerAttackerPainPyro']
 Your Line:,,,Rules:,['PlayerAttackerPainPyro']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_painsevere04,,Events:,"['pyro.death', 'pyro.painsevere04']"
+Filename:,pyro_painsevere04,,Events:,"['pyro.painsevere04', 'pyro.death']"
 Full Path:,vo/pyro_painsevere04.mp3,,Scenes:,['scenes/player/pyro/low/1591.vcd']
 Transcription:,Ungh!,,Responses:,['PlayerAttackerPainPyro']
 Your Line:,,,Rules:,['PlayerAttackerPainPyro']
@@ -268,58 +268,58 @@ Transcription:,Ah!,,Responses:,['PlayerAttackerPainPyro']
 Your Line:,,,Rules:,['PlayerAttackerPainPyro']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_painsevere06,,Events:,"['pyro.death', 'pyro.painsevere06']"
+Filename:,pyro_painsevere06,,Events:,"['pyro.painsevere06', 'pyro.death']"
 Full Path:,vo/pyro_painsevere06.mp3,,Scenes:,['scenes/player/pyro/low/1593.vcd']
 Transcription:,Unh!,,Responses:,['PlayerAttackerPainPyro']
 Your Line:,,,Rules:,['PlayerAttackerPainPyro']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating']]"
 
 Filename:,pyro_painsharp01,,Events:,"['pyro.painsharp01', 'pyro.explosiondeath', 'taunt_burstchester_pyro_pain']"
-Full Path:,vo/pyro_painsharp01.mp3,,Scenes:,"['scenes/player/pyro/low/1930.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd', 'scenes/player/pyro/low/1584.vcd']"
-Transcription:,Oof!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro', 'PlayerStillOnFirePyro', 'Taunt: The Hot Wheeler']"
+Full Path:,vo/pyro_painsharp01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd', 'scenes/player/pyro/low/1584.vcd', 'scenes/player/pyro/low/1930.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,Oof!,,Responses:,"['PlayerPainPyro', 'Taunt: The Hot Wheeler', 'PlayerStillOnFirePyro', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerPainPyro', 'PlayerStillOnFirePyro']"
 ,,,Criteria:,"[['ConceptFire', 'IsPyro', 'PyroIsStillonFire', 'IsNotDominating', 'AppliesContext:PyroOnFire:1:7'], ['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_painsharp02,,Events:,"['pyro.explosiondeath', 'pyro.painsharp02', 'taunt_burstchester_pyro_pain']"
-Full Path:,vo/pyro_painsharp02.mp3,,Scenes:,"['scenes/player/pyro/low/1930.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1585.vcd']"
-Transcription:,Ah!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro', 'PlayerStillOnFirePyro']"
+Filename:,pyro_painsharp02,,Events:,"['pyro.painsharp02', 'pyro.explosiondeath', 'taunt_burstchester_pyro_pain']"
+Full Path:,vo/pyro_painsharp02.mp3,,Scenes:,"['scenes/player/pyro/low/1585.vcd', 'scenes/player/pyro/low/1930.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,Ah!,,Responses:,"['PlayerPainPyro', 'PlayerStillOnFirePyro', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerPainPyro', 'PlayerStillOnFirePyro']"
 ,,,Criteria:,"[['ConceptPain', 'IsPyro', 'IsNotDominating'], ['ConceptFire', 'IsPyro', 'PyroIsStillonFire', 'IsNotDominating', 'AppliesContext:PyroOnFire:1:7']]"
 
-Filename:,pyro_painsharp03,,Events:,"['pyro_taunt_neck_snap_02', 'pyro.explosiondeath', 'pyro.painsharp03', 'taunt_burstchester_pyro_pain']"
-Full Path:,vo/pyro_painsharp03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/player/pyro/low/1586.vcd']"
-Transcription:,Ow!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro', 'Taunt: Neck Snap']"
+Filename:,pyro_painsharp03,,Events:,"['pyro.painsharp03', 'pyro.explosiondeath', 'pyro_taunt_neck_snap_02', 'taunt_burstchester_pyro_pain']"
+Full Path:,vo/pyro_painsharp03.mp3,,Scenes:,"['scenes/player/pyro/low/1586.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd']"
+Transcription:,Ow!,,Responses:,"['PlayerPainPyro', 'Taunt: Neck Snap', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainPyro']
 ,,,Criteria:,"[['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
 Filename:,pyro_painsharp04,,Events:,"['pyro.explosiondeath', 'pyro.painsharp04', 'pyro_taunt_neck_snap_03', 'taunt_burstchester_pyro_pain']"
 Full Path:,vo/pyro_painsharp04.mp3,,Scenes:,"['scenes/player/pyro/low/1587.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd']"
-Transcription:,Uh!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro', 'Taunt: Neck Snap']"
+Transcription:,Uh!,,Responses:,"['PlayerPainPyro', 'Taunt: Neck Snap', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainPyro']
 ,,,Criteria:,"[['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
 Filename:,pyro_painsharp05,,Events:,"['pyro.explosiondeath', 'pyro.painsharp05', 'taunt_burstchester_pyro_pain']"
-Full Path:,vo/pyro_painsharp05.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1588.vcd']"
-Transcription:,Uf!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro']"
+Full Path:,vo/pyro_painsharp05.mp3,,Scenes:,"['scenes/player/pyro/low/1588.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,Uf!,,Responses:,"['PlayerPainPyro', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainPyro']
 ,,,Criteria:,"[['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_painsharp06,,Events:,"['pyro.explosiondeath', 'pyro.painsharp06', 'taunt_burstchester_pyro_pain']"
+Filename:,pyro_painsharp06,,Events:,"['taunt_burstchester_pyro_pain', 'pyro.explosiondeath', 'pyro.painsharp06']"
 Full Path:,vo/pyro_painsharp06.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1589.vcd']"
-Transcription:,Arg!,,Responses:,"['Taunt: Burstchester', 'PlayerPainPyro']"
+Transcription:,Arg!,,Responses:,"['PlayerPainPyro', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainPyro']
 ,,,Criteria:,"[['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
 Filename:,pyro_painsharp07,,Events:,"['pyro.painsharp07', 'pyro.explosiondeath', 'taunt_burstchester_pyro_pain']"
-Full Path:,vo/pyro_painsharp07.mp3,,Scenes:,"['scenes/player/pyro/low/1930.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/1590.vcd', 'scenes/workshop/player/pyro/low/taunt_cheers.vcd']"
-Transcription:,Ungh!,,Responses:,"['Taunt: Burstchester', 'Taunt: Cheers!', 'PlayerPainPyro', 'PlayerStillOnFirePyro']"
+Full Path:,vo/pyro_painsharp07.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_cheers.vcd', 'scenes/player/pyro/low/1930.vcd', 'scenes/player/pyro/low/1590.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,Ungh!,,Responses:,"['PlayerPainPyro', 'Taunt: Cheers!', 'PlayerStillOnFirePyro', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerPainPyro', 'PlayerStillOnFirePyro']"
 ,,,Criteria:,"[['ConceptFire', 'IsPyro', 'PyroIsStillonFire', 'IsNotDominating', 'AppliesContext:PyroOnFire:1:7'], ['ConceptPain', 'IsPyro', 'IsNotDominating']]"
 
-Filename:,pyro_positivevocalization01,,Events:,"['taunt.skating_scorcher_trick', 'pyro.positivevocalization01', 'taunt_springrider_intro', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/pyro_positivevocalization01.mp3,,Scenes:,"['scenes/player/pyro/low/1510.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_russian.vcd']"
-Transcription:,Exfellend!,,Responses:,"['Taunt: Kazotsky Kick', 'PyroMvMLootRare', 'PlayerPositivePyro', 'Taunt: The Balloonibouncer', 'Taunt: Roasty Toasty']"
-Your Line:,,,Rules:,"['PyroMvMLootRare', 'PlayerPositivePyro']"
+Filename:,pyro_positivevocalization01,,Events:,"['pyro_taunt_roasty_toasty_loop_2', 'taunt.skating_scorcher_trick', 'taunt_springrider_intro', 'pyro.positivevocalization01']"
+Full Path:,vo/pyro_positivevocalization01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/1510.vcd']"
+Transcription:,Exfellend!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Kazotsky Kick', 'Taunt: The Balloonibouncer', 'PlayerPositivePyro', 'PyroMvMLootRare']"
+Your Line:,,,Rules:,"['PlayerPositivePyro', 'PyroMvMLootRare']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsPyro'], ['ConceptMvMLootRare', 'IsPyro']]"
 
 Filename:,pyro_sentryahead01,,Events:,['pyro.sentryahead01']
@@ -330,8 +330,8 @@ Your Line:,,,Rules:,['PlayerSentryAheadPyro']
 
 Filename:,pyro_specialcompleted-assistedkill01,,Events:,['pyro.specialcompleted-assistedkill01']
 Full Path:,vo/pyro_specialcompleted-assistedkill01.mp3,,Scenes:,['scenes/player/pyro/low/1529.vcd']
-Transcription:,Mmph mphna mprh.,,Responses:,"['KilledPlayerAssistAutoPyro', 'MeleeDarePyro', 'KilledPlayerAssistPyro']"
-Your Line:,,,Rules:,"['KilledPlayerAssistAutoPyro', 'MeleeDarePyro', 'KilledPlayerAssistPyro']"
+Transcription:,Mmph mphna mprh.,,Responses:,"['KilledPlayerAssistPyro', 'KilledPlayerAssistAutoPyro', 'MeleeDarePyro']"
+Your Line:,,,Rules:,"['KilledPlayerAssistPyro', 'KilledPlayerAssistAutoPyro', 'MeleeDarePyro']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsBeingHealed', 'IsManyRecentKills', 'KilledPlayerDelay', '20PercentChance', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20'], ['ConceptRequestDuel', 'IsPyro'], ['ConceptPlayerThanks', 'IsPyro', 'IsARecentKill', 'KilledPlayerDelay', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20']]"
 
 Filename:,pyro_specialcompleted01,,Events:,['pyro.specialcompleted01']
@@ -342,42 +342,42 @@ Your Line:,,,Rules:,"['MeleeDareCombatPyro', 'InvulnerableSpeechPyro']"
 
 Filename:,pyro_standonthepoint01,,Events:,['pyro.standonthepoint01']
 Full Path:,vo/pyro_standonthepoint01.mp3,,Scenes:,['scenes/player/pyro/low/1531.vcd']
-Transcription:,Mrh! Hrt hr nha phrnt yrh mrprph!,,Responses:,"['DefendOnThePointPyro', 'PlayerHelpCapture2Pyro']"
-Your Line:,,,Rules:,"['DefendOnThePointPyro', 'PlayerHelpCapture2Pyro']"
+Transcription:,Mrh! Hrt hr nha phrnt yrh mrprph!,,Responses:,"['PlayerHelpCapture2Pyro', 'DefendOnThePointPyro']"
+Your Line:,,,Rules:,"['PlayerHelpCapture2Pyro', 'DefendOnThePointPyro']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsPyro', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsPyro', 'IsOnCappableControlPoint', 'IsHelpCapPyro']]"
 
-Filename:,pyro_thanks01,,Events:,"['pyro.thanks01', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/pyro_thanks01.mp3,,Scenes:,"['scenes/player/pyro/low/1550.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
-Transcription:,Fink fhu.,,Responses:,"['PlayerThanksPyro', 'Taunt: Roasty Toasty', 'AcceptedDuelPyro']"
+Filename:,pyro_thanks01,,Events:,"['pyro_taunt_roasty_toasty_loop_2', 'pyro.thanks01']"
+Full Path:,vo/pyro_thanks01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1550.vcd']"
+Transcription:,Fink fhu.,,Responses:,"['Taunt: Roasty Toasty', 'PlayerThanksPyro', 'AcceptedDuelPyro']"
 Your Line:,,,Rules:,"['PlayerThanksPyro', 'AcceptedDuelPyro']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsPyro'], ['ConceptPlayerThanks', 'IsPyro']]"
 
 Filename:,pyro_thanksfortheheal01,,Events:,['pyro.thanksfortheheal01']
 Full Path:,vo/pyro_thanksfortheheal01.mp3,,Scenes:,['scenes/player/pyro/low/1552.vcd']
-Transcription:,Mhnk nhya mhph.,,Responses:,"['MeleeDarePyro', 'HealThanksPyro']"
-Your Line:,,,Rules:,"['MeleeDarePyro', 'HealThanksPyro']"
+Transcription:,Mhnk nhya mhph.,,Responses:,"['HealThanksPyro', 'MeleeDarePyro']"
+Your Line:,,,Rules:,"['HealThanksPyro', 'MeleeDarePyro']"
 ,,,Criteria:,"[['ConceptMedicChargeStopped', 'IsPyro', 'SuperHighHealthContext', 'PyroNotSaidHealThanks', '50PercentChance', 'AppliesContext:PyroSaidHealThanks:1:20'], ['ConceptRequestDuel', 'IsPyro']]"
 
 Filename:,pyro_thanksfortheteleporter01,,Events:,['pyro.thanksfortheteleporter01']
 Full Path:,vo/pyro_thanksfortheteleporter01.mp3,,Scenes:,['scenes/player/pyro/low/1555.vcd']
-Transcription:,Mmphn frphha herrpha.,,Responses:,"['MeleeDarePyro', 'PlayerTeleporterThanksPyro']"
-Your Line:,,,Rules:,"['MeleeDarePyro', 'PlayerTeleporterThanksPyro']"
+Transcription:,Mmphn frphha herrpha.,,Responses:,"['PlayerTeleporterThanksPyro', 'MeleeDarePyro']"
+Your Line:,,,Rules:,"['PlayerTeleporterThanksPyro', 'MeleeDarePyro']"
 ,,,Criteria:,"[['ConceptTeleported', 'IsNotEngineer', 'IsPyro', '30PercentChance'], ['ConceptRequestDuel', 'IsPyro']]"
 
-Filename:,pyro_yes01,,Events:,"['pyro.yes01', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/pyro_yes01.mp3,,Scenes:,"['scenes/player/pyro/low/1558.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
-Transcription:,Uh-huh.,,Responses:,"['PlayerYesPyro', 'Taunt: Roasty Toasty']"
+Filename:,pyro_yes01,,Events:,"['pyro_taunt_roasty_toasty_loop_2', 'pyro.yes01']"
+Full Path:,vo/pyro_yes01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/1558.vcd']"
+Transcription:,Uh-huh.,,Responses:,"['Taunt: Roasty Toasty', 'PlayerYesPyro']"
 Your Line:,,,Rules:,['PlayerYesPyro']
 ,,,Criteria:,"[['ConceptPlayerYes', 'IsPyro']]"
 
 Filename:,pyro_highfive01,,Events:,"['pyro.highfive01', 'taunt_killer_joke_pyro']"
 Full Path:,vo/taunts/pyro_highfive01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/player/pyro/low/taunt_hi5_start.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd']"
-Transcription:,Hit me!,,Responses:,"['Taunt: The High Five!', 'Taunt: Killer Joke']"
+Transcription:,Hit me!,,Responses:,"['Taunt: Killer Joke', 'Taunt: The High Five!']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_highfive02,,Events:,"['taunt_killer_joke_pyro', 'pyro.highfive02']"
-Full Path:,vo/taunts/pyro_highfive02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd']"
+Filename:,pyro_highfive02,,Events:,"['pyro.highfive02', 'taunt_killer_joke_pyro']"
+Full Path:,vo/taunts/pyro_highfive02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd']"
 Transcription:,Huddah!,,Responses:,"['Taunt: Killer Joke', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -389,13 +389,13 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_highfive_success02,,Events:,"['pyro.highfivesuccess02', 'taunt_springrider_intro']"
-Full Path:,vo/taunts/pyro_highfive_success02.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_highfivesuccess.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_hi5_b.vcd']"
-Transcription:,"*Laugh* ""Hueh.""",,Responses:,"['Taunt: The Hot Wheeler', 'PlayerTaunt2_TestTauntEnabler_IsDemoman', 'PlayerTaunt2_TestTauntEnabler_IsSoldier', 'SoldierShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsEngineer', 'PlayerTaunt2_TestTauntEnabler_IsScout', 'PlayerTaunt2_TestTauntEnabler_IsSpy', 'SniperShowItemTauntResponse', 'SpyShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsMedic', 'Taunt: The High Five!', 'PlayerTaunt2_TestTauntEnabler_IsPyro', 'Taunt: The Balloonibouncer', 'DemomanShowItemTauntResponse', 'MedicShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsHeavy', 'PyroShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsSniper', 'ScoutShowItemTauntResponse']"
-Your Line:,,,Rules:,"['PyroShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsMedic', 'PlayerTaunt2_TestTauntEnabler_IsPyro', 'PlayerTaunt2_TestTauntEnabler_IsEngineer', 'DemomanShowItemTaunt', 'MedicShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsSpy', 'ScoutShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsScout', 'PlayerTaunt2_TestTauntEnabler_IsDemoman', 'PlayerTaunt2_TestTauntEnabler_IsSoldier', 'PlayerTaunt2_TestTauntEnabler_IsHeavy', 'SpyShowItemTaunt', 'SniperShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsSniper', 'SoldierShowItemTaunt']"
+Full Path:,vo/taunts/pyro_highfive_success02.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_hi5_b.vcd', 'scenes/player/pyro/low/taunt_highfivesuccess.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
+Transcription:,"*Laugh* ""Hueh.""",,Responses:,"['MedicShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsSoldier', 'PlayerTaunt2_TestTauntEnabler_IsSniper', 'SniperShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsPyro', 'SpyShowItemTauntResponse', 'Taunt: The Hot Wheeler', 'PlayerTaunt2_TestTauntEnabler_IsEngineer', 'Taunt: The Balloonibouncer', 'Taunt: The High Five!', 'PlayerTaunt2_TestTauntEnabler_IsHeavy', 'PlayerTaunt2_TestTauntEnabler_IsDemoman', 'SoldierShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsScout', 'DemomanShowItemTauntResponse', 'PyroShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsMedic', 'ScoutShowItemTauntResponse', 'PlayerTaunt2_TestTauntEnabler_IsSpy']"
+Your Line:,,,Rules:,"['PlayerTaunt2_TestTauntEnabler_IsScout', 'PlayerTaunt2_TestTauntEnabler_IsSpy', 'ScoutShowItemTaunt', 'SoldierShowItemTaunt', 'DemomanShowItemTaunt', 'MedicShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsMedic', 'PlayerTaunt2_TestTauntEnabler_IsPyro', 'PyroShowItemTaunt', 'SpyShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsHeavy', 'SniperShowItemTaunt', 'PlayerTaunt2_TestTauntEnabler_IsSoldier', 'PlayerTaunt2_TestTauntEnabler_IsSniper', 'PlayerTaunt2_TestTauntEnabler_IsDemoman', 'PlayerTaunt2_TestTauntEnabler_IsEngineer']"
 ,,,Criteria:,"[['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsScout'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsSniper'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsSoldier'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsDemoman'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsMedic'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsHeavy'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsPyro'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsSpy'], ['ConceptPlayerTaunt2', 'HasTaunt2Item_TauntEnablerTest', 'IsEngineer'], ['ConceptPlayerShowItemTaunt', 'IsScout'], ['ConceptPlayerShowItemTaunt', 'IsSniper'], ['ConceptPlayerShowItemTaunt', 'IsSoldier'], ['ConceptPlayerShowItemTaunt', 'IsDemoman'], ['ConceptPlayerShowItemTaunt', 'IsMedic'], ['ConceptPlayerShowItemTaunt', 'IsPyro'], ['ConceptPlayerShowItemTaunt', 'IsSpy']]"
 
-Filename:,pyro_highfive_success03,,Events:,"['pyro_taunt_roasty_toasty_outro', 'pyro.highfivesuccess03', 'taunt_springrider_intro', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro_highfive_success03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_hi5_a.vcd']"
+Filename:,pyro_highfive_success03,,Events:,"['pyro.highfivesuccess03', 'pyro_taunt_roasty_toasty_outro', 'taunt_springrider_intro', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro_highfive_success03.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_hi5_a.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd']"
 Transcription:,*Gleeful laugh*,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: The High Five!', 'Taunt: The Balloonibouncer']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -450,79 +450,79 @@ Your Line:,,,Rules:,[]
 
 Filename:,pyro_taunt_ballon_11,,Events:,"['pyro_taunt_partytrick_4_laugh', 'taunt_springrider_giggles']"
 Full Path:,vo/taunts/pyro/pyro_taunt_ballon_11.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[maniacal laughter,,Responses:,"['Taunt: Party Trick', 'Taunt: The Balloonibouncer']"
+Transcription:,[maniacal laughter,,Responses:,"['Taunt: The Balloonibouncer', 'Taunt: Party Trick']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap1,,Events:,"['pyro_taunt_partytrick_5_clap', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap1']"
+Filename:,pyro_taunt_clap1,,Events:,"['pyro_taunt_the_final_score_pyro_pyro_taunt_clap1', 'pyro_taunt_partytrick_5_clap']"
 Full Path:,vo/taunts/pyro/pyro_taunt_clap1.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: Mannrobics', 'Taunt: The Final Score']"
+Transcription:,[clap,,Responses:,"['Taunt: Mannrobics', 'Taunt: Party Trick', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap2,,Events:,"['pyro_taunt_roasty_toasty_pyro_taunt_clap2', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap2', 'pyro_taunt_partytrick_6_clap']"
-Full Path:,vo/taunts/pyro/pyro_taunt_clap2.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: Roasty Toasty', 'Taunt: The Fist Bump', 'Taunt: The Final Score']"
+Filename:,pyro_taunt_clap2,,Events:,"['pyro_taunt_partytrick_6_clap', 'pyro_taunt_roasty_toasty_pyro_taunt_clap2', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap2']"
+Full Path:,vo/taunts/pyro/pyro_taunt_clap2.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[clap,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: The Fist Bump', 'Taunt: Party Trick', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap3,,Events:,"['scout_taunt_the_homerunners_hobby_pyro_taunt_clap3', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap3', 'pyro_taunt_partytrick_6_clap']"
-Full Path:,vo/taunts/pyro/pyro_taunt_clap3.mp3,,Scenes:,"['scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', ""Taunt: The Homerunner's Hobby"", 'Taunt: The Fist Bump', 'Taunt: The Final Score']"
+Filename:,pyro_taunt_clap3,,Events:,"['pyro_taunt_partytrick_6_clap', 'scout_taunt_the_homerunners_hobby_pyro_taunt_clap3', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap3']"
+Full Path:,vo/taunts/pyro/pyro_taunt_clap3.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[clap,,Responses:,"['Taunt: The Fist Bump', ""Taunt: The Homerunner's Hobby"", 'Taunt: Party Trick', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap4,,Events:,"['pyro_taunt_roasty_toasty_pyro_taunt_clap4', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap4', 'pyro_taunt_partytrick_7_clap']"
-Full Path:,vo/taunts/pyro/pyro_taunt_clap4.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: Roasty Toasty', 'Taunt: The Final Score', 'Taunt: Mourning Mercs']"
+Filename:,pyro_taunt_clap4,,Events:,"['pyro_taunt_partytrick_7_clap', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap4', 'pyro_taunt_roasty_toasty_pyro_taunt_clap4']"
+Full Path:,vo/taunts/pyro/pyro_taunt_clap4.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[clap,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Mourning Mercs', 'Taunt: Party Trick', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap5,,Events:,"['pyro_taunt_the_final_score_pyro_pyro_taunt_clap5', 'pyro_taunt_partytrick_7_clap']"
+Filename:,pyro_taunt_clap5,,Events:,"['pyro_taunt_partytrick_7_clap', 'pyro_taunt_the_final_score_pyro_pyro_taunt_clap5']"
 Full Path:,vo/taunts/pyro/pyro_taunt_clap5.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: The Final Score', 'Taunt: Mourning Mercs']"
+Transcription:,[clap,,Responses:,"['Taunt: Mourning Mercs', 'Taunt: Party Trick', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap6,,Events:,"['pyro_taunt_partytrick_8_clap', 'pyro_taunt_roasty_toasty_pyro_taunt_clap6']"
-Full Path:,vo/taunts/pyro/pyro_taunt_clap6.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: Roasty Toasty', 'Taunt: The Fist Bump', 'Taunt: Mourning Mercs']"
+Filename:,pyro_taunt_clap6,,Events:,"['pyro_taunt_roasty_toasty_pyro_taunt_clap6', 'pyro_taunt_partytrick_8_clap']"
+Full Path:,vo/taunts/pyro/pyro_taunt_clap6.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[clap,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Mourning Mercs', 'Taunt: The Fist Bump', 'Taunt: Party Trick']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_clap7,,Events:,"['pyro_taunt_partytrick_8_clap', 'pyro_taunt_roasty_toasty_pyro_taunt_clap7']"
-Full Path:,vo/taunts/pyro/pyro_taunt_clap7.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[clap,,Responses:,"['Taunt: Party Trick', 'Taunt: Roasty Toasty', 'Taunt: The Fist Bump', 'Taunt: Mourning Mercs']"
+Filename:,pyro_taunt_clap7,,Events:,"['pyro_taunt_roasty_toasty_pyro_taunt_clap7', 'pyro_taunt_partytrick_8_clap']"
+Full Path:,vo/taunts/pyro/pyro_taunt_clap7.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[clap,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Mourning Mercs', 'Taunt: The Fist Bump', 'Taunt: Party Trick']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_cong_fun_05,,Events:,"['taunt_burstchester_pyro_happy', 'taunt.bearhug_pyro_b', 'pyro_taunt_partytrick_3_giggle', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
-Transcription:,[amused laughter,,Responses:,"['Taunt: Burstchester', 'Taunt: Party Trick', 'Taunt: Bear Hug']"
+Filename:,pyro_taunt_cong_fun_05,,Events:,"['pyro_taunt_partytrick_3_giggle', 'taunt_burstchester_pyro_happy', 'taunt.bearhug_pyro_b', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_bear_hug.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/taunt_party_trick.vcd']"
+Transcription:,[amused laughter,,Responses:,"['Taunt: Bear Hug', 'Taunt: Party Trick', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_cong_fun_08,,Events:,"['pyro_taunt_conga_random_fun1', 'taunt_springrider_giggles', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
-Transcription:,[gleeful laughter,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Balloonibouncer']"
+Filename:,pyro_taunt_cong_fun_08,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_conga_random_fun1', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[gleeful laughter,,Responses:,"['Taunt: Mannrobics', 'Taunt: The Balloonibouncer', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_cong_fun_09,,Events:,"['pyro_taunt_conga_random_fun1', 'pyro_taunt_conga_random_fun3']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd']"
-Transcription:,[cheerful humming,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[cheerful humming,,Responses:,"['Taunt: Mannrobics', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_cong_fun_10,,Events:,"['pyro_taunt_conga_random_fun1', 'pyro_taunt_conga_random_fun3', 'pyro_taunt_roasty_toasty_pyro_taunt_cong_fun_10']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd']"
-Transcription:,[rhythmic laughter,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[rhythmic laughter,,Responses:,"['Taunt: Mannrobics', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_cong_fun_11,,Events:,"['pyro_taunt_conga_random_fun1', 'taunt_springrider_giggles', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_11.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
-Transcription:,[rhythmic laughter,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Balloonibouncer']"
+Filename:,pyro_taunt_cong_fun_11,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_conga_random_fun1', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_11.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[rhythmic laughter,,Responses:,"['Taunt: Mannrobics', 'Taunt: The Balloonibouncer', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -534,13 +534,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,pyro_taunt_cong_fun_13,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_conga_random_fun3']"
 Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_13.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
-Transcription:,[rhythmic humming,,Responses:,"['Taunt: Conga', 'Taunt: The Balloonibouncer']"
+Transcription:,[rhythmic humming,,Responses:,"['Taunt: The Balloonibouncer', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_cong_fun_14,,Events:,"['pyro_taunt_conga_random_fun1', 'pyro_taunt_conga_random_fun3', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_14.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd']"
-Transcription:,Whoo hoo!,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics']"
+Full Path:,vo/taunts/pyro/pyro_taunt_cong_fun_14.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,Whoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -568,33 +568,33 @@ Transcription:,"[mumbled] ""Boo!""",,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_dosi_fun_02,,Events:,"['taunt.bearhug_pyro_a', 'taunt_burstchester_pyro_happy', 'taunt_springrider_giggles', 'pyro_taunt_commending_clap_b', 'taunt.skating_scorcher_trick', 'pyro_taunt_dosido_start_rand']"
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd']"
-Transcription:,[gleeful laughter,,Responses:,"['Taunt: Square Dance', 'Taunt: Bear Hug', 'Taunt: Burstchester', 'Taunt: The Balloonibouncer']"
+Filename:,pyro_taunt_dosi_fun_02,,Events:,"['pyro_taunt_dosido_start_rand', 'taunt.skating_scorcher_trick', 'taunt_springrider_giggles', 'pyro_taunt_commending_clap_b', 'taunt.bearhug_pyro_a', 'taunt_burstchester_pyro_happy']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
+Transcription:,[gleeful laughter,,Responses:,"['Taunt: Square Dance', 'Taunt: Bear Hug', 'Taunt: The Balloonibouncer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_fun_03,,Events:,['pyro_taunt_conga_random_fun2']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_03.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/conga.vcd']"
-Transcription:,[mumbled singing,,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_03.mp3,,Scenes:,"['scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[mumbled singing,,Responses:,"['Taunt: Mannrobics', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_fun_04,,Events:,['pyro_taunt_dosido_start_rand']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_04.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance00.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_04.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance01.vcd', 'scenes/player/pyro/low/taunt_dosido_dance00.vcd']"
 Transcription:,[mumbled comment,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_dosi_fun_05,,Events:,"['taunt_springrider_giggles', 'pyro_taunt_dosido_mid_rand', 'taunt_burstchester_pyro_happy', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd']"
-Transcription:,[muffled laughter,,Responses:,"['Taunt: Square Dance', 'Taunt: Burstchester', 'Taunt: The Balloonibouncer']"
+Filename:,pyro_taunt_dosi_fun_05,,Events:,"['taunt_burstchester_pyro_happy', 'taunt_springrider_giggles', 'pyro_taunt_dosido_mid_rand', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd']"
+Transcription:,[muffled laughter,,Responses:,"['Taunt: Square Dance', 'Taunt: The Balloonibouncer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_fun_06,,Events:,"['pyro_taunt_conga_random_fun3', 'pyro_taunt_roasty_toasty_loop']"
 Full Path:,vo/taunts/pyro/pyro_taunt_dosi_fun_06.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/conga.vcd']"
-Transcription:,[mumbled scat singing,,Responses:,"['Taunt: Conga', 'Taunt: Roasty Toasty']"
+Transcription:,[mumbled scat singing,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -605,50 +605,50 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_int_02,,Events:,['pyro_taunt_dosido_intro_rand']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_02.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
-Transcription:,[gleeful laughter,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Peace!', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_02.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd']"
+Transcription:,[gleeful laughter,,Responses:,"['Taunt: Peace!', 'Taunt: Second Rate Sorcery', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_dosi_int_05,,Events:,"['taunt.bearhug_pyro_a', 'pyro_taunt_dosido_intro_rand']"
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
-Transcription:,[mumbled laughter,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Peace!', 'Taunt: Bear Hug', 'Taunt: Square Dance']"
+Filename:,pyro_taunt_dosi_int_05,,Events:,"['pyro_taunt_dosido_intro_rand', 'taunt.bearhug_pyro_a']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
+Transcription:,[mumbled laughter,,Responses:,"['Taunt: Peace!', 'Taunt: Second Rate Sorcery', 'Taunt: Bear Hug', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_dosi_int_07,,Events:,"['pyro_taunt_dosido_intro_wait_rand', 'pyro_taunt_roasty_toasty_tada']"
+Filename:,pyro_taunt_dosi_int_07,,Events:,"['pyro_taunt_roasty_toasty_tada', 'pyro_taunt_dosido_intro_wait_rand']"
 Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_07.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd']"
 Transcription:,Huh dah!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_int_13,,Events:,['pyro_taunt_dosido_intro_rand']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_13.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
-Transcription:,[excited mumbling,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Peace!', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_13.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd']"
+Transcription:,[excited mumbling,,Responses:,"['Taunt: Peace!', 'Taunt: Second Rate Sorcery', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_int_14,,Events:,['pyro_taunt_dosido_intro_rand']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_14.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
-Transcription:,"[mumbled] ""Do-si-do!""",,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Peace!', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_14.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd']"
+Transcription:,"[mumbled] ""Do-si-do!""",,Responses:,"['Taunt: Peace!', 'Taunt: Second Rate Sorcery', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_dosi_int_16,,Events:,['pyro_taunt_dosido_intro_rand']
-Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_16.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
-Transcription:,"[mumbled] ""Dance time!""",,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Peace!', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/pyro/pyro_taunt_dosi_int_16.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd']"
+Transcription:,"[mumbled] ""Dance time!""",,Responses:,"['Taunt: Peace!', 'Taunt: Second Rate Sorcery', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_exert_12,,Events:,"['pyro_taunt_roasty_toasty_exert', 'pyro_taunt_headbutt_success_exert']"
+Filename:,pyro_taunt_exert_12,,Events:,"['pyro_taunt_headbutt_success_exert', 'pyro_taunt_roasty_toasty_exert']"
 Full Path:,vo/taunts/pyro/pyro_taunt_exert_12.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_yetipunch.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
 Transcription:,Huhyah!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_admire_01,,Events:,"['pyro_taunt_flip_random_flipflipping', 'pyro_taunt_flip_random_waiting1']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_01.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
-Transcription:,Yee haw!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Scorcher's Solo""]"
+Filename:,pyro_taunt_flip_admire_01,,Events:,"['pyro_taunt_flip_random_waiting1', 'pyro_taunt_flip_random_flipflipping']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_01.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd']"
+Transcription:,Yee haw!,,Responses:,"[""Taunt: Scorcher's Solo"", ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -659,14 +659,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_flip_admire_03,,Events:,"['pyro_taunt_cheers', 'pyro_taunt_flip_random_waiting1', 'pyro_taunt_roasty_toasty_tada']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_03.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_cheers.vcd']"
-Transcription:,Huddah hudduh!,,Responses:,"['Taunt: Cheers!', ""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_cheers.vcd']"
+Transcription:,Huddah hudduh!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Cheers!', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_admire_05,,Events:,"['pyro_taunt_neck_snap_01', 'pyro_taunt_flip_random_flipfinish', 'pyro_taunt_commending_clap_b', 'pyro_taunt_russian_rand', 'taunt_yeti_pyro']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
-Transcription:,Come to me!,,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap', 'Taunt: The Hot Wheeler']"
+Filename:,pyro_taunt_flip_admire_05,,Events:,"['pyro_taunt_flip_random_flipfinish', 'pyro_taunt_commending_clap_b', 'pyro_taunt_russian_rand', 'pyro_taunt_neck_snap_01', 'taunt_yeti_pyro']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd']"
+Transcription:,Come to me!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Hot Wheeler', ""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -676,81 +676,81 @@ Transcription:,Hud hudda hud hah!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_exert_02,,Events:,"['pyro_taunt_flip_random_flipexert', 'pyro_taunt_roasty_toasty_exert', 'pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_02', 'taunt.skating_scorcher_exert']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_02.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Uhrah!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty']"
+Filename:,pyro_taunt_flip_exert_02,,Events:,"['pyro_taunt_flip_random_flipexert', 'pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_02', 'taunt.skating_scorcher_exert', 'pyro_taunt_roasty_toasty_exert']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_02.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,Uhrah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_exert_04,,Events:,"['pyro_taunt_flip_random_flipexert', 'pyro_taunt_roasty_toasty_exert', 'taunt.skating_scorcher_exert']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_04.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Uhhrah!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty']"
+Filename:,pyro_taunt_flip_exert_04,,Events:,"['pyro_taunt_flip_random_flipexert', 'taunt.skating_scorcher_exert', 'pyro_taunt_roasty_toasty_exert']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_04.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,Uhhrah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_exert_05,,Events:,"['pyro_taunt_flip_random_flipexert', 'taunt.skating_scorcher_exert', 'pyro_taunt_roasty_toasty_exert', 'pyro_taunt_spring_rider_pyro_taunt_flip_exert_05', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Ah-oop!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty', 'Taunt: The Hot Wheeler']"
+Filename:,pyro_taunt_flip_exert_05,,Events:,"['pyro_taunt_spring_rider_pyro_taunt_flip_exert_05', 'taunt.skating_scorcher_trick', 'pyro_taunt_flip_random_flipexert', 'taunt.skating_scorcher_exert', 'pyro_taunt_roasty_toasty_exert']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,Ah-oop!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', 'Taunt: The Hot Wheeler', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_exert_06,,Events:,"['pyro_taunt_flip_random_flipexert', 'taunt.skating_scorcher_trick', 'pyro_taunt_roasty_toasty_tada', 'pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_06']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_06.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Huppo hoh!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty']"
+Filename:,pyro_taunt_flip_exert_06,,Events:,"['pyro_taunt_flip_random_flipexert', 'pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_06', 'pyro_taunt_roasty_toasty_tada', 'taunt.skating_scorcher_trick']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_exert_06.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_initiator0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,Huppo hoh!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_01,,Events:,"['pyro_taunt_flip_random_flipflipping', 'pyro_taunt_commending_clap_a', 'pyro_taunt_spring_rider_pyro_taunt_flip_fun_01']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_commending_clap.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
+Filename:,pyro_taunt_flip_fun_01,,Events:,"['pyro_taunt_spring_rider_pyro_taunt_flip_fun_01', 'pyro_taunt_flip_random_flipflipping', 'pyro_taunt_commending_clap_a']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/workshop/player/pyro/low/taunt_commending_clap.vcd']"
 Transcription:,Woooh!,,Responses:,"['Taunt: Commending Clap', ""Taunt: Flippin' Awesome"", ""Taunt: Scorcher's Solo""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_04,,Events:,"['pyro_taunt_flip_random_flipflipping', 'pyro_taunt_commending_clap_a', 'pyro_taunt_flip_random_intro']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_commending_clap.vcd', 'scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
+Filename:,pyro_taunt_flip_fun_04,,Events:,"['pyro_taunt_flip_random_intro', 'pyro_taunt_flip_random_flipflipping', 'pyro_taunt_commending_clap_a']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_04.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/workshop/player/pyro/low/taunt_commending_clap.vcd']"
 Transcription:,I'm flying!,,Responses:,"['Taunt: Commending Clap', ""Taunt: Flippin' Awesome"", ""Taunt: Scorcher's Solo""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_flip_fun_05,,Events:,"['pyro_taunt_flip_random_intro', 'taunt_yeti_pyro', 'pyro_taunt_flip_random_flipfinish']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
 Transcription:,Hah da-ra!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_06,,Events:,"['pyro_taunt_spring_rider_pyro_taunt_flip_fun_06', 'taunt_killer_joke_pyro_laugh', 'taunt_springrider_giggles', 'pyro_taunt_conga_random_fun2', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Wooo hoo hoo hoo!,,Responses:,"['Taunt: The Balloonibouncer', 'Taunt: Conga', 'Taunt: Peace!', 'Taunt: Roasty Toasty', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Pool Party', 'Taunt: The Victory Lap']"
+Filename:,pyro_taunt_flip_fun_06,,Events:,"['taunt.skating_scorcher_trick', 'taunt_springrider_giggles', 'pyro_taunt_spring_rider_pyro_taunt_flip_fun_06', 'pyro_taunt_conga_random_fun2', 'taunt_killer_joke_pyro_laugh', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/conga.vcd']"
+Transcription:,Wooo hoo hoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', 'Taunt: Pool Party', 'Taunt: The Balloonibouncer', 'Taunt: The Victory Lap', 'Taunt: Killer Joke', 'Taunt: Peace!', 'Taunt: Conga', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_09,,Events:,"['taunt_burstchester_pyro_happy', 'taunt_killer_joke_pyro_laugh', 'taunt_springrider_giggles', 'pyro_taunt_conga_random_fun2', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro', 'taunt.skating_scorcher_trick']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Burstchester', 'Taunt: The Balloonibouncer', 'Taunt: Conga', 'Taunt: Peace!', 'Taunt: Roasty Toasty', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Pool Party', 'Taunt: The Victory Lap']"
+Filename:,pyro_taunt_flip_fun_09,,Events:,"['taunt.skating_scorcher_trick', 'taunt_springrider_giggles', 'pyro_taunt_conga_random_fun2', 'taunt_killer_joke_pyro_laugh', 'taunt_burstchester_pyro_happy', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/conga.vcd']"
+Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', 'Taunt: Pool Party', 'Taunt: The Balloonibouncer', 'Taunt: The Victory Lap', 'Taunt: Killer Joke', 'Taunt: Burstchester', 'Taunt: Peace!', 'Taunt: Conga', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_10,,Events:,"['taunt_burstchester_pyro_happy', 'taunt_killer_joke_pyro_laugh', 'pyro_taunt_flip_random_flipfinish', 'taunt_springrider_giggles', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro', 'taunt.skating_scorcher_trick', 'pyro_taunt_russian_rand', 'taunt_yeti_pyro']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Burstchester', 'Taunt: Kazotsky Kick', 'Taunt: The Hot Wheeler', 'Taunt: The Balloonibouncer', 'Taunt: Peace!', 'Taunt: Roasty Toasty', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Pool Party', 'Taunt: The Victory Lap']"
+Filename:,pyro_taunt_flip_fun_10,,Events:,"['taunt.skating_scorcher_trick', 'taunt_springrider_giggles', 'pyro_taunt_flip_random_flipfinish', 'pyro_taunt_russian_rand', 'taunt_killer_joke_pyro_laugh', 'taunt_burstchester_pyro_happy', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro', 'taunt_yeti_pyro']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd']"
+Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Kazotsky Kick', 'Taunt: Roasty Toasty', 'Taunt: Pool Party', 'Taunt: The Balloonibouncer', 'Taunt: The Victory Lap', 'Taunt: Killer Joke', 'Taunt: The Hot Wheeler', 'Taunt: Burstchester', 'Taunt: Peace!', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_fun_11,,Events:,"['taunt_burstchester_pyro_happy', 'taunt_killer_joke_pyro_laugh', 'taunt_springrider_giggles', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro']"
-Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd']"
-Transcription:,Ah ha ha ha ha ha!,,Responses:,"['Taunt: Burstchester', 'Taunt: The Balloonibouncer', 'Taunt: Peace!', 'Taunt: Roasty Toasty', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Pool Party', 'Taunt: The Victory Lap']"
+Filename:,pyro_taunt_flip_fun_11,,Events:,"['taunt_springrider_giggles', 'taunt_killer_joke_pyro_laugh', 'taunt_burstchester_pyro_happy', 'pyro_taunt_flip_random_flipadmire', 'pyro_taunt_roasty_toasty_outro']"
+Full Path:,vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd']"
+Transcription:,Ah ha ha ha ha ha!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Roasty Toasty', 'Taunt: Pool Party', 'Taunt: The Balloonibouncer', 'Taunt: The Victory Lap', 'Taunt: Killer Joke', 'Taunt: Burstchester', 'Taunt: Peace!', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_int_02,,Events:,"['pyro_taunt_flip_random_intro', 'taunt.bearhug_pyro_a', 'taunt_springrider_giggles', 'taunt_burstchester_pyro_happy']"
+Filename:,pyro_taunt_flip_int_02,,Events:,"['taunt_burstchester_pyro_happy', 'pyro_taunt_flip_random_intro', 'taunt.bearhug_pyro_a', 'taunt_springrider_giggles']"
 Full Path:,vo/taunts/pyro/pyro_taunt_flip_int_02.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
-Transcription:,Whoo hoo hoo! Hudda!,,Responses:,"['Taunt: Burstchester', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: The Balloonibouncer']"
+Transcription:,Whoo hoo hoo! Hudda!,,Responses:,"['Taunt: The Balloonibouncer', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_flip_int_05,,Events:,"['pyro_taunt_spring_rider_pyro_taunt_flip_int_05', 'taunt.bearhug_pyro_b', 'taunt_springrider_giggles', 'taunt.skating_scorcher_trick', 'pyro_taunt_flip_random_intro']"
+Filename:,pyro_taunt_flip_int_05,,Events:,"['taunt.skating_scorcher_trick', 'taunt.bearhug_pyro_b', 'taunt_springrider_giggles', 'pyro_taunt_flip_random_intro', 'pyro_taunt_spring_rider_pyro_taunt_flip_int_05']"
 Full Path:,vo/taunts/pyro/pyro_taunt_flip_int_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
-Transcription:,Hoo! Hud hudda!,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: The Balloonibouncer']"
+Transcription:,Hoo! Hud hudda!,,Responses:,"['Taunt: The Balloonibouncer', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -760,27 +760,27 @@ Transcription:,Hellooo! Let's load 'em up!!,,Responses:,"[""Taunt: Flippin' Awes
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_head_exert_03,,Events:,"['pyro_taunt_roasty_toasty_exert', 'pyro_taunt_headbutt_success_recover_2', 'pyro_taunt_the_grilled_gunman_pyro_taunt_head_exert_03']"
+Filename:,pyro_taunt_head_exert_03,,Events:,"['pyro_taunt_the_grilled_gunman_pyro_taunt_head_exert_03', 'pyro_taunt_headbutt_success_recover_2', 'pyro_taunt_roasty_toasty_exert']"
 Full Path:,vo/taunts/pyro/pyro_taunt_head_exert_03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd']"
-Transcription:,[muffled grunt of effort,,Responses:,"['Taunt: Skullcracker', 'Taunt: Roasty Toasty']"
+Transcription:,[muffled grunt of effort,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_head_int_01,,Events:,['pyro_taunt_headbutt_start']
-Full Path:,vo/taunts/pyro/pyro_taunt_head_int_01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd', 'scenes/player/pyro/low/taunt_headbutt_start.vcd']"
-Transcription:,"[muffled] ""Right here!""",,Responses:,"['Taunt: Skullcracker', 'Taunt: The Fist Bump']"
+Full Path:,vo/taunts/pyro/pyro_taunt_head_int_01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd']"
+Transcription:,"[muffled] ""Right here!""",,Responses:,"['Taunt: The Fist Bump', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_head_int_03,,Events:,['pyro_taunt_headbutt_start']
-Full Path:,vo/taunts/pyro/pyro_taunt_head_int_03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd', 'scenes/player/pyro/low/taunt_headbutt_start.vcd']"
-Transcription:,[muffled challenging,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Fist Bump']"
+Full Path:,vo/taunts/pyro/pyro_taunt_head_int_03.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd']"
+Transcription:,[muffled challenging,,Responses:,"['Taunt: The Fist Bump', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_head_int_04,,Events:,"['pyro_taunt_conga_random_fun2', 'pyro_taunt_headbutt_start']"
-Full Path:,vo/taunts/pyro/pyro_taunt_head_int_04.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_headbutt_start.vcd']"
-Transcription:,[menacing muffles,,Responses:,"['Taunt: Skullcracker', 'Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Fist Bump']"
+Full Path:,vo/taunts/pyro/pyro_taunt_head_int_04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd', 'scenes/player/pyro/low/conga.vcd', 'scenes/player/pyro/low/taunt_headbutt_start.vcd', 'scenes/player/pyro/low/taunt_aerobic_a.vcd']"
+Transcription:,[menacing muffles,,Responses:,"['Taunt: Mannrobics', 'Taunt: Conga', 'Taunt: Skullcracker', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -796,21 +796,21 @@ Transcription:,Ow!,,Responses:,['Taunt: Yeti Punch']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_head_pain_21,,Events:,"['pyro_taunt_flag', 'pyro_taunt_headbutt_success_windup']"
+Filename:,pyro_taunt_head_pain_21,,Events:,"['pyro_taunt_headbutt_success_windup', 'pyro_taunt_flag']"
 Full Path:,vo/taunts/pyro/pyro_taunt_head_pain_21.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd']"
-Transcription:,[rocking out,,Responses:,"['Taunt: Skullcracker', 'Taunt: Flying Colors']"
+Transcription:,[rocking out,,Responses:,"['Taunt: Flying Colors', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_head_pain_22,,Events:,"['pyro_taunt_flag', 'pyro_taunt_headbutt_success_windup']"
+Filename:,pyro_taunt_head_pain_22,,Events:,"['pyro_taunt_headbutt_success_windup', 'pyro_taunt_flag']"
 Full Path:,vo/taunts/pyro/pyro_taunt_head_pain_22.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_flying_colors.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd']"
-Transcription:,[intense rocking out,,Responses:,"['Taunt: Skullcracker', 'Taunt: Flying Colors']"
+Transcription:,[intense rocking out,,Responses:,"['Taunt: Flying Colors', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_int_05,,Events:,"['pyro_taunt_the_grilled_gunman_pyro_taunt_int_05', 'pyro_taunt_dosido_intro_wait_rand', 'pyro_taunt_flip_random_waiting1']"
+Filename:,pyro_taunt_int_05,,Events:,"['pyro_taunt_the_grilled_gunman_pyro_taunt_int_05', 'pyro_taunt_flip_random_waiting1', 'pyro_taunt_dosido_intro_wait_rand']"
 Full Path:,vo/taunts/pyro/pyro_taunt_int_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd']"
-Transcription:,"[muffled]""Right here!""",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
+Transcription:,"[muffled]""Right here!""",,Responses:,"['Taunt: Square Dance', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -821,8 +821,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_int_11,,Events:,"['pyro_taunt_flip_random_waiting1', 'pyro_taunt_roasty_toasty_tada']"
-Full Path:,vo/taunts/pyro/pyro_taunt_int_11.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
-Transcription:,Huhfallah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Roasty Toasty']"
+Full Path:,vo/taunts/pyro/pyro_taunt_int_11.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/flip_start.vcd']"
+Transcription:,Huhfallah!,,Responses:,"['Taunt: Roasty Toasty', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -845,7 +845,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_int_21,,Events:,"['pyro_taunt_dosido_start_rand', 'pyro_taunt_roasty_toasty_tada']"
-Full Path:,vo/taunts/pyro/pyro_taunt_int_21.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_int_21.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_dosido_dance00.vcd']"
 Transcription:,Ruh dyah!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -863,25 +863,25 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_exert_18,,Events:,['pyro_taunt_rps_exert_18']
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_18.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_18.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,Here we go!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_exert_21,,Events:,['pyro_taunt_rps_exert_21']
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_21.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_21.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,One!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_exert_22,,Events:,['pyro_taunt_rps_exert_22']
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_22.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_22.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,Two!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_exert_23,,Events:,['pyro_taunt_rps_exert_23']
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_23.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_exert_23.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_win.vcd', 'scenes/player/pyro/low/taunt_rps_rock_win.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,Three!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -911,24 +911,24 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_int_08,,Events:,"['pyro_taunt_the_final_score_pyro_pyro_taunt_rps_int_08', 'pyro_taunt_rps_intro_wait_rand']"
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_int_08.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_start.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd']"
-Transcription:,Betta bah!,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: The Final Score', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_int_08.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_start.vcd', 'scenes/workshop/player/pyro/low/secondrate_sorcery.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd']"
+Transcription:,Betta bah!,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_rps_lose_03,,Events:,['pyro_taunt_rps_lose_03']
-Full Path:,vo/taunts/pyro/pyro_taunt_rps_lose_03.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/workshop/player/pyro/low/taunt_mourning_mercs.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd']"
-Transcription:,cry,,Responses:,"['Taunt: Mourning Mercs', 'Taunt: Cremators Condolences', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/pyro/pyro_taunt_rps_lose_03.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/pyro/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd', 'scenes/player/pyro/low/taunt_rps_rock_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/pyro/low/taunt_rps_scissors_lose.vcd', 'scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd']"
+Transcription:,cry,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: Mourning Mercs', 'Taunt: Cremators Condolences']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_thanks_07,,Events:,"['pyro_taunt_dosido_endlong_rand', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/taunts/pyro/pyro_taunt_thanks_07.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_dosido_dance01.vcd']"
+Full Path:,vo/taunts/pyro/pyro_taunt_thanks_07.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
 Transcription:,Huddah hu-oh!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_taunt_thanks_08,,Events:,"['pyro_taunt_dosido_intro_wait_rand', 'pyro_taunt_roasty_toasty_pyro_taunt_thanks_08', 'pyro_taunt_roasty_toasty_loop_2']"
+Filename:,pyro_taunt_thanks_08,,Events:,"['pyro_taunt_roasty_toasty_loop_2', 'pyro_taunt_roasty_toasty_pyro_taunt_thanks_08', 'pyro_taunt_dosido_intro_wait_rand']"
 Full Path:,vo/taunts/pyro/pyro_taunt_thanks_08.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_dosido_intro01.vcd']"
 Transcription:,Huffah hu-oh!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
@@ -940,9 +940,9 @@ Transcription:,Thank you for the (unintelligible)!,,Responses:,['Taunt: Square D
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_trade_01,,Events:,"['pyro_taunt_commending_clap_c', 'pyro_taunt_trade_loop_rand', 'taunt_burstchester_pyro_happy', 'pyro_taunt_roasty_toasty_loop_2']"
-Full Path:,vo/taunts/pyro/pyro_trade_01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
-Transcription:,Huh-nah! Huh-naaah...,,Responses:,"['Taunt: Burstchester', 'Taunt: Roasty Toasty']"
+Filename:,pyro_trade_01,,Events:,"['pyro_taunt_trade_loop_rand', 'pyro_taunt_roasty_toasty_loop_2', 'taunt_burstchester_pyro_happy', 'pyro_taunt_commending_clap_c']"
+Full Path:,vo/taunts/pyro/pyro_trade_01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,Huh-nah! Huh-naaah...,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -952,15 +952,15 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_trade_03,,Events:,"['pyro_taunt_commending_clap_c', 'taunt_burstchester_pyro_happy', 'pyro_taunt_trade_start_rand', 'pyro_taunt_roasty_toasty_loop', 'pyro.scardy_cat_b', 'pyro_taunt_the_final_score_pyro_pyro_trade_03']"
-Full Path:,vo/taunts/pyro/pyro_trade_03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
-Transcription:,Euduh rah!,,Responses:,"['Taunt: Burstchester', 'Taunt: Roasty Toasty', 'Taunt: The Scaredy-Cat!', 'Taunt: The Final Score']"
+Filename:,pyro_trade_03,,Events:,"['pyro_taunt_roasty_toasty_loop', 'pyro_taunt_commending_clap_c', 'pyro_taunt_the_final_score_pyro_pyro_trade_03', 'pyro.scardy_cat_b', 'pyro_taunt_trade_start_rand', 'taunt_burstchester_pyro_happy']"
+Full Path:,vo/taunts/pyro/pyro_trade_03.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_the_final_score.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd']"
+Transcription:,Euduh rah!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: The Scaredy-Cat!', 'Taunt: Burstchester', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_trade_04,,Events:,"['pyro_taunt_trade_loop_rand', 'taunt.bearhug_pyro_b', 'taunt_burstchester_pyro_happy', 'pyro_taunt_roasty_toasty_loop']"
-Full Path:,vo/taunts/pyro/pyro_trade_04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
-Transcription:,Ohh...ruddah buddoh.,,Responses:,"['Taunt: Burstchester', 'Taunt: Bear Hug', 'Taunt: Roasty Toasty']"
+Filename:,pyro_trade_04,,Events:,"['taunt.bearhug_pyro_b', 'pyro_taunt_trade_loop_rand', 'pyro_taunt_roasty_toasty_loop', 'taunt_burstchester_pyro_happy']"
+Full Path:,vo/taunts/pyro/pyro_trade_04.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd']"
+Transcription:,Ohh...ruddah buddoh.,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Bear Hug', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1000,16 +1000,16 @@ Transcription:,*Evil laugh*,,Responses:,['PyroSF13SpellPickupRare']
 Your Line:,,,Rules:,['PyroSF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsPyro']]"
 
-Filename:,pyro_sf13_influx_small01,,Events:,"['pyro_sf13_influx_small01', 'pyro_taunt_roasty_toasty_pyro_sf13_influx_small01']"
-Full Path:,vo/pyro_sf13_influx_small01.mp3,,Scenes:,"['scenes/player/pyro/low/6499.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/player/pyro/low/taunt_yetipunch.vcd']"
-Transcription:,*Small chuckle*,,Responses:,"['Taunt: Roasty Toasty', 'PyroSF13SpellPickupCommon', 'Taunt: Yeti Punch']"
+Filename:,pyro_sf13_influx_small01,,Events:,"['pyro_taunt_roasty_toasty_pyro_sf13_influx_small01', 'pyro_sf13_influx_small01']"
+Full Path:,vo/pyro_sf13_influx_small01.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_yetipunch.vcd', 'scenes/player/pyro/low/6499.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,*Small chuckle*,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Yeti Punch', 'PyroSF13SpellPickupCommon']"
 Your Line:,,,Rules:,['PyroSF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsPyro']]"
 
 Filename:,pyro_sf13_spell_generic01,,Events:,['pyro_sf13_spell_generic01']
 Full Path:,vo/pyro_sf13_spell_generic01.mp3,,Scenes:,['scenes/player/pyro/low/6435.vcd']
-Transcription:,"""Mumuno, muh bumuno!"" (""Pactum diabolus!"" and ""Mortis animataris!"")",,Responses:,"['PyroCastSkeletonHorde', 'PyroCastMirv']"
-Your Line:,,,Rules:,"['PyroCastSkeletonHorde', 'PyroCastMirv']"
+Transcription:,"""Mumuno, muh bumuno!"" (""Pactum diabolus!"" and ""Mortis animataris!"")",,Responses:,"['PyroCastMirv', 'PyroCastSkeletonHorde']"
+Your Line:,,,Rules:,"['PyroCastMirv', 'PyroCastSkeletonHorde']"
 ,,,Criteria:,"[['ConceptPlayerCastMirv', 'IsPyro'], ['ConceptPlayerCastSkeletonHorde', 'IsPyro']]"
 
 Filename:,pyro_sf13_spell_generic02,,Events:,['pyro_sf13_spell_generic02']
@@ -1026,8 +1026,8 @@ Your Line:,,,Rules:,['PyroCastBlastJump']
 
 Filename:,pyro_sf13_spell_generic04,,Events:,['pyro_sf13_spell_generic04']
 Full Path:,vo/pyro_sf13_spell_generic04.mp3,,Scenes:,['scenes/player/pyro/low/6438.vcd']
-Transcription:,"""Cuhts me trihp!"" (""Deus invictus!"" and ""Barpo kabalto!"")",,Responses:,"['PyroCastSelfHeal', 'PyroCastMerasmusZap']"
-Your Line:,,,Rules:,"['PyroCastSelfHeal', 'PyroCastMerasmusZap']"
+Transcription:,"""Cuhts me trihp!"" (""Deus invictus!"" and ""Barpo kabalto!"")",,Responses:,"['PyroCastMerasmusZap', 'PyroCastSelfHeal']"
+Your Line:,,,Rules:,"['PyroCastMerasmusZap', 'PyroCastSelfHeal']"
 ,,,Criteria:,"[['ConceptPlayerCastMerasmusZap', 'IsPyro'], ['ConceptPlayerCastSelfHeal', 'IsPyro']]"
 
 Filename:,pyro_sf13_spell_generic05,,Events:,['pyro_sf13_spell_generic05']

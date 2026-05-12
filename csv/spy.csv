@@ -29,8 +29,8 @@ Your Line:,,,Rules:,['PlayerCapturedPointSpy']
 ,,,Criteria:,"[['ConceptPlayerCapturedPoint', 'IsSpy']]"
 
 Filename:,spy_autocappedcontrolpoint03,,Events:,['spy.autocappedcontrolpoint03']
-Full Path:,vo/spy_autocappedcontrolpoint03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_cheers.vcd', 'scenes/player/spy/low/697.vcd']"
-Transcription:,Excellent!,,Responses:,"['Taunt: Cheers!', 'PlayerCapturedPointSpy']"
+Full Path:,vo/spy_autocappedcontrolpoint03.mp3,,Scenes:,"['scenes/player/spy/low/697.vcd', 'scenes/workshop/player/spy/low/taunt_cheers.vcd']"
+Transcription:,Excellent!,,Responses:,"['PlayerCapturedPointSpy', 'Taunt: Cheers!']"
 Your Line:,,,Rules:,['PlayerCapturedPointSpy']
 ,,,Criteria:,"[['ConceptPlayerCapturedPoint', 'IsSpy']]"
 
@@ -47,14 +47,14 @@ Your Line:,,,Rules:,['PlayerCappedIntelligenceSpy']
 ,,,Criteria:,"[['ConceptPlayerCapturedIntelligence', 'IsSpy']]"
 
 Filename:,spy_autocappedintelligence03,,Events:,['spy.autocappedintelligence03']
-Full Path:,vo/spy_autocappedintelligence03.mp3,,Scenes:,"['scenes/player/spy/low/taunt04_v1.vcd', 'scenes/workshop/player/spy/low/taunt_cheers.vcd', 'scenes/player/spy/low/700.vcd']"
-Transcription:,Cheers!,,Responses:,"['SpyTauntPDA', 'PlayerCappedIntelligenceSpy', 'Taunt: Cheers!']"
-Your Line:,,,Rules:,"['PlayerCappedIntelligenceSpy', 'SpyTauntPlayerPDA']"
+Full Path:,vo/spy_autocappedintelligence03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_cheers.vcd', 'scenes/player/spy/low/taunt04_v1.vcd', 'scenes/player/spy/low/700.vcd']"
+Transcription:,Cheers!,,Responses:,"['Taunt: Cheers!', 'PlayerCappedIntelligenceSpy', 'SpyTauntPDA']"
+Your Line:,,,Rules:,"['SpyTauntPlayerPDA', 'PlayerCappedIntelligenceSpy']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA'], ['ConceptPlayerCapturedIntelligence', 'IsSpy']]"
 
-Filename:,spy_autodejectedtie01,,Events:,"['spy.autodejectedtie01', 'taunt_burstchester_spy_02']"
+Filename:,spy_autodejectedtie01,,Events:,"['taunt_burstchester_spy_02', 'spy.autodejectedtie01']"
 Full Path:,vo/spy_autodejectedtie01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/701.vcd']"
-Transcription:,That was unfortunate.,,Responses:,"['Taunt: Burstchester', 'PlayerStalemateSpy']"
+Transcription:,That was unfortunate.,,Responses:,"['PlayerStalemateSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerStalemateSpy']
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsSpy']]"
 
@@ -64,9 +64,9 @@ Transcription:,I must be dreaming!,,Responses:,['PlayerStalemateSpy']
 Your Line:,,,Rules:,['PlayerStalemateSpy']
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsSpy']]"
 
-Filename:,spy_autodejectedtie03,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy.autodejectedtie03']"
-Full Path:,vo/spy_autodejectedtie03.mp3,,Scenes:,"['scenes/player/spy/low/703.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Awwwwww...,,Responses:,"['PlayerStalemateSpy', 'RejectedDuelSpy', 'Taunt: Tailored Terminal']"
+Filename:,spy_autodejectedtie03,,Events:,"['spy.autodejectedtie03', 'spy_taunt_tailore_terminal_a2_01']"
+Full Path:,vo/spy_autodejectedtie03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/703.vcd']"
+Transcription:,Awwwwww...,,Responses:,"['Taunt: Tailored Terminal', 'PlayerStalemateSpy', 'RejectedDuelSpy']"
 Your Line:,,,Rules:,"['PlayerStalemateSpy', 'RejectedDuelSpy']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsSpy'], ['ConceptDuelRejected', 'IsSpy']]"
 
@@ -90,26 +90,26 @@ Your Line:,,,Rules:,['PlayerOnFireRareSpy']
 
 Filename:,spy_battlecry01,,Events:,['spy.battlecry01']
 Full Path:,vo/spy_battlecry01.mp3,,Scenes:,['scenes/player/spy/low/708.vcd']
-Transcription:,Gentlemen?,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
+Transcription:,Gentlemen?,,Responses:,"['PlayerRoundStartSpy', 'PlayerBattleCrySpy']"
 Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsSpy']]"
 
-Filename:,spy_battlecry02,,Events:,"['spy.battlecry02', 'taunt.luxury_lounge_intro']"
+Filename:,spy_battlecry02,,Events:,"['taunt.luxury_lounge_intro', 'spy.battlecry02']"
 Full Path:,vo/spy_battlecry02.mp3,,Scenes:,['scenes/player/spy/low/709.vcd']
 Transcription:,Shall we?,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'AcceptedDuelSpy']"
-Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'AcceptedDuelSpy']"
+Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'AcceptedDuelSpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptIAcceptDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsSpy']]"
 
 Filename:,spy_battlecry03,,Events:,['spy.battlecry03']
 Full Path:,vo/spy_battlecry03.mp3,,Scenes:,['scenes/player/spy/low/1309.vcd']
-Transcription:,After you!,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
+Transcription:,After you!,,Responses:,"['PlayerRoundStartSpy', 'PlayerBattleCrySpy']"
 Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsSpy']]"
 
 Filename:,spy_battlecry04,,Events:,"['spy.battlecry04', 'taunt.luxury_lounge_intro']"
-Full Path:,vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/707.vcd', 'scenes/player/spy/low/taunt01_v5.vcd']"
-Transcription:,Ahem...,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle']"
-Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle']"
+Full Path:,vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/taunt01_v5.vcd', 'scenes/player/spy/low/707.vcd']"
+Transcription:,Ahem...,,Responses:,"['SpyTauntSpycicle', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'PlayerBattleCrySpy']"
+Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle']]"
 
 Filename:,spy_cartgoingbackdefense01,,Events:,['spy_cartgoingbackdefense01']
@@ -281,21 +281,21 @@ Your Line:,,,Rules:,"['PlayerKilledForRevengeSpy', 'PlayerCheersSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsSpy']]"
 
 Filename:,spy_cheers02,,Events:,"['taunt_burstchester_spy_01', 'spy.cheers02']"
-Full Path:,vo/spy_cheers02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/711.vcd']"
-Transcription:,Heartwarming...,,Responses:,"['Taunt: Burstchester', 'PlayerCheersSpy']"
+Full Path:,vo/spy_cheers02.mp3,,Scenes:,"['scenes/player/spy/low/711.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,Heartwarming...,,Responses:,"['PlayerCheersSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerCheersSpy']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsSpy']]"
 
-Filename:,spy_cheers03,,Events:,"['spy_taunt_the_punchline_outro', 'spy.cheers03']"
+Filename:,spy_cheers03,,Events:,"['spy.cheers03', 'spy_taunt_the_punchline_outro']"
 Full Path:,vo/spy_cheers03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/712.vcd']"
 Transcription:,But of course!,,Responses:,"['Taunt: The Punchline', 'PlayerCheersSpy']"
 Your Line:,,,Rules:,['PlayerCheersSpy']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsSpy']]"
 
-Filename:,spy_cheers04,,Events:,"['spy_taunt_the_punchline_spy_cheers04', 'spy_taunt_the_punchline_outro', 'spy.cheers04']"
+Filename:,spy_cheers04,,Events:,"['spy.cheers04', 'spy_taunt_the_punchline_outro', 'spy_taunt_the_punchline_spy_cheers04']"
 Full Path:,vo/spy_cheers04.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/713.vcd']"
-Transcription:,What did they expect?,,Responses:,"['Taunt: The Punchline', 'PlayerKilledCapperSpy', 'PlayerCheersSpy']"
-Your Line:,,,Rules:,"['PlayerCheersSpy', 'PlayerKilledCapperSpy']"
+Transcription:,What did they expect?,,Responses:,"['PlayerKilledCapperSpy', 'PlayerCheersSpy', 'Taunt: The Punchline']"
+Your Line:,,,Rules:,"['PlayerKilledCapperSpy', 'PlayerCheersSpy']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsSpy']]"
 
 Filename:,spy_cheers05,,Events:,"['spy.cheers05', 'spy_taunt_the_punchline_outro']"
@@ -304,16 +304,16 @@ Transcription:,Naturally.,,Responses:,"['Taunt: The Punchline', 'PlayerCheersSpy
 Your Line:,,,Rules:,['PlayerCheersSpy']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsSpy']]"
 
-Filename:,spy_cheers06,,Events:,"['spy_taunt_the_punchline_outro', 'spy_taunt_tailore_terminal_a1_01', 'spy.cheers06']"
-Full Path:,vo/spy_cheers06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/715.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd']"
+Filename:,spy_cheers06,,Events:,"['spy_taunt_tailore_terminal_a1_01', 'spy.cheers06', 'spy_taunt_the_punchline_outro']"
+Full Path:,vo/spy_cheers06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/715.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
 Transcription:,Excellent!,,Responses:,"['Taunt: The Punchline', 'PlayerKilledForRevengeSpy', 'PlayerCheersSpy', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,"['PlayerKilledForRevengeSpy', 'PlayerCheersSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsSpy']]"
 
 Filename:,spy_cheers07,,Events:,['spy.cheers07']
 Full Path:,vo/spy_cheers07.mp3,,Scenes:,['scenes/player/spy/low/716.vcd']
-Transcription:,The outcome was never really in doubt.,,Responses:,"['PlayerCheersSpy', 'PlayerKilledCapperSpy']"
-Your Line:,,,Rules:,"['PlayerCheersSpy', 'PlayerKilledCapperSpy']"
+Transcription:,The outcome was never really in doubt.,,Responses:,"['PlayerKilledCapperSpy', 'PlayerCheersSpy']"
+Your Line:,,,Rules:,"['PlayerKilledCapperSpy', 'PlayerCheersSpy']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsSpy']]"
 
 Filename:,spy_cheers08,,Events:,['spy.cheers08']
@@ -334,13 +334,13 @@ Transcription:,Spy in our midst!,,Responses:,['PlayerCloakedSpySpy']
 Your Line:,,,Rules:,['PlayerCloakedSpySpy']
 ,,,Criteria:,"[['ConceptPlayerCloakedSpy', 'IsSpy']]"
 
-Filename:,spy_cloakedspy03,,Events:,"['spy.teasevictim', 'spy.cloakedspy03']"
+Filename:,spy_cloakedspy03,,Events:,"['spy.cloakedspy03', 'spy.teasevictim']"
 Full Path:,vo/spy_cloakedspy03.mp3,,Scenes:,['scenes/player/spy/low/720.vcd']
 Transcription:,"Spy, gentlemen.",,Responses:,['PlayerCloakedSpySpy']
 Your Line:,,,Rules:,['PlayerCloakedSpySpy']
 ,,,Criteria:,"[['ConceptPlayerCloakedSpy', 'IsSpy']]"
 
-Filename:,spy_cloakedspy04,,Events:,"['spy.teasevictim', 'spy.cloakedspy04']"
+Filename:,spy_cloakedspy04,,Events:,"['spy.cloakedspy04', 'spy.teasevictim']"
 Full Path:,vo/spy_cloakedspy04.mp3,,Scenes:,['scenes/player/spy/low/1310.vcd']
 Transcription:,Spy among us!,,Responses:,['PlayerCloakedSpySpy']
 Your Line:,,,Rules:,['PlayerCloakedSpySpy']
@@ -653,7 +653,7 @@ Your Line:,,,Rules:,['PlayerKilledDominatingSniperSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSniper', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,spy_dominationsniper02,,Events:,"['spy.dominationsniper02', 'spy_taunt_tailore_terminal_a1_02']"
-Full Path:,vo/spy_dominationsniper02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/3020.vcd']"
+Full Path:,vo/spy_dominationsniper02.mp3,,Scenes:,"['scenes/player/spy/low/3020.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
 Transcription:,"You disgust me, filthy jar man!",,Responses:,"['PlayerKilledDominatingSniperSpy', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSniperSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSniper', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
@@ -748,32 +748,32 @@ Transcription:,You are an embarrassment to Spies everywhere!,,Responses:,['Playe
 Your Line:,,,Rules:,['PlayerKilledDominatingSpySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSpy', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,spy_go01,,Events:,"['spy.go01', 'spy.readycomp', 'spy.ready', 'spy.readymvm']"
+Filename:,spy_go01,,Events:,"['spy.ready', 'spy.readycomp', 'spy.readymvm', 'spy.go01']"
 Full Path:,vo/spy_go01.mp3,,Scenes:,['scenes/player/spy/low/740.vcd']
 Transcription:,Move!,,Responses:,['PlayerGoSpy']
 Your Line:,,,Rules:,['PlayerGoSpy']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsSpy']]"
 
-Filename:,spy_go02,,Events:,"['spy.readycomp', 'spy.ready', 'spy.go02', 'spy.readymvm']"
+Filename:,spy_go02,,Events:,"['spy.ready', 'spy.readycomp', 'spy.readymvm', 'spy.go02']"
 Full Path:,vo/spy_go02.mp3,,Scenes:,['scenes/player/spy/low/741.vcd']
 Transcription:,Let us move!,,Responses:,['PlayerGoSpy']
 Your Line:,,,Rules:,['PlayerGoSpy']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsSpy']]"
 
-Filename:,spy_go03,,Events:,"['spy.go03', 'spy.readycomp', 'spy.ready', 'spy.readymvm']"
+Filename:,spy_go03,,Events:,"['spy.ready', 'spy.readycomp', 'spy.readymvm', 'spy.go03']"
 Full Path:,vo/spy_go03.mp3,,Scenes:,['scenes/player/spy/low/742.vcd']
 Transcription:,Proceed!,,Responses:,['PlayerGoSpy']
 Your Line:,,,Rules:,['PlayerGoSpy']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsSpy']]"
 
-Filename:,spy_goodjob01,,Events:,"['spy.goodjob01', 'taunt_burstchester_spy_02']"
-Full Path:,vo/spy_goodjob01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/743.vcd']"
-Transcription:,Well played!,,Responses:,"['Taunt: Burstchester', 'PlayerKilledForRevengeSpy', 'PlayerGoodJobSpy']"
-Your Line:,,,Rules:,"['PlayerKilledForRevengeSpy', 'PlayerGoodJobSpy']"
+Filename:,spy_goodjob01,,Events:,"['taunt_burstchester_spy_02', 'spy.goodjob01']"
+Full Path:,vo/spy_goodjob01.mp3,,Scenes:,"['scenes/player/spy/low/743.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,Well played!,,Responses:,"['PlayerGoodJobSpy', 'Taunt: Burstchester', 'PlayerKilledForRevengeSpy']"
+Your Line:,,,Rules:,"['PlayerGoodJobSpy', 'PlayerKilledForRevengeSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerGoodJob', 'IsSpy']]"
 
-Filename:,spy_goodjob02,,Events:,"['spy.goodjob02', 'spy_taunt_commending_clap_b']"
-Full Path:,vo/spy_goodjob02.mp3,,Scenes:,"['scenes/player/spy/low/taunt04_v2.vcd', 'scenes/player/spy/low/744.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd']"
+Filename:,spy_goodjob02,,Events:,"['spy_taunt_commending_clap_b', 'spy.goodjob02']"
+Full Path:,vo/spy_goodjob02.mp3,,Scenes:,"['scenes/player/spy/low/744.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd', 'scenes/player/spy/low/taunt04_v2.vcd']"
 Transcription:,Fine job!,,Responses:,"['Taunt: Commending Clap', 'PlayerGoodJobSpy', 'SpyTauntPDA']"
 Your Line:,,,Rules:,"['SpyTauntPlayerPDA', 'PlayerGoodJobSpy']"
 ,,,Criteria:,"[['ConceptPlayerGoodJob', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA']]"
@@ -839,7 +839,7 @@ Your Line:,,,Rules:,['PlayerHelpSpy']
 ,,,Criteria:,"[['ConceptPlayerHelp', 'IsSpy']]"
 
 Filename:,spy_helpmecapture01,,Events:,"['taunt_burstchester_spy_01', 'spy.helpmecapture01']"
-Full Path:,vo/spy_helpmecapture01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/755.vcd']"
+Full Path:,vo/spy_helpmecapture01.mp3,,Scenes:,"['scenes/player/spy/low/755.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
 Transcription:,Come help me capture this.,,Responses:,"['Taunt: Burstchester', 'PlayerHelpCaptureSpy']"
 Your Line:,,,Rules:,['PlayerHelpCaptureSpy']
 ,,,Criteria:,"[['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'AppliesContext:SpyHelpCap:1:10']]"
@@ -850,7 +850,7 @@ Transcription:,Help me capture the point!,,Responses:,['PlayerHelpCaptureSpy']
 Your Line:,,,Rules:,['PlayerHelpCaptureSpy']
 ,,,Criteria:,"[['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'AppliesContext:SpyHelpCap:1:10']]"
 
-Filename:,spy_helpmecapture03,,Events:,"['spy.helpmecapture03', 'taunt_burstchester_spy_01']"
+Filename:,spy_helpmecapture03,,Events:,"['taunt_burstchester_spy_01', 'spy.helpmecapture03']"
 Full Path:,vo/spy_helpmecapture03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/757.vcd']"
 Transcription:,Would someone care to help me capture this?,,Responses:,"['Taunt: Burstchester', 'PlayerHelpCaptureSpy']"
 Your Line:,,,Rules:,['PlayerHelpCaptureSpy']
@@ -875,7 +875,7 @@ Your Line:,,,Rules:,['PlayerHelpDefendSpy']
 ,,,Criteria:,"[['ConceptPlayerHelp', 'IsSpy', 'IsOnFriendlyControlPoint']]"
 
 Filename:,spy_incoming01,,Events:,"['spy.incoming01', 'taunt_spy.disco_fever_start']"
-Full Path:,vo/spy_incoming01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/761.vcd']"
+Full Path:,vo/spy_incoming01.mp3,,Scenes:,"['scenes/player/spy/low/761.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
 Transcription:,Incomiiing!,,Responses:,"['Taunt: Disco Fever', 'PlayerIncomingSpy']"
 Your Line:,,,Rules:,['PlayerIncomingSpy']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsSpy']]"
@@ -922,9 +922,9 @@ Transcription:,"""Jarate?"" (cries)",,Responses:,['PlayerJarateHit']
 Your Line:,,,Rules:,['PlayerJarateHit']
 ,,,Criteria:,"[['ConceptJarateHit', 'IsSpy']]"
 
-Filename:,spy_jaratehit06,,Events:,"['spy.jaratehit06', 'taunt.bearhug_spy_b']"
+Filename:,spy_jaratehit06,,Events:,"['taunt.bearhug_spy_b', 'spy.jaratehit06']"
 Full Path:,vo/spy_jaratehit06.mp3,,Scenes:,"['scenes/player/spy/low/3072.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
-Transcription:,EWWWWEUGH!,,Responses:,"['PlayerJarateHit', 'Taunt: Bear Hug']"
+Transcription:,EWWWWEUGH!,,Responses:,"['Taunt: Bear Hug', 'PlayerJarateHit']"
 Your Line:,,,Rules:,['PlayerJarateHit']
 ,,,Criteria:,"[['ConceptJarateHit', 'IsSpy']]"
 
@@ -936,8 +936,8 @@ Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy']"
 
 Filename:,spy_jeers02,,Events:,['spy.jeers02']
 Full Path:,vo/spy_jeers02.mp3,,Scenes:,"['scenes/player/spy/low/taunt01_v1.vcd', 'scenes/player/spy/low/767.vcd']"
-Transcription:,"Well, this was a disappointment!",,Responses:,"['PlayerSuddenDeathSpy', 'SpyTauntPrimary', 'PlayerJeersSpy', 'SpyTauntSpycicle']"
-Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'SpyTauntPlayerPrimary', 'PlayerJeersSpy', 'SpyTauntSpycicle']"
+Transcription:,"Well, this was a disappointment!",,Responses:,"['PlayerSuddenDeathSpy', 'SpyTauntSpycicle', 'SpyTauntPrimary', 'PlayerJeersSpy']"
+Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle', 'PlayerJeersSpy']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle'], ['ConceptPlayerSuddenDeathStart', 'IsSpy'], ['ConceptPlayerJeers', 'IsSpy']]"
 
 Filename:,spy_jeers03,,Events:,['spy.jeers03']
@@ -952,39 +952,39 @@ Transcription:,What a disaster!!,,Responses:,"['PlayerSuddenDeathSpy', 'PlayerJe
 Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsSpy'], ['ConceptPlayerJeers', 'IsSpy']]"
 
-Filename:,spy_jeers05,,Events:,"['spy.jeers05', 'spy_taunt_tuefort_tango_outro_b']"
-Full Path:,vo/spy_jeers05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/771.vcd']"
-Transcription:,Not our finest moment!,,Responses:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy', 'Taunt: Teufort Tango']"
+Filename:,spy_jeers05,,Events:,"['spy_taunt_tuefort_tango_outro_b', 'spy.jeers05']"
+Full Path:,vo/spy_jeers05.mp3,,Scenes:,"['scenes/player/spy/low/771.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Not our finest moment!,,Responses:,"['PlayerSuddenDeathSpy', 'Taunt: Teufort Tango', 'PlayerJeersSpy']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsSpy'], ['ConceptPlayerJeers', 'IsSpy']]"
 
-Filename:,spy_jeers06,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy.jeers06', 'spy_taunt_tuefort_tango_outro_b']"
-Full Path:,vo/spy_jeers06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/770.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Ohhhh... merde.,,Responses:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy', 'Taunt: Teufort Tango', 'Taunt: Tailored Terminal']"
+Filename:,spy_jeers06,,Events:,"['spy.jeers06', 'spy_taunt_tuefort_tango_outro_b', 'spy_taunt_tailore_terminal_a2_01']"
+Full Path:,vo/spy_jeers06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/770.vcd']"
+Transcription:,Ohhhh... merde.,,Responses:,"['PlayerSuddenDeathSpy', 'Taunt: Tailored Terminal', 'Taunt: Teufort Tango', 'PlayerJeersSpy']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathSpy', 'PlayerJeersSpy']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsSpy'], ['ConceptPlayerJeers', 'IsSpy']]"
 
-Filename:,spy_laughevil01,,Events:,"['spy.laughevil01', 'spy_taunt_curtain_call_vo_02', 'taunt_spy.disco_fever_middle', 'spy_taunt_tailore_terminal_intro_1', 'spy_taunt_the_punchline_spy_laughevil01']"
-Full Path:,vo/spy_laughevil01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/772.vcd', 'scenes/player/spy/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
-Transcription:,(Evil laugh 1),,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Disco Fever', 'Taunt: Curtain Call', 'KilledPlayerManySpy', 'Taunt: The Punchline', 'Taunt: The Victory Lap']"
+Filename:,spy_laughevil01,,Events:,"['taunt_spy.disco_fever_middle', 'spy_taunt_tailore_terminal_intro_1', 'spy.laughevil01', 'spy_taunt_curtain_call_vo_02', 'spy_taunt_the_punchline_spy_laughevil01']"
+Full Path:,vo/spy_laughevil01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/player/spy/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/772.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Transcription:,(Evil laugh 1),,Responses:,"['Taunt: The Punchline', 'Taunt: Disco Fever', 'Taunt: Tailored Terminal', 'KilledPlayerManySpy', 'Taunt: The Victory Lap', 'Taunt: Curtain Call']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
-Filename:,spy_laughevil02,,Events:,"['spy_taunt_tuefort_tango_a2', 'spy.laughevil02', 'spy_taunt_tailore_terminal_a1_01', 'taunt_spy.disco_fever_middle']"
-Full Path:,vo/spy_laughevil02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/1312.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/taunt_russian.vcd']"
-Transcription:,(Evil laugh 2),,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Teufort Tango', 'Taunt: Tailored Terminal', 'Taunt: Disco Fever', 'KilledPlayerManySpy']"
+Filename:,spy_laughevil02,,Events:,"['spy_taunt_tailore_terminal_a1_01', 'spy.laughevil02', 'spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_middle']"
+Full Path:,vo/spy_laughevil02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/1312.vcd', 'scenes/player/spy/low/taunt_russian.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Transcription:,(Evil laugh 2),,Responses:,"['Taunt: Teufort Tango', 'Taunt: Kazotsky Kick', 'Taunt: Disco Fever', 'Taunt: Tailored Terminal', 'KilledPlayerManySpy']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
-Filename:,spy_laughhappy01,,Events:,"['spy.laughhappy01', 'taunt_spy.disco_fever_middle']"
+Filename:,spy_laughhappy01,,Events:,"['taunt_spy.disco_fever_middle', 'spy.laughhappy01']"
 Full Path:,vo/spy_laughhappy01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/773.vcd']"
-Transcription:,(Happy laugh 1),,Responses:,"['Taunt: Disco Fever', 'KilledPlayerManySpy']"
+Transcription:,(Happy laugh 1),,Responses:,"['KilledPlayerManySpy', 'Taunt: Disco Fever']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
 Filename:,spy_laughhappy02,,Events:,"['spy.laughhappy02', 'spy_taunt_russian_rand2', 'spy_taunt_russian_rand']"
-Full Path:,vo/spy_laughhappy02.mp3,,Scenes:,"['scenes/player/spy/low/774.vcd', 'scenes/player/spy/low/taunt_russian.vcd']"
-Transcription:,(Happy laugh 2),,Responses:,"['Taunt: Kazotsky Kick', 'KilledPlayerManySpy']"
+Full Path:,vo/spy_laughhappy02.mp3,,Scenes:,"['scenes/player/spy/low/taunt_russian.vcd', 'scenes/player/spy/low/774.vcd']"
+Transcription:,(Happy laugh 2),,Responses:,"['KilledPlayerManySpy', 'Taunt: Kazotsky Kick']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
@@ -995,44 +995,44 @@ Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
 Filename:,spy_laughlong01,,Events:,['spy.laughlong01']
-Full Path:,vo/spy_laughlong01.mp3,,Scenes:,"['scenes/player/spy/low/775.vcd', 'scenes/player/spy/low/taunt_laugh.vcd']"
-Transcription:,(Long laugh),,Responses:,"['KilledPlayerManySpy', 'Taunt: The Schadenfreude', 'SpyTauntLaugh']"
-Your Line:,,,Rules:,"['SpyTauntAprilFools', 'KilledPlayerManySpy', 'SpyTauntLaugh']"
+Full Path:,vo/spy_laughlong01.mp3,,Scenes:,"['scenes/player/spy/low/taunt_laugh.vcd', 'scenes/player/spy/low/775.vcd']"
+Transcription:,(Long laugh),,Responses:,"['KilledPlayerManySpy', 'SpyTauntLaugh', 'Taunt: The Schadenfreude']"
+Your Line:,,,Rules:,"['KilledPlayerManySpy', 'SpyTauntLaugh', 'SpyTauntAprilFools']"
 ,,,Criteria:,"[['ConceptTauntLaugh', 'IsSpy'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsSpy'], ['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
-Filename:,spy_laughshort01,,Events:,"['taunt.luxury_lounge_laugh', 'spy_taunt_boxtrot_intro', 'taunt.luxury_lounge_loop', 'spy.laughshort01']"
+Filename:,spy_laughshort01,,Events:,"['spy.laughshort01', 'taunt.luxury_lounge_loop', 'spy_taunt_boxtrot_intro', 'taunt.luxury_lounge_laugh']"
 Full Path:,vo/spy_laughshort01.mp3,,Scenes:,"['scenes/player/spy/low/777.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
-Transcription:,Short laugh,,Responses:,"['Taunt: The Box Trot', 'PlayerTauntsSpy']"
+Transcription:,Short laugh,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_laughshort02,,Events:,"['taunt.luxury_lounge_laugh', 'spy.chuckle', 'spy_taunt_the_crypt_creeper_spy_laughshort02', 'taunt.luxury_lounge_loop', 'spy_taunt_boxtrot_intro', 'spy.laughshort02']"
+Filename:,spy_laughshort02,,Events:,"['taunt.luxury_lounge_loop', 'taunt.luxury_lounge_laugh', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_crypt_creeper_spy_laughshort02', 'spy.chuckle', 'spy.laughshort02']"
 Full Path:,vo/spy_laughshort02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd', 'scenes/player/spy/low/778.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['Taunt: The Box Trot', 'PlayerTauntsSpy', 'Taunt: The Crypt Creeper']"
+Transcription:,Short laugh 2,,Responses:,"['Taunt: The Crypt Creeper', 'PlayerTauntsSpy', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_laughshort03,,Events:,"['taunt.luxury_lounge_laugh', 'spy_taunt_tuefort_tango_laugh', 'spy.laughshort03', 'spy.chuckle', 'taunt.luxury_lounge_loop', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_final_score_spy_spy_laughshort03']"
-Full Path:,vo/spy_laughshort03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/1314.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
-Transcription:,Short laugh 3,,Responses:,"['Taunt: The Box Trot', 'PlayerTauntsSpy', 'Taunt: Teufort Tango', 'Taunt: The Final Score']"
+Filename:,spy_laughshort03,,Events:,"['taunt.luxury_lounge_loop', 'spy_taunt_the_final_score_spy_spy_laughshort03', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'spy_taunt_boxtrot_intro', 'spy.laughshort03', 'spy.chuckle']"
+Full Path:,vo/spy_laughshort03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/player/spy/low/1314.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Short laugh 3,,Responses:,"['Taunt: Teufort Tango', 'PlayerTauntsSpy', 'Taunt: The Final Score', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_laughshort04,,Events:,"['taunt.luxury_lounge_laugh', 'spy_taunt_tuefort_tango_laugh', 'spy.laughshort04', 'taunt.luxury_lounge_loop', 'spy_taunt_boxtrot_intro']"
-Full Path:,vo/spy_laughshort04.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/1315.vcd', 'scenes/player/spy/low/taunt04_v4.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
-Transcription:,Short laugh 4,,Responses:,"['Taunt: The Box Trot', 'PlayerTauntsSpy', 'Taunt: Teufort Tango', 'SpyTauntPDA']"
+Filename:,spy_laughshort04,,Events:,"['taunt.luxury_lounge_loop', 'spy.laughshort04', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'spy_taunt_boxtrot_intro']"
+Full Path:,vo/spy_laughshort04.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/player/spy/low/1315.vcd', 'scenes/player/spy/low/taunt04_v4.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Short laugh 4,,Responses:,"['Taunt: Teufort Tango', 'Taunt: The Box Trot', 'PlayerTauntsSpy', 'SpyTauntPDA']"
 Your Line:,,,Rules:,"['SpyTauntPlayerPDA', 'PlayerPositiveSpy']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA'], ['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_laughshort05,,Events:,"['taunt.luxury_lounge_laugh', 'spy_taunt_tuefort_tango_laugh', 'spy.laughshort05', 'spy.chuckle', 'taunt.luxury_lounge_loop', 'spy_taunt_boxtrot_intro']"
-Full Path:,vo/spy_laughshort05.mp3,,Scenes:,"['scenes/player/spy/low/taunt04_v3.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/1316.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
-Transcription:,Short laugh 5,,Responses:,"['Taunt: The Box Trot', 'PlayerTauntsSpy', 'Taunt: Teufort Tango', 'SpyTauntPDA']"
+Filename:,spy_laughshort05,,Events:,"['spy.laughshort05', 'taunt.luxury_lounge_loop', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'spy_taunt_boxtrot_intro', 'spy.chuckle']"
+Full Path:,vo/spy_laughshort05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/player/spy/low/taunt04_v3.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/1316.vcd']"
+Transcription:,Short laugh 5,,Responses:,"['Taunt: Teufort Tango', 'Taunt: The Box Trot', 'PlayerTauntsSpy', 'SpyTauntPDA']"
 Your Line:,,,Rules:,"['SpyTauntPlayerPDA', 'PlayerPositiveSpy']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA'], ['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort06,,Events:,"['spy_taunt_boxtrot_intro', 'spy.laughshort06']"
-Full Path:,vo/spy_laughshort06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/player/spy/low/1322.vcd']"
-Transcription:,(Short laugh),,Responses:,"['Taunt: The Box Trot', 'KilledPlayerManySpy']"
+Full Path:,vo/spy_laughshort06.mp3,,Scenes:,"['scenes/player/spy/low/1322.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
+Transcription:,(Short laugh),,Responses:,"['KilledPlayerManySpy', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
@@ -1068,14 +1068,14 @@ Your Line:,,,Rules:,['MedicFollowSpy']
 
 Filename:,spy_meleedare01,,Events:,['spy.meleedare01']
 Full Path:,vo/spy_meleedare01.mp3,,Scenes:,['scenes/player/spy/low/3016.vcd']
-Transcription:,Let's settle this like gentlemen!,,Responses:,"['MeleeDareSpy', 'MeleeDareCombatSpy']"
-Your Line:,,,Rules:,"['MeleeDareSpy', 'MeleeDareCombatSpy']"
+Transcription:,Let's settle this like gentlemen!,,Responses:,"['MeleeDareCombatSpy', 'MeleeDareSpy']"
+Your Line:,,,Rules:,"['MeleeDareCombatSpy', 'MeleeDareSpy']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
 Filename:,spy_meleedare02,,Events:,['spy.meleedare02']
 Full Path:,vo/spy_meleedare02.mp3,,Scenes:,['scenes/player/spy/low/3023.vcd']
-Transcription:,Queen's rules?,,Responses:,"['MeleeDareSpy', 'MeleeDareCombatSpy']"
-Your Line:,,,Rules:,"['MeleeDareSpy', 'MeleeDareCombatSpy']"
+Transcription:,Queen's rules?,,Responses:,"['MeleeDareCombatSpy', 'MeleeDareSpy']"
+Your Line:,,,Rules:,"['MeleeDareCombatSpy', 'MeleeDareSpy']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
 Filename:,spy_moveup01,,Events:,['spy.moveup01']
@@ -1108,15 +1108,15 @@ Transcription:,Place a Teleporter here.,,Responses:,['PlayerTeleporterHereSpy']
 Your Line:,,,Rules:,['PlayerTeleporterHereSpy']
 ,,,Criteria:,"[['ConceptPlayerTeleporterHere', 'IsSpy']]"
 
-Filename:,spy_negativevocalization01,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy.negativevocalization01', 'taunt_burstchester_spy_01', 'spy_taunt_tuefort_tango_outro_b']"
-Full Path:,vo/spy_negativevocalization01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/792.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Ugh...,,Responses:,"['Taunt: Burstchester', 'Taunt: Teufort Tango', 'PlayerNegativeSpy', 'Taunt: Tailored Terminal', 'PlayerLostPointSpy']"
+Filename:,spy_negativevocalization01,,Events:,"['taunt_burstchester_spy_01', 'spy_taunt_tuefort_tango_outro_b', 'spy.negativevocalization01', 'spy_taunt_tailore_terminal_a2_01']"
+Full Path:,vo/spy_negativevocalization01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/792.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Ugh...,,Responses:,"['Taunt: Teufort Tango', 'PlayerLostPointSpy', 'Taunt: Tailored Terminal', 'PlayerNegativeSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
-Filename:,spy_negativevocalization02,,Events:,"['taunt_burstchester_spy_01', 'spy.negativevocalization02', 'spy_taunt_tuefort_tango_outro_b', 'taunt_yeti_spy_negative']"
-Full Path:,vo/spy_negativevocalization02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/793.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/secondrate_sorcery.vcd']"
-Transcription:,Argh...,,Responses:,"['Taunt: Burstchester', 'Taunt: Teufort Tango', 'PlayerNegativeSpy', 'PlayerLostPointSpy', 'Taunt: Second Rate Sorcery']"
+Filename:,spy_negativevocalization02,,Events:,"['taunt_burstchester_spy_01', 'spy_taunt_tuefort_tango_outro_b', 'taunt_yeti_spy_negative', 'spy.negativevocalization02']"
+Full Path:,vo/spy_negativevocalization02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/secondrate_sorcery.vcd', 'scenes/player/spy/low/793.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Argh...,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Second Rate Sorcery', 'PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
@@ -1128,37 +1128,37 @@ Your Line:,,,Rules:,"['RejectedDuelSpy', 'PlayerLostPointSpy', 'PlayerNegativeSp
 
 Filename:,spy_negativevocalization04,,Events:,['spy.negativevocalization04']
 Full Path:,vo/spy_negativevocalization04.mp3,,Scenes:,"['scenes/player/spy/low/791.vcd', 'scenes/player/spy/low/taunt04_v5.vcd']"
-Transcription:,"Oh, please...",,Responses:,"['SpyTauntPDA', 'RejectedDuelSpy', 'PlayerLostPointSpy', 'PlayerNegativeSpy']"
-Your Line:,,,Rules:,"['SpyTauntPlayerPDA', 'RejectedDuelSpy', 'PlayerLostPointSpy', 'PlayerNegativeSpy']"
+Transcription:,"Oh, please...",,Responses:,"['RejectedDuelSpy', 'PlayerLostPointSpy', 'PlayerNegativeSpy', 'SpyTauntPDA']"
+Your Line:,,,Rules:,"['PlayerNegativeSpy', 'RejectedDuelSpy', 'PlayerLostPointSpy', 'SpyTauntPlayerPDA']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA'], ['ConceptDuelRejected', 'IsSpy'], ['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization05,,Events:,"['spy.negativevocalization05', 'taunt.bearhug_spy_a']"
 Full Path:,vo/spy_negativevocalization05.mp3,,Scenes:,"['scenes/player/spy/low/789.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
-Transcription:,Oh please.,,Responses:,"['Taunt: Bear Hug', 'PlayerLostPointSpy', 'PlayerNegativeSpy']"
+Transcription:,Oh please.,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Bear Hug']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
-Filename:,spy_negativevocalization06,,Events:,"['taunt_burstchester_spy_01', 'spy_taunt_tuefort_tango_outro_b', 'spy.negativevocalization06', 'taunt.bearhug_spy_a', 'spy_taunt_tailore_terminal_a2_01']"
-Full Path:,vo/spy_negativevocalization06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/1318.vcd']"
-Transcription:,"Oh, no...",,Responses:,"['Taunt: Burstchester', 'Taunt: Bear Hug', 'Taunt: Teufort Tango', 'PlayerNegativeSpy', 'Taunt: Tailored Terminal', 'PlayerLostPointSpy']"
+Filename:,spy_negativevocalization06,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'taunt.bearhug_spy_a', 'taunt_burstchester_spy_01', 'spy.negativevocalization06', 'spy_taunt_tuefort_tango_outro_b']"
+Full Path:,vo/spy_negativevocalization06.mp3,,Scenes:,"['scenes/player/spy/low/1318.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,"Oh, no...",,Responses:,"['Taunt: Teufort Tango', 'Taunt: Bear Hug', 'PlayerLostPointSpy', 'Taunt: Tailored Terminal', 'PlayerNegativeSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization07,,Events:,"['spy.negativevocalization07', 'spy_taunt_tuefort_tango_outro_b', 'taunt_yeti_spy_negative']"
-Full Path:,vo/spy_negativevocalization07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/1319.vcd']"
-Transcription:,Agh!,,Responses:,"['PlayerLostPointSpy', 'Taunt: Teufort Tango', 'PlayerNegativeSpy']"
+Full Path:,vo/spy_negativevocalization07.mp3,,Scenes:,"['scenes/player/spy/low/1319.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Agh!,,Responses:,"['Taunt: Teufort Tango', 'PlayerLostPointSpy', 'PlayerNegativeSpy']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
-Filename:,spy_negativevocalization08,,Events:,"['taunt_burstchester_spy_01', 'spy.negativevocalization08', 'spy_taunt_tuefort_tango_outro_b', 'taunt_yeti_spy_negative', 'spy_taunt_tailore_terminal_a2_01']"
-Full Path:,vo/spy_negativevocalization08.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/1320.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
-Transcription:,Ugh!,,Responses:,"['Taunt: Burstchester', 'Taunt: Teufort Tango', 'PlayerNegativeSpy', 'Taunt: Rock, Paper, Scissors', 'Taunt: Tailored Terminal', 'PlayerLostPointSpy']"
+Filename:,spy_negativevocalization08,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'taunt_burstchester_spy_01', 'taunt_yeti_spy_negative', 'spy_taunt_tuefort_tango_outro_b', 'spy.negativevocalization08']"
+Full Path:,vo/spy_negativevocalization08.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/1320.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
+Transcription:,Ugh!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Rock, Paper, Scissors', 'PlayerLostPointSpy', 'Taunt: Tailored Terminal', 'PlayerNegativeSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
-Filename:,spy_negativevocalization09,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'taunt_burstchester_spy_01', 'spy.negativevocalization09', 'taunt_yeti_spy_negative']"
-Full Path:,vo/spy_negativevocalization09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/1321.vcd', 'scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Ughhhh...,,Responses:,"['Taunt: Burstchester', 'PlayerNegativeSpy', 'Taunt: The Critical Fail', 'Taunt: Tailored Terminal', 'PlayerLostPointSpy']"
+Filename:,spy_negativevocalization09,,Events:,"['taunt_burstchester_spy_01', 'spy.negativevocalization09', 'spy_taunt_tailore_terminal_a2_01', 'taunt_yeti_spy_negative']"
+Full Path:,vo/spy_negativevocalization09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/1321.vcd']"
+Transcription:,Ughhhh...,,Responses:,"['Taunt: The Critical Fail', 'PlayerLostPointSpy', 'Taunt: Tailored Terminal', 'PlayerNegativeSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
@@ -1198,73 +1198,73 @@ Transcription:,I'm afraid not.,,Responses:,['PlayerNoSpy']
 Your Line:,,,Rules:,['PlayerNoSpy']
 ,,,Criteria:,"[['ConceptPlayerNo', 'IsSpy']]"
 
-Filename:,spy_paincrticialdeath01,,Events:,"['spy.m_mvm_critdeath', 'spy.paincrticialdeath01', 'mvm.playerdiedspy', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.critdeath']"
+Filename:,spy_paincrticialdeath01,,Events:,"['spy.critdeath', 'mvm.playerdiedspy', 'spy.paincrticialdeath01', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.m_mvm_critdeath']"
 Full Path:,vo/spy_paincrticialdeath01.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd']
 Transcription:,(Dying scream 1),,Responses:,['Taunt: Unleashed Rage']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_paincrticialdeath02,,Events:,"['spy.m_mvm_critdeath', 'mvm.playerdiedspy', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.paincrticialdeath02', 'spy.critdeath']"
+Filename:,spy_paincrticialdeath02,,Events:,"['spy.critdeath', 'mvm.playerdiedspy', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.m_mvm_critdeath', 'spy.paincrticialdeath02']"
 Full Path:,vo/spy_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,(Dying scream 2),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_paincrticialdeath03,,Events:,"['spy.m_mvm_critdeath', 'spy.paincrticialdeath03', 'mvm.playerdiedspy', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.critdeath']"
+Filename:,spy_paincrticialdeath03,,Events:,"['spy.critdeath', 'mvm.playerdiedspy', 'spy.paincrticialdeath03', 'spy.meleedeath', 'spy.m_mvm_meleedeath', 'spy.m_mvm_critdeath']"
 Full Path:,vo/spy_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,(Dying scream 3),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_painsevere01,,Events:,"['spy.painsevere01', 'spy.scardy_cat', 'spy.m_mvm_death', 'spy.death', 'taunt.bearhug_spy_b', 'spy.m_mvm_explosiondeath']"
-Full Path:,vo/spy_painsevere01.mp3,,Scenes:,"['scenes/player/spy/low/803.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
-Transcription:,(Yell 1),,Responses:,"['Taunt: Bear Hug', 'PlayerAttackerPainSpy', 'Taunt: The Scaredy-Cat!']"
+Filename:,spy_painsevere01,,Events:,"['taunt.bearhug_spy_b', 'spy.m_mvm_death', 'spy.painsevere01', 'spy.scardy_cat', 'spy.m_mvm_explosiondeath', 'spy.death']"
+Full Path:,vo/spy_painsevere01.mp3,,Scenes:,"['scenes/player/spy/low/803.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
+Transcription:,(Yell 1),,Responses:,"['PlayerAttackerPainSpy', 'Taunt: Bear Hug', 'Taunt: The Scaredy-Cat!']"
 Your Line:,,,Rules:,['PlayerAttackerPainSpy']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSpy', 'IsNotDominating']]"
 
-Filename:,spy_painsevere02,,Events:,"['spy.painsevere02', 'spy.death', 'spy.m_mvm_death', 'spy.m_mvm_explosiondeath']"
+Filename:,spy_painsevere02,,Events:,"['spy.m_mvm_explosiondeath', 'spy.m_mvm_death', 'spy.death', 'spy.painsevere02']"
 Full Path:,vo/spy_painsevere02.mp3,,Scenes:,['scenes/player/spy/low/804.vcd']
 Transcription:,(Groan 1),,Responses:,['PlayerAttackerPainSpy']
 Your Line:,,,Rules:,['PlayerAttackerPainSpy']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSpy', 'IsNotDominating']]"
 
-Filename:,spy_painsevere03,,Events:,"['spy.painsevere03', 'spy.scardy_cat', 'spy.m_mvm_death', 'spy.death', 'spy.m_mvm_explosiondeath']"
-Full Path:,vo/spy_painsevere03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd', 'scenes/player/spy/low/805.vcd']"
+Filename:,spy_painsevere03,,Events:,"['spy.painsevere03', 'spy.m_mvm_death', 'spy.scardy_cat', 'spy.m_mvm_explosiondeath', 'spy.death']"
+Full Path:,vo/spy_painsevere03.mp3,,Scenes:,"['scenes/player/spy/low/805.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
 Transcription:,(Groan 2),,Responses:,"['PlayerAttackerPainSpy', 'Taunt: The Scaredy-Cat!']"
 Your Line:,,,Rules:,['PlayerAttackerPainSpy']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSpy', 'IsNotDominating']]"
 
-Filename:,spy_painsevere04,,Events:,"['spy.death', 'spy.m_mvm_death', 'spy.painsevere04', 'spy.m_mvm_explosiondeath']"
+Filename:,spy_painsevere04,,Events:,"['spy.m_mvm_explosiondeath', 'spy.painsevere04', 'spy.m_mvm_death', 'spy.death']"
 Full Path:,vo/spy_painsevere04.mp3,,Scenes:,['scenes/player/spy/low/1387.vcd']
 Transcription:,(Yell 2),,Responses:,['PlayerAttackerPainSpy']
 Your Line:,,,Rules:,['PlayerAttackerPainSpy']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSpy', 'IsNotDominating']]"
 
-Filename:,spy_painsevere05,,Events:,"['spy_taunt_neck_snap_03', 'spy.m_mvm_death', 'spy.death', 'spy.painsevere05', 'spy.m_mvm_explosiondeath']"
+Filename:,spy_painsevere05,,Events:,"['spy_taunt_neck_snap_03', 'spy.m_mvm_death', 'spy.painsevere05', 'spy.m_mvm_explosiondeath', 'spy.death']"
 Full Path:,vo/spy_painsevere05.mp3,,Scenes:,"['scenes/player/spy/low/1388.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd']"
 Transcription:,(Groan 3),,Responses:,"['PlayerAttackerPainSpy', 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,['PlayerAttackerPainSpy']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSpy', 'IsNotDominating']]"
 
-Filename:,spy_painsharp01,,Events:,"['taunt_burstchester_spy_pain', 'spy.explosiondeath', 'spy.painsharp01']"
-Full Path:,vo/spy_painsharp01.mp3,,Scenes:,"['scenes/player/spy/low/1928.vcd', 'scenes/player/spy/low/806.vcd']"
-Transcription:,(Grunt 1),,Responses:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
-Your Line:,,,Rules:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
+Filename:,spy_painsharp01,,Events:,"['spy.explosiondeath', 'spy.painsharp01', 'taunt_burstchester_spy_pain']"
+Full Path:,vo/spy_painsharp01.mp3,,Scenes:,"['scenes/player/spy/low/806.vcd', 'scenes/player/spy/low/1928.vcd']"
+Transcription:,(Grunt 1),,Responses:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
+Your Line:,,,Rules:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
 ,,,Criteria:,"[['ConceptPain', 'IsSpy', 'IsNotDominating'], ['ConceptFire', 'IsSpy', 'SpyIsStillonFire', 'IsNotDominating', 'AppliesContext:SpyOnFire:1:7']]"
 
-Filename:,spy_painsharp02,,Events:,"['spy.painsharp02', 'taunt_burstchester_spy_pain', 'spy.explosiondeath']"
+Filename:,spy_painsharp02,,Events:,"['spy.painsharp02', 'spy.explosiondeath', 'taunt_burstchester_spy_pain']"
 Full Path:,vo/spy_painsharp02.mp3,,Scenes:,"['scenes/player/spy/low/807.vcd', 'scenes/player/spy/low/1928.vcd']"
-Transcription:,(Grunt 2),,Responses:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
-Your Line:,,,Rules:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
+Transcription:,(Grunt 2),,Responses:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
+Your Line:,,,Rules:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
 ,,,Criteria:,"[['ConceptPain', 'IsSpy', 'IsNotDominating'], ['ConceptFire', 'IsSpy', 'SpyIsStillonFire', 'IsNotDominating', 'AppliesContext:SpyOnFire:1:7']]"
 
-Filename:,spy_painsharp03,,Events:,"['taunt_burstchester_spy_pain', 'spy.explosiondeath', 'spy.painsharp03']"
+Filename:,spy_painsharp03,,Events:,"['spy.explosiondeath', 'spy.painsharp03', 'taunt_burstchester_spy_pain']"
 Full Path:,vo/spy_painsharp03.mp3,,Scenes:,"['scenes/player/spy/low/808.vcd', 'scenes/player/spy/low/1928.vcd']"
-Transcription:,(Gasp 1),,Responses:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
-Your Line:,,,Rules:,"['PlayerPainSpy', 'PlayerStillOnFireSpy']"
+Transcription:,(Gasp 1),,Responses:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
+Your Line:,,,Rules:,"['PlayerStillOnFireSpy', 'PlayerPainSpy']"
 ,,,Criteria:,"[['ConceptPain', 'IsSpy', 'IsNotDominating'], ['ConceptFire', 'IsSpy', 'SpyIsStillonFire', 'IsNotDominating', 'AppliesContext:SpyOnFire:1:7']]"
 
-Filename:,spy_painsharp04,,Events:,"['spy.painsharp04', 'taunt_burstchester_spy_pain', 'spy.explosiondeath']"
+Filename:,spy_painsharp04,,Events:,"['spy.explosiondeath', 'spy.painsharp04', 'taunt_burstchester_spy_pain']"
 Full Path:,vo/spy_painsharp04.mp3,,Scenes:,['scenes/player/spy/low/1381.vcd']
 Transcription:,(Gasp 2),,Responses:,['PlayerPainSpy']
 Your Line:,,,Rules:,['PlayerPainSpy']
@@ -1312,9 +1312,9 @@ Transcription:,I'll tell your mother hello.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_positivevocalization01,,Events:,"['spy_taunt_the_punchline_outro', 'spy_taunt_tailore_terminal_intro_1', 'spy.positivevocalization01']"
-Full Path:,vo/spy_positivevocalization01.mp3,,Scenes:,"['scenes/player/spy/low/809.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
-Transcription:,Excellent!,,Responses:,"['PlayerPositiveSpy', 'Taunt: The Punchline', 'PlayerKilledCapperSpy', 'Taunt: Tailored Terminal']"
+Filename:,spy_positivevocalization01,,Events:,"['spy.positivevocalization01', 'spy_taunt_the_punchline_outro', 'spy_taunt_tailore_terminal_intro_1']"
+Full Path:,vo/spy_positivevocalization01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/809.vcd']"
+Transcription:,Excellent!,,Responses:,"['PlayerKilledCapperSpy', 'Taunt: Tailored Terminal', 'PlayerPositiveSpy', 'Taunt: The Punchline']"
 Your Line:,,,Rules:,"['PlayerKilledCapperSpy', 'PlayerPositiveSpy']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptPlayerPositive', 'IsSpy']]"
 
@@ -1342,19 +1342,19 @@ Transcription:,Top shelf!,,Responses:,"['PlayerKilledForRevengeSpy', 'PlayerPosi
 Your Line:,,,Rules:,"['PlayerKilledForRevengeSpy', 'PlayerPositiveSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_revenge01,,Events:,"['spy.teasevictim', 'spy.revenge01']"
+Filename:,spy_revenge01,,Events:,"['spy.revenge01', 'spy.teasevictim']"
 Full Path:,vo/spy_revenge01.mp3,,Scenes:,['scenes/player/spy/low/3038.vcd']
 Transcription:,"Hello again, dumbbell!",,Responses:,['PlayerKilledForRevengeSpy']
 Your Line:,,,Rules:,['PlayerKilledForRevengeSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,spy_revenge02,,Events:,"['spy.teasevictim', 'spy.revenge02']"
+Filename:,spy_revenge02,,Events:,"['spy.revenge02', 'spy.teasevictim']"
 Full Path:,vo/spy_revenge02.mp3,,Scenes:,['scenes/player/spy/low/3039.vcd']
 Transcription:,"I'm back, you subnormal halfwit!",,Responses:,['PlayerKilledForRevengeSpy']
 Your Line:,,,Rules:,['PlayerKilledForRevengeSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,spy_revenge03,,Events:,"['spy.teasevictim', 'spy.revenge03']"
+Filename:,spy_revenge03,,Events:,"['spy.revenge03', 'spy.teasevictim']"
 Full Path:,vo/spy_revenge03.mp3,,Scenes:,['scenes/player/spy/low/3017.vcd']
 Transcription:,Did you forget about me?!,,Responses:,['PlayerKilledForRevengeSpy']
 Your Line:,,,Rules:,['PlayerKilledForRevengeSpy']
@@ -1517,7 +1517,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_rpswin02,,Events:,['spy_rpswin02']
-Full Path:,vo/spy_rpswin02.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd']"
+Full Path:,vo/spy_rpswin02.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd']"
 Transcription:,I am victorious!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -1536,14 +1536,14 @@ Your Line:,,,Rules:,['PlayerSentryAheadSpy']
 
 Filename:,spy_specialcompleted-assistedkill01,,Events:,['spy.specialcompleted-assistedkill01']
 Full Path:,vo/spy_specialcompleted-assistedkill01.mp3,,Scenes:,['scenes/player/spy/low/828.vcd']
-Transcription:,I appreciate your help.,,Responses:,"['KilledPlayerAssistSpy', 'KilledPlayerAssistAutoSpy']"
-Your Line:,,,Rules:,"['KilledPlayerAssistSpy', 'KilledPlayerAssistAutoSpy']"
+Transcription:,I appreciate your help.,,Responses:,"['KilledPlayerAssistAutoSpy', 'KilledPlayerAssistSpy']"
+Your Line:,,,Rules:,"['KilledPlayerAssistAutoSpy', 'KilledPlayerAssistSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', '20PercentChance', 'SpyNotAssistSpeech', 'AppliesContext:SpyAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsSpy', 'IsARecentKill', 'KilledPlayerDelay', 'SpyNotAssistSpeech', 'AppliesContext:SpyAssistSpeech:1:20']]"
 
 Filename:,spy_specialcompleted-assistedkill02,,Events:,['spy.specialcompleted-assistedkill02']
 Full Path:,vo/spy_specialcompleted-assistedkill02.mp3,,Scenes:,['scenes/player/spy/low/829.vcd']
-Transcription:,"My appreciation, amigo.",,Responses:,"['KilledPlayerAssistSpy', 'KilledPlayerAssistAutoSpy']"
-Your Line:,,,Rules:,"['KilledPlayerAssistSpy', 'KilledPlayerAssistAutoSpy']"
+Transcription:,"My appreciation, amigo.",,Responses:,"['KilledPlayerAssistAutoSpy', 'KilledPlayerAssistSpy']"
+Your Line:,,,Rules:,"['KilledPlayerAssistAutoSpy', 'KilledPlayerAssistSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', '20PercentChance', 'SpyNotAssistSpeech', 'AppliesContext:SpyAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsSpy', 'IsARecentKill', 'KilledPlayerDelay', 'SpyNotAssistSpeech', 'AppliesContext:SpyAssistSpeech:1:20']]"
 
 Filename:,spy_specialcompleted01,,Events:,['spy.specialcompleted01']
@@ -1555,16 +1555,16 @@ Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
 Filename:,spy_specialcompleted02,,Events:,['spy.specialcompleted02']
 Full Path:,vo/spy_specialcompleted02.mp3,,Scenes:,['scenes/player/spy/low/817.vcd']
 Transcription:,With my apologies.,,Responses:,['KilledPlayerMeleeSpy']
-Your Line:,,,Rules:,"['KilledPlayerMeleeDisguisedSpy', 'KilledPlayerMeleeSpy']"
+Your Line:,,,Rules:,"['KilledPlayerMeleeSpy', 'KilledPlayerMeleeDisguisedSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5']]"
 
-Filename:,spy_specialcompleted03,,Events:,"['spy_taunt_the_punchline_outro', 'spy.scardy_cat_b', 'spy.specialcompleted03']"
-Full Path:,vo/spy_specialcompleted03.mp3,,Scenes:,"['scenes/player/spy/low/taunt01_v2.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd', 'scenes/player/spy/low/818.vcd']"
-Transcription:,"Oh dear, I've made quite a mess.",,Responses:,"['Taunt: The Scaredy-Cat!', 'KilledPlayerMeleeSpy', 'SpyTauntSpycicle', 'Taunt: The Punchline', 'SpyTauntPrimary']"
-Your Line:,,,Rules:,"['KilledPlayerMeleeDisguisedSpy', 'SpyTauntPlayerPrimary', 'KilledPlayerMeleeSpy', 'SpyTauntSpycicle']"
+Filename:,spy_specialcompleted03,,Events:,"['spy.scardy_cat_b', 'spy_taunt_the_punchline_outro', 'spy.specialcompleted03']"
+Full Path:,vo/spy_specialcompleted03.mp3,,Scenes:,"['scenes/player/spy/low/818.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/taunt01_v2.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
+Transcription:,"Oh dear, I've made quite a mess.",,Responses:,"['Taunt: The Punchline', 'KilledPlayerMeleeSpy', 'Taunt: The Scaredy-Cat!', 'SpyTauntPrimary', 'SpyTauntSpycicle']"
+Your Line:,,,Rules:,"['KilledPlayerMeleeDisguisedSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle', 'KilledPlayerMeleeSpy']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5']]"
 
-Filename:,spy_specialcompleted04,,Events:,"['spy.teasevictim', 'spy.specialcompleted04']"
+Filename:,spy_specialcompleted04,,Events:,"['spy.specialcompleted04', 'spy.teasevictim']"
 Full Path:,vo/spy_specialcompleted04.mp3,,Scenes:,['scenes/player/spy/low/819.vcd']
 Transcription:,Sorry to 'pop-in' unannounced.,,Responses:,['KilledPlayerMeleeDisguisedSpy']
 Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
@@ -1583,9 +1583,9 @@ Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5']]"
 
 Filename:,spy_specialcompleted07,,Events:,['spy.specialcompleted07']
-Full Path:,vo/spy_specialcompleted07.mp3,,Scenes:,"['scenes/player/spy/low/taunt01_v3.vcd', 'scenes/player/spy/low/822.vcd']"
-Transcription:,I never really was on your side.,,Responses:,"['KilledPlayerMeleeDisguisedSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle']"
-Your Line:,,,Rules:,"['KilledPlayerMeleeDisguisedSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle']"
+Full Path:,vo/spy_specialcompleted07.mp3,,Scenes:,"['scenes/player/spy/low/822.vcd', 'scenes/player/spy/low/taunt01_v3.vcd']"
+Transcription:,I never really was on your side.,,Responses:,"['SpyTauntSpycicle', 'SpyTauntPrimary', 'KilledPlayerMeleeDisguisedSpy']"
+Your Line:,,,Rules:,"['SpyTauntPlayerPrimary', 'SpyTauntSpycicle', 'KilledPlayerMeleeDisguisedSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle']]"
 
 Filename:,spy_specialcompleted08,,Events:,['spy.specialcompleted08']
@@ -1596,23 +1596,23 @@ Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
 
 Filename:,spy_specialcompleted09,,Events:,['spy.specialcompleted09']
 Full Path:,vo/spy_specialcompleted09.mp3,,Scenes:,['scenes/player/spy/low/824.vcd']
-Transcription:,Coward!,,Responses:,"['RejectedDuelSpy', 'KilledPlayerManySpy', 'MeleeDareCombatSpy']"
-Your Line:,,,Rules:,"['RejectedDuelSpy', 'KilledPlayerManySpy', 'MeleeDareCombatSpy']"
+Transcription:,Coward!,,Responses:,"['KilledPlayerManySpy', 'MeleeDareCombatSpy', 'RejectedDuelSpy']"
+Your Line:,,,Rules:,"['KilledPlayerManySpy', 'RejectedDuelSpy', 'MeleeDareCombatSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptDuelRejected', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
-Filename:,spy_specialcompleted10,,Events:,"['spy.teasevictim', 'spy_taunt_the_punchline', 'taunt_burstchester_spy_02', 'spy.specialcompleted10']"
-Full Path:,vo/spy_specialcompleted10.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/825.vcd']"
-Transcription:,You disgust me!,,Responses:,"['Taunt: Burstchester', 'Taunt: The Punchline', 'RejectedDuelSpy', 'KilledPlayerManySpy']"
-Your Line:,,,Rules:,"['RejectedDuelSpy', 'KilledPlayerManySpy']"
+Filename:,spy_specialcompleted10,,Events:,"['spy_taunt_the_punchline', 'taunt_burstchester_spy_02', 'spy.specialcompleted10', 'spy.teasevictim']"
+Full Path:,vo/spy_specialcompleted10.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/825.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,You disgust me!,,Responses:,"['KilledPlayerManySpy', 'RejectedDuelSpy', 'Taunt: Burstchester', 'Taunt: The Punchline']"
+Your Line:,,,Rules:,"['KilledPlayerManySpy', 'RejectedDuelSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptDuelRejected', 'IsSpy']]"
 
-Filename:,spy_specialcompleted11,,Events:,"['spy.specialcompleted11', 'taunt_burstchester_spy_02']"
-Full Path:,vo/spy_specialcompleted11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt01_v4.vcd', 'scenes/player/spy/low/826.vcd']"
-Transcription:,You got blood on my suit.,,Responses:,"['Taunt: Burstchester', 'SpyTauntPrimary', 'KilledPlayerMeleeSpy', 'SpyTauntSpycicle']"
-Your Line:,,,Rules:,"['KilledPlayerMeleeDisguisedSpy', 'SpyTauntPlayerPrimary', 'KilledPlayerMeleeSpy', 'SpyTauntSpycicle']"
+Filename:,spy_specialcompleted11,,Events:,"['taunt_burstchester_spy_02', 'spy.specialcompleted11']"
+Full Path:,vo/spy_specialcompleted11.mp3,,Scenes:,"['scenes/player/spy/low/taunt01_v4.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/826.vcd']"
+Transcription:,You got blood on my suit.,,Responses:,"['KilledPlayerMeleeSpy', 'SpyTauntSpycicle', 'SpyTauntPrimary', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['KilledPlayerMeleeSpy', 'SpyTauntSpycicle', 'SpyTauntPlayerPrimary', 'KilledPlayerMeleeDisguisedSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle']]"
 
-Filename:,spy_specialcompleted12,,Events:,"['spy.teasevictim', 'spy.specialcompleted12', 'spy_taunt_the_punchline_outro', 'spy_taunt_the_punchline']"
+Filename:,spy_specialcompleted12,,Events:,"['spy_taunt_the_punchline', 'spy_taunt_the_punchline_outro', 'spy.specialcompleted12', 'spy.teasevictim']"
 Full Path:,vo/spy_specialcompleted12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/827.vcd']"
 Transcription:,Surprise!,,Responses:,"['Taunt: The Punchline', 'KilledPlayerMeleeDisguisedSpy']"
 Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
@@ -1624,7 +1624,7 @@ Transcription:,Time for the killing stroke!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_stabtaunt02,,Events:,"['spy_taunt_tailore_terminal_a1_02', 'spy_stabtaunt02']"
+Filename:,spy_stabtaunt02,,Events:,"['spy_stabtaunt02', 'spy_taunt_tailore_terminal_a1_02']"
 Full Path:,vo/spy_stabtaunt02.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']
 Transcription:,Time to make that ugly face a little prettier!,,Responses:,['Taunt: Tailored Terminal']
 Your Line:,,,Rules:,[]
@@ -1666,7 +1666,7 @@ Transcription:,I'm going to filet you like a salmon.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_stabtaunt09,,Events:,"['spy_taunt_tailore_terminal_a1_02', 'spy_stabtaunt09']"
+Filename:,spy_stabtaunt09,,Events:,"['spy_stabtaunt09', 'spy_taunt_tailore_terminal_a1_02']"
 Full Path:,vo/spy_stabtaunt09.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']
 Transcription:,I'm going to puncture you like a juice box.,,Responses:,['Taunt: Tailored Terminal']
 Your Line:,,,Rules:,[]
@@ -1684,7 +1684,7 @@ Transcription:,I'm going to carve you like a pumpkin.,,Responses:,['Taunt: Tailo
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_stabtaunt12,,Events:,"['spy_stabtaunt12', 'spy_taunt_tailore_terminal_a1_02']"
+Filename:,spy_stabtaunt12,,Events:,"['spy_taunt_tailore_terminal_a1_02', 'spy_stabtaunt12']"
 Full Path:,vo/spy_stabtaunt12.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']
 Transcription:,I'm going to butcher you like a pig.,,Responses:,['Taunt: Tailored Terminal']
 Your Line:,,,Rules:,[]
@@ -1716,26 +1716,26 @@ Your Line:,,,Rules:,[]
 
 Filename:,spy_standonthepoint01,,Events:,['spy.standonthepoint01']
 Full Path:,vo/spy_standonthepoint01.mp3,,Scenes:,['scenes/player/spy/low/830.vcd']
-Transcription:,Come stand on the point!,,Responses:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
+Transcription:,Come stand on the point!,,Responses:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
+Your Line:,,,Rules:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'IsHelpCapSpy']]"
 
 Filename:,spy_standonthepoint02,,Events:,['spy.standonthepoint02']
 Full Path:,vo/spy_standonthepoint02.mp3,,Scenes:,['scenes/player/spy/low/1323.vcd']
-Transcription:,"Come stand on the point, you idiot!",,Responses:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
+Transcription:,"Come stand on the point, you idiot!",,Responses:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
+Your Line:,,,Rules:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'IsHelpCapSpy']]"
 
 Filename:,spy_standonthepoint03,,Events:,['spy.standonthepoint03']
 Full Path:,vo/spy_standonthepoint03.mp3,,Scenes:,['scenes/player/spy/low/1324.vcd']
-Transcription:,Idiot! Come stand on the point.,,Responses:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
+Transcription:,Idiot! Come stand on the point.,,Responses:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
+Your Line:,,,Rules:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'IsHelpCapSpy']]"
 
 Filename:,spy_standonthepoint04,,Events:,['spy.standonthepoint04']
 Full Path:,vo/spy_standonthepoint04.mp3,,Scenes:,['scenes/player/spy/low/1325.vcd']
-Transcription:,"Come stand on the point, you imbecile!",,Responses:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Spy', 'DefendOnThePointSpy']"
+Transcription:,"Come stand on the point, you imbecile!",,Responses:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
+Your Line:,,,Rules:,"['DefendOnThePointSpy', 'PlayerHelpCapture2Spy']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsSpy', 'IsOnCappableControlPoint', 'IsHelpCapSpy']]"
 
 Filename:,spy_thanks01,,Events:,['spy.thanks01']
@@ -1840,7 +1840,7 @@ Transcription:,It's a privilege to be killed by a man who looks this good.,,Resp
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_tietaunt09,,Events:,"['spy_taunt_the_punchline_outro', 'spy_tietaunt09']"
+Filename:,spy_tietaunt09,,Events:,"['spy_tietaunt09', 'spy_taunt_the_punchline_outro']"
 Full Path:,vo/spy_tietaunt09.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_the_punchline.vcd']
 Transcription:,"As if I would get blood on a $3,000 suit. Come on.",,Responses:,['Taunt: The Punchline']
 Your Line:,,,Rules:,[]
@@ -1906,7 +1906,7 @@ Transcription:,I'm waiting.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_highfive07,,Events:,"['spy.highfive07', 'spy_taunt_flag']"
+Filename:,spy_highfive07,,Events:,"['spy_taunt_flag', 'spy.highfive07']"
 Full Path:,vo/taunts/spy_highfive07.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_flying_colors.vcd']
 Transcription:,Gentlemen!,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
@@ -1948,13 +1948,13 @@ Transcription:,"Come on, I don't have all day.",,Responses:,['Taunt: Tailored Te
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_highfive14,,Events:,"['spy.highfive14', 'spy_taunt_flag']"
+Filename:,spy_highfive14,,Events:,"['spy_taunt_flag', 'spy.highfive14']"
 Full Path:,vo/taunts/spy_highfive14.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_flying_colors.vcd']
 Transcription:,Who will join me?,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_highfive_success01,,Events:,"['spy.highfivesuccess01', 'spy_taunt_flag']"
+Filename:,spy_highfive_success01,,Events:,"['spy_taunt_flag', 'spy.highfivesuccess01']"
 Full Path:,vo/taunts/spy_highfive_success01.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_flying_colors.vcd']
 Transcription:,Yes!,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
@@ -1991,7 +1991,7 @@ Your Line:,,,Rules:,"['MeleeDareCombatSpy', 'AcceptedDuelSpy']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
 Filename:,spy_taunts02,,Events:,"['spy.taunts02', 'spy_taunt_tailore_terminal_a1_02']"
-Full Path:,vo/taunts/spy_taunts02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/taunt03_v1.vcd']"
+Full Path:,vo/taunts/spy_taunts02.mp3,,Scenes:,"['scenes/player/spy/low/taunt03_v1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
 Transcription:,I'm going to gut you like a Cornish game hen.,,Responses:,"['SpyTauntMelee', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpyTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsKnife']]"
@@ -2002,21 +2002,21 @@ Transcription:,You are all incompetent cowards!,,Responses:,['InvulnerableSpeech
 Your Line:,,,Rules:,['InvulnerableSpeechSpy']
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsInvulnerable', 'SpyNotInvulnerableSpeech', 'AppliesContext:SpyInvulnerableSpeech:1:30']]"
 
-Filename:,spy_taunts04,,Events:,"['spy_taunt_tailore_terminal_a1_02', 'spy.taunts04']"
+Filename:,spy_taunts04,,Events:,"['spy.taunts04', 'spy_taunt_tailore_terminal_a1_02']"
 Full Path:,vo/taunts/spy_taunts04.mp3,,Scenes:,"['scenes/player/spy/low/833.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
-Transcription:,I'll be seeeing youuu!,,Responses:,"['AcceptedDuelSpy', 'Taunt: Tailored Terminal']"
+Transcription:,I'll be seeeing youuu!,,Responses:,"['Taunt: Tailored Terminal', 'AcceptedDuelSpy']"
 Your Line:,,,Rules:,['AcceptedDuelSpy']
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSpy']]"
 
-Filename:,spy_taunts05,,Events:,"['spy.taunts05', 'spy_taunt_the_crypt_creeper_spy_taunts05']"
+Filename:,spy_taunts05,,Events:,"['spy_taunt_the_crypt_creeper_spy_taunts05', 'spy.taunts05']"
 Full Path:,vo/taunts/spy_taunts05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd', 'scenes/player/spy/low/837.vcd']"
 Transcription:,(Spooky Whistle),,Responses:,"['Taunt: The Crypt Creeper', 'PlayerPositiveSpy']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
-Filename:,spy_taunts06,,Events:,"['spy_taunt_the_crypt_creeper_spy_taunts06', 'spy.taunts06']"
+Filename:,spy_taunts06,,Events:,"['spy.taunts06', 'spy_taunt_the_crypt_creeper_spy_taunts06']"
 Full Path:,vo/taunts/spy_taunts06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd', 'scenes/player/spy/low/838.vcd']"
-Transcription:,Peek-a-boo!,,Responses:,"['KilledPlayerMeleeDisguisedSpy', 'Taunt: The Crypt Creeper']"
+Transcription:,Peek-a-boo!,,Responses:,"['Taunt: The Crypt Creeper', 'KilledPlayerMeleeDisguisedSpy']"
 Your Line:,,,Rules:,['KilledPlayerMeleeDisguisedSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsDisguised', '30PercentChance', 'IsWeaponMelee', 'SpyNotKillSpeechMelee', 'IsSpy', 'AppliesContext:SpyKillSpeechMelee:1:5']]"
 
@@ -2033,14 +2033,14 @@ Your Line:,,,Rules:,['PlayerSapperKillSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsVictimEngineer', '50PercentChance', 'SapperDestroyed', 'NotSapperLostSpeech', 'AppliesContext:SpyKillSpeechMelee:1:10', 'AppliesContext:SpySapperLostSpeech:1:10']]"
 
 Filename:,spy_taunts09,,Events:,['spy.taunts09']
-Full Path:,vo/taunts/spy_taunts09.mp3,,Scenes:,"['scenes/player/spy/low/taunt_yetipunch.vcd', 'scenes/player/spy/low/taunt03_v2.vcd']"
-Transcription:,Just lay your weapons down and walk away.,,Responses:,"['Taunt: Yeti Punch', 'SpyTauntMelee']"
+Full Path:,vo/taunts/spy_taunts09.mp3,,Scenes:,"['scenes/player/spy/low/taunt03_v2.vcd', 'scenes/player/spy/low/taunt_yetipunch.vcd']"
+Transcription:,Just lay your weapons down and walk away.,,Responses:,"['SpyTauntMelee', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['SpyTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsKnife']]"
 
-Filename:,spy_taunts10,,Events:,"['spy_taunt_tailore_terminal_a1_02', 'spy.taunts10']"
-Full Path:,vo/taunts/spy_taunts10.mp3,,Scenes:,"['scenes/player/spy/low/845.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
-Transcription:,I'm coming for you!,,Responses:,"['AcceptedDuelSpy', 'MeleeDareCombatSpy', 'Taunt: Tailored Terminal']"
+Filename:,spy_taunts10,,Events:,"['spy.taunts10', 'spy_taunt_tailore_terminal_a1_02']"
+Full Path:,vo/taunts/spy_taunts10.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/845.vcd']"
+Transcription:,I'm coming for you!,,Responses:,"['Taunt: Tailored Terminal', 'MeleeDareCombatSpy', 'AcceptedDuelSpy']"
 Your Line:,,,Rules:,"['MeleeDareCombatSpy', 'AcceptedDuelSpy']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
@@ -2051,14 +2051,14 @@ Your Line:,,,Rules:,"['MeleeDareCombatSpy', 'AcceptedDuelSpy']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
 Filename:,spy_taunts12,,Events:,['spy.taunts12']
-Full Path:,vo/taunts/spy_taunts12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd', 'scenes/player/spy/low/843.vcd']"
+Full Path:,vo/taunts/spy_taunts12.mp3,,Scenes:,"['scenes/player/spy/low/843.vcd', 'scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd']"
 Transcription:,You're all of you quite out of your depth!,,Responses:,"['Taunt: The Critical Fail', 'InvulnerableSpeechSpy']"
 Your Line:,,,Rules:,['InvulnerableSpeechSpy']
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsInvulnerable', 'SpyNotInvulnerableSpeech', 'AppliesContext:SpyInvulnerableSpeech:1:30']]"
 
-Filename:,spy_taunts13,,Events:,"['spy.taunts13', 'taunt_burstchester_spy_02']"
-Full Path:,vo/taunts/spy_taunts13.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/846.vcd']"
-Transcription:,"""You know, hiding won't save you."" ",,Responses:,"['Taunt: Burstchester', 'MeleeDareCombatSpy']"
+Filename:,spy_taunts13,,Events:,"['taunt_burstchester_spy_02', 'spy.taunts13']"
+Full Path:,vo/taunts/spy_taunts13.mp3,,Scenes:,"['scenes/player/spy/low/846.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,"""You know, hiding won't save you."" ",,Responses:,"['MeleeDareCombatSpy', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['MeleeDareCombatSpy']
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsSpy', 'IsCrosshairEnemy']]"
 
@@ -2068,8 +2068,8 @@ Transcription:,They should call you whiners 'Dr. NOOOOOO!',,Responses:,['Invulne
 Your Line:,,,Rules:,['InvulnerableSpeechSpy']
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsSpy', 'IsInvulnerable', 'SpyNotInvulnerableSpeech', 'AppliesContext:SpyInvulnerableSpeech:1:30']]"
 
-Filename:,spy_taunts15,,Events:,"['spy.taunts15', 'spy_taunt_the_final_score_spy_spy_taunts15']"
-Full Path:,vo/taunts/spy_taunts15.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/player/spy/low/831.vcd']"
+Filename:,spy_taunts15,,Events:,"['spy_taunt_the_final_score_spy_spy_taunts15', 'spy.taunts15']"
+Full Path:,vo/taunts/spy_taunts15.mp3,,Scenes:,"['scenes/player/spy/low/831.vcd', 'scenes/workshop/player/spy/low/taunt_the_final_score.vcd']"
 Transcription:,You suck!,,Responses:,"['PlayerKilledDominatingSniperSpy', 'RejectedDuelSpy', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,"['PlayerKilledDominatingSniperSpy', 'RejectedDuelSpy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSniper', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptDuelRejected', 'IsSpy']]"
@@ -2080,8 +2080,8 @@ Transcription:,This will be the last time you see me.,,Responses:,['PlayerKilled
 Your Line:,,,Rules:,['PlayerKilledForRevengeSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,spy_mvm_loot_common01,,Events:,"['taunt.luxury_lounge_loop', 'spy_mvm_loot_common01', 'spy_taunt_commending_clap_a', 'spy_taunt_tailore_terminal_intro_1']"
-Full Path:,vo/spy_mvm_loot_common01.mp3,,Scenes:,"['scenes/player/spy/low/7513.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd']"
+Filename:,spy_mvm_loot_common01,,Events:,"['spy_taunt_commending_clap_a', 'spy_mvm_loot_common01', 'spy_taunt_tailore_terminal_intro_1', 'taunt.luxury_lounge_loop']"
+Full Path:,vo/spy_mvm_loot_common01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/7513.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd']"
 Transcription:,Very nice.,,Responses:,"['Taunt: Commending Clap', 'SpyMvMLootCommon', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
@@ -2092,8 +2092,8 @@ Transcription:,I'll take it!,,Responses:,['SpyMvMLootCommon']
 Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
 
-Filename:,spy_mvm_loot_common03,,Events:,"['taunt.luxury_lounge_laugh', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_loop', 'spy_taunt_tailore_terminal_intro_1', 'spy_mvm_loot_common03']"
-Full Path:,vo/spy_mvm_loot_common03.mp3,,Scenes:,"['scenes/player/spy/low/8547.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunt_peace.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Filename:,spy_mvm_loot_common03,,Events:,"['taunt.luxury_lounge_loop', 'spy_taunt_tailore_terminal_intro_1', 'spy_mvm_loot_common03', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh']"
+Full Path:,vo/spy_mvm_loot_common03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_peace.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/8547.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
 Transcription:,He he he he!,,Responses:,"['Taunt: Peace!', 'SpyMvMLootCommon', 'Taunt: Teufort Tango', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
@@ -2116,19 +2116,19 @@ Transcription:,It's the only one of its kind! And it's mine!,,Responses:,['SpyMv
 Your Line:,,,Rules:,['SpyMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsSpy']]"
 
-Filename:,spy_mvm_loot_rare01,,Events:,"['spy_taunt_art_of_war', 'spy_mvm_loot_rare01']"
+Filename:,spy_mvm_loot_rare01,,Events:,"['spy_mvm_loot_rare01', 'spy_taunt_art_of_war']"
 Full Path:,vo/spy_mvm_loot_rare01.mp3,,Scenes:,['scenes/player/spy/low/7516.vcd']
 Transcription:,I'll give it a good home!,,Responses:,['SpyMvMLootRare']
 Your Line:,,,Rules:,['SpyMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsSpy']]"
 
-Filename:,spy_mvm_loot_rare02,,Events:,"['spy_taunt_tailore_terminal_a1_01', 'spy_taunt_art_of_war', 'spy_mvm_loot_rare02']"
+Filename:,spy_mvm_loot_rare02,,Events:,"['spy_mvm_loot_rare02', 'spy_taunt_tailore_terminal_a1_01', 'spy_taunt_art_of_war']"
 Full Path:,vo/spy_mvm_loot_rare02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/7515.vcd']"
-Transcription:,Excellent!,,Responses:,"['SpySF13SpellPickupRare', 'SpyMvMLootRare', 'Taunt: Tailored Terminal']"
+Transcription:,Excellent!,,Responses:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsSpy'], ['ConceptMvMLootRare', 'IsSpy']]"
 
-Filename:,spy_mvm_loot_rare03,,Events:,"['spy_mvm_loot_rare03', 'taunt.luxury_lounge_intro', 'spy_taunt_art_of_war']"
+Filename:,spy_mvm_loot_rare03,,Events:,"['spy_taunt_art_of_war', 'taunt.luxury_lounge_intro', 'spy_mvm_loot_rare03']"
 Full Path:,vo/spy_mvm_loot_rare03.mp3,,Scenes:,['scenes/player/spy/low/8546.vcd']
 Transcription:,Magnificent!,,Responses:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
 Your Line:,,,Rules:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
@@ -2158,9 +2158,9 @@ Transcription:,Gentlemen. I'm back!,,Responses:,['SpyMvmResurrected']
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
-Filename:,spy_mvm_resurrect02,,Events:,"['taunt.luxury_lounge_intro', 'spy_mvm_resurrect02']"
-Full Path:,vo/spy_mvm_resurrect02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd', 'scenes/player/spy/low/7527.vcd']"
-Transcription:,Hah. Much better.,,Responses:,"['Taunt: Mourning Mercs', 'SpyMvmResurrected']"
+Filename:,spy_mvm_resurrect02,,Events:,"['spy_mvm_resurrect02', 'taunt.luxury_lounge_intro']"
+Full Path:,vo/spy_mvm_resurrect02.mp3,,Scenes:,"['scenes/player/spy/low/7527.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd']"
+Transcription:,Hah. Much better.,,Responses:,"['SpyMvmResurrected', 'Taunt: Mourning Mercs']"
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
@@ -2182,7 +2182,7 @@ Transcription:,Voilà!,,Responses:,['SpyMvmResurrected']
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
-Filename:,spy_mvm_resurrect06,,Events:,"['spy_mvm_resurrect06', 'spy_taunt_the_crypt_creeper_spy_mvm_resurrect06']"
+Filename:,spy_mvm_resurrect06,,Events:,"['spy_taunt_the_crypt_creeper_spy_mvm_resurrect06', 'spy_mvm_resurrect06']"
 Full Path:,vo/spy_mvm_resurrect06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_outro.vcd', 'scenes/player/spy/low/7531.vcd']"
 Transcription:,I have returned!,,Responses:,"['SpyMvmResurrected', 'Taunt: The Crypt Creeper']"
 Your Line:,,,Rules:,['SpyMvmResurrected']
@@ -2200,8 +2200,8 @@ Transcription:,What did I miss?,,Responses:,['SpyMvmResurrected']
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
-Filename:,spy_mvm_resurrect09,,Events:,"['taunt.luxury_lounge_laugh', 'spy_mvm_resurrect09', 'taunt.luxury_lounge_loop', 'spy_taunt_the_crypt_creeper_spy_mvm_resurrect09']"
-Full Path:,vo/spy_mvm_resurrect09.mp3,,Scenes:,"['scenes/player/spy/low/7535.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd']"
+Filename:,spy_mvm_resurrect09,,Events:,"['spy_taunt_the_crypt_creeper_spy_mvm_resurrect09', 'taunt.luxury_lounge_loop', 'spy_mvm_resurrect09', 'taunt.luxury_lounge_laugh']"
+Full Path:,vo/spy_mvm_resurrect09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd', 'scenes/player/spy/low/7535.vcd']"
 Transcription:,He he he he.,,Responses:,"['SpyMvmResurrected', 'Taunt: The Crypt Creeper']"
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
@@ -2255,7 +2255,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_aerobic_pos_01,,Events:,"['taunt_spy_aerobic_shared_dance', 'taunt_spy.disco_fever_middle']"
-Full Path:,vo/taunts/spy/spy_aerobic_pos_01.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Full Path:,vo/taunts/spy/spy_aerobic_pos_01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/taunt_aerobic_a.vcd']"
 Transcription:,Oh yeah! Haha! Mmm hmm heh heh hah hah!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2297,7 +2297,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_aerobic_pos_15,,Events:,"['taunt_spy_aerobic_finish', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_aerobic_pos_15.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Full Path:,vo/taunts/spy/spy_aerobic_pos_15.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
 Transcription:,Ha hah! Yes!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2320,8 +2320,8 @@ Transcription:,Ah hah hah! And... Spycrab!,,Responses:,['Taunt: Mannrobics']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_aerobic_pos_41,,Events:,"['spy_taunt_tuefort_tango_a2', 'taunt_spy_aerobic_shared_dance']"
-Full Path:,vo/taunts/spy/spy_aerobic_pos_41.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Filename:,spy_aerobic_pos_41,,Events:,"['taunt_spy_aerobic_shared_dance', 'spy_taunt_tuefort_tango_a2']"
+Full Path:,vo/taunts/spy/spy_aerobic_pos_41.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/taunt_aerobic_a.vcd']"
 Transcription:,"Ah! Ze moves, they just sneak up on you! Ah ha ha!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2375,7 +2375,7 @@ Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
 Filename:,spy_taunt_bos_int_05,,Events:,"['spy_taunt_flip_random_flipthrowantic', 'taunt_spy.disco_fever_end']"
-Full Path:,vo/taunts/spy/spy_taunt_bos_int_05.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator1.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_bos_int_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/flip_success_initiator1.vcd']"
 Transcription:,Your move!,,Responses:,"['Taunt: Disco Fever', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2398,38 +2398,38 @@ Transcription:,Ahhh! Ho ho ho ho ho hah!,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_03,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Alright!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_03,,Events:,"['spy_taunt_tuefort_tango_a1', 'spy_taunt_conga_random_fun1']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Alright!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_05,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,"Ah, c'est magnifique!",,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_05,,Events:,"['spy_taunt_tuefort_tango_a1', 'spy_taunt_conga_random_fun1']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,"Ah, c'est magnifique!",,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_06,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,"Ooh, ha ha ha!",,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_06,,Events:,"['spy_taunt_tuefort_tango_a1', 'spy_taunt_conga_random_fun1']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,"Ooh, ha ha ha!",,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_08,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a2']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Eh hoo hoo!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_08,,Events:,"['spy_taunt_tuefort_tango_a2', 'spy_taunt_conga_random_fun1']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/conga.vcd']"
+Transcription:,Eh hoo hoo!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_09,,Events:,"['spy_taunt_tuefort_tango_a1', 'spy_taunt_conga_random_fun2']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Oh ho ho ho ho!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_09,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_tuefort_tango_a1']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Oh ho ho ho ho!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_10,,Events:,"['spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_end', 'spy_taunt_conga_random_fun2']"
-Full Path:,vo/taunts/spy/spy_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Filename:,spy_taunt_cong_fun_10,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_end']"
+Full Path:,vo/taunts/spy/spy_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/conga.vcd']"
 Transcription:,Oh yeah!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Conga', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2440,7 +2440,7 @@ Transcription:,"(singing) ""Dum dum dum tom!""",,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_15,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_conga_random_fun3']"
+Filename:,spy_taunt_cong_fun_15,,Events:,"['spy_taunt_conga_random_fun3', 'spy_taunt_conga_random_fun1']"
 Full Path:,vo/taunts/spy/spy_taunt_cong_fun_15.mp3,,Scenes:,['scenes/player/spy/low/conga.vcd']
 Transcription:,"(singing) ""Bum ba bum bum ba bum bum bum!""",,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
@@ -2458,15 +2458,15 @@ Transcription:,Let us dance!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Conga',
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_int_05,,Events:,"['spy_taunt_tuefort_tango_intro', 'spy_taunt_conga_random_fun2']"
+Filename:,spy_taunt_cong_int_05,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_tuefort_tango_intro']"
 Full Path:,vo/taunts/spy/spy_taunt_cong_int_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_intro.vcd', 'scenes/player/spy/low/conga.vcd']"
-Transcription:,Dancing! It is the forbidden dance!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Transcription:,Dancing! It is the forbidden dance!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_int_11,,Events:,"['spy_taunt_tuefort_tango_intro', 'spy_taunt_conga_random_fun2']"
+Filename:,spy_taunt_cong_int_11,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_tuefort_tango_intro']"
 Full Path:,vo/taunts/spy/spy_taunt_cong_int_11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_intro.vcd', 'scenes/player/spy/low/conga.vcd']"
-Transcription:,"Let us dance, gentlemen! Dance like no one's shooting at us!",,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Transcription:,"Let us dance, gentlemen! Dance like no one's shooting at us!",,Responses:,"['Taunt: Teufort Tango', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2476,21 +2476,21 @@ Transcription:,cries,,Responses:,['Taunt: Mourning Mercs']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_03,,Events:,"['spy_taunt_dosido_end_rand', 'spy_taunt_tailore_terminal_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_end_03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
-Transcription:,Yes! Good! We're done.,,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_end_03,,Events:,"['spy_taunt_tailore_terminal_outro', 'spy_taunt_dosido_end_rand']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_end_03.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
+Transcription:,Yes! Good! We're done.,,Responses:,"['Taunt: Square Dance', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_06,,Events:,"['spy_taunt_dosido_end_rand', 'taunt_yeti_spy']"
+Filename:,spy_taunt_dosi_end_06,,Events:,"['taunt_yeti_spy', 'spy_taunt_dosido_end_rand']"
 Full Path:,vo/taunts/spy/spy_taunt_dosi_end_06.mp3,,Scenes:,['scenes/player/spy/low/taunt_dosido_dance01.vcd']
 Transcription:,"If you speak of this, I will kill you!",,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_11,,Events:,"['spy_taunt_dosido_end_rand', 'taunt_burstchester_spy_02', 'taunt_spy.disco_fever_end', 'taunt_yeti_spy']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_end_11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
-Transcription:,"Well, that was idiotic!",,Responses:,"['Taunt: Burstchester', 'Taunt: Disco Fever', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_end_11,,Events:,"['taunt_spy.disco_fever_end', 'taunt_burstchester_spy_02', 'taunt_yeti_spy', 'spy_taunt_dosido_end_rand']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_end_11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
+Transcription:,"Well, that was idiotic!",,Responses:,"['Taunt: Disco Fever', 'Taunt: Square Dance', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2500,21 +2500,21 @@ Transcription:,I will stab this memory out of my skull!,,Responses:,['Taunt: Squ
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_17,,Events:,"['spy_taunt_dosido_start_rand', 'taunt_burstchester_spy_02', 'spy_taunt_neck_snap_01', 'spy_taunt_dosido_intro_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_end_17.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd']"
-Transcription:,Hmmmeah...,,Responses:,"['Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Unleashed Rage', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_end_17,,Events:,"['spy_taunt_neck_snap_01', 'taunt_burstchester_spy_02', 'spy_taunt_dosido_intro_rand', 'spy_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_end_17.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,Hmmmeah...,,Responses:,"['Taunt: Square Dance', 'Taunt: Unleashed Rage', 'Taunt: Neck Snap', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_18,,Events:,"['spy_taunt_dosido_start_rand', 'spy_taunt_flip_random_flipthrowantic', 'taunt_burstchester_spy_02', 'spy_taunt_dosido_intro_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_end_18.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/flip_success_initiator1.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd']"
-Transcription:,Nyeauh...,,Responses:,"['Taunt: Burstchester', ""Taunt: Flippin' Awesome"", 'Taunt: Unleashed Rage', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_end_18,,Events:,"['taunt_burstchester_spy_02', 'spy_taunt_dosido_intro_rand', 'spy_taunt_flip_random_flipthrowantic', 'spy_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_end_18.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd', 'scenes/player/spy/low/flip_success_initiator1.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,Nyeauh...,,Responses:,"['Taunt: Square Dance', 'Taunt: Unleashed Rage', ""Taunt: Flippin' Awesome"", 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_end_19,,Events:,"['spy_taunt_dosido_start_rand', 'taunt_burstchester_spy_02', 'spy_taunt_dosido_intro_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_end_19.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd']"
-Transcription:,Nuuugh...,,Responses:,"['Taunt: Burstchester', 'Taunt: Unleashed Rage', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_end_19,,Events:,"['taunt_burstchester_spy_02', 'spy_taunt_dosido_intro_rand', 'spy_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_end_19.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
+Transcription:,Nuuugh...,,Responses:,"['Taunt: Square Dance', 'Taunt: Unleashed Rage', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2536,9 +2536,9 @@ Transcription:,And we're done! Off to hang myself!,,Responses:,['Taunt: Square D
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_int_01,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy_taunt_dosido_mid_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_int_01.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Uuugh!,,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_int_01,,Events:,"['spy_taunt_dosido_mid_rand', 'spy_taunt_tailore_terminal_a2_01']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_int_01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
+Transcription:,Uuugh!,,Responses:,"['Taunt: Square Dance', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2572,15 +2572,15 @@ Transcription:,"(with consternation) ""The do-si-do!""",,Responses:,['Taunt: Squ
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_int_12,,Events:,"['spy_taunt_tailore_terminal_a2_02', 'taunt_burstchester_spy_01', 'spy_taunt_dosido_intro_wait_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_int_12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,"Oh, come on!",,Responses:,"['Taunt: Burstchester', 'Taunt: Tailored Terminal', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_int_12,,Events:,"['spy_taunt_dosido_intro_wait_rand', 'taunt_burstchester_spy_01', 'spy_taunt_tailore_terminal_a2_02']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_int_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Transcription:,"Oh, come on!",,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Square Dance', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_dosi_int_14,,Events:,"['spy_taunt_tailore_terminal_a2_02', 'taunt_burstchester_spy_01', 'spy_taunt_dosido_mid_rand']"
-Full Path:,vo/taunts/spy/spy_taunt_dosi_int_14.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,"Ugh, come on!",,Responses:,"['Taunt: Burstchester', 'Taunt: Tailored Terminal', 'Taunt: Square Dance']"
+Filename:,spy_taunt_dosi_int_14,,Events:,"['spy_taunt_dosido_mid_rand', 'taunt_burstchester_spy_01', 'spy_taunt_tailore_terminal_a2_02']"
+Full Path:,vo/taunts/spy/spy_taunt_dosi_int_14.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_dosido_dance01.vcd']"
+Transcription:,"Ugh, come on!",,Responses:,"['Taunt: Tailored Terminal', 'Taunt: Square Dance', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2602,44 +2602,44 @@ Transcription:,I feel like an idiot!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_exert_11,,Events:,"['spy_taunt_flip_random_flipexert', 'spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_boxtrot_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_11.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Nnngh!,,Responses:,"['Taunt: The Box Trot', ""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal']"
+Filename:,spy_taunt_exert_11,,Events:,"['spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_flip_random_flipexert', 'spy_taunt_boxtrot_outro']"
+Full Path:,vo/taunts/spy/spy_taunt_exert_11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd']"
+Transcription:,Nnngh!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_exert_12,,Events:,"['spy_taunt_flip_random_flipexert', 'spy_taunt_headbutt_success_exert', 'spy_taunt_boxtrot_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Huuh!,,Responses:,"['Taunt: Skullcracker', ""Taunt: Flippin' Awesome"", 'Taunt: The Box Trot']"
+Full Path:,vo/taunts/spy/spy_taunt_exert_12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd']"
+Transcription:,Huuh!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_exert_13,,Events:,"['spy_taunt_flip_random_flipexert', 'spy_taunt_boxtrot_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_13.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Eeegh!,,Responses:,"['Taunt: The Box Trot', ""Taunt: Flippin' Awesome""]"
+Full Path:,vo/taunts/spy/spy_taunt_exert_13.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Transcription:,Eeegh!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_exert_14,,Events:,"['spy_taunt_flip_random_flipexert', 'spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_boxtrot_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_14.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Uuuh!,,Responses:,"['Taunt: The Box Trot', ""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal']"
+Filename:,spy_taunt_exert_14,,Events:,"['spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_flip_random_flipexert', 'spy_taunt_boxtrot_outro']"
+Full Path:,vo/taunts/spy/spy_taunt_exert_14.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd']"
+Transcription:,Uuuh!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_exert_15,,Events:,"['spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_headbutt_success_exert', 'spy_taunt_neck_snap_04', 'spy_taunt_boxtrot_outro', 'spy_taunt_flip_random_flipexert']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_15.mp3,,Scenes:,"['scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Aigh!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Tailored Terminal', 'Taunt: The Box Trot', ""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker']"
+Filename:,spy_taunt_exert_15,,Events:,"['spy_taunt_tailore_terminal_intro_grunt', 'spy_taunt_boxtrot_outro', 'spy_taunt_headbutt_success_exert', 'spy_taunt_flip_random_flipexert', 'spy_taunt_neck_snap_04']"
+Full Path:,vo/taunts/spy/spy_taunt_exert_15.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd']"
+Transcription:,Aigh!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: Tailored Terminal', ""Taunt: Flippin' Awesome"", 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_exert_16,,Events:,"['spy_taunt_flip_random_flipexert', 'spy_taunt_boxtrot_outro']"
-Full Path:,vo/taunts/spy/spy_taunt_exert_16.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd']"
-Transcription:,Huuoh!,,Responses:,"['Taunt: The Box Trot', ""Taunt: Flippin' Awesome""]"
+Full Path:,vo/taunts/spy/spy_taunt_exert_16.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Transcription:,Huuoh!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_admire_05,,Events:,"['spy_taunt_flip_random_flipadmire', 'taunt_spy.disco_fever_end']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator1.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/flip_success_initiator1.vcd']"
 Transcription:,Very nice!,,Responses:,"['Taunt: Disco Fever', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2662,38 +2662,38 @@ Transcription:,"Ok, don't get too excited.",,Responses:,"[""Taunt: Flippin' Awes
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_end_07,,Events:,"['spy_taunt_flip_random_flipfinish', 'taunt_spy_aerobic_finish', 'spy_taunt_tuefort_tango_outro_a']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_end_07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Filename:,spy_taunt_flip_end_07,,Events:,"['taunt_spy_aerobic_finish', 'spy_taunt_flip_random_flipfinish', 'spy_taunt_tuefort_tango_outro_a']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_end_07.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
 Transcription:,And then this!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_end_12,,Events:,"['spy_taunt_flip_random_flipfinish', 'taunt_spy_aerobic_finish', 'spy_taunt_tuefort_tango_outro_a']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_end_12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Filename:,spy_taunt_flip_end_12,,Events:,"['taunt_spy_aerobic_finish', 'spy_taunt_flip_random_flipfinish', 'spy_taunt_tuefort_tango_outro_a']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_end_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
 Transcription:,Big Finish!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_end_14,,Events:,"['spy_taunt_flip_random_flipfinish', 'taunt_spy_aerobic_finish', 'taunt_killer_joke_spy', 'taunt_spy.disco_fever_end']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_end_14.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd']"
-Transcription:,I make it look easy!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Killer Joke']"
+Filename:,spy_taunt_flip_end_14,,Events:,"['taunt_killer_joke_spy', 'spy_taunt_flip_random_flipfinish', 'taunt_spy_aerobic_finish', 'taunt_spy.disco_fever_end']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_end_14.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Transcription:,I make it look easy!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Killer Joke', ""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_end_16,,Events:,"['spy_taunt_flip_random_flipfinish', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_end_16.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Pirouette!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_flip_end_16,,Events:,"['spy_taunt_tuefort_tango_a1', 'spy_taunt_flip_random_flipfinish']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_end_16.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Pirouette!,,Responses:,"['Taunt: Teufort Tango', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_exert_01,,Events:,['spy_taunt_flip_random_flipexert']
-Full Path:,vo/taunts/spy/spy_taunt_flip_exert_01.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_exert_01.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,Hmmugh!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_exert_02,,Events:,['spy_taunt_flip_random_flipexert']
-Full Path:,vo/taunts/spy/spy_taunt_flip_exert_02.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_exert_02.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_initiator0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,Uugh!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2722,38 +2722,38 @@ Transcription:,Like so!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_fun_01,,Events:,"['spy_taunt_tuefort_tango_a2', 'spy_taunt_flip_random_flipflipping', 'taunt_spy.disco_fever_start']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd']"
-Transcription:,Ha hah!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Disco Fever', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent']"
+Filename:,spy_taunt_flip_fun_01,,Events:,"['spy_taunt_flip_random_flipflipping', 'spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_start']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Transcription:,Ha hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Teufort Tango', 'Taunt: Disco Fever', 'Taunt: The Travel Agent', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_fun_02,,Events:,"['spy_taunt_tailore_terminal_outro', 'spy_taunt_tailore_terminal_a2_03', 'spy_taunt_flip_random_flipflipping', 'spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_start']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_02.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd']"
-Transcription:,Hah hah!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Tailored Terminal', 'Taunt: Disco Fever', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent']"
+Filename:,spy_taunt_flip_fun_02,,Events:,"['spy_taunt_flip_random_flipflipping', 'spy_taunt_tuefort_tango_a2', 'taunt_spy.disco_fever_start', 'spy_taunt_tailore_terminal_a2_03', 'spy_taunt_tailore_terminal_outro']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
+Transcription:,Hah hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Teufort Tango', 'Taunt: Disco Fever', 'Taunt: Tailored Terminal', 'Taunt: The Travel Agent', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_fun_07,,Events:,"['spy_taunt_flip_random_flipflipping', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_07.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
-Transcription:,Watch and learn!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent', 'Taunt: Teufort Tango']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd']"
+Transcription:,Watch and learn!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: Teufort Tango', 'Taunt: The Travel Agent']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_fun_09,,Events:,['spy_taunt_flip_random_flipflipping']
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,La jeté!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_fun_12,,Events:,['spy_taunt_flip_random_flipflipping']
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_12.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,I fly!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_flip_fun_13,,Events:,['spy_taunt_flip_random_flipflipping']
-Full Path:,vo/taunts/spy/spy_taunt_flip_fun_13.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_fun_13.mp3,,Scenes:,"['scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd']"
 Transcription:,I take to the air!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Travel Agent']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2800,9 +2800,9 @@ Transcription:,Flipping time!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_int_20,,Events:,"['spy_taunt_flip_random_waiting1', 'spy_taunt_fistbump_start']"
-Full Path:,vo/taunts/spy/spy_taunt_flip_int_20.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/player/spy/low/flip_start.vcd']"
-Transcription:,To me!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,spy_taunt_flip_int_20,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_flip_random_waiting1']"
+Full Path:,vo/taunts/spy/spy_taunt_flip_int_20.mp3,,Scenes:,"['scenes/player/spy/low/flip_start.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
+Transcription:,To me!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2818,15 +2818,15 @@ Transcription:,"Ugh, fine, let's flip!",,Responses:,"[""Taunt: Flippin' Awesome"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_head_doctor_pain,,Events:,"['medic_tauntthe_head_doctor_spy_taunt_head_pain_01', 'taunt.bearhug_spy_b']"
-Full Path:,vo/taunts/spy/spy_taunt_head_doctor_pain.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd']"
+Filename:,spy_taunt_head_doctor_pain,,Events:,"['taunt.bearhug_spy_b', 'medic_tauntthe_head_doctor_spy_taunt_head_pain_01']"
+Full Path:,vo/taunts/spy/spy_taunt_head_doctor_pain.mp3,,Scenes:,"['scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
 Transcription:,,,Responses:,"['Taunt: Bear Hug', 'Taunt: The Head Doctor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_head_exert_01,,Events:,"['spy_taunt_tuefort_tango_a2', 'spy_taunt_headbutt_success_windup']"
-Full Path:,vo/taunts/spy/spy_taunt_head_exert_01.mp3,,Scenes:,"['scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Huhyeah omph!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Teufort Tango']"
+Full Path:,vo/taunts/spy/spy_taunt_head_exert_01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd']"
+Transcription:,Huhyeah omph!,,Responses:,"['Taunt: Teufort Tango', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2843,8 +2843,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_head_int_05,,Events:,"['spy_taunt_headbutt_start_2', 'spy_taunt_fistbump_start']"
-Full Path:,vo/taunts/spy/spy_taunt_head_int_05.mp3,,Scenes:,"['scenes/player/spy/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
-Transcription:,Right here!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Fist Bump']"
+Full Path:,vo/taunts/spy/spy_taunt_head_int_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/player/spy/low/taunt_headbutt_start.vcd']"
+Transcription:,Right here!,,Responses:,"['Taunt: The Fist Bump', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2879,38 +2879,38 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_head_pain_20,,Events:,"['spy_taunt_headbutt_success_recover', 'taunt_burstchester_spy_02']"
-Full Path:,vo/taunts/spy/spy_taunt_head_pain_20.mp3,,Scenes:,"['scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_head_pain_20.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd']"
 Transcription:,Didn't feel a thing!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_int_01,,Events:,"['spy_taunt_tailore_terminal_a2_02', 'spy_taunt_flip_random_waiting1', 'spy_taunt_fistbump_start']"
-Full Path:,vo/taunts/spy/spy_taunt_int_01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/flip_start.vcd']"
-Transcription:,Come on!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump', 'Taunt: Tailored Terminal']"
+Filename:,spy_taunt_int_01,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_tailore_terminal_a2_02', 'spy_taunt_flip_random_waiting1']"
+Full Path:,vo/taunts/spy/spy_taunt_int_01.mp3,,Scenes:,"['scenes/player/spy/low/flip_start.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Transcription:,Come on!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_int_03,,Events:,"['spy_taunt_tailore_terminal_a2_02', 'spy_taunt_flip_random_waiting1', 'spy_taunt_fistbump_start']"
-Full Path:,vo/taunts/spy/spy_taunt_int_03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/flip_start.vcd']"
-Transcription:,Come on!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump', 'Taunt: Tailored Terminal']"
+Filename:,spy_taunt_int_03,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_tailore_terminal_a2_02', 'spy_taunt_flip_random_waiting1']"
+Full Path:,vo/taunts/spy/spy_taunt_int_03.mp3,,Scenes:,"['scenes/player/spy/low/flip_start.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Transcription:,Come on!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_int_16,,Events:,"['spy_taunt_flip_random_waiting1', 'spy_taunt_fistbump_start', 'taunt_spy.disco_fever_start']"
-Full Path:,vo/taunts/spy/spy_taunt_int_16.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/player/spy/low/flip_start.vcd']"
-Transcription:,Let's begin!,,Responses:,"['Taunt: Disco Fever', ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,spy_taunt_int_16,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_flip_random_waiting1', 'taunt_spy.disco_fever_start']"
+Full Path:,vo/taunts/spy/spy_taunt_int_16.mp3,,Scenes:,"['scenes/player/spy/low/flip_start.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
+Transcription:,Let's begin!,,Responses:,"['Taunt: Disco Fever', 'Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_int_24,,Events:,"['spy_taunt_rps_intro_wait_rand', 'spy_taunt_fistbump_start', 'spy_taunt_flag']"
+Filename:,spy_taunt_int_24,,Events:,"['spy_taunt_flag', 'spy_taunt_fistbump_start', 'spy_taunt_rps_intro_wait_rand']"
 Full Path:,vo/taunts/spy/spy_taunt_int_24.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_start.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
-Transcription:,Over here!,,Responses:,"['Taunt: Flying Colors', 'Taunt: The Fist Bump', 'Taunt: Rock, Paper, Scissors']"
+Transcription:,Over here!,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: Flying Colors', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_int_48,,Events:,"['spy_taunt_flip_random_waiting1', 'spy_taunt_fistbump_start', 'taunt_spy.disco_fever_start']"
-Full Path:,vo/taunts/spy/spy_taunt_int_48.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd', 'scenes/player/spy/low/flip_start.vcd']"
-Transcription:,Let us commence!,,Responses:,"['Taunt: Disco Fever', ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,spy_taunt_int_48,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_flip_random_waiting1', 'taunt_spy.disco_fever_start']"
+Full Path:,vo/taunts/spy/spy_taunt_int_48.mp3,,Scenes:,"['scenes/player/spy/low/flip_start.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
+Transcription:,Let us commence!,,Responses:,"['Taunt: Disco Fever', 'Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2922,30 +2922,30 @@ Your Line:,,,Rules:,[]
 
 Filename:,spy_taunt_killme_02,,Events:,"['spy_taunt_dosido_intro_wait_rand', 'spy_taunt_neck_snap_02']"
 Full Path:,vo/taunts/spy/spy_taunt_killme_02.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd']"
-Transcription:,Kill me!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Square Dance']"
+Transcription:,Kill me!,,Responses:,"['Taunt: Square Dance', 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_rps_exert_08,,Events:,['spy_taunt_rps_exert_08']
-Full Path:,vo/taunts/spy/spy_taunt_rps_exert_08.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_exert_08.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
 Transcription:,One!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_rps_exert_09,,Events:,['spy_taunt_rps_exert_09']
-Full Path:,vo/taunts/spy/spy_taunt_rps_exert_09.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_exert_09.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
 Transcription:,Two!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_rps_exert_10,,Events:,['spy_taunt_rps_exert_10']
-Full Path:,vo/taunts/spy/spy_taunt_rps_exert_10.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_exert_10.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
 Transcription:,Three!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_rps_exert_28,,Events:,['spy_taunt_rps_exert_28']
-Full Path:,vo/taunts/spy/spy_taunt_rps_exert_28.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_exert_28.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_win.vcd', 'scenes/player/spy/low/taunt_rps_rock_win.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd']"
 Transcription:,On three!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2968,20 +2968,20 @@ Transcription:,Who will play me?,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_rps_int_08,,Events:,"['spy_taunt_rps_intro_wait_rand', 'spy_taunt_fistbump_start']"
+Filename:,spy_taunt_rps_int_08,,Events:,"['spy_taunt_fistbump_start', 'spy_taunt_rps_intro_wait_rand']"
 Full Path:,vo/taunts/spy/spy_taunt_rps_int_08.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_start.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd']"
-Transcription:,My hands against your hands!,,Responses:,"['Taunt: The Fist Bump', 'Taunt: Rock, Paper, Scissors']"
+Transcription:,My hands against your hands!,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_rps_lose_05,,Events:,"['spy_taunt_rps_lose_05', 'spy_taunt_the_punchline']"
-Full Path:,vo/taunts/spy/spy_taunt_rps_lose_05.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd']"
+Filename:,spy_taunt_rps_lose_05,,Events:,"['spy_taunt_the_punchline', 'spy_taunt_rps_lose_05']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_lose_05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd']"
 Transcription:,Burn in hell!,,Responses:,"['Taunt: The Punchline', 'Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_rps_lose_12,,Events:,['spy_taunt_rps_lose_12']
-Full Path:,vo/taunts/spy/spy_taunt_rps_lose_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_lose_12.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd']"
 Transcription:,I should have won!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2998,14 +2998,14 @@ Transcription:,"Behold, your winner!",,Responses:,"['Taunt: Rock, Paper, Scissor
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_rps_win_11,,Events:,"['taunt_spy_aerobic_finish', 'spy_taunt_curtain_call_vo_01', 'spy_taunt_rps_win_11']"
-Full Path:,vo/taunts/spy/spy_taunt_rps_win_11.mp3,,Scenes:,"['scenes/player/spy/low/taunt_rps_paper_win.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd']"
-Transcription:,I am the champion!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Curtain Call', 'Taunt: Rock, Paper, Scissors']"
+Filename:,spy_taunt_rps_win_11,,Events:,"['spy_taunt_rps_win_11', 'taunt_spy_aerobic_finish', 'spy_taunt_curtain_call_vo_01']"
+Full Path:,vo/taunts/spy/spy_taunt_rps_win_11.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/player/spy/low/taunt_rps_paper_win.vcd']"
+Transcription:,I am the champion!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Curtain Call']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunts_head_doctor_you_suck,,Events:,"['spy_taunt_the_punchline', 'medic_tauntthe_head_doctor_spy_taunts15']"
-Full Path:,vo/taunts/spy/spy_taunts_head_doctor_you_suck.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd']"
+Full Path:,vo/taunts/spy/spy_taunts_head_doctor_you_suck.mp3,,Scenes:,"['scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd']"
 Transcription:,,,Responses:,"['Taunt: The Punchline', 'Taunt: The Head Doctor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3016,8 +3016,8 @@ Transcription:,Who among you is man enough to dance with me?,,Responses:,['Taunt
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_tnt_nutkick_kick03,,Events:,"['spy_taunt_the_punchline_outro', 'spy_taunt_russian_rand2', 'taunt_killer_joke_spy', 'spy_taunt_russian_rand']"
-Full Path:,vo/taunts/spy/spy_tnt_nutkick_kick03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/player/spy/low/taunt_russian.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd']"
+Filename:,spy_tnt_nutkick_kick03,,Events:,"['spy_taunt_russian_rand2', 'spy_taunt_russian_rand', 'spy_taunt_the_punchline_outro', 'taunt_killer_joke_spy']"
+Full Path:,vo/taunts/spy/spy_tnt_nutkick_kick03.mp3,,Scenes:,"['scenes/player/spy/low/taunt_russian.vcd', 'scenes/workshop/player/spy/low/taunt_the_punchline.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd']"
 Transcription:,Hilarious!,,Responses:,"['Taunt: The Punchline', 'Taunt: Kazotsky Kick', 'Taunt: Killer Joke']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3088,7 +3088,7 @@ Transcription:,I have expensive tastes.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_trade_22,,Events:,"['spy_taunt_tailore_terminal_outro', 'taunt.luxury_lounge_intro', 'spy_taunt_trade_loop_rand']"
+Filename:,spy_trade_22,,Events:,"['taunt.luxury_lounge_intro', 'spy_taunt_trade_loop_rand', 'spy_taunt_tailore_terminal_outro']"
 Full Path:,vo/taunts/spy/spy_trade_22.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']
 Transcription:,I spare no expense on luxuries.,,Responses:,['Taunt: Tailored Terminal']
 Your Line:,,,Rules:,[]
@@ -3107,50 +3107,50 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_sf12_badmagic01,,Events:,"['spy_sf12_badmagic01', 'taunt_burstchester_spy_01', 'taunt.bearhug_spy_a']"
-Full Path:,vo/spy_sf12_badmagic01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/4710.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
-Transcription:,Oh no.,,Responses:,"['Taunt: Burstchester', 'Taunt: Bear Hug', 'spySmallHeadReaction']"
+Full Path:,vo/spy_sf12_badmagic01.mp3,,Scenes:,"['scenes/player/spy/low/4710.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
+Transcription:,Oh no.,,Responses:,"['Taunt: Bear Hug', 'spySmallHeadReaction', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['spySmallHeadReaction']
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isspy']]"
 
-Filename:,spy_sf12_badmagic02,,Events:,"['taunt_burstchester_spy_01', 'spy.scardy_cat_b', 'spy_sf12_badmagic02', 'taunt_yeti_spy']"
-Full Path:,vo/spy_sf12_badmagic02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd', 'scenes/player/spy/low/4711.vcd']"
-Transcription:,Sacrebleu.,,Responses:,"['Taunt: Burstchester', 'SpySF13SpellMovementBuff', 'Taunt: The Scaredy-Cat!', 'spyBigHeadReaction']"
-Your Line:,,,Rules:,"['SpySF13SpellMovementBuff', 'spyBigHeadReaction']"
+Filename:,spy_sf12_badmagic02,,Events:,"['taunt_yeti_spy', 'taunt_burstchester_spy_01', 'spy.scardy_cat_b', 'spy_sf12_badmagic02']"
+Full Path:,vo/spy_sf12_badmagic02.mp3,,Scenes:,"['scenes/player/spy/low/4711.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
+Transcription:,Sacrebleu.,,Responses:,"['spyBigHeadReaction', 'SpySF13SpellMovementBuff', 'Taunt: The Scaredy-Cat!', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['spyBigHeadReaction', 'SpySF13SpellMovementBuff']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isspy'], ['ConceptPlayerSpellMovementBuff', 'IsSpy']]"
 
-Filename:,spy_sf12_badmagic03,,Events:,"['spy_sf12_badmagic03', 'taunt_burstchester_spy_01', 'spy.scardy_cat_b', 'taunt_yeti_spy']"
+Filename:,spy_sf12_badmagic03,,Events:,"['taunt_burstchester_spy_01', 'spy_sf12_badmagic03', 'spy.scardy_cat_b', 'taunt_yeti_spy']"
 Full Path:,vo/spy_sf12_badmagic03.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd', 'scenes/player/spy/low/4712.vcd']"
-Transcription:,What the hell?,,Responses:,"['Taunt: Burstchester', 'SpySF13SpellMovementBuff', 'Taunt: The Scaredy-Cat!', 'spyBigHeadReaction']"
-Your Line:,,,Rules:,"['SpySF13SpellMovementBuff', 'spyBigHeadReaction']"
+Transcription:,What the hell?,,Responses:,"['spyBigHeadReaction', 'SpySF13SpellMovementBuff', 'Taunt: The Scaredy-Cat!', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['spyBigHeadReaction', 'SpySF13SpellMovementBuff']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isspy'], ['ConceptPlayerSpellMovementBuff', 'IsSpy']]"
 
 Filename:,spy_sf12_badmagic04,,Events:,"['taunt_burstchester_spy_01', 'spy_sf12_badmagic04']"
 Full Path:,vo/spy_sf12_badmagic04.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/4713.vcd']"
-Transcription:,Oh. Fantastique.,,Responses:,"['Taunt: Burstchester', 'spySmallHeadReaction']"
+Transcription:,Oh. Fantastique.,,Responses:,"['spySmallHeadReaction', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['spySmallHeadReaction']
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isspy']]"
 
-Filename:,spy_sf12_badmagic05,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy_sf12_badmagic05']"
-Full Path:,vo/spy_sf12_badmagic05.mp3,,Scenes:,"['scenes/player/spy/low/4714.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Filename:,spy_sf12_badmagic05,,Events:,"['spy_sf12_badmagic05', 'spy_taunt_tailore_terminal_a2_01']"
+Full Path:,vo/spy_sf12_badmagic05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/spy/low/4714.vcd']"
 Transcription:,Nooo...,,Responses:,"['SpySeeSpellMeteorSwarm', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpySeeSpellMeteorSwarm']
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsSpy']]"
 
-Filename:,spy_sf12_badmagic06,,Events:,"['spy_taunt_tailore_terminal_a2_01', 'spy_sf12_badmagic06']"
+Filename:,spy_sf12_badmagic06,,Events:,"['spy_sf12_badmagic06', 'spy_taunt_tailore_terminal_a2_01']"
 Full Path:,vo/spy_sf12_badmagic06.mp3,,Scenes:,"['scenes/player/spy/low/4715.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Nooo!,,Responses:,"['SpySeeSpellMeteorSwarm', 'spySmallHeadReaction', 'Taunt: Tailored Terminal']"
-Your Line:,,,Rules:,"['SpySeeSpellMeteorSwarm', 'spySmallHeadReaction']"
+Transcription:,Nooo!,,Responses:,"['spySmallHeadReaction', 'SpySeeSpellMeteorSwarm', 'Taunt: Tailored Terminal']"
+Your Line:,,,Rules:,"['spySmallHeadReaction', 'SpySeeSpellMeteorSwarm']"
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isspy'], ['ConceptPlayerSpellMeteorSwarm', 'IsSpy']]"
 
-Filename:,spy_sf12_badmagic07,,Events:,"['spy_sf12_badmagic07', 'taunt.bearhug_spy_d', 'taunt_burstchester_spy_02', 'taunt_yeti_spy']"
+Filename:,spy_sf12_badmagic07,,Events:,"['spy_sf12_badmagic07', 'taunt_burstchester_spy_02', 'taunt.bearhug_spy_d', 'taunt_yeti_spy']"
 Full Path:,vo/spy_sf12_badmagic07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd']"
-Transcription:,Tell no one of this.,,Responses:,"['Taunt: Burstchester', 'Taunt: Bear Hug']"
+Transcription:,Tell no one of this.,,Responses:,"['Taunt: Bear Hug', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_sf12_badmagic08,,Events:,"['spy_sf12_badmagic08', 'taunt_burstchester_spy_01']"
-Full Path:,vo/spy_sf12_badmagic08.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/4717.vcd']"
-Transcription:,"Oh, Mon Dieu.",,Responses:,"['Taunt: Burstchester', 'SpySF13SpellMovementBuff']"
+Filename:,spy_sf12_badmagic08,,Events:,"['taunt_burstchester_spy_01', 'spy_sf12_badmagic08']"
+Full Path:,vo/spy_sf12_badmagic08.mp3,,Scenes:,"['scenes/player/spy/low/4717.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,"Oh, Mon Dieu.",,Responses:,"['SpySF13SpellMovementBuff', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['SpySF13SpellMovementBuff']
 ,,,Criteria:,"[['ConceptPlayerSpellMovementBuff', 'IsSpy']]"
 
@@ -3196,7 +3196,7 @@ Transcription:,Splendid!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_sf12_goodmagic05,,Events:,"['spy_sf12_goodmagic05', 'spy_taunt_tailore_terminal_a2_03', 'taunt_spy.disco_fever_middle']"
+Filename:,spy_sf12_goodmagic05,,Events:,"['spy_sf12_goodmagic05', 'taunt_spy.disco_fever_middle', 'spy_taunt_tailore_terminal_a2_03']"
 Full Path:,vo/spy_sf12_goodmagic05.mp3,,Scenes:,"['scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
 Transcription:,Yes!,,Responses:,"['Taunt: Disco Fever', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
@@ -3214,15 +3214,15 @@ Transcription:,(Evil laughter),,Responses:,['Taunt: Disco Fever']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_sf12_goodmagic08,,Events:,"['spy_sf12_goodmagic08', 'taunt_spy.disco_fever_middle']"
+Filename:,spy_sf12_goodmagic08,,Events:,"['taunt_spy.disco_fever_middle', 'spy_sf12_goodmagic08']"
 Full Path:,vo/spy_sf12_goodmagic08.mp3,,Scenes:,['scenes/workshop/player/spy/low/disco_fever.vcd']
 Transcription:,(Laughter) Yes!,,Responses:,['Taunt: Disco Fever']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_sf12_scared01,,Events:,['spy_sf12_scared01']
-Full Path:,vo/spy_sf12_scared01.mp3,,Scenes:,"['scenes/player/spy/low/4718.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent_outro.vcd']"
-Transcription:,Abort! Abort!,,Responses:,"['SpySF13SkeletonKingAppear', 'Taunt: The Travel Agent']"
+Full Path:,vo/spy_sf12_scared01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_travel_agent_outro.vcd', 'scenes/player/spy/low/4718.vcd']"
+Transcription:,Abort! Abort!,,Responses:,"['Taunt: The Travel Agent', 'SpySF13SkeletonKingAppear']"
 Your Line:,,,Rules:,['SpySF13SkeletonKingAppear']
 ,,,Criteria:,"[['ConceptPlayerSkeletonKingAppear', '50PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
@@ -3238,7 +3238,7 @@ Transcription:,"Very nice, very nice!",,Responses:,['SpySF13SpellPickupRare']
 Your Line:,,,Rules:,['SpySF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsSpy']]"
 
-Filename:,spy_sf13_influx_small02,,Events:,"['spy_sf13_influx_small02', 'taunt.luxury_lounge_loop']"
+Filename:,spy_sf13_influx_small02,,Events:,"['taunt.luxury_lounge_loop', 'spy_sf13_influx_small02']"
 Full Path:,vo/spy_sf13_influx_small02.mp3,,Scenes:,['scenes/player/spy/low/7522.vcd']
 Transcription:,Excellent.,,Responses:,['SpySF13SpellPickupCommon']
 Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
@@ -3251,7 +3251,7 @@ Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
 
 Filename:,spy_sf13_influx_small04,,Events:,"['spy_sf13_influx_small04', 'spy_taunt_tailore_terminal_a1_02']"
-Full Path:,vo/spy_sf13_influx_small04.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/8548.vcd']"
+Full Path:,vo/spy_sf13_influx_small04.mp3,,Scenes:,"['scenes/player/spy/low/8548.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
 Transcription:,He he he he!,,Responses:,"['SpySF13SpellPickupCommon', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
@@ -3263,20 +3263,20 @@ Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
 
 Filename:,spy_sf13_influx_small06,,Events:,"['spy_sf13_influx_small06', 'spy_taunt_tailore_terminal_a1_02']"
-Full Path:,vo/spy_sf13_influx_small06.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/player/spy/low/8550.vcd']"
+Full Path:,vo/spy_sf13_influx_small06.mp3,,Scenes:,"['scenes/player/spy/low/8550.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd']"
 Transcription:,(Evil chuckle),,Responses:,"['SpySF13SpellPickupCommon', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
 
 Filename:,spy_sf13_magic_reac01,,Events:,"['taunt_burstchester_spy_01', 'spy_sf13_magic_reac01']"
 Full Path:,vo/spy_sf13_magic_reac01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/7524.vcd']"
-Transcription:,"Oh, no.",,Responses:,"['Taunt: Burstchester', 'SpySeeSpellMeteorSwarm', 'SpySF13SkeletonKingAppear', 'SpySeeSpellSkeletonHorde']"
+Transcription:,"Oh, no.",,Responses:,"['SpySeeSpellSkeletonHorde', 'SpySeeSpellMeteorSwarm', 'Taunt: Burstchester', 'SpySF13SkeletonKingAppear']"
 Your Line:,,,Rules:,"['SpySeeSpellSkeletonHorde', 'SpySeeSpellMeteorSwarm', 'SpySF13SkeletonKingAppear']"
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsSpy'], ['ConceptPlayerSpellSkeletonHorde', 'IsSpy'], ['ConceptPlayerSkeletonKingAppear', '50PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
 Filename:,spy_sf13_magic_reac02,,Events:,"['taunt_burstchester_spy_01', 'spy_sf13_magic_reac02']"
-Full Path:,vo/spy_sf13_magic_reac02.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/player/spy/low/7523.vcd']"
-Transcription:,"Oh, merde.",,Responses:,"['Taunt: Burstchester', 'SpySeeSpellMeteorSwarm', 'SpySeeSpellSkeletonHorde']"
+Full Path:,vo/spy_sf13_magic_reac02.mp3,,Scenes:,"['scenes/player/spy/low/7523.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,"Oh, merde.",,Responses:,"['SpySeeSpellSkeletonHorde', 'SpySeeSpellMeteorSwarm', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['SpySeeSpellSkeletonHorde', 'SpySeeSpellMeteorSwarm']"
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsSpy'], ['ConceptPlayerSpellSkeletonHorde', 'IsSpy']]"
 
@@ -3378,8 +3378,8 @@ Your Line:,,,Rules:,['SpySF13RoundStart']
 
 Filename:,spy_sf13_round_start06,,Events:,['spy_sf13_round_start06']
 Full Path:,vo/spy_sf13_round_start06.mp3,,Scenes:,['scenes/player/spy/low/7606.vcd']
-Transcription:,Let's give this wretch his final reward!,,Responses:,"['SpySF13BattleCry', 'SpySF13RoundStart']"
-Your Line:,,,Rules:,"['SpySF13BattleCry', 'SpySF13RoundStart']"
+Transcription:,Let's give this wretch his final reward!,,Responses:,"['SpySF13RoundStart', 'SpySF13BattleCry']"
+Your Line:,,,Rules:,"['SpySF13RoundStart', 'SpySF13BattleCry']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsSpy', '75PercentChance', 'IsMapHelltower', 'IsNotInHell'], ['ConceptPlayerBattleCry', 'IsSpy', 'IsSpy', 'IsSpy', '75PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
 Filename:,spy_sf13_spell_bombhead01,,Events:,['spy_sf13_spell_bombhead01']
@@ -3395,7 +3395,7 @@ Your Line:,,,Rules:,['SpyCastMirv']
 ,,,Criteria:,"[['ConceptPlayerCastMirv', 'IsSpy']]"
 
 Filename:,spy_sf13_spell_earthquake01,,Events:,['spy_sf13_spell_earthquake01']
-Full Path:,vo/spy_sf13_spell_earthquake01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/secondrate_sorcery.vcd', 'scenes/player/spy/low/6161.vcd']"
+Full Path:,vo/spy_sf13_spell_earthquake01.mp3,,Scenes:,"['scenes/player/spy/low/6161.vcd', 'scenes/workshop/player/spy/low/secondrate_sorcery.vcd']"
 Transcription:,Seismela tremoro!,,Responses:,"['Taunt: Second Rate Sorcery', 'SpyCastMeteorSwarm']"
 Your Line:,,,Rules:,['SpyCastMeteorSwarm']
 ,,,Criteria:,"[['ConceptPlayerCastMeteorSwarm', 'IsSpy']]"
@@ -4042,25 +4042,25 @@ Transcription:,"And when the Spy saw the breadth of his achievement, he wept, fo
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_01,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_01,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_01.mp3,,Scenes:,[]
 Transcription:,"Well done, my friend!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_02,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_02,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_02.mp3,,Scenes:,[]
 Transcription:,But of course!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_03,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_03,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_03.mp3,,Scenes:,[]
 Transcription:,It's about time they recognized our brilliance!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_04,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_04,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_04.mp3,,Scenes:,[]
 Transcription:,Ho ho hoh! They have been shown who is the boss!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4072,67 +4072,67 @@ Transcription:,We have gained the acceptance of our inferiors!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_06,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_06,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_06.mp3,,Scenes:,[]
 Transcription:,"Finally, some recognition!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_07,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_07,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_07.mp3,,Scenes:,[]
 Transcription:,"I am not easily impressed, and yet you have impressed me!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_08,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_08,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_08.mp3,,Scenes:,[]
 Transcription:,"I am the deadliest man I know, but you are a close second!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_10,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_10,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_10.mp3,,Scenes:,[]
 Transcription:,"Finally, they've recognized our brilliance!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_11,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_11,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_11.mp3,,Scenes:,[]
 Transcription:,Our work is finally being recognized!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_12,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_12,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_12.mp3,,Scenes:,[]
 Transcription:,It looks like we've been busy!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_13,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_13,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_13.mp3,,Scenes:,[]
 Transcription:,Our skills have been acknowledged!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_14,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_14,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_14.mp3,,Scenes:,[]
 Transcription:,We earned this.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_15,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_15,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_15.mp3,,Scenes:,[]
 Transcription:,"Yes! My friend, we have done it!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_16,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_16,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_16.mp3,,Scenes:,[]
 Transcription:,"We did it! I mean, of course we did it.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_spy_summary_callout_17,,Events:,"['spy.compsummaryscreenoutlier', 'spy.comprankup']"
+Filename:,cm_spy_summary_callout_17,,Events:,"['spy.comprankup', 'spy.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_spy_summary_callout_17.mp3,,Scenes:,[]
 Transcription:,Very nice!,,Responses:,[]
 Your Line:,,,Rules:,[]

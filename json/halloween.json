@@ -1739,8 +1739,8 @@
         "base_name": "sf13_blutarch_intro_short01",
         "criteria": [],
         "events": [
-            "announcer.helltower_blue_roundstart01",
-            "announcer.helltower_blue_roundstart_rare01"
+            "announcer.helltower_blue_roundstart_rare01",
+            "announcer.helltower_blue_roundstart01"
         ],
         "responses": [],
         "rules": [],
@@ -2758,8 +2758,8 @@
         "base_name": "sf13_mannbros_argue03",
         "criteria": [],
         "events": [
-            "announcer.helltower_blue_misc_rare03",
-            "announcer.helltower_red_misc_rare03"
+            "announcer.helltower_red_misc_rare03",
+            "announcer.helltower_blue_misc_rare03"
         ],
         "responses": [],
         "rules": [],
@@ -2771,8 +2771,8 @@
         "base_name": "sf13_mannbros_argue04",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc_rare04",
-            "announcer.helltower_blue_misc_rare04"
+            "announcer.helltower_blue_misc_rare04",
+            "announcer.helltower_red_misc_rare04"
         ],
         "responses": [],
         "rules": [],
@@ -2845,8 +2845,8 @@
         "base_name": "sf13_mannbros_argue10",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc_rare06",
-            "announcer.helltower_blue_misc_rare06"
+            "announcer.helltower_blue_misc_rare06",
+            "announcer.helltower_red_misc_rare06"
         ],
         "responses": [],
         "rules": [],
@@ -2858,8 +2858,8 @@
         "base_name": "sf13_mannbros_argue11",
         "criteria": [],
         "events": [
-            "announcer.helltower_blue_misc_rare07",
-            "announcer.helltower_red_misc_rare07"
+            "announcer.helltower_red_misc_rare07",
+            "announcer.helltower_blue_misc_rare07"
         ],
         "responses": [],
         "rules": [],
@@ -2980,8 +2980,8 @@
         "base_name": "sf13_mannbros_argue21",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc_rare13",
-            "announcer.helltower_blue_misc_rare13"
+            "announcer.helltower_blue_misc_rare13",
+            "announcer.helltower_red_misc_rare13"
         ],
         "responses": [],
         "rules": [],
@@ -2993,8 +2993,8 @@
         "base_name": "sf13_mannbros_argue22",
         "criteria": [],
         "events": [
-            "announcer.helltower_blue_misc_rare14",
-            "announcer.helltower_red_misc_rare14"
+            "announcer.helltower_red_misc_rare14",
+            "announcer.helltower_blue_misc_rare14"
         ],
         "responses": [],
         "rules": [],
@@ -3006,8 +3006,8 @@
         "base_name": "sf13_mannbros_argue23",
         "criteria": [],
         "events": [
-            "announcer.helltower_blue_misc_rare15",
-            "announcer.helltower_red_misc_rare15"
+            "announcer.helltower_red_misc_rare15",
+            "announcer.helltower_blue_misc_rare15"
         ],
         "responses": [],
         "rules": [],
@@ -3316,8 +3316,8 @@
         "base_name": "sf13_redmond_intro_short03",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_roundstart03",
-            "announcer.helltower_red_roundstart_rare03"
+            "announcer.helltower_red_roundstart_rare03",
+            "announcer.helltower_red_roundstart03"
         ],
         "responses": [],
         "rules": [],
@@ -3329,8 +3329,8 @@
         "base_name": "sf13_redmond_intro_short04",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_roundstart_rare04",
-            "announcer.helltower_red_roundstart04"
+            "announcer.helltower_red_roundstart04",
+            "announcer.helltower_red_roundstart_rare04"
         ],
         "responses": [],
         "rules": [],
@@ -3594,8 +3594,8 @@
         "base_name": "sf13_redmond_losing13",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc_rare18",
             "announcer.helltower_red_misc13",
+            "announcer.helltower_red_misc_rare18",
             "announcer.helltower_red_misc03"
         ],
         "responses": [],
@@ -3608,8 +3608,8 @@
         "base_name": "sf13_redmond_losing14",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_losing13",
-            "announcer.helltower_red_misc09"
+            "announcer.helltower_red_misc09",
+            "announcer.helltower_red_losing13"
         ],
         "responses": [],
         "rules": [],
@@ -3707,8 +3707,8 @@
         "base_name": "sf13_redmond_losing21",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc_rare19",
             "announcer.helltower_red_misc04",
+            "announcer.helltower_red_misc_rare19",
             "announcer.helltower_red_misc14"
         ],
         "responses": [],
@@ -3786,8 +3786,8 @@
         "criteria": [],
         "events": [
             "announcer.helltower_red_misc15",
-            "announcer.helltower_red_misc_rare20",
-            "announcer.helltower_red_misc05"
+            "announcer.helltower_red_misc05",
+            "announcer.helltower_red_misc_rare20"
         ],
         "responses": [],
         "rules": [],
@@ -3799,9 +3799,9 @@
         "base_name": "sf13_redmond_losing_push08",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_misc16",
             "announcer.helltower_red_misc06",
-            "announcer.helltower_red_misc_rare21"
+            "announcer.helltower_red_misc_rare21",
+            "announcer.helltower_red_misc16"
         ],
         "responses": [],
         "rules": [],
@@ -4200,8 +4200,8 @@
         "base_name": "sf13_redmond_winning08",
         "criteria": [],
         "events": [
-            "announcer.helltower_red_winning06",
-            "announcer.helltower_red_winning_rare03"
+            "announcer.helltower_red_winning_rare03",
+            "announcer.helltower_red_winning06"
         ],
         "responses": [],
         "rules": [],
@@ -4670,8 +4670,8 @@
         "base_name": "hall2015_fightmeras_01",
         "criteria": [],
         "events": [
-            "hall2015_fight_merasmus",
-            "hall2015_get_contract"
+            "hall2015_get_contract",
+            "hall2015_fight_merasmus"
         ],
         "responses": [],
         "rules": [],
@@ -5079,8 +5079,8 @@
         "base_name": "hall2015_garg_gone_01",
         "criteria": [],
         "events": [
-            "sf15.merasmus.gargoyle.got",
-            "sf15.merasmus.gargoyle.gone"
+            "sf15.merasmus.gargoyle.gone",
+            "sf15.merasmus.gargoyle.got"
         ],
         "responses": [],
         "rules": [],
@@ -5104,8 +5104,8 @@
         "base_name": "hall2015_garg_gone_03",
         "criteria": [],
         "events": [
-            "sf15.merasmus.gargoyle.got",
-            "sf15.merasmus.gargoyle.gone"
+            "sf15.merasmus.gargoyle.gone",
+            "sf15.merasmus.gargoyle.got"
         ],
         "responses": [],
         "rules": [],
@@ -6259,9 +6259,9 @@
         "base_name": "sf12_appears09",
         "criteria": [],
         "events": [
+            "halloween.merasmustauntfakeprop",
             "halloween.merasmusbombtaunt",
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -6273,9 +6273,9 @@
         "base_name": "sf12_appears10",
         "criteria": [],
         "events": [
+            "halloween.merasmustauntfakeprop",
             "halloween.merasmusbombtaunt",
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -6287,9 +6287,9 @@
         "base_name": "sf12_appears11",
         "criteria": [],
         "events": [
+            "halloween.merasmustauntfakeprop",
             "halloween.merasmusbombtaunt",
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -7358,8 +7358,8 @@
         "base_name": "sf12_bombinomicon03",
         "criteria": [],
         "events": [
-            "halloween.bombsupermove02",
-            "halloween.merasmuscontrolpoint"
+            "halloween.merasmuscontrolpoint",
+            "halloween.bombsupermove02"
         ],
         "responses": [],
         "rules": [],
@@ -7371,8 +7371,8 @@
         "base_name": "sf12_bombinomicon05",
         "criteria": [],
         "events": [
-            "halloween.bombsupermove03",
-            "halloween.merasmuscontrolpoint"
+            "halloween.merasmuscontrolpoint",
+            "halloween.bombsupermove03"
         ],
         "responses": [],
         "rules": [],
@@ -7410,8 +7410,8 @@
         "base_name": "sf12_bombinomicon11",
         "criteria": [],
         "events": [
-            "halloween.bombsupermove06",
-            "halloween.merasmuscontrolpoint"
+            "halloween.merasmuscontrolpoint",
+            "halloween.bombsupermove06"
         ],
         "responses": [],
         "rules": [],
@@ -7436,8 +7436,8 @@
         "base_name": "sf12_bombinomicon14",
         "criteria": [],
         "events": [
-            "halloween.merasmuscontrolpoint",
-            "halloween.bombsupermove08"
+            "halloween.bombsupermove08",
+            "halloween.merasmuscontrolpoint"
         ],
         "responses": [],
         "rules": [],
@@ -7449,8 +7449,8 @@
         "base_name": "sf12_bombinomicon15",
         "criteria": [],
         "events": [
-            "halloween.bombsupermove09",
-            "halloween.merasmuscontrolpoint"
+            "halloween.merasmuscontrolpoint",
+            "halloween.bombsupermove09"
         ],
         "responses": [],
         "rules": [],
@@ -7462,8 +7462,8 @@
         "base_name": "sf12_combat_idle01",
         "criteria": [],
         "events": [
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "halloween.merasmustauntfakeprop",
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -7475,8 +7475,8 @@
         "base_name": "sf12_combat_idle02",
         "criteria": [],
         "events": [
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "halloween.merasmustauntfakeprop",
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -8592,8 +8592,8 @@
         "base_name": "sf12_hide_idles37",
         "criteria": [],
         "events": [
-            "passtime.merasmus.laugh",
-            "halloween.merasmustauntfakeprop"
+            "halloween.merasmustauntfakeprop",
+            "passtime.merasmus.laugh"
         ],
         "responses": [],
         "rules": [],
@@ -9109,8 +9109,8 @@
         "base_name": "sf12_ranged_attack04",
         "criteria": [],
         "events": [
-            "halloween.merasmusgrenadethrowrare",
-            "halloween.merasmusbombtaunt"
+            "halloween.merasmusbombtaunt",
+            "halloween.merasmusgrenadethrowrare"
         ],
         "responses": [],
         "rules": [],
@@ -11288,9 +11288,9 @@
         "base_name": "sf14_merasmus_minigame_all_bluwin_01",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.duckhunt.winblue",
-            "sf14.merasmus.soccer.winblue",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.soccer.winblue"
         ],
         "responses": [],
         "rules": [],
@@ -11302,9 +11302,9 @@
         "base_name": "sf14_merasmus_minigame_all_bluwin_02",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.duckhunt.winblue",
-            "sf14.merasmus.soccer.winblue",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.soccer.winblue"
         ],
         "responses": [],
         "rules": [],
@@ -11326,9 +11326,9 @@
         "base_name": "sf14_merasmus_minigame_all_bluwin_04",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.duckhunt.winblue",
-            "sf14.merasmus.soccer.winblue",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.soccer.winblue"
         ],
         "responses": [],
         "rules": [],
@@ -11400,9 +11400,9 @@
         "base_name": "sf14_merasmus_minigame_all_otherteamdead_01",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.soccer.winalldead",
-            "sf14.merasmus.fp.winred",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11414,9 +11414,9 @@
         "base_name": "sf14_merasmus_minigame_all_otherteamdead_03",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.soccer.winalldead",
-            "sf14.merasmus.fp.winred",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11428,9 +11428,9 @@
         "base_name": "sf14_merasmus_minigame_all_otherteamdead_04",
         "criteria": [],
         "events": [
+            "sf14.merasmus.fp.winblue",
             "sf14.merasmus.soccer.winalldead",
-            "sf14.merasmus.fp.winred",
-            "sf14.merasmus.fp.winblue"
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11478,9 +11478,9 @@
         "base_name": "sf14_merasmus_minigame_all_redwin_01",
         "criteria": [],
         "events": [
-            "sf14.merasmus.fp.winred",
             "sf14.merasmus.duckhunt.winred",
-            "sf14.merasmus.soccer.winred"
+            "sf14.merasmus.soccer.winred",
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11492,9 +11492,9 @@
         "base_name": "sf14_merasmus_minigame_all_redwin_02",
         "criteria": [],
         "events": [
-            "sf14.merasmus.fp.winred",
             "sf14.merasmus.duckhunt.winred",
-            "sf14.merasmus.soccer.winred"
+            "sf14.merasmus.soccer.winred",
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11506,9 +11506,9 @@
         "base_name": "sf14_merasmus_minigame_all_redwin_03",
         "criteria": [],
         "events": [
-            "sf14.merasmus.fp.winred",
             "sf14.merasmus.duckhunt.winred",
-            "sf14.merasmus.soccer.winred"
+            "sf14.merasmus.soccer.winred",
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -11520,9 +11520,9 @@
         "base_name": "sf14_merasmus_minigame_all_redwin_04",
         "criteria": [],
         "events": [
-            "sf14.merasmus.fp.winred",
             "sf14.merasmus.duckhunt.winred",
-            "sf14.merasmus.soccer.winred"
+            "sf14.merasmus.soccer.winred",
+            "sf14.merasmus.fp.winred"
         ],
         "responses": [],
         "rules": [],
@@ -13302,8 +13302,8 @@
         "base_name": "sf14_merasmus_round_return_01",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13315,8 +13315,8 @@
         "base_name": "sf14_merasmus_round_return_02",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13328,8 +13328,8 @@
         "base_name": "sf14_merasmus_round_return_03",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13341,8 +13341,8 @@
         "base_name": "sf14_merasmus_round_return_04",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13354,8 +13354,8 @@
         "base_name": "sf14_merasmus_round_return_05",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13367,8 +13367,8 @@
         "base_name": "sf14_merasmus_round_return_06",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13380,8 +13380,8 @@
         "base_name": "sf14_merasmus_round_return_07",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13393,8 +13393,8 @@
         "base_name": "sf14_merasmus_round_return_08",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13406,8 +13406,8 @@
         "base_name": "sf14_merasmus_round_return_09",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13419,8 +13419,8 @@
         "base_name": "sf14_merasmus_round_return_10",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13432,8 +13432,8 @@
         "base_name": "sf14_merasmus_round_return_11",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13445,8 +13445,8 @@
         "base_name": "sf14_merasmus_round_return_12",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13458,8 +13458,8 @@
         "base_name": "sf14_merasmus_round_return_13",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13471,8 +13471,8 @@
         "base_name": "sf14_merasmus_round_return_14",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13484,8 +13484,8 @@
         "base_name": "sf14_merasmus_round_return_15",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13497,8 +13497,8 @@
         "base_name": "sf14_merasmus_round_return_16",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13510,8 +13510,8 @@
         "base_name": "sf14_merasmus_round_return_18",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13523,8 +13523,8 @@
         "base_name": "sf14_merasmus_round_return_20",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13536,8 +13536,8 @@
         "base_name": "sf14_merasmus_round_return_21",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13549,8 +13549,8 @@
         "base_name": "sf14_merasmus_round_return_22",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13562,8 +13562,8 @@
         "base_name": "sf14_merasmus_round_return_23",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13575,8 +13575,8 @@
         "base_name": "sf14_merasmus_round_return_24",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13588,8 +13588,8 @@
         "base_name": "sf14_merasmus_round_return_25",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13601,8 +13601,8 @@
         "base_name": "sf14_merasmus_round_return_26",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13782,8 +13782,8 @@
         "base_name": "sf14_merasmus_round_start_short_01",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13795,8 +13795,8 @@
         "base_name": "sf14_merasmus_round_start_short_02",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13820,8 +13820,8 @@
         "base_name": "sf14_merasmus_round_start_short_04",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13845,8 +13845,8 @@
         "base_name": "sf14_merasmus_round_start_short_06",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13858,8 +13858,8 @@
         "base_name": "sf14_merasmus_round_start_short_07",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.firstround"
+            "sf14.merasmus.start.firstround",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13908,8 +13908,8 @@
         "base_name": "sf14_merasmus_round_start_short_11",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13921,8 +13921,8 @@
         "base_name": "sf14_merasmus_round_start_short_12",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],
@@ -13934,8 +13934,8 @@
         "base_name": "sf14_merasmus_round_start_short_13",
         "criteria": [],
         "events": [
-            "sf14.merasmus.start.secondround",
-            "sf14.merasmus.start.thirdroundandbeyond"
+            "sf14.merasmus.start.thirdroundandbeyond",
+            "sf14.merasmus.start.secondround"
         ],
         "responses": [],
         "rules": [],

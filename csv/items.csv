@@ -1,4 +1,4 @@
-Filename:,ammo_pickup,,Events:,"['basecombatcharacter.ammopickup', 'player.pickupweapon']"
+Filename:,ammo_pickup,,Events:,"['player.pickupweapon', 'basecombatcharacter.ammopickup']"
 Full Path:,items/ammo_pickup.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -196,7 +196,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,gunpickup2,,Events:,"['grenadepack.touch', 'ammopack.touch']"
+Filename:,gunpickup2,,Events:,"['ammopack.touch', 'grenadepack.touch']"
 Full Path:,items/gunpickup2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]

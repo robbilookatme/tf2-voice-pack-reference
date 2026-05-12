@@ -1,28 +1,4 @@
 {
-    "vo/medic1.mp3": {
-        "base_name": "medic1",
-        "criteria": [],
-        "events": [
-            "tfplayer.saveme"
-        ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
-        "state": "used",
-        "transcript": ""
-    },
-    "vo/medic2.mp3": {
-        "base_name": "medic2",
-        "criteria": [],
-        "events": [
-            "tfplayer.saveme"
-        ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
-        "state": "used",
-        "transcript": ""
-    },
     "vo/medic_activatecharge01.mp3": {
         "base_name": "medic_activatecharge01",
         "criteria": [
@@ -119,14 +95,14 @@
             "medic.autocappedcontrolpoint01"
         ],
         "responses": [
-            "PlayerCapturedPointMedic",
-            "MedicTauntPrimary"
+            "MedicTauntPrimary",
+            "PlayerCapturedPointMedic"
         ],
         "rules": [
+            "MedicTauntHealArrow",
             "MedicTauntPlayerPrimary",
             "MedicTauntBust",
-            "PlayerCapturedPointMedic",
-            "MedicTauntHealArrow"
+            "PlayerCapturedPointMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/522.vcd",
@@ -174,12 +150,12 @@
             "medic.autocappedcontrolpoint03"
         ],
         "responses": [
-            "PlayerCapturedPointMedic",
-            "MeleeDareMedic"
+            "MeleeDareMedic",
+            "PlayerCapturedPointMedic"
         ],
         "rules": [
-            "PlayerCapturedPointMedic",
-            "MeleeDareMedic"
+            "MeleeDareMedic",
+            "PlayerCapturedPointMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/524.vcd"
@@ -439,9 +415,9 @@
             "medic.autodejectedtie04"
         ],
         "responses": [
+            "PlayerKilledCapperMedic",
             "PlayerStalemateMedic",
-            "RejectedDuelMedic",
-            "PlayerKilledCapperMedic"
+            "RejectedDuelMedic"
         ],
         "rules": [
             "PlayerStalemateMedic",
@@ -472,13 +448,13 @@
             "medic.autodejectedtie05"
         ],
         "responses": [
-            "PlayerStalemateMedic",
             "MedicJarateHit",
+            "PlayerStalemateMedic",
             "Taunt: The Final Score"
         ],
         "rules": [
-            "PlayerStalemateMedic",
-            "MedicJarateHit"
+            "MedicJarateHit",
+            "PlayerStalemateMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/1223.vcd",
@@ -504,12 +480,12 @@
             "medic.autodejectedtie06"
         ],
         "responses": [
-            "PlayerStalemateMedic",
-            "MedicJarateHit"
+            "MedicJarateHit",
+            "PlayerStalemateMedic"
         ],
         "rules": [
-            "PlayerStalemateMedic",
-            "MedicJarateHit"
+            "MedicJarateHit",
+            "PlayerStalemateMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/1224.vcd"
@@ -538,13 +514,13 @@
             "medic.autodejectedtie07"
         ],
         "responses": [
-            "PlayerStalemateMedic",
             "MedicJarateHit",
+            "PlayerStalemateMedic",
             "RejectedDuelMedic"
         ],
         "rules": [
-            "PlayerStalemateMedic",
             "MedicJarateHit",
+            "PlayerStalemateMedic",
             "RejectedDuelMedic"
         ],
         "scenes": [
@@ -698,8 +674,8 @@
             ]
         ],
         "events": [
-            "medic.battlecry01",
-            "medic.mannbulance_outro"
+            "medic.mannbulance_outro",
+            "medic.battlecry01"
         ],
         "responses": [
             "PlayerBattleCryMedic",
@@ -730,8 +706,8 @@
             ]
         ],
         "events": [
-            "medic.mannbulance_intro",
-            "medic.battlecry02"
+            "medic.battlecry02",
+            "medic.mannbulance_intro"
         ],
         "responses": [
             "PlayerBattleCryMedic",
@@ -743,8 +719,8 @@
             "PlayerRoundStartMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/539.vcd",
-            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd"
+            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
+            "scenes/player/medic/low/539.vcd"
         ],
         "state": "used",
         "transcript": "Forward!"
@@ -799,13 +775,13 @@
         ],
         "responses": [
             "PlayerBattleCryMedic",
-            "AcceptedDuelMedic",
-            "PlayerRoundStartMedic"
+            "PlayerRoundStartMedic",
+            "AcceptedDuelMedic"
         ],
         "rules": [
             "PlayerBattleCryMedic",
-            "AcceptedDuelMedic",
-            "PlayerRoundStartMedic"
+            "PlayerRoundStartMedic",
+            "AcceptedDuelMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/541.vcd"
@@ -826,8 +802,8 @@
             ]
         ],
         "events": [
-            "medic_taunt_flag",
-            "medic.battlecry05"
+            "medic.battlecry05",
+            "medic_taunt_flag"
         ],
         "responses": [
             "PlayerBattleCryMedic",
@@ -839,8 +815,8 @@
             "PlayerRoundStartMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/542.vcd",
-            "scenes/workshop/player/medic/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/medic/low/taunt_flying_colors.vcd",
+            "scenes/player/medic/low/542.vcd"
         ],
         "state": "used",
         "transcript": "Horrido!"
@@ -1447,8 +1423,8 @@
             "taunt_yeti_medic"
         ],
         "responses": [
-            "PlayerCheersMedic",
-            "Taunt: The High Five!"
+            "Taunt: The High Five!",
+            "PlayerCheersMedic"
         ],
         "rules": [
             "PlayerCheersMedic"
@@ -1477,12 +1453,12 @@
             "medic.cheers02"
         ],
         "responses": [
-            "PlayerCheersMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerCheersMedic"
         ],
         "rules": [
-            "PlayerCheersMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerCheersMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/545.vcd"
@@ -1522,13 +1498,13 @@
             ]
         ],
         "events": [
+            "taunt_yeti_medic",
             "medic_taunt_flag",
-            "medic.cheers04",
-            "taunt_yeti_medic"
+            "medic.cheers04"
         ],
         "responses": [
-            "PlayerCheersMedic",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "PlayerCheersMedic"
         ],
         "rules": [
             "PlayerCheersMedic"
@@ -1557,12 +1533,12 @@
             "medic.cheers05"
         ],
         "responses": [
-            "PlayerCheersMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerCheersMedic"
         ],
         "rules": [
-            "PlayerCheersMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerCheersMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/551.vcd"
@@ -1584,28 +1560,28 @@
             ]
         ],
         "events": [
-            "taunt_medic_aerobic_intro",
+            "medic_taunt_burrowed_bones_02",
             "medic.cheers06",
-            "medic_taunt_burrowed_bones_02"
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Cheers!",
-            "PlayerKilledCapperMedic",
             "Taunt: Mannrobics",
             "PlayerCheersMedic",
-            "Taunt: Borrowed Bones"
-        ],
-        "rules": [
-            "PlayerCheersMedic",
+            "Taunt: The Fist Bump",
+            "Taunt: Cheers!",
+            "Taunt: Borrowed Bones",
             "PlayerKilledCapperMedic"
         ],
+        "rules": [
+            "PlayerKilledCapperMedic",
+            "PlayerCheersMedic"
+        ],
         "scenes": [
+            "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/medic/low/taunt_cheers.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
             "scenes/player/medic/low/552.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd",
-            "scenes/player/medic/low/taunt_aerobic_b.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Oktoberfest!"
@@ -1892,8 +1868,8 @@
             "PlayerGoMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/565.vcd",
-            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd"
+            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
+            "scenes/player/medic/low/565.vcd"
         ],
         "state": "used",
         "transcript": "Mach schnell!"
@@ -1907,8 +1883,8 @@
             ]
         ],
         "events": [
-            "medic.go02",
-            "medic.mannbulance_loop"
+            "medic.mannbulance_loop",
+            "medic.go02"
         ],
         "responses": [
             "Taunt: The Mannbulance!",
@@ -1933,8 +1909,8 @@
             ]
         ],
         "events": [
-            "medic.go03",
-            "medic.mannbulance_loop"
+            "medic.mannbulance_loop",
+            "medic.go03"
         ],
         "responses": [
             "Taunt: The Mannbulance!",
@@ -1959,8 +1935,8 @@
             ]
         ],
         "events": [
-            "medic.go04",
-            "medic.mannbulance_loop"
+            "medic.mannbulance_loop",
+            "medic.go04"
         ],
         "responses": [
             "Taunt: The Mannbulance!",
@@ -2456,8 +2432,8 @@
             ]
         ],
         "events": [
-            "medic.mannbulance_intro",
-            "medic.incoming01"
+            "medic.incoming01",
+            "medic.mannbulance_intro"
         ],
         "responses": [
             "Taunt: The Mannbulance!",
@@ -2483,13 +2459,13 @@
         ],
         "events": [
             "taunt_medic_aerobic_intro",
-            "medic.mannbulance_intro",
-            "medic.incoming02"
+            "medic.incoming02",
+            "medic.mannbulance_intro"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "PlayerIncomingMedic",
-            "Taunt: The Mannbulance!"
+            "Taunt: The Mannbulance!",
+            "PlayerIncomingMedic"
         ],
         "rules": [
             "PlayerIncomingMedic"
@@ -2511,8 +2487,8 @@
             ]
         ],
         "events": [
-            "medic.incoming03",
-            "medic.mannbulance_intro"
+            "medic.mannbulance_intro",
+            "medic.incoming03"
         ],
         "responses": [
             "Taunt: The Mannbulance!",
@@ -2522,8 +2498,8 @@
             "PlayerIncomingMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/588.vcd",
-            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd"
+            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
+            "scenes/player/medic/low/588.vcd"
         ],
         "state": "used",
         "transcript": "Incoming."
@@ -3633,13 +3609,13 @@
             "medic.jeers01"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
             "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic",
             "Taunt: Unleashed Rage"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/592.vcd",
@@ -3664,12 +3640,12 @@
             "medic.jeers02"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/593.vcd"
@@ -3693,12 +3669,12 @@
             "medic.jeers03"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/594.vcd"
@@ -3722,12 +3698,12 @@
             "medic.jeers04"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/595.vcd"
@@ -3755,13 +3731,13 @@
             "medic.jeers05"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
             "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic",
             "RejectedDuelMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
             "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic",
             "RejectedDuelMedic"
         ],
         "scenes": [
@@ -3790,13 +3766,13 @@
             "medic.jeers06"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
             "PlayerJeersMedic",
-            "MeleeDareMedic"
+            "MeleeDareMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
             "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic",
             "MeleeDareMedic"
         ],
         "scenes": [
@@ -3821,12 +3797,12 @@
             "medic.jeers07"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/598.vcd"
@@ -3850,12 +3826,12 @@
             "medic.jeers08"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/599.vcd"
@@ -3879,12 +3855,12 @@
             "medic.jeers09"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/600.vcd"
@@ -3918,15 +3894,15 @@
             "medic.jeers10"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
+            "MedicTauntSecondary",
             "PlayerJeersMedic",
-            "MedicTauntSecondary"
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
             "MedicTauntPlayerSecondary",
-            "PlayerSuddenDeathMedic",
+            "MedicTauntSaxxy",
             "PlayerJeersMedic",
-            "MedicTauntSaxxy"
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/taunt02_v1.vcd",
@@ -3951,12 +3927,12 @@
             "medic.jeers11"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/603.vcd"
@@ -3980,12 +3956,12 @@
             "medic.jeers12"
         ],
         "responses": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "rules": [
-            "PlayerSuddenDeathMedic",
-            "PlayerJeersMedic"
+            "PlayerJeersMedic",
+            "PlayerSuddenDeathMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/602.vcd"
@@ -4039,22 +4015,22 @@
         "events": [
             "medic_taunt_heartbreaker_voice_c",
             "medic_tauntdoctors_defibrillators_medic_laughevil02",
-            "medic.laughevil02",
-            "medic_taunt_burrowed_bones_01"
+            "medic_taunt_burrowed_bones_01",
+            "medic.laughevil02"
         ],
         "responses": [
-            "Taunt: Borrowed Bones",
             "PlayerKilledDominatingMedic",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
+            "scenes/player/medic/low/1227.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/1227.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 1)"
@@ -4069,24 +4045,24 @@
         ],
         "events": [
             "taunt.bearhug_medic_b",
-            "medic.laughevil03",
-            "medic_taunt_burrowed_bones_01"
+            "medic_taunt_burrowed_bones_01",
+            "medic.laughevil03"
         ],
         "responses": [
+            "Taunt: Time Out Therapy",
+            "PlayerTauntsMedic",
             "Taunt: Bear Hug",
             "Taunt: Cheers!",
-            "Taunt: Time Out Therapy",
-            "Taunt: Borrowed Bones",
-            "PlayerTauntsMedic"
+            "Taunt: Borrowed Bones"
         ],
         "rules": [
             "PlayerPositiveMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/medic/low/taunt_cheers.vcd",
             "scenes/player/medic/low/1228.vcd",
             "scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd",
-            "scenes/workshop/player/medic/low/taunt_cheers.vcd",
+            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
@@ -4136,20 +4112,20 @@
             ]
         ],
         "events": [
-            "medic.taunt_doctors_defibrillators_outro",
-            "medic.laughevil05"
+            "medic.laughevil05",
+            "medic.taunt_doctors_defibrillators_outro"
         ],
         "responses": [
             "PlayerKilledDominatingMedic",
             "Taunt: Doctor's Defibrillators"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/1232.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/player/medic/low/1232.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 2)"
@@ -4181,8 +4157,8 @@
             "PlayerKilledDominatingMedic"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/605.vcd"
@@ -4217,8 +4193,8 @@
             "PlayerKilledDominatingMedic"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/606.vcd"
@@ -4248,8 +4224,8 @@
         ],
         "events": [
             "medic.laughhappy03",
-            "taunt.bearhug_medic_c",
-            "taunt_medic_aerobic_shared_b"
+            "taunt_medic_aerobic_shared_b",
+            "taunt.bearhug_medic_c"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -4257,13 +4233,13 @@
             "PlayerKilledDominatingMedic"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/1229.vcd",
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/1229.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh 3)"
@@ -4301,15 +4277,15 @@
             "medic.laughlong01"
         ],
         "responses": [
-            "PlayerKilledDominatingMedic",
             "MedicTauntLaugh",
+            "PlayerKilledDominatingMedic",
             "Taunt: The Schadenfreude"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "MedicTauntLaugh",
             "MedicTauntAprilFools",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "MedicTauntLaugh",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/taunt_laugh.vcd",
@@ -4345,8 +4321,8 @@
             "PlayerKilledDominatingMedic"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/608.vcd"
@@ -4366,8 +4342,8 @@
             "medic.laughshort01"
         ],
         "responses": [
-            "PlayerTauntsMedic",
-            "Taunt: Time Out Therapy"
+            "Taunt: Time Out Therapy",
+            "PlayerTauntsMedic"
         ],
         "rules": [
             "PlayerPositiveMedic"
@@ -4388,8 +4364,8 @@
             ]
         ],
         "events": [
-            "medic.laughshort02",
-            "medic_taunt_heartbreaker_voice_c"
+            "medic_taunt_heartbreaker_voice_c",
+            "medic.laughshort02"
         ],
         "responses": [
             "PlayerTauntsMedic",
@@ -4399,8 +4375,8 @@
             "PlayerPositiveMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/610.vcd"
+            "scenes/player/medic/low/610.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh 2"
@@ -4426,10 +4402,10 @@
             ]
         ],
         "events": [
-            "medic.taunt_doctors_defibrillators_outro",
+            "medic_taunt_heartbreaker_voice_c",
             "taunt_yeti_medic",
             "medic.laughshort03",
-            "medic_taunt_heartbreaker_voice_c"
+            "medic.taunt_doctors_defibrillators_outro"
         ],
         "responses": [
             "Taunt: Heartbreaker",
@@ -4437,13 +4413,13 @@
             "Taunt: Doctor's Defibrillators"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/1230.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh)"
@@ -4567,10 +4543,10 @@
         "base_name": "medic_mvm_ask_ready01",
         "criteria": [],
         "events": [
-            "medic.ready",
+            "medic.readymvm",
             "medic_mvm_ask_ready01",
             "medic.readycomp",
-            "medic.readymvm"
+            "medic.ready"
         ],
         "responses": [],
         "rules": [],
@@ -5520,21 +5496,21 @@
             ]
         ],
         "events": [
-            "medic_mvm_loot_common02",
-            "medic_taunt_neck_snap_01"
+            "medic_taunt_neck_snap_01",
+            "medic_mvm_loot_common02"
         ],
         "responses": [
+            "Taunt: Neck Snap",
             "MedicMvMLootCommon",
-            "MedicSF13SpellPickupCommon",
-            "Taunt: Neck Snap"
+            "MedicSF13SpellPickupCommon"
         ],
         "rules": [
             "MedicMvMLootCommon",
             "MedicSF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/player/medic/low/6735.vcd",
-            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd"
+            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
+            "scenes/player/medic/low/6735.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, vunderbar!"
@@ -5670,19 +5646,19 @@
             ]
         ],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
-            "medic_mvm_loot_rare02"
+            "medic_mvm_loot_rare02",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
-            "MedicMvMLootRare",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "MedicMvMLootRare"
         ],
         "rules": [
             "MedicMvMLootRare"
         ],
         "scenes": [
-            "scenes/player/medic/low/6739.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/player/medic/low/6739.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, very nice."
@@ -5906,10 +5882,10 @@
         "base_name": "medic_mvm_say_ready01",
         "criteria": [],
         "events": [
-            "medic.ready",
+            "medic.readymvm",
             "medic.readycomp",
-            "medic_mvm_say_ready01",
-            "medic.readymvm"
+            "medic.ready",
+            "medic_mvm_say_ready01"
         ],
         "responses": [],
         "rules": [],
@@ -5921,10 +5897,10 @@
         "base_name": "medic_mvm_say_ready02",
         "criteria": [],
         "events": [
-            "medic.ready",
+            "medic.readymvm",
             "medic_mvm_say_ready02",
             "medic.readycomp",
-            "medic.readymvm"
+            "medic.ready"
         ],
         "responses": [],
         "rules": [],
@@ -6447,13 +6423,13 @@
             "medic.negativevocalization01"
         ],
         "responses": [
-            "Taunt: The Critical Fail",
+            "PlayerLostPointMedic",
             "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "Taunt: The Critical Fail"
         ],
         "rules": [
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerLostPointMedic",
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_the_critical_fail.vcd",
@@ -6482,18 +6458,18 @@
             ]
         ],
         "events": [
-            "medic.negativevocalization02",
-            "medic.scardy_cat_b"
+            "medic.scardy_cat_b",
+            "medic.negativevocalization02"
         ],
         "responses": [
+            "PlayerLostPointMedic",
             "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerNegativeMedic"
         ],
         "rules": [
+            "PlayerLostPointMedic",
             "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/620.vcd"
@@ -6517,12 +6493,12 @@
             "medic.negativevocalization03"
         ],
         "responses": [
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerLostPointMedic",
+            "PlayerNegativeMedic"
         ],
         "rules": [
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerLostPointMedic",
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/621.vcd"
@@ -6552,14 +6528,14 @@
         ],
         "responses": [
             "MedicJarateHit",
-            "PlayerNegativeMedic",
             "PlayerLostPointMedic",
-            "Taunt: Unleashed Rage"
+            "Taunt: Unleashed Rage",
+            "PlayerNegativeMedic"
         ],
         "rules": [
             "MedicJarateHit",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerLostPointMedic",
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/622.vcd",
@@ -6590,19 +6566,19 @@
             "taunt_burstchester_medic_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "MedicJarateHit",
+            "PlayerLostPointMedic",
             "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "Taunt: Burstchester"
         ],
         "rules": [
             "MedicJarateHit",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerLostPointMedic",
+            "PlayerNegativeMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/623.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/623.vcd"
         ],
         "state": "used",
         "transcript": "MNAAH!"
@@ -6630,15 +6606,15 @@
             "medic.negativevocalization06"
         ],
         "responses": [
-            "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
             "PlayerLostPointMedic",
-            "Taunt: Unleashed Rage"
+            "Taunt: Unleashed Rage",
+            "PlayerKilledForRevengeMedic",
+            "PlayerNegativeMedic"
         ],
         "rules": [
+            "PlayerLostPointMedic",
             "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/1233.vcd",
@@ -6670,15 +6646,15 @@
             "medic.negativevocalization07"
         ],
         "responses": [
-            "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
             "PlayerLostPointMedic",
-            "Taunt: Unleashed Rage"
+            "Taunt: Unleashed Rage",
+            "PlayerKilledForRevengeMedic",
+            "PlayerNegativeMedic"
         ],
         "rules": [
+            "PlayerLostPointMedic",
             "PlayerKilledForRevengeMedic",
-            "PlayerNegativeMedic",
-            "PlayerLostPointMedic"
+            "PlayerNegativeMedic"
         ],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_unleashed_rage.vcd",
@@ -6806,10 +6782,10 @@
         "base_name": "medic_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "mvm.playerdiedmedic",
             "medic.critdeath",
+            "medic.paincrticialdeath01",
             "medic.meleedeath",
-            "medic.paincrticialdeath01"
+            "mvm.playerdiedmedic"
         ],
         "responses": [],
         "rules": [],
@@ -6821,10 +6797,10 @@
         "base_name": "medic_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "mvm.playerdiedmedic",
             "medic.critdeath",
-            "medic.meleedeath",
-            "medic.paincrticialdeath02"
+            "medic.paincrticialdeath02",
+            "mvm.playerdiedmedic",
+            "medic.meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -6836,10 +6812,10 @@
         "base_name": "medic_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "mvm.playerdiedmedic",
             "medic.critdeath",
-            "medic.paincrticialdeath03",
-            "medic.meleedeath"
+            "mvm.playerdiedmedic",
+            "medic.meleedeath",
+            "medic.paincrticialdeath03"
         ],
         "responses": [],
         "rules": [],
@@ -6851,8 +6827,8 @@
         "base_name": "medic_paincrticialdeath04",
         "criteria": [],
         "events": [
-            "mvm.playerdiedmedic",
             "medic.critdeath",
+            "mvm.playerdiedmedic",
             "medic.meleedeath",
             "medic.paincrticialdeath04"
         ],
@@ -6874,13 +6850,13 @@
         "events": [
             "taunt_burstchester_medic_pain_big",
             "medic.painsevere01",
-            "medic.scardy_cat",
-            "medic.death"
+            "medic.death",
+            "medic.scardy_cat"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: The Scaredy-Cat!",
-            "PlayerAttackerPainMedic"
+            "PlayerAttackerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerAttackerPainMedic"
@@ -6904,24 +6880,24 @@
         ],
         "events": [
             "taunt_burstchester_medic_pain_big",
-            "medic.painsevere02",
+            "medic.death",
             "medic.scardy_cat",
-            "medic.death"
+            "medic.painsevere02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerAttackerPainMedic",
             "Taunt: The Scaredy-Cat!",
-            "Taunt: Yeti Punch"
+            "Taunt: Yeti Punch",
+            "PlayerAttackerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerAttackerPainMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/634.vcd",
+            "scenes/player/medic/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/taunt_yetipunch.vcd"
+            "scenes/player/medic/low/634.vcd"
         ],
         "state": "used",
         "transcript": "(Yell 2)"
@@ -6936,9 +6912,9 @@
             ]
         ],
         "events": [
-            "medic.scardy_cat",
+            "medic.painsevere03",
             "medic.death",
-            "medic.painsevere03"
+            "medic.scardy_cat"
         ],
         "responses": [
             "Taunt: The Scaredy-Cat!",
@@ -6948,8 +6924,8 @@
             "PlayerAttackerPainMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
-            "scenes/player/medic/low/635.vcd"
+            "scenes/player/medic/low/635.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Yell 3)"
@@ -6965,22 +6941,22 @@
         ],
         "events": [
             "taunt_burstchester_medic_pain_big",
-            "medic.painsevere04",
             "medic.scardy_cat",
-            "medic.death"
+            "medic.death",
+            "medic.painsevere04"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: The Scaredy-Cat!",
-            "PlayerAttackerPainMedic"
+            "PlayerAttackerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerAttackerPainMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/1243.vcd",
             "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/1243.vcd"
         ],
         "state": "used",
         "transcript": "(Whimper)"
@@ -7002,18 +6978,18 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_medic_pain_big",
+            "medic.painsharp01",
             "medic.explosiondeath",
-            "medic.painsharp01"
+            "taunt_burstchester_medic_pain_big"
         ],
         "responses": [
+            "PlayerPainMedic",
             "Taunt: Burstchester",
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerStillOnFireMedic"
         ],
         "rules": [
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "PlayerStillOnFireMedic"
         ],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
@@ -7033,20 +7009,20 @@
             ]
         ],
         "events": [
-            "medic.explosiondeath",
             "medic.painsharp02",
+            "medic.explosiondeath",
             "taunt_burstchester_medic_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/637.vcd"
+            "scenes/player/medic/low/637.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 2)"
@@ -7068,23 +7044,23 @@
             ]
         ],
         "events": [
+            "medic.painsharp03",
             "medic.explosiondeath",
-            "taunt_burstchester_medic_pain",
-            "medic.painsharp03"
+            "taunt_burstchester_medic_pain"
         ],
         "responses": [
+            "PlayerPainMedic",
             "Taunt: Burstchester",
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerStillOnFireMedic"
         ],
         "rules": [
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "PlayerStillOnFireMedic"
         ],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/1924.vcd",
-            "scenes/player/medic/low/638.vcd"
+            "scenes/player/medic/low/638.vcd",
+            "scenes/player/medic/low/1924.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 3)"
@@ -7099,13 +7075,13 @@
             ]
         ],
         "events": [
+            "medic.explosiondeath",
             "taunt_burstchester_medic_pain_big",
-            "medic.painsharp04",
-            "medic.explosiondeath"
+            "medic.painsharp04"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainMedic"
@@ -7127,13 +7103,13 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_medic_pain_big",
             "medic.explosiondeath",
+            "taunt_burstchester_medic_pain_big",
             "medic.painsharp05"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainMedic"
@@ -7162,22 +7138,22 @@
             ]
         ],
         "events": [
+            "medic.explosiondeath",
             "taunt_burstchester_medic_pain_big",
-            "medic.painsharp06",
-            "medic.explosiondeath"
+            "medic.painsharp06"
         ],
         "responses": [
+            "PlayerPainMedic",
             "Taunt: Burstchester",
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerStillOnFireMedic"
         ],
         "rules": [
-            "PlayerStillOnFireMedic",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "PlayerStillOnFireMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/1246.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/1246.vcd",
             "scenes/player/medic/low/1924.vcd"
         ],
         "state": "used",
@@ -7193,20 +7169,20 @@
             ]
         ],
         "events": [
+            "medic.explosiondeath",
             "taunt_burstchester_medic_pain_big",
-            "medic.painsharp07",
-            "medic.explosiondeath"
+            "medic.painsharp07"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainMedic"
+            "PlayerPainMedic",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/1247.vcd"
+            "scenes/player/medic/low/1247.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 7)"
@@ -7222,27 +7198,27 @@
         ],
         "events": [
             "medic.explosiondeath",
-            "taunt_burstchester_medic_pain_big",
+            "medic_taunt_heartbreaker_voice_b",
             "medic.painsharp08",
-            "medic_taunt_commending_clap_a",
-            "medic_taunt_heartbreaker_voice_b"
+            "taunt_burstchester_medic_pain_big",
+            "medic_taunt_commending_clap_a"
         ],
         "responses": [
+            "Taunt: Heartbreaker",
+            "Taunt: Commending Clap",
             "Taunt: Burstchester",
             "PlayerPainMedic",
-            "Taunt: Commending Clap",
-            "Taunt: Heartbreaker",
             "Taunt: Mourning Mercs"
         ],
         "rules": [
             "PlayerPainMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/1248.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/player/medic/low/1248.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd"
         ],
         "state": "used",
         "transcript": "(Gasp)"
@@ -7286,8 +7262,8 @@
             "medic.positivevocalization02"
         ],
         "responses": [
-            "PlayerPositiveMedic",
             "Taunt: Yeti Punch",
+            "PlayerPositiveMedic",
             "AcceptedDuelMedic"
         ],
         "rules": [
@@ -7295,8 +7271,8 @@
             "AcceptedDuelMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/640.vcd",
-            "scenes/player/medic/low/taunt_yetipunch.vcd"
+            "scenes/player/medic/low/taunt_yetipunch.vcd",
+            "scenes/player/medic/low/640.vcd"
         ],
         "state": "used",
         "transcript": "Wunderbar!"
@@ -7315,17 +7291,17 @@
             ]
         ],
         "events": [
-            "taunt_medic_aerobic_intro",
-            "medic.positivevocalization03"
+            "medic.positivevocalization03",
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "PlayerPositiveMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerPositiveMedic"
         ],
         "rules": [
-            "PlayerPositiveMedic",
-            "PlayerKilledCapperMedic"
+            "PlayerKilledCapperMedic",
+            "PlayerPositiveMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
@@ -7514,29 +7490,29 @@
             ]
         ],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
-            "taunt_burstchester_medic_01",
             "medic_sf12_badmagic02",
-            "medic_taunt_burrowed_bones_01"
+            "taunt_burstchester_medic_01",
+            "medic_taunt_burrowed_bones_01",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "MedicSF13SpellMovementBuff",
-            "Taunt: Borrowed Bones",
             "medicBigHeadReaction",
             "medicSmallHeadReaction",
-            "Taunt: The Head Doctor"
+            "MedicSF13SpellMovementBuff",
+            "Taunt: The Head Doctor",
+            "Taunt: Burstchester",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [
-            "MedicSF13SpellMovementBuff",
+            "medicBigHeadReaction",
             "medicSmallHeadReaction",
-            "medicBigHeadReaction"
+            "MedicSF13SpellMovementBuff"
         ],
         "scenes": [
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/player/medic/low/4652.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Fascinating."
@@ -7554,24 +7530,24 @@
             ]
         ],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
             "medic_sf12_badmagic03",
-            "taunt_burstchester_medic_01"
+            "taunt_burstchester_medic_01",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "medicSmallHeadReaction",
             "MedicSF13SpellMovementBuff",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "MedicSF13SpellMovementBuff",
-            "medicSmallHeadReaction"
+            "medicSmallHeadReaction",
+            "MedicSF13SpellMovementBuff"
         ],
         "scenes": [
-            "scenes/player/medic/low/4654.vcd",
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/player/medic/low/4654.vcd"
         ],
         "state": "used",
         "transcript": "Ooh! Tiny little head!"
@@ -7602,15 +7578,15 @@
             ]
         ],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
+            "taunt_burstchester_medic_01",
             "medic_sf12_badmagic05",
-            "taunt_burstchester_medic_01"
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "medicSmallHeadReaction",
             "medicGravityReaction",
-            "Taunt: The Head Doctor"
+            "medicSmallHeadReaction",
+            "Taunt: The Head Doctor",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "medicSmallHeadReaction",
@@ -7618,8 +7594,8 @@
         ],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/4656.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/player/medic/low/4656.vcd"
         ],
         "state": "used",
         "transcript": "Ooh. Interesting."
@@ -7638,13 +7614,13 @@
             ]
         ],
         "events": [
-            "medic_sf12_badmagic06",
-            "taunt_burstchester_medic_01"
+            "taunt_burstchester_medic_01",
+            "medic_sf12_badmagic06"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "MedicSF13SpellMovementBuff",
-            "medicGravityReaction"
+            "medicGravityReaction",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "MedicSF13SpellMovementBuff",
@@ -7709,21 +7685,21 @@
             ]
         ],
         "events": [
-            "taunt_medic_aerobic_intro",
+            "taunt_burstchester_medic_01",
             "medic_sf12_badmagic09",
-            "taunt_burstchester_medic_01"
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "MedicSF13SpellMovementBuff",
             "Taunt: Mannrobics",
             "medicBigHeadReaction",
-            "medicSmallHeadReaction"
+            "medicSmallHeadReaction",
+            "MedicSF13SpellMovementBuff",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "MedicSF13SpellMovementBuff",
+            "medicBigHeadReaction",
             "medicSmallHeadReaction",
-            "medicBigHeadReaction"
+            "MedicSF13SpellMovementBuff"
         ],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
@@ -7737,8 +7713,8 @@
         "base_name": "medic_sf12_badmagic10",
         "criteria": [],
         "events": [
-            "medic_sf12_badmagic10",
-            "taunt_burstchester_medic_01"
+            "taunt_burstchester_medic_01",
+            "medic_sf12_badmagic10"
         ],
         "responses": [
             "Taunt: Burstchester"
@@ -7776,16 +7752,16 @@
             ]
         ],
         "events": [
-            "taunt_medic_aerobic_intro",
-            "medic_sf12_badmagic12",
             "taunt_burstchester_medic_01",
-            "medic.scardy_cat_b"
+            "medic.scardy_cat_b",
+            "medic_sf12_badmagic12",
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "MedicSF13SpellMovementBuff",
-            "medicGravityReaction"
+            "medicGravityReaction",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "MedicSF13SpellMovementBuff",
@@ -7793,8 +7769,8 @@
         ],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
-            "scenes/player/medic/low/4663.vcd"
+            "scenes/player/medic/low/4663.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Wuh ho ho! Vhat a curious sensation!"
@@ -8025,19 +8001,19 @@
             ]
         ],
         "events": [
-            "medic_sf12_scared01",
-            "medic.scardy_cat_c"
+            "medic.scardy_cat_c",
+            "medic_sf12_scared01"
         ],
         "responses": [
-            "MedicSF13SkeletonKingAppear",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "MedicSF13SkeletonKingAppear"
         ],
         "rules": [
             "MedicSF13SkeletonKingAppear"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
-            "scenes/player/medic/low/4668.vcd"
+            "scenes/player/medic/low/4668.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "RUN!"
@@ -8057,15 +8033,15 @@
             "medic.scardy_cat_c"
         ],
         "responses": [
-            "MedicSF13SkeletonKingAppear",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "MedicSF13SkeletonKingAppear"
         ],
         "rules": [
             "MedicSF13SkeletonKingAppear"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
-            "scenes/player/medic/low/4669.vcd"
+            "scenes/player/medic/low/4669.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "GET AVAY!"
@@ -8263,19 +8239,19 @@
             ]
         ],
         "events": [
-            "medic_sf12_taunts02",
-            "medic_taunt_burrowed_bones_02"
+            "medic_taunt_burrowed_bones_02",
+            "medic_sf12_taunts02"
         ],
         "responses": [
-            "Taunt: Borrowed Bones",
-            "medicGoodMagicReaction"
+            "medicGoodMagicReaction",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [
             "medicGoodMagicReaction"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/4731.vcd"
+            "scenes/player/medic/low/4731.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laughter)"
@@ -8290,24 +8266,24 @@
             ]
         ],
         "events": [
-            "taunt_medic_aerobic_intro",
             "medic_taunt_burrowed_bones_02",
             "medic_sf12_taunts03",
-            "medic_taunt_heartbreaker_voice_c"
+            "medic_taunt_heartbreaker_voice_c",
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
+            "medicGoodMagicReaction",
             "Taunt: Heartbreaker",
-            "medicGoodMagicReaction"
+            "Taunt: Borrowed Bones"
         ],
         "rules": [
             "medicGoodMagicReaction"
         ],
         "scenes": [
             "scenes/player/medic/low/4732.vcd",
-            "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
@@ -8494,17 +8470,17 @@
             "taunt_medic_aerobic_shared_a"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
-            "MedicSF13SpellPickupCommon"
+            "MedicSF13SpellPickupCommon",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "MedicSF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/player/medic/low/6811.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, tingly."
@@ -8525,12 +8501,12 @@
             "medic_sf13_magic_reac01"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/6816.vcd"
@@ -8553,8 +8529,8 @@
             ]
         ],
         "events": [
-            "medic_sf13_magic_reac02",
-            "medic.scardy_cat_b"
+            "medic.scardy_cat_b",
+            "medic_sf13_magic_reac02"
         ],
         "responses": [
             "MedicSeeSpellMeteorSwarm",
@@ -8586,12 +8562,12 @@
             "medic_sf13_magic_reac03"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/6818.vcd"
@@ -8615,12 +8591,12 @@
             "medic_sf13_magic_reac04"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/6819.vcd"
@@ -8644,12 +8620,12 @@
             "medic_sf13_magic_reac05"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/8508.vcd"
@@ -8673,12 +8649,12 @@
             "medic_sf13_magic_reac06"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/8509.vcd"
@@ -8702,12 +8678,12 @@
             "medic_sf13_magic_reac07"
         ],
         "responses": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "rules": [
-            "MedicSeeSpellSkeletonHorde",
-            "MedicSeeSpellMeteorSwarm"
+            "MedicSeeSpellMeteorSwarm",
+            "MedicSeeSpellSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/medic/low/8510.vcd"
@@ -9151,12 +9127,12 @@
             "medic.specialcompleted-assistedkill01"
         ],
         "responses": [
-            "KilledPlayerAssistAutoMedic",
-            "KilledPlayerAssistMedic"
+            "KilledPlayerAssistMedic",
+            "KilledPlayerAssistAutoMedic"
         ],
         "rules": [
-            "KilledPlayerAssistAutoMedic",
-            "KilledPlayerAssistMedic"
+            "KilledPlayerAssistMedic",
+            "KilledPlayerAssistAutoMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/657.vcd"
@@ -9190,12 +9166,12 @@
             "medic.specialcompleted-assistedkill02"
         ],
         "responses": [
-            "KilledPlayerAssistAutoMedic",
-            "KilledPlayerAssistMedic"
+            "KilledPlayerAssistMedic",
+            "KilledPlayerAssistAutoMedic"
         ],
         "rules": [
-            "KilledPlayerAssistAutoMedic",
-            "KilledPlayerAssistMedic"
+            "KilledPlayerAssistMedic",
+            "KilledPlayerAssistAutoMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/658.vcd"
@@ -9236,20 +9212,20 @@
             "medic_taunt_heartbreaker_voice_c"
         ],
         "responses": [
-            "MedicTauntPrimary",
+            "KilledPlayerMedic",
             "Taunt: Heartbreaker",
-            "KilledPlayerMedic"
+            "MedicTauntPrimary"
         ],
         "rules": [
-            "MedicTauntPlayerPrimary",
-            "MedicTauntBust",
+            "MedicTauntHealArrow",
             "KilledPlayerMedic",
-            "MedicTauntHealArrow"
+            "MedicTauntPlayerPrimary",
+            "MedicTauntBust"
         ],
         "scenes": [
-            "scenes/player/medic/low/taunt01_vocal04.vcd",
+            "scenes/player/medic/low/645.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/645.vcd"
+            "scenes/player/medic/low/taunt01_vocal04.vcd"
         ],
         "state": "used",
         "transcript": "[Quietly] \"Did zat sting?\" [Loudly] \"SAW-ry!\""
@@ -9304,12 +9280,12 @@
         ],
         "rules": [
             "KilledPlayerVeryManyMedic",
-            "InvulnerableSpeechCombatMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "InvulnerableSpeechCombatMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/646.vcd"
+            "scenes/player/medic/low/646.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
         "transcript": "Ze healing is not as revarding as ze hurting."
@@ -9344,12 +9320,12 @@
             "Taunt: Heartbreaker"
         ],
         "rules": [
-            "InvulnerableSpeechCombatMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "InvulnerableSpeechCombatMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/647.vcd"
+            "scenes/player/medic/low/647.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
         "transcript": "Ze healing leaves little time for ze hurting."
@@ -9380,8 +9356,8 @@
             "InvulnerableSpeechMedic"
         ],
         "rules": [
-            "InvulnerableSpeechMedic",
-            "KritzSpeechMedic"
+            "KritzSpeechMedic",
+            "InvulnerableSpeechMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/648.vcd"
@@ -9415,8 +9391,8 @@
             "InvulnerableSpeechMedic"
         ],
         "rules": [
-            "InvulnerableSpeechMedic",
-            "KritzSpeechMedic"
+            "KritzSpeechMedic",
+            "InvulnerableSpeechMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/649.vcd"
@@ -9450,8 +9426,8 @@
             "InvulnerableSpeechMedic"
         ],
         "rules": [
-            "InvulnerableSpeechMedic",
-            "KritzSpeechMedic"
+            "KritzSpeechMedic",
+            "InvulnerableSpeechMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/650.vcd"
@@ -9488,8 +9464,8 @@
             ]
         ],
         "events": [
-            "medic_taunt_flag",
-            "medic.specialcompleted07"
+            "medic.specialcompleted07",
+            "medic_taunt_flag"
         ],
         "responses": [
             "PlayerKilledObjectMedic",
@@ -9498,8 +9474,8 @@
         ],
         "rules": [
             "PlayerKilledObjectMedic",
-            "InvulnerableSpeechCombatMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "InvulnerableSpeechCombatMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/653.vcd",
@@ -9579,11 +9555,11 @@
             "MedicTauntPrimary"
         ],
         "rules": [
-            "KilledPlayerVeryManyMedic",
-            "MedicTauntBust",
             "MedicTauntHealArrow",
+            "KilledPlayerVeryManyMedic",
+            "KilledPlayerMedic",
             "MedicTauntPlayerPrimary",
-            "KilledPlayerMedic"
+            "MedicTauntBust"
         ],
         "scenes": [
             "scenes/player/medic/low/taunt01_vocal03.vcd",
@@ -9635,20 +9611,20 @@
         ],
         "responses": [
             "KilledPlayerVeryManyMedic",
-            "MedicTauntPrimary",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "MedicTauntPrimary"
         ],
         "rules": [
-            "KilledPlayerVeryManyMedic",
-            "MedicTauntBust",
             "MedicTauntHealArrow",
+            "KilledPlayerVeryManyMedic",
+            "KilledPlayerMedic",
             "MedicTauntPlayerPrimary",
-            "KilledPlayerMedic"
+            "MedicTauntBust"
         ],
         "scenes": [
             "scenes/player/medic/low/656.vcd",
-            "scenes/player/medic/low/taunt01_vocal05.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/player/medic/low/taunt01_vocal05.vcd"
         ],
         "state": "used",
         "transcript": "Oops! Zat vas not Medizin!"
@@ -9676,8 +9652,8 @@
             ]
         ],
         "events": [
-            "medic.specialcompleted11",
-            "taunt_medic_aerobic_shared_a"
+            "taunt_medic_aerobic_shared_a",
+            "medic.specialcompleted11"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -9688,8 +9664,8 @@
             "KilledPlayerMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/652.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
+            "scenes/player/medic/low/652.vcd"
         ],
         "state": "used",
         "transcript": "Can you feel ze Schadenfreude?"
@@ -9725,12 +9701,12 @@
             "Taunt: Heartbreaker"
         ],
         "rules": [
-            "KilledPlayerManyMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "KilledPlayerManyMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/651.vcd"
+            "scenes/player/medic/low/651.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
         "transcript": "Haha! Vhat a bloodbazh!"
@@ -9937,8 +9913,8 @@
             ]
         ],
         "events": [
-            "medic.thanks02",
-            "medic_taunt_burrowed_bones_02"
+            "medic_taunt_burrowed_bones_02",
+            "medic.thanks02"
         ],
         "responses": [
             "PlayerThanksMedic",
@@ -9948,8 +9924,8 @@
             "PlayerThanksMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/682.vcd"
+            "scenes/player/medic/low/682.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Danke!"
@@ -10106,15 +10082,15 @@
         "base_name": "medic_trade_taunts02",
         "criteria": [],
         "events": [
-            "taunt_medic_aerobic_outro",
-            "medic_taunt_heartbreaker_voice_a",
+            "medic_trade_taunts02",
             "medic_taunt_burrowed_bones_02",
-            "medic_trade_taunts02"
+            "taunt_medic_aerobic_outro",
+            "medic_taunt_heartbreaker_voice_a"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
@@ -10273,25 +10249,25 @@
         "criteria": [],
         "events": [
             "taunt.surgeon_squeezebox_laugh",
-            "medic_taunt_burrowed_bones_01",
             "taunt_medic_aerobic_outro",
-            "medic.taunt_doctors_defibrillators_outro",
+            "medic_taunt_burrowed_bones_01",
+            "taunt_medic_aerobic_shared_b",
             "medic_taunt_flip_random_flipadmire",
-            "taunt_medic_aerobic_shared_b"
+            "medic.taunt_doctors_defibrillators_outro"
         ],
         "responses": [
             "Taunt: Mannrobics",
+            "Taunt: Doctor's Defibrillators",
             "Taunt: Flippin' Awesome",
-            "Taunt: Borrowed Bones",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/player/medic/low/flip_success_initiator1.vcd"
+            "scenes/player/medic/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha!"
@@ -10300,27 +10276,27 @@
         "base_name": "medic_taunt_admire_02",
         "criteria": [],
         "events": [
-            "medic_secondrate_sorcery_medic_medic_taunt_admire_02",
-            "medic_taunt_rps_setting_up",
-            "medic.taunt_doctors_defibrillators_outro",
             "taunt.surgeon_squeezebox_laugh",
-            "taunt_medic_aerobic_shared_b"
+            "medic_taunt_rps_setting_up",
+            "taunt_medic_aerobic_shared_b",
+            "medic.taunt_doctors_defibrillators_outro",
+            "medic_secondrate_sorcery_medic_medic_taunt_admire_02"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Doctor's Defibrillators",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Doctor's Defibrillators"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
             "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
             "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha!"
@@ -10352,8 +10328,8 @@
         "criteria": [],
         "events": [
             "taunt_medic_aerobic_outro",
-            "medic_taunt_flip_random_flipadmire",
             "medic_taunt_burrowed_bones_02",
+            "medic_taunt_flip_random_flipadmire",
             "taunt.bearhug_medic_c"
         ],
         "responses": [
@@ -10383,12 +10359,12 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
             "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd"
         ],
         "state": "used",
         "transcript": "Zank you!"
@@ -10398,21 +10374,21 @@
         "criteria": [],
         "events": [
             "taunt_medic_aerobic_outro",
+            "taunt_burstchester_medic_01",
             "taunt.bearhug_medic_c",
-            "medic_taunt_flip_random_flipfinish",
-            "taunt_burstchester_medic_01"
+            "medic_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "Taunt: Bear Hug",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/player/medic/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -10423,21 +10399,21 @@
         "criteria": [],
         "events": [
             "taunt_medic_aerobic_outro",
+            "taunt_medic_aerobic_shared_b",
             "taunt_burstchester_medic_01",
-            "medic_taunt_flip_random_flipfinish",
-            "taunt_medic_aerobic_shared_b"
+            "medic_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_aerobic_b.vcd",
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/player/medic/low/flip_success_receiver1.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_aerobic_b.vcd"
         ],
         "state": "used",
         "transcript": "Zhat vas fun! Hoh!"
@@ -10447,8 +10423,8 @@
         "criteria": [],
         "events": [
             "medic.taunt_doctors_defibrillators_outro",
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
-            "medic_taunt_russian_rand02"
+            "medic_taunt_russian_rand02",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
@@ -10468,22 +10444,22 @@
         "base_name": "medic_taunt_admire_22",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_flipfinish",
-            "medic_taunt_rps_setting_up"
+            "medic_taunt_rps_setting_up",
+            "medic_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/medic/low/flip_success_receiver1.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
             "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
             "scenes/player/medic/low/taunt_rps_rock_win.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/medic/low/flip_success_receiver1.vcd"
+            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd"
         ],
         "state": "used",
         "transcript": "My zhanks!"
@@ -10540,23 +10516,23 @@
         "base_name": "medic_taunt_cong_fun_08",
         "criteria": [],
         "events": [
-            "taunt.surgeon_squeezebox_laugh",
             "medic_taunt_burrowed_bones_02",
             "taunt_medic_aerobic_spin",
+            "taunt.surgeon_squeezebox_laugh",
             "medic_taunt_conga_random_fun1"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
             "Taunt: Conga",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/player/medic/low/conga.vcd",
+            "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/medic/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo ha!"
@@ -10565,23 +10541,23 @@
         "base_name": "medic_taunt_cong_fun_09",
         "criteria": [],
         "events": [
-            "taunt.surgeon_squeezebox_laugh",
-            "medic_taunt_burrowed_bones_01",
             "taunt_medic_aerobic_spin",
+            "medic_taunt_burrowed_bones_01",
+            "taunt.surgeon_squeezebox_laugh",
             "medic_taunt_conga_random_fun1"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
             "Taunt: Conga",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/player/medic/low/conga.vcd",
+            "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/medic/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Yeh ha ha!"
@@ -10590,24 +10566,24 @@
         "base_name": "medic_taunt_cong_fun_12",
         "criteria": [],
         "events": [
-            "medic_taunt_burrowed_bones_01",
-            "medic_taunt_conga_random_fun1",
+            "taunt.surgeon_squeezebox_laugh",
             "medic_taunt_conga_random_fun2",
-            "taunt_medic_aerobic_spin",
-            "taunt.surgeon_squeezebox_laugh"
+            "medic_taunt_conga_random_fun1",
+            "medic_taunt_burrowed_bones_01",
+            "taunt_medic_aerobic_spin"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
             "Taunt: Conga",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/player/medic/low/conga.vcd",
+            "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/medic/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Whooo ha!"
@@ -10627,8 +10603,8 @@
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/player/medic/low/conga.vcd",
-            "scenes/player/medic/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/medic/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Hah hoo hoo ha hahah!"
@@ -10637,8 +10613,8 @@
         "base_name": "medic_taunt_dosi_fun_01",
         "criteria": [],
         "events": [
-            "medic_taunt_dosido_mid_rand",
-            "taunt_medic_aerobic_shared_a"
+            "taunt_medic_aerobic_shared_a",
+            "medic_taunt_dosido_mid_rand"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -10646,8 +10622,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_dance01.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
+            "scenes/player/medic/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha! Ha ha ha!"
@@ -10663,8 +10639,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_dance00.vcd",
-            "scenes/player/medic/low/taunt_dosido_dance01.vcd"
+            "scenes/player/medic/low/taunt_dosido_dance01.vcd",
+            "scenes/player/medic/low/taunt_dosido_dance00.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo hoo! Ooh, do-si-do your partner!"
@@ -10680,8 +10656,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_dance00.vcd",
-            "scenes/player/medic/low/taunt_dosido_dance01.vcd"
+            "scenes/player/medic/low/taunt_dosido_dance01.vcd",
+            "scenes/player/medic/low/taunt_dosido_dance00.vcd"
         ],
         "state": "used",
         "transcript": "Allemande Left! Allemande Right! Ha hah!"
@@ -10706,9 +10682,9 @@
         "base_name": "medic_taunt_dosi_fun_08",
         "criteria": [],
         "events": [
-            "taunt.surgeon_squeezebox_laugh",
             "medic_taunt_dosido_start_rand",
-            "taunt_medic_aerobic_shared_a"
+            "taunt_medic_aerobic_shared_a",
+            "taunt.surgeon_squeezebox_laugh"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -10716,9 +10692,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_dance00.vcd",
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/player/medic/low/taunt_dosido_dance01.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_dosido_dance00.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha! Whoo!"
@@ -10763,8 +10739,8 @@
             "taunt_burstchester_medic_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
@@ -10794,24 +10770,24 @@
         "base_name": "medic_taunt_dosi_fun_14",
         "criteria": [],
         "events": [
-            "taunt.bearhug_medic_b",
-            "medic_taunt_dosido_mid_rand",
             "taunt_medic_aerobic_shared_a",
-            "taunt_burstchester_medic_01",
-            "taunt.surgeon_squeezebox_laugh"
+            "medic_taunt_dosido_mid_rand",
+            "taunt.surgeon_squeezebox_laugh",
+            "taunt.bearhug_medic_b",
+            "taunt_burstchester_medic_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
+            "Taunt: Square Dance",
             "Taunt: Bear Hug",
-            "Taunt: Square Dance"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
-            "scenes/player/medic/low/taunt_dosido_dance01.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/player/medic/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Hoo ha ha! I love it!"
@@ -10861,8 +10837,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_intro01.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
+            "scenes/player/medic/low/taunt_dosido_intro01.vcd"
         ],
         "state": "used",
         "transcript": "My prescription? Dancing! Haha!"
@@ -10878,8 +10854,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
-            "scenes/player/medic/low/flip_success_receiver0.vcd"
+            "scenes/player/medic/low/flip_success_receiver0.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Huhyeah!"
@@ -10888,18 +10864,18 @@
         "base_name": "medic_taunt_exert_02",
         "criteria": [],
         "events": [
-            "medic_taunt_headbutt_success_exert",
-            "medic_taunt_flip_random_flipexert"
+            "medic_taunt_flip_random_flipexert",
+            "medic_taunt_headbutt_success_exert"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
             "scenes/player/medic/low/flip_success_receiver0.vcd",
-            "scenes/player/medic/low/taunt_headbutt_success.vcd"
+            "scenes/player/medic/low/taunt_headbutt_success.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Nuhyeah!"
@@ -10908,18 +10884,18 @@
         "base_name": "medic_taunt_exert_08",
         "criteria": [],
         "events": [
-            "medic_taunt_headbutt_success_exert",
-            "medic_taunt_flip_random_flipexert"
+            "medic_taunt_flip_random_flipexert",
+            "medic_taunt_headbutt_success_exert"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
             "scenes/player/medic/low/flip_success_receiver0.vcd",
-            "scenes/player/medic/low/taunt_headbutt_success.vcd"
+            "scenes/player/medic/low/taunt_headbutt_success.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Ahh!"
@@ -10937,9 +10913,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
             "scenes/player/medic/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd"
+            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Guhyeah!"
@@ -10999,10 +10975,10 @@
         "base_name": "medic_taunt_flip_end_06",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_flipflipping",
-            "medic_taunt_commending_clap_b",
-            "taunt_medic_aerobic_outro",
             "taunt_medic_aerobic_shared_a",
+            "taunt_medic_aerobic_outro",
+            "medic_taunt_commending_clap_b",
+            "medic_taunt_flip_random_flipflipping",
             "taunt_burstchester_medic_01",
             "medic_taunt_flip_random_flipadmire"
         ],
@@ -11015,10 +10991,10 @@
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/player/medic/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/player/medic/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
@@ -11047,21 +11023,21 @@
         "base_name": "medic_taunt_flip_end_09",
         "criteria": [],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
             "taunt_medic_aerobic_outro",
             "medic_taunt_flip_random_flipadmire",
-            "medic_taunt_burrowed_bones_01"
+            "medic_taunt_burrowed_bones_01",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Flippin' Awesome",
-            "Taunt: Borrowed Bones",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/player/medic/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
@@ -11079,8 +11055,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
-            "scenes/player/medic/low/flip_success_receiver0.vcd"
+            "scenes/player/medic/low/flip_success_receiver0.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Nyeah!"
@@ -11096,8 +11072,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_initiator0.vcd",
-            "scenes/player/medic/low/flip_success_receiver0.vcd"
+            "scenes/player/medic/low/flip_success_receiver0.vcd",
+            "scenes/player/medic/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Uhyah!"
@@ -11186,16 +11162,16 @@
         "base_name": "medic_taunt_flip_exert_09",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_flipflipping",
-            "medic_taunt_flip_random_flipexertvocal"
+            "medic_taunt_flip_random_flipexertvocal",
+            "medic_taunt_flip_random_flipflipping"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/flip_success_receiver1.vcd",
-            "scenes/player/medic/low/flip_success_initiator1.vcd"
+            "scenes/player/medic/low/flip_success_initiator1.vcd",
+            "scenes/player/medic/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Ooh hoo hoo!"
@@ -11220,8 +11196,8 @@
         "base_name": "medic_taunt_flip_int_05",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
-            "medic_taunt_flip_random_intro"
+            "medic_taunt_flip_random_intro",
+            "medic_taunt_flip_random_waiting2"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -11253,8 +11229,8 @@
         "base_name": "medic_taunt_flip_int_10",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
-            "medic_taunt_flip_random_intro"
+            "medic_taunt_flip_random_intro",
+            "medic_taunt_flip_random_waiting2"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -11286,23 +11262,23 @@
         "base_name": "medic_taunt_flip_int_15",
         "criteria": [],
         "events": [
-            "medic.taunt_doctors_defibrillators_intro",
-            "medic_taunt_fistbump_start",
             "medic.mannbulance_outro",
-            "medic_taunt_flip_random_intro"
+            "medic_taunt_flip_random_intro",
+            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_fistbump_start"
         ],
         "responses": [
+            "Taunt: The Fist Bump",
             "Taunt: The Mannbulance!",
-            "Taunt: Flippin' Awesome",
             "Taunt: Doctor's Defibrillators",
-            "Taunt: The Fist Bump"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
             "scenes/workshop/player/medic/low/taunt_the_mannbulance_outro.vcd",
-            "scenes/player/medic/low/flip_start.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/player/medic/low/flip_start.vcd"
         ],
         "state": "used",
         "transcript": "In position!"
@@ -11311,20 +11287,20 @@
         "base_name": "medic_taunt_head_end_03",
         "criteria": [],
         "events": [
+            "taunt_medic_aerobic_shared_b",
             "taunt_burstchester_medic_01",
-            "medic_taunt_headbutt_success_recover",
-            "taunt_medic_aerobic_shared_b"
+            "medic_taunt_headbutt_success_recover"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Mannrobics",
+            "Taunt: Skullcracker",
             "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/player/medic/low/taunt_headbutt_success.vcd"
+            "scenes/player/medic/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ooh ho hah ho hah oh!"
@@ -11358,8 +11334,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
-            "scenes/player/medic/low/taunt_headbutt_success.vcd"
+            "scenes/player/medic/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/medic/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
         "transcript": "Ooh! I zhink I have a concussion, hehe!"
@@ -11448,22 +11424,22 @@
         "base_name": "medic_taunt_int_01",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting",
+            "medic_taunt_fistbump_start",
             "medic_taunt_headbutt_start_3",
-            "medic.mannbulance_intro",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_flip_random_waiting",
+            "medic.mannbulance_intro"
         ],
         "responses": [
-            "Taunt: Skullcracker",
+            "Taunt: The Fist Bump",
             "Taunt: The Mannbulance!",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
             "scenes/player/medic/low/taunt_headbutt_start.vcd",
-            "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
             "scenes/player/medic/low/flip_start.vcd"
         ],
         "state": "used",
@@ -11473,12 +11449,12 @@
         "base_name": "medic_taunt_int_02",
         "criteria": [],
         "events": [
-            "medic_taunt_headbutt_start_3",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_fistbump_start",
+            "medic_taunt_headbutt_start_3"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -11492,12 +11468,12 @@
         "base_name": "medic_taunt_int_03",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_fistbump_start",
+            "medic_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -11511,19 +11487,19 @@
         "base_name": "medic_taunt_int_05",
         "criteria": [],
         "events": [
-            "medic.mannbulance_intro",
+            "medic_taunt_fistbump_start",
             "medic_taunt_flip_random_flipflipantic",
-            "medic_taunt_fistbump_start"
+            "medic.mannbulance_intro"
         ],
         "responses": [
+            "Taunt: The Fist Bump",
             "Taunt: The Mannbulance!",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
             "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
             "scenes/player/medic/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -11549,26 +11525,26 @@
         "base_name": "medic_taunt_int_07",
         "criteria": [],
         "events": [
-            "taunt.bearhug_medic_a",
-            "medic_taunt_flip_random_waiting",
             "medic_taunt_dosido_intro_rand",
+            "taunt.bearhug_medic_a",
+            "medic_taunt_fistbump_start",
             "medic.mannbulance_outro",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: The Mannbulance!",
             "Taunt: Bear Hug",
             "Taunt: The Fist Bump",
             "Taunt: Square Dance",
+            "Taunt: The Mannbulance!",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
-            "scenes/player/medic/low/flip_start.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
+            "scenes/player/medic/low/flip_start.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_mannbulance_outro.vcd",
             "scenes/player/medic/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/medic/low/taunt_the_mannbulance_outro.vcd"
+            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "Let us do zhis!"
@@ -11577,27 +11553,27 @@
         "base_name": "medic_taunt_int_09",
         "criteria": [],
         "events": [
-            "taunt.bearhug_medic_a",
-            "medic_taunt_flip_random_waiting",
             "medic_taunt_dosido_intro_rand",
+            "taunt.bearhug_medic_a",
             "taunt.surgeon_squeezebox_intro",
             "medic_taunt_headbutt_start_1",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_fistbump_start",
+            "medic_taunt_flip_random_waiting"
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Skullcracker",
             "Taunt: The Fist Bump",
             "Taunt: Square Dance",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Skullcracker"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_headbutt_start.vcd",
-            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
-            "scenes/player/medic/low/flip_start.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
-            "scenes/player/medic/low/taunt_dosido_intro01.vcd"
+            "scenes/player/medic/low/flip_start.vcd",
+            "scenes/player/medic/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/player/medic/low/taunt_headbutt_start.vcd"
         ],
         "state": "used",
         "transcript": "Shall we?"
@@ -11623,21 +11599,21 @@
         "base_name": "medic_taunt_int_11",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
+            "medic_taunt_dosido_intro_rand",
             "taunt.surgeon_squeezebox_intro",
-            "medic_taunt_fistbump_start",
-            "medic_taunt_dosido_intro_rand"
+            "medic_taunt_flip_random_waiting2",
+            "medic_taunt_fistbump_start"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance",
             "Taunt: The Fist Bump",
-            "Taunt: Square Dance"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/medic/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
-            "scenes/player/medic/low/flip_start.vcd",
-            "scenes/player/medic/low/taunt_dosido_intro01.vcd"
+            "scenes/player/medic/low/flip_start.vcd"
         ],
         "state": "used",
         "transcript": "Let's begin!"
@@ -11663,9 +11639,9 @@
         "base_name": "medic_taunt_int_13",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
+            "medic_taunt_fistbump_start",
             "medic_taunt_heartbreaker_voice_a",
-            "medic_taunt_fistbump_start"
+            "medic_taunt_flip_random_waiting2"
         ],
         "responses": [
             "Taunt: Heartbreaker",
@@ -11675,8 +11651,8 @@
         "rules": [],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
-            "scenes/player/medic/low/flip_start.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/player/medic/low/flip_start.vcd"
         ],
         "state": "used",
         "transcript": "Over here!"
@@ -11685,19 +11661,19 @@
         "base_name": "medic_taunt_int_14",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
+            "medic_taunt_rps_intro_wait_rand",
             "medic_taunt_heartbreaker_voice_a",
-            "medic_taunt_rps_intro_wait_rand"
+            "medic_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: Heartbreaker",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
             "scenes/player/medic/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
             "scenes/player/medic/low/flip_start.vcd"
         ],
         "state": "used",
@@ -11707,8 +11683,8 @@
         "base_name": "medic_taunt_int_15",
         "criteria": [],
         "events": [
-            "medic_taunt_flip_random_waiting2",
-            "taunt.bearhug_medic_a"
+            "taunt.bearhug_medic_a",
+            "medic_taunt_flip_random_waiting2"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -11726,10 +11702,10 @@
         "base_name": "medic_taunt_int_22",
         "criteria": [],
         "events": [
-            "medic_secondrate_sorcery_medic_medic_taunt_int_22",
             "medic_taunt_dosido_intro_rand",
-            "taunt.surgeon_squeezebox_laugh",
-            "taunt_medic_aerobic_shared_a"
+            "taunt_medic_aerobic_shared_a",
+            "medic_secondrate_sorcery_medic_medic_taunt_int_22",
+            "taunt.surgeon_squeezebox_laugh"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -11737,8 +11713,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_dosido_intro01.vcd",
-            "scenes/player/medic/low/taunt_aerobic_a.vcd"
+            "scenes/player/medic/low/taunt_aerobic_a.vcd",
+            "scenes/player/medic/low/taunt_dosido_intro01.vcd"
         ],
         "state": "used",
         "transcript": "Ho ho hoh! Hoo hoo! Oh, it's on!"
@@ -11804,8 +11780,8 @@
         "base_name": "medic_taunt_kill_21",
         "criteria": [],
         "events": [
-            "medic_taunt_xray_2b_dead",
-            "taunt_killer_joke_medic_2"
+            "taunt_killer_joke_medic_2",
+            "medic_taunt_xray_2b_dead"
         ],
         "responses": [
             "Taunt: Killer Joke",
@@ -11839,8 +11815,8 @@
         "base_name": "medic_taunt_kill_23",
         "criteria": [],
         "events": [
-            "medic_taunt_xray_2b_dead",
-            "taunt_killer_joke_medic_2"
+            "taunt_killer_joke_medic_2",
+            "medic_taunt_xray_2b_dead"
         ],
         "responses": [
             "Taunt: Killer Joke",
@@ -11917,18 +11893,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
             "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
             "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Vun!"
@@ -11944,18 +11920,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
             "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
             "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Two!"
@@ -11971,18 +11947,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
             "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
             "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Three!"
@@ -12076,22 +12052,22 @@
         "base_name": "medic_taunt_rps_lose_19",
         "criteria": [],
         "events": [
-            "medic_taunt_rps_lose_19",
-            "medic_taunt_commending_clap_a"
+            "medic_taunt_commending_clap_a",
+            "medic_taunt_rps_lose_19"
         ],
         "responses": [
             "Taunt: Commending Clap",
-            "Taunt: Second Rate Sorcery",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Second Rate Sorcery"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
+            "scenes/workshop/player/medic/low/secondrate_sorcery.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
-            "scenes/workshop/player/medic/low/secondrate_sorcery.vcd"
+            "scenes/player/medic/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "What!?"
@@ -12107,8 +12083,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd"
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "(tauntingly) \"I am zhe vinner!\""
@@ -12119,8 +12095,8 @@
         "events": [
             "medic_taunt_peace_vo_01",
             "medic_taunt_russian_rand02",
-            "medic_taunt_rps_win_05",
-            "taunt_medic_aerobic_shared_b"
+            "taunt_medic_aerobic_shared_b",
+            "medic_taunt_rps_win_05"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -12130,10 +12106,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/medic/low/taunt_peace.vcd",
             "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/workshop/player/medic/low/taunt_peace.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_russian.vcd"
         ],
         "state": "used",
@@ -12153,25 +12129,25 @@
         "base_name": "medic_taunt_rps_win_08",
         "criteria": [],
         "events": [
-            "taunt_medic_aerobic_intro",
+            "medic_taunt_rps_win_08",
             "medic_taunt_commending_clap_b",
-            "medic_taunt_rps_win_08"
+            "taunt_medic_aerobic_intro"
         ],
         "responses": [
             "Taunt: Commending Clap",
-            "Taunt: Mannrobics",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Mannrobics"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
-            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
+            "scenes/player/medic/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/medic/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/medic/low/taunt_rps_rock_win.vcd"
         ],
         "state": "used",
         "transcript": "YES!"
@@ -12180,26 +12156,26 @@
         "base_name": "medic_taunt_rps_win_09",
         "criteria": [],
         "events": [
-            "medic_taunt_commending_clap_c",
-            "taunt.bearhug_medic_b",
             "medic_taunt_russian_rand02",
             "medic_taunt_rps_win_09",
+            "taunt.bearhug_medic_b",
+            "medic_taunt_commending_clap_c",
             "taunt_medic_aerobic_shared_b"
         ],
         "responses": [
+            "Taunt: Mannrobics",
             "Taunt: Kazotsky Kick",
             "Taunt: Bear Hug",
-            "Taunt: Rock, Paper, Scissors",
             "Taunt: Commending Clap",
-            "Taunt: Mannrobics"
+            "Taunt: Rock, Paper, Scissors"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
+            "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
+            "scenes/player/medic/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
             "scenes/player/medic/low/taunt_russian.vcd"
         ],
         "state": "used",
@@ -12209,10 +12185,10 @@
         "base_name": "medic_trade_02",
         "criteria": [],
         "events": [
-            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_trade_start_rand",
             "medic_taunt_heartbreaker_voice_a",
-            "medic_taunt_russian_rand",
-            "medic_taunt_trade_start_rand"
+            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_russian_rand"
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
@@ -12221,8 +12197,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
             "scenes/player/medic/low/taunt_russian.vcd"
         ],
         "state": "used",
@@ -12232,10 +12208,10 @@
         "base_name": "medic_trade_03",
         "criteria": [],
         "events": [
-            "medic_tauntthe_head_doctor_medic_trade_10",
-            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_trade_start_rand",
             "medic_taunt_russian_rand",
-            "medic_taunt_trade_start_rand"
+            "medic.taunt_doctors_defibrillators_intro",
+            "medic_tauntthe_head_doctor_medic_trade_10"
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
@@ -12255,27 +12231,27 @@
         "base_name": "medic_trade_04",
         "criteria": [],
         "events": [
-            "medic_taunt_burrowed_bones_01",
-            "medic_tauntthe_head_doctor_medic_trade_10",
             "taunt_medic_aerobic_shared_a",
-            "medic_taunt_russian_rand",
+            "medic_taunt_trade_start_rand",
+            "medic_tauntthe_head_doctor_medic_trade_10",
             "medic_taunt_heartbreaker_voice_a",
-            "medic_taunt_trade_start_rand"
+            "medic_taunt_russian_rand",
+            "medic_taunt_burrowed_bones_01"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
             "Taunt: Mannrobics",
-            "Taunt: Borrowed Bones",
+            "Taunt: Kazotsky Kick",
             "Taunt: Heartbreaker",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/player/medic/low/taunt_russian.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/player/medic/low/taunt_russian.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Vhat do you think of zis? Ha ha!"
@@ -12284,8 +12260,8 @@
         "base_name": "medic_trade_05",
         "criteria": [],
         "events": [
-            "medic_taunt_peace_vo_02",
-            "medic_taunt_trade_loop_rand"
+            "medic_taunt_trade_loop_rand",
+            "medic_taunt_peace_vo_02"
         ],
         "responses": [
             "Taunt: Peace!"
@@ -12301,8 +12277,8 @@
         "base_name": "medic_trade_06",
         "criteria": [],
         "events": [
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
-            "medic_taunt_trade_loop_rand"
+            "medic_taunt_trade_loop_rand",
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
         ],
         "responses": [
             "Taunt: The Head Doctor"
@@ -12318,24 +12294,24 @@
         "base_name": "medic_trade_10",
         "criteria": [],
         "events": [
-            "medic_taunt_burrowed_bones_01",
             "medic_tauntthe_head_doctor_medic_trade_10",
-            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_trade_loop_rand",
             "medic_taunt_heartbreaker_voice_a",
-            "medic_taunt_trade_loop_rand"
+            "medic.taunt_doctors_defibrillators_intro",
+            "medic_taunt_burrowed_bones_01"
         ],
         "responses": [
             "Taunt: Heartbreaker",
-            "Taunt: Borrowed Bones",
             "Taunt: Doctor's Defibrillators",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "I'm fond of zis one."
@@ -12344,19 +12320,19 @@
         "base_name": "medic_trade_11",
         "criteria": [],
         "events": [
-            "medic.taunt_doctors_defibrillators_intro",
-            "medic_taunt_burrowed_bones_02",
             "medic_taunt_trade_start_rand",
+            "medic_taunt_burrowed_bones_02",
+            "medic.taunt_doctors_defibrillators_intro",
             "taunt.surgeon_squeezebox_intro"
         ],
         "responses": [
-            "Taunt: Borrowed Bones",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: Borrowed Bones"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "I found zis, inside a patient. Ha ha!"
@@ -12504,19 +12480,19 @@
             ]
         ],
         "events": [
-            "medic.taunt_doctors_defibrillators_intro",
-            "medic.taunts01_fixed"
+            "medic.taunts01_fixed",
+            "medic.taunt_doctors_defibrillators_intro"
         ],
         "responses": [
-            "MeleeDareCombatMedic",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "MeleeDareCombatMedic"
         ],
         "rules": [
             "MeleeDareCombatMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
-            "scenes/player/medic/low/661.vcd"
+            "scenes/player/medic/low/661.vcd",
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
         "transcript": "Hold still, Schweinhund, zis vill only sting for a moment."
@@ -12550,8 +12526,8 @@
             "KilledPlayerManyMedic"
         ],
         "rules": [
-            "KilledPlayerManyMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "KilledPlayerManyMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/663.vcd"
@@ -12572,8 +12548,8 @@
             ]
         ],
         "events": [
-            "medic.taunts03",
-            "medic_taunt_burrowed_bones_02"
+            "medic_taunt_burrowed_bones_02",
+            "medic.taunts03"
         ],
         "responses": [
             "Taunt: Borrowed Bones",
@@ -12604,15 +12580,15 @@
             "medic.taunts04"
         ],
         "responses": [
-            "MeleeDareCombatMedic",
-            "Taunt: The Head Doctor"
+            "Taunt: The Head Doctor",
+            "MeleeDareCombatMedic"
         ],
         "rules": [
             "MeleeDareCombatMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/669.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/player/medic/low/669.vcd"
         ],
         "state": "used",
         "transcript": "Turn your head and cough."
@@ -12645,19 +12621,19 @@
             "medic.taunts05"
         ],
         "responses": [
-            "MeleeDareCombatMedic",
             "MedicTauntUbersaw",
-            "MeleeDareMedic"
+            "MeleeDareMedic",
+            "MeleeDareCombatMedic"
         ],
         "rules": [
-            "MedicTauntFestiveUbersaw",
-            "MeleeDareCombatMedic",
             "MedicTauntUbersaw",
-            "MeleeDareMedic"
+            "MedicTauntFestiveUbersaw",
+            "MeleeDareMedic",
+            "MeleeDareCombatMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/taunt08.vcd",
-            "scenes/player/medic/low/672.vcd"
+            "scenes/player/medic/low/672.vcd",
+            "scenes/player/medic/low/taunt08.vcd"
         ],
         "state": "used",
         "transcript": "I'm going to saw zrough your bones!"
@@ -12736,8 +12712,8 @@
             ]
         ],
         "events": [
-            "medic_taunt_burrowed_bones_02",
-            "medic.taunts09"
+            "medic.taunts09",
+            "medic_taunt_burrowed_bones_02"
         ],
         "responses": [
             "Taunt: Borrowed Bones",
@@ -12747,8 +12723,8 @@
             "KritzSpeechMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/player/medic/low/676.vcd"
+            "scenes/player/medic/low/676.vcd",
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Auf Wiedersehen, Schweinehunds!"
@@ -12772,17 +12748,17 @@
             "medic.taunt_doctors_defibrillators_intro"
         ],
         "responses": [
-            "MeleeDareCombatMedic",
+            "MeleeDareMedic",
             "Taunt: Doctor's Defibrillators",
-            "MeleeDareMedic"
+            "MeleeDareCombatMedic"
         ],
         "rules": [
-            "MeleeDareCombatMedic",
-            "MeleeDareMedic"
+            "MeleeDareMedic",
+            "MeleeDareCombatMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
-            "scenes/player/medic/low/677.vcd"
+            "scenes/player/medic/low/677.vcd",
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
         "transcript": "\"Prepare for your examination...\" (laughs)"
@@ -12806,8 +12782,8 @@
             "RejectedDuelMedic"
         ],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_the_critical_fail.vcd",
-            "scenes/player/medic/low/678.vcd"
+            "scenes/player/medic/low/678.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_critical_fail.vcd"
         ],
         "state": "used",
         "transcript": "You are... schtupid!"
@@ -12839,25 +12815,25 @@
             ]
         ],
         "events": [
-            "medic.taunts12",
+            "medic_taunt_burrowed_bones_02",
             "medic.taunt_doctors_defibrillators_intro",
-            "medic_taunt_burrowed_bones_02"
+            "medic.taunts12"
         ],
         "responses": [
-            "MeleeDareCombatMedic",
-            "Taunt: Borrowed Bones",
             "PlayerKilledDominatingMedic",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: Borrowed Bones",
+            "MeleeDareCombatMedic"
         ],
         "rules": [
+            "KilledPlayerMedic",
             "PlayerKilledDominatingMedic",
-            "MeleeDareCombatMedic",
-            "KilledPlayerMedic"
+            "MeleeDareCombatMedic"
         ],
         "scenes": [
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
             "scenes/player/medic/low/679.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
         "transcript": "Come over here. I promise I vill heal you!"
@@ -12914,8 +12890,8 @@
             "PlayerKilledDominatingMedic"
         ],
         "rules": [
-            "PlayerKilledDominatingMedic",
-            "KilledPlayerMedic"
+            "KilledPlayerMedic",
+            "PlayerKilledDominatingMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/1240.vcd"

@@ -16,49 +16,49 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,giant_common_step_01,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_01,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_02,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_02,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_03,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_03,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_04,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_04,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_04.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_05,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_05,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_05.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_06,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_06,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_06.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_07,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_07,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_07.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,giant_common_step_08,,Events:,"['mvm.giantsoldierstep', 'mvm.giantpyrostep', 'mvm.giantscoutstep', 'mvm.giantdemomanstep', 'mvm.giantheavystep']"
+Filename:,giant_common_step_08,,Events:,"['mvm.giantheavystep', 'mvm.giantpyrostep', 'mvm.giantdemomanstep', 'mvm.giantsoldierstep', 'mvm.giantscoutstep']"
 Full Path:,mvm/giant_common/giant_common_step_08.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -304,8 +304,8 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bat_baseball_hit_robo01,,Events:,"['soldier_tauntcan_it_bat_baseball_hit_robo01', 'mvm_weapon_baseballbat.hitflesh']"
-Full Path:,mvm/melee_impacts/bat_baseball_hit_robo01.wav,,Scenes:,"['scenes/workshop/player/soldier/low/tauntcan_it.vcd', 'scenes/workshop/player/heavy/low/taunt_ring_king.vcd']"
+Filename:,bat_baseball_hit_robo01,,Events:,"['mvm_weapon_baseballbat.hitflesh', 'soldier_tauntcan_it_bat_baseball_hit_robo01']"
+Full Path:,mvm/melee_impacts/bat_baseball_hit_robo01.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/soldier/low/tauntcan_it.vcd']"
 Transcription:,,,Responses:,"['Taunt: Ring King', 'Taunt: Can It!']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -334,79 +334,79 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,blade_slice_robo01,,Events:,"['mvm_weapon_katana.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_sword.hitflesh']"
+Filename:,blade_slice_robo01,,Events:,"['mvm_weapon_sword.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_katana.hitflesh']"
 Full Path:,mvm/melee_impacts/blade_slice_robo01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,blade_slice_robo02,,Events:,"['mvm_weapon_katana.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_sword.hitflesh']"
+Filename:,blade_slice_robo02,,Events:,"['mvm_weapon_sword.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_katana.hitflesh']"
 Full Path:,mvm/melee_impacts/blade_slice_robo02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,blade_slice_robo03,,Events:,"['mvm_weapon_katana.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_sword.hitflesh']"
+Filename:,blade_slice_robo03,,Events:,"['mvm_weapon_sword.hitflesh', 'mvm_weapon_pickaxe.hitflesh', 'mvm_weapon_katana.hitflesh']"
 Full Path:,mvm/melee_impacts/blade_slice_robo03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bottle_hit_robo01,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.brokenhitflesh', 'mvm_weapon_bottle.hitflesh']"
+Filename:,bottle_hit_robo01,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.hitflesh', 'mvm_weapon_bottle.brokenhitflesh']"
 Full Path:,mvm/melee_impacts/bottle_hit_robo01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bottle_hit_robo02,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.brokenhitflesh', 'mvm_weapon_bottle.hitflesh']"
+Filename:,bottle_hit_robo02,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.hitflesh', 'mvm_weapon_bottle.brokenhitflesh']"
 Full Path:,mvm/melee_impacts/bottle_hit_robo02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,bottle_hit_robo03,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.brokenhitflesh', 'mvm_weapon_bottle.hitflesh']"
+Filename:,bottle_hit_robo03,,Events:,"['mvm_weapon_bottle.intacthitflesh', 'mvm_weapon_bottle.hitflesh', 'mvm_weapon_bottle.brokenhitflesh']"
 Full Path:,mvm/melee_impacts/bottle_hit_robo03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod_robo01,,Events:,"['mvm_weapon_club.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_wrench.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_default.hitflesh']"
+Filename:,cbar_hitbod_robo01,,Events:,"['mvm_weapon_wrench.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_club.hitflesh', 'mvm_weapon_default.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh']"
 Full Path:,mvm/melee_impacts/cbar_hitbod_robo01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod_robo02,,Events:,"['mvm_weapon_club.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_wrench.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_default.hitflesh']"
+Filename:,cbar_hitbod_robo02,,Events:,"['mvm_weapon_wrench.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_club.hitflesh', 'mvm_weapon_default.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh']"
 Full Path:,mvm/melee_impacts/cbar_hitbod_robo02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cbar_hitbod_robo03,,Events:,"['mvm_weapon_club.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_wrench.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_default.hitflesh']"
+Filename:,cbar_hitbod_robo03,,Events:,"['mvm_weapon_wrench.hitflesh', 'mvm_weapon_machete.hitflesh', 'mvm_weapon_crowbar.hitflesh', 'mvm_weapon_bat.hitflesh', 'mvm_weapon_fireaxe.hitflesh', 'mvm_weapon_3rd_degree.hitflesh', 'mvm_weapon_club.hitflesh', 'mvm_weapon_default.hitflesh', 'mvm_weapon_fist.hitflesh', 'mvm_weapon_flag.hitflesh', 'mvm_weapon_medikit.hitflesh', 'mvm_weapon_pipe.hitflesh', 'mvm_weapon_bonesaw.hitflesh', 'mvm_weapon_shovel.hitflesh']"
 Full Path:,mvm/melee_impacts/cbar_hitbod_robo03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_gloves_hit_robo01,,Events:,"['mvm_evictionnotice.impact', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_weapon_metalgloves.hitflesh']"
+Filename:,metal_gloves_hit_robo01,,Events:,"['mvm_weapon_metalgloves.hitflesh', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_evictionnotice.impact']"
 Full Path:,mvm/melee_impacts/metal_gloves_hit_robo01.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_gloves_hit_robo02,,Events:,"['mvm_weapon_metalgloves.crithit', 'halloween.bellring.wizard', 'mvm_evictionnotice.impact', 'halloween.bellring.pushover', 'halloween.bellring.scout', 'halloween.bellring.woodimpact', 'mvm_evictionnotice.impactcrit', 'mvm_weapon_metalgloves.hitflesh', 'halloween.bellring.heman']"
+Filename:,metal_gloves_hit_robo02,,Events:,"['halloween.bellring.woodimpact', 'mvm_weapon_metalgloves.hitflesh', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_evictionnotice.impact', 'halloween.bellring.pushover', 'halloween.bellring.scout', 'halloween.bellring.wizard', 'halloween.bellring.heman']"
 Full Path:,mvm/melee_impacts/metal_gloves_hit_robo02.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_gloves_hit_robo03,,Events:,"['mvm_evictionnotice.impact', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_weapon_metalgloves.hitflesh']"
+Filename:,metal_gloves_hit_robo03,,Events:,"['mvm_weapon_metalgloves.hitflesh', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_evictionnotice.impact']"
 Full Path:,mvm/melee_impacts/metal_gloves_hit_robo03.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,metal_gloves_hit_robo04,,Events:,"['mvm_evictionnotice.impact', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_weapon_metalgloves.hitflesh']"
+Filename:,metal_gloves_hit_robo04,,Events:,"['mvm_weapon_metalgloves.hitflesh', 'mvm_weapon_metalgloves.crithit', 'mvm_evictionnotice.impactcrit', 'mvm_evictionnotice.impact']"
 Full Path:,mvm/melee_impacts/metal_gloves_hit_robo04.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -820,7 +820,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_sentrybuster_explode,,Events:,"['mvm.giantcommonexplodes', 'mvm.sentrybusterexplode', 'mvm.giantheavyexplodes']"
+Filename:,mvm_sentrybuster_explode,,Events:,"['mvm.giantheavyexplodes', 'mvm.sentrybusterexplode', 'mvm.giantcommonexplodes']"
 Full Path:,mvm/sentrybuster/mvm_sentrybuster_explode.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1942,43 +1942,43 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_paincrticialdeath01,,Events:,"['demoman.m_mvm_critdeath', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_paincrticialdeath01']"
+Filename:,demoman_mvm_m_paincrticialdeath01,,Events:,"['demoman.m_mvm_paincrticialdeath01', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_critdeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_paincrticialdeath02,,Events:,"['demoman.m_mvm_critdeath', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_paincrticialdeath02']"
+Filename:,demoman_mvm_m_paincrticialdeath02,,Events:,"['demoman.m_mvm_paincrticialdeath02', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_critdeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_paincrticialdeath03,,Events:,"['demoman.m_mvm_critdeath', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_paincrticialdeath03']"
+Filename:,demoman_mvm_m_paincrticialdeath03,,Events:,"['demoman.m_mvm_paincrticialdeath03', 'demoman.m_mvm_meleedeath', 'demoman.m_mvm_critdeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_paincrticialdeath04,,Events:,"['demoman.m_mvm_paincrticialdeath04', 'demoman.m_mvm_critdeath', 'demoman.m_mvm_meleedeath']"
+Filename:,demoman_mvm_m_paincrticialdeath04,,Events:,"['demoman.m_mvm_meleedeath', 'demoman.m_mvm_paincrticialdeath04', 'demoman.m_mvm_critdeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_paincrticialdeath05,,Events:,"['demoman.m_mvm_critdeath', 'demoman.m_mvm_paincrticialdeath05', 'demoman.m_mvm_meleedeath']"
+Filename:,demoman_mvm_m_paincrticialdeath05,,Events:,"['demoman.m_mvm_meleedeath', 'demoman.m_mvm_paincrticialdeath05', 'demoman.m_mvm_critdeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_paincrticialdeath05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsevere01,,Events:,"['demoman.m_mvm_death', 'demoman.m_mvm_painsevere01']"
+Filename:,demoman_mvm_m_painsevere01,,Events:,"['demoman.m_mvm_painsevere01', 'demoman.m_mvm_death']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsevere02,,Events:,"['demoman.m_mvm_death', 'demoman.m_mvm_painsevere02']"
+Filename:,demoman_mvm_m_painsevere02,,Events:,"['demoman.m_mvm_painsevere02', 'demoman.m_mvm_death']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1996,13 +1996,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsharp01,,Events:,"['demoman.m_mvm_explosiondeath', 'demoman.m_mvm_painsharp01']"
+Filename:,demoman_mvm_m_painsharp01,,Events:,"['demoman.m_mvm_painsharp01', 'demoman.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsharp02,,Events:,"['demoman.m_mvm_explosiondeath', 'demoman.m_mvm_painsharp02']"
+Filename:,demoman_mvm_m_painsharp02,,Events:,"['demoman.m_mvm_painsharp02', 'demoman.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2014,19 +2014,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsharp04,,Events:,"['demoman.m_mvm_explosiondeath', 'demoman.m_mvm_painsharp04']"
+Filename:,demoman_mvm_m_painsharp04,,Events:,"['demoman.m_mvm_painsharp04', 'demoman.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsharp05,,Events:,"['demoman.m_mvm_explosiondeath', 'demoman.m_mvm_painsharp05']"
+Filename:,demoman_mvm_m_painsharp05,,Events:,"['demoman.m_mvm_painsharp05', 'demoman.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_m_painsharp06,,Events:,"['demoman.m_mvm_explosiondeath', 'demoman.m_mvm_painsharp06']"
+Filename:,demoman_mvm_m_painsharp06,,Events:,"['demoman.m_mvm_painsharp06', 'demoman.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/demoman_mvm_m_painsharp06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3688,7 +3688,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_m_painsevere01,,Events:,"['heavy.m_mvm_death', 'heavy.m_mvm_painsevere01']"
+Filename:,heavy_mvm_m_painsevere01,,Events:,"['heavy.m_mvm_painsevere01', 'heavy.m_mvm_death']"
 Full Path:,vo/mvm/mght/heavy_mvm_m_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3718,7 +3718,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_m_painsharp03,,Events:,"['heavy.m_mvm_painsharp03', 'heavy.m_mvm_explosiondeath']"
+Filename:,heavy_mvm_m_painsharp03,,Events:,"['heavy.m_mvm_explosiondeath', 'heavy.m_mvm_painsharp03']"
 Full Path:,vo/mvm/mght/heavy_mvm_m_painsharp03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4720,31 +4720,31 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_paincrticialdeath01,,Events:,"['pyro.m_mvm_paincrticialdeath01', 'pyro.m_mvm_critdeath', 'pyro.m_mvm_meleedeath']"
+Filename:,pyro_mvm_m_paincrticialdeath01,,Events:,"['pyro.m_mvm_critdeath', 'pyro.m_mvm_meleedeath', 'pyro.m_mvm_paincrticialdeath01']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_paincrticialdeath02,,Events:,"['pyro.m_mvm_critdeath', 'pyro.m_mvm_meleedeath', 'pyro.m_mvm_paincrticialdeath02']"
+Filename:,pyro_mvm_m_paincrticialdeath02,,Events:,"['pyro.m_mvm_critdeath', 'pyro.m_mvm_paincrticialdeath02', 'pyro.m_mvm_meleedeath']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_paincrticialdeath03,,Events:,"['pyro.m_mvm_paincrticialdeath03', 'pyro.m_mvm_critdeath', 'pyro.m_mvm_meleedeath']"
+Filename:,pyro_mvm_m_paincrticialdeath03,,Events:,"['pyro.m_mvm_critdeath', 'pyro.m_mvm_meleedeath', 'pyro.m_mvm_paincrticialdeath03']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsevere01,,Events:,"['pyro.m_mvm_death', 'pyro.m_mvm_painsevere01']"
+Filename:,pyro_mvm_m_painsevere01,,Events:,"['pyro.m_mvm_painsevere01', 'pyro.m_mvm_death']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsevere02,,Events:,"['pyro.m_mvm_death', 'pyro.m_mvm_painsevere02']"
+Filename:,pyro_mvm_m_painsevere02,,Events:,"['pyro.m_mvm_painsevere02', 'pyro.m_mvm_death']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4774,7 +4774,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsharp01,,Events:,"['pyro.m_mvm_painsharp01', 'pyro.m_mvm_explosiondeath']"
+Filename:,pyro_mvm_m_painsharp01,,Events:,"['pyro.m_mvm_explosiondeath', 'pyro.m_mvm_painsharp01']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4786,25 +4786,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsharp03,,Events:,"['pyro.m_mvm_painsharp03', 'pyro.m_mvm_explosiondeath']"
+Filename:,pyro_mvm_m_painsharp03,,Events:,"['pyro.m_mvm_explosiondeath', 'pyro.m_mvm_painsharp03']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsharp03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsharp04,,Events:,"['pyro.m_mvm_explosiondeath', 'pyro.m_mvm_painsharp04']"
+Filename:,pyro_mvm_m_painsharp04,,Events:,"['pyro.m_mvm_painsharp04', 'pyro.m_mvm_explosiondeath']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsharp05,,Events:,"['pyro.m_mvm_painsharp05', 'pyro.m_mvm_explosiondeath']"
+Filename:,pyro_mvm_m_painsharp05,,Events:,"['pyro.m_mvm_explosiondeath', 'pyro.m_mvm_painsharp05']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_m_painsharp06,,Events:,"['pyro.m_mvm_painsharp06', 'pyro.m_mvm_explosiondeath']"
+Filename:,pyro_mvm_m_painsharp06,,Events:,"['pyro.m_mvm_explosiondeath', 'pyro.m_mvm_painsharp06']"
 Full Path:,vo/mvm/mght/pyro_mvm_m_painsharp06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6754,19 +6754,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_paincrticialdeath01,,Events:,"['scout.m_mvm_critdeath', 'scout.m_mvm_paincrticialdeath01', 'scout.m_mvm_meleedeath']"
+Filename:,scout_mvm_m_paincrticialdeath01,,Events:,"['scout.m_mvm_critdeath', 'scout.m_mvm_meleedeath', 'scout.m_mvm_paincrticialdeath01']"
 Full Path:,vo/mvm/mght/scout_mvm_m_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_paincrticialdeath02,,Events:,"['scout.m_mvm_paincrticialdeath02', 'scout.m_mvm_critdeath', 'scout.m_mvm_meleedeath']"
+Filename:,scout_mvm_m_paincrticialdeath02,,Events:,"['scout.m_mvm_critdeath', 'scout.m_mvm_meleedeath', 'scout.m_mvm_paincrticialdeath02']"
 Full Path:,vo/mvm/mght/scout_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_paincrticialdeath03,,Events:,"['scout.m_mvm_paincrticialdeath03', 'scout.m_mvm_critdeath', 'scout.m_mvm_meleedeath']"
+Filename:,scout_mvm_m_paincrticialdeath03,,Events:,"['scout.m_mvm_critdeath', 'scout.m_mvm_meleedeath', 'scout.m_mvm_paincrticialdeath03']"
 Full Path:,vo/mvm/mght/scout_mvm_m_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6784,7 +6784,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsevere03,,Events:,"['scout.m_mvm_death', 'scout.m_mvm_painsevere03']"
+Filename:,scout_mvm_m_painsevere03,,Events:,"['scout.m_mvm_painsevere03', 'scout.m_mvm_death']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6802,19 +6802,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsevere06,,Events:,"['scout.m_mvm_death', 'scout.m_mvm_painsevere06']"
+Filename:,scout_mvm_m_painsevere06,,Events:,"['scout.m_mvm_painsevere06', 'scout.m_mvm_death']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsevere06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsharp01,,Events:,"['scout.m_mvm_painsharp01', 'scout.m_mvm_explosiondeath']"
+Filename:,scout_mvm_m_painsharp01,,Events:,"['scout.m_mvm_explosiondeath', 'scout.m_mvm_painsharp01']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsharp02,,Events:,"['scout.m_mvm_painsharp02', 'scout.m_mvm_explosiondeath']"
+Filename:,scout_mvm_m_painsharp02,,Events:,"['scout.m_mvm_explosiondeath', 'scout.m_mvm_painsharp02']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6826,13 +6826,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsharp04,,Events:,"['scout.m_mvm_painsharp04', 'scout.m_mvm_explosiondeath']"
+Filename:,scout_mvm_m_painsharp04,,Events:,"['scout.m_mvm_explosiondeath', 'scout.m_mvm_painsharp04']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsharp05,,Events:,"['scout.m_mvm_painsharp05', 'scout.m_mvm_explosiondeath']"
+Filename:,scout_mvm_m_painsharp05,,Events:,"['scout.m_mvm_explosiondeath', 'scout.m_mvm_painsharp05']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6844,7 +6844,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_m_painsharp07,,Events:,"['scout.m_mvm_painsharp07', 'scout.m_mvm_explosiondeath']"
+Filename:,scout_mvm_m_painsharp07,,Events:,"['scout.m_mvm_explosiondeath', 'scout.m_mvm_painsharp07']"
 Full Path:,vo/mvm/mght/scout_mvm_m_painsharp07.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -8590,7 +8590,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_m_paincrticialdeath02,,Events:,"['soldier.m_mvm_paincrticialdeath02', 'soldier.m_mvm_critdeath', 'soldier.m_mvm_meleedeath']"
+Filename:,soldier_mvm_m_paincrticialdeath02,,Events:,"['soldier.m_mvm_critdeath', 'soldier.m_mvm_meleedeath', 'soldier.m_mvm_paincrticialdeath02']"
 Full Path:,vo/mvm/mght/soldier_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -8602,7 +8602,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_m_paincrticialdeath04,,Events:,"['soldier.m_mvm_critdeath', 'soldier.m_mvm_paincrticialdeath04', 'soldier.m_mvm_meleedeath']"
+Filename:,soldier_mvm_m_paincrticialdeath04,,Events:,"['soldier.m_mvm_critdeath', 'soldier.m_mvm_meleedeath', 'soldier.m_mvm_paincrticialdeath04']"
 Full Path:,vo/mvm/mght/soldier_mvm_m_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -8620,13 +8620,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_m_painsevere03,,Events:,"['soldier.m_mvm_painsevere03', 'soldier.m_mvm_death']"
+Filename:,soldier_mvm_m_painsevere03,,Events:,"['soldier.m_mvm_death', 'soldier.m_mvm_painsevere03']"
 Full Path:,vo/mvm/mght/soldier_mvm_m_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_m_painsevere04,,Events:,"['soldier.m_mvm_painsevere04', 'soldier.m_mvm_death']"
+Filename:,soldier_mvm_m_painsevere04,,Events:,"['soldier.m_mvm_death', 'soldier.m_mvm_painsevere04']"
 Full Path:,vo/mvm/mght/soldier_mvm_m_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -10654,31 +10654,31 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_paincrticialdeath02,,Events:,"['demoman.mvm_meleedeath', 'demoman.mvm_critdeath', 'demoman.mvm_paincrticialdeath02']"
+Filename:,demoman_mvm_paincrticialdeath02,,Events:,"['demoman.mvm_paincrticialdeath02', 'demoman.mvm_meleedeath', 'demoman.mvm_critdeath']"
 Full Path:,vo/mvm/norm/demoman_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_paincrticialdeath03,,Events:,"['demoman.mvm_meleedeath', 'demoman.mvm_critdeath', 'demoman.mvm_paincrticialdeath03']"
+Filename:,demoman_mvm_paincrticialdeath03,,Events:,"['demoman.mvm_paincrticialdeath03', 'demoman.mvm_meleedeath', 'demoman.mvm_critdeath']"
 Full Path:,vo/mvm/norm/demoman_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_paincrticialdeath04,,Events:,"['demoman.mvm_meleedeath', 'demoman.mvm_critdeath', 'demoman.mvm_paincrticialdeath04']"
+Filename:,demoman_mvm_paincrticialdeath04,,Events:,"['demoman.mvm_paincrticialdeath04', 'demoman.mvm_meleedeath', 'demoman.mvm_critdeath']"
 Full Path:,vo/mvm/norm/demoman_mvm_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_paincrticialdeath05,,Events:,"['demoman.mvm_meleedeath', 'demoman.mvm_critdeath', 'demoman.mvm_paincrticialdeath05']"
+Filename:,demoman_mvm_paincrticialdeath05,,Events:,"['demoman.mvm_paincrticialdeath05', 'demoman.mvm_meleedeath', 'demoman.mvm_critdeath']"
 Full Path:,vo/mvm/norm/demoman_mvm_paincrticialdeath05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsevere01,,Events:,"['demoman.mvm_painsevere01', 'demoman.mvm_death']"
+Filename:,demoman_mvm_painsevere01,,Events:,"['demoman.mvm_death', 'demoman.mvm_painsevere01']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -10690,25 +10690,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsevere03,,Events:,"['demoman.mvm_painsevere03', 'demoman.mvm_death']"
+Filename:,demoman_mvm_painsevere03,,Events:,"['demoman.mvm_death', 'demoman.mvm_painsevere03']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsevere04,,Events:,"['demoman.mvm_painsevere04', 'demoman.mvm_death']"
+Filename:,demoman_mvm_painsevere04,,Events:,"['demoman.mvm_death', 'demoman.mvm_painsevere04']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp01,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp01']"
+Filename:,demoman_mvm_painsharp01,,Events:,"['demoman.mvm_painsharp01', 'demoman.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp02,,Events:,"['demoman.mvm_painsharp02', 'demoman.mvm_explosiondeath']"
+Filename:,demoman_mvm_painsharp02,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp02']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -10720,25 +10720,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp04,,Events:,"['demoman.mvm_painsharp04', 'demoman.mvm_explosiondeath']"
+Filename:,demoman_mvm_painsharp04,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp04']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp05,,Events:,"['demoman.mvm_painsharp05', 'demoman.mvm_explosiondeath']"
+Filename:,demoman_mvm_painsharp05,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp05']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp06,,Events:,"['demoman.mvm_painsharp06', 'demoman.mvm_explosiondeath']"
+Filename:,demoman_mvm_painsharp06,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp06']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_mvm_painsharp07,,Events:,"['demoman.mvm_painsharp07', 'demoman.mvm_explosiondeath']"
+Filename:,demoman_mvm_painsharp07,,Events:,"['demoman.mvm_explosiondeath', 'demoman.mvm_painsharp07']"
 Full Path:,vo/mvm/norm/demoman_mvm_painsharp07.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -12364,31 +12364,31 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,engineer_mvm_paincrticialdeath01,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_critdeath', 'engineer.mvm_paincrticialdeath01']"
+Filename:,engineer_mvm_paincrticialdeath01,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_paincrticialdeath01', 'engineer.mvm_critdeath']"
 Full Path:,vo/mvm/norm/engineer_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_paincrticialdeath02,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_critdeath', 'engineer.mvm_paincrticialdeath02']"
+Filename:,engineer_mvm_paincrticialdeath02,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_paincrticialdeath02', 'engineer.mvm_critdeath']"
 Full Path:,vo/mvm/norm/engineer_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_paincrticialdeath03,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_critdeath', 'engineer.mvm_paincrticialdeath03']"
+Filename:,engineer_mvm_paincrticialdeath03,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_paincrticialdeath03', 'engineer.mvm_critdeath']"
 Full Path:,vo/mvm/norm/engineer_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_paincrticialdeath04,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_paincrticialdeath04', 'engineer.mvm_critdeath']"
+Filename:,engineer_mvm_paincrticialdeath04,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_critdeath', 'engineer.mvm_paincrticialdeath04']"
 Full Path:,vo/mvm/norm/engineer_mvm_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_paincrticialdeath05,,Events:,"['engineer.mvm_meleedeath', 'engineer.mvm_critdeath', 'engineer.mvm_paincrticialdeath05']"
+Filename:,engineer_mvm_paincrticialdeath05,,Events:,"['engineer.mvm_paincrticialdeath05', 'engineer.mvm_meleedeath', 'engineer.mvm_critdeath']"
 Full Path:,vo/mvm/norm/engineer_mvm_paincrticialdeath05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -12406,7 +12406,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_painsevere02,,Events:,"['engineer.mvm_painsevere02', 'engineer.mvm_death']"
+Filename:,engineer_mvm_painsevere02,,Events:,"['engineer.mvm_death', 'engineer.mvm_painsevere02']"
 Full Path:,vo/mvm/norm/engineer_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -12424,13 +12424,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_painsevere05,,Events:,"['engineer.mvm_painsevere05', 'engineer.mvm_death']"
+Filename:,engineer_mvm_painsevere05,,Events:,"['engineer.mvm_death', 'engineer.mvm_painsevere05']"
 Full Path:,vo/mvm/norm/engineer_mvm_painsevere05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_painsevere06,,Events:,"['engineer.mvm_death', 'engineer.mvm_painsevere06']"
+Filename:,engineer_mvm_painsevere06,,Events:,"['engineer.mvm_painsevere06', 'engineer.mvm_death']"
 Full Path:,vo/mvm/norm/engineer_mvm_painsevere06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -12442,7 +12442,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_painsharp01,,Events:,"['engineer.mvm_painsharp01', 'engineer.mvm_explosiondeath']"
+Filename:,engineer_mvm_painsharp01,,Events:,"['engineer.mvm_explosiondeath', 'engineer.mvm_painsharp01']"
 Full Path:,vo/mvm/norm/engineer_mvm_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -12466,7 +12466,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_painsharp05,,Events:,"['engineer.mvm_painsharp05', 'engineer.mvm_explosiondeath']"
+Filename:,engineer_mvm_painsharp05,,Events:,"['engineer.mvm_explosiondeath', 'engineer.mvm_painsharp05']"
 Full Path:,vo/mvm/norm/engineer_mvm_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -13762,13 +13762,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_laughevil01,,Events:,"['heavy.mvm_laughevil01', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_laughevil01,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_laughevil01']"
 Full Path:,vo/mvm/norm/heavy_mvm_laughevil01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_laughevil02,,Events:,"['heavy.mvm_laughevil02', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_laughevil02,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_laughevil02']"
 Full Path:,vo/mvm/norm/heavy_mvm_laughevil02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -13780,7 +13780,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_laughevil04,,Events:,"['heavy.mvm_laughevil04', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_laughevil04,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_laughevil04']"
 Full Path:,vo/mvm/norm/heavy_mvm_laughevil04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -13930,7 +13930,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare01,,Events:,"['heavy.mvm_meleedare01', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare01,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare01']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -13942,37 +13942,37 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare03,,Events:,"['heavy.mvm_meleedare03', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare03,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare03']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare04,,Events:,"['heavy.mvm_meleedare04', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare04,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare04']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare05,,Events:,"['heavy.mvm_meleedare05', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare05,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare05']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare06,,Events:,"['heavy.mvm_meleedare06', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare06,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare06']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare07,,Events:,"['heavy.mvm_meleedare07', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare07,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare07']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare07.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare08,,Events:,"['heavy.mvm_meleedare08', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare08,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare08']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare08.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -13984,25 +13984,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare10,,Events:,"['heavy.mvm_meleedare10', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare10,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare10']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare10.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare11,,Events:,"['heavy.mvm_meleedare11', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare11,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare11']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare11.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare12,,Events:,"['heavy.mvm_meleedare12', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare12,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare12']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare12.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_meleedare13,,Events:,"['heavy.mvm_meleedare13', 'heavy.mvm_mobjabber']"
+Filename:,heavy_mvm_meleedare13,,Events:,"['heavy.mvm_mobjabber', 'heavy.mvm_meleedare13']"
 Full Path:,vo/mvm/norm/heavy_mvm_meleedare13.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -14164,25 +14164,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_paincrticialdeath01,,Events:,"['heavy.mvm_paincrticialdeath01', 'heavy.mvm_meleedeath', 'heavy.mvm_critdeath']"
+Filename:,heavy_mvm_paincrticialdeath01,,Events:,"['heavy.mvm_paincrticialdeath01', 'heavy.mvm_critdeath', 'heavy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/heavy_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_paincrticialdeath02,,Events:,"['heavy.mvm_meleedeath', 'heavy.mvm_critdeath', 'heavy.mvm_paincrticialdeath02']"
+Filename:,heavy_mvm_paincrticialdeath02,,Events:,"['heavy.mvm_paincrticialdeath02', 'heavy.mvm_critdeath', 'heavy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/heavy_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_paincrticialdeath03,,Events:,"['heavy.mvm_paincrticialdeath03', 'heavy.mvm_meleedeath', 'heavy.mvm_critdeath']"
+Filename:,heavy_mvm_paincrticialdeath03,,Events:,"['heavy.mvm_paincrticialdeath03', 'heavy.mvm_critdeath', 'heavy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/heavy_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_painsevere01,,Events:,"['heavy.mvm_death', 'heavy.mvm_painsevere01']"
+Filename:,heavy_mvm_painsevere01,,Events:,"['heavy.mvm_painsevere01', 'heavy.mvm_death']"
 Full Path:,vo/mvm/norm/heavy_mvm_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -14194,13 +14194,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_painsevere03,,Events:,"['heavy.mvm_death', 'heavy.mvm_painsevere03']"
+Filename:,heavy_mvm_painsevere03,,Events:,"['heavy.mvm_painsevere03', 'heavy.mvm_death']"
 Full Path:,vo/mvm/norm/heavy_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_painsharp01,,Events:,"['heavy.mvm_painsharp01', 'heavy.mvm_explosiondeath']"
+Filename:,heavy_mvm_painsharp01,,Events:,"['heavy.mvm_explosiondeath', 'heavy.mvm_painsharp01']"
 Full Path:,vo/mvm/norm/heavy_mvm_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -14218,7 +14218,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,heavy_mvm_painsharp04,,Events:,"['heavy.mvm_explosiondeath', 'heavy.mvm_painsharp04']"
+Filename:,heavy_mvm_painsharp04,,Events:,"['heavy.mvm_painsharp04', 'heavy.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/heavy_mvm_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -15544,25 +15544,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_paincrticialdeath01,,Events:,"['medic.mvm_meleedeath', 'medic.mvm_critdeath', 'medic.mvm_paincrticialdeath01']"
+Filename:,medic_mvm_paincrticialdeath01,,Events:,"['medic.mvm_critdeath', 'medic.mvm_meleedeath', 'medic.mvm_paincrticialdeath01']"
 Full Path:,vo/mvm/norm/medic_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_paincrticialdeath02,,Events:,"['medic.mvm_meleedeath', 'medic.mvm_critdeath', 'medic.mvm_paincrticialdeath02']"
+Filename:,medic_mvm_paincrticialdeath02,,Events:,"['medic.mvm_paincrticialdeath02', 'medic.mvm_critdeath', 'medic.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/medic_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_paincrticialdeath03,,Events:,"['medic.mvm_meleedeath', 'medic.mvm_paincrticialdeath03', 'medic.mvm_critdeath']"
+Filename:,medic_mvm_paincrticialdeath03,,Events:,"['medic.mvm_critdeath', 'medic.mvm_meleedeath', 'medic.mvm_paincrticialdeath03']"
 Full Path:,vo/mvm/norm/medic_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_paincrticialdeath04,,Events:,"['medic.mvm_meleedeath', 'medic.mvm_critdeath', 'medic.mvm_paincrticialdeath04']"
+Filename:,medic_mvm_paincrticialdeath04,,Events:,"['medic.mvm_critdeath', 'medic.mvm_meleedeath', 'medic.mvm_paincrticialdeath04']"
 Full Path:,vo/mvm/norm/medic_mvm_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -15574,25 +15574,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsevere02,,Events:,"['medic.mvm_painsevere02', 'medic.mvm_death']"
+Filename:,medic_mvm_painsevere02,,Events:,"['medic.mvm_death', 'medic.mvm_painsevere02']"
 Full Path:,vo/mvm/norm/medic_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsevere03,,Events:,"['medic.mvm_painsevere03', 'medic.mvm_death']"
+Filename:,medic_mvm_painsevere03,,Events:,"['medic.mvm_death', 'medic.mvm_painsevere03']"
 Full Path:,vo/mvm/norm/medic_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsevere04,,Events:,"['medic.mvm_death', 'medic.mvm_painsevere04']"
+Filename:,medic_mvm_painsevere04,,Events:,"['medic.mvm_painsevere04', 'medic.mvm_death']"
 Full Path:,vo/mvm/norm/medic_mvm_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp01,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp01']"
+Filename:,medic_mvm_painsharp01,,Events:,"['medic.mvm_painsharp01', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -15604,7 +15604,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp03,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp03']"
+Filename:,medic_mvm_painsharp03,,Events:,"['medic.mvm_painsharp03', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -15616,25 +15616,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp05,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp05']"
+Filename:,medic_mvm_painsharp05,,Events:,"['medic.mvm_painsharp05', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp06,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp06']"
+Filename:,medic_mvm_painsharp06,,Events:,"['medic.mvm_painsharp06', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp07,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp07']"
+Filename:,medic_mvm_painsharp07,,Events:,"['medic.mvm_painsharp07', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp07.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_mvm_painsharp08,,Events:,"['medic.mvm_explosiondeath', 'medic.mvm_painsharp08']"
+Filename:,medic_mvm_painsharp08,,Events:,"['medic.mvm_painsharp08', 'medic.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/medic_mvm_painsharp08.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -16084,55 +16084,55 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_paincrticialdeath01,,Events:,"['pyro.mvm_paincrticialdeath01', 'pyro.mvm_meleedeath', 'pyro.mvm_critdeath']"
+Filename:,pyro_mvm_paincrticialdeath01,,Events:,"['pyro.mvm_paincrticialdeath01', 'pyro.mvm_critdeath', 'pyro.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/pyro_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_paincrticialdeath02,,Events:,"['pyro.mvm_paincrticialdeath02', 'pyro.mvm_meleedeath', 'pyro.mvm_critdeath']"
+Filename:,pyro_mvm_paincrticialdeath02,,Events:,"['pyro.mvm_paincrticialdeath02', 'pyro.mvm_critdeath', 'pyro.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/pyro_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_paincrticialdeath03,,Events:,"['pyro.mvm_paincrticialdeath03', 'pyro.mvm_meleedeath', 'pyro.mvm_critdeath']"
+Filename:,pyro_mvm_paincrticialdeath03,,Events:,"['pyro.mvm_paincrticialdeath03', 'pyro.mvm_critdeath', 'pyro.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/pyro_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere01,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere01']"
+Filename:,pyro_mvm_painsevere01,,Events:,"['pyro.mvm_painsevere01', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere02,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere02']"
+Filename:,pyro_mvm_painsevere02,,Events:,"['pyro.mvm_painsevere02', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere03,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere03']"
+Filename:,pyro_mvm_painsevere03,,Events:,"['pyro.mvm_painsevere03', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere04,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere04']"
+Filename:,pyro_mvm_painsevere04,,Events:,"['pyro.mvm_painsevere04', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere05,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere05']"
+Filename:,pyro_mvm_painsevere05,,Events:,"['pyro.mvm_painsevere05', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsevere06,,Events:,"['pyro.mvm_death', 'pyro.mvm_painsevere06']"
+Filename:,pyro_mvm_painsevere06,,Events:,"['pyro.mvm_painsevere06', 'pyro.mvm_death']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsevere06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -16144,7 +16144,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,pyro_mvm_painsharp02,,Events:,"['pyro.mvm_explosiondeath', 'pyro.mvm_painsharp02']"
+Filename:,pyro_mvm_painsharp02,,Events:,"['pyro.mvm_painsharp02', 'pyro.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/pyro_mvm_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17476,7 +17476,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_generic01,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_generic01']"
+Filename:,scout_mvm_generic01,,Events:,"['scout.mvm_generic01', 'scout.mvm_wanderjabber']"
 Full Path:,vo/mvm/norm/scout_mvm_generic01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17692,7 +17692,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_invinciblenotready01,,Events:,"['scout.mvm_invinciblenotready01', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_invinciblenotready01,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_invinciblenotready01']"
 Full Path:,vo/mvm/norm/scout_mvm_invinciblenotready01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17926,7 +17926,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_meleedare01,,Events:,"['scout.mvm_meleedare01', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_meleedare01,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_meleedare01']"
 Full Path:,vo/mvm/norm/scout_mvm_meleedare01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17944,7 +17944,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_meleedare04,,Events:,"['scout.mvm_meleedare04', 'scout.mvm_mobjabber']"
+Filename:,scout_mvm_meleedare04,,Events:,"['scout.mvm_mobjabber', 'scout.mvm_meleedare04']"
 Full Path:,vo/mvm/norm/scout_mvm_meleedare04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17956,7 +17956,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_meleedare06,,Events:,"['scout.mvm_meleedare06', 'scout.mvm_mobjabber']"
+Filename:,scout_mvm_meleedare06,,Events:,"['scout.mvm_mobjabber', 'scout.mvm_meleedare06']"
 Full Path:,vo/mvm/norm/scout_mvm_meleedare06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17968,7 +17968,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
-Filename:,scout_mvm_misc02,,Events:,"['scout.mvm_misc02', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_misc02,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_misc02']"
 Full Path:,vo/mvm/norm/scout_mvm_misc02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -17986,7 +17986,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_misc05,,Events:,"['scout.mvm_misc05', 'scout.mvm_mobjabber']"
+Filename:,scout_mvm_misc05,,Events:,"['scout.mvm_mobjabber', 'scout.mvm_misc05']"
 Full Path:,vo/mvm/norm/scout_mvm_misc05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18004,13 +18004,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_misc08,,Events:,"['scout.mvm_misc08', 'scout.mvm_mobjabber']"
+Filename:,scout_mvm_misc08,,Events:,"['scout.mvm_mobjabber', 'scout.mvm_misc08']"
 Full Path:,vo/mvm/norm/scout_mvm_misc08.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_misc09,,Events:,"['scout.mvm_misc09', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_misc09,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_misc09']"
 Full Path:,vo/mvm/norm/scout_mvm_misc09.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18118,19 +18118,19 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_paincrticialdeath01,,Events:,"['scout.mvm_paincrticialdeath01', 'scout.mvm_critdeath', 'scout.mvm_meleedeath']"
+Filename:,scout_mvm_paincrticialdeath01,,Events:,"['scout.mvm_paincrticialdeath01', 'scout.mvm_meleedeath', 'scout.mvm_critdeath']"
 Full Path:,vo/mvm/norm/scout_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_paincrticialdeath02,,Events:,"['scout.mvm_paincrticialdeath02', 'scout.mvm_critdeath', 'scout.mvm_meleedeath']"
+Filename:,scout_mvm_paincrticialdeath02,,Events:,"['scout.mvm_paincrticialdeath02', 'scout.mvm_meleedeath', 'scout.mvm_critdeath']"
 Full Path:,vo/mvm/norm/scout_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_paincrticialdeath03,,Events:,"['scout.mvm_critdeath', 'scout.mvm_paincrticialdeath03', 'scout.mvm_meleedeath']"
+Filename:,scout_mvm_paincrticialdeath03,,Events:,"['scout.mvm_meleedeath', 'scout.mvm_paincrticialdeath03', 'scout.mvm_critdeath']"
 Full Path:,vo/mvm/norm/scout_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18142,7 +18142,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsevere02,,Events:,"['scout.mvm_painsevere02', 'scout.mvm_death']"
+Filename:,scout_mvm_painsevere02,,Events:,"['scout.mvm_death', 'scout.mvm_painsevere02']"
 Full Path:,vo/mvm/norm/scout_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18160,13 +18160,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsevere05,,Events:,"['scout.mvm_painsevere05', 'scout.mvm_death']"
+Filename:,scout_mvm_painsevere05,,Events:,"['scout.mvm_death', 'scout.mvm_painsevere05']"
 Full Path:,vo/mvm/norm/scout_mvm_painsevere05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsevere06,,Events:,"['scout.mvm_painsevere06', 'scout.mvm_death']"
+Filename:,scout_mvm_painsevere06,,Events:,"['scout.mvm_death', 'scout.mvm_painsevere06']"
 Full Path:,vo/mvm/norm/scout_mvm_painsevere06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18178,7 +18178,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsharp02,,Events:,"['scout.mvm_explosiondeath', 'scout.mvm_painsharp02']"
+Filename:,scout_mvm_painsharp02,,Events:,"['scout.mvm_painsharp02', 'scout.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/scout_mvm_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18190,7 +18190,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsharp04,,Events:,"['scout.mvm_explosiondeath', 'scout.mvm_painsharp04']"
+Filename:,scout_mvm_painsharp04,,Events:,"['scout.mvm_painsharp04', 'scout.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/scout_mvm_painsharp04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18202,13 +18202,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsharp06,,Events:,"['scout.mvm_painsharp06', 'scout.mvm_explosiondeath']"
+Filename:,scout_mvm_painsharp06,,Events:,"['scout.mvm_explosiondeath', 'scout.mvm_painsharp06']"
 Full Path:,vo/mvm/norm/scout_mvm_painsharp06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_painsharp07,,Events:,"['scout.mvm_painsharp07', 'scout.mvm_explosiondeath']"
+Filename:,scout_mvm_painsharp07,,Events:,"['scout.mvm_explosiondeath', 'scout.mvm_painsharp07']"
 Full Path:,vo/mvm/norm/scout_mvm_painsharp07.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18226,7 +18226,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_positivevocalization02,,Events:,"['scout.mvm_positivevocalization02', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_positivevocalization02,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_positivevocalization02']"
 Full Path:,vo/mvm/norm/scout_mvm_positivevocalization02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -18352,7 +18352,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_mvm_specialcompleted04,,Events:,"['scout.mvm_specialcompleted04', 'scout.mvm_wanderjabber']"
+Filename:,scout_mvm_specialcompleted04,,Events:,"['scout.mvm_wanderjabber', 'scout.mvm_specialcompleted04']"
 Full Path:,vo/mvm/norm/scout_mvm_specialcompleted04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -20608,25 +20608,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sniper_mvm_paincrticialdeath01,,Events:,"['sniper.mvm_critdeath', 'sniper.mvm_meleedeath', 'sniper.mvm_paincrticialdeath01']"
+Filename:,sniper_mvm_paincrticialdeath01,,Events:,"['sniper.mvm_paincrticialdeath01', 'sniper.mvm_critdeath', 'sniper.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/sniper_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sniper_mvm_paincrticialdeath02,,Events:,"['sniper.mvm_critdeath', 'sniper.mvm_meleedeath', 'sniper.mvm_paincrticialdeath02']"
+Filename:,sniper_mvm_paincrticialdeath02,,Events:,"['sniper.mvm_paincrticialdeath02', 'sniper.mvm_critdeath', 'sniper.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/sniper_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sniper_mvm_paincrticialdeath03,,Events:,"['sniper.mvm_critdeath', 'sniper.mvm_meleedeath', 'sniper.mvm_paincrticialdeath03']"
+Filename:,sniper_mvm_paincrticialdeath03,,Events:,"['sniper.mvm_paincrticialdeath03', 'sniper.mvm_critdeath', 'sniper.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/sniper_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sniper_mvm_paincrticialdeath04,,Events:,"['sniper.mvm_critdeath', 'sniper.mvm_meleedeath', 'sniper.mvm_paincrticialdeath04']"
+Filename:,sniper_mvm_paincrticialdeath04,,Events:,"['sniper.mvm_paincrticialdeath04', 'sniper.mvm_critdeath', 'sniper.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/sniper_mvm_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -22516,61 +22516,61 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_paincrticialdeath01,,Events:,"['soldier.mvm_paincrticialdeath01', 'soldier.mvm_critdeath', 'soldier.mvm_meleedeath']"
+Filename:,soldier_mvm_paincrticialdeath01,,Events:,"['soldier.mvm_meleedeath', 'soldier.mvm_paincrticialdeath01', 'soldier.mvm_critdeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_paincrticialdeath02,,Events:,"['soldier.mvm_critdeath', 'soldier.mvm_meleedeath', 'soldier.mvm_paincrticialdeath02']"
+Filename:,soldier_mvm_paincrticialdeath02,,Events:,"['soldier.mvm_paincrticialdeath02', 'soldier.mvm_meleedeath', 'soldier.mvm_critdeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_paincrticialdeath03,,Events:,"['soldier.mvm_paincrticialdeath03', 'soldier.mvm_critdeath', 'soldier.mvm_meleedeath']"
+Filename:,soldier_mvm_paincrticialdeath03,,Events:,"['soldier.mvm_meleedeath', 'soldier.mvm_paincrticialdeath03', 'soldier.mvm_critdeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_paincrticialdeath04,,Events:,"['soldier.mvm_paincrticialdeath04', 'soldier.mvm_critdeath', 'soldier.mvm_meleedeath']"
+Filename:,soldier_mvm_paincrticialdeath04,,Events:,"['soldier.mvm_paincrticialdeath04', 'soldier.mvm_meleedeath', 'soldier.mvm_critdeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere01,,Events:,"['soldier.mvm_painsevere01', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere01,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere01']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere02,,Events:,"['soldier.mvm_painsevere02', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere02,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere02']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere03,,Events:,"['soldier.mvm_painsevere03', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere03,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere03']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere04,,Events:,"['soldier.mvm_painsevere04', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere04,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere04']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere05,,Events:,"['soldier.mvm_painsevere05', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere05,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere05']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsevere06,,Events:,"['soldier.mvm_painsevere06', 'soldier.mvm_death']"
+Filename:,soldier_mvm_painsevere06,,Events:,"['soldier.mvm_death', 'soldier.mvm_painsevere06']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsevere06.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -22582,13 +22582,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsharp02,,Events:,"['soldier.mvm_explosiondeath', 'soldier.mvm_painsharp02']"
+Filename:,soldier_mvm_painsharp02,,Events:,"['soldier.mvm_painsharp02', 'soldier.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsharp02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_painsharp03,,Events:,"['soldier.mvm_explosiondeath', 'soldier.mvm_painsharp03']"
+Filename:,soldier_mvm_painsharp03,,Events:,"['soldier.mvm_painsharp03', 'soldier.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/soldier_mvm_painsharp03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -23194,13 +23194,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_cloakedspy03,,Events:,"['spy.mvm_cloakedspy03', 'spy.mvm_teasevictim']"
+Filename:,spy_mvm_cloakedspy03,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_cloakedspy03']"
 Full Path:,vo/mvm/norm/spy_mvm_cloakedspy03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_cloakedspy04,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_cloakedspy04']"
+Filename:,spy_mvm_cloakedspy04,,Events:,"['spy.mvm_cloakedspy04', 'spy.mvm_teasevictim']"
 Full Path:,vo/mvm/norm/spy_mvm_cloakedspy04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -23872,7 +23872,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_laughshort03,,Events:,"['spy.mvm_chuckle', 'spy.mvm_laughshort03']"
+Filename:,spy_mvm_laughshort03,,Events:,"['spy.mvm_laughshort03', 'spy.mvm_chuckle']"
 Full Path:,vo/mvm/norm/spy_mvm_laughshort03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -23884,7 +23884,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_laughshort05,,Events:,"['spy.mvm_chuckle', 'spy.mvm_laughshort05']"
+Filename:,spy_mvm_laughshort05,,Events:,"['spy.mvm_laughshort05', 'spy.mvm_chuckle']"
 Full Path:,vo/mvm/norm/spy_mvm_laughshort05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -24058,55 +24058,55 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_paincrticialdeath01,,Events:,"['spy.mvm_paincrticialdeath01', 'spy.mvm_meleedeath', 'spy.mvm_critdeath']"
+Filename:,spy_mvm_paincrticialdeath01,,Events:,"['spy.mvm_paincrticialdeath01', 'spy.mvm_critdeath', 'spy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/spy_mvm_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_paincrticialdeath02,,Events:,"['spy.mvm_paincrticialdeath02', 'spy.mvm_meleedeath', 'spy.mvm_critdeath']"
+Filename:,spy_mvm_paincrticialdeath02,,Events:,"['spy.mvm_critdeath', 'spy.mvm_paincrticialdeath02', 'spy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/spy_mvm_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_paincrticialdeath03,,Events:,"['spy.mvm_paincrticialdeath03', 'spy.mvm_meleedeath', 'spy.mvm_critdeath']"
+Filename:,spy_mvm_paincrticialdeath03,,Events:,"['spy.mvm_critdeath', 'spy.mvm_paincrticialdeath03', 'spy.mvm_meleedeath']"
 Full Path:,vo/mvm/norm/spy_mvm_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsevere01,,Events:,"['spy.mvm_painsevere01', 'spy.mvm_death']"
+Filename:,spy_mvm_painsevere01,,Events:,"['spy.mvm_death', 'spy.mvm_painsevere01']"
 Full Path:,vo/mvm/norm/spy_mvm_painsevere01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsevere02,,Events:,"['spy.mvm_painsevere02', 'spy.mvm_death']"
+Filename:,spy_mvm_painsevere02,,Events:,"['spy.mvm_death', 'spy.mvm_painsevere02']"
 Full Path:,vo/mvm/norm/spy_mvm_painsevere02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsevere03,,Events:,"['spy.mvm_death', 'spy.mvm_painsevere03']"
+Filename:,spy_mvm_painsevere03,,Events:,"['spy.mvm_painsevere03', 'spy.mvm_death']"
 Full Path:,vo/mvm/norm/spy_mvm_painsevere03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsevere04,,Events:,"['spy.mvm_painsevere04', 'spy.mvm_death']"
+Filename:,spy_mvm_painsevere04,,Events:,"['spy.mvm_death', 'spy.mvm_painsevere04']"
 Full Path:,vo/mvm/norm/spy_mvm_painsevere04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsevere05,,Events:,"['spy.mvm_painsevere05', 'spy.mvm_death']"
+Filename:,spy_mvm_painsevere05,,Events:,"['spy.mvm_death', 'spy.mvm_painsevere05']"
 Full Path:,vo/mvm/norm/spy_mvm_painsevere05.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsharp01,,Events:,"['spy.mvm_explosiondeath', 'spy.mvm_painsharp01']"
+Filename:,spy_mvm_painsharp01,,Events:,"['spy.mvm_painsharp01', 'spy.mvm_explosiondeath']"
 Full Path:,vo/mvm/norm/spy_mvm_painsharp01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -24118,7 +24118,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_painsharp03,,Events:,"['spy.mvm_painsharp03', 'spy.mvm_explosiondeath']"
+Filename:,spy_mvm_painsharp03,,Events:,"['spy.mvm_explosiondeath', 'spy.mvm_painsharp03']"
 Full Path:,vo/mvm/norm/spy_mvm_painsharp03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -24160,13 +24160,13 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_revenge01,,Events:,"['spy.mvm_revenge01', 'spy.mvm_teasevictim']"
+Filename:,spy_mvm_revenge01,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_revenge01']"
 Full Path:,vo/mvm/norm/spy_mvm_revenge01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_revenge02,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_revenge02']"
+Filename:,spy_mvm_revenge02,,Events:,"['spy.mvm_revenge02', 'spy.mvm_teasevictim']"
 Full Path:,vo/mvm/norm/spy_mvm_revenge02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -24220,7 +24220,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_specialcompleted04,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_specialcompleted04']"
+Filename:,spy_mvm_specialcompleted04,,Events:,"['spy.mvm_specialcompleted04', 'spy.mvm_teasevictim']"
 Full Path:,vo/mvm/norm/spy_mvm_specialcompleted04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -24268,7 +24268,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_mvm_specialcompleted12,,Events:,"['spy.mvm_teasevictim', 'spy.mvm_specialcompleted12']"
+Filename:,spy_mvm_specialcompleted12,,Events:,"['spy.mvm_specialcompleted12', 'spy.mvm_teasevictim']"
 Full Path:,vo/mvm/norm/spy_mvm_specialcompleted12.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]

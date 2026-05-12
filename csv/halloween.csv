@@ -946,7 +946,7 @@ Transcription:,"It is I, your employer, Blutarch Mann. From beyond the grave! I'
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,sf13_blutarch_intro_short01,,Events:,"['announcer.helltower_blue_roundstart01', 'announcer.helltower_blue_roundstart_rare01']"
+Filename:,sf13_blutarch_intro_short01,,Events:,"['announcer.helltower_blue_roundstart_rare01', 'announcer.helltower_blue_roundstart01']"
 Full Path:,vo/halloween_mann_brothers/sf13_blutarch_intro_short01.mp3,,Scenes:,[]
 Transcription:,This is Blutarch Mann speaking. That corpse belongs to my idiot brother. Send it to hell!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1480,13 +1480,13 @@ Transcription:,"(Blutarch) ""Spells! Don't pick them up, they're all poison!"" (
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue03,,Events:,"['announcer.helltower_blue_misc_rare03', 'announcer.helltower_red_misc_rare03']"
+Filename:,sf13_mannbros_argue03,,Events:,"['announcer.helltower_red_misc_rare03', 'announcer.helltower_blue_misc_rare03']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue03.mp3,,Scenes:,[]
 Transcription:,"(Redmond) ""Send my ratstink brother to hell!"" (Blutarch) ""Don't listen to him, send MY imbecile brother to hell!"" (Redmond) ""What? No! No!"" (Blutarch) *short laugh*",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue04,,Events:,"['announcer.helltower_red_misc_rare04', 'announcer.helltower_blue_misc_rare04']"
+Filename:,sf13_mannbros_argue04,,Events:,"['announcer.helltower_blue_misc_rare04', 'announcer.helltower_red_misc_rare04']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue04.mp3,,Scenes:,[]
 Transcription:,"(Redmond) ""I hope you'll enjoy hell, Blutarch!"" (Blutarch) ""Yes, I'll enjoy staring down at it, from heaven! While you BURN, brother!"" (Redmond) ""Noooo!"" (Blutarch) *short laugh*",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1522,13 +1522,13 @@ Transcription:,"(Blutarch) ""RED team! Stop fighting! My brother and I call truc
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue10,,Events:,"['announcer.helltower_red_misc_rare06', 'announcer.helltower_blue_misc_rare06']"
+Filename:,sf13_mannbros_argue10,,Events:,"['announcer.helltower_blue_misc_rare06', 'announcer.helltower_red_misc_rare06']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue10.mp3,,Scenes:,[]
 Transcription:,"(Redmond) ""Look at your corpse, brother. As ugly in death as you were in life, so shriveled and red..."" (Blutarch) ""That's you, you imbecile!"" (Redmond) ""What? No!""",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue11,,Events:,"['announcer.helltower_blue_misc_rare07', 'announcer.helltower_red_misc_rare07']"
+Filename:,sf13_mannbros_argue11,,Events:,"['announcer.helltower_red_misc_rare07', 'announcer.helltower_blue_misc_rare07']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue11.mp3,,Scenes:,[]
 Transcription:,"(Redmond) ""Send him to hell! Who's the idiot brother now, brother?"" (Blutarch) ""You, Redmond!"" (Redmond) ""Nooooo!"" (Blutarch) ""Ha ha ha! I've turned it around on you!""",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1588,19 +1588,19 @@ Transcription:,"(Redmond) ""Blutarch, we're family. Tell you what, on the count 
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue21,,Events:,"['announcer.helltower_red_misc_rare13', 'announcer.helltower_blue_misc_rare13']"
+Filename:,sf13_mannbros_argue21,,Events:,"['announcer.helltower_blue_misc_rare13', 'announcer.helltower_red_misc_rare13']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue21.mp3,,Scenes:,[]
 Transcription:,"(Blutarch) ""Knock knock."" (Redmond) ""Who is it?"" (Blutarch) ""Redmond, it's Blutarch! This is a knock knock joke! Open this door at once!"" (Redmond) ""No thank you."" (Blutarch) ""Redmond, I assure you I will make it worth your while. Now knock knock"" (Redmond) ""Who is it?"" (Blutarch) ""It's your brother Blutarch! Now for God's sake let me in! Someone's trying to send me to Hell!"" (Redmond) ""I'm trying to send you to Hell. *laughs* (Blutarch) ""Good Lord! That changes everything! I'll finish the joke later!""",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue22,,Events:,"['announcer.helltower_blue_misc_rare14', 'announcer.helltower_red_misc_rare14']"
+Filename:,sf13_mannbros_argue22,,Events:,"['announcer.helltower_red_misc_rare14', 'announcer.helltower_blue_misc_rare14']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue22.mp3,,Scenes:,[]
 Transcription:,"(Blutarch) *giggling* (Redmond) ""What's so funny, brother?"" (Blutarch) ""Oh, I'm just thinking about all the gravel I'll have when you're gone."" (Redmond) ""And where do you intend to get all this gravel in hell, brother? While I'm on Earth, which is virtually made of gravel?"" (Blutarch) ""The devil! I plan to trade him all your gravel for it!"" (Redmond) *gasps* ""Don't you dare, Blutarch!""",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_mannbros_argue23,,Events:,"['announcer.helltower_blue_misc_rare15', 'announcer.helltower_red_misc_rare15']"
+Filename:,sf13_mannbros_argue23,,Events:,"['announcer.helltower_red_misc_rare15', 'announcer.helltower_blue_misc_rare15']"
 Full Path:,vo/halloween_mann_brothers/sf13_mannbros_argue23.mp3,,Scenes:,[]
 Transcription:,"(Blutarch) ""Yes! Yes! Send my brother to hell!"" (Redmond) ""Wait, what was that?"" (Blutarch) ""I'm not talking to you, Redmond. I'm talking to the mercs!"" (Redmond) ""My mercs? Don't you dare! They've got a job!"" (Blutarch) ""Come on brother. What could they possibly be doing?"" (Redmond) ""Sending you to hell, Blutarch!"" (Blutarch) ""What? RED team! Stop what you're doing!"" (Redmond) ""Belay that order, RED team!""",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1768,13 +1768,13 @@ Transcription:,"This is your employer, and I've got a job for you: Send my broth
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_intro_short03,,Events:,"['announcer.helltower_red_roundstart03', 'announcer.helltower_red_roundstart_rare03']"
+Filename:,sf13_redmond_intro_short03,,Events:,"['announcer.helltower_red_roundstart_rare03', 'announcer.helltower_red_roundstart03']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_intro_short03.mp3,,Scenes:,[]
 Transcription:,Listen up you reprobates. This is Redmond Mann. That corpse belongs to my idiot brother. Send it to hell!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_intro_short04,,Events:,"['announcer.helltower_red_roundstart_rare04', 'announcer.helltower_red_roundstart04']"
+Filename:,sf13_redmond_intro_short04,,Events:,"['announcer.helltower_red_roundstart04', 'announcer.helltower_red_roundstart_rare04']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_intro_short04.mp3,,Scenes:,[]
 Transcription:,Listen up you thugs. This is Redmond Mann speaking. And I've got a job for you: Send my brother to hell!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1906,13 +1906,13 @@ Transcription:,Boggarbottom! We're losing!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_losing13,,Events:,"['announcer.helltower_red_misc_rare18', 'announcer.helltower_red_misc13', 'announcer.helltower_red_misc03']"
+Filename:,sf13_redmond_losing13,,Events:,"['announcer.helltower_red_misc13', 'announcer.helltower_red_misc_rare18', 'announcer.helltower_red_misc03']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_losing13.mp3,,Scenes:,[]
 Transcription:,Why is my brother not in hell yet?,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_losing14,,Events:,"['announcer.helltower_red_losing13', 'announcer.helltower_red_misc09']"
+Filename:,sf13_redmond_losing14,,Events:,"['announcer.helltower_red_misc09', 'announcer.helltower_red_losing13']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_losing14.mp3,,Scenes:,[]
 Transcription:,What am I paying you for? Push my brother to hell!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1960,7 +1960,7 @@ Transcription:,You unwashed reprobates! It's not gravel science!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_losing21,,Events:,"['announcer.helltower_red_misc_rare19', 'announcer.helltower_red_misc04', 'announcer.helltower_red_misc14']"
+Filename:,sf13_redmond_losing21,,Events:,"['announcer.helltower_red_misc04', 'announcer.helltower_red_misc_rare19', 'announcer.helltower_red_misc14']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_losing21.mp3,,Scenes:,[]
 Transcription:,Damn you Blutarch!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2002,13 +2002,13 @@ Transcription:,Don't leave the cart!,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,sf13_redmond_losing_push07,,Events:,"['announcer.helltower_red_misc15', 'announcer.helltower_red_misc_rare20', 'announcer.helltower_red_misc05']"
+Filename:,sf13_redmond_losing_push07,,Events:,"['announcer.helltower_red_misc15', 'announcer.helltower_red_misc05', 'announcer.helltower_red_misc_rare20']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_losing_push07.mp3,,Scenes:,[]
 Transcription:,Puuuush!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_losing_push08,,Events:,"['announcer.helltower_red_misc16', 'announcer.helltower_red_misc06', 'announcer.helltower_red_misc_rare21']"
+Filename:,sf13_redmond_losing_push08,,Events:,"['announcer.helltower_red_misc06', 'announcer.helltower_red_misc_rare21', 'announcer.helltower_red_misc16']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_losing_push08.mp3,,Scenes:,[]
 Transcription:,Puuuuuuush!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2224,7 +2224,7 @@ Transcription:,"Sweet mother of gravel, we're winning!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf13_redmond_winning08,,Events:,"['announcer.helltower_red_winning06', 'announcer.helltower_red_winning_rare03']"
+Filename:,sf13_redmond_winning08,,Events:,"['announcer.helltower_red_winning_rare03', 'announcer.helltower_red_winning06']"
 Full Path:,vo/halloween_mann_brothers/sf13_redmond_winning08.mp3,,Scenes:,[]
 Transcription:,"Whatever it is you're doing, keep doing it!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2458,7 +2458,7 @@ Transcription:,Malignant Merasmission...Mastered!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,hall2015_fightmeras_01,,Events:,"['hall2015_fight_merasmus', 'hall2015_get_contract']"
+Filename:,hall2015_fightmeras_01,,Events:,"['hall2015_get_contract', 'hall2015_fight_merasmus']"
 Full Path:,vo/halloween_merasmus/hall2015_fightmeras_01.mp3,,Scenes:,[]
 Transcription:,Here's a contract I like to call: 'Your certain doom!',,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2662,7 +2662,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
-Filename:,hall2015_garg_gone_01,,Events:,"['sf15.merasmus.gargoyle.got', 'sf15.merasmus.gargoyle.gone']"
+Filename:,hall2015_garg_gone_01,,Events:,"['sf15.merasmus.gargoyle.gone', 'sf15.merasmus.gargoyle.got']"
 Full Path:,vo/halloween_merasmus/hall2015_garg_gone_01.mp3,,Scenes:,[]
 Transcription:,The Gargoyle is gone!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2674,7 +2674,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
-Filename:,hall2015_garg_gone_03,,Events:,"['sf15.merasmus.gargoyle.got', 'sf15.merasmus.gargoyle.gone']"
+Filename:,hall2015_garg_gone_03,,Events:,"['sf15.merasmus.gargoyle.gone', 'sf15.merasmus.gargoyle.got']"
 Full Path:,vo/halloween_merasmus/hall2015_garg_gone_03.mp3,,Scenes:,[]
 Transcription:,"The Gargoyle, is gone!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3256,19 +3256,19 @@ Transcription:,Merasmus the Wizard has come for your souls!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_appears09,,Events:,"['halloween.merasmusbombtaunt', 'passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_appears09,,Events:,"['halloween.merasmustauntfakeprop', 'halloween.merasmusbombtaunt', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_appears09.mp3,,Scenes:,[]
 Transcription:,(evil laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_appears10,,Events:,"['halloween.merasmusbombtaunt', 'passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_appears10,,Events:,"['halloween.merasmustauntfakeprop', 'halloween.merasmusbombtaunt', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_appears10.mp3,,Scenes:,[]
 Transcription:,(wicked laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_appears11,,Events:,"['halloween.merasmusbombtaunt', 'passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_appears11,,Events:,"['halloween.merasmustauntfakeprop', 'halloween.merasmusbombtaunt', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_appears11.mp3,,Scenes:,[]
 Transcription:,(diabolical laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3802,13 +3802,13 @@ Transcription:,Bombinomicon! Destroy them!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_bombinomicon03,,Events:,"['halloween.bombsupermove02', 'halloween.merasmuscontrolpoint']"
+Filename:,sf12_bombinomicon03,,Events:,"['halloween.merasmuscontrolpoint', 'halloween.bombsupermove02']"
 Full Path:,vo/halloween_merasmus/sf12_bombinomicon03.mp3,,Scenes:,[]
 Transcription:,By the power...of the Bombinomicon!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_bombinomicon05,,Events:,"['halloween.bombsupermove03', 'halloween.merasmuscontrolpoint']"
+Filename:,sf12_bombinomicon05,,Events:,"['halloween.merasmuscontrolpoint', 'halloween.bombsupermove03']"
 Full Path:,vo/halloween_merasmus/sf12_bombinomicon05.mp3,,Scenes:,[]
 Transcription:,Booooooombinomicon!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3826,7 +3826,7 @@ Transcription:,Cower before the Bombinomicon!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_bombinomicon11,,Events:,"['halloween.bombsupermove06', 'halloween.merasmuscontrolpoint']"
+Filename:,sf12_bombinomicon11,,Events:,"['halloween.merasmuscontrolpoint', 'halloween.bombsupermove06']"
 Full Path:,vo/halloween_merasmus/sf12_bombinomicon11.mp3,,Scenes:,[]
 Transcription:,Beebus Barrasbus Bombinomicon!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3838,25 +3838,25 @@ Transcription:,Bombinomicon! Heed my call!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_bombinomicon14,,Events:,"['halloween.merasmuscontrolpoint', 'halloween.bombsupermove08']"
+Filename:,sf12_bombinomicon14,,Events:,"['halloween.bombsupermove08', 'halloween.merasmuscontrolpoint']"
 Full Path:,vo/halloween_merasmus/sf12_bombinomicon14.mp3,,Scenes:,[]
 Transcription:,Feel the terror...of reading!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_bombinomicon15,,Events:,"['halloween.bombsupermove09', 'halloween.merasmuscontrolpoint']"
+Filename:,sf12_bombinomicon15,,Events:,"['halloween.merasmuscontrolpoint', 'halloween.bombsupermove09']"
 Full Path:,vo/halloween_merasmus/sf12_bombinomicon15.mp3,,Scenes:,[]
 Transcription:,Feel the terror...of books!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_combat_idle01,,Events:,"['passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_combat_idle01,,Events:,"['halloween.merasmustauntfakeprop', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_combat_idle01.mp3,,Scenes:,[]
 Transcription:,(maniacal laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_combat_idle02,,Events:,"['passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_combat_idle02,,Events:,"['halloween.merasmustauntfakeprop', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_combat_idle02.mp3,,Scenes:,[]
 Transcription:,(jolly evil laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4414,7 +4414,7 @@ Transcription:,Hmmm. Where could the best wizard be hiding?,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_hide_idles37,,Events:,"['passtime.merasmus.laugh', 'halloween.merasmustauntfakeprop']"
+Filename:,sf12_hide_idles37,,Events:,"['halloween.merasmustauntfakeprop', 'passtime.merasmus.laugh']"
 Full Path:,vo/halloween_merasmus/sf12_hide_idles37.mp3,,Scenes:,[]
 Transcription:,(evil laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4672,7 +4672,7 @@ Transcription:,Oughhhh!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf12_ranged_attack04,,Events:,"['halloween.merasmusgrenadethrowrare', 'halloween.merasmusbombtaunt']"
+Filename:,sf12_ranged_attack04,,Events:,"['halloween.merasmusbombtaunt', 'halloween.merasmusgrenadethrowrare']"
 Full Path:,vo/halloween_merasmus/sf12_ranged_attack04.mp3,,Scenes:,[]
 Transcription:,You cannot run!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5788,13 +5788,13 @@ Transcription:,"Hurry, get rid of it!",,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_bluwin_01,,Events:,"['sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_bluwin_01,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_bluwin_01.mp3,,Scenes:,[]
 Transcription:,BLU wins!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_bluwin_02,,Events:,"['sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_bluwin_02,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_bluwin_02.mp3,,Scenes:,[]
 Transcription:,BLU wins!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5806,7 +5806,7 @@ Transcription:,BLU WINS!,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_bluwin_04,,Events:,"['sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_bluwin_04,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.duckhunt.winblue', 'sf14.merasmus.soccer.winblue']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_bluwin_04.mp3,,Scenes:,[]
 Transcription:,BLU wins! Awoo!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5842,19 +5842,19 @@ Transcription:,You lose!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_otherteamdead_01,,Events:,"['sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_otherteamdead_01,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_otherteamdead_01.mp3,,Scenes:,[]
 Transcription:,You win! Everyone else is dead!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_otherteamdead_03,,Events:,"['sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_otherteamdead_03,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_otherteamdead_03.mp3,,Scenes:,[]
 Transcription:,"You've killed everyone on the other team! Good stuff, guys! Merasmus is...getting a little misty here.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_otherteamdead_04,,Events:,"['sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred', 'sf14.merasmus.fp.winblue']"
+Filename:,sf14_merasmus_minigame_all_otherteamdead_04,,Events:,"['sf14.merasmus.fp.winblue', 'sf14.merasmus.soccer.winalldead', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_otherteamdead_04.mp3,,Scenes:,[]
 Transcription:,"So instead of winning the game honestly, you just killed everyone on the other team! This is...Merasmus is so proud of you right now!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -5878,25 +5878,25 @@ Transcription:,You win! By murder!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_redwin_01,,Events:,"['sf14.merasmus.fp.winred', 'sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred']"
+Filename:,sf14_merasmus_minigame_all_redwin_01,,Events:,"['sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_redwin_01.mp3,,Scenes:,[]
 Transcription:,RED wins!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_redwin_02,,Events:,"['sf14.merasmus.fp.winred', 'sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred']"
+Filename:,sf14_merasmus_minigame_all_redwin_02,,Events:,"['sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_redwin_02.mp3,,Scenes:,[]
 Transcription:,RED wins!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_redwin_03,,Events:,"['sf14.merasmus.fp.winred', 'sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred']"
+Filename:,sf14_merasmus_minigame_all_redwin_03,,Events:,"['sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_redwin_03.mp3,,Scenes:,[]
 Transcription:,RED wins!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_minigame_all_redwin_04,,Events:,"['sf14.merasmus.fp.winred', 'sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred']"
+Filename:,sf14_merasmus_minigame_all_redwin_04,,Events:,"['sf14.merasmus.duckhunt.winred', 'sf14.merasmus.soccer.winred', 'sf14.merasmus.fp.winred']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_minigame_all_redwin_04.mp3,,Scenes:,[]
 Transcription:,RED wins! Ha ha ha!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -6784,145 +6784,145 @@ Transcription:,They've got the Tickets! Kill them!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_01,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_01,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_01.mp3,,Scenes:,[]
 Transcription:,"Oh good, you're back! That last time I transported you to a nightmare realm of bumper car madness! This time, I promise not to. Go get a Ticket for the Strongmann game!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_02,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_02,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_02.mp3,,Scenes:,[]
 Transcription:,Hah! I tricked you! You thought Merasmus was giving you an innocent circus ride! And instead it was a hellish bumper car slaughter! OK! Go get another ticket for the Strongmann game! This time I'm not tricking you.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_03,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_03,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_03.mp3,,Scenes:,[]
 Transcription:,"I hope you brought your souls with you! Why? Oh no reason! (laughter)"" (Sotto voce) ""Oh, I'm going to take their souls. It's going to be so good! Score one for Merasmus!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_04,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_04,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_04.mp3,,Scenes:,[]
 Transcription:,Go on. Pretend Merasmus isn't even here. Kill everyone like you would normally.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_05,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_05,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_05.mp3,,Scenes:,[]
 Transcription:,"'I don't think any of you are strong enough to best my Strongmann game! Signed: Merasmus.' That's right, I'm having this speech notarized as we speak! It's official: you are too weak!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_06,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_06,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_06.mp3,,Scenes:,[]
 Transcription:,"No Ticket, no ride! Do you think an evil circus runs on souls? Because it does! But not entirely. Mostly it runs on electricity and that costs money.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_07,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_07,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_07.mp3,,Scenes:,[]
 Transcription:,"You know what runs on souls? Inter-dimensional doorways to dark realms beyond the knowing of man! You know what doesn't run on souls? Lightbulbs. They still still use electricity and that costs money. No Ticket, no ride.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_08,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_08,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_08.mp3,,Scenes:,[]
 Transcription:,"Yes, yes! Keep killing each other! Look at those bodies piling up! This will be the greatest circus graveyard of all time! Screw you ancient Sumeria!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_09,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_09,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_09.mp3,,Scenes:,[]
 Transcription:,Can you even trust your own senses? Imagine stepping back from a skeleton you've just knifed to death. Only it is your best friend! That's the kind of psychological thrills you can expect every night at Merasmus' dark circus!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_10,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_10,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_10.mp3,,Scenes:,[]
 Transcription:,"Bonzo, the ancient Sumerian circus god, are you not entertained? What's that? No? You aren't? You there! Spy! Stab somebody!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_11,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_11,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_11.mp3,,Scenes:,[]
 Transcription:,"I summon thee, Bonzo, the ancient Sumerian circus god! Look on my works and arise! No? Later then, Bonzo. You there! Soldier! Kill somebody!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_12,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_12,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_12.mp3,,Scenes:,[]
 Transcription:,"Ugh, I don't have time for you to die of natural causes! You there! Demoman! Bomb someone!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_13,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_13,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_13.mp3,,Scenes:,[]
 Transcription:,Most villains don't think they're evil. They think they're heroes. Not me! I'm reclaiming it! Evil wizard! I'm rotten to the bone and I don't care who knows it!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_14,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_14,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_14.mp3,,Scenes:,[]
 Transcription:,"Look how good you are at killing, mortals! You must be very successful and rich! You could help Merasmus rise from the murky depths of his financial grave! But I warn you, it's twelve thousand dollars deep! Mwa ha ha ha ha ha haaaa...oh no.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_15,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_15,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_15.mp3,,Scenes:,[]
 Transcription:,"Yes, yes! Ancient Sumerian burial ground, my magic ass! By midnight, the circus will be an American graveyard! You're not the only country that can put bodies in a hole, Ancient Sumeria! Buy American everyone!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_16,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_16,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_16.mp3,,Scenes:,[]
 Transcription:,"Do you know what's scarier than a spectral ghoul glimpsed on a moonlit night? The Japanese Mafia! They are not spectral! They are very real! And they are coming to break Merasmus' legs, unless I give them $12,000! Awooo! Aw aw awoo! Help me!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_18,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_18,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_18.mp3,,Scenes:,[]
 Transcription:,"Bonzo, appear! Appear before us! Just try not to appear between the Japanese Mafia and the $12,000 I owe them! They will break all seventeen of your arms!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_20,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_20,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_20.mp3,,Scenes:,[]
 Transcription:,"Here's a chilling Halloween tale: Once upon a time, an innocent evil wizard named Merasmus bought a circus for $12,000, hoping to flip it and make a fortune! Alas, he did not have $12,000, but do you know who did? The Japanese Mafia! But, due to a language barrier, Merasmus was unclear about the frankly punitive interest rates! Welcome to my financial nightmare, mortals! Awwooo ho ho ho ho (crying)...what am I going to do..?",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_21,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_21,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_21.mp3,,Scenes:,[]
 Transcription:,"Attention: foolish mortals! If you see any Japanese people around, let Merasmus know! Because that is the Japanese Mafia! At best, they are here to break his legs! And that is the best-case scenario! It gets a lot, lot darker from there...a lot darker.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_22,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_22,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_22.mp3,,Scenes:,[]
 Transcription:,"Look at you! You're a veritable Murderers' Row of killers! I'll have my graveyard in no time! First, you get the graveyard! Then you get the customers! Then you get the $12,000 to pay back the Japanese Mafia! They burned Merasmus' apartment down! They're animals, mortals!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_23,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_23,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_23.mp3,,Scenes:,[]
 Transcription:,"Just look at those souls of yours! Wasting away in those big, stupid bodies! Oh the things I could do with them! The only thing I can't do is pay off the Japanese Mafia with them. Ha ha! They made that very explicit...American currency only.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_24,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_24,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_24.mp3,,Scenes:,[]
 Transcription:,"My circus isn't very safe, is it? Too bad you can't file a complaint with the Better Business Bureau! Because...wait, I suppose there's nothing stopping you, is there? Well, it appears Merasamus didn't think this through...",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_25,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_25,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_25.mp3,,Scenes:,[]
 Transcription:,"Be afraid, mortals! Bonzo, the ancient Sumerian circus god, is coming! You know who's not scared of Bonzo? The Japanese Mafia! They don't appear to be scared of anything. Except not getting the money I owe them. (nervously) And even that just seems to make them angry...",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_return_26,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_return_26,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_return_26.mp3,,Scenes:,[]
 Transcription:,"I hope you signed your release forms, fools, indemnifying Merasmus in the events of your deaths! (laughter) Because otherwise, I'm in a lot of trouble...Merasmus has two strikes...I will go to jail...FOREVER!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -7012,13 +7012,13 @@ Transcription:,"A harvest moon hangs pendulously in the sky, mortals! That's rig
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_01,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_01,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_01.mp3,,Scenes:,[]
 Transcription:,Get ready to test your strength!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_02,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_02,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_02.mp3,,Scenes:,[]
 Transcription:,Tickets for the Strongmann game are almost on sale!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -7030,7 +7030,7 @@ Transcription:,Merasmus' dark and eldritch circus of the macabre is open! No ref
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_04,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_04,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_04.mp3,,Scenes:,[]
 Transcription:,"Go, go! Test your strength!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -7042,13 +7042,13 @@ Transcription:,"Yes, yes! Kill everyone! Kill anyone! Kill everything that isn't
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_06,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_06,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_06.mp3,,Scenes:,[]
 Transcription:,Go get your tickets! Kill everyone in your way!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_07,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.firstround']"
+Filename:,sf14_merasmus_round_start_short_07,,Events:,"['sf14.merasmus.start.firstround', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_07.mp3,,Scenes:,[]
 Transcription:,The Strongmann! MisFortune Telling! The Necromasher! My circus has it all!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -7072,19 +7072,19 @@ Transcription:,Merasmus' dark carnival...IS OPEN! (laughter),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_11,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_11,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_11.mp3,,Scenes:,[]
 Transcription:,"Go, the gate is up! Run fools! Get your Tickets!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_12,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_12,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_12.mp3,,Scenes:,[]
 Transcription:,What are your waiting for? Go get you Tickets!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sf14_merasmus_round_start_short_13,,Events:,"['sf14.merasmus.start.secondround', 'sf14.merasmus.start.thirdroundandbeyond']"
+Filename:,sf14_merasmus_round_start_short_13,,Events:,"['sf14.merasmus.start.thirdroundandbeyond', 'sf14.merasmus.start.secondround']"
 Full Path:,vo/halloween_merasmus/sf14_merasmus_round_start_short_13.mp3,,Scenes:,[]
 Transcription:,Go get your Tickets! The price is MURDER! (laughter and howling),,Responses:,[]
 Your Line:,,,Rules:,[]

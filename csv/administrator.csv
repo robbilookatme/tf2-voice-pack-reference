@@ -16,19 +16,19 @@ Transcription:,Alert! The center control point is being contested!,,Responses:,[
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,announcer_am_capenabled01,,Events:,"['announcer.am_capenabled01', 'announcer.am_capenabledrandom']"
+Filename:,announcer_am_capenabled01,,Events:,"['announcer.am_capenabledrandom', 'announcer.am_capenabled01']"
 Full Path:,vo/announcer_am_capenabled01.mp3,,Scenes:,[]
 Transcription:,Control point enabled.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_capenabled02,,Events:,"['announcer.am_capenabledrandom', 'announcer.am_capenabled02']"
+Filename:,announcer_am_capenabled02,,Events:,"['announcer.am_capenabled02', 'announcer.am_capenabledrandom']"
 Full Path:,vo/announcer_am_capenabled02.mp3,,Scenes:,[]
 Transcription:,The point is now available for capture.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_capenabled03,,Events:,"['announcer.am_capenabled03', 'announcer.am_capenabledrandom']"
+Filename:,announcer_am_capenabled03,,Events:,"['announcer.am_capenabledrandom', 'announcer.am_capenabled03']"
 Full Path:,vo/announcer_am_capenabled03.mp3,,Scenes:,[]
 Transcription:,"Control point enabled, get going!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -82,19 +82,19 @@ Transcription:,First blood.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_firstblood02,,Events:,"['announcer.am_firstbloodrandom', 'announcer.am_firstblood02']"
+Filename:,announcer_am_firstblood02,,Events:,"['announcer.am_firstblood02', 'announcer.am_firstbloodrandom']"
 Full Path:,vo/announcer_am_firstblood02.mp3,,Scenes:,[]
 Transcription:,First blood!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_firstblood03,,Events:,"['announcer.am_firstbloodfinally', 'announcer.am_firstblood03']"
+Filename:,announcer_am_firstblood03,,Events:,"['announcer.am_firstblood03', 'announcer.am_firstbloodfinally']"
 Full Path:,vo/announcer_am_firstblood03.mp3,,Scenes:,[]
 Transcription:,"First blood, finally!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_firstblood04,,Events:,"['announcer.am_firstblood04', 'announcer.am_firstbloodrandom']"
+Filename:,announcer_am_firstblood04,,Events:,"['announcer.am_firstbloodrandom', 'announcer.am_firstblood04']"
 Full Path:,vo/announcer_am_firstblood04.mp3,,Scenes:,[]
 Transcription:,First blood!!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -136,7 +136,7 @@ Transcription:,Next time try killing one of them.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_flawlessvictory01,,Events:,"['announcer.am_flawlessvictory01', 'announcer.am_flawlessvictoryrandom']"
+Filename:,announcer_am_flawlessvictory01,,Events:,"['announcer.am_flawlessvictoryrandom', 'announcer.am_flawlessvictory01']"
 Full Path:,vo/announcer_am_flawlessvictory01.mp3,,Scenes:,[]
 Transcription:,Flawless victory!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -196,13 +196,13 @@ Transcription:,Well done!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_killstreak03,,Events:,"['announcer.am_killstreak03', 'announcer.trkilltargetrandom']"
+Filename:,announcer_am_killstreak03,,Events:,"['announcer.trkilltargetrandom', 'announcer.am_killstreak03']"
 Full Path:,vo/announcer_am_killstreak03.mp3,,Scenes:,[]
 Transcription:,Amazing!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_killstreak04,,Events:,"['announcer.am_killstreak04', 'announcer.trkilltargetrandom']"
+Filename:,announcer_am_killstreak04,,Events:,"['announcer.trkilltargetrandom', 'announcer.am_killstreak04']"
 Full Path:,vo/announcer_am_killstreak04.mp3,,Scenes:,[]
 Transcription:,You're a maniac!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -214,7 +214,7 @@ Transcription:,You're a crazed killer!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_killstreak06,,Events:,"['announcer.am_killstreak06', 'announcer.trkilltargetrandom']"
+Filename:,announcer_am_killstreak06,,Events:,"['announcer.trkilltargetrandom', 'announcer.am_killstreak06']"
 Full Path:,vo/announcer_am_killstreak06.mp3,,Scenes:,[]
 Transcription:,Good job. Let's see some more.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -232,7 +232,7 @@ Transcription:,Yes!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_killstreak09,,Events:,"['announcer.am_killstreak09', 'announcer.trkilltargetrandom']"
+Filename:,announcer_am_killstreak09,,Events:,"['announcer.trkilltargetrandom', 'announcer.am_killstreak09']"
 Full Path:,vo/announcer_am_killstreak09.mp3,,Scenes:,[]
 Transcription:,"Oh, I love this.",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -244,7 +244,7 @@ Transcription:,Crazed killer!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_killstreak11,,Events:,"['announcer.trkilltargetrandom', 'announcer.am_killstreak11']"
+Filename:,announcer_am_killstreak11,,Events:,"['announcer.am_killstreak11', 'announcer.trkilltargetrandom']"
 Full Path:,vo/announcer_am_killstreak11.mp3,,Scenes:,[]
 Transcription:,Maniac!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -310,31 +310,31 @@ Transcription:,"Start fighting, now!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_roundstart03,,Events:,"['announcer.am_roundstartrandom', 'announcer.am_roundstart03']"
+Filename:,announcer_am_roundstart03,,Events:,"['announcer.am_roundstart03', 'announcer.am_roundstartrandom']"
 Full Path:,vo/announcer_am_roundstart03.mp3,,Scenes:,[]
 Transcription:,Begin!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_roundstart04,,Events:,"['announcer.am_roundstart04', 'announcer.am_roundstartrandom']"
+Filename:,announcer_am_roundstart04,,Events:,"['announcer.am_roundstartrandom', 'announcer.am_roundstart04']"
 Full Path:,vo/announcer_am_roundstart04.mp3,,Scenes:,[]
 Transcription:,Fight to the death!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_teamscramble01,,Events:,"['announcer.am_teamscramble01', 'announcer.am_teamscramblerandom']"
+Filename:,announcer_am_teamscramble01,,Events:,"['announcer.am_teamscramblerandom', 'announcer.am_teamscramble01']"
 Full Path:,vo/announcer_am_teamscramble01.mp3,,Scenes:,[]
 Transcription:,Let's even this out. Team scramble!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_teamscramble02,,Events:,"['announcer.am_teamscramble02', 'announcer.am_teamscramblerandom']"
+Filename:,announcer_am_teamscramble02,,Events:,"['announcer.am_teamscramblerandom', 'announcer.am_teamscramble02']"
 Full Path:,vo/announcer_am_teamscramble02.mp3,,Scenes:,[]
 Transcription:,"Commence team scramble, now.",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_am_teamscramble03,,Events:,"['announcer.am_teamscramble03', 'announcer.am_teamscramblerandom']"
+Filename:,announcer_am_teamscramble03,,Events:,"['announcer.am_teamscramblerandom', 'announcer.am_teamscramble03']"
 Full Path:,vo/announcer_am_teamscramble03.mp3,,Scenes:,[]
 Transcription:,Teams are being scrambled.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -778,13 +778,13 @@ Transcription:,Alert! Our control point is being captured.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_control_point_warning2,,Events:,"['announcer.controlpointcontested', 'announcer.controlpointcontested_neutral']"
+Filename:,announcer_control_point_warning2,,Events:,"['announcer.controlpointcontested_neutral', 'announcer.controlpointcontested']"
 Full Path:,vo/announcer_control_point_warning2.mp3,,Scenes:,[]
 Transcription:,Alert! The control point is being contested.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_control_point_warning3,,Events:,"['announcer.controlpointcontested', 'announcer.controlpointcontested_neutral']"
+Filename:,announcer_control_point_warning3,,Events:,"['announcer.controlpointcontested_neutral', 'announcer.controlpointcontested']"
 Full Path:,vo/announcer_control_point_warning3.mp3,,Scenes:,[]
 Transcription:,Alert! The control point is being captured.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1984,7 +1984,7 @@ Transcription:,The enemy has received additional time.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_time_awarded,,Events:,"['announcer.timeawarded', 'announcer.timeawardedforteam']"
+Filename:,announcer_time_awarded,,Events:,"['announcer.timeawardedforteam', 'announcer.timeawarded']"
 Full Path:,vo/announcer_time_awarded.mp3,,Scenes:,[]
 Transcription:,Additional time has been awarded.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1996,7 +1996,7 @@ Transcription:,Congratulations. We have been awarded additional time.,,Responses
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,announcer_time_awarded_success,,Events:,"['announcer.timeawardedsuccess', 'announcer.timeawardedforteam']"
+Filename:,announcer_time_awarded_success,,Events:,"['announcer.timeawardedforteam', 'announcer.timeawardedsuccess']"
 Full Path:,vo/announcer_time_awarded_success.mp3,,Scenes:,[]
 Transcription:,Success. We have been awarded additional time.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2110,31 +2110,31 @@ Transcription:,You've failed. The enemy has secured our intelligence.,,Responses
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_enemydropped,,Events:,"['mvm.attackdefend.enemydropped', 'captureflag.enemydropped', 'resource.enemydropped']"
+Filename:,intel_enemydropped,,Events:,"['resource.enemydropped', 'captureflag.enemydropped', 'mvm.attackdefend.enemydropped']"
 Full Path:,vo/intel_enemydropped.mp3,,Scenes:,[]
 Transcription:,The enemy has dropped our intelligence.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_enemydropped2,,Events:,"['mvm.attackdefend.enemydropped', 'captureflag.enemydropped', 'resource.enemydropped']"
+Filename:,intel_enemydropped2,,Events:,"['resource.enemydropped', 'captureflag.enemydropped', 'mvm.attackdefend.enemydropped']"
 Full Path:,vo/intel_enemydropped2.mp3,,Scenes:,[]
 Transcription:,The enemy has dropped our intelligence.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_enemyreturned,,Events:,"['captureflag.enemyreturned', 'resource.enemyreturned']"
+Filename:,intel_enemyreturned,,Events:,"['resource.enemyreturned', 'captureflag.enemyreturned']"
 Full Path:,vo/intel_enemyreturned.mp3,,Scenes:,[]
 Transcription:,Our intelligence has returned to our base.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_enemyreturned2,,Events:,"['captureflag.enemyreturned', 'resource.enemyreturned']"
+Filename:,intel_enemyreturned2,,Events:,"['resource.enemyreturned', 'captureflag.enemyreturned']"
 Full Path:,vo/intel_enemyreturned2.mp3,,Scenes:,[]
 Transcription:,Our intelligence has returned to our base.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_enemyreturned3,,Events:,"['captureflag.enemyreturned', 'resource.enemyreturned']"
+Filename:,intel_enemyreturned3,,Events:,"['resource.enemyreturned', 'captureflag.enemyreturned']"
 Full Path:,vo/intel_enemyreturned3.mp3,,Scenes:,[]
 Transcription:,Our intelligence has returned to our base.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2188,13 +2188,13 @@ Transcription:,"(Metal guitar, cheering) ""Success! We have secured the enemy in
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_teamdropped,,Events:,"['captureflag.teamdropped', 'resource.teamdropped']"
+Filename:,intel_teamdropped,,Events:,"['resource.teamdropped', 'captureflag.teamdropped']"
 Full Path:,vo/intel_teamdropped.mp3,,Scenes:,[]
 Transcription:,We have dropped the enemy intelligence!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_teamdropped2,,Events:,"['captureflag.teamdropped', 'resource.teamdropped']"
+Filename:,intel_teamdropped2,,Events:,"['resource.teamdropped', 'captureflag.teamdropped']"
 Full Path:,vo/intel_teamdropped2.mp3,,Scenes:,[]
 Transcription:,We have dropped the enemy intelligence.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2206,7 +2206,7 @@ Transcription:,The enemy intelligence was returned to their base.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,intel_teamstolen,,Events:,"['captureflag.teamstolen', 'resource.teamstolen']"
+Filename:,intel_teamstolen,,Events:,"['resource.teamstolen', 'captureflag.teamstolen']"
 Full Path:,vo/intel_teamstolen.mp3,,Scenes:,[]
 Transcription:,We have taken the enemy intelligence.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -3346,73 +3346,73 @@ Transcription:,You've beaten them back. For the moment.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose01,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose01,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose01.mp3,,Scenes:,[]
 Transcription:,Wave lost!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose02,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose']"
+Filename:,mvm_wave_lose02,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose02.mp3,,Scenes:,[]
 Transcription:,How could you let them beat us?!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose03,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose03,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose']"
 Full Path:,vo/mvm_wave_lose03.mp3,,Scenes:,[]
 Transcription:,"Wave lost, how could you?!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose04,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose']"
+Filename:,mvm_wave_lose04,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose04.mp3,,Scenes:,[]
 Transcription:,They're beating us! Fight harder!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose05,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose05,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose']"
 Full Path:,vo/mvm_wave_lose05.mp3,,Scenes:,[]
 Transcription:,Wave lost. Get back out there and win this time!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose06,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose06,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose']"
 Full Path:,vo/mvm_wave_lose06.mp3,,Scenes:,[]
 Transcription:,Get back out there and fight harder!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose07,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose07,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose']"
 Full Path:,vo/mvm_wave_lose07.mp3,,Scenes:,[]
 Transcription:,Wave lost. I'm running out of patience!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose08,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose']"
+Filename:,mvm_wave_lose08,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose08.mp3,,Scenes:,[]
 Transcription:,You've lost the wave. Perhaps I should just hire them!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose09,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose09,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose09.mp3,,Scenes:,[]
 Transcription:,Wave lost.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose10,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose10,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose10.mp3,,Scenes:,[]
 Transcription:,Wave lost!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose11,,Events:,"['announcer.mvm_robots_planted', 'announcer.mvm_wave_lose']"
+Filename:,mvm_wave_lose11,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_robots_planted']"
 Full Path:,vo/mvm_wave_lose11.mp3,,Scenes:,[]
 Transcription:,They're beating us!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,mvm_wave_lose12,,Events:,"['announcer.mvm_wave_lose', 'announcer.mvm_tank_planted']"
+Filename:,mvm_wave_lose12,,Events:,"['announcer.mvm_tank_planted', 'announcer.mvm_wave_lose']"
 Full Path:,vo/mvm_wave_lose12.mp3,,Scenes:,[]
 Transcription:,Wave lost! You imbeciles.,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4030,7 +4030,7 @@ Transcription:,Fight!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_admin_compbeginsstart_05,,Events:,"['announcer.compfinalgamebeginsfight', 'announcer.compgamebeginsfight']"
+Filename:,cm_admin_compbeginsstart_05,,Events:,"['announcer.compgamebeginsfight', 'announcer.compfinalgamebeginsfight']"
 Full Path:,vo/compmode/cm_admin_compbeginsstart_05.mp3,,Scenes:,[]
 Transcription:,FIGHT!,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -4192,25 +4192,25 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_admin_matchwin_rare_01,,Events:,"['announcer.compmatchwinred', 'announcer.compmatchwinblu']"
+Filename:,cm_admin_matchwin_rare_01,,Events:,"['announcer.compmatchwinblu', 'announcer.compmatchwinred']"
 Full Path:,vo/compmode/cm_admin_matchwin_rare_01.mp3,,Scenes:,[]
 Transcription:,Good game.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_admin_matchwin_rare_02,,Events:,"['announcer.compmatchwinred', 'announcer.compmatchwinblu']"
+Filename:,cm_admin_matchwin_rare_02,,Events:,"['announcer.compmatchwinblu', 'announcer.compmatchwinred']"
 Full Path:,vo/compmode/cm_admin_matchwin_rare_02.mp3,,Scenes:,[]
 Transcription:,Excellent game!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_admin_matchwin_rare_03,,Events:,"['announcer.compmatchwinred', 'announcer.compmatchwinblu']"
+Filename:,cm_admin_matchwin_rare_03,,Events:,"['announcer.compmatchwinblu', 'announcer.compmatchwinred']"
 Full Path:,vo/compmode/cm_admin_matchwin_rare_03.mp3,,Scenes:,[]
 Transcription:,Well played!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_admin_matchwin_rare_04,,Events:,"['announcer.compmatchwinred', 'announcer.compmatchwinblu']"
+Filename:,cm_admin_matchwin_rare_04,,Events:,"['announcer.compmatchwinblu', 'announcer.compmatchwinred']"
 Full Path:,vo/compmode/cm_admin_matchwin_rare_04.mp3,,Scenes:,[]
 Transcription:,"Oh yes, uh, 'GG'.",,Responses:,[]
 Your Line:,,,Rules:,[]

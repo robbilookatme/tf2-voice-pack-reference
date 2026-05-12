@@ -212,14 +212,14 @@
             "pyro.autocappedintelligence01"
         ],
         "responses": [
-            "MeleeDarePyro",
+            "PlayerCappedIntelligencePyro",
             "MeleeDareCombatPyro",
-            "PlayerCappedIntelligencePyro"
+            "MeleeDarePyro"
         ],
         "rules": [
-            "MeleeDarePyro",
+            "PlayerCappedIntelligencePyro",
             "MeleeDareCombatPyro",
-            "PlayerCappedIntelligencePyro"
+            "MeleeDarePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1409.vcd"
@@ -248,14 +248,14 @@
             "pyro.autodejectedtie01"
         ],
         "responses": [
+            "RejectedDuelPyro",
             "PyroJarateHit",
-            "PlayerStalematePyro",
-            "RejectedDuelPyro"
+            "PlayerStalematePyro"
         ],
         "rules": [
+            "RejectedDuelPyro",
             "PyroJarateHit",
-            "PlayerStalematePyro",
-            "RejectedDuelPyro"
+            "PlayerStalematePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1412.vcd"
@@ -282,12 +282,12 @@
             "pyro.autoonfire01"
         ],
         "responses": [
-            "AcceptedDuelPyro",
-            "PlayerOnFirePyro"
+            "PlayerOnFirePyro",
+            "AcceptedDuelPyro"
         ],
         "rules": [
-            "AcceptedDuelPyro",
-            "PlayerOnFirePyro"
+            "PlayerOnFirePyro",
+            "AcceptedDuelPyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1415.vcd"
@@ -351,14 +351,14 @@
             "pyro.battlecry01"
         ],
         "responses": [
-            "PlayerBattleCryPyro",
             "PlayerRoundStartPyro",
-            "PlayerKilledForRevengePyro"
+            "PlayerKilledForRevengePyro",
+            "PlayerBattleCryPyro"
         ],
         "rules": [
-            "PlayerBattleCryPyro",
             "PlayerRoundStartPyro",
-            "PlayerKilledForRevengePyro"
+            "PlayerKilledForRevengePyro",
+            "PlayerBattleCryPyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1418.vcd"
@@ -386,14 +386,14 @@
             "pyro.battlecry02"
         ],
         "responses": [
-            "PlayerBattleCryPyro",
+            "RejectedDuelPyro",
             "PlayerRoundStartPyro",
-            "RejectedDuelPyro"
+            "PlayerBattleCryPyro"
         ],
         "rules": [
-            "PlayerBattleCryPyro",
+            "RejectedDuelPyro",
             "PlayerRoundStartPyro",
-            "RejectedDuelPyro"
+            "PlayerBattleCryPyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1419.vcd"
@@ -418,17 +418,17 @@
             "pyro.cheers01"
         ],
         "responses": [
-            "PlayerKilledCapperPyro",
             "PlayerCheersPyro",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "PlayerKilledCapperPyro"
         ],
         "rules": [
-            "PlayerKilledCapperPyro",
-            "PlayerCheersPyro"
+            "PlayerCheersPyro",
+            "PlayerKilledCapperPyro"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
-            "scenes/player/pyro/low/1421.vcd"
+            "scenes/player/pyro/low/1421.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd"
         ],
         "state": "used",
         "transcript": "Fhanks a lah!"
@@ -508,36 +508,36 @@
             "pyro.cloakedspyidentify01"
         ],
         "responses": [
-            "PlayerCloakedSpyDemomanPyro",
-            "PlayerCloakedSpySniperPyro",
-            "PlayerCloakedSpySpyPyro",
             "PlayerCloakedSpyMedicPyro",
+            "PlayerCloakedSpySniperPyro",
             "PlayerCloakedSpyScoutPyro",
+            "PlayerCloakedSpySpyPyro",
+            "RejectedDuelPyro",
             "PlayerCloakedSpyHeavyPyro",
-            "PlayerCloakedSpyEngineerPyro",
             "PlayerCloakedSpyPyroPyro",
-            "RejectedDuelPyro"
+            "PlayerCloakedSpyDemomanPyro",
+            "PlayerCloakedSpyEngineerPyro"
         ],
         "rules": [
-            "PlayerCloakedSpyDemomanPyro",
-            "PlayerCloakedSpySniperPyro",
-            "PlayerCloakedSpySpyPyro",
             "PlayerCloakedSpyMedicPyro",
+            "PlayerCloakedSpySniperPyro",
             "PlayerCloakedSpyScoutPyro",
+            "PlayerCloakedSpySpyPyro",
+            "RejectedDuelPyro",
             "PlayerCloakedSpyHeavyPyro",
-            "PlayerCloakedSpyEngineerPyro",
             "PlayerCloakedSpyPyroPyro",
-            "RejectedDuelPyro"
+            "PlayerCloakedSpyDemomanPyro",
+            "PlayerCloakedSpyEngineerPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1438.vcd",
-            "scenes/player/pyro/low/1444.vcd",
-            "scenes/player/pyro/low/1440.vcd",
-            "scenes/player/pyro/low/1442.vcd",
-            "scenes/player/pyro/low/1448.vcd",
             "scenes/player/pyro/low/1432.vcd",
-            "scenes/player/pyro/low/1436.vcd",
-            "scenes/player/pyro/low/1446.vcd"
+            "scenes/player/pyro/low/1438.vcd",
+            "scenes/player/pyro/low/1440.vcd",
+            "scenes/player/pyro/low/1448.vcd",
+            "scenes/player/pyro/low/1442.vcd",
+            "scenes/player/pyro/low/1444.vcd",
+            "scenes/player/pyro/low/1446.vcd",
+            "scenes/player/pyro/low/1436.vcd"
         ],
         "state": "used",
         "transcript": "Ah hyro ifva phy!"
@@ -551,9 +551,9 @@
             ]
         ],
         "events": [
-            "pyro.readycomp",
             "pyro.go01",
             "pyro.ready",
+            "pyro.readycomp",
             "pyro.readymvm"
         ],
         "responses": [
@@ -582,26 +582,26 @@
             ]
         ],
         "events": [
-            "pyro.goodjob01",
             "pyro.scardy_cat_b",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_roasty_toasty_loop_2",
+            "pyro.goodjob01"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
-            "Taunt: Scorcher's Solo",
-            "PlayerGoodJobPyro",
             "Taunt: Roasty Toasty",
-            "PyroMvMLootCommon"
+            "Taunt: The Scaredy-Cat!",
+            "PyroMvMLootCommon",
+            "Taunt: Scorcher's Solo",
+            "PlayerGoodJobPyro"
         ],
         "rules": [
-            "PlayerGoodJobPyro",
-            "PyroMvMLootCommon"
+            "PyroMvMLootCommon",
+            "PlayerGoodJobPyro"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
-            "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd",
+            "scenes/player/pyro/low/1454.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/player/pyro/low/1454.vcd"
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "Gvuuh jovhh."
@@ -666,21 +666,21 @@
             "pyro.headright01"
         ],
         "responses": [
+            "PyroTauntItem1",
             "PlayerHeadRightPyro",
-            "PyroTauntSecondary",
-            "PyroTauntItem1"
+            "PyroTauntSecondary"
         ],
         "rules": [
-            "PyroTauntPlayerItem1",
-            "PlayerHeadRightPyro",
-            "PyroTauntSlap",
-            "PyroTauntGasCan",
             "PyroTauntManmelter",
-            "PyroTauntPlayerSecondary"
+            "PyroTauntPlayerSecondary",
+            "PyroTauntSlap",
+            "PlayerHeadRightPyro",
+            "PyroTauntGasCan",
+            "PyroTauntPlayerItem1"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1460.vcd",
-            "scenes/player/pyro/low/taunt02.vcd"
+            "scenes/player/pyro/low/taunt02.vcd",
+            "scenes/player/pyro/low/1460.vcd"
         ],
         "state": "used",
         "transcript": "OOoh la ruuh!"
@@ -726,12 +726,12 @@
             "pyro.helpmecapture01"
         ],
         "responses": [
-            "PlayerHelpCapturePyro",
-            "RejectedDuelPyro"
+            "RejectedDuelPyro",
+            "PlayerHelpCapturePyro"
         ],
         "rules": [
-            "PlayerHelpCapturePyro",
-            "RejectedDuelPyro"
+            "RejectedDuelPyro",
+            "PlayerHelpCapturePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1466.vcd"
@@ -756,12 +756,12 @@
             "pyro.helpmedefend01"
         ],
         "responses": [
-            "PlayerHelpDefendPyro",
-            "RejectedDuelPyro"
+            "RejectedDuelPyro",
+            "PlayerHelpDefendPyro"
         ],
         "rules": [
-            "PlayerHelpDefendPyro",
-            "RejectedDuelPyro"
+            "RejectedDuelPyro",
+            "PlayerHelpDefendPyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1469.vcd"
@@ -808,8 +808,8 @@
             "pyro.jeers01"
         ],
         "responses": [
-            "Taunt: The Critical Fail",
             "PlayerSuddenDeathPyro",
+            "Taunt: The Critical Fail",
             "PlayerJeersPyro"
         ],
         "rules": [
@@ -817,8 +817,8 @@
             "PlayerJeersPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1476.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
+            "scenes/player/pyro/low/1476.vcd"
         ],
         "state": "used",
         "transcript": "Bvoooh!"
@@ -836,8 +836,8 @@
             ]
         ],
         "events": [
-            "pyro_taunt_spring_rider_pyro_jeers02",
-            "pyro.jeers02"
+            "pyro.jeers02",
+            "pyro_taunt_spring_rider_pyro_jeers02"
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
@@ -849,8 +849,8 @@
             "PlayerJeersPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1477.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/player/pyro/low/1477.vcd"
         ],
         "state": "used",
         "transcript": "Yahf fvaorarh!"
@@ -876,13 +876,13 @@
             "pyro.laugh_addl04"
         ],
         "responses": [
+            "Taunt: The Schadenfreude",
             "PyroTauntArmageddon",
-            "PyroTauntLaugh",
-            "Taunt: The Schadenfreude"
+            "PyroTauntLaugh"
         ],
         "rules": [
-            "PyroTauntArmageddon",
             "PyroTauntAprilFools",
+            "PyroTauntArmageddon",
             "PyroTauntLaugh"
         ],
         "scenes": [
@@ -916,24 +916,24 @@
             "pyro.laughevil01"
         ],
         "responses": [
-            "PyroTauntPrimary",
             "PlayerKilledDominatingPyro",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "PyroTauntPrimary"
         ],
         "rules": [
             "PlayerKilledDominatingPyro",
-            "PyroTauntDragonsFury",
-            "PyroTauntPlayerPrimary"
+            "PyroTauntPlayerPrimary",
+            "PyroTauntDragonsFury"
         ],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
-            "scenes/player/pyro/low/1450.vcd",
             "scenes/player/pyro/low/taunt01_v3.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd"
+            "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/1450.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh"
@@ -960,29 +960,29 @@
             ]
         ],
         "events": [
-            "pyro_taunt_roasty_toasty_loop_3",
-            "pyro_taunt_the_final_score_pyro_pyro_laughevil02",
             "taunt_springrider_giggles",
-            "pyro.laughevil02"
+            "pyro.laughevil02",
+            "pyro_taunt_the_final_score_pyro_pyro_laughevil02",
+            "pyro_taunt_roasty_toasty_loop_3"
         ],
         "responses": [
-            "Taunt: The Final Score",
-            "Taunt: The Balloonibouncer",
             "Taunt: Roasty Toasty",
-            "PyroMvmResurrected",
+            "MeleeDareCombatPyro",
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Final Score",
             "PlayerKilledDominatingPyro",
-            "MeleeDareCombatPyro"
+            "PyroMvmResurrected"
         ],
         "rules": [
-            "PyroMvmResurrected",
             "PlayerKilledDominatingPyro",
-            "MeleeDareCombatPyro"
+            "MeleeDareCombatPyro",
+            "PyroMvmResurrected"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/player/pyro/low/1482.vcd"
+            "scenes/player/pyro/low/1482.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh"
@@ -1007,8 +1007,8 @@
             "PlayerPositivePyro"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/player/pyro/low/1563.vcd"
+            "scenes/player/pyro/low/1563.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh"
@@ -1026,28 +1026,28 @@
             ]
         ],
         "events": [
-            "pyro.laughevil04",
+            "taunt_springrider_giggles",
             "pyro_taunt_roasty_toasty_outro",
             "pyro_taunt_roasty_toasty_pyro_laughevil04",
-            "taunt_springrider_giggles"
+            "pyro.laughevil04"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
+            "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
-            "Taunt: Cremators Condolences",
             "PlayerTauntsPyro",
-            "PyroMvmResurrected",
-            "Taunt: Roasty Toasty"
+            "Taunt: The Fist Bump",
+            "Taunt: Cremators Condolences",
+            "PyroMvmResurrected"
         ],
         "rules": [
-            "PyroMvmResurrected",
-            "PlayerPositivePyro"
+            "PlayerPositivePyro",
+            "PyroMvmResurrected"
         ],
         "scenes": [
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/player/pyro/low/1595.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
             "scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd"
         ],
         "state": "used",
@@ -1072,12 +1072,12 @@
             "pyro.laughhappy01"
         ],
         "responses": [
-            "PyroMvMLootUltraRare",
-            "PlayerKilledDominatingPyro"
+            "PlayerKilledDominatingPyro",
+            "PyroMvMLootUltraRare"
         ],
         "rules": [
-            "PyroMvMLootUltraRare",
-            "PlayerKilledDominatingPyro"
+            "PlayerKilledDominatingPyro",
+            "PyroMvMLootUltraRare"
         ],
         "scenes": [
             "scenes/player/pyro/low/1483.vcd"
@@ -1104,15 +1104,15 @@
             ]
         ],
         "events": [
+            "taunt_springrider_giggles",
             "pyro_taunt_flag",
-            "pyro.laughlong01",
-            "taunt_springrider_giggles"
+            "pyro.laughlong01"
         ],
         "responses": [
-            "InvulnerableSpeechPyro",
             "PlayerKilledDominatingPyro",
+            "Taunt: The Balloonibouncer",
             "Taunt: Flying Colors",
-            "Taunt: The Balloonibouncer"
+            "InvulnerableSpeechPyro"
         ],
         "rules": [
             "PlayerKilledDominatingPyro",
@@ -1281,20 +1281,20 @@
             ]
         ],
         "events": [
-            "pyro.scardy_cat_b",
             "pyro_taunt_neck_snap_04",
-            "pyro.negativevocalization01",
-            "taunt_burstchester_pyro_happy"
+            "taunt_burstchester_pyro_happy",
+            "pyro.scardy_cat_b",
+            "pyro.negativevocalization01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerNegativePyro",
-            "Taunt: The Scaredy-Cat!",
-            "Taunt: Neck Snap",
-            "Taunt: The Critical Fail",
-            "Taunt: Unleashed Rage",
             "PlayerLostPointPyro",
-            "MeleeDarePyro"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: The Critical Fail",
+            "Taunt: Neck Snap",
+            "Taunt: Unleashed Rage",
+            "Taunt: Burstchester",
+            "MeleeDarePyro",
+            "PlayerNegativePyro"
         ],
         "rules": [
             "PlayerLostPointPyro",
@@ -1302,11 +1302,11 @@
             "PlayerNegativePyro"
         ],
         "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/player/pyro/low/1499.vcd",
             "scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd",
-            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
@@ -1321,8 +1321,8 @@
             ]
         ],
         "events": [
-            "pyro.niceshot01",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_roasty_toasty_loop_2",
+            "pyro.niceshot01"
         ],
         "responses": [
             "Taunt: Roasty Toasty",
@@ -1376,23 +1376,23 @@
             ]
         ],
         "events": [
+            "pyro.paincrticialdeath01",
             "pyro.critdeath",
             "pyro.meleedeath",
-            "pyro.paincrticialdeath01",
             "pyro.scardy_cat",
             "mvm.playerdiedpyro"
         ],
         "responses": [
-            "PyroTauntPrimary",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "PyroTauntPrimary"
         ],
         "rules": [
-            "PyroTauntDragonsFury",
-            "PyroTauntPlayerPrimary"
+            "PyroTauntPlayerPrimary",
+            "PyroTauntDragonsFury"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
-            "scenes/player/pyro/low/taunt01_v1.vcd"
+            "scenes/player/pyro/low/taunt01_v1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Muffled dying scream 1)"
@@ -1403,8 +1403,8 @@
         "events": [
             "pyro.critdeath",
             "pyro.meleedeath",
-            "pyro.scardy_cat",
             "pyro.paincrticialdeath02",
+            "pyro.scardy_cat",
             "mvm.playerdiedpyro"
         ],
         "responses": [
@@ -1439,13 +1439,13 @@
             "mvm.playerdiedpyro"
         ],
         "responses": [
-            "PyroTauntPrimary",
             "Taunt: The Scaredy-Cat!",
+            "PyroTauntPrimary",
             "Taunt: Unleashed Rage"
         ],
         "rules": [
-            "PyroTauntDragonsFury",
-            "PyroTauntPlayerPrimary"
+            "PyroTauntPlayerPrimary",
+            "PyroTauntDragonsFury"
         ],
         "scenes": [
             "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
@@ -1494,21 +1494,21 @@
             "pyro.painsevere01"
         ],
         "responses": [
+            "PyroTauntItem1",
             "PlayerAttackerPainPyro",
-            "PyroTauntSecondary",
-            "PyroTauntItem1"
+            "PyroTauntSecondary"
         ],
         "rules": [
-            "PyroTauntPlayerItem1",
-            "PyroTauntSlap",
-            "PyroTauntGasCan",
             "PyroTauntManmelter",
+            "PyroTauntPlayerSecondary",
+            "PyroTauntSlap",
             "PlayerAttackerPainPyro",
-            "PyroTauntPlayerSecondary"
+            "PyroTauntGasCan",
+            "PyroTauntPlayerItem1"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1581.vcd",
-            "scenes/player/pyro/low/taunt02.vcd"
+            "scenes/player/pyro/low/taunt02.vcd",
+            "scenes/player/pyro/low/1581.vcd"
         ],
         "state": "used",
         "transcript": "Aaah!"
@@ -1523,8 +1523,8 @@
             ]
         ],
         "events": [
-            "pyro.death",
-            "pyro.painsevere02"
+            "pyro.painsevere02",
+            "pyro.death"
         ],
         "responses": [
             "PlayerAttackerPainPyro"
@@ -1548,8 +1548,8 @@
             ]
         ],
         "events": [
-            "pyro.death",
-            "pyro.painsevere03"
+            "pyro.painsevere03",
+            "pyro.death"
         ],
         "responses": [
             "PlayerAttackerPainPyro"
@@ -1573,8 +1573,8 @@
             ]
         ],
         "events": [
-            "pyro.death",
-            "pyro.painsevere04"
+            "pyro.painsevere04",
+            "pyro.death"
         ],
         "responses": [
             "PlayerAttackerPainPyro"
@@ -1623,8 +1623,8 @@
             ]
         ],
         "events": [
-            "pyro.death",
-            "pyro.painsevere06"
+            "pyro.painsevere06",
+            "pyro.death"
         ],
         "responses": [
             "PlayerAttackerPainPyro"
@@ -1660,20 +1660,20 @@
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "PlayerPainPyro",
+            "Taunt: The Hot Wheeler",
             "PlayerStillOnFirePyro",
-            "Taunt: The Hot Wheeler"
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro",
             "PlayerStillOnFirePyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1930.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd",
-            "scenes/player/pyro/low/1584.vcd"
+            "scenes/player/pyro/low/1584.vcd",
+            "scenes/player/pyro/low/1930.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oof!"
@@ -1695,23 +1695,23 @@
             ]
         ],
         "events": [
-            "pyro.explosiondeath",
             "pyro.painsharp02",
+            "pyro.explosiondeath",
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "PlayerPainPyro",
-            "PlayerStillOnFirePyro"
+            "PlayerStillOnFirePyro",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro",
             "PlayerStillOnFirePyro"
         ],
         "scenes": [
+            "scenes/player/pyro/low/1585.vcd",
             "scenes/player/pyro/low/1930.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/player/pyro/low/1585.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ah!"
@@ -1726,23 +1726,23 @@
             ]
         ],
         "events": [
-            "pyro_taunt_neck_snap_02",
-            "pyro.explosiondeath",
             "pyro.painsharp03",
+            "pyro.explosiondeath",
+            "pyro_taunt_neck_snap_02",
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "PlayerPainPyro",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro"
         ],
         "scenes": [
+            "scenes/player/pyro/low/1586.vcd",
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
-            "scenes/player/pyro/low/1586.vcd"
+            "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
         "transcript": "Ow!"
@@ -1763,9 +1763,9 @@
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "PlayerPainPyro",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro"
@@ -1793,15 +1793,15 @@
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainPyro"
+            "PlayerPainPyro",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro"
         ],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/player/pyro/low/1588.vcd"
+            "scenes/player/pyro/low/1588.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Uf!"
@@ -1816,13 +1816,13 @@
             ]
         ],
         "events": [
+            "taunt_burstchester_pyro_pain",
             "pyro.explosiondeath",
-            "pyro.painsharp06",
-            "taunt_burstchester_pyro_pain"
+            "pyro.painsharp06"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainPyro"
+            "PlayerPainPyro",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro"
@@ -1856,20 +1856,20 @@
             "taunt_burstchester_pyro_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Cheers!",
             "PlayerPainPyro",
-            "PlayerStillOnFirePyro"
+            "Taunt: Cheers!",
+            "PlayerStillOnFirePyro",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainPyro",
             "PlayerStillOnFirePyro"
         ],
         "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_cheers.vcd",
             "scenes/player/pyro/low/1930.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/player/pyro/low/1590.vcd",
-            "scenes/workshop/player/pyro/low/taunt_cheers.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ungh!"
@@ -1887,27 +1887,27 @@
             ]
         ],
         "events": [
+            "pyro_taunt_roasty_toasty_loop_2",
             "taunt.skating_scorcher_trick",
-            "pyro.positivevocalization01",
             "taunt_springrider_intro",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro.positivevocalization01"
         ],
         "responses": [
+            "Taunt: Roasty Toasty",
             "Taunt: Kazotsky Kick",
-            "PyroMvMLootRare",
-            "PlayerPositivePyro",
             "Taunt: The Balloonibouncer",
-            "Taunt: Roasty Toasty"
+            "PlayerPositivePyro",
+            "PyroMvMLootRare"
         ],
         "rules": [
-            "PyroMvMLootRare",
-            "PlayerPositivePyro"
+            "PlayerPositivePyro",
+            "PyroMvMLootRare"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1510.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/taunt_russian.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/player/pyro/low/taunt_russian.vcd"
+            "scenes/player/pyro/low/1510.vcd"
         ],
         "state": "used",
         "transcript": "Exfellend!"
@@ -1967,21 +1967,21 @@
             ]
         ],
         "events": [
-            "pyro_sf13_influx_small01",
-            "pyro_taunt_roasty_toasty_pyro_sf13_influx_small01"
+            "pyro_taunt_roasty_toasty_pyro_sf13_influx_small01",
+            "pyro_sf13_influx_small01"
         ],
         "responses": [
             "Taunt: Roasty Toasty",
-            "PyroSF13SpellPickupCommon",
-            "Taunt: Yeti Punch"
+            "Taunt: Yeti Punch",
+            "PyroSF13SpellPickupCommon"
         ],
         "rules": [
             "PyroSF13SpellPickupCommon"
         ],
         "scenes": [
+            "scenes/player/pyro/low/taunt_yetipunch.vcd",
             "scenes/player/pyro/low/6499.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/player/pyro/low/taunt_yetipunch.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "*Small chuckle*"
@@ -2002,12 +2002,12 @@
             "pyro_sf13_spell_generic01"
         ],
         "responses": [
-            "PyroCastSkeletonHorde",
-            "PyroCastMirv"
+            "PyroCastMirv",
+            "PyroCastSkeletonHorde"
         ],
         "rules": [
-            "PyroCastSkeletonHorde",
-            "PyroCastMirv"
+            "PyroCastMirv",
+            "PyroCastSkeletonHorde"
         ],
         "scenes": [
             "scenes/player/pyro/low/6435.vcd"
@@ -2077,12 +2077,12 @@
             "pyro_sf13_spell_generic04"
         ],
         "responses": [
-            "PyroCastSelfHeal",
-            "PyroCastMerasmusZap"
+            "PyroCastMerasmusZap",
+            "PyroCastSelfHeal"
         ],
         "rules": [
-            "PyroCastSelfHeal",
-            "PyroCastMerasmusZap"
+            "PyroCastMerasmusZap",
+            "PyroCastSelfHeal"
         ],
         "scenes": [
             "scenes/player/pyro/low/6438.vcd"
@@ -2241,14 +2241,14 @@
             "pyro.specialcompleted-assistedkill01"
         ],
         "responses": [
+            "KilledPlayerAssistPyro",
             "KilledPlayerAssistAutoPyro",
-            "MeleeDarePyro",
-            "KilledPlayerAssistPyro"
+            "MeleeDarePyro"
         ],
         "rules": [
+            "KilledPlayerAssistPyro",
             "KilledPlayerAssistAutoPyro",
-            "MeleeDarePyro",
-            "KilledPlayerAssistPyro"
+            "MeleeDarePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1529.vcd"
@@ -2311,12 +2311,12 @@
             "pyro.standonthepoint01"
         ],
         "responses": [
-            "DefendOnThePointPyro",
-            "PlayerHelpCapture2Pyro"
+            "PlayerHelpCapture2Pyro",
+            "DefendOnThePointPyro"
         ],
         "rules": [
-            "DefendOnThePointPyro",
-            "PlayerHelpCapture2Pyro"
+            "PlayerHelpCapture2Pyro",
+            "DefendOnThePointPyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1531.vcd"
@@ -2337,12 +2337,12 @@
             ]
         ],
         "events": [
-            "pyro.thanks01",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_roasty_toasty_loop_2",
+            "pyro.thanks01"
         ],
         "responses": [
-            "PlayerThanksPyro",
             "Taunt: Roasty Toasty",
+            "PlayerThanksPyro",
             "AcceptedDuelPyro"
         ],
         "rules": [
@@ -2350,8 +2350,8 @@
             "AcceptedDuelPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1550.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/1550.vcd"
         ],
         "state": "used",
         "transcript": "Fink fhu."
@@ -2376,12 +2376,12 @@
             "pyro.thanksfortheheal01"
         ],
         "responses": [
-            "MeleeDarePyro",
-            "HealThanksPyro"
+            "HealThanksPyro",
+            "MeleeDarePyro"
         ],
         "rules": [
-            "MeleeDarePyro",
-            "HealThanksPyro"
+            "HealThanksPyro",
+            "MeleeDarePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1552.vcd"
@@ -2407,12 +2407,12 @@
             "pyro.thanksfortheteleporter01"
         ],
         "responses": [
-            "MeleeDarePyro",
-            "PlayerTeleporterThanksPyro"
+            "PlayerTeleporterThanksPyro",
+            "MeleeDarePyro"
         ],
         "rules": [
-            "MeleeDarePyro",
-            "PlayerTeleporterThanksPyro"
+            "PlayerTeleporterThanksPyro",
+            "MeleeDarePyro"
         ],
         "scenes": [
             "scenes/player/pyro/low/1555.vcd"
@@ -2429,19 +2429,19 @@
             ]
         ],
         "events": [
-            "pyro.yes01",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_roasty_toasty_loop_2",
+            "pyro.yes01"
         ],
         "responses": [
-            "PlayerYesPyro",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "PlayerYesPyro"
         ],
         "rules": [
             "PlayerYesPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1558.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/1558.vcd"
         ],
         "state": "used",
         "transcript": "Uh-huh."
@@ -2486,8 +2486,8 @@
             "taunt_springrider_giggles"
         ],
         "responses": [
-            "Taunt: Party Trick",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Party Trick"
         ],
         "rules": [],
         "scenes": [
@@ -2501,12 +2501,12 @@
         "base_name": "pyro_taunt_clap1",
         "criteria": [],
         "events": [
-            "pyro_taunt_partytrick_5_clap",
-            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap1"
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap1",
+            "pyro_taunt_partytrick_5_clap"
         ],
         "responses": [
-            "Taunt: Party Trick",
             "Taunt: Mannrobics",
+            "Taunt: Party Trick",
             "Taunt: The Final Score"
         ],
         "rules": [],
@@ -2522,21 +2522,21 @@
         "base_name": "pyro_taunt_clap2",
         "criteria": [],
         "events": [
+            "pyro_taunt_partytrick_6_clap",
             "pyro_taunt_roasty_toasty_pyro_taunt_clap2",
-            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap2",
-            "pyro_taunt_partytrick_6_clap"
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap2"
         ],
         "responses": [
-            "Taunt: Party Trick",
             "Taunt: Roasty Toasty",
             "Taunt: The Fist Bump",
+            "Taunt: Party Trick",
             "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2546,21 +2546,21 @@
         "base_name": "pyro_taunt_clap3",
         "criteria": [],
         "events": [
+            "pyro_taunt_partytrick_6_clap",
             "scout_taunt_the_homerunners_hobby_pyro_taunt_clap3",
-            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap3",
-            "pyro_taunt_partytrick_6_clap"
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap3"
         ],
         "responses": [
-            "Taunt: Party Trick",
-            "Taunt: The Homerunner's Hobby",
             "Taunt: The Fist Bump",
+            "Taunt: The Homerunner's Hobby",
+            "Taunt: Party Trick",
             "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2570,21 +2570,21 @@
         "base_name": "pyro_taunt_clap4",
         "criteria": [],
         "events": [
-            "pyro_taunt_roasty_toasty_pyro_taunt_clap4",
+            "pyro_taunt_partytrick_7_clap",
             "pyro_taunt_the_final_score_pyro_pyro_taunt_clap4",
-            "pyro_taunt_partytrick_7_clap"
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap4"
         ],
         "responses": [
-            "Taunt: Party Trick",
             "Taunt: Roasty Toasty",
-            "Taunt: The Final Score",
-            "Taunt: Mourning Mercs"
+            "Taunt: Mourning Mercs",
+            "Taunt: Party Trick",
+            "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2594,13 +2594,13 @@
         "base_name": "pyro_taunt_clap5",
         "criteria": [],
         "events": [
-            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap5",
-            "pyro_taunt_partytrick_7_clap"
+            "pyro_taunt_partytrick_7_clap",
+            "pyro_taunt_the_final_score_pyro_pyro_taunt_clap5"
         ],
         "responses": [
+            "Taunt: Mourning Mercs",
             "Taunt: Party Trick",
-            "Taunt: The Final Score",
-            "Taunt: Mourning Mercs"
+            "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
@@ -2615,20 +2615,20 @@
         "base_name": "pyro_taunt_clap6",
         "criteria": [],
         "events": [
-            "pyro_taunt_partytrick_8_clap",
-            "pyro_taunt_roasty_toasty_pyro_taunt_clap6"
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap6",
+            "pyro_taunt_partytrick_8_clap"
         ],
         "responses": [
-            "Taunt: Party Trick",
             "Taunt: Roasty Toasty",
+            "Taunt: Mourning Mercs",
             "Taunt: The Fist Bump",
-            "Taunt: Mourning Mercs"
+            "Taunt: Party Trick"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2638,20 +2638,20 @@
         "base_name": "pyro_taunt_clap7",
         "criteria": [],
         "events": [
-            "pyro_taunt_partytrick_8_clap",
-            "pyro_taunt_roasty_toasty_pyro_taunt_clap7"
+            "pyro_taunt_roasty_toasty_pyro_taunt_clap7",
+            "pyro_taunt_partytrick_8_clap"
         ],
         "responses": [
-            "Taunt: Party Trick",
             "Taunt: Roasty Toasty",
+            "Taunt: Mourning Mercs",
             "Taunt: The Fist Bump",
-            "Taunt: Mourning Mercs"
+            "Taunt: Party Trick"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2661,20 +2661,20 @@
         "base_name": "pyro_taunt_cong_fun_05",
         "criteria": [],
         "events": [
+            "pyro_taunt_partytrick_3_giggle",
             "taunt_burstchester_pyro_happy",
             "taunt.bearhug_pyro_b",
-            "pyro_taunt_partytrick_3_giggle",
             "taunt.skating_scorcher_trick"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "Taunt: Bear Hug",
             "Taunt: Party Trick",
-            "Taunt: Bear Hug"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/player/pyro/low/taunt_party_trick.vcd"
         ],
         "state": "used",
@@ -2684,20 +2684,20 @@
         "base_name": "pyro_taunt_cong_fun_08",
         "criteria": [],
         "events": [
-            "pyro_taunt_conga_random_fun1",
             "taunt_springrider_giggles",
+            "pyro_taunt_conga_random_fun1",
             "taunt.skating_scorcher_trick"
         ],
         "responses": [
-            "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
             "scenes/player/pyro/low/conga.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[gleeful laughter"
@@ -2710,13 +2710,13 @@
             "pyro_taunt_conga_random_fun3"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/player/pyro/low/conga.vcd"
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[cheerful humming"
@@ -2730,13 +2730,13 @@
             "pyro_taunt_roasty_toasty_pyro_taunt_cong_fun_10"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/player/pyro/low/conga.vcd"
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[rhythmic laughter"
@@ -2745,20 +2745,20 @@
         "base_name": "pyro_taunt_cong_fun_11",
         "criteria": [],
         "events": [
-            "pyro_taunt_conga_random_fun1",
             "taunt_springrider_giggles",
+            "pyro_taunt_conga_random_fun1",
             "taunt.skating_scorcher_trick"
         ],
         "responses": [
-            "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
             "scenes/player/pyro/low/conga.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[rhythmic laughter"
@@ -2787,8 +2787,8 @@
             "pyro_taunt_conga_random_fun3"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -2807,13 +2807,13 @@
             "taunt.skating_scorcher_trick"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/player/pyro/low/conga.vcd"
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo!"
@@ -2886,26 +2886,26 @@
         "base_name": "pyro_taunt_dosi_fun_02",
         "criteria": [],
         "events": [
-            "taunt.bearhug_pyro_a",
-            "taunt_burstchester_pyro_happy",
+            "pyro_taunt_dosido_start_rand",
+            "taunt.skating_scorcher_trick",
             "taunt_springrider_giggles",
             "pyro_taunt_commending_clap_b",
-            "taunt.skating_scorcher_trick",
-            "pyro_taunt_dosido_start_rand"
+            "taunt.bearhug_pyro_a",
+            "taunt_burstchester_pyro_happy"
         ],
         "responses": [
             "Taunt: Square Dance",
             "Taunt: Bear Hug",
-            "Taunt: Burstchester",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
-            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
-            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "[gleeful laughter"
@@ -2917,13 +2917,13 @@
             "pyro_taunt_conga_random_fun2"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/player/pyro/low/conga.vcd"
+            "scenes/player/pyro/low/conga.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[mumbled singing"
@@ -2939,8 +2939,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
-            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance00.vcd"
         ],
         "state": "used",
         "transcript": "[mumbled comment"
@@ -2949,21 +2949,21 @@
         "base_name": "pyro_taunt_dosi_fun_05",
         "criteria": [],
         "events": [
+            "taunt_burstchester_pyro_happy",
             "taunt_springrider_giggles",
             "pyro_taunt_dosido_mid_rand",
-            "taunt_burstchester_pyro_happy",
             "taunt.skating_scorcher_trick"
         ],
         "responses": [
             "Taunt: Square Dance",
-            "Taunt: Burstchester",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
         "transcript": "[muffled laughter"
@@ -2976,8 +2976,8 @@
             "pyro_taunt_roasty_toasty_loop"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -3010,15 +3010,15 @@
             "pyro_taunt_dosido_intro_rand"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "[gleeful laughter"
@@ -3027,20 +3027,20 @@
         "base_name": "pyro_taunt_dosi_int_05",
         "criteria": [],
         "events": [
-            "taunt.bearhug_pyro_a",
-            "pyro_taunt_dosido_intro_rand"
+            "pyro_taunt_dosido_intro_rand",
+            "taunt.bearhug_pyro_a"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery",
             "Taunt: Bear Hug",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
@@ -3050,8 +3050,8 @@
         "base_name": "pyro_taunt_dosi_int_07",
         "criteria": [],
         "events": [
-            "pyro_taunt_dosido_intro_wait_rand",
-            "pyro_taunt_roasty_toasty_tada"
+            "pyro_taunt_roasty_toasty_tada",
+            "pyro_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
             "Taunt: Roasty Toasty",
@@ -3072,15 +3072,15 @@
             "pyro_taunt_dosido_intro_rand"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "[excited mumbling"
@@ -3092,15 +3092,15 @@
             "pyro_taunt_dosido_intro_rand"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "[mumbled] \"Do-si-do!\""
@@ -3112,15 +3112,15 @@
             "pyro_taunt_dosido_intro_rand"
         ],
         "responses": [
-            "Taunt: Second Rate Sorcery",
             "Taunt: Peace!",
+            "Taunt: Second Rate Sorcery",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "[mumbled] \"Dance time!\""
@@ -3129,8 +3129,8 @@
         "base_name": "pyro_taunt_exert_12",
         "criteria": [],
         "events": [
-            "pyro_taunt_roasty_toasty_exert",
-            "pyro_taunt_headbutt_success_exert"
+            "pyro_taunt_headbutt_success_exert",
+            "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
             "Taunt: Roasty Toasty",
@@ -3148,18 +3148,18 @@
         "base_name": "pyro_taunt_flip_admire_01",
         "criteria": [],
         "events": [
-            "pyro_taunt_flip_random_flipflipping",
-            "pyro_taunt_flip_random_waiting1"
+            "pyro_taunt_flip_random_waiting1",
+            "pyro_taunt_flip_random_flipflipping"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Scorcher's Solo"
+            "Taunt: Scorcher's Solo",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_start.vcd",
-            "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd"
         ],
         "state": "used",
         "transcript": "Yee haw!"
@@ -3189,14 +3189,14 @@
             "pyro_taunt_roasty_toasty_tada"
         ],
         "responses": [
+            "Taunt: Roasty Toasty",
             "Taunt: Cheers!",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Roasty Toasty"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/flip_start.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/flip_start.vcd",
             "scenes/workshop/player/pyro/low/taunt_cheers.vcd"
         ],
         "state": "used",
@@ -3206,25 +3206,25 @@
         "base_name": "pyro_taunt_flip_admire_05",
         "criteria": [],
         "events": [
-            "pyro_taunt_neck_snap_01",
             "pyro_taunt_flip_random_flipfinish",
             "pyro_taunt_commending_clap_b",
             "pyro_taunt_russian_rand",
+            "pyro_taunt_neck_snap_01",
             "taunt_yeti_pyro"
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
+            "Taunt: The Hot Wheeler",
             "Taunt: Flippin' Awesome",
-            "Taunt: Neck Snap",
-            "Taunt: The Hot Wheeler"
+            "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
-            "scenes/player/pyro/low/taunt_russian.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+            "scenes/player/pyro/low/taunt_russian.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd"
         ],
         "state": "used",
         "transcript": "Come to me!"
@@ -3250,23 +3250,23 @@
         "criteria": [],
         "events": [
             "pyro_taunt_flip_random_flipexert",
-            "pyro_taunt_roasty_toasty_exert",
             "pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_02",
-            "taunt.skating_scorcher_exert"
+            "taunt.skating_scorcher_exert",
+            "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/player/pyro/low/flip_success_initiator0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Uhrah!"
@@ -3276,22 +3276,22 @@
         "criteria": [],
         "events": [
             "pyro_taunt_flip_random_flipexert",
-            "pyro_taunt_roasty_toasty_exert",
-            "taunt.skating_scorcher_exert"
+            "taunt.skating_scorcher_exert",
+            "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/player/pyro/low/flip_success_initiator0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Uhhrah!"
@@ -3300,27 +3300,27 @@
         "base_name": "pyro_taunt_flip_exert_05",
         "criteria": [],
         "events": [
+            "pyro_taunt_spring_rider_pyro_taunt_flip_exert_05",
+            "taunt.skating_scorcher_trick",
             "pyro_taunt_flip_random_flipexert",
             "taunt.skating_scorcher_exert",
-            "pyro_taunt_roasty_toasty_exert",
-            "pyro_taunt_spring_rider_pyro_taunt_flip_exert_05",
-            "taunt.skating_scorcher_trick"
+            "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
             "Taunt: Roasty Toasty",
-            "Taunt: The Hot Wheeler"
+            "Taunt: The Hot Wheeler",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/player/pyro/low/flip_success_initiator0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
             "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Ah-oop!"
@@ -3330,23 +3330,23 @@
         "criteria": [],
         "events": [
             "pyro_taunt_flip_random_flipexert",
-            "taunt.skating_scorcher_trick",
+            "pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_06",
             "pyro_taunt_roasty_toasty_tada",
-            "pyro_taunt_roasty_toasty_pyro_taunt_flip_exert_06"
+            "taunt.skating_scorcher_trick"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/player/pyro/low/flip_success_initiator0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/player/pyro/low/flip_success_initiator0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Huppo hoh!"
@@ -3355,9 +3355,9 @@
         "base_name": "pyro_taunt_flip_fun_01",
         "criteria": [],
         "events": [
+            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_01",
             "pyro_taunt_flip_random_flipflipping",
-            "pyro_taunt_commending_clap_a",
-            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_01"
+            "pyro_taunt_commending_clap_a"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -3366,9 +3366,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
         "transcript": "Woooh!"
@@ -3377,9 +3377,9 @@
         "base_name": "pyro_taunt_flip_fun_04",
         "criteria": [],
         "events": [
+            "pyro_taunt_flip_random_intro",
             "pyro_taunt_flip_random_flipflipping",
-            "pyro_taunt_commending_clap_a",
-            "pyro_taunt_flip_random_intro"
+            "pyro_taunt_commending_clap_a"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -3388,10 +3388,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
             "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+            "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
         "transcript": "I'm flying!"
@@ -3409,8 +3409,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_start.vcd",
+            "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -3420,37 +3420,37 @@
         "base_name": "pyro_taunt_flip_fun_06",
         "criteria": [],
         "events": [
-            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_06",
-            "taunt_killer_joke_pyro_laugh",
+            "taunt.skating_scorcher_trick",
             "taunt_springrider_giggles",
+            "pyro_taunt_spring_rider_pyro_taunt_flip_fun_06",
             "pyro_taunt_conga_random_fun2",
+            "taunt_killer_joke_pyro_laugh",
             "pyro_taunt_flip_random_flipadmire",
-            "pyro_taunt_roasty_toasty_outro",
-            "taunt.skating_scorcher_trick"
+            "pyro_taunt_roasty_toasty_outro"
         ],
         "responses": [
-            "Taunt: The Balloonibouncer",
-            "Taunt: Conga",
-            "Taunt: Peace!",
-            "Taunt: Roasty Toasty",
-            "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty",
             "Taunt: Pool Party",
-            "Taunt: The Victory Lap"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Victory Lap",
+            "Taunt: Killer Joke",
+            "Taunt: Peace!",
+            "Taunt: Conga",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/player/pyro/low/conga.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/player/pyro/low/flip_success_initiator1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Wooo hoo hoo hoo!"
@@ -3459,39 +3459,39 @@
         "base_name": "pyro_taunt_flip_fun_09",
         "criteria": [],
         "events": [
-            "taunt_burstchester_pyro_happy",
-            "taunt_killer_joke_pyro_laugh",
+            "taunt.skating_scorcher_trick",
             "taunt_springrider_giggles",
             "pyro_taunt_conga_random_fun2",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_burstchester_pyro_happy",
             "pyro_taunt_flip_random_flipadmire",
-            "pyro_taunt_roasty_toasty_outro",
-            "taunt.skating_scorcher_trick"
+            "pyro_taunt_roasty_toasty_outro"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: The Balloonibouncer",
-            "Taunt: Conga",
-            "Taunt: Peace!",
-            "Taunt: Roasty Toasty",
-            "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty",
             "Taunt: Pool Party",
-            "Taunt: The Victory Lap"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Victory Lap",
+            "Taunt: Killer Joke",
+            "Taunt: Burstchester",
+            "Taunt: Peace!",
+            "Taunt: Conga",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/player/pyro/low/conga.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/player/pyro/low/flip_success_initiator1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
@@ -3500,44 +3500,44 @@
         "base_name": "pyro_taunt_flip_fun_10",
         "criteria": [],
         "events": [
-            "taunt_burstchester_pyro_happy",
-            "taunt_killer_joke_pyro_laugh",
-            "pyro_taunt_flip_random_flipfinish",
+            "taunt.skating_scorcher_trick",
             "taunt_springrider_giggles",
+            "pyro_taunt_flip_random_flipfinish",
+            "pyro_taunt_russian_rand",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_burstchester_pyro_happy",
             "pyro_taunt_flip_random_flipadmire",
             "pyro_taunt_roasty_toasty_outro",
-            "taunt.skating_scorcher_trick",
-            "pyro_taunt_russian_rand",
             "taunt_yeti_pyro"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Kazotsky Kick",
-            "Taunt: The Hot Wheeler",
-            "Taunt: The Balloonibouncer",
-            "Taunt: Peace!",
-            "Taunt: Roasty Toasty",
-            "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
+            "Taunt: Kazotsky Kick",
+            "Taunt: Roasty Toasty",
             "Taunt: Pool Party",
-            "Taunt: The Victory Lap"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Victory Lap",
+            "Taunt: Killer Joke",
+            "Taunt: The Hot Wheeler",
+            "Taunt: Burstchester",
+            "Taunt: Peace!",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
-            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/player/pyro/low/taunt_russian.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
             "scenes/player/pyro/low/flip_success_initiator1.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_russian.vcd",
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
@@ -3546,34 +3546,34 @@
         "base_name": "pyro_taunt_flip_fun_11",
         "criteria": [],
         "events": [
-            "taunt_burstchester_pyro_happy",
-            "taunt_killer_joke_pyro_laugh",
             "taunt_springrider_giggles",
+            "taunt_killer_joke_pyro_laugh",
+            "taunt_burstchester_pyro_happy",
             "pyro_taunt_flip_random_flipadmire",
             "pyro_taunt_roasty_toasty_outro"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: The Balloonibouncer",
-            "Taunt: Peace!",
-            "Taunt: Roasty Toasty",
-            "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
+            "Taunt: Roasty Toasty",
             "Taunt: Pool Party",
-            "Taunt: The Victory Lap"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Victory Lap",
+            "Taunt: Killer Joke",
+            "Taunt: Burstchester",
+            "Taunt: Peace!",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/player/pyro/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/player/pyro/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_b.vcd"
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
         ],
         "state": "used",
         "transcript": "Ah ha ha ha ha ha!"
@@ -3582,16 +3582,16 @@
         "base_name": "pyro_taunt_flip_int_02",
         "criteria": [],
         "events": [
+            "taunt_burstchester_pyro_happy",
             "pyro_taunt_flip_random_intro",
             "taunt.bearhug_pyro_a",
-            "taunt_springrider_giggles",
-            "taunt_burstchester_pyro_happy"
+            "taunt_springrider_giggles"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "Taunt: The Balloonibouncer",
             "Taunt: Bear Hug",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Balloonibouncer"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
@@ -3607,16 +3607,16 @@
         "base_name": "pyro_taunt_flip_int_05",
         "criteria": [],
         "events": [
-            "pyro_taunt_spring_rider_pyro_taunt_flip_int_05",
+            "taunt.skating_scorcher_trick",
             "taunt.bearhug_pyro_b",
             "taunt_springrider_giggles",
-            "taunt.skating_scorcher_trick",
-            "pyro_taunt_flip_random_intro"
+            "pyro_taunt_flip_random_intro",
+            "pyro_taunt_spring_rider_pyro_taunt_flip_int_05"
         ],
         "responses": [
+            "Taunt: The Balloonibouncer",
             "Taunt: Bear Hug",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Balloonibouncer"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -3647,13 +3647,13 @@
         "base_name": "pyro_taunt_head_exert_03",
         "criteria": [],
         "events": [
-            "pyro_taunt_roasty_toasty_exert",
+            "pyro_taunt_the_grilled_gunman_pyro_taunt_head_exert_03",
             "pyro_taunt_headbutt_success_recover_2",
-            "pyro_taunt_the_grilled_gunman_pyro_taunt_head_exert_03"
+            "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -3670,13 +3670,13 @@
             "pyro_taunt_headbutt_start"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
-            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "[muffled] \"Right here!\""
@@ -3688,13 +3688,13 @@
             "pyro_taunt_headbutt_start"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
-            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "[muffled challenging"
@@ -3707,17 +3707,17 @@
             "pyro_taunt_headbutt_start"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Conga",
             "Taunt: Mannrobics",
+            "Taunt: Conga",
+            "Taunt: Skullcracker",
             "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
             "scenes/player/pyro/low/conga.vcd",
-            "scenes/player/pyro/low/taunt_headbutt_start.vcd"
+            "scenes/player/pyro/low/taunt_headbutt_start.vcd",
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "[menacing muffles"
@@ -3759,12 +3759,12 @@
         "base_name": "pyro_taunt_head_pain_21",
         "criteria": [],
         "events": [
-            "pyro_taunt_flag",
-            "pyro_taunt_headbutt_success_windup"
+            "pyro_taunt_headbutt_success_windup",
+            "pyro_taunt_flag"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -3778,12 +3778,12 @@
         "base_name": "pyro_taunt_head_pain_22",
         "criteria": [],
         "events": [
-            "pyro_taunt_flag",
-            "pyro_taunt_headbutt_success_windup"
+            "pyro_taunt_headbutt_success_windup",
+            "pyro_taunt_flag"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -3798,12 +3798,12 @@
         "criteria": [],
         "events": [
             "pyro_taunt_the_grilled_gunman_pyro_taunt_int_05",
-            "pyro_taunt_dosido_intro_wait_rand",
-            "pyro_taunt_flip_random_waiting1"
+            "pyro_taunt_flip_random_waiting1",
+            "pyro_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -3838,13 +3838,13 @@
             "pyro_taunt_roasty_toasty_tada"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/flip_start.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/player/pyro/low/flip_start.vcd"
         ],
         "state": "used",
         "transcript": "Huhfallah!"
@@ -3913,9 +3913,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_dosido_dance00.vcd",
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+            "scenes/player/pyro/low/taunt_dosido_dance00.vcd"
         ],
         "state": "used",
         "transcript": "Ruh dyah!"
@@ -3964,18 +3964,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
             "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Here we go!"
@@ -3991,18 +3991,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
             "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "One!"
@@ -4018,18 +4018,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
             "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Two!"
@@ -4045,18 +4045,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
             "scenes/player/pyro/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/pyro/low/taunt_rps_paper_win.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
             "scenes/player/pyro/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_rock_win.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Three!"
@@ -4138,14 +4138,14 @@
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
-            "Taunt: The Final Score",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_rps_start.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
-            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "Betta bah!"
@@ -4157,20 +4157,20 @@
             "pyro_taunt_rps_lose_03"
         ],
         "responses": [
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: Mourning Mercs",
-            "Taunt: Cremators Condolences",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Cremators Condolences"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
             "scenes/player/pyro/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
             "scenes/workshop/player/pyro/low/taunt_mourning_mercs.vcd",
-            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd",
             "scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd",
-            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/pyro/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/pyro/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/pyro/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "cry"
@@ -4188,8 +4188,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/player/pyro/low/taunt_dosido_dance01.vcd"
+            "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
         "transcript": "Huddah hu-oh!"
@@ -4198,9 +4198,9 @@
         "base_name": "pyro_taunt_thanks_08",
         "criteria": [],
         "events": [
-            "pyro_taunt_dosido_intro_wait_rand",
+            "pyro_taunt_roasty_toasty_loop_2",
             "pyro_taunt_roasty_toasty_pyro_taunt_thanks_08",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
             "Taunt: Roasty Toasty",
@@ -4234,19 +4234,19 @@
         "base_name": "pyro_trade_01",
         "criteria": [],
         "events": [
-            "pyro_taunt_commending_clap_c",
             "pyro_taunt_trade_loop_rand",
+            "pyro_taunt_roasty_toasty_loop_2",
             "taunt_burstchester_pyro_happy",
-            "pyro_taunt_roasty_toasty_loop_2"
+            "pyro_taunt_commending_clap_c"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Huh-nah! Huh-naaah..."
@@ -4267,25 +4267,25 @@
         "base_name": "pyro_trade_03",
         "criteria": [],
         "events": [
-            "pyro_taunt_commending_clap_c",
-            "taunt_burstchester_pyro_happy",
-            "pyro_taunt_trade_start_rand",
             "pyro_taunt_roasty_toasty_loop",
+            "pyro_taunt_commending_clap_c",
+            "pyro_taunt_the_final_score_pyro_pyro_trade_03",
             "pyro.scardy_cat_b",
-            "pyro_taunt_the_final_score_pyro_pyro_trade_03"
+            "pyro_taunt_trade_start_rand",
+            "taunt_burstchester_pyro_happy"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Roasty Toasty",
             "Taunt: The Scaredy-Cat!",
+            "Taunt: Burstchester",
             "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "Euduh rah!"
@@ -4294,20 +4294,20 @@
         "base_name": "pyro_trade_04",
         "criteria": [],
         "events": [
-            "pyro_taunt_trade_loop_rand",
             "taunt.bearhug_pyro_b",
-            "taunt_burstchester_pyro_happy",
-            "pyro_taunt_roasty_toasty_loop"
+            "pyro_taunt_trade_loop_rand",
+            "pyro_taunt_roasty_toasty_loop",
+            "taunt_burstchester_pyro_happy"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "Taunt: Roasty Toasty",
             "Taunt: Bear Hug",
-            "Taunt: Roasty Toasty"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
@@ -4381,8 +4381,8 @@
             "taunt_killer_joke_pyro"
         ],
         "responses": [
-            "Taunt: The High Five!",
-            "Taunt: Killer Joke"
+            "Taunt: Killer Joke",
+            "Taunt: The High Five!"
         ],
         "rules": [],
         "scenes": [
@@ -4397,8 +4397,8 @@
         "base_name": "pyro_highfive02",
         "criteria": [],
         "events": [
-            "taunt_killer_joke_pyro",
-            "pyro.highfive02"
+            "pyro.highfive02",
+            "taunt_killer_joke_pyro"
         ],
         "responses": [
             "Taunt: Killer Joke",
@@ -4407,8 +4407,8 @@
         "rules": [],
         "scenes": [
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
+            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Huddah!"
@@ -4512,49 +4512,49 @@
             "taunt_springrider_intro"
         ],
         "responses": [
-            "Taunt: The Hot Wheeler",
-            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
-            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
-            "SoldierShowItemTauntResponse",
-            "PlayerTaunt2_TestTauntEnabler_IsEngineer",
-            "PlayerTaunt2_TestTauntEnabler_IsScout",
-            "PlayerTaunt2_TestTauntEnabler_IsSpy",
-            "SniperShowItemTauntResponse",
-            "SpyShowItemTauntResponse",
-            "PlayerTaunt2_TestTauntEnabler_IsMedic",
-            "Taunt: The High Five!",
-            "PlayerTaunt2_TestTauntEnabler_IsPyro",
-            "Taunt: The Balloonibouncer",
-            "DemomanShowItemTauntResponse",
             "MedicShowItemTauntResponse",
-            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
-            "PyroShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
             "PlayerTaunt2_TestTauntEnabler_IsSniper",
-            "ScoutShowItemTauntResponse"
+            "SniperShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsPyro",
+            "SpyShowItemTauntResponse",
+            "Taunt: The Hot Wheeler",
+            "PlayerTaunt2_TestTauntEnabler_IsEngineer",
+            "Taunt: The Balloonibouncer",
+            "Taunt: The High Five!",
+            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
+            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
+            "SoldierShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsScout",
+            "DemomanShowItemTauntResponse",
+            "PyroShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsMedic",
+            "ScoutShowItemTauntResponse",
+            "PlayerTaunt2_TestTauntEnabler_IsSpy"
         ],
         "rules": [
-            "PyroShowItemTaunt",
-            "PlayerTaunt2_TestTauntEnabler_IsMedic",
-            "PlayerTaunt2_TestTauntEnabler_IsPyro",
-            "PlayerTaunt2_TestTauntEnabler_IsEngineer",
-            "DemomanShowItemTaunt",
-            "MedicShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsScout",
             "PlayerTaunt2_TestTauntEnabler_IsSpy",
             "ScoutShowItemTaunt",
-            "PlayerTaunt2_TestTauntEnabler_IsScout",
-            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
-            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
-            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
+            "SoldierShowItemTaunt",
+            "DemomanShowItemTaunt",
+            "MedicShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsMedic",
+            "PlayerTaunt2_TestTauntEnabler_IsPyro",
+            "PyroShowItemTaunt",
             "SpyShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsHeavy",
             "SniperShowItemTaunt",
+            "PlayerTaunt2_TestTauntEnabler_IsSoldier",
             "PlayerTaunt2_TestTauntEnabler_IsSniper",
-            "SoldierShowItemTaunt"
+            "PlayerTaunt2_TestTauntEnabler_IsDemoman",
+            "PlayerTaunt2_TestTauntEnabler_IsEngineer"
         ],
         "scenes": [
+            "scenes/player/pyro/low/taunt_hi5_b.vcd",
             "scenes/player/pyro/low/taunt_highfivesuccess.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/player/pyro/low/taunt_hi5_b.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
         "transcript": "*Laugh* \"Hueh.\""
@@ -4563,8 +4563,8 @@
         "base_name": "pyro_highfive_success03",
         "criteria": [],
         "events": [
-            "pyro_taunt_roasty_toasty_outro",
             "pyro.highfivesuccess03",
+            "pyro_taunt_roasty_toasty_outro",
             "taunt_springrider_intro",
             "taunt.skating_scorcher_trick"
         ],
@@ -4575,9 +4575,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/player/pyro/low/taunt_hi5_a.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/player/pyro/low/taunt_hi5_a.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
         ],
         "state": "used",
         "transcript": "*Gleeful laugh*"

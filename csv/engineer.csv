@@ -108,18 +108,18 @@ Your Line:,,,Rules:,['PlayerCappedIntelligenceEngineer']
 
 Filename:,engineer_autodejectedtie01,,Events:,['engineer.autodejectedtie01']
 Full Path:,vo/engineer_autodejectedtie01.mp3,,Scenes:,['scenes/player/engineer/low/22.vcd']
-Transcription:,That just ain't right!,,Responses:,"['PlayerStalemateEngineer', 'EngineerJarateHit']"
+Transcription:,That just ain't right!,,Responses:,"['EngineerJarateHit', 'PlayerStalemateEngineer']"
 Your Line:,,,Rules:,"['PlayerStalemateEngineer', 'EngineerJarateHit']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsEngineer'], ['ConceptJarateHit', 'IsEngineer', '50PercentChance']]"
 
 Filename:,engineer_autodejectedtie02,,Events:,['engineer.autodejectedtie02']
 Full Path:,vo/engineer_autodejectedtie02.mp3,,Scenes:,['scenes/player/engineer/low/23.vcd']
-Transcription:,Now I've seen everything!,,Responses:,"['PlayerStalemateEngineer', 'EngineerJarateHit']"
+Transcription:,Now I've seen everything!,,Responses:,"['EngineerJarateHit', 'PlayerStalemateEngineer']"
 Your Line:,,,Rules:,"['PlayerStalemateEngineer', 'EngineerJarateHit']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsEngineer'], ['ConceptJarateHit', 'IsEngineer', '50PercentChance']]"
 
-Filename:,engineer_autodejectedtie03,,Events:,"['taunt.finalscore_engineer_b', 'engineer.autodejectedtie03']"
-Full Path:,vo/engineer_autodejectedtie03.mp3,,Scenes:,"['scenes/player/engineer/low/24.vcd', 'scenes/workshop/player/engineer/low/taunt_the_final_score.vcd']"
+Filename:,engineer_autodejectedtie03,,Events:,"['engineer.autodejectedtie03', 'taunt.finalscore_engineer_b']"
+Full Path:,vo/engineer_autodejectedtie03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_the_final_score.vcd', 'scenes/player/engineer/low/24.vcd']"
 Transcription:,Naahhh...,,Responses:,"['PlayerStalemateEngineer', 'RejectedDuelEngineer', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,"['PlayerStalemateEngineer', 'RejectedDuelEngineer']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsEngineer'], ['ConceptDuelRejected', 'IsEngineer']]"
@@ -184,52 +184,52 @@ Transcription:,Move 'em out!,,Responses:,"['PlayerRoundStartEngineer', 'PlayerBa
 Your Line:,,,Rules:,"['PlayerRoundStartEngineer', 'PlayerBattleCryEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsEngineer']]"
 
-Filename:,engineer_battlecry05,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer.battlecry05']"
-Full Path:,vo/engineer_battlecry05.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/35.vcd']"
-Transcription:,Giddy up!,,Responses:,"['Taunt: Bucking Bronco', 'AcceptedDuelEngineer', 'PlayerRoundStartEngineer', 'PlayerBattleCryEngineer']"
-Your Line:,,,Rules:,"['AcceptedDuelEngineer', 'PlayerRoundStartEngineer', 'PlayerBattleCryEngineer']"
+Filename:,engineer_battlecry05,,Events:,"['engineer.battlecry05', 'engineer_bucking_bronco_taunt_start']"
+Full Path:,vo/engineer_battlecry05.mp3,,Scenes:,"['scenes/player/engineer/low/35.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Giddy up!,,Responses:,"['Taunt: Bucking Bronco', 'PlayerRoundStartEngineer', 'PlayerBattleCryEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['PlayerRoundStartEngineer', 'PlayerBattleCryEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsEngineer'], ['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsEngineer']]"
 
-Filename:,engineer_battlecry06,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer.battlecry06']"
-Full Path:,vo/engineer_battlecry06.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt01_vocal03.vcd', 'scenes/player/engineer/low/36.vcd']"
-Transcription:,Heeeeeeyaaah!,,Responses:,"['Taunt: Bucking Bronco', 'PlayerBattleCryEngineer', 'PlayerRoundStartEngineer', 'EngineerTauntPrimary', 'PlayerKilledCapperEngineer']"
-Your Line:,,,Rules:,"['EngineerTauntPlayerPrimary', 'PlayerBattleCryEngineer', 'PlayerRoundStartEngineer', 'EngineerTauntPlayerRescueRanger', 'EngineerTauntPomson', 'PlayerKilledCapperEngineer']"
+Filename:,engineer_battlecry06,,Events:,"['engineer.battlecry06', 'engineer_bucking_bronco_taunt_start']"
+Full Path:,vo/engineer_battlecry06.mp3,,Scenes:,"['scenes/player/engineer/low/36.vcd', 'scenes/player/engineer/low/taunt01_vocal03.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Heeeeeeyaaah!,,Responses:,"['EngineerTauntPrimary', 'PlayerKilledCapperEngineer', 'PlayerRoundStartEngineer', 'PlayerBattleCryEngineer', 'Taunt: Bucking Bronco']"
+Your Line:,,,Rules:,"['PlayerKilledCapperEngineer', 'PlayerRoundStartEngineer', 'EngineerTauntPomson', 'PlayerBattleCryEngineer', 'EngineerTauntPlayerPrimary', 'EngineerTauntPlayerRescueRanger']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsEngineer'], ['ConceptCapBlocked', 'IsEngineer', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptPlayerBattleCry', 'IsEngineer'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsShotgunPrimary'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPomson'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsRescueRanger']]"
 
-Filename:,engineer_battlecry07,,Events:,"['engineer_bucking_bronco_taunt_yells', 'engineer_bucking_bronco_taunt_yells_b', 'engineer.battlecry07', 'engineer_item_preview_engineer_battlecry07', 'engineer_bucking_bronco_engineer_battlecry07']"
-Full Path:,vo/engineer_battlecry07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt01_vocal04.vcd', 'scenes/player/engineer/low/1329.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd']"
-Transcription:,"Ehee, yeeeehaaaaw!",,Responses:,"['Taunt: Bucking Bronco', 'PlayerKilledForRevengeEngineer', 'PlayerBattleCryEngineer', 'Taunt: Mannrobics', 'PlayerRoundStartEngineer', 'EngineerTauntPrimary']"
-Your Line:,,,Rules:,"['EngineerTauntPlayerPrimary', 'PlayerKilledForRevengeEngineer', 'PlayerBattleCryEngineer', 'PlayerRoundStartEngineer', 'EngineerTauntPlayerRescueRanger', 'EngineerTauntPomson']"
+Filename:,engineer_battlecry07,,Events:,"['engineer.battlecry07', 'engineer_bucking_bronco_taunt_yells_b', 'engineer_bucking_bronco_engineer_battlecry07', 'engineer_item_preview_engineer_battlecry07', 'engineer_bucking_bronco_taunt_yells']"
+Full Path:,vo/engineer_battlecry07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt01_vocal04.vcd', 'scenes/player/engineer/low/1329.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,"Ehee, yeeeehaaaaw!",,Responses:,"['EngineerTauntPrimary', 'Taunt: Mannrobics', 'PlayerRoundStartEngineer', 'PlayerBattleCryEngineer', 'PlayerKilledForRevengeEngineer', 'Taunt: Bucking Bronco']"
+Your Line:,,,Rules:,"['PlayerRoundStartEngineer', 'EngineerTauntPomson', 'PlayerBattleCryEngineer', 'EngineerTauntPlayerPrimary', 'PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerRescueRanger']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsEngineer'], ['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerBattleCry', 'IsEngineer'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsShotgunPrimary'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPomson'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsRescueRanger']]"
 
-Filename:,engineer_cheers01,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer.cheers01', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/engineer_cheers01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/40.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Whooooeee!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Fist Bump', 'Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', 'PlayerKilledForRevengeEngineer', 'PlayerCheersEngineer']"
+Filename:,engineer_cheers01,,Events:,"['engineer.cheers01', 'engineer_taunt_bumpkins_banjo_yells', 'engineer_bucking_bronco_taunt_start']"
+Full Path:,vo/engineer_cheers01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/player/engineer/low/40.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,Whooooeee!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Dueling Banjo', 'PlayerKilledForRevengeEngineer', 'Taunt: The Fist Bump', 'Taunt: Bucking Bronco', 'PlayerCheersEngineer']"
 Your Line:,,,Rules:,"['PlayerKilledForRevengeEngineer', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
-Filename:,engineer_cheers02,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells', 'engineer.cheers02', 'engineer_bucking_bronco_taunt_yells_a', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/engineer_cheers02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt01_vocal02.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/1330.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Whoooohou!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', 'PlayerCheersEngineer', 'Taunt: Mannrobics', 'EngineerTauntPrimary', 'PlayerKilledCapperEngineer']"
-Your Line:,,,Rules:,"['EngineerTauntPlayerPrimary', 'PlayerCheersEngineer', 'EngineerTauntPlayerRescueRanger', 'EngineerTauntPomson', 'PlayerKilledCapperEngineer']"
+Filename:,engineer_cheers02,,Events:,"['engineer.cheers02', 'engineer_bucking_bronco_taunt_start', 'engineer_taunt_bumpkins_banjo_yells', 'engineer_bucking_bronco_taunt_yells_a', 'engineer_bucking_bronco_taunt_yells']"
+Full Path:,vo/engineer_cheers02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt01_vocal02.vcd', 'scenes/player/engineer/low/1330.vcd']"
+Transcription:,Whoooohou!,,Responses:,"['EngineerTauntPrimary', 'Taunt: Mannrobics', 'PlayerKilledCapperEngineer', 'Taunt: The Dueling Banjo', 'Taunt: Bucking Bronco', 'PlayerCheersEngineer']"
+Your Line:,,,Rules:,"['PlayerKilledCapperEngineer', 'EngineerTauntPomson', 'EngineerTauntPlayerPrimary', 'EngineerTauntPlayerRescueRanger', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsEngineer', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsEngineer'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsShotgunPrimary'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPomson'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsRescueRanger']]"
 
 Filename:,engineer_cheers03,,Events:,"['engineer_taunt_flag', 'engineer.cheers03']"
 Full Path:,vo/engineer_cheers03.mp3,,Scenes:,"['scenes/player/engineer/low/42.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']"
-Transcription:,Job well done!,,Responses:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer', 'Taunt: Flying Colors']"
-Your Line:,,,Rules:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer']"
+Transcription:,Job well done!,,Responses:,"['Taunt: Flying Colors', 'PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
+Your Line:,,,Rules:,"['PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsEngineer', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
 Filename:,engineer_cheers04,,Events:,['engineer.cheers04']
 Full Path:,vo/engineer_cheers04.mp3,,Scenes:,['scenes/player/engineer/low/43.vcd']
-Transcription:,That wasn't even close.,,Responses:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer']"
-Your Line:,,,Rules:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer']"
+Transcription:,That wasn't even close.,,Responses:,"['PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
+Your Line:,,,Rules:,"['PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsEngineer', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
 Filename:,engineer_cheers05,,Events:,['engineer.cheers05']
 Full Path:,vo/engineer_cheers05.mp3,,Scenes:,['scenes/player/engineer/low/41.vcd']
-Transcription:,Now that there was a fine piece of work.,,Responses:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer']"
-Your Line:,,,Rules:,"['PlayerCheersEngineer', 'PlayerKilledCapperEngineer']"
+Transcription:,Now that there was a fine piece of work.,,Responses:,"['PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
+Your Line:,,,Rules:,"['PlayerKilledCapperEngineer', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsEngineer', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
 Filename:,engineer_cheers06,,Events:,['engineer.cheers06']
@@ -238,10 +238,10 @@ Transcription:,Cream gravy.,,Responses:,"['PlayerKilledForRevengeEngineer', 'Pla
 Your Line:,,,Rules:,"['PlayerKilledForRevengeEngineer', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
-Filename:,engineer_cheers07,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells', 'engineer_bucking_bronco_taunt_yells_b', 'engineer.cheers07']"
-Full Path:,vo/engineer_cheers07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/44.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt01_vocal01.vcd']"
-Transcription:,Yippee-kiyah-yippee-i-ki-yo!,,Responses:,"['Taunt: Bucking Bronco', 'PlayerKilledForRevengeEngineer', 'PlayerCheersEngineer', 'Taunt: Mannrobics', 'EngineerTauntPrimary']"
-Your Line:,,,Rules:,"['EngineerTauntPlayerPrimary', 'PlayerKilledForRevengeEngineer', 'PlayerCheersEngineer', 'EngineerTauntPlayerRescueRanger', 'EngineerTauntPomson']"
+Filename:,engineer_cheers07,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'engineer.cheers07', 'engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells']"
+Full Path:,vo/engineer_cheers07.mp3,,Scenes:,"['scenes/player/engineer/low/44.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt01_vocal01.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Yippee-kiyah-yippee-i-ki-yo!,,Responses:,"['EngineerTauntPrimary', 'Taunt: Mannrobics', 'PlayerKilledForRevengeEngineer', 'Taunt: Bucking Bronco', 'PlayerCheersEngineer']"
+Your Line:,,,Rules:,"['EngineerTauntPomson', 'EngineerTauntPlayerPrimary', 'PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerRescueRanger', 'PlayerCheersEngineer']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsShotgunPrimary'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPomson'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsRescueRanger'], ['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsEngineer']]"
 
 Filename:,engineer_cloakedspy01,,Events:,['engineer.cloakedspy01']
@@ -732,8 +732,8 @@ Your Line:,,,Rules:,['PlayerKilledDominatingSoldierEngineer']
 
 Filename:,engineer_dominationsoldier02,,Events:,['engineer_dominationsoldier02']
 Full Path:,vo/engineer_dominationsoldier02.mp3,,Scenes:,['scenes/player/engineer/low/3615.vcd']
-Transcription:,"That there is just a sad display, boy.",,Responses:,"['PlayerKilledDominatingSoldierEngineer', 'RejectedDuelEngineer']"
-Your Line:,,,Rules:,"['PlayerKilledDominatingSoldierEngineer', 'RejectedDuelEngineer']"
+Transcription:,"That there is just a sad display, boy.",,Responses:,"['RejectedDuelEngineer', 'PlayerKilledDominatingSoldierEngineer']"
+Your Line:,,,Rules:,"['RejectedDuelEngineer', 'PlayerKilledDominatingSoldierEngineer']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimSoldier', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptDuelRejected', 'IsEngineer']]"
 
 Filename:,engineer_dominationsoldier03,,Events:,['engineer_dominationsoldier03']
@@ -871,25 +871,25 @@ Your Line:,,,Rules:,['PlayerGoEngineer']
 Filename:,engineer_goldenwrenchkill01,,Events:,['engineer_goldenwrenchkill01']
 Full Path:,vo/engineer_goldenwrenchkill01.mp3,,Scenes:,['scenes/player/engineer/low/3602.vcd']
 Transcription:,That there is a gold-plated kill!,,Responses:,['EngineerGoldenWrench']
-Your Line:,,,Rules:,"['EngineerSaxxy', 'EngineerGoldenWrench', 'EngineerGoldenFryingPan']"
+Your Line:,,,Rules:,"['EngineerGoldenWrench', 'EngineerGoldenFryingPan', 'EngineerSaxxy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenWrench', 'WeaponIsWrench', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsSaxxy', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenFryingPan', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10']]"
 
 Filename:,engineer_goldenwrenchkill02,,Events:,['engineer_goldenwrenchkill02']
 Full Path:,vo/engineer_goldenwrenchkill02.mp3,,Scenes:,['scenes/player/engineer/low/3605.vcd']
 Transcription:,Guess I got the Midas touch.,,Responses:,['EngineerGoldenWrench']
-Your Line:,,,Rules:,"['EngineerSaxxy', 'EngineerGoldenWrench', 'EngineerGoldenFryingPan']"
+Your Line:,,,Rules:,"['EngineerGoldenWrench', 'EngineerGoldenFryingPan', 'EngineerSaxxy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenWrench', 'WeaponIsWrench', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsSaxxy', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenFryingPan', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10']]"
 
 Filename:,engineer_goldenwrenchkill03,,Events:,['engineer_goldenwrenchkill03']
 Full Path:,vo/engineer_goldenwrenchkill03.mp3,,Scenes:,['scenes/player/engineer/low/3690.vcd']
 Transcription:,At least you ain't worthless anymore.,,Responses:,['EngineerGoldenWrench']
-Your Line:,,,Rules:,"['EngineerSaxxy', 'EngineerGoldenWrench', 'EngineerGoldenFryingPan']"
+Your Line:,,,Rules:,"['EngineerGoldenWrench', 'EngineerGoldenFryingPan', 'EngineerSaxxy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenWrench', 'WeaponIsWrench', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsSaxxy', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenFryingPan', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10']]"
 
 Filename:,engineer_goldenwrenchkill04,,Events:,['engineer_goldenwrenchkill04']
 Full Path:,vo/engineer_goldenwrenchkill04.mp3,,Scenes:,['scenes/player/engineer/low/3691.vcd']
 Transcription:,Erectin' a statue of a moron.,,Responses:,['EngineerGoldenWrench']
-Your Line:,,,Rules:,"['EngineerSaxxy', 'EngineerGoldenWrench', 'EngineerGoldenFryingPan']"
+Your Line:,,,Rules:,"['EngineerGoldenWrench', 'EngineerGoldenFryingPan', 'EngineerSaxxy']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenWrench', 'WeaponIsWrench', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsSaxxy', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsEngineer', 'WeaponIsGoldenFryingPan', 'WeaponIsNotSentry', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:10']]"
 
 Filename:,engineer_goodjob01,,Events:,['engineer.goodjob01']
@@ -910,15 +910,15 @@ Transcription:,Nice job.,,Responses:,"['Taunt: Cheers!', 'PlayerGoodJobEngineer'
 Your Line:,,,Rules:,['PlayerGoodJobEngineer']
 ,,,Criteria:,"[['ConceptPlayerGoodJob', 'IsEngineer']]"
 
-Filename:,engineer_gunslingerpunch01,,Events:,"['engineer_gunslingerpunch01', 'engineer_taunt_texan_trickshot_engineer_gunslingerpunch02']"
-Full Path:,vo/engineer_gunslingerpunch01.mp3,,Scenes:,"['scenes/player/engineer/low/3589.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
-Transcription:,Pow!,,Responses:,"['EngySwingFistStart', 'Taunt: Texan Trickshot']"
+Filename:,engineer_gunslingerpunch01,,Events:,"['engineer_taunt_texan_trickshot_engineer_gunslingerpunch02', 'engineer_gunslingerpunch01']"
+Full Path:,vo/engineer_gunslingerpunch01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/player/engineer/low/3589.vcd']"
+Transcription:,Pow!,,Responses:,"['Taunt: Texan Trickshot', 'EngySwingFistStart']"
 Your Line:,,,Rules:,['EngySwingFistStart']
 ,,,Criteria:,"[['ConceptFireWeapon', 'WeaponIsRobotArm', 'IsEngineer', 'EngineerNotKillSpeech', 'IsNotDominating', 'IsNotEngyFistSwung', 'AppliesContext:EngyFistSwung:1:20']]"
 
 Filename:,engineer_gunslingerpunch02,,Events:,"['engineer_taunt_texan_trickshot_engineer_gunslingerpunch02', 'engineer_gunslingerpunch02']"
-Full Path:,vo/engineer_gunslingerpunch02.mp3,,Scenes:,"['scenes/player/engineer/low/3590.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
-Transcription:,Bam!,,Responses:,"['EngySwingFistStart', 'Taunt: Texan Trickshot']"
+Full Path:,vo/engineer_gunslingerpunch02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/player/engineer/low/3590.vcd']"
+Transcription:,Bam!,,Responses:,"['Taunt: Texan Trickshot', 'EngySwingFistStart']"
 Your Line:,,,Rules:,['EngySwingFistStart']
 ,,,Criteria:,"[['ConceptFireWeapon', 'WeaponIsRobotArm', 'IsEngineer', 'EngineerNotKillSpeech', 'IsNotDominating', 'IsNotEngyFistSwung', 'AppliesContext:EngyFistSwung:1:20']]"
 
@@ -928,8 +928,8 @@ Transcription:,Bap!,,Responses:,['EngySwingFistStart']
 Your Line:,,,Rules:,['EngySwingFistStart']
 ,,,Criteria:,"[['ConceptFireWeapon', 'WeaponIsRobotArm', 'IsEngineer', 'EngineerNotKillSpeech', 'IsNotDominating', 'IsNotEngyFistSwung', 'AppliesContext:EngyFistSwung:1:20']]"
 
-Filename:,engineer_gunslingertriplepunchfinal01,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'engineer_gunslingertriplepunchfinal01']"
-Full Path:,vo/engineer_gunslingertriplepunchfinal01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/3703.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Filename:,engineer_gunslingertriplepunchfinal01,,Events:,"['engineer_gunslingertriplepunchfinal01', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/engineer_gunslingertriplepunchfinal01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/3703.vcd']"
 Transcription:,Yee-haw!,,Responses:,"['EngySwingFist', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,['EngySwingFist']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsRobotArm', 'IsEngyFistSwung', 'IsEngineer', 'WeaponIsNotMiniSentrygun', 'EngineerNotKillSpeechMelee', 'AppliesContext:EngineerKillSpeechMelee:1:20']]"
@@ -1050,29 +1050,29 @@ Your Line:,,,Rules:,['PlayerIncomingEngineer']
 
 Filename:,engineer_jeers01,,Events:,['engineer.jeers01']
 Full Path:,vo/engineer_jeers01.mp3,,Scenes:,['scenes/player/engineer/low/94.vcd']
-Transcription:,Boooooo!,,Responses:,"['PlayerSuddenDeathEngineer', 'PlayerJeersEngineer', 'RejectedDuelEngineer']"
-Your Line:,,,Rules:,"['PlayerSuddenDeathEngineer', 'PlayerJeersEngineer', 'RejectedDuelEngineer']"
+Transcription:,Boooooo!,,Responses:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer', 'RejectedDuelEngineer']"
+Your Line:,,,Rules:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer', 'RejectedDuelEngineer']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsEngineer'], ['ConceptDuelRejected', 'IsEngineer'], ['ConceptPlayerJeers', 'IsEngineer']]"
 
 Filename:,engineer_jeers02,,Events:,['engineer.jeers02']
 Full Path:,vo/engineer_jeers02.mp3,,Scenes:,['scenes/player/engineer/low/95.vcd']
-Transcription:,Grrrrrrrr...,,Responses:,"['PlayerSuddenDeathEngineer', 'PlayerJeersEngineer']"
-Your Line:,,,Rules:,"['PlayerSuddenDeathEngineer', 'PlayerJeersEngineer']"
+Transcription:,Grrrrrrrr...,,Responses:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer']"
+Your Line:,,,Rules:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsEngineer'], ['ConceptPlayerJeers', 'IsEngineer']]"
 
 Filename:,engineer_jeers03,,Events:,['engineer.jeers03']
 Full Path:,vo/engineer_jeers03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_the_critical_fail.vcd', 'scenes/player/engineer/low/96.vcd']"
-Transcription:,"Come on, fellas!",,Responses:,"['Taunt: The Critical Fail', 'PlayerSuddenDeathEngineer', 'PlayerJeersEngineer']"
-Your Line:,,,Rules:,"['PlayerSuddenDeathEngineer', 'PlayerJeersEngineer']"
+Transcription:,"Come on, fellas!",,Responses:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer', 'Taunt: The Critical Fail']"
+Your Line:,,,Rules:,"['PlayerJeersEngineer', 'PlayerSuddenDeathEngineer']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsEngineer'], ['ConceptPlayerJeers', 'IsEngineer']]"
 
-Filename:,engineer_jeers04,,Events:,"['taunt_burstchester_engineer_01', 'engineer.jeers04', 'engineer.scardy_cat_b']"
+Filename:,engineer_jeers04,,Events:,"['engineer.scardy_cat_b', 'taunt_burstchester_engineer_01', 'engineer.jeers04']"
 Full Path:,vo/engineer_jeers04.mp3,,Scenes:,"['scenes/player/engineer/low/98.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
-Transcription:,"Ah, good night, Irene!",,Responses:,"['Taunt: Burstchester', 'Taunt: The Scaredy-Cat!', 'PlayerKilledForRevengeEngineer', 'PlayerSuddenDeathEngineer', 'PlayerJeersEngineer']"
-Your Line:,,,Rules:,"['PlayerSuddenDeathEngineer', 'PlayerKilledForRevengeEngineer', 'PlayerJeersEngineer']"
+Transcription:,"Ah, good night, Irene!",,Responses:,"['Taunt: The Scaredy-Cat!', 'PlayerJeersEngineer', 'PlayerSuddenDeathEngineer', 'PlayerKilledForRevengeEngineer', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['PlayerJeersEngineer', 'PlayerKilledForRevengeEngineer', 'PlayerSuddenDeathEngineer']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsEngineer'], ['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerJeers', 'IsEngineer']]"
 
-Filename:,engineer_laughevil01,,Events:,"['engineer.laughevil01', 'engie_taunt_commending_clap_b']"
+Filename:,engineer_laughevil01,,Events:,"['engie_taunt_commending_clap_b', 'engineer.laughevil01']"
 Full Path:,vo/engineer_laughevil01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_yetipunch.vcd', 'scenes/player/engineer/low/100.vcd', 'scenes/workshop/player/engineer/low/taunt_commending_clap.vcd']"
 Transcription:,(Evil Laughter 1),,Responses:,"['Taunt: Commending Clap', 'PlayerKilledForRevengeEngineer', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
@@ -1087,19 +1087,19 @@ Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 Filename:,engineer_laughevil03,,Events:,['engineer.laughevil03']
 Full Path:,vo/engineer_laughevil03.mp3,,Scenes:,['scenes/player/engineer/low/taunt02_vocal01.vcd']
 Transcription:,Evil Laughter 3,,Responses:,['EngineerTauntSecondary']
-Your Line:,,,Rules:,"['EngineerTauntPlayerSecondary', 'EngineerTauntLaserPointer']"
+Your Line:,,,Rules:,"['EngineerTauntLaserPointer', 'EngineerTauntPlayerSecondary']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPistol'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsLaserPointer']]"
 
 Filename:,engineer_laughevil04,,Events:,['engineer.laughevil04']
 Full Path:,vo/engineer_laughevil04.mp3,,Scenes:,['scenes/player/engineer/low/taunt02_vocal02.vcd']
 Transcription:,Evil Laughter 4,,Responses:,['EngineerTauntSecondary']
-Your Line:,,,Rules:,"['EngineerTauntPlayerSecondary', 'EngineerTauntLaserPointer']"
+Your Line:,,,Rules:,"['EngineerTauntLaserPointer', 'EngineerTauntPlayerSecondary']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPistol'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsLaserPointer']]"
 
 Filename:,engineer_laughevil05,,Events:,['engineer.laughevil05']
-Full Path:,vo/engineer_laughevil05.mp3,,Scenes:,"['scenes/player/engineer/low/taunt02_vocal03.vcd', 'scenes/player/engineer/low/1335.vcd']"
-Transcription:,(Evil Laughter 3),,Responses:,"['EngineerTauntSecondary', 'PlayerKilledForRevengeEngineer']"
-Your Line:,,,Rules:,"['PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerSecondary', 'EngineerTauntLaserPointer']"
+Full Path:,vo/engineer_laughevil05.mp3,,Scenes:,"['scenes/player/engineer/low/1335.vcd', 'scenes/player/engineer/low/taunt02_vocal03.vcd']"
+Transcription:,(Evil Laughter 3),,Responses:,"['PlayerKilledForRevengeEngineer', 'EngineerTauntSecondary']"
+Your Line:,,,Rules:,"['EngineerTauntLaserPointer', 'PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerSecondary']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsPistol'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsLaserPointer']]"
 
 Filename:,engineer_laughevil06,,Events:,['engineer.laughevil06']
@@ -1121,21 +1121,21 @@ Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,engineer_laughhappy03,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'engineer.laughhappy03', 'taunt.bearhug_engineer_b']"
-Full Path:,vo/engineer_laughhappy03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/player/engineer/low/102.vcd']"
-Transcription:,(Happy Laughter 3),,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Bear Hug', 'PlayerKilledForRevengeEngineer']"
+Full Path:,vo/engineer_laughhappy03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/player/engineer/low/102.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,(Happy Laughter 3),,Responses:,"['Taunt: Bucking Bronco', 'PlayerKilledForRevengeEngineer', 'Taunt: Bear Hug']"
 Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,engineer_laughlong01,,Events:,['engineer.laughlong01']
 Full Path:,vo/engineer_laughlong01.mp3,,Scenes:,"['scenes/player/engineer/low/103.vcd', 'scenes/player/engineer/low/taunt03.vcd']"
 Transcription:,(Long Laughter),,Responses:,"['EngineerTauntMelee', 'PlayerKilledForRevengeEngineer']"
-Your Line:,,,Rules:,"['EngineerTauntPlayerShortCircuit', 'PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerMelee']"
+Your Line:,,,Rules:,"['PlayerKilledForRevengeEngineer', 'EngineerTauntPlayerMelee', 'EngineerTauntPlayerShortCircuit']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsWrench'], ['ConceptPlayerTaunt', 'IsEngineer', 'WeaponIsShortCircuit'], ['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,engineer_laughlong02,,Events:,"['engineer.laughlong02', 'taunt_engineer_aerobic_shared_dance_intro']"
-Full Path:,vo/engineer_laughlong02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_laugh.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd']"
-Transcription:,laughs a little too hard,,Responses:,"['EngineerTauntLaugh', 'Taunt: Mannrobics', 'Taunt: The Schadenfreude']"
-Your Line:,,,Rules:,"['EngineerTauntLaugh', 'EngineerTauntAprilFools']"
+Filename:,engineer_laughlong02,,Events:,"['taunt_engineer_aerobic_shared_dance_intro', 'engineer.laughlong02']"
+Full Path:,vo/engineer_laughlong02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/taunt_laugh.vcd']"
+Transcription:,laughs a little too hard,,Responses:,"['Taunt: Mannrobics', 'Taunt: The Schadenfreude', 'EngineerTauntLaugh']"
+Your Line:,,,Rules:,"['EngineerTauntAprilFools', 'EngineerTauntLaugh']"
 ,,,Criteria:,"[['ConceptTauntLaugh', 'IsEngineer'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsEngineer']]"
 
 Filename:,engineer_laughshort01,,Events:,['engineer.laughshort01']
@@ -1156,8 +1156,8 @@ Transcription:,Short Laughter 3,,Responses:,['Taunt: Mourning Mercs']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_laughshort04,,Events:,"['engineer.laughshort04', 'engie_taunt_commending_clap_b']"
-Full Path:,vo/engineer_laughshort04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_cheers.vcd', 'scenes/workshop/player/engineer/low/taunt_commending_clap.vcd']"
+Filename:,engineer_laughshort04,,Events:,"['engie_taunt_commending_clap_b', 'engineer.laughshort04']"
+Full Path:,vo/engineer_laughshort04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_commending_clap.vcd', 'scenes/workshop/player/engineer/low/taunt_cheers.vcd']"
 Transcription:,Short Laughter 4,,Responses:,"['Taunt: Commending Clap', 'Taunt: Cheers!']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -1216,22 +1216,22 @@ Transcription:,"On me, Doc!",,Responses:,['MedicFollowEngineer']
 Your Line:,,,Rules:,['MedicFollowEngineer']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsEngineer', 'IsNotCrossHairEnemy', 'NotLowHealth', 'EngineerIsNotStillonFire', 'AppliesContext:EngineerKillSpeech:1:10']]"
 
-Filename:,engineer_meleedare01,,Events:,"['engineer_meleedare01', 'engineer_taunt_bumpkins_banjo_yells', 'engineer_taunt_bumpkins_banjo_intro']"
-Full Path:,vo/engineer_meleedare01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/3619.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Let's do this Texas style.,,Responses:,"['MeleeDareCombatEngineer', 'Taunt: The Dueling Banjo', 'InvulnerableSpeechEngineer', 'MeleeDareEngineer']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareEngineer', 'InvulnerableSpeechEngineer', 'MeleeDareCombatEngineer']"
+Filename:,engineer_meleedare01,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'engineer_meleedare01', 'engineer_taunt_bumpkins_banjo_intro']"
+Full Path:,vo/engineer_meleedare01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/3619.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,Let's do this Texas style.,,Responses:,"['MeleeDareEngineer', 'InvulnerableSpeechEngineer', 'Taunt: The Dueling Banjo', 'MeleeDareCombatEngineer']"
+Your Line:,,,Rules:,"['MeleeDareEngineer', 'InvulnerableSpeechEngineer', 'MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', 'AppliesContext:EngineerInvulnerableSpeech:1:30'], ['ConceptRequestDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_meleedare02,,Events:,['engineer_meleedare02']
 Full Path:,vo/engineer_meleedare02.mp3,,Scenes:,['scenes/player/engineer/low/3620.vcd']
 Transcription:,"You and me, pardner.",,Responses:,"['MeleeDareEngineer', 'MeleeDareCombatEngineer']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareEngineer', 'MeleeDareCombatEngineer']"
+Your Line:,,,Rules:,"['MeleeDareEngineer', 'MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_meleedare03,,Events:,['engineer_meleedare03']
 Full Path:,vo/engineer_meleedare03.mp3,,Scenes:,['scenes/player/engineer/low/3695.vcd']
 Transcription:,"You and me, hoss.",,Responses:,"['MeleeDareEngineer', 'MeleeDareCombatEngineer']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareEngineer', 'MeleeDareCombatEngineer']"
+Your Line:,,,Rules:,"['MeleeDareEngineer', 'MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_moveup01,,Events:,['engineer.moveup01']
@@ -1272,13 +1272,13 @@ Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 
 Filename:,engineer_negativevocalization02,,Events:,['engineer.negativevocalization02']
 Full Path:,vo/engineer_negativevocalization02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_mourning_mercs.vcd', 'scenes/player/engineer/low/1328.vcd']"
-Transcription:,"Aw, shucks.",,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer', 'Taunt: Mourning Mercs']"
+Transcription:,"Aw, shucks.",,Responses:,"['Taunt: Mourning Mercs', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
 Filename:,engineer_negativevocalization03,,Events:,['engineer.negativevocalization03']
 Full Path:,vo/engineer_negativevocalization03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_unleashed_rage.vcd', 'scenes/player/engineer/low/119.vcd']"
-Transcription:,Damnit!,,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer', 'Taunt: Unleashed Rage']"
+Transcription:,Damnit!,,Responses:,"['Taunt: Unleashed Rage', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
@@ -1300,9 +1300,9 @@ Transcription:,"Aw, hell.",,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPo
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
-Filename:,engineer_negativevocalization07,,Events:,"['weapon_wrangler.ouch', 'engineer.negativevocalization07']"
+Filename:,engineer_negativevocalization07,,Events:,"['engineer.negativevocalization07', 'weapon_wrangler.ouch']"
 Full Path:,vo/engineer_negativevocalization07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_the_critical_fail.vcd', 'scenes/player/engineer/low/123.vcd']"
-Transcription:,"""Grrrr..."" [mumbles",,Responses:,"['Taunt: The Critical Fail', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
+Transcription:,"""Grrrr..."" [mumbles",,Responses:,"['PlayerNegativeEngineer', 'Taunt: The Critical Fail', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
@@ -1312,8 +1312,8 @@ Transcription:,Daugghh!,,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPoint
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
-Filename:,engineer_negativevocalization09,,Events:,"['engineer.negativevocalization09', 'weapon_wrangler.ouch']"
-Full Path:,vo/engineer_negativevocalization09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/secondrate_sorcery.vcd', 'scenes/player/engineer/low/1340.vcd']"
+Filename:,engineer_negativevocalization09,,Events:,"['weapon_wrangler.ouch', 'engineer.negativevocalization09']"
+Full Path:,vo/engineer_negativevocalization09.mp3,,Scenes:,"['scenes/player/engineer/low/1340.vcd', 'scenes/workshop/player/engineer/low/secondrate_sorcery.vcd']"
 Transcription:,"[Loud, angry, and frustruated sigh]",,Responses:,"['Taunt: Second Rate Sorcery', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
@@ -1326,13 +1326,13 @@ Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 
 Filename:,engineer_negativevocalization11,,Events:,['engineer.negativevocalization11']
 Full Path:,vo/engineer_negativevocalization11.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_unleashed_rage.vcd', 'scenes/player/engineer/low/1342.vcd']"
-Transcription:,"Damn, dagnabit!",,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer', 'Taunt: Unleashed Rage']"
+Transcription:,"Damn, dagnabit!",,Responses:,"['Taunt: Unleashed Rage', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
 Filename:,engineer_negativevocalization12,,Events:,['engineer.negativevocalization12']
 Full Path:,vo/engineer_negativevocalization12.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_unleashed_rage.vcd', 'scenes/player/engineer/low/1343.vcd']"
-Transcription:,"Dagit nagit, nabit dagit!",,Responses:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer', 'Taunt: Unleashed Rage']"
+Transcription:,"Dagit nagit, nabit dagit!",,Responses:,"['Taunt: Unleashed Rage', 'PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 Your Line:,,,Rules:,"['PlayerNegativeEngineer', 'PlayerLostPointEngineer']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsEngineer'], ['ConceptPlayerNegative', 'IsEngineer']]"
 
@@ -1354,7 +1354,7 @@ Transcription:,"Nice shooting, Tex!",,Responses:,['PlayerNiceShotEngineer']
 Your Line:,,,Rules:,['PlayerNiceShotEngineer']
 ,,,Criteria:,"[['ConceptPlayerNiceShot', 'IsEngineer']]"
 
-Filename:,engineer_no01,,Events:,"['engineer_taunt_nope_engineer_no01', 'engineer.no01']"
+Filename:,engineer_no01,,Events:,"['engineer.no01', 'engineer_taunt_nope_engineer_no01']"
 Full Path:,vo/engineer_no01.mp3,,Scenes:,['scenes/player/engineer/low/127.vcd']
 Transcription:,Nope.,,Responses:,['PlayerNoEngineer']
 Your Line:,,,Rules:,['PlayerNoEngineer']
@@ -1372,135 +1372,135 @@ Transcription:,Heck no.,,Responses:,['PlayerNoEngineer']
 Your Line:,,,Rules:,['PlayerNoEngineer']
 ,,,Criteria:,"[['ConceptPlayerNo', 'IsEngineer']]"
 
-Filename:,engineer_paincrticialdeath01,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.scardy_cat', 'engineer.critdeath', 'engineer.paincrticialdeath01', 'mvm.playerdiedengineer']"
+Filename:,engineer_paincrticialdeath01,,Events:,"['engineer.scardy_cat', 'engineer.paincrticialdeath01', 'engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'mvm.playerdiedengineer', 'engineer.m_mvm_explosiondeath', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath01.mp3,,Scenes:,['scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']
 Transcription:,(Dying scream 1),,Responses:,['Taunt: The Scaredy-Cat!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_paincrticialdeath02,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.scardy_cat', 'engineer.paincrticialdeath02', 'engineer.critdeath', 'mvm.playerdiedengineer']"
+Filename:,engineer_paincrticialdeath02,,Events:,"['engineer.scardy_cat', 'engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'mvm.playerdiedengineer', 'engineer.paincrticialdeath02', 'engineer.m_mvm_explosiondeath', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath02.mp3,,Scenes:,['scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']
 Transcription:,(Dying scream 2),,Responses:,['Taunt: The Scaredy-Cat!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_paincrticialdeath03,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.paincrticialdeath03', 'engineer.critdeath', 'mvm.playerdiedengineer']"
+Filename:,engineer_paincrticialdeath03,,Events:,"['engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'mvm.playerdiedengineer', 'engineer.m_mvm_explosiondeath', 'engineer.paincrticialdeath03', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,(Dying scream 3),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_paincrticialdeath04,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.scardy_cat', 'engineer.critdeath', 'engineer.paincrticialdeath04', 'mvm.playerdiedengineer']"
+Filename:,engineer_paincrticialdeath04,,Events:,"['engineer.paincrticialdeath04', 'engineer.scardy_cat', 'engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'mvm.playerdiedengineer', 'engineer.m_mvm_explosiondeath', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath04.mp3,,Scenes:,['scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']
 Transcription:,(Dying scream 4),,Responses:,['Taunt: The Scaredy-Cat!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_paincrticialdeath05,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.critdeath', 'engineer.paincrticialdeath05', 'mvm.playerdiedengineer']"
+Filename:,engineer_paincrticialdeath05,,Events:,"['engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'mvm.playerdiedengineer', 'engineer.m_mvm_explosiondeath', 'engineer.paincrticialdeath05', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath05.mp3,,Scenes:,[]
 Transcription:,(Dying scream 5),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_paincrticialdeath06,,Events:,"['engineer.m_mvm_explosiondeath', 'engineer.meleedeath', 'engineer.m_mvm_meleedeath', 'engineer.m_mvm_critdeath', 'engineer.critdeath', 'mvm.playerdiedengineer', 'engineer.paincrticialdeath06']"
+Filename:,engineer_paincrticialdeath06,,Events:,"['engineer.meleedeath', 'engineer.critdeath', 'engineer.m_mvm_critdeath', 'engineer.paincrticialdeath06', 'mvm.playerdiedengineer', 'engineer.m_mvm_explosiondeath', 'engineer.m_mvm_meleedeath']"
 Full Path:,vo/engineer_paincrticialdeath06.mp3,,Scenes:,[]
 Transcription:,(Dying scream 6),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_painsevere01,,Events:,"['engineer.painsevere01', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere01,,Events:,"['engineer.painsevere01', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere01.mp3,,Scenes:,['scenes/player/engineer/low/133.vcd']
 Transcription:,(Groan 1),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere02,,Events:,"['engineer.painsevere02', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere02,,Events:,"['engineer.painsevere02', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere02.mp3,,Scenes:,['scenes/player/engineer/low/134.vcd']
 Transcription:,(Groan 2),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere03,,Events:,"['engineer.painsevere03', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere03,,Events:,"['engineer.painsevere03', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere03.mp3,,Scenes:,['scenes/player/engineer/low/135.vcd']
 Transcription:,(Groan 3),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere04,,Events:,"['engineer.painsevere04', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere04,,Events:,"['engineer.m_mvm_death', 'engineer.death', 'engineer.painsevere04']"
 Full Path:,vo/engineer_painsevere04.mp3,,Scenes:,"['scenes/player/engineer/low/1254.vcd', 'scenes/workshop/player/engineer/low/taunt_mourning_mercs.vcd']"
-Transcription:,(Whimper 1),,Responses:,"['PlayerAttackerPainEngineer', 'Taunt: Mourning Mercs']"
+Transcription:,(Whimper 1),,Responses:,"['Taunt: Mourning Mercs', 'PlayerAttackerPainEngineer']"
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere05,,Events:,"['engineer.death', 'engineer.m_mvm_death', 'engineer.painsevere05']"
+Filename:,engineer_painsevere05,,Events:,"['engineer.painsevere05', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere05.mp3,,Scenes:,['scenes/player/engineer/low/1255.vcd']
 Transcription:,(Whimper 2),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere06,,Events:,"['engineer.painsevere06', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere06,,Events:,"['engineer.painsevere06', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere06.mp3,,Scenes:,['scenes/player/engineer/low/1256.vcd']
 Transcription:,(Whimper 3),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsevere07,,Events:,"['engineer.painsevere07', 'engineer.death', 'engineer.m_mvm_death']"
+Filename:,engineer_painsevere07,,Events:,"['engineer.painsevere07', 'engineer.m_mvm_death', 'engineer.death']"
 Full Path:,vo/engineer_painsevere07.mp3,,Scenes:,['scenes/player/engineer/low/1257.vcd']
 Transcription:,(Whimper 4),,Responses:,['PlayerAttackerPainEngineer']
 Your Line:,,,Rules:,['PlayerAttackerPainEngineer']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsharp01,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_pain', 'engineer.painsharp01']"
-Full Path:,vo/engineer_painsharp01.mp3,,Scenes:,"['scenes/player/engineer/low/1931.vcd', 'scenes/player/engineer/low/136.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
-Transcription:,(Grunt 1),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
-Your Line:,,,Rules:,"['PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
+Filename:,engineer_painsharp01,,Events:,"['engineer.explosiondeath', 'engineer.painsharp01', 'taunt_burstchester_engineer_pain']"
+Full Path:,vo/engineer_painsharp01.mp3,,Scenes:,"['scenes/player/engineer/low/136.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1931.vcd']"
+Transcription:,(Grunt 1),,Responses:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer']"
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating'], ['ConceptFire', 'IsEngineer', 'EngineerIsStillonFire', 'IsNotDominating', 'AppliesContext:EngineerOnFire:1:7']]"
 
 Filename:,engineer_painsharp02,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_pain', 'engineer.painsharp02']"
-Full Path:,vo/engineer_painsharp02.mp3,,Scenes:,"['scenes/player/engineer/low/137.vcd', 'scenes/player/engineer/low/1931.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
-Transcription:,(Grunt 2),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
-Your Line:,,,Rules:,"['PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
+Full Path:,vo/engineer_painsharp02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1931.vcd', 'scenes/player/engineer/low/137.vcd']"
+Transcription:,(Grunt 2),,Responses:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer']"
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating'], ['ConceptFire', 'IsEngineer', 'EngineerIsStillonFire', 'IsNotDominating', 'AppliesContext:EngineerOnFire:1:7']]"
 
-Filename:,engineer_painsharp03,,Events:,"['engineer.explosiondeath', 'engineer.painsharp03']"
-Full Path:,vo/engineer_painsharp03.mp3,,Scenes:,"['scenes/player/engineer/low/1931.vcd', 'scenes/player/engineer/low/138.vcd']"
-Transcription:,(Grunt 3),,Responses:,"['PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
-Your Line:,,,Rules:,"['PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
+Filename:,engineer_painsharp03,,Events:,"['engineer.painsharp03', 'engineer.explosiondeath']"
+Full Path:,vo/engineer_painsharp03.mp3,,Scenes:,"['scenes/player/engineer/low/138.vcd', 'scenes/player/engineer/low/1931.vcd']"
+Transcription:,(Grunt 3),,Responses:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer']"
+Your Line:,,,Rules:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer']"
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating'], ['ConceptFire', 'IsEngineer', 'EngineerIsStillonFire', 'IsNotDominating', 'AppliesContext:EngineerOnFire:1:7']]"
 
-Filename:,engineer_painsharp04,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_02', 'engineer.painsharp04']"
-Full Path:,vo/engineer_painsharp04.mp3,,Scenes:,"['scenes/player/engineer/low/1249.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
-Transcription:,(Grunt 4),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer']"
+Filename:,engineer_painsharp04,,Events:,"['engineer.painsharp04', 'taunt_burstchester_engineer_02', 'engineer.explosiondeath']"
+Full Path:,vo/engineer_painsharp04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1249.vcd']"
+Transcription:,(Grunt 4),,Responses:,"['PlayerPainEngineer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainEngineer']
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsharp05,,Events:,"['engineer.explosiondeath', 'engineer.painsharp05']"
+Filename:,engineer_painsharp05,,Events:,"['engineer.painsharp05', 'engineer.explosiondeath']"
 Full Path:,vo/engineer_painsharp05.mp3,,Scenes:,['scenes/player/engineer/low/1250.vcd']
 Transcription:,(Grunt 5),,Responses:,['PlayerPainEngineer']
 Your Line:,,,Rules:,['PlayerPainEngineer']
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsharp06,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_02', 'engineer.painsharp06']"
-Full Path:,vo/engineer_painsharp06.mp3,,Scenes:,"['scenes/player/engineer/low/1931.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1251.vcd']"
-Transcription:,(Grunt 6),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
-Your Line:,,,Rules:,"['PlayerPainEngineer', 'PlayerStillOnFireEngineer']"
+Filename:,engineer_painsharp06,,Events:,"['engineer.painsharp06', 'taunt_burstchester_engineer_02', 'engineer.explosiondeath']"
+Full Path:,vo/engineer_painsharp06.mp3,,Scenes:,"['scenes/player/engineer/low/1251.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1931.vcd']"
+Transcription:,(Grunt 6),,Responses:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer', 'Taunt: Burstchester']"
+Your Line:,,,Rules:,"['PlayerStillOnFireEngineer', 'PlayerPainEngineer']"
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating'], ['ConceptFire', 'IsEngineer', 'EngineerIsStillonFire', 'IsNotDominating', 'AppliesContext:EngineerOnFire:1:7']]"
 
-Filename:,engineer_painsharp07,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_pain', 'engineer.painsharp07']"
-Full Path:,vo/engineer_painsharp07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1252.vcd']"
-Transcription:,(Grunt 7),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer']"
+Filename:,engineer_painsharp07,,Events:,"['engineer.painsharp07', 'engineer.explosiondeath', 'taunt_burstchester_engineer_pain']"
+Full Path:,vo/engineer_painsharp07.mp3,,Scenes:,"['scenes/player/engineer/low/1252.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
+Transcription:,(Grunt 7),,Responses:,"['PlayerPainEngineer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainEngineer']
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating']]"
 
-Filename:,engineer_painsharp08,,Events:,"['engineer.explosiondeath', 'taunt_burstchester_engineer_pain', 'engineer.painsharp08']"
-Full Path:,vo/engineer_painsharp08.mp3,,Scenes:,"['scenes/player/engineer/low/1253.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
-Transcription:,(Grunt 8),,Responses:,"['Taunt: Burstchester', 'PlayerPainEngineer']"
+Filename:,engineer_painsharp08,,Events:,"['engineer.painsharp08', 'engineer.explosiondeath', 'taunt_burstchester_engineer_pain']"
+Full Path:,vo/engineer_painsharp08.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/1253.vcd']"
+Transcription:,(Grunt 8),,Responses:,"['PlayerPainEngineer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainEngineer']
 ,,,Criteria:,"[['ConceptPain', 'IsEngineer', 'IsNotDominating']]"
 
 Filename:,engineer_positivevocalization01,,Events:,"['taunt_burstchester_engineer_01', 'engineer.positivevocalization01']"
-Full Path:,vo/engineer_positivevocalization01.mp3,,Scenes:,"['scenes/player/engineer/low/139.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
-Transcription:,Well don't that beat all?,,Responses:,"['Taunt: Burstchester', 'PlayerPositiveEngineer']"
+Full Path:,vo/engineer_positivevocalization01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/139.vcd']"
+Transcription:,Well don't that beat all?,,Responses:,"['PlayerPositiveEngineer', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPositiveEngineer']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsEngineer']]"
 
@@ -1578,24 +1578,24 @@ Your Line:,,,Rules:,['DeploySentryEngineer']
 
 Filename:,engineer_sentryplanting03,,Events:,"['engineer_taunt_flag', 'engineer_sentryplanting03']"
 Full Path:,vo/engineer_sentryplanting03.mp3,,Scenes:,"['scenes/player/engineer/low/3698.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']"
-Transcription:,Phew!,,Responses:,"['DeploySentryEngineer', 'Taunt: Flying Colors']"
+Transcription:,Phew!,,Responses:,"['Taunt: Flying Colors', 'DeploySentryEngineer']"
 Your Line:,,,Rules:,['DeploySentryEngineer']
 ,,,Criteria:,"[['ConceptEngineerDeployBuilding', 'IsEngineer']]"
 
 Filename:,engineer_specialcompleted-assistedkill01,,Events:,['engineer.specialcompleted-assistedkill01']
 Full Path:,vo/engineer_specialcompleted-assistedkill01.mp3,,Scenes:,['scenes/player/engineer/low/159.vcd']
-Transcription:,"Nice goin', pardner!",,Responses:,"['KilledPlayerAssistEngineer', 'KilledPlayerAssistAutoEngineer']"
-Your Line:,,,Rules:,"['KilledPlayerAssistEngineer', 'KilledPlayerAssistAutoEngineer']"
+Transcription:,"Nice goin', pardner!",,Responses:,"['KilledPlayerAssistAutoEngineer', 'KilledPlayerAssistEngineer']"
+Your Line:,,,Rules:,"['KilledPlayerAssistAutoEngineer', 'KilledPlayerAssistEngineer']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', '20PercentChance', 'EngineerNotAssistSpeech', 'AppliesContext:EngineerAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsEngineer', 'IsARecentKill', 'KilledPlayerDelay', 'EngineerNotAssistSpeech', 'AppliesContext:EngineerAssistSpeech:1:20']]"
 
 Filename:,engineer_specialcompleted-assistedkill02,,Events:,['engineer.specialcompleted-assistedkill02']
 Full Path:,vo/engineer_specialcompleted-assistedkill02.mp3,,Scenes:,['scenes/player/engineer/low/160.vcd']
-Transcription:,"Thanks, mister!",,Responses:,"['KilledPlayerAssistEngineer', 'KilledPlayerAssistAutoEngineer']"
-Your Line:,,,Rules:,"['KilledPlayerAssistEngineer', 'KilledPlayerAssistAutoEngineer']"
+Transcription:,"Thanks, mister!",,Responses:,"['KilledPlayerAssistAutoEngineer', 'KilledPlayerAssistEngineer']"
+Your Line:,,,Rules:,"['KilledPlayerAssistAutoEngineer', 'KilledPlayerAssistEngineer']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', '20PercentChance', 'EngineerNotAssistSpeech', 'AppliesContext:EngineerAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsEngineer', 'IsARecentKill', 'KilledPlayerDelay', 'EngineerNotAssistSpeech', 'AppliesContext:EngineerAssistSpeech:1:20']]"
 
 Filename:,engineer_specialcompleted01,,Events:,['engineer.specialcompleted01']
-Full Path:,vo/engineer_specialcompleted01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_peace.vcd', 'scenes/player/engineer/low/147.vcd']"
+Full Path:,vo/engineer_specialcompleted01.mp3,,Scenes:,"['scenes/player/engineer/low/147.vcd', 'scenes/workshop/player/engineer/low/taunt_peace.vcd']"
 Transcription:,"Whoooowee, would ya look at that!",,Responses:,"['Taunt: Peace!', 'KilledPlayerVeryManyEngineer']"
 Your Line:,,,Rules:,['KilledPlayerVeryManyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'KilledPlayerDelay', 'EngineerNotKillSpeech', 'IsEngineer', 'WeaponIsNotRobotArm', 'AppliesContext:EngineerKillSpeech:1:10']]"
@@ -1606,13 +1606,13 @@ Transcription:,Another satisfied customer!,,Responses:,['KillTauntsEngineerSpeci
 Your Line:,,,Rules:,['KillTauntsEngineerSpecial']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', 'WeaponIsSentrygun', 'KilledPlayerDelay', 'EngineerNotKillSpeech', 'IsEngineer', '30PercentChance', 'AppliesContext:EngineerKillSpeech:1:10']]"
 
-Filename:,engineer_specialcompleted03,,Events:,"['taunt.finalscore_engineer_a', 'engineer.specialcompleted03', 'engineer.scardy_cat_b']"
-Full Path:,vo/engineer_specialcompleted03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_the_final_score.vcd', 'scenes/player/engineer/low/149.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
-Transcription:,Gutless.,,Responses:,"['PlayerKilledForRevengeEngineer', 'Taunt: The Scaredy-Cat!', 'Taunt: The Final Score']"
+Filename:,engineer_specialcompleted03,,Events:,"['engineer.scardy_cat_b', 'taunt.finalscore_engineer_a', 'engineer.specialcompleted03']"
+Full Path:,vo/engineer_specialcompleted03.mp3,,Scenes:,"['scenes/player/engineer/low/149.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/engineer/low/taunt_the_final_score.vcd']"
+Transcription:,Gutless.,,Responses:,"['Taunt: The Scaredy-Cat!', 'PlayerKilledForRevengeEngineer', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,engineer_specialcompleted04,,Events:,"['engineer.specialcompleted04', 'engineer.scardy_cat_b']"
+Filename:,engineer_specialcompleted04,,Events:,"['engineer.scardy_cat_b', 'engineer.specialcompleted04']"
 Full Path:,vo/engineer_specialcompleted04.mp3,,Scenes:,"['scenes/player/engineer/low/150.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
 Transcription:,"Oh, ya yellow-bellied gutless coward!",,Responses:,"['EngineerJarateHit', 'Taunt: The Scaredy-Cat!']"
 Your Line:,,,Rules:,['EngineerJarateHit']
@@ -1620,7 +1620,7 @@ Your Line:,,,Rules:,['EngineerJarateHit']
 
 Filename:,engineer_specialcompleted05,,Events:,"['taunt.bearhug_engineer_c', 'engineer.specialcompleted05']"
 Full Path:,vo/engineer_specialcompleted05.mp3,,Scenes:,"['scenes/player/engineer/low/151.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
-Transcription:,Whoooowee! Makin' bacon!,,Responses:,"['Taunt: Bear Hug', 'KilledPlayerManyEngineer']"
+Transcription:,Whoooowee! Makin' bacon!,,Responses:,"['KilledPlayerManyEngineer', 'Taunt: Bear Hug']"
 Your Line:,,,Rules:,['KilledPlayerManyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'KilledPlayerDelay', 'EngineerNotKillSpeech', 'IsEngineer', 'WeaponIsNotRobotArm', 'AppliesContext:EngineerKillSpeech:1:10']]"
 
@@ -1662,14 +1662,14 @@ Your Line:,,,Rules:,['KilledPlayerManyEngineer']
 
 Filename:,engineer_standonthepoint01,,Events:,['engineer.standonthepoint01']
 Full Path:,vo/engineer_standonthepoint01.mp3,,Scenes:,['scenes/player/engineer/low/161.vcd']
-Transcription:,"Plant yerself on that darn point, mister!",,Responses:,"['PlayerHelpCapture2Engineer', 'DefendOnThePointEngineer']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Engineer', 'DefendOnThePointEngineer']"
+Transcription:,"Plant yerself on that darn point, mister!",,Responses:,"['DefendOnThePointEngineer', 'PlayerHelpCapture2Engineer']"
+Your Line:,,,Rules:,"['DefendOnThePointEngineer', 'PlayerHelpCapture2Engineer']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsEngineer', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsEngineer', 'IsOnCappableControlPoint', 'IsHelpCapEngineer']]"
 
 Filename:,engineer_standonthepoint02,,Events:,['engineer.standonthepoint02']
 Full Path:,vo/engineer_standonthepoint02.mp3,,Scenes:,['scenes/player/engineer/low/1344.vcd']
-Transcription:,"Plant yerself on the point, mister!",,Responses:,"['PlayerHelpCapture2Engineer', 'DefendOnThePointEngineer']"
-Your Line:,,,Rules:,"['PlayerHelpCapture2Engineer', 'DefendOnThePointEngineer']"
+Transcription:,"Plant yerself on the point, mister!",,Responses:,"['DefendOnThePointEngineer', 'PlayerHelpCapture2Engineer']"
+Your Line:,,,Rules:,"['DefendOnThePointEngineer', 'PlayerHelpCapture2Engineer']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsEngineer', 'IsOnFriendlyControlPoint', 'NotDefendOnThePointSpeech', 'AppliesContextToWorld:DefendOnThePointSpeech:1:30'], ['ConceptPlayerHelp', 'IsEngineer', 'IsOnCappableControlPoint', 'IsHelpCapEngineer']]"
 
 Filename:,engineer_thanks01,,Events:,['engineer.thanks01']
@@ -1733,8 +1733,8 @@ Your Line:,,,Rules:,['PlayerYesEngineer']
 ,,,Criteria:,"[['ConceptPlayerYes', 'IsEngineer']]"
 
 Filename:,engineer_yes02,,Events:,['engineer.yes02']
-Full Path:,vo/engineer_yes02.mp3,,Scenes:,"['scenes/player/engineer/low/188.vcd', 'scenes/player/engineer/low/taunt_hi5_start.vcd']"
-Transcription:,Heck yes!,,Responses:,"['PlayerYesEngineer', 'AcceptedDuelEngineer', 'Taunt: The High Five!']"
+Full Path:,vo/engineer_yes02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_hi5_start.vcd', 'scenes/player/engineer/low/188.vcd']"
+Transcription:,Heck yes!,,Responses:,"['PlayerYesEngineer', 'Taunt: The High Five!', 'AcceptedDuelEngineer']"
 Your Line:,,,Rules:,"['PlayerYesEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerYes', 'IsEngineer']]"
 
@@ -1744,22 +1744,22 @@ Transcription:,Alrighty then.,,Responses:,['PlayerYesEngineer']
 Your Line:,,,Rules:,['PlayerYesEngineer']
 ,,,Criteria:,"[['ConceptPlayerYes', 'IsEngineer']]"
 
-Filename:,engineer_taunts01,,Events:,"['engineer.taunts01', 'engineer_taunt_texan_trickshot_engineer_taunts05']"
+Filename:,engineer_taunts01,,Events:,"['engineer_taunt_texan_trickshot_engineer_taunts05', 'engineer.taunts01']"
 Full Path:,vo/taunts/engineer_taunts01.mp3,,Scenes:,"['scenes/player/engineer/low/163.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
-Transcription:,"I'm gonna beat you like a rented mule, boy.",,Responses:,"['AcceptedDuelEngineer', 'MeleeDareCombatEngineer', 'Taunt: Texan Trickshot']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
+Transcription:,"I'm gonna beat you like a rented mule, boy.",,Responses:,"['Taunt: Texan Trickshot', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
-Filename:,engineer_taunts02,,Events:,"['engineer.taunts02', 'engineer_taunt_texan_trickshot_engineer_taunts05']"
-Full Path:,vo/taunts/engineer_taunts02.mp3,,Scenes:,"['scenes/player/engineer/low/164.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
+Filename:,engineer_taunts02,,Events:,"['engineer_taunt_texan_trickshot_engineer_taunts05', 'engineer.taunts02']"
+Full Path:,vo/taunts/engineer_taunts02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/player/engineer/low/164.vcd']"
 Transcription:,You ladies shoulda' oughta' brought some menfolk with ya.,,Responses:,"['PlayerKilledForRevengeEngineer', 'Taunt: Texan Trickshot']"
 Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsRevenge', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,engineer_taunts03,,Events:,"['engineer.taunts03', 'engineer_taunt_texan_trickshot_engineer_taunts05']"
+Filename:,engineer_taunts03,,Events:,"['engineer_taunt_texan_trickshot_engineer_taunts05', 'engineer.taunts03']"
 Full Path:,vo/taunts/engineer_taunts03.mp3,,Scenes:,"['scenes/player/engineer/low/166.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
-Transcription:,"I'm gonna tear you down, junior!",,Responses:,"['AcceptedDuelEngineer', 'MeleeDareCombatEngineer', 'Taunt: Texan Trickshot']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
+Transcription:,"I'm gonna tear you down, junior!",,Responses:,"['Taunt: Texan Trickshot', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_taunts04,,Events:,['engineer.taunts04']
@@ -1771,13 +1771,13 @@ Your Line:,,,Rules:,['PlayerKilledForRevengeEngineer']
 Filename:,engineer_taunts05,,Events:,"['engineer.taunts05', 'engineer_taunt_texan_trickshot_engineer_taunts05']"
 Full Path:,vo/taunts/engineer_taunts05.mp3,,Scenes:,"['scenes/player/engineer/low/167.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
 Transcription:,You're all about to have a real bad day!,,Responses:,"['EngyCritsReady', 'Taunt: Texan Trickshot']"
-Your Line:,,,Rules:,"['EngyCritsReady', 'InvulnerableSpeechEngineer', 'EngyCritsReady2', 'EngyCritsReadyFestive', 'EngyCritsReady2Festive']"
+Your Line:,,,Rules:,"['EngyCritsReady2', 'EngyCritsReady2Festive', 'EngyCritsReady', 'InvulnerableSpeechEngineer', 'EngyCritsReadyFestive']"
 ,,,Criteria:,"[['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', 'AppliesContext:EngineerInvulnerableSpeech:1:30']]"
 
 Filename:,engineer_taunts06,,Events:,['engineer.taunts06']
 Full Path:,vo/taunts/engineer_taunts06.mp3,,Scenes:,['scenes/player/engineer/low/169.vcd']
-Transcription:,"Come here, sissy!",,Responses:,"['AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
+Transcription:,"Come here, sissy!",,Responses:,"['MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_taunts07,,Events:,['engineer.taunts07']
@@ -1787,9 +1787,9 @@ Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
 Filename:,engineer_taunts08,,Events:,"['engineer.taunts08', 'engineer_taunt_texan_trickshot_engineer_taunts05']"
-Full Path:,vo/taunts/engineer_taunts08.mp3,,Scenes:,"['scenes/player/engineer/low/172.vcd', 'scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd']"
-Transcription:,"Start prayin', boy!",,Responses:,"['EngyCritsReady', 'AcceptedDuelEngineer', 'MeleeDareCombatEngineer', 'Taunt: Texan Trickshot']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'EngyCritsReady', 'AcceptedDuelEngineer', 'InvulnerableSpeechEngineer', 'MeleeDareCombatEngineer', 'EngyCritsReady2', 'EngyCritsReadyFestive', 'EngyCritsReady2Festive']"
+Full Path:,vo/taunts/engineer_taunts08.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd', 'scenes/player/engineer/low/172.vcd']"
+Transcription:,"Start prayin', boy!",,Responses:,"['EngyCritsReady', 'Taunt: Texan Trickshot', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['EngyCritsReady2', 'EngyCritsReady2Festive', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer', 'EngyCritsReady', 'InvulnerableSpeechEngineer', 'EngyCritsReadyFestive', 'MeleeDareCombatEngineerSlinger']"
 ,,,Criteria:,"[['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', 'AppliesContext:EngineerInvulnerableSpeech:1:30'], ['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_taunts09,,Events:,['engineer.taunts09']
@@ -1800,14 +1800,14 @@ Your Line:,,,Rules:,['InvulnerableSpeechEngineer']
 
 Filename:,engineer_taunts10,,Events:,['engineer.taunts10']
 Full Path:,vo/taunts/engineer_taunts10.mp3,,Scenes:,['scenes/player/engineer/low/174.vcd']
-Transcription:,I'm gonna lay you out!,,Responses:,"['AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
-Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'AcceptedDuelEngineer', 'MeleeDareCombatEngineer']"
+Transcription:,I'm gonna lay you out!,,Responses:,"['MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
+Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer', 'AcceptedDuelEngineer']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsEngineer'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
 Filename:,engineer_taunts11,,Events:,['engineer.taunts11']
 Full Path:,vo/taunts/engineer_taunts11.mp3,,Scenes:,['scenes/player/engineer/low/177.vcd']
 Transcription:,Why don't you all get along before one of you gets hurt?,,Responses:,"['EngyCritsReady', 'InvulnerableSpeechEngineer']"
-Your Line:,,,Rules:,"['EngyCritsReady', 'InvulnerableSpeechEngineer', 'EngyCritsReady2', 'EngyCritsReadyFestive', 'EngyCritsReady2Festive']"
+Your Line:,,,Rules:,"['EngyCritsReady2', 'EngyCritsReady2Festive', 'EngyCritsReady', 'InvulnerableSpeechEngineer', 'EngyCritsReadyFestive']"
 ,,,Criteria:,"[['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsMiniSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptLostObject', 'IsSentryGun', 'IsEngineer', 'IsSentryKill', 'WeaponIsFestiveFrontierJustice', 'EngineerNotKillSpeech', 'AppliesContext:EngineerKillSpeech:1:10'], ['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', 'AppliesContext:EngineerInvulnerableSpeech:1:30'], ['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', 'AppliesContext:EngineerInvulnerableSpeech:1:30']]"
 
 Filename:,engineer_taunts12,,Events:,['engineer.taunts12']
@@ -1816,13 +1816,13 @@ Transcription:,Son! I'm gonna blow that dumb look right off your stupid face!,,R
 Your Line:,,,Rules:,"['MeleeDareCombatEngineerSlinger', 'MeleeDareCombatEngineer']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsEngineer', 'IsCrosshairEnemy'], ['ConceptPlayerBattleCry', 'WeaponIsRobotArm', 'IsEngineer', 'IsCrosshairEnemy']]"
 
-Filename:,engineer_mvm_ask_ready01,,Events:,"['engineer.readycomp', 'engineer_mvm_ask_ready01', 'engineer.ready', 'engineer.readymvm']"
+Filename:,engineer_mvm_ask_ready01,,Events:,"['engineer.ready', 'engineer.readycomp', 'engineer.readymvm', 'engineer_mvm_ask_ready01']"
 Full Path:,vo/engineer_mvm_ask_ready01.mp3,,Scenes:,[]
 Transcription:,Everybody ready?,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_ask_ready02,,Events:,"['engineer.readycomp', 'engineer_mvm_ask_ready02', 'engineer.ready', 'engineer.readymvm']"
+Filename:,engineer_mvm_ask_ready02,,Events:,"['engineer_mvm_ask_ready02', 'engineer.ready', 'engineer.readycomp', 'engineer.readymvm']"
 Full Path:,vo/engineer_mvm_ask_ready02.mp3,,Scenes:,[]
 Transcription:,Y'all ready?,,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1954,9 +1954,9 @@ Transcription:,"Come on, boys, let's get to them Upgrade Stations.",,Responses:,
 Your Line:,,,Rules:,['MvMEncourageUpgradeEngineer']
 ,,,Criteria:,"[['ConceptMvMEncourageUpgrade', '50PercentChance', 'IsMvMDefender', 'IsEngineer']]"
 
-Filename:,engineer_mvm_get_upgrade01,,Events:,"['engineer_mvm_get_upgrade01', 'engineer_taunt_flag', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
-Full Path:,vo/engineer_mvm_get_upgrade01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/4131.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']"
-Transcription:,"Well, I guess that'll do.",,Responses:,"['MvMUpgradeCompleteEngineer', 'Taunt: The Dueling Banjo', 'Taunt: Flying Colors']"
+Filename:,engineer_mvm_get_upgrade01,,Events:,"['engineer_taunt_flag', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engineer_mvm_get_upgrade01']"
+Full Path:,vo/engineer_mvm_get_upgrade01.mp3,,Scenes:,"['scenes/player/engineer/low/4131.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']"
+Transcription:,"Well, I guess that'll do.",,Responses:,"['Taunt: Flying Colors', 'Taunt: The Dueling Banjo', 'MvMUpgradeCompleteEngineer']"
 Your Line:,,,Rules:,['MvMUpgradeCompleteEngineer']
 ,,,Criteria:,"[['ConceptMvMUpgradeComplete', '5PercentChance', 'IsMvMDefender', 'IsEngineer']]"
 
@@ -1992,8 +1992,8 @@ Your Line:,,,Rules:,['EngineerMvMLootCommon']
 
 Filename:,engineer_mvm_loot_common02,,Events:,"['engineer_taunt_flag', 'engineer_mvm_loot_common02']"
 Full Path:,vo/engineer_mvm_loot_common02.mp3,,Scenes:,"['scenes/player/engineer/low/7857.vcd', 'scenes/workshop/player/engineer/low/taunt_flying_colors.vcd']"
-Transcription:,That works.,,Responses:,"['EngineerSF13SpellPickupCommon', 'EngineerMvMLootCommon', 'Taunt: Flying Colors']"
-Your Line:,,,Rules:,"['EngineerSF13SpellPickupCommon', 'EngineerMvMLootCommon']"
+Transcription:,That works.,,Responses:,"['Taunt: Flying Colors', 'EngineerMvMLootCommon', 'EngineerSF13SpellPickupCommon']"
+Your Line:,,,Rules:,"['EngineerMvMLootCommon', 'EngineerSF13SpellPickupCommon']"
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsEngineer'], ['ConceptMvMLootCommon', 'IsEngineer', '20PercentChance']]"
 
 Filename:,engineer_mvm_loot_godlike01,,Events:,['engineer_mvm_loot_godlike01']
@@ -2022,12 +2022,12 @@ Your Line:,,,Rules:,['EngineerMvMLootRare']
 
 Filename:,engineer_mvm_loot_rare02,,Events:,['engineer_mvm_loot_rare02']
 Full Path:,vo/engineer_mvm_loot_rare02.mp3,,Scenes:,['scenes/player/engineer/low/7860.vcd']
-Transcription:,Hot damn!,,Responses:,"['EngineerMvMLootRare', 'EngineerSF13SpellPickupRare']"
-Your Line:,,,Rules:,"['EngineerMvMLootRare', 'EngineerSF13SpellPickupRare']"
+Transcription:,Hot damn!,,Responses:,"['EngineerSF13SpellPickupRare', 'EngineerMvMLootRare']"
+Your Line:,,,Rules:,"['EngineerSF13SpellPickupRare', 'EngineerMvMLootRare']"
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsEngineer'], ['ConceptMvMLootRare', 'IsEngineer']]"
 
-Filename:,engineer_mvm_loot_rare03,,Events:,"['engie_taunt_commending_clap_a', 'engineer_mvm_loot_rare03']"
-Full Path:,vo/engineer_mvm_loot_rare03.mp3,,Scenes:,"['scenes/player/engineer/low/8467.vcd', 'scenes/workshop/player/engineer/low/taunt_commending_clap.vcd']"
+Filename:,engineer_mvm_loot_rare03,,Events:,"['engineer_mvm_loot_rare03', 'engie_taunt_commending_clap_a']"
+Full Path:,vo/engineer_mvm_loot_rare03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_commending_clap.vcd', 'scenes/player/engineer/low/8467.vcd']"
 Transcription:,Now that is just dynamite!,,Responses:,"['Taunt: Commending Clap', 'EngineerMvMLootRare']"
 Your Line:,,,Rules:,['EngineerMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsEngineer']]"
@@ -2092,13 +2092,13 @@ Transcription:,One sapped robot.,,Responses:,['MvMSappedRobotEngineer']
 Your Line:,,,Rules:,['MvMSappedRobotEngineer']
 ,,,Criteria:,"[['ConceptMvMSappedRobot', '50PercentChance', 'IsMvMDefender', 'IsEngineer']]"
 
-Filename:,engineer_mvm_say_ready01,,Events:,"['engineer.readycomp', 'engineer_mvm_say_ready01', 'engineer.ready', 'engineer.readymvm']"
+Filename:,engineer_mvm_say_ready01,,Events:,"['engineer_mvm_say_ready01', 'engineer.ready', 'engineer.readycomp', 'engineer.readymvm']"
 Full Path:,vo/engineer_mvm_say_ready01.mp3,,Scenes:,[]
 Transcription:,I'm ready.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,engineer_mvm_say_ready02,,Events:,"['engineer.readycomp', 'engineer_mvm_say_ready02', 'engineer.ready', 'engineer.readymvm']"
+Filename:,engineer_mvm_say_ready02,,Events:,"['engineer.ready', 'engineer_mvm_say_ready02', 'engineer.readycomp', 'engineer.readymvm']"
 Full Path:,vo/engineer_mvm_say_ready02.mp3,,Scenes:,[]
 Transcription:,"Pony up, boys.",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -2393,25 +2393,25 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_bronco_01,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_bronco_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Full Path:,vo/taunts/engy/eng_bronco_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Yee-haw!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_bronco_02,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'taunt_engineer_aerobic_shared_dance_intro']"
-Full Path:,vo/taunts/engy/eng_bronco_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd']"
-Transcription:,Woo hoo! Hoo hoo! Yeah! Yee-haw!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Mannrobics']"
+Filename:,eng_bronco_02,,Events:,"['taunt_engineer_aerobic_shared_dance_intro', 'engineer_bucking_bronco_taunt_yells_a']"
+Full Path:,vo/taunts/engy/eng_bronco_02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Woo hoo! Hoo hoo! Yeah! Yee-haw!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_bronco_03,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'taunt_engineer_aerobic_shared_dance_intro', 'taunt_killer_joke_engineer']"
-Full Path:,vo/taunts/engy/eng_bronco_03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd']"
-Transcription:,Yeeeeeee-haw!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Mannrobics', 'Taunt: Killer Joke']"
+Filename:,eng_bronco_03,,Events:,"['taunt_engineer_aerobic_shared_dance_intro', 'engineer_bucking_bronco_taunt_yells_a', 'taunt_killer_joke_engineer']"
+Full Path:,vo/taunts/engy/eng_bronco_03.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Yeeeeeee-haw!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco', 'Taunt: Killer Joke']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_bronco_04,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_bronco_04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Full Path:,vo/taunts/engy/eng_bronco_04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Yeeeeee-haw!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2423,20 +2423,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_bronco_07,,Events:,"['engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_bronco_07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Full Path:,vo/taunts/engy/eng_bronco_07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Ah hah!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_bronco_09,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'taunt_engineer_aerobic_shared_dance_intro', 'engineer_taunt_bumpkins_banjo_yells', 'taunt.bearhug_engineer_b']"
-Full Path:,vo/taunts/engy/eng_bronco_09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Whew! Hoo hoo!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Mannrobics', 'Taunt: The Dueling Banjo', 'Taunt: Bear Hug']"
+Filename:,eng_bronco_09,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'taunt_engineer_aerobic_shared_dance_intro', 'taunt.bearhug_engineer_b', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/taunts/engy/eng_bronco_09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
+Transcription:,Whew! Hoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco', 'Taunt: Bear Hug', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_bronco_12,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'taunt.bearhug_engineer_c', 'taunt_engineer_aerobic_shared_dance_intro']"
-Full Path:,vo/taunts/engy/eng_bronco_12.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
-Transcription:,Mmh! Huh ha hoo! This is not doing my spine any favors!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Mannrobics', 'Taunt: Bear Hug']"
+Filename:,eng_bronco_12,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'taunt_engineer_aerobic_shared_dance_intro', 'taunt.bearhug_engineer_c']"
+Full Path:,vo/taunts/engy/eng_bronco_12.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,Mmh! Huh ha hoo! This is not doing my spine any favors!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco', 'Taunt: Bear Hug']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2452,8 +2452,8 @@ Transcription:,"[glugging] ""Ahhh!""",,Responses:,['Taunt: Rancho Relaxo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_guzzle_03,,Events:,"['engy_taunt_killertime_4_drink', 'taunt.demopoopeddeckdrink', 'sniper.taunt_shooters_stake_drink']"
-Full Path:,vo/taunts/engy/eng_guzzle_03.mp3,,Scenes:,"['scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
+Filename:,eng_guzzle_03,,Events:,"['taunt.demopoopeddeckdrink', 'engy_taunt_killertime_4_drink', 'sniper.taunt_shooters_stake_drink']"
+Full Path:,vo/taunts/engy/eng_guzzle_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
 Transcription:,[loud slurp,,Responses:,"['Taunt: The Drunken Sailor', 'Taunt: Rancho Relaxo', 'Taunt: The Pooped Deck', ""Taunt: Shooter's Stakeout""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2466,7 +2466,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_guzzle_05,,Events:,"['engy_taunt_killertime_4_3_ahhh', 'engineer_taunt_cheers']"
 Full Path:,vo/taunts/engy/eng_guzzle_05.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/engineer/low/taunt_cheers.vcd']"
-Transcription:,Ahhhh!,,Responses:,"['Taunt: Cheers!', 'Taunt: Rancho Relaxo']"
+Transcription:,Ahhhh!,,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Cheers!']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2488,27 +2488,27 @@ Transcription:,Woo! Yeah yee yah!,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_08,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_conga_random_fun1', 'eng_taunt_flip_random_flipflipfinish2']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,"Ho ho, dee diga dee!",,Responses:,"['Taunt: Conga', 'Taunt: The Dueling Banjo', ""Taunt: Flippin' Awesome""]"
+Filename:,eng_taunt_cong_fun_08,,Events:,"['eng_taunt_flip_random_flipflipfinish2', 'eng_taunt_conga_random_fun1', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,"Ho ho, dee diga dee!",,Responses:,"['Taunt: Conga', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_09,,Events:,"['eng_taunt_conga_random_fun3', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_flip_random_flipflipfinish2']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,"Ho ho, yee hah!",,Responses:,"['Taunt: Conga', 'Taunt: The Dueling Banjo', 'Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em"", ""Taunt: Flippin' Awesome""]"
+Filename:,eng_taunt_cong_fun_09,,Events:,"['eng_taunt_conga_random_fun3', 'eng_taunt_flip_random_flipflipfinish2', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,"Ho ho, yee hah!",,Responses:,"['Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em"", 'Taunt: The Dueling Banjo', 'Taunt: Conga', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_10,,Events:,"['taunt_killer_joke_engineer', 'engineer_bucking_bronco_taunt_yells', 'engineer_bucking_bronco_taunt_yells_a', 'eng_taunt_flip_random_flipflipfinish2', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_conga_random_fun2']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,"Ho ho, woowhee!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', 'Taunt: The Dueling Banjo', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome""]"
+Filename:,eng_taunt_cong_fun_10,,Events:,"['taunt_killer_joke_engineer', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_conga_random_fun2', 'engineer_bucking_bronco_taunt_yells_a', 'eng_taunt_flip_random_flipflipfinish2', 'engineer_bucking_bronco_taunt_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_10.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,"Ho ho, woowhee!",,Responses:,"['Taunt: Mannrobics', 'Taunt: The Dueling Banjo', 'Taunt: Killer Joke', 'Taunt: Bucking Bronco', 'Taunt: Conga', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_13,,Events:,"['eng_taunt_conga_random_fun3', 'engineer_bucking_bronco_taunt_yells_b']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_13.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,"Yehaw, yehaw, yehaw!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', ""Taunt: Texas Twirl 'Em"", 'Taunt: Mannrobics']"
+Filename:,eng_taunt_cong_fun_13,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'eng_taunt_conga_random_fun3']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_13.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,"Yehaw, yehaw, yehaw!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco', 'Taunt: Conga', ""Taunt: Texas Twirl 'Em""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2542,8 +2542,8 @@ Transcription:,"Yeah, that's living!",,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_33,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_conga_random_fun2']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_33.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Filename:,eng_taunt_cong_fun_33,,Events:,"['eng_taunt_conga_random_fun2', 'engineer_bucking_bronco_taunt_yells_a', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_33.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
 Transcription:,"Mmmh, go horse, go!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2554,9 +2554,9 @@ Transcription:,"Yeah, yeah!",,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_cong_fun_35,,Events:,"['taunt_yeti_engineer', 'eng_taunt_conga_random_fun3', 'engineer_bucking_bronco_taunt_yells_a']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_35.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,"Oh hee, hee, hee, hee, hee!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', ""Taunt: Texas Twirl 'Em"", 'Taunt: Mannrobics']"
+Filename:,eng_taunt_cong_fun_35,,Events:,"['eng_taunt_conga_random_fun3', 'engineer_bucking_bronco_taunt_yells_a', 'taunt_yeti_engineer']"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_35.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
+Transcription:,"Oh hee, hee, hee, hee, hee!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Bucking Bronco', 'Taunt: Conga', ""Taunt: Texas Twirl 'Em""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2567,20 +2567,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_cong_fun_42,,Events:,"['taunt_killer_joke_engineer', 'eng_taunt_conga_random_fun3', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_taunt_cong_fun_42.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Mmmmmhmmmn!,,Responses:,"['Taunt: Conga', 'Taunt: The Dueling Banjo', 'Taunt: Killer Joke', 'Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em""]"
+Full Path:,vo/taunts/engy/eng_taunt_cong_fun_42.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/player/engineer/low/conga.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,Mmmmmhmmmn!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em"", 'Taunt: The Dueling Banjo', 'Taunt: Killer Joke', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_dosi_end_01,,Events:,['eng_taunt_dosido_end_rand']
-Full Path:,vo/taunts/engy/eng_taunt_dosi_end_01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,I'm a dancing fool!,,Responses:,"[""Taunt: Texas Twirl 'Em"", 'Taunt: Square Dance']"
+Full Path:,vo/taunts/engy/eng_taunt_dosi_end_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd']"
+Transcription:,I'm a dancing fool!,,Responses:,"['Taunt: Square Dance', ""Taunt: Texas Twirl 'Em""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_dosi_end_02,,Events:,"['engineer_bucking_bronco_taunt_yells', 'engineer_bucking_bronco_taunt_yells_b', 'engineer_bucking_bronco_taunt_yells_a', 'eng_taunt_dosido_end_rand', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_taunt_dosi_end_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Yeeehaw!,,Responses:,"['Taunt: Square Dance', 'Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', 'Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em""]"
+Filename:,eng_taunt_dosi_end_02,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'engineer_bucking_bronco_taunt_yells_b', 'eng_taunt_dosido_end_rand', 'engineer_bucking_bronco_taunt_yells_a', 'engineer_bucking_bronco_taunt_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_dosi_end_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,Yeeehaw!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em"", 'Taunt: The Dueling Banjo', 'Taunt: Bucking Bronco', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2591,8 +2591,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_exert_05,,Events:,"['eng_taunt_flip_random_flipexert', 'eng_taunt_dosido_mid_rand', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_05.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator0.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd']"
-Transcription:,Hee-yah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_05.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd', 'scenes/player/engineer/low/flip_success_initiator0.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd']"
+Transcription:,Hee-yah!,,Responses:,"['Taunt: Square Dance', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2603,7 +2603,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_exert_08,,Events:,"['eng_taunt_flip_random_flipexert', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_08.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator0.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_08.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd', 'scenes/player/engineer/low/flip_success_initiator0.vcd']"
 Transcription:,Urgh!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2614,9 +2614,9 @@ Transcription:,"Ooh, dosido!!",,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_exert_12,,Events:,"['eng_taunt_flip_random_flipexertvocal', 'eng_taunt_dosido_mid_rand', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_12.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Hoowhoo!,,Responses:,"['Taunt: The Dueling Banjo', ""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
+Filename:,eng_taunt_exert_12,,Events:,"['eng_taunt_dosido_mid_rand', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_flip_random_flipexertvocal']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_12.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,Hoowhoo!,,Responses:,"['Taunt: Square Dance', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2626,9 +2626,9 @@ Transcription:,Yeehaw!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_exert_19,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_headbutt_success_recover_1', 'eng_taunt_dosido_mid_rand', 'eng_taunt_headbutt_success_windup', 'engineer_taunt_dosido_intro_wait_rand']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_19.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Whoowhew!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Dueling Banjo', ""Taunt: Texas Truckin'"", 'Taunt: Square Dance']"
+Filename:,eng_taunt_exert_19,,Events:,"['eng_taunt_headbutt_success_windup', 'eng_taunt_dosido_mid_rand', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_headbutt_success_recover_1', 'engineer_taunt_dosido_intro_wait_rand']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_19.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
+Transcription:,Whoowhew!,,Responses:,"['Taunt: Square Dance', 'Taunt: Skullcracker', 'Taunt: The Dueling Banjo', ""Taunt: Texas Truckin'""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2638,20 +2638,20 @@ Transcription:,Yeeehaaaw!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_exert_29,,Events:,"['eng_taunt_flip_random_flipexertvocal', 'engineer_taunt_bumpkins_banjo_yells', 'taunt.bearhug_engineer_b']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_29.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Whoo hoo!,,Responses:,"['Taunt: Bear Hug', 'Taunt: The Dueling Banjo', ""Taunt: Flippin' Awesome""]"
+Filename:,eng_taunt_exert_29,,Events:,"['taunt.bearhug_engineer_b', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_flip_random_flipexertvocal']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_29.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
+Transcription:,Whoo hoo!,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_exert_30,,Events:,"['eng_taunt_flip_random_flipexert', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_30.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator0.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_30.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd', 'scenes/player/engineer/low/flip_success_initiator0.vcd']"
 Transcription:,Ughh!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_exert_44,,Events:,"['eng_taunt_flip_random_flipexert', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_44.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator0.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_44.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_receiver0.vcd', 'scenes/player/engineer/low/flip_success_initiator0.vcd']"
 Transcription:,Urgh!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2663,25 +2663,25 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_exert_47,,Events:,"['eng_taunt_headbutt_success_exert', 'engy_taunt_neck_snap_03']"
-Full Path:,vo/taunts/engy/eng_taunt_exert_47.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_exert_47.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd']"
 Transcription:,Uragh!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_flip_admire_01,,Events:,"['engineer_bucking_bronco_taunt_yells_b', 'eng_taunt_flip_random_flipflipfinish1']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_01.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Yah yah!,,Responses:,"['Taunt: Bucking Bronco', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_02,,Events:,"['eng_taunt_flip_random_flipadmire', 'eng_taunt_flip_random_flipflipfinish1']"
+Filename:,eng_taunt_flip_admire_02,,Events:,"['eng_taunt_flip_random_flipflipfinish1', 'eng_taunt_flip_random_flipadmire']"
 Full Path:,vo/taunts/engy/eng_taunt_flip_admire_02.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd']"
 Transcription:,Yee haw!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_03,,Events:,"['eng_taunt_flip_random_flipadmire', 'engineer_bucking_bronco_taunt_yells_a']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd']"
+Filename:,eng_taunt_flip_admire_03,,Events:,"['engineer_bucking_bronco_taunt_yells_a', 'eng_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_03.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,"Yah, yah, yah!",,Responses:,"['Taunt: Bucking Bronco', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2698,7 +2698,7 @@ Transcription:,"Hyup, yah spur, spur!",,Responses:,"[""Taunt: Flippin' Awesome""
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_07,,Events:,"['eng_taunt_flip_random_flipthrowantic', 'eng_taunt_flip_random_flipflipfinish1']"
+Filename:,eng_taunt_flip_admire_07,,Events:,"['eng_taunt_flip_random_flipflipfinish1', 'eng_taunt_flip_random_flipthrowantic']"
 Full Path:,vo/taunts/engy/eng_taunt_flip_admire_07.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd']"
 Transcription:,Yeah!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -2716,33 +2716,33 @@ Transcription:,"Hmm, hah! Nicely done!",,Responses:,"[""Taunt: Flippin' Awesome"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_11,,Events:,"['eng_taunt_flip_random_flipadmire', 'eng_taunt_dosido_end_rand', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_11.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,Nicely done!,,Responses:,"[""Taunt: Texas Twirl 'Em"", ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo', 'Taunt: Square Dance']"
+Filename:,eng_taunt_flip_admire_11,,Events:,"['engineer_taunt_bumpkins_banjo_engineer_outro', 'eng_taunt_dosido_end_rand', 'eng_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_11.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,Nicely done!,,Responses:,"['Taunt: Square Dance', ""Taunt: Texas Twirl 'Em"", ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_flip_admire_12,,Events:,['eng_taunt_dosido_start_rand']
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_12.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd']"
-Transcription:,Hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: The Victory Lap', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_12.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd']"
+Transcription:,Hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_14,,Events:,"['taunt_yeti_engineer', 'eng_taunt_flip_random_flipadmire', 'eng_taunt_dosido_end_rand']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_14.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,All right!,,Responses:,"[""Taunt: Texas Twirl 'Em"", ""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
+Filename:,eng_taunt_flip_admire_14,,Events:,"['eng_taunt_dosido_end_rand', 'taunt_yeti_engineer', 'eng_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_14.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,All right!,,Responses:,"['Taunt: Square Dance', ""Taunt: Texas Twirl 'Em"", ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_admire_15,,Events:,"['taunt_yeti_engineer', 'eng_taunt_flip_random_flipadmire', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engy_taunt_russian_rand']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_admire_15.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/player/engineer/low/flip_success_initiator1.vcd']"
-Transcription:,Ha! All right!,,Responses:,"[""Taunt: Texas Truckin'"", 'Taunt: Kazotsky Kick', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
+Filename:,eng_taunt_flip_admire_15,,Events:,"['engineer_taunt_bumpkins_banjo_engineer_outro', 'taunt_yeti_engineer', 'eng_taunt_flip_random_flipadmire', 'engy_taunt_russian_rand']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_admire_15.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/taunt_russian.vcd']"
+Transcription:,Ha! All right!,,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo', ""Taunt: Texas Truckin'""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_end_01,,Events:,"['eng_taunt_dosido_start_rand', 'eng_taunt_flip_random_waiting']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_end_01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/flip_start.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd']"
-Transcription:,Giddyup!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Victory Lap', 'Taunt: Square Dance']"
+Filename:,eng_taunt_flip_end_01,,Events:,"['eng_taunt_flip_random_waiting', 'eng_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_end_01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/flip_start.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd']"
+Transcription:,Giddyup!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance', ""Taunt: Flippin' Awesome"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2752,7 +2752,7 @@ Transcription:,Giddyup!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_end_08,,Events:,"['taunt_yeti_engineer', 'eng_taunt_flip_random_flipthrowantic']"
+Filename:,eng_taunt_flip_end_08,,Events:,"['eng_taunt_flip_random_flipthrowantic', 'taunt_yeti_engineer']"
 Full Path:,vo/taunts/engy/eng_taunt_flip_end_08.mp3,,Scenes:,['scenes/player/engineer/low/flip_success_initiator1.vcd']
 Transcription:,Ha hah!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -2782,21 +2782,21 @@ Transcription:,Get up there!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_fun_01,,Events:,"['taunt_killer_joke_engineer', 'engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Woooo!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', ""Taunt: Flippin' Awesome"", 'Taunt: Killer Joke']"
+Filename:,eng_taunt_flip_fun_01,,Events:,"['taunt_killer_joke_engineer', 'engineer_bucking_bronco_taunt_start', 'eng_taunt_flip_random_flipflipping', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_killer_joke.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,Woooo!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Killer Joke', ""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_fun_06,,Events:,"['eng_taunt_dosido_start_rand', 'engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_flip_random_flipflipping']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Wooo!,,Responses:,"['Taunt: Square Dance', 'Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', 'Taunt: Mannrobics', ""Taunt: Flippin' Awesome"", 'Taunt: The Victory Lap']"
+Filename:,eng_taunt_flip_fun_06,,Events:,"['engineer_bucking_bronco_taunt_start', 'eng_taunt_flip_random_flipflipping', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
+Transcription:,Wooo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: The Victory Lap', 'Taunt: The Dueling Banjo', 'Taunt: Bucking Bronco', ""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_flip_fun_07,,Events:,"['eng_taunt_dosido_start_rand', 'engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells', 'engy_taunt_russian_rand']"
-Full Path:,vo/taunts/engy/eng_taunt_flip_fun_07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,Woo hoo!,,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Texas Truckin'"", 'Taunt: Square Dance', 'Taunt: Bucking Bronco', 'Taunt: The Dueling Banjo', 'Taunt: Mannrobics', 'Taunt: The Victory Lap']"
+Filename:,eng_taunt_flip_fun_07,,Events:,"['engineer_bucking_bronco_taunt_start', 'engineer_bucking_bronco_taunt_yells_short', 'engineer_taunt_bumpkins_banjo_yells', 'eng_taunt_dosido_start_rand', 'engy_taunt_russian_rand']"
+Full Path:,vo/taunts/engy/eng_taunt_flip_fun_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_aerobic_b.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
+Transcription:,Woo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Kazotsky Kick', ""Taunt: Texas Truckin'"", 'Taunt: The Dueling Banjo', 'Taunt: Bucking Bronco', 'Taunt: The Victory Lap', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2842,27 +2842,27 @@ Transcription:,Get a foot in!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_head_end_07,,Events:,"['engy_taunt_neck_snap_05', 'eng_taunt_headbutt_success_recover_1', 'taunt_burstchester_engineer_02', 'taunt_yeti_engineer', 'engineer.scardy_cat_b']"
-Full Path:,vo/taunts/engy/eng_taunt_head_end_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
-Transcription:,Whoo!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Scaredy-Cat!', 'Taunt: Neck Snap', 'Taunt: Burstchester']"
+Filename:,eng_taunt_head_end_07,,Events:,"['engineer.scardy_cat_b', 'engy_taunt_neck_snap_05', 'taunt_burstchester_engineer_02', 'taunt_yeti_engineer', 'eng_taunt_headbutt_success_recover_1']"
+Full Path:,vo/taunts/engy/eng_taunt_head_end_07.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
+Transcription:,Whoo!,,Responses:,"['Taunt: The Scaredy-Cat!', 'Taunt: Skullcracker', 'Taunt: Neck Snap', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_head_end_08,,Events:,"['eng_taunt_headbutt_success_recover_2', 'engy_taunt_neck_snap_04']"
-Full Path:,vo/taunts/engy/eng_taunt_head_end_08.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd']"
-Transcription:,Yeah!,,Responses:,"['Taunt: Skullcracker', ""Taunt: Texas Truckin'"", 'Taunt: Neck Snap']"
+Filename:,eng_taunt_head_end_08,,Events:,"['engy_taunt_neck_snap_04', 'eng_taunt_headbutt_success_recover_2']"
+Full Path:,vo/taunts/engy/eng_taunt_head_end_08.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd']"
+Transcription:,Yeah!,,Responses:,"[""Taunt: Texas Truckin'"", 'Taunt: Skullcracker', 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_head_end_13,,Events:,"['taunt_yeti_engineer', 'eng_taunt_headbutt_success_recover_2']"
+Filename:,eng_taunt_head_end_13,,Events:,"['eng_taunt_headbutt_success_recover_2', 'taunt_yeti_engineer']"
 Full Path:,vo/taunts/engy/eng_taunt_head_end_13.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd']"
-Transcription:,All right!,,Responses:,"['Taunt: Skullcracker', ""Taunt: Texas Truckin'""]"
+Transcription:,All right!,,Responses:,"[""Taunt: Texas Truckin'"", 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_02,,Events:,"['eng_taunt_flip_random_waiting', 'engineer_taunt_bumpkins_banjo_intro']"
+Filename:,eng_taunt_int_02,,Events:,"['engineer_taunt_bumpkins_banjo_intro', 'eng_taunt_flip_random_waiting']"
 Full Path:,vo/taunts/engy/eng_taunt_int_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/flip_start.vcd']"
-Transcription:,Let's do this!,,Responses:,"['Taunt: The Dueling Banjo', ""Taunt: Flippin' Awesome""]"
+Transcription:,Let's do this!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2886,7 +2886,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_taunt_int_10,,Events:,['engineer_taunt_dosido_intro_wait_rand']
 Full Path:,vo/taunts/engy/eng_taunt_int_10.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
-Transcription:,Alright!,,Responses:,"[""Taunt: Texas Truckin'"", 'Taunt: Square Dance']"
+Transcription:,Alright!,,Responses:,"['Taunt: Square Dance', ""Taunt: Texas Truckin'""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2926,9 +2926,9 @@ Transcription:,Let's go.,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_23,,Events:,"['eng_taunt_headbutt_start_4', 'eng_taunt_dosido_intro_rand']"
+Filename:,eng_taunt_int_23,,Events:,"['eng_taunt_dosido_intro_rand', 'eng_taunt_headbutt_start_4']"
 Full Path:,vo/taunts/engy/eng_taunt_int_23.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/player/engineer/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd']"
-Transcription:,Let's go...,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Fist Bump', 'Taunt: Square Dance']"
+Transcription:,Let's go...,,Responses:,"['Taunt: Square Dance', 'Taunt: The Fist Bump', 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2938,26 +2938,26 @@ Transcription:,Let's go.,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_25,,Events:,"['eng_taunt_flip_random_flipflipantic', 'taunt.bearhug_engineer_a', 'eng_taunt_flip_random_waiting', 'engy_taunt_neck_snap_02']"
-Full Path:,vo/taunts/engy/eng_taunt_int_25.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/player/engineer/low/flip_start.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd']"
+Filename:,eng_taunt_int_25,,Events:,"['engy_taunt_neck_snap_02', 'eng_taunt_flip_random_flipflipantic', 'eng_taunt_flip_random_waiting', 'taunt.bearhug_engineer_a']"
+Full Path:,vo/taunts/engy/eng_taunt_int_25.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_receiver1.vcd', 'scenes/player/engineer/low/flip_start.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
 Transcription:,Let's GO.,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_int_31,,Events:,"['engineer_taunt_rps_intro_wait_rand', 'engineer_taunt_bumpkins_banjo_intro']"
 Full Path:,vo/taunts/engy/eng_taunt_int_31.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd']"
-Transcription:,Let's do this!,,Responses:,"['Taunt: The Dueling Banjo', 'Taunt: Rock, Paper, Scissors']"
+Transcription:,Let's do this!,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_36,,Events:,"['engineer_bucking_bronco_taunt_start', 'eng_taunt_dosido_intro_rand']"
-Full Path:,vo/taunts/engy/eng_taunt_int_36.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/taunt_dosido_intro01.vcd']"
+Filename:,eng_taunt_int_36,,Events:,"['eng_taunt_dosido_intro_rand', 'engineer_bucking_bronco_taunt_start']"
+Full Path:,vo/taunts/engy/eng_taunt_int_36.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Come on now!,,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_int_37,,Events:,"['engineer_bucking_bronco_taunt_start', 'eng_taunt_flip_random_waiting']"
-Full Path:,vo/taunts/engy/eng_taunt_int_37.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/player/engineer/low/flip_start.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_int_37.mp3,,Scenes:,"['scenes/player/engineer/low/flip_start.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd']"
 Transcription:,Come on now!,,Responses:,"['Taunt: Bucking Bronco', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2970,19 +2970,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_taunt_int_39,,Events:,"['engineer_taunt_rps_intro_wait_rand', 'eng_taunt_flip_random_waiting']"
 Full Path:,vo/taunts/engy/eng_taunt_int_39.mp3,,Scenes:,"['scenes/player/engineer/low/flip_start.vcd', 'scenes/player/engineer/low/taunt_rps_start.vcd']"
-Transcription:,Come on now.,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Rock, Paper, Scissors']"
+Transcription:,Come on now.,,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_41,,Events:,"['taunt.bearhug_engineer_a', 'eng_taunt_flip_random_waiting', 'eng_taunt_headbutt_start_1']"
-Full Path:,vo/taunts/engy/eng_taunt_int_41.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_start.vcd', 'scenes/player/engineer/low/flip_start.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
-Transcription:,"Come on, now!",,Responses:,"['Taunt: Skullcracker', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,eng_taunt_int_41,,Events:,"['eng_taunt_headbutt_start_1', 'eng_taunt_flip_random_waiting', 'taunt.bearhug_engineer_a']"
+Full Path:,vo/taunts/engy/eng_taunt_int_41.mp3,,Scenes:,"['scenes/player/engineer/low/flip_start.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd', 'scenes/player/engineer/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd']"
+Transcription:,"Come on, now!",,Responses:,"['Taunt: Bear Hug', 'Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_int_44,,Events:,"['eng_taunt_headbutt_start_4', 'eng_taunt_dosido_intro_rand', 'engineer_taunt_bumpkins_banjo_intro']"
-Full Path:,vo/taunts/engy/eng_taunt_int_44.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/player/engineer/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd']"
-Transcription:,Who's with me?!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Dueling Banjo', 'Taunt: The Fist Bump', 'Taunt: Square Dance']"
+Filename:,eng_taunt_int_44,,Events:,"['eng_taunt_dosido_intro_rand', 'engineer_taunt_bumpkins_banjo_intro', 'eng_taunt_headbutt_start_4']"
+Full Path:,vo/taunts/engy/eng_taunt_int_44.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/taunt_dosido_intro01.vcd', 'scenes/player/engineer/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd']"
+Transcription:,Who's with me?!,,Responses:,"['Taunt: Square Dance', 'Taunt: The Fist Bump', 'Taunt: Skullcracker', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2993,25 +2993,25 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_exert_01,,Events:,['eng_taunt_rps_exert_01']
-Full Path:,vo/taunts/engy/eng_taunt_rps_exert_01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_exert_01.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,One!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_exert_02,,Events:,['eng_taunt_rps_exert_02']
-Full Path:,vo/taunts/engy/eng_taunt_rps_exert_02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_exert_02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,Two!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_exert_03,,Events:,['eng_taunt_rps_exert_03']
-Full Path:,vo/taunts/engy/eng_taunt_rps_exert_03.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_exert_03.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd']"
 Transcription:,Three!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_exert_07,,Events:,['eng_taunt_rps_exert_07']
-Full Path:,vo/taunts/engy/eng_taunt_rps_exert_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_exert_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_rock_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_lose.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd']"
 Transcription:,On three!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3041,14 +3041,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_lose_25,,Events:,"['taunt_burstchester_engineer_01', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'eng_taunt_rps_lose_25']"
-Full Path:,vo/taunts/engy/eng_taunt_rps_lose_25.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd']"
-Transcription:,You low-down scoundrel.,,Responses:,"['Taunt: Burstchester', 'Taunt: The Dueling Banjo', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_lose_25.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_lose.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
+Transcription:,You low-down scoundrel.,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: The Dueling Banjo', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,eng_taunt_rps_lose_29,,Events:,"['eng_taunt_rps_lose_29', 'taunt_burstchester_engineer_01']"
-Full Path:,vo/taunts/engy/eng_taunt_rps_lose_29.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd']"
-Transcription:,"Well, that sours my milk.",,Responses:,"['Taunt: Burstchester', 'Taunt: Rock, Paper, Scissors']"
+Filename:,eng_taunt_rps_lose_29,,Events:,"['taunt_burstchester_engineer_01', 'eng_taunt_rps_lose_29']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_lose_29.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd']"
+Transcription:,"Well, that sours my milk.",,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3059,13 +3059,13 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_win_06,,Events:,['eng_taunt_rps_win_06']
-Full Path:,vo/taunts/engy/eng_taunt_rps_win_06.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_win_06.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_scissors_win.vcd', 'scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,"Scissors cut paper, hoss!",,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_rps_win_07,,Events:,['eng_taunt_rps_win_07']
-Full Path:,vo/taunts/engy/eng_taunt_rps_win_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_win.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd']"
+Full Path:,vo/taunts/engy/eng_taunt_rps_win_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/engineer/low/taunt_rps_paper_win.vcd']"
 Transcription:,"Paper covers rock, boss!",,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3083,19 +3083,19 @@ Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,engineer_cheers02,,Events:,['engineer_taunt_bumpkins_banjo_yells']
-Full Path:,vo/taunts/engy/engineer_cheers02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Full Path:,vo/taunts/engy/engineer_cheers02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
 Transcription:,Whoooohou!,,Responses:,['Taunt: The Dueling Banjo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,engineer_laughhappy03,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'engy_taunt_russian_rand']"
-Full Path:,vo/taunts/engy/engineer_laughhappy03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
-Transcription:,(Happy Laughter 3),,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Texas Truckin'"", 'Taunt: The Dueling Banjo']"
+Full Path:,vo/taunts/engy/engineer_laughhappy03.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
+Transcription:,(Happy Laughter 3),,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Dueling Banjo', ""Taunt: Texas Truckin'""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_engineer_lounge_button_press,,Events:,['engy_taunt_killertime_1_button']
-Full Path:,vo/taunts/engy/taunt_engineer_lounge_button_press.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Full Path:,vo/taunts/engy/taunt_engineer_lounge_button_press.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd']"
 Transcription:,[beep,,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -3113,8 +3113,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_engineer_lounge_toolbox_open,,Events:,['engy_taunt_killertime_2_open']
-Full Path:,vo/taunts/engy/taunt_engineer_lounge_toolbox_open.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
-Transcription:,[steam hissing and gears clanking,,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: The Travel Agent', 'Taunt: Tailored Terminal']"
+Full Path:,vo/taunts/engy/taunt_engineer_lounge_toolbox_open.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
+Transcription:,[steam hissing and gears clanking,,Responses:,"['Taunt: The Travel Agent', 'Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3192,8 +3192,8 @@ Your Line:,,,Rules:,['EngineerSF13RoundStart']
 
 Filename:,engineer_sf13_round_start04,,Events:,['engineer_sf13_round_start04']
 Full Path:,vo/engineer_sf13_round_start04.mp3,,Scenes:,['scenes/player/engineer/low/7896.vcd']
-Transcription:,Let's get this damn old man to hell!,,Responses:,"['EngineerSF13RoundStart', 'EngineerSF13BattleCry']"
-Your Line:,,,Rules:,"['EngineerSF13RoundStart', 'EngineerSF13BattleCry']"
+Transcription:,Let's get this damn old man to hell!,,Responses:,"['EngineerSF13BattleCry', 'EngineerSF13RoundStart']"
+Your Line:,,,Rules:,"['EngineerSF13BattleCry', 'EngineerSF13RoundStart']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsEngineer', '75PercentChance', 'IsMapHelltower', 'IsNotInHell'], ['ConceptPlayerBattleCry', 'IsEngineer', 'IsEngineer', 'IsEngineer', '75PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
 Filename:,engineer_sf13_spell_bombhead01,,Events:,['engineer_sf13_spell_bombhead01']
@@ -3442,8 +3442,8 @@ Transcription:,Ha hah!,,Responses:,['PlayerMatchWinCompEngineer']
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
 
-Filename:,cm_engie_matchwon_02,,Events:,"['cm_engie_matchwon_02', 'engineer_taunt_bumpkins_banjo_yells', 'engineer_taunt_bumpkins_banjo_intro']"
-Full Path:,vo/compmode/cm_engie_matchwon_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_02.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Filename:,cm_engie_matchwon_02,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'cm_engie_matchwon_02', 'engineer_taunt_bumpkins_banjo_intro']"
+Full Path:,vo/compmode/cm_engie_matchwon_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_02.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
 Transcription:,Yeeee-haw!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerMatchWinCompEngineer']"
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
@@ -3454,20 +3454,20 @@ Transcription:,Done and done!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerM
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
 
-Filename:,cm_engie_matchwon_04,,Events:,"['engineer_taunt_bumpkins_banjo_engineer_outro', 'cm_engie_matchwon_04']"
+Filename:,cm_engie_matchwon_04,,Events:,"['cm_engie_matchwon_04', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
 Full Path:,vo/compmode/cm_engie_matchwon_04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_04.vcd']"
 Transcription:,(Whistles) Not bad!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerMatchWinCompEngineer']"
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
 
-Filename:,cm_engie_matchwon_05,,Events:,"['cm_engie_matchwon_05', 'engineer_taunt_bumpkins_banjo_yells']"
-Full Path:,vo/compmode/cm_engie_matchwon_05.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_05.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd']"
+Filename:,cm_engie_matchwon_05,,Events:,"['engineer_taunt_bumpkins_banjo_yells', 'cm_engie_matchwon_05']"
+Full Path:,vo/compmode/cm_engie_matchwon_05.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_05.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd']"
 Transcription:,Yehaw!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerMatchWinCompEngineer']"
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
 
 Filename:,cm_engie_matchwon_06,,Events:,"['cm_engie_matchwon_06', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
-Full Path:,vo/compmode/cm_engie_matchwon_06.mp3,,Scenes:,"['scenes/player/engineer/low/cm_engie_matchwon_06.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd']"
+Full Path:,vo/compmode/cm_engie_matchwon_06.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/cm_engie_matchwon_06.vcd']"
 Transcription:,Now that's how it's done!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerMatchWinCompEngineer']"
 Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerMatchOverComp', 'PlayerOnWinningTeam', 'IsEngineer', '40PercentChance']]"
@@ -3499,97 +3499,97 @@ Your Line:,,,Rules:,['PlayerMatchWinCompEngineer']
 Filename:,cm_engie_pregamefirst_01,,Events:,['cm_engie_pregamefirst_01']
 Full Path:,vo/compmode/cm_engie_pregamefirst_01.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_01.vcd']
 Transcription:,Y'all ready? 'Cause I'm ready!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_02,,Events:,['cm_engie_pregamefirst_02']
 Full Path:,vo/compmode/cm_engie_pregamefirst_02.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_02.vcd']
 Transcription:,This wrench ain't gonna swing itself!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_03,,Events:,['cm_engie_pregamefirst_03']
 Full Path:,vo/compmode/cm_engie_pregamefirst_03.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_03.vcd']
 Transcription:,Let's raise a ruckus!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
-Filename:,cm_engie_pregamefirst_04,,Events:,"['engineer_taunt_bumpkins_banjo_intro', 'cm_engie_pregamefirst_04']"
+Filename:,cm_engie_pregamefirst_04,,Events:,"['cm_engie_pregamefirst_04', 'engineer_taunt_bumpkins_banjo_intro']"
 Full Path:,vo/compmode/cm_engie_pregamefirst_04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_pregamefirst_04.vcd']"
-Transcription:,Howdy howdy! Let's get rowdy!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Transcription:,Howdy howdy! Let's get rowdy!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'Taunt: The Dueling Banjo', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_05,,Events:,['cm_engie_pregamefirst_05']
 Full Path:,vo/compmode/cm_engie_pregamefirst_05.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_05.vcd']
 Transcription:,Let's go make trouble!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_06,,Events:,['cm_engie_pregamefirst_06']
 Full Path:,vo/compmode/cm_engie_pregamefirst_06.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_06.vcd']
 Transcription:,Ready! And rarin' to go!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_07,,Events:,['cm_engie_pregamefirst_07']
 Full Path:,vo/compmode/cm_engie_pregamefirst_07.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_07.vcd']
 Transcription:,Reckon we better get to gettin'!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_08,,Events:,['cm_engie_pregamefirst_08']
 Full Path:,vo/compmode/cm_engie_pregamefirst_08.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_08.vcd']
 Transcription:,Let's get to it!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
-Filename:,cm_engie_pregamefirst_09,,Events:,"['cm_engie_pregamefirst_09', 'engineer_taunt_bumpkins_banjo_intro']"
+Filename:,cm_engie_pregamefirst_09,,Events:,"['engineer_taunt_bumpkins_banjo_intro', 'cm_engie_pregamefirst_09']"
 Full Path:,vo/compmode/cm_engie_pregamefirst_09.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_pregamefirst_09.vcd']"
-Transcription:,"You ready to dance, pardner?",,Responses:,"['Taunt: The Dueling Banjo', 'PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Transcription:,"You ready to dance, pardner?",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'Taunt: The Dueling Banjo', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_10,,Events:,['cm_engie_pregamefirst_10']
 Full Path:,vo/compmode/cm_engie_pregamefirst_10.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_10.vcd']
 Transcription:,I'm fixin' to gettin' mean!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_11,,Events:,['cm_engie_pregamefirst_11']
 Full Path:,vo/compmode/cm_engie_pregamefirst_11.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_11.vcd']
 Transcription:,We best get on the stick!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_12,,Events:,"['cm_engie_pregamefirst_12', 'engineer_taunt_bumpkins_banjo_intro']"
 Full Path:,vo/compmode/cm_engie_pregamefirst_12.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_pregamefirst_12.vcd']"
-Transcription:,"Saddle up, boys!",,Responses:,"['Taunt: The Dueling Banjo', 'PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Transcription:,"Saddle up, boys!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'Taunt: The Dueling Banjo', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_13,,Events:,"['cm_engie_pregamefirst_13', 'engineer_taunt_bumpkins_banjo_intro']"
 Full Path:,vo/compmode/cm_engie_pregamefirst_13.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_pregamefirst_13.vcd']"
-Transcription:,"Giddiyup, boys!",,Responses:,"['Taunt: The Dueling Banjo', 'PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Transcription:,"Giddiyup, boys!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'Taunt: The Dueling Banjo', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
-Filename:,cm_engie_pregamefirst_14,,Events:,"['cm_engie_pregamefirst_14', 'engineer_taunt_bumpkins_banjo_intro']"
-Full Path:,vo/compmode/cm_engie_pregamefirst_14.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd', 'scenes/player/engineer/low/cm_engie_pregamefirst_14.vcd']"
-Transcription:,"Let's get wranglin', cowboys!",,Responses:,"['Taunt: The Dueling Banjo', 'PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Filename:,cm_engie_pregamefirst_14,,Events:,"['engineer_taunt_bumpkins_banjo_intro', 'cm_engie_pregamefirst_14']"
+Full Path:,vo/compmode/cm_engie_pregamefirst_14.mp3,,Scenes:,"['scenes/player/engineer/low/cm_engie_pregamefirst_14.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd']"
+Transcription:,"Let's get wranglin', cowboys!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'Taunt: The Dueling Banjo', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_15,,Events:,['cm_engie_pregamefirst_15']
 Full Path:,vo/compmode/cm_engie_pregamefirst_15.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_15.vcd']
 Transcription:,"Come on, boys! These Yankees are all hat and no battle!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_18,,Events:,['cm_engie_pregamefirst_18']
 Full Path:,vo/compmode/cm_engie_pregamefirst_18.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_18.vcd']
 Transcription:,They won't know what hit 'em!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_6s_01,,Events:,['cm_engie_pregamefirst_6s_01']
@@ -3613,85 +3613,85 @@ Your Line:,,,Rules:,['PlayerFirstRoundStartComp6sEngineer']
 Filename:,cm_engie_pregamefirst_comp_01,,Events:,['cm_engie_pregamefirst_comp_01']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_01.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_01.vcd']
 Transcription:,"I don't know about y'all, but I'm feelin' pretty damn competitive!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_02,,Events:,['cm_engie_pregamefirst_comp_02']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_02.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_02.vcd']
 Transcription:,"I don't know about y'all, but I'm feelin' mighty competitive!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_03,,Events:,['cm_engie_pregamefirst_comp_03']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_03.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_03.vcd']
 Transcription:,"This ain't no scrim, boys!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_04,,Events:,['cm_engie_pregamefirst_comp_04']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_04.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_04.vcd']
 Transcription:,Let's kick some ass and take some games!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_05,,Events:,['cm_engie_pregamefirst_comp_05']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_05.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_05.vcd']
 Transcription:,"Good news, boys! I drafted up a blueprint of the other team's asses and it looks like all our boots are gonna fit up there!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_06,,Events:,['cm_engie_pregamefirst_comp_06']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_06.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_06.vcd']
 Transcription:,"Fellas, I've seen their scrim. Them boys are a bunch of broken down old mules!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_comp_07,,Events:,['cm_engie_pregamefirst_comp_07']
 Full Path:,vo/compmode/cm_engie_pregamefirst_comp_07.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_comp_07.vcd']
 Transcription:,"Wait, they let you bring Sentries to this game? (laughs) Well, game on, then!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_02,,Events:,['cm_engie_pregamefirst_rare_02']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_02.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_02.vcd']
 Transcription:,"Winning's like science, boys: if you wanna steak, you gotta prove it!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_03,,Events:,['cm_engie_pregamefirst_rare_03']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_03.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_03.vcd']
 Transcription:,"Don't worry, boys! The Engineer, is Engi-here! (laughs) Yeah... Still tinkerin' with that one.",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_04,,Events:,['cm_engie_pregamefirst_rare_04']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_04.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_04.vcd']
 Transcription:,Man vs. Sentry? I believe I'll take 900 pounds of precision-machined steel over a little fella that runs fast!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_05,,Events:,['cm_engie_pregamefirst_rare_05']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_05.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_05.vcd']
 Transcription:,I love engines! Pinion shafts. Flanges. Mitigating shock loads. But most of all: I love winnin'!,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_06,,Events:,['cm_engie_pregamefirst_rare_06']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_06.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_06.vcd']
 Transcription:,Hoo wee! They ain't gonna know what hit 'em! Though it'll likely to be bullets. Statistically speaking.,,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_07,,Events:,['cm_engie_pregamefirst_rare_07']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_07.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_07.vcd']
 Transcription:,"This button here, builds Teleporters. This button, builds Dispensers. And this little button makes them enemy sum-bitches wish they'd never been born!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamefirst_rare_08,,Events:,['cm_engie_pregamefirst_rare_08']
 Full Path:,vo/compmode/cm_engie_pregamefirst_rare_08.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_pregamefirst_rare_08.vcd']
 Transcription:,"I whipped up a satellite earlier to scan the topography of the area, boys. And guess what? There's plenty of room for us to kick their asses all over it!",,Responses:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sEngineer', 'PlayerFirstRoundStartCompEngineer']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartCompEngineer', 'PlayerFirstRoundStartComp6sEngineer']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_engie_pregamelostlast_01,,Events:,['cm_engie_pregamelostlast_01']
@@ -3792,7 +3792,7 @@ Your Line:,,,Rules:,['PlayerWonPrevRoundCompEngineer']
 
 Filename:,cm_engie_pregamewonlast_02,,Events:,"['cm_engie_pregamewonlast_02', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
 Full Path:,vo/compmode/cm_engie_pregamewonlast_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/player/engineer/low/cm_engie_pregamewonlast_02.vcd']"
-Transcription:,There's more where that came from!,,Responses:,"['PlayerWonPrevRoundCompEngineer', 'Taunt: The Dueling Banjo']"
+Transcription:,There's more where that came from!,,Responses:,"['Taunt: The Dueling Banjo', 'PlayerWonPrevRoundCompEngineer']"
 Your Line:,,,Rules:,['PlayerWonPrevRoundCompEngineer']
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsEngineer', 'IsNotFirstRound', 'PlayerWonPreviousRound', '40PercentChance']]"
 
@@ -3928,67 +3928,67 @@ Transcription:,I was gonna invent the Death-Dispenser. But it looks like y'all b
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_01,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_01,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_01.mp3,,Scenes:,[]
 Transcription:,Now that is a cool breeze on a hot day!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_02,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup', 'engie_taunt_commending_clap_a', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
+Filename:,cm_engie_summary_callout_02,,Events:,"['engineer.comprankup', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engie_taunt_commending_clap_a', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_02.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_commending_clap.vcd']"
 Transcription:,I am damn proud right now!,,Responses:,"['Taunt: Commending Clap', 'Taunt: The Dueling Banjo']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_03,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_03,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_03.mp3,,Scenes:,[]
 Transcription:,I believe I will buy you a beer!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_04,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_04,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_04.mp3,,Scenes:,[]
 Transcription:,"Son, I never said this to anybody before, but I am damn proud of you!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_05,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_05,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_05.mp3,,Scenes:,[]
 Transcription:,Now that is real nice!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_06,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
+Filename:,cm_engie_summary_callout_06,,Events:,"['engineer.comprankup', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_06.mp3,,Scenes:,['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd']
 Transcription:,You wrangled that up just right!,,Responses:,['Taunt: The Dueling Banjo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_07,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_07,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_07.mp3,,Scenes:,[]
 Transcription:,We make a good team!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_08,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_08,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_08.mp3,,Scenes:,[]
 Transcription:,"Well done, pardner!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_09,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_09,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_09.mp3,,Scenes:,[]
 Transcription:,Looks like we're ridin' high!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_10,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup']"
+Filename:,cm_engie_summary_callout_10,,Events:,"['engineer.comprankup', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_10.mp3,,Scenes:,[]
 Transcription:,"We're in tall cotton, friend!",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,cm_engie_summary_callout_11,,Events:,"['engineer.compsummaryscreenoutlier', 'engineer.comprankup', 'engineer_taunt_bumpkins_banjo_engineer_outro']"
+Filename:,cm_engie_summary_callout_11,,Events:,"['engineer.comprankup', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engineer.compsummaryscreenoutlier']"
 Full Path:,vo/compmode/cm_engie_summary_callout_11.mp3,,Scenes:,['scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd']
 Transcription:,We are ridin' high!,,Responses:,['Taunt: The Dueling Banjo']
 Your Line:,,,Rules:,[]

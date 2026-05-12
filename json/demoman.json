@@ -50,15 +50,15 @@
             "player.burp03"
         ],
         "responses": [
-            "Taunt: The Pooped Deck",
-            "DemomanTauntMelee"
+            "DemomanTauntMelee",
+            "Taunt: The Pooped Deck"
         ],
         "rules": [
             "DemomanTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt03_v2.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
+            "scenes/player/demoman/low/taunt03_v2.vcd"
         ],
         "state": "used",
         "transcript": "three"
@@ -484,12 +484,12 @@
             "cm_demo_pregamefirst_01"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_01.vcd"
@@ -519,12 +519,12 @@
             "cm_demo_pregamefirst_02"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_02.vcd"
@@ -554,12 +554,12 @@
             "cm_demo_pregamefirst_03"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_03.vcd"
@@ -589,12 +589,12 @@
             "cm_demo_pregamefirst_04"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_04.vcd"
@@ -702,12 +702,12 @@
             "cm_demo_pregamefirst_comp_01"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_comp_01.vcd"
@@ -737,12 +737,12 @@
             "cm_demo_pregamefirst_comp_02"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_comp_02.vcd"
@@ -772,12 +772,12 @@
             "cm_demo_pregamefirst_comp_03"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_comp_03.vcd"
@@ -807,12 +807,12 @@
             "cm_demo_pregamefirst_comp_04"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_comp_04.vcd"
@@ -842,12 +842,12 @@
             "cm_demo_pregamefirst_comp_05"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_comp_05.vcd"
@@ -877,12 +877,12 @@
             "cm_demo_pregamefirst_rare_01"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_rare_01.vcd"
@@ -912,12 +912,12 @@
             "cm_demo_pregamefirst_rare_02"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_rare_02.vcd"
@@ -947,12 +947,12 @@
             "cm_demo_pregamefirst_rare_03"
         ],
         "responses": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "rules": [
-            "PlayerFirstRoundStartCompDemoman",
-            "PlayerFirstRoundStartComp6sDemoman"
+            "PlayerFirstRoundStartComp6sDemoman",
+            "PlayerFirstRoundStartCompDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/cm_demo_pregamefirst_rare_03.vcd"
@@ -1660,21 +1660,21 @@
             ]
         ],
         "events": [
-            "demoman.autocappedcontrolpoint02",
-            "demo_taunt_flag"
+            "demo_taunt_flag",
+            "demoman.autocappedcontrolpoint02"
         ],
         "responses": [
-            "AwardDemoman",
             "Taunt: Flying Colors",
-            "PlayerCapturedPointDemoman"
+            "PlayerCapturedPointDemoman",
+            "AwardDemoman"
         ],
         "rules": [
-            "AwardDemoman",
-            "PlayerCapturedPointDemoman"
+            "PlayerCapturedPointDemoman",
+            "AwardDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/865.vcd",
-            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
+            "scenes/player/demoman/low/865.vcd"
         ],
         "state": "used",
         "transcript": "Guts and glory, lads!"
@@ -1699,8 +1699,8 @@
             "PlayerCapturedPointDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/864.vcd",
-            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
+            "scenes/player/demoman/low/864.vcd"
         ],
         "state": "used",
         "transcript": "Now it's our flippin' point, hehah!"
@@ -1724,12 +1724,12 @@
             "demoman.autocappedintelligence01"
         ],
         "responses": [
-            "AwardDemoman",
-            "PlayerCappedIntelligenceDemoman"
+            "PlayerCappedIntelligenceDemoman",
+            "AwardDemoman"
         ],
         "rules": [
-            "AwardDemoman",
-            "PlayerCappedIntelligenceDemoman"
+            "PlayerCappedIntelligenceDemoman",
+            "AwardDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/866.vcd"
@@ -1756,12 +1756,12 @@
             "demoman.autocappedintelligence02"
         ],
         "responses": [
-            "AwardDemoman",
-            "MeleeDareDemoman"
+            "MeleeDareDemoman",
+            "AwardDemoman"
         ],
         "rules": [
-            "AwardDemoman",
-            "MeleeDareDemoman"
+            "MeleeDareDemoman",
+            "AwardDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/868.vcd"
@@ -1813,17 +1813,17 @@
             "demoman.autocappedintelligence03"
         ],
         "responses": [
-            "PlayerCappedIntelligenceDemoman",
             "PlayerKilledCapperDemoman",
             "KilledPlayerAssistAutoDemoman",
+            "PlayerCappedIntelligenceDemoman",
             "KilledPlayerAssistDemoman"
         ],
         "rules": [
-            "KilledPlayerAssistDemoman2",
-            "KilledPlayerAssistAutoDemoman",
             "PlayerKilledCapperDemoman",
             "KilledPlayerAssistDemoman",
-            "PlayerCappedIntelligenceDemoman"
+            "KilledPlayerAssistAutoDemoman",
+            "PlayerCappedIntelligenceDemoman",
+            "KilledPlayerAssistDemoman2"
         ],
         "scenes": [
             "scenes/player/demoman/low/867.vcd"
@@ -1894,17 +1894,17 @@
             "demoman.autodejectedtie03"
         ],
         "responses": [
-            "PlayerStalemateDemoman",
             "Taunt: The Drunken Sailor",
+            "PlayerStalemateDemoman",
             "DemomanJarateHit"
         ],
         "rules": [
-            "PlayerStalemateDemoman",
-            "DemomanJarateHit"
+            "DemomanJarateHit",
+            "PlayerStalemateDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/871.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_outro.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_outro.vcd",
+            "scenes/player/demoman/low/871.vcd"
         ],
         "state": "used",
         "transcript": "Ugggghhh..."
@@ -1928,8 +1928,8 @@
             "PlayerStalemateDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1357.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd",
+            "scenes/player/demoman/low/1357.vcd"
         ],
         "state": "used",
         "transcript": "Ya' bleedin' idiots!"
@@ -2027,23 +2027,23 @@
         ],
         "events": [
             "demoman.battlecry01",
-            "demo.drunk_manns_cannon_cheer",
-            "demo.taunt_roar_owar_vo"
+            "demo.taunt_roar_owar_vo",
+            "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Roar O'War",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerRoundStartDemoman",
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
-            "scenes/player/demoman/low/1358.vcd",
-            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
+            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
+            "scenes/player/demoman/low/1358.vcd"
         ],
         "state": "used",
         "transcript": "Freeeedooooom!"
@@ -2061,24 +2061,24 @@
             ]
         ],
         "events": [
+            "demo.taunt_roar_owar_vo",
             "demoman.battlecry02",
-            "demo.drunk_manns_cannon_cheer",
-            "demo.taunt_roar_owar_vo"
+            "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Roar O'War",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerRoundStartDemoman",
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/876.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
+            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
+            "scenes/player/demoman/low/876.vcd"
         ],
         "state": "used",
         "transcript": "Have at 'em, lads!"
@@ -2096,27 +2096,27 @@
             ]
         ],
         "events": [
+            "demo.taunt_roar_owar_vo",
             "demoman.battlecry03",
             "demo_taunt_flag",
-            "demo.drunk_manns_cannon_cheer",
-            "demo.taunt_roar_owar_vo"
+            "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Roar O'War",
             "PlayerBattleCryDemoman",
-            "Taunt: Flying Colors",
             "PlayerRoundStartDemoman",
-            "Taunt: Roar O'War"
+            "Taunt: Flying Colors"
         ],
         "rules": [
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerRoundStartDemoman",
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
-            "scenes/player/demoman/low/877.vcd",
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
-            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
+            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
+            "scenes/player/demoman/low/877.vcd"
         ],
         "state": "used",
         "transcript": "Get 'am, boyos!"
@@ -2134,24 +2134,24 @@
             ]
         ],
         "events": [
+            "demo.taunt_roar_owar_vo",
             "demoman.battlecry04",
-            "demo.drunk_manns_cannon_cheer",
-            "demo.taunt_roar_owar_vo"
+            "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Roar O'War",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerRoundStartDemoman",
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
             "scenes/player/demoman/low/878.vcd",
-            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
+            "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
+            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd"
         ],
         "state": "used",
         "transcript": "Kill 'em aall!"
@@ -2176,15 +2176,15 @@
             "demoman.battlecry05"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "MeleeDareDemoman",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
+            "PlayerRoundStartDemoman",
             "MeleeDareDemoman",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon.vcd",
@@ -2210,18 +2210,18 @@
             "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: The Drunken Sailor",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerRoundStartDemoman",
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_action2.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_action2.vcd",
             "scenes/player/demoman/low/880.vcd"
         ],
         "state": "used",
@@ -2248,15 +2248,15 @@
             "demo.drunk_manns_cannon_cheer"
         ],
         "responses": [
+            "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
             "MeleeDareDemoman",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "rules": [
+            "PlayerRoundStartDemoman",
             "MeleeDareDemoman",
-            "PlayerBattleCryDemoman",
-            "PlayerRoundStartDemoman"
+            "PlayerBattleCryDemoman"
         ],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
@@ -4587,8 +4587,8 @@
             "KilledPlayerSword2Demoman"
         ],
         "rules": [
-            "KilledPlayerSword2Demoman",
-            "KilledPlayerKatana2Demoman"
+            "KilledPlayerKatana2Demoman",
+            "KilledPlayerSword2Demoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3564.vcd"
@@ -4627,8 +4627,8 @@
             "KilledPlayerSwordDemoman"
         ],
         "rules": [
-            "KilledPlayerKatanaDemoman",
-            "KilledPlayerSwordDemoman"
+            "KilledPlayerSwordDemoman",
+            "KilledPlayerKatanaDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3565.vcd"
@@ -4699,12 +4699,12 @@
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "MeleeDareDemoman",
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
+            "MeleeDareDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3566.vcd",
@@ -4763,26 +4763,26 @@
             ]
         ],
         "events": [
-            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demo.shanty_shipmate_rowing",
+            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demoman.gibberish02"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Scotsmann's Stagger",
+            "Taunt: Shanty Shipmate",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/3567.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/player/demoman/low/3567.vcd"
         ],
         "state": "used",
         "transcript": "\"Any one of you, I...\" (belch)"
@@ -4802,25 +4802,25 @@
             ]
         ],
         "events": [
-            "demoman.gibberish03",
-            "demo_taunt_neck_snap_01",
+            "demo.shanty_shipmate_rowing",
             "demo_taunt_scotsmans_stagger_demoman_gibberish",
-            "demo.shanty_shipmate_rowing"
+            "demo_taunt_neck_snap_01",
+            "demoman.gibberish03"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Scotsmann's Stagger",
             "KilledSoldierDemoman",
-            "Taunt: Neck Snap"
+            "Taunt: Shanty Shipmate",
+            "Taunt: Neck Snap",
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [
             "KilledSoldierDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/3568.vcd",
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
+            "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
-            "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd"
+            "scenes/player/demoman/low/3568.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "(unintelligible muttering) \"...I love you, man...\""
@@ -4879,28 +4879,28 @@
             ]
         ],
         "events": [
-            "demoman.gibberish04",
+            "demo.shanty_shipmate_rowing",
             "demo_taunt_scotsmans_stagger_demoman_gibberish",
-            "demo.shanty_shipmate_rowing"
+            "demoman.gibberish04"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Scotsmann's Stagger",
+            "Taunt: Shanty Shipmate",
             "MeleeDareDemoman",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "MeleeDareDemoman",
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
+            "MeleeDareDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3569.vcd",
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "Any of you that think ye're better 'n me, you're gon' have another thing c-..."
@@ -4955,26 +4955,26 @@
             ]
         ],
         "events": [
-            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demo.shanty_shipmate_rowing",
+            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demoman.gibberish05"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Scotsmann's Stagger",
+            "Taunt: Shanty Shipmate",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/3570.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "...the BOTH of yeh on you..."
@@ -5029,19 +5029,19 @@
             ]
         ],
         "events": [
-            "demoman.gibberish06",
-            "taunt_demo_deadmanns_drink_a"
+            "taunt_demo_deadmanns_drink_a",
+            "demoman.gibberish06"
         ],
         "responses": [
             "Taunt: Dead Mann's Drink",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3571.vcd",
@@ -5108,15 +5108,15 @@
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
-            "scenes/player/demoman/low/3572.vcd"
+            "scenes/player/demoman/low/3572.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "Everyone thinks I'm-- God damn it, Finnegan..."
@@ -5171,26 +5171,26 @@
             ]
         ],
         "events": [
-            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demo.shanty_shipmate_rowing",
+            "demo_taunt_scotsmans_stagger_demoman_gibberish",
             "demoman.gibberish08"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Scotsmann's Stagger",
+            "Taunt: Shanty Shipmate",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/3573.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "(Unintelligible gibberish)"
@@ -5280,26 +5280,26 @@
             ]
         ],
         "events": [
-            "demoman.gibberish10",
+            "demo.shanty_shipmate_rowing",
             "demo_taunt_scotsmans_stagger_demoman_gibberish",
-            "demo.shanty_shipmate_rowing"
+            "demoman.gibberish10"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Scotsmann's Stagger",
+            "Taunt: Shanty Shipmate",
             "KilledPlayerPanDemoman"
         ],
         "rules": [
-            "KilledPlayerPanDemoman",
-            "KilledPlayerSaxxyDemoman",
             "DrunkDemoman",
             "KilledPlayerMeleeDemoman",
-            "KilledPlayerClubDemoman"
+            "KilledPlayerSaxxyDemoman",
+            "KilledPlayerClubDemoman",
+            "KilledPlayerPanDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/3575.vcd",
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "Any one of you (belches) Everyone-- damn it, Finnegan..."
@@ -5317,15 +5317,15 @@
             "demoman.gibberish11"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
-            "MeleeDareDemoman"
+            "MeleeDareDemoman",
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [
             "MeleeDareDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
-            "scenes/player/demoman/low/3576.vcd"
+            "scenes/player/demoman/low/3576.vcd",
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "It's on! It's on like (falls asleep, then wakes up) Wha--?"
@@ -5377,23 +5377,23 @@
             ]
         ],
         "events": [
-            "demoman.gibberish13",
-            "demo_taunt_scotsmans_stagger_demoman_gibberish"
+            "demo_taunt_scotsmans_stagger_demoman_gibberish",
+            "demoman.gibberish13"
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
-            "KilledPlayerClubDemoman",
             "Taunt: Scotsmann's Stagger",
-            "MeleeDareDemoman"
+            "MeleeDareDemoman",
+            "KilledPlayerClubDemoman"
         ],
         "rules": [
-            "KilledPlayerClubDemoman",
-            "MeleeDareDemoman"
+            "MeleeDareDemoman",
+            "KilledPlayerClubDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
+            "scenes/player/demoman/low/3578.vcd",
             "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd",
-            "scenes/player/demoman/low/3578.vcd"
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
         "transcript": "...Gonna take down to the pain train station in train town..."
@@ -5409,8 +5409,8 @@
         "events": [
             "demoman.go01",
             "demoman.readycomp",
-            "demoman.readymvm",
-            "demoman.ready"
+            "demoman.ready",
+            "demoman.readymvm"
         ],
         "responses": [
             "PlayerGoDemoman"
@@ -5434,9 +5434,9 @@
         ],
         "events": [
             "demoman.readycomp",
-            "demoman.readymvm",
             "demoman.go02",
-            "demoman.ready"
+            "demoman.ready",
+            "demoman.readymvm"
         ],
         "responses": [
             "PlayerGoDemoman"
@@ -5459,10 +5459,10 @@
             ]
         ],
         "events": [
-            "demoman.go03",
             "demoman.readycomp",
-            "demoman.readymvm",
-            "demoman.ready"
+            "demoman.go03",
+            "demoman.ready",
+            "demoman.readymvm"
         ],
         "responses": [
             "PlayerGoDemoman"
@@ -5513,22 +5513,22 @@
             "demoman.goodjob01"
         ],
         "responses": [
-            "Taunt: Cheers!",
             "PlayerKilledForRevengeDemoman",
-            "PlayerGoodJobDemoman",
-            "DemomanTauntMelee"
+            "Taunt: Cheers!",
+            "DemomanTauntMelee",
+            "PlayerGoodJobDemoman"
         ],
         "rules": [
-            "DemomanTauntPlayerMelee",
             "PlayerKilledForRevengeDemoman",
+            "DemomanTauntPlayerMelee",
             "PlayerGoodJobDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt03_v3.vcd",
+            "scenes/workshop/player/demoman/low/taunt_cheers.vcd",
             "scenes/player/demoman/low/taunt03_v2.vcd",
             "scenes/player/demoman/low/taunt03_v1.vcd",
             "scenes/player/demoman/low/914.vcd",
-            "scenes/workshop/player/demoman/low/taunt_cheers.vcd"
+            "scenes/player/demoman/low/taunt03_v3.vcd"
         ],
         "state": "used",
         "transcript": "Cheers, mate!"
@@ -5553,8 +5553,8 @@
             "PlayerGoodJobDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/915.vcd",
-            "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd",
+            "scenes/player/demoman/low/915.vcd"
         ],
         "state": "used",
         "transcript": "You're doing good, lad!"
@@ -6413,8 +6413,8 @@
             "demoman.jeers03"
         ],
         "responses": [
-            "PlayerSuddenDeathDemoman",
             "Taunt: Yeti Punch",
+            "PlayerSuddenDeathDemoman",
             "PlayerJeersDemoman"
         ],
         "rules": [
@@ -6422,8 +6422,8 @@
             "PlayerJeersDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt_yetipunch.vcd",
-            "scenes/player/demoman/low/940.vcd"
+            "scenes/player/demoman/low/940.vcd",
+            "scenes/player/demoman/low/taunt_yetipunch.vcd"
         ],
         "state": "used",
         "transcript": "[Slurred] \"I'm drunk - you don't have an excuse!\""
@@ -6499,13 +6499,13 @@
             ]
         ],
         "events": [
-            "demoman.jeers06",
-            "taunt_demo_deadmanns_drink_a"
+            "taunt_demo_deadmanns_drink_a",
+            "demoman.jeers06"
         ],
         "responses": [
+            "Taunt: Mourning Mercs",
             "Taunt: Dead Mann's Drink",
             "PlayerSuddenDeathDemoman",
-            "Taunt: Mourning Mercs",
             "PlayerJeersDemoman"
         ],
         "rules": [
@@ -6513,9 +6513,9 @@
             "PlayerJeersDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd",
             "scenes/player/demoman/low/944.vcd",
-            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd"
+            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd",
+            "scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd"
         ],
         "state": "used",
         "transcript": "[Slurred] \"Ooooh, I've realllly hit rock bottom.\""
@@ -6669,8 +6669,8 @@
             "PlayerJeersDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/946.vcd",
-            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd"
+            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd",
+            "scenes/player/demoman/low/946.vcd"
         ],
         "state": "used",
         "transcript": "We're a sorry buncha' losers!"
@@ -6714,8 +6714,8 @@
             "PlayerKilledDominatingDemoman"
         ],
         "rules": [
-            "KilledPlayerKatanaDemoman",
             "KilledPlayerSwordDemoman",
+            "KilledPlayerKatanaDemoman",
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
@@ -6765,8 +6765,8 @@
             "PlayerKilledDominatingDemoman"
         ],
         "rules": [
-            "KilledPlayerKatanaDemoman",
             "KilledPlayerSwordDemoman",
+            "KilledPlayerKatanaDemoman",
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
@@ -6815,8 +6815,8 @@
             "PlayerKilledDominatingDemoman"
         ],
         "rules": [
-            "KilledPlayerKatanaDemoman",
             "KilledPlayerSwordDemoman",
+            "KilledPlayerKatanaDemoman",
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
@@ -6889,10 +6889,10 @@
             ]
         ],
         "events": [
-            "taunt.bearhug_demoman_a",
-            "demoman.laughhappy01",
             "taunt_yeti_demo",
-            "demo.drunk_manns_cannon_laugh"
+            "demoman.laughhappy01",
+            "demo.drunk_manns_cannon_laugh",
+            "taunt.bearhug_demoman_a"
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
@@ -6920,9 +6920,9 @@
             ]
         ],
         "events": [
-            "demo_taunt_flag",
+            "taunt_yeti_demo",
             "demoman.laughhappy02",
-            "taunt_yeti_demo"
+            "demo_taunt_flag"
         ],
         "responses": [
             "PlayerKilledCapperDemoman",
@@ -6932,8 +6932,8 @@
             "PlayerKilledCapperDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/952.vcd",
-            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
+            "scenes/player/demoman/low/952.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh)"
@@ -6993,19 +6993,19 @@
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: The Schadenfreude",
             "PlayerKilledDominatingDemoman",
-            "DemomanTauntLaugh",
-            "Taunt: The Schadenfreude"
+            "DemomanTauntLaugh"
         ],
         "rules": [
             "DemomanTauntAprilFools",
-            "DemomanTauntLaugh",
-            "PlayerKilledDominatingDemoman"
+            "PlayerKilledDominatingDemoman",
+            "DemomanTauntLaugh"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd",
+            "scenes/player/demoman/low/954.vcd",
             "scenes/player/demoman/low/taunt_laugh.vcd",
-            "scenes/player/demoman/low/954.vcd"
+            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd"
         ],
         "state": "used",
         "transcript": "(Long laugh 2)"
@@ -7020,21 +7020,21 @@
             ]
         ],
         "events": [
-            "demoman.laughshort01",
-            "taunt_yeti_demo"
+            "taunt_yeti_demo",
+            "demoman.laughshort01"
         ],
         "responses": [
             "PlayerKilledCapperDemoman",
-            "Taunt: Yeti Punch",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "PlayerKilledCapperDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt_yetipunch.vcd",
-            "scenes/player/demoman/low/955.vcd",
             "scenes/player/demoman/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/demoman/low/955.vcd",
+            "scenes/player/demoman/low/taunt_yetipunch.vcd",
             "scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd"
         ],
         "state": "used",
@@ -7052,8 +7052,8 @@
             ]
         ],
         "events": [
-            "demoman.laughshort02",
-            "taunt_yeti_demo"
+            "taunt_yeti_demo",
+            "demoman.laughshort02"
         ],
         "responses": [
             "PlayerKilledDominatingDemoman"
@@ -7079,17 +7079,17 @@
             "demoman.laughshort03"
         ],
         "responses": [
+            "Taunt: The High Five!",
             "Taunt: Cheers!",
-            "PlayerTauntsDemoman",
-            "Taunt: The High Five!"
+            "PlayerTauntsDemoman"
         ],
         "rules": [
             "PlayerPositiveDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt_hi5_a.vcd",
+            "scenes/workshop/player/demoman/low/taunt_cheers.vcd",
             "scenes/player/demoman/low/1380.vcd",
-            "scenes/workshop/player/demoman/low/taunt_cheers.vcd"
+            "scenes/player/demoman/low/taunt_hi5_a.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh"
@@ -7103,8 +7103,8 @@
             ]
         ],
         "events": [
-            "demo_taunt_commending_clap_b",
-            "demoman.laughshort04"
+            "demoman.laughshort04",
+            "demo_taunt_commending_clap_b"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -7142,9 +7142,9 @@
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
+            "scenes/player/demoman/low/taunt_hi5_b.vcd",
             "scenes/player/demoman/low/1383.vcd",
-            "scenes/player/demoman/low/taunt_hi5_a.vcd",
-            "scenes/player/demoman/low/taunt_hi5_b.vcd"
+            "scenes/player/demoman/low/taunt_hi5_a.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh 2)"
@@ -7327,12 +7327,12 @@
             "demoman_mvm_loot_common01"
         ],
         "responses": [
-            "DemomanSF13SpellPickupCommon",
-            "DemomanMvMLootCommon"
+            "DemomanMvMLootCommon",
+            "DemomanSF13SpellPickupCommon"
         ],
         "rules": [
-            "DemomanSF13SpellPickupCommon",
-            "DemomanMvMLootCommon"
+            "DemomanMvMLootCommon",
+            "DemomanSF13SpellPickupCommon"
         ],
         "scenes": [
             "scenes/player/demoman/low/7791.vcd"
@@ -7374,12 +7374,12 @@
             ]
         ],
         "events": [
-            "demoman_mvm_loot_common03",
-            "demo_taunt_commending_clap_b"
+            "demo_taunt_commending_clap_b",
+            "demoman_mvm_loot_common03"
         ],
         "responses": [
-            "Taunt: Commending Clap",
-            "DemomanMvMLootCommon"
+            "DemomanMvMLootCommon",
+            "Taunt: Commending Clap"
         ],
         "rules": [
             "DemomanMvMLootCommon"
@@ -7447,8 +7447,8 @@
             ]
         ],
         "events": [
-            "demoman_mvm_loot_rare01",
-            "demo_taunt_commending_clap_a"
+            "demo_taunt_commending_clap_a",
+            "demoman_mvm_loot_rare01"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -7458,8 +7458,8 @@
             "DemomanMvMLootRare"
         ],
         "scenes": [
-            "scenes/player/demoman/low/7795.vcd",
-            "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd",
+            "scenes/player/demoman/low/7795.vcd"
         ],
         "state": "used",
         "transcript": "Pure dead brilliant!"
@@ -7979,9 +7979,9 @@
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
-            "Taunt: The Pooped Deck",
             "Taunt: The Critical Fail",
             "PlayerLostPointDemoman",
+            "Taunt: The Pooped Deck",
             "PlayerNegativeDemoman"
         ],
         "rules": [
@@ -7989,9 +7989,9 @@
             "PlayerNegativeDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1360.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
+            "scenes/player/demoman/low/1360.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd"
         ],
         "state": "used",
@@ -8020,13 +8020,13 @@
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
-            "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "PlayerLostPointDemoman",
             "DemomanJarateHit"
         ],
         "rules": [
-            "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "PlayerLostPointDemoman",
             "DemomanJarateHit"
         ],
         "scenes": [
@@ -8086,18 +8086,18 @@
             ]
         ],
         "events": [
-            "demoman.negativevocalization05",
-            "demo.drunk_manns_cannon_outro"
+            "demo.drunk_manns_cannon_outro",
+            "demoman.negativevocalization05"
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
-            "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "PlayerLostPointDemoman",
             "DemomanJarateHit"
         ],
         "rules": [
-            "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "PlayerLostPointDemoman",
             "DemomanJarateHit"
         ],
         "scenes": [
@@ -8120,23 +8120,23 @@
             ]
         ],
         "events": [
-            "demo.drunk_manns_cannon_outro",
-            "demoman.negativevocalization06"
+            "demoman.negativevocalization06",
+            "demo.drunk_manns_cannon_outro"
         ],
         "responses": [
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Unleashed Rage",
             "PlayerLostPointDemoman",
-            "PlayerNegativeDemoman",
-            "Taunt: Unleashed Rage"
+            "PlayerNegativeDemoman"
         ],
         "rules": [
             "PlayerLostPointDemoman",
             "PlayerNegativeDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/972.vcd",
             "scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd",
-            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd"
+            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd",
+            "scenes/player/demoman/low/972.vcd"
         ],
         "state": "used",
         "transcript": "BAW!"
@@ -8284,8 +8284,8 @@
         "criteria": [],
         "events": [
             "demoman.critdeath",
-            "demoman.meleedeath",
             "mvm.playerdieddemoman",
+            "demoman.meleedeath",
             "demoman.paincrticialdeath01"
         ],
         "responses": [
@@ -8302,10 +8302,10 @@
         "base_name": "demoman_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "demoman.paincrticialdeath02",
             "demoman.critdeath",
+            "mvm.playerdieddemoman",
             "demoman.meleedeath",
-            "mvm.playerdieddemoman"
+            "demoman.paincrticialdeath02"
         ],
         "responses": [],
         "rules": [],
@@ -8317,10 +8317,10 @@
         "base_name": "demoman_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "demoman.paincrticialdeath03",
             "demoman.critdeath",
+            "mvm.playerdieddemoman",
             "demoman.meleedeath",
-            "mvm.playerdieddemoman"
+            "demoman.paincrticialdeath03"
         ],
         "responses": [],
         "rules": [],
@@ -8332,10 +8332,10 @@
         "base_name": "demoman_paincrticialdeath04",
         "criteria": [],
         "events": [
-            "demoman.paincrticialdeath04",
             "demoman.critdeath",
+            "mvm.playerdieddemoman",
             "demoman.meleedeath",
-            "mvm.playerdieddemoman"
+            "demoman.paincrticialdeath04"
         ],
         "responses": [],
         "rules": [],
@@ -8347,10 +8347,10 @@
         "base_name": "demoman_paincrticialdeath05",
         "criteria": [],
         "events": [
-            "demoman.paincrticialdeath05",
             "demoman.critdeath",
+            "mvm.playerdieddemoman",
             "demoman.meleedeath",
-            "mvm.playerdieddemoman"
+            "demoman.paincrticialdeath05"
         ],
         "responses": [
             "Taunt: Mourning Mercs"
@@ -8372,13 +8372,13 @@
             ]
         ],
         "events": [
+            "demoman.painsevere01",
             "demoman.death",
-            "demo.scardy_cat",
-            "demoman.painsevere01"
+            "demo.scardy_cat"
         ],
         "responses": [
-            "PlayerAttackerPainDemoman",
             "Taunt: The Scaredy-Cat!",
+            "PlayerAttackerPainDemoman",
             "Taunt: Unleashed Rage"
         ],
         "rules": [
@@ -8428,12 +8428,12 @@
         ],
         "events": [
             "demoman.death",
-            "demoman.painsevere03",
-            "demo.scardy_cat"
+            "demo.scardy_cat",
+            "demoman.painsevere03"
         ],
         "responses": [
-            "PlayerAttackerPainDemoman",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "PlayerAttackerPainDemoman"
         ],
         "rules": [
             "PlayerAttackerPainDemoman"
@@ -8487,8 +8487,8 @@
             ]
         ],
         "events": [
-            "demoman.painsharp01",
-            "demoman.explosiondeath"
+            "demoman.explosiondeath",
+            "demoman.painsharp01"
         ],
         "responses": [
             "PlayerStillOnFireDemoman",
@@ -8499,8 +8499,8 @@
             "PlayerPainDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1927.vcd",
-            "scenes/player/demoman/low/986.vcd"
+            "scenes/player/demoman/low/986.vcd",
+            "scenes/player/demoman/low/1927.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 1)"
@@ -8522,9 +8522,9 @@
             ]
         ],
         "events": [
-            "demoman.painsharp02",
             "demo_taunt_neck_snap_02",
-            "demoman.explosiondeath"
+            "demoman.explosiondeath",
+            "demoman.painsharp02"
         ],
         "responses": [
             "PlayerStillOnFireDemoman",
@@ -8536,8 +8536,8 @@
             "PlayerPainDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1927.vcd",
             "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd",
+            "scenes/player/demoman/low/1927.vcd",
             "scenes/player/demoman/low/987.vcd"
         ],
         "state": "used",
@@ -8646,15 +8646,15 @@
             "demoman.explosiondeath"
         ],
         "responses": [
-            "PlayerPainDemoman",
-            "Taunt: The Pooped Deck"
+            "Taunt: The Pooped Deck",
+            "PlayerPainDemoman"
         ],
         "rules": [
             "PlayerPainDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1394.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd",
+            "scenes/player/demoman/low/1394.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 6)"
@@ -8925,13 +8925,13 @@
             "demoman_sf12_badmagic01"
         ],
         "responses": [
-            "DemomanSF13SpellMovementBuff",
             "demomanSmallHeadReaction",
+            "DemomanSF13SpellMovementBuff",
             "demomanBigHeadReaction"
         ],
         "rules": [
-            "DemomanSF13SpellMovementBuff",
             "demomanSmallHeadReaction",
+            "DemomanSF13SpellMovementBuff",
             "demomanBigHeadReaction"
         ],
         "scenes": [
@@ -8956,12 +8956,12 @@
             "demoman_sf12_badmagic02"
         ],
         "responses": [
-            "DemomanSF13SpellMovementBuff",
-            "demomanSmallHeadReaction"
+            "demomanSmallHeadReaction",
+            "DemomanSF13SpellMovementBuff"
         ],
         "rules": [
-            "DemomanSF13SpellMovementBuff",
-            "demomanSmallHeadReaction"
+            "demomanSmallHeadReaction",
+            "DemomanSF13SpellMovementBuff"
         ],
         "scenes": [
             "scenes/player/demoman/low/4587.vcd"
@@ -9102,12 +9102,12 @@
             "demoman_sf12_badmagic08"
         ],
         "responses": [
-            "DemomanSF13SpellMovementBuff",
-            "demomanGravityReaction"
+            "demomanGravityReaction",
+            "DemomanSF13SpellMovementBuff"
         ],
         "rules": [
-            "DemomanSF13SpellMovementBuff",
-            "demomanGravityReaction"
+            "demomanGravityReaction",
+            "DemomanSF13SpellMovementBuff"
         ],
         "scenes": [
             "scenes/player/demoman/low/4593.vcd"
@@ -9167,12 +9167,12 @@
             "demoman_sf12_badmagic11"
         ],
         "responses": [
-            "DemomanSeeSpellMeteorSwarm",
-            "demomanGravityReaction"
+            "demomanGravityReaction",
+            "DemomanSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "DemomanSeeSpellMeteorSwarm",
-            "demomanGravityReaction"
+            "demomanGravityReaction",
+            "DemomanSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/demoman/low/4596.vcd"
@@ -9361,8 +9361,8 @@
             "demoman_sf12_goodmagic04"
         ],
         "responses": [
-            "demomanGoodMagicReaction",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "demomanGoodMagicReaction"
         ],
         "rules": [
             "demomanGoodMagicReaction"
@@ -10051,12 +10051,12 @@
             "demoman_sf13_magic_reac03"
         ],
         "responses": [
-            "DemomanSeeSpellMeteorSwarm",
-            "DemomanSeeSpellSkeletonHorde"
+            "DemomanSeeSpellSkeletonHorde",
+            "DemomanSeeSpellMeteorSwarm"
         ],
         "rules": [
-            "DemomanSeeSpellMeteorSwarm",
-            "DemomanSeeSpellSkeletonHorde"
+            "DemomanSeeSpellSkeletonHorde",
+            "DemomanSeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/demoman/low/8538.vcd"
@@ -10079,13 +10079,13 @@
             ]
         ],
         "events": [
-            "demo.scardy_cat_b",
-            "demoman_sf13_magic_reac05"
+            "demoman_sf13_magic_reac05",
+            "demo.scardy_cat_b"
         ],
         "responses": [
             "DemomanSF13SkeletonKingAppear",
-            "DemomanSeeSpellMeteorSwarm",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "DemomanSeeSpellMeteorSwarm"
         ],
         "rules": [
             "DemomanSF13SkeletonKingAppear",
@@ -10619,22 +10619,22 @@
             ]
         ],
         "events": [
-            "demo.shanty_shipmate_outro",
-            "demoman.specialcompleted-assistedkill01"
+            "demoman.specialcompleted-assistedkill01",
+            "demo.shanty_shipmate_outro"
         ],
         "responses": [
+            "KilledPlayerAssistAutoDemoman",
             "Taunt: Shanty Shipmate",
-            "KilledPlayerAssistDemoman",
-            "KilledPlayerAssistAutoDemoman"
+            "KilledPlayerAssistDemoman"
         ],
         "rules": [
-            "KilledPlayerAssistDemoman",
             "KilledPlayerAssistDemoman2",
-            "KilledPlayerAssistAutoDemoman"
+            "KilledPlayerAssistAutoDemoman",
+            "KilledPlayerAssistDemoman"
         ],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
-            "scenes/player/demoman/low/1009.vcd"
+            "scenes/player/demoman/low/1009.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd"
         ],
         "state": "used",
         "transcript": "We did it, mate!"
@@ -10695,12 +10695,12 @@
             "demoman.specialcompleted01"
         ],
         "responses": [
-            "KilledPlayerCaberDemoman",
-            "KilledPlayerVeryManyDemoman"
+            "KilledPlayerVeryManyDemoman",
+            "KilledPlayerCaberDemoman"
         ],
         "rules": [
-            "KilledPlayerCaberDemoman",
-            "KilledPlayerVeryManyDemoman"
+            "KilledPlayerVeryManyDemoman",
+            "KilledPlayerCaberDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/997.vcd"
@@ -10918,8 +10918,8 @@
             "demo_taunt_forehead_slice_demoman_specialcompleted09"
         ],
         "responses": [
-            "Taunt: Fore-Head Slice",
-            "PlayerKilledForRevengeDemoman"
+            "PlayerKilledForRevengeDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "PlayerKilledForRevengeDemoman"
@@ -11010,18 +11010,18 @@
             "demoman.specialcompleted11"
         ],
         "responses": [
-            "KilledPlayerCaberDemoman",
             "PlayerKilledObjectDemoman",
-            "DemomanTauntSecondary"
+            "DemomanTauntSecondary",
+            "KilledPlayerCaberDemoman"
         ],
         "rules": [
             "DemomanTauntPlayerScotsmansSkullcutter",
-            "DemomanTauntPainTrain",
-            "PlayerKilledObjectDemoman",
-            "DemomanTauntLooseCannon",
-            "DemomanTauntSaxxy",
+            "KilledPlayerCaberDemoman",
             "DemomanTauntPlayerSecondary",
-            "KilledPlayerCaberDemoman"
+            "DemomanTauntPainTrain",
+            "DemomanTauntSaxxy",
+            "PlayerKilledObjectDemoman",
+            "DemomanTauntLooseCannon"
         ],
         "scenes": [
             "scenes/player/demoman/low/1007.vcd",
@@ -11055,12 +11055,12 @@
             "demoman.specialcompleted12"
         ],
         "responses": [
-            "KilledPlayerCaberDemoman",
-            "PlayerKilledObjectDemoman"
+            "PlayerKilledObjectDemoman",
+            "KilledPlayerCaberDemoman"
         ],
         "rules": [
-            "KilledPlayerCaberDemoman",
-            "PlayerKilledObjectDemoman"
+            "PlayerKilledObjectDemoman",
+            "KilledPlayerCaberDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/1008.vcd"
@@ -11299,19 +11299,19 @@
             ]
         ],
         "events": [
-            "demo.shanty_shipmate_outro",
-            "demoman.thanksfortheteleporter02"
+            "demoman.thanksfortheteleporter02",
+            "demo.shanty_shipmate_outro"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "PlayerTeleporterThanksDemoman"
+            "PlayerTeleporterThanksDemoman",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [
             "PlayerTeleporterThanksDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1036.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
+            "scenes/player/demoman/low/1036.vcd"
         ],
         "state": "used",
         "transcript": "Thanks, lad!"
@@ -11755,10 +11755,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
             "scenes/player/demoman/low/taunt_nuke.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
         "state": "used",
         "transcript": "That's good scrumpy!"
@@ -11775,10 +11775,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
             "scenes/player/demoman/low/taunt_nuke.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
         "state": "used",
         "transcript": "I love cheap whiskey!"
@@ -11787,8 +11787,8 @@
         "base_name": "demo_taunt_wild_24",
         "criteria": [],
         "events": [
-            "demo_taunt_neck_snap_04",
-            "demo_taunt_flip_random_waiting2"
+            "demo_taunt_flip_random_waiting2",
+            "demo_taunt_neck_snap_04"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -11809,13 +11809,13 @@
             "demo_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ah hah ha!"
@@ -11828,14 +11828,14 @@
             "demo_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/player/demoman/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
-            "scenes/player/demoman/low/taunt_dosido_intro01.vcd"
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Whoop de doo!"
@@ -11873,14 +11873,14 @@
             "demo_taunt_dosido_balance_rand"
         ],
         "responses": [
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
             "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/demoman/low/taunt_dosido_dance00.vcd"
+            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd"
         ],
         "state": "used",
         "transcript": "Wooh hoo!"
@@ -11893,16 +11893,16 @@
             "demo_taunt_dosido_balance_rand"
         ],
         "responses": [
+            "Taunt: Square Dance",
             "Taunt: Killer Joke",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
-            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/demoman/low/taunt_dosido_dance00.vcd"
+            "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd"
         ],
         "state": "used",
         "transcript": "Woo hooh."
@@ -11975,13 +11975,13 @@
         "base_name": "demo_trade_02",
         "criteria": [],
         "events": [
-            "taunt_burstchester_demo",
+            "demo_taunt_trade_rand",
             "demo_taunt_trade_start_rand",
-            "demo_taunt_trade_rand"
+            "taunt_burstchester_demo"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Peace!"
+            "Taunt: Peace!",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
@@ -11995,9 +11995,9 @@
         "base_name": "demo_trade_04",
         "criteria": [],
         "events": [
+            "demo_taunt_trade_loop_rand",
             "demo_taunt_trade_start_rand",
-            "demo_taunt_trade_rand",
-            "demo_taunt_trade_loop_rand"
+            "demo_taunt_trade_rand"
         ],
         "responses": [
             "Taunt: Peace!"
@@ -12013,10 +12013,10 @@
         "base_name": "demo_trade_12",
         "criteria": [],
         "events": [
-            "demo_taunt_trade_start_rand",
-            "demo_taunt_trade_rand",
             "demo_taunt_trade_loop_rand",
-            "demo_taunt_peace_vo_02"
+            "demo_taunt_trade_start_rand",
+            "demo_taunt_peace_vo_02",
+            "demo_taunt_trade_rand"
         ],
         "responses": [
             "Taunt: Peace!"
@@ -12032,9 +12032,9 @@
         "base_name": "demo_trade_15",
         "criteria": [],
         "events": [
+            "demo_taunt_trade_loop_rand",
             "demo_taunt_trade_start_rand",
-            "demo_taunt_trade_rand",
-            "demo_taunt_trade_loop_rand"
+            "demo_taunt_trade_rand"
         ],
         "responses": [
             "Taunt: Peace!"
@@ -12050,8 +12050,8 @@
         "base_name": "demo_trade_17",
         "criteria": [],
         "events": [
-            "demo_taunt_trade_start_rand",
-            "demo_taunt_trade_rand"
+            "demo_taunt_trade_rand",
+            "demo_taunt_trade_start_rand"
         ],
         "responses": [
             "Taunt: Peace!"
@@ -12091,24 +12091,24 @@
         "base_name": "demoman_laughhappy02",
         "criteria": [],
         "events": [
-            "taunt_burstchester_demo",
             "demo_taunt_russian_rand",
-            "demo.drunk_manns_cannon_laugh"
+            "demo.drunk_manns_cannon_laugh",
+            "taunt_burstchester_demo"
         ],
         "responses": [
-            "Taunt: Drunk Mann's Cannon",
-            "Taunt: Burstchester",
-            "Taunt: Kazotsky Kick",
             "Taunt: Mannrobics",
-            "Taunt: The Drunken Sailor"
+            "Taunt: Kazotsky Kick",
+            "Taunt: Drunk Mann's Cannon",
+            "Taunt: The Drunken Sailor",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/demoman/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd",
             "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
-            "scenes/player/demoman/low/taunt_aerobic_b.vcd",
-            "scenes/player/demoman/low/taunt_russian.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
+            "scenes/player/demoman/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh)"
@@ -12139,22 +12139,22 @@
             "taunt_demo_burp_03"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
-            "Taunt: Rancho Relaxo",
             "Taunt: The Pooped Deck",
-            "Taunt: Square Dance",
+            "Taunt: Rancho Relaxo",
             "Taunt: Cheers!",
-            "Taunt: Mourning Mercs"
+            "Taunt: Square Dance",
+            "Taunt: Mourning Mercs",
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/demoman/low/taunt_cheers.vcd",
             "scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd",
             "scenes/player/engineer/low/taunt_killer_time_intro.vcd",
-            "scenes/workshop/player/demoman/low/taunt_cheers.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "[Burps"
@@ -12339,8 +12339,8 @@
         "base_name": "taunt_demo_conga_int_06",
         "criteria": [],
         "events": [
-            "demo_taunt_conga_random_fun1",
-            "demo_taunt_flip_random_flipthrowantic"
+            "demo_taunt_flip_random_flipthrowantic",
+            "demo_taunt_conga_random_fun1"
         ],
         "responses": [
             "Taunt: Conga",
@@ -12348,8 +12348,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/player/demoman/low/conga.vcd"
+            "scenes/player/demoman/low/conga.vcd",
+            "scenes/player/demoman/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha!"
@@ -12377,13 +12377,13 @@
             "demo_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ho ho hwah!"
@@ -12392,19 +12392,19 @@
         "base_name": "taunt_demo_dose_end_02",
         "criteria": [],
         "events": [
-            "demo_taunt_dosido_start_rand",
-            "demo_taunt_dosido_mid_rand"
+            "demo_taunt_dosido_mid_rand",
+            "demo_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Peace!",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
             "scenes/workshop/player/demoman/low/taunt_peace.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ah ha ha!"
@@ -12417,13 +12417,13 @@
             "demo_taunt_dosido_end_rand"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Eh he ha ha!"
@@ -12433,19 +12433,19 @@
         "criteria": [],
         "events": [
             "demo_taunt_dosido_start_rand",
-            "demo_taunt_flip_random_flipthrowantic",
-            "demo_taunt_dosido_end_rand"
+            "demo_taunt_dosido_end_rand",
+            "demo_taunt_flip_random_flipthrowantic"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
+            "Taunt: Square Dance",
             "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: Shanty Shipmate"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "He hee hoo!"
@@ -12478,8 +12478,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/demoman/low/taunt_peace.vcd"
+            "scenes/workshop/player/demoman/low/taunt_peace.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha!"
@@ -12552,22 +12552,22 @@
         "base_name": "taunt_demo_exert_04",
         "criteria": [],
         "events": [
-            "demo_taunt_scotsmans_stagger_taunt_hop",
-            "demo_taunt_flip_random_flipexert"
+            "demo_taunt_flip_random_flipexert",
+            "demo_taunt_scotsmans_stagger_taunt_hop"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
+            "Taunt: The Fist Bump",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd",
-            "scenes/player/demoman/low/flip_success_receiver0.vcd",
             "scenes/player/demoman/low/flip_success_initiator0.vcd",
-            "scenes/player/demoman/low/flip_success_receiver1.vcd"
+            "scenes/player/demoman/low/flip_success_receiver0.vcd",
+            "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Hwap, ouww."
@@ -12583,10 +12583,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/flip_success_initiator0.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/player/demoman/low/flip_success_receiver1.vcd",
-            "scenes/player/demoman/low/flip_success_receiver0.vcd"
+            "scenes/player/demoman/low/flip_success_initiator0.vcd",
+            "scenes/player/demoman/low/flip_success_receiver0.vcd",
+            "scenes/player/demoman/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Howup!"
@@ -12595,22 +12595,22 @@
         "base_name": "taunt_demo_exert_08",
         "criteria": [],
         "events": [
-            "demo_taunt_scotsmans_stagger_taunt_hop",
-            "demo_taunt_flip_random_flipexert"
+            "demo_taunt_flip_random_flipexert",
+            "demo_taunt_scotsmans_stagger_taunt_hop"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
+            "Taunt: The Fist Bump",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd",
-            "scenes/player/demoman/low/flip_success_receiver0.vcd",
             "scenes/player/demoman/low/flip_success_initiator0.vcd",
-            "scenes/player/demoman/low/flip_success_receiver1.vcd"
+            "scenes/player/demoman/low/flip_success_receiver0.vcd",
+            "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Heyup!"
@@ -12619,22 +12619,22 @@
         "base_name": "taunt_demo_flip_exert_03",
         "criteria": [],
         "events": [
-            "demo_taunt_scotsmans_stagger_taunt_hop",
-            "demo_taunt_flip_random_flipexert"
+            "demo_taunt_flip_random_flipexert",
+            "demo_taunt_scotsmans_stagger_taunt_hop"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
+            "Taunt: The Fist Bump",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd",
-            "scenes/player/demoman/low/flip_success_receiver0.vcd",
             "scenes/player/demoman/low/flip_success_initiator0.vcd",
-            "scenes/player/demoman/low/flip_success_receiver1.vcd"
+            "scenes/player/demoman/low/flip_success_receiver0.vcd",
+            "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Hup!"
@@ -12652,9 +12652,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_russian.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
             "scenes/player/demoman/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
+            "scenes/player/demoman/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "Wooohooo!"
@@ -12855,8 +12855,8 @@
             "demo_taunt_scotsmans_stagger_taunt_hop"
         ],
         "responses": [
-            "Taunt: Scotsmann's Stagger",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
@@ -12874,8 +12874,8 @@
             "demo.shanty_shipmate_outro"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Flippin' Awesome",
+            "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
         ],
         "rules": [],
@@ -12891,22 +12891,22 @@
         "base_name": "taunt_demo_flip_post_fun_03",
         "criteria": [],
         "events": [
-            "taunt_burstchester_demo",
             "demo_taunt_flip_random_flipflipfinish1",
+            "taunt_burstchester_demo",
             "demo.shanty_shipmate_outro"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
-            "Taunt: Flippin' Awesome",
             "Taunt: The Pooped Deck",
+            "Taunt: Flippin' Awesome",
+            "Taunt: Shanty Shipmate",
             "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd",
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oh ho ah ho, I'm dizzy!"
@@ -12919,8 +12919,8 @@
             "demo.shanty_shipmate_outro"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Flippin' Awesome",
+            "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
         ],
         "rules": [],
@@ -12940,8 +12940,8 @@
             "demo.shanty_shipmate_outro"
         ],
         "responses": [
-            "Taunt: Shanty Shipmate",
             "Taunt: Flippin' Awesome",
+            "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
         ],
         "rules": [],
@@ -12957,22 +12957,22 @@
         "base_name": "taunt_demo_flip_post_fun_point_03",
         "criteria": [],
         "events": [
+            "taunt.bearhug_demoman_b",
             "taunt_burstchester_demo",
-            "demo_taunt_flip_random_flipadmire",
-            "taunt.bearhug_demoman_b"
+            "demo_taunt_flip_random_flipadmire"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "Taunt: Bear Hug",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Haha! This guy!"
@@ -12981,22 +12981,22 @@
         "base_name": "taunt_demo_flip_post_fun_point_04",
         "criteria": [],
         "events": [
+            "taunt.bearhug_demoman_b",
             "taunt_burstchester_demo",
-            "demo_taunt_flip_random_flipadmire",
-            "taunt.bearhug_demoman_b"
+            "demo_taunt_flip_random_flipadmire"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "Taunt: Bear Hug",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha, there he is!"
@@ -13005,22 +13005,22 @@
         "base_name": "taunt_demo_flip_post_fun_point_06",
         "criteria": [],
         "events": [
+            "taunt.bearhug_demoman_b",
             "taunt_burstchester_demo",
-            "demo_taunt_flip_random_flipadmire",
-            "taunt.bearhug_demoman_b"
+            "demo_taunt_flip_random_flipadmire"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Mannrobics",
             "Taunt: Bear Hug",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha, ya crazy man!"
@@ -13045,8 +13045,8 @@
         "base_name": "taunt_demo_head_int_01",
         "criteria": [],
         "events": [
-            "demo_taunt_fistbump_start",
-            "demo_taunt_headbutt_start"
+            "demo_taunt_headbutt_start",
+            "demo_taunt_fistbump_start"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -13099,14 +13099,14 @@
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_russian.vcd",
             "scenes/player/demoman/low/flip_start.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd",
+            "scenes/player/demoman/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "Come on!"
@@ -13118,8 +13118,8 @@
             "demo_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -13136,8 +13136,8 @@
             "demo_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -13154,8 +13154,8 @@
             "demo_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -13172,8 +13172,8 @@
             "demo_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -13239,18 +13239,18 @@
             "demo_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/demoman/low/taunt_rps_paper_win.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_rock_win.vcd",
             "scenes/player/demoman/low/flip_start.vcd",
             "scenes/player/demoman/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/demoman/low/taunt_rps_rock_win.vcd"
+            "scenes/player/demoman/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_win.vcd"
         ],
         "state": "used",
         "transcript": "Come on, then!"
@@ -13259,18 +13259,18 @@
         "base_name": "taunt_demo_int_30",
         "criteria": [],
         "events": [
-            "demo_taunt_fistbump_start",
             "demo_taunt_headbutt_start",
+            "demo_taunt_fistbump_start",
             "demo_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_headbutt_start.vcd",
-            "scenes/player/demoman/low/flip_start.vcd"
+            "scenes/player/demoman/low/flip_start.vcd",
+            "scenes/player/demoman/low/taunt_headbutt_start.vcd"
         ],
         "state": "used",
         "transcript": "Come on, then!"
@@ -13283,13 +13283,13 @@
             "demo_taunt_flip_random_waiting2"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_start.vcd",
-            "scenes/player/demoman/low/flip_start.vcd"
+            "scenes/player/demoman/low/flip_start.vcd",
+            "scenes/player/demoman/low/taunt_rps_start.vcd"
         ],
         "state": "used",
         "transcript": "Get over here!"
@@ -13445,18 +13445,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/demoman/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/demoman/low/taunt_rps_paper_win.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/demoman/low/taunt_rps_paper_win.vcd",
+            "scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/demoman/low/taunt_rps_rock_win.vcd",
             "scenes/player/demoman/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_win.vcd",
             "scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/demoman/low/taunt_rps_rock_win.vcd"
+            "scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "One, two, three!"
@@ -13521,8 +13521,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd"
+            "scenes/player/demoman/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Aw, come on."
@@ -13536,16 +13536,16 @@
             "demo_taunt_the_final_score_demo_taunt_demo_rps_lose_09"
         ],
         "responses": [
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: Dead Mann's Drink",
-            "Taunt: The Final Score",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: The Final Score"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_rock_lose.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd",
             "scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd"
+            "scenes/player/demoman/low/taunt_rps_rock_lose.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "Oh, 'tis a dark day."
@@ -13562,8 +13562,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_russian.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel.vcd"
+            "scenes/workshop/player/demoman/low/taunt_shipwheel.vcd",
+            "scenes/player/demoman/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "Ohhh yesss!"
@@ -13610,20 +13610,20 @@
             "demo_taunt_dosido_balance_rand"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
-            "Taunt: Square Dance",
             "Taunt: Mannrobics",
+            "Taunt: Kazotsky Kick",
             "Taunt: The Drunken Sailor",
+            "Taunt: Square Dance",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
-            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd",
-            "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
             "scenes/player/demoman/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
+            "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
             "scenes/player/demoman/low/taunt_russian.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/player/demoman/low/taunt_vehicle_allclass.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo hoo!"
@@ -13636,15 +13636,15 @@
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
-            "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd",
-            "scenes/player/demoman/low/taunt_rps_paper_win.vcd",
-            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd"
+            "scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd",
+            "scenes/player/demoman/low/taunt_rps_paper_win.vcd"
         ],
         "state": "used",
         "transcript": "Yeh hah!"
@@ -13653,19 +13653,19 @@
         "base_name": "taunt_demo_rps_win_28",
         "criteria": [],
         "events": [
-            "taunt.bearhug_demoman_a",
-            "demo_taunt_russian_randend"
+            "demo_taunt_russian_randend",
+            "taunt.bearhug_demoman_a"
         ],
         "responses": [
-            "Taunt: Bear Hug",
             "Taunt: Kazotsky Kick",
+            "Taunt: Bear Hug",
             "Taunt: The Drunken Sailor"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_russian.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel.vcd",
-            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
+            "scenes/player/demoman/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "That's a wee!"
@@ -13674,8 +13674,8 @@
         "base_name": "taunt_demo_strike_01",
         "criteria": [],
         "events": [
-            "demo_taunt_flip_random_flipthrowantic",
-            "demo_taunt_the_final_score_demo_taunt_demo_strike_01"
+            "demo_taunt_the_final_score_demo_taunt_demo_strike_01",
+            "demo_taunt_flip_random_flipthrowantic"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -13683,8 +13683,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_final_score.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_final_score.vcd",
+            "scenes/player/demoman/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Hah!"
@@ -13837,12 +13837,12 @@
             "demoman.taunts03"
         ],
         "responses": [
-            "AcceptedDuelDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "AcceptedDuelDemoman"
         ],
         "rules": [
-            "AcceptedDuelDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "AcceptedDuelDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/1015.vcd"
@@ -13897,12 +13897,12 @@
             "demoman.taunts05"
         ],
         "responses": [
-            "AcceptedDuelDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "AcceptedDuelDemoman"
         ],
         "rules": [
-            "AcceptedDuelDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "AcceptedDuelDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/1017.vcd"
@@ -14014,16 +14014,16 @@
             "demoman.taunts09"
         ],
         "responses": [
-            "DemomanTauntCaber",
-            "InvulnerableSpeechDemoman2"
+            "InvulnerableSpeechDemoman2",
+            "DemomanTauntCaber"
         ],
         "rules": [
-            "DemomanTauntCaber",
-            "InvulnerableSpeechDemoman2"
+            "InvulnerableSpeechDemoman2",
+            "DemomanTauntCaber"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1021.vcd",
-            "scenes/player/demoman/low/taunt04_v2.vcd"
+            "scenes/player/demoman/low/taunt04_v2.vcd",
+            "scenes/player/demoman/low/1021.vcd"
         ],
         "state": "used",
         "transcript": "I'm goin' ta blast ya into thin gruel!"
@@ -14136,8 +14136,8 @@
             "MeleeDareDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/taunt04_v1.vcd",
-            "scenes/player/demoman/low/1027.vcd"
+            "scenes/player/demoman/low/1027.vcd",
+            "scenes/player/demoman/low/taunt04_v1.vcd"
         ],
         "state": "used",
         "transcript": "Oooohhh, I'm goin' ta liquefy ya!"
@@ -14160,12 +14160,12 @@
             "demoman.taunts14"
         ],
         "responses": [
-            "MeleeDareDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "MeleeDareDemoman"
         ],
         "rules": [
-            "MeleeDareDemoman",
-            "MeleeDareCombatDemoman"
+            "MeleeDareCombatDemoman",
+            "MeleeDareDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/1028.vcd"

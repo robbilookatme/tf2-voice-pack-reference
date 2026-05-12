@@ -3,8 +3,8 @@
         "base_name": "ammo_pickup",
         "criteria": [],
         "events": [
-            "basecombatcharacter.ammopickup",
-            "player.pickupweapon"
+            "player.pickupweapon",
+            "basecombatcharacter.ammopickup"
         ],
         "responses": [],
         "rules": [],
@@ -398,8 +398,8 @@
         "base_name": "gunpickup2",
         "criteria": [],
         "events": [
-            "grenadepack.touch",
-            "ammopack.touch"
+            "ammopack.touch",
+            "grenadepack.touch"
         ],
         "responses": [],
         "rules": [],

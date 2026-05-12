@@ -2212,8 +2212,8 @@
         "base_name": "cm_spy_summary_callout_01",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2225,8 +2225,8 @@
         "base_name": "cm_spy_summary_callout_02",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2238,8 +2238,8 @@
         "base_name": "cm_spy_summary_callout_03",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2251,8 +2251,8 @@
         "base_name": "cm_spy_summary_callout_04",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2276,8 +2276,8 @@
         "base_name": "cm_spy_summary_callout_06",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2289,8 +2289,8 @@
         "base_name": "cm_spy_summary_callout_07",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2302,8 +2302,8 @@
         "base_name": "cm_spy_summary_callout_08",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2315,8 +2315,8 @@
         "base_name": "cm_spy_summary_callout_10",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2328,8 +2328,8 @@
         "base_name": "cm_spy_summary_callout_11",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2341,8 +2341,8 @@
         "base_name": "cm_spy_summary_callout_12",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2354,8 +2354,8 @@
         "base_name": "cm_spy_summary_callout_13",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2367,8 +2367,8 @@
         "base_name": "cm_spy_summary_callout_14",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2380,8 +2380,8 @@
         "base_name": "cm_spy_summary_callout_15",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2393,8 +2393,8 @@
         "base_name": "cm_spy_summary_callout_16",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2406,8 +2406,8 @@
         "base_name": "cm_spy_summary_callout_17",
         "criteria": [],
         "events": [
-            "spy.compsummaryscreenoutlier",
-            "spy.comprankup"
+            "spy.comprankup",
+            "spy.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2542,15 +2542,15 @@
             "spy.autocappedcontrolpoint03"
         ],
         "responses": [
-            "Taunt: Cheers!",
-            "PlayerCapturedPointSpy"
+            "PlayerCapturedPointSpy",
+            "Taunt: Cheers!"
         ],
         "rules": [
             "PlayerCapturedPointSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_cheers.vcd",
-            "scenes/player/spy/low/697.vcd"
+            "scenes/player/spy/low/697.vcd",
+            "scenes/workshop/player/spy/low/taunt_cheers.vcd"
         ],
         "state": "used",
         "transcript": "Excellent!"
@@ -2618,17 +2618,17 @@
             "spy.autocappedintelligence03"
         ],
         "responses": [
-            "SpyTauntPDA",
+            "Taunt: Cheers!",
             "PlayerCappedIntelligenceSpy",
-            "Taunt: Cheers!"
+            "SpyTauntPDA"
         ],
         "rules": [
-            "PlayerCappedIntelligenceSpy",
-            "SpyTauntPlayerPDA"
+            "SpyTauntPlayerPDA",
+            "PlayerCappedIntelligenceSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt04_v1.vcd",
             "scenes/workshop/player/spy/low/taunt_cheers.vcd",
+            "scenes/player/spy/low/taunt04_v1.vcd",
             "scenes/player/spy/low/700.vcd"
         ],
         "state": "used",
@@ -2643,12 +2643,12 @@
             ]
         ],
         "events": [
-            "spy.autodejectedtie01",
-            "taunt_burstchester_spy_02"
+            "taunt_burstchester_spy_02",
+            "spy.autodejectedtie01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerStalemateSpy"
+            "PlayerStalemateSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerStalemateSpy"
@@ -2696,21 +2696,21 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
-            "spy.autodejectedtie03"
+            "spy.autodejectedtie03",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
+            "Taunt: Tailored Terminal",
             "PlayerStalemateSpy",
-            "RejectedDuelSpy",
-            "Taunt: Tailored Terminal"
+            "RejectedDuelSpy"
         ],
         "rules": [
             "PlayerStalemateSpy",
             "RejectedDuelSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/703.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/player/spy/low/703.vcd"
         ],
         "state": "used",
         "transcript": "Awwwwww..."
@@ -2811,8 +2811,8 @@
             "spy.battlecry01"
         ],
         "responses": [
-            "PlayerBattleCrySpy",
-            "PlayerRoundStartSpy"
+            "PlayerRoundStartSpy",
+            "PlayerBattleCrySpy"
         ],
         "rules": [
             "PlayerBattleCrySpy",
@@ -2841,8 +2841,8 @@
             ]
         ],
         "events": [
-            "spy.battlecry02",
-            "taunt.luxury_lounge_intro"
+            "taunt.luxury_lounge_intro",
+            "spy.battlecry02"
         ],
         "responses": [
             "PlayerBattleCrySpy",
@@ -2851,8 +2851,8 @@
         ],
         "rules": [
             "PlayerBattleCrySpy",
-            "PlayerRoundStartSpy",
-            "AcceptedDuelSpy"
+            "AcceptedDuelSpy",
+            "PlayerRoundStartSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/709.vcd"
@@ -2876,8 +2876,8 @@
             "spy.battlecry03"
         ],
         "responses": [
-            "PlayerBattleCrySpy",
-            "PlayerRoundStartSpy"
+            "PlayerRoundStartSpy",
+            "PlayerBattleCrySpy"
         ],
         "rules": [
             "PlayerBattleCrySpy",
@@ -2916,20 +2916,20 @@
             "taunt.luxury_lounge_intro"
         ],
         "responses": [
-            "PlayerBattleCrySpy",
+            "SpyTauntSpycicle",
             "PlayerRoundStartSpy",
             "SpyTauntPrimary",
-            "SpyTauntSpycicle"
+            "PlayerBattleCrySpy"
         ],
         "rules": [
             "PlayerBattleCrySpy",
-            "PlayerRoundStartSpy",
             "SpyTauntPlayerPrimary",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "PlayerRoundStartSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/707.vcd",
-            "scenes/player/spy/low/taunt01_v5.vcd"
+            "scenes/player/spy/low/taunt01_v5.vcd",
+            "scenes/player/spy/low/707.vcd"
         ],
         "state": "used",
         "transcript": "Ahem..."
@@ -3762,15 +3762,15 @@
             "spy.cheers02"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerCheersSpy"
+            "PlayerCheersSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerCheersSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/711.vcd"
+            "scenes/player/spy/low/711.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Heartwarming..."
@@ -3784,8 +3784,8 @@
             ]
         ],
         "events": [
-            "spy_taunt_the_punchline_outro",
-            "spy.cheers03"
+            "spy.cheers03",
+            "spy_taunt_the_punchline_outro"
         ],
         "responses": [
             "Taunt: The Punchline",
@@ -3815,18 +3815,18 @@
             ]
         ],
         "events": [
-            "spy_taunt_the_punchline_spy_cheers04",
+            "spy.cheers04",
             "spy_taunt_the_punchline_outro",
-            "spy.cheers04"
+            "spy_taunt_the_punchline_spy_cheers04"
         ],
         "responses": [
-            "Taunt: The Punchline",
             "PlayerKilledCapperSpy",
-            "PlayerCheersSpy"
+            "PlayerCheersSpy",
+            "Taunt: The Punchline"
         ],
         "rules": [
-            "PlayerCheersSpy",
-            "PlayerKilledCapperSpy"
+            "PlayerKilledCapperSpy",
+            "PlayerCheersSpy"
         ],
         "scenes": [
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
@@ -3877,9 +3877,9 @@
             ]
         ],
         "events": [
-            "spy_taunt_the_punchline_outro",
             "spy_taunt_tailore_terminal_a1_01",
-            "spy.cheers06"
+            "spy.cheers06",
+            "spy_taunt_the_punchline_outro"
         ],
         "responses": [
             "Taunt: The Punchline",
@@ -3892,9 +3892,9 @@
             "PlayerCheersSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
             "scenes/player/spy/low/715.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
         "transcript": "Excellent!"
@@ -3916,12 +3916,12 @@
             "spy.cheers07"
         ],
         "responses": [
-            "PlayerCheersSpy",
-            "PlayerKilledCapperSpy"
+            "PlayerKilledCapperSpy",
+            "PlayerCheersSpy"
         ],
         "rules": [
-            "PlayerCheersSpy",
-            "PlayerKilledCapperSpy"
+            "PlayerKilledCapperSpy",
+            "PlayerCheersSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/716.vcd"
@@ -4007,8 +4007,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.cloakedspy03"
+            "spy.cloakedspy03",
+            "spy.teasevictim"
         ],
         "responses": [
             "PlayerCloakedSpySpy"
@@ -4031,8 +4031,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.cloakedspy04"
+            "spy.cloakedspy04",
+            "spy.teasevictim"
         ],
         "responses": [
             "PlayerCloakedSpySpy"
@@ -5402,8 +5402,8 @@
             "PlayerKilledDominatingSniperSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
-            "scenes/player/spy/low/3020.vcd"
+            "scenes/player/spy/low/3020.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
         "transcript": "You disgust me, filthy jar man!"
@@ -5823,10 +5823,10 @@
             ]
         ],
         "events": [
-            "spy.go01",
-            "spy.readycomp",
             "spy.ready",
-            "spy.readymvm"
+            "spy.readycomp",
+            "spy.readymvm",
+            "spy.go01"
         ],
         "responses": [
             "PlayerGoSpy"
@@ -5849,10 +5849,10 @@
             ]
         ],
         "events": [
-            "spy.readycomp",
             "spy.ready",
-            "spy.go02",
-            "spy.readymvm"
+            "spy.readycomp",
+            "spy.readymvm",
+            "spy.go02"
         ],
         "responses": [
             "PlayerGoSpy"
@@ -5875,10 +5875,10 @@
             ]
         ],
         "events": [
-            "spy.go03",
-            "spy.readycomp",
             "spy.ready",
-            "spy.readymvm"
+            "spy.readycomp",
+            "spy.readymvm",
+            "spy.go03"
         ],
         "responses": [
             "PlayerGoSpy"
@@ -5908,21 +5908,21 @@
             ]
         ],
         "events": [
-            "spy.goodjob01",
-            "taunt_burstchester_spy_02"
+            "taunt_burstchester_spy_02",
+            "spy.goodjob01"
         ],
         "responses": [
+            "PlayerGoodJobSpy",
             "Taunt: Burstchester",
-            "PlayerKilledForRevengeSpy",
-            "PlayerGoodJobSpy"
+            "PlayerKilledForRevengeSpy"
         ],
         "rules": [
-            "PlayerKilledForRevengeSpy",
-            "PlayerGoodJobSpy"
+            "PlayerGoodJobSpy",
+            "PlayerKilledForRevengeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/743.vcd"
+            "scenes/player/spy/low/743.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Well played!"
@@ -5941,8 +5941,8 @@
             ]
         ],
         "events": [
-            "spy.goodjob02",
-            "spy_taunt_commending_clap_b"
+            "spy_taunt_commending_clap_b",
+            "spy.goodjob02"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -5954,9 +5954,9 @@
             "PlayerGoodJobSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt04_v2.vcd",
             "scenes/player/spy/low/744.vcd",
-            "scenes/workshop/player/spy/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/spy/low/taunt_commending_clap.vcd",
+            "scenes/player/spy/low/taunt04_v2.vcd"
         ],
         "state": "used",
         "transcript": "Fine job!"
@@ -6216,8 +6216,8 @@
             "PlayerHelpCaptureSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/755.vcd"
+            "scenes/player/spy/low/755.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Come help me capture this."
@@ -6258,8 +6258,8 @@
             ]
         ],
         "events": [
-            "spy.helpmecapture03",
-            "taunt_burstchester_spy_01"
+            "taunt_burstchester_spy_01",
+            "spy.helpmecapture03"
         ],
         "responses": [
             "Taunt: Burstchester",
@@ -6367,8 +6367,8 @@
             "PlayerIncomingSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/player/spy/low/761.vcd"
+            "scenes/player/spy/low/761.vcd",
+            "scenes/workshop/player/spy/low/disco_fever.vcd"
         ],
         "state": "used",
         "transcript": "Incomiiing!"
@@ -6874,12 +6874,12 @@
             ]
         ],
         "events": [
-            "spy.jaratehit06",
-            "taunt.bearhug_spy_b"
+            "taunt.bearhug_spy_b",
+            "spy.jaratehit06"
         ],
         "responses": [
-            "PlayerJarateHit",
-            "Taunt: Bear Hug"
+            "Taunt: Bear Hug",
+            "PlayerJarateHit"
         ],
         "rules": [
             "PlayerJarateHit"
@@ -6947,15 +6947,15 @@
         ],
         "responses": [
             "PlayerSuddenDeathSpy",
+            "SpyTauntSpycicle",
             "SpyTauntPrimary",
-            "PlayerJeersSpy",
-            "SpyTauntSpycicle"
+            "PlayerJeersSpy"
         ],
         "rules": [
             "PlayerSuddenDeathSpy",
             "SpyTauntPlayerPrimary",
-            "PlayerJeersSpy",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "PlayerJeersSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/taunt01_v1.vcd",
@@ -7035,21 +7035,21 @@
             ]
         ],
         "events": [
-            "spy.jeers05",
-            "spy_taunt_tuefort_tango_outro_b"
+            "spy_taunt_tuefort_tango_outro_b",
+            "spy.jeers05"
         ],
         "responses": [
             "PlayerSuddenDeathSpy",
-            "PlayerJeersSpy",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "PlayerJeersSpy"
         ],
         "rules": [
             "PlayerSuddenDeathSpy",
             "PlayerJeersSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
-            "scenes/player/spy/low/771.vcd"
+            "scenes/player/spy/low/771.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "Not our finest moment!"
@@ -7067,24 +7067,24 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
             "spy.jeers06",
-            "spy_taunt_tuefort_tango_outro_b"
+            "spy_taunt_tuefort_tango_outro_b",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
             "PlayerSuddenDeathSpy",
-            "PlayerJeersSpy",
+            "Taunt: Tailored Terminal",
             "Taunt: Teufort Tango",
-            "Taunt: Tailored Terminal"
+            "PlayerJeersSpy"
         ],
         "rules": [
             "PlayerSuddenDeathSpy",
             "PlayerJeersSpy"
         ],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
-            "scenes/player/spy/low/770.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/player/spy/low/770.vcd"
         ],
         "state": "used",
         "transcript": "Ohhhh... merde."
@@ -7104,29 +7104,29 @@
             ]
         ],
         "events": [
-            "spy.laughevil01",
-            "spy_taunt_curtain_call_vo_02",
             "taunt_spy.disco_fever_middle",
             "spy_taunt_tailore_terminal_intro_1",
+            "spy.laughevil01",
+            "spy_taunt_curtain_call_vo_02",
             "spy_taunt_the_punchline_spy_laughevil01"
         ],
         "responses": [
-            "Taunt: Tailored Terminal",
-            "Taunt: Disco Fever",
-            "Taunt: Curtain Call",
-            "KilledPlayerManySpy",
             "Taunt: The Punchline",
-            "Taunt: The Victory Lap"
+            "Taunt: Disco Fever",
+            "Taunt: Tailored Terminal",
+            "KilledPlayerManySpy",
+            "Taunt: The Victory Lap",
+            "Taunt: Curtain Call"
         ],
         "rules": [
             "KilledPlayerManySpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/player/spy/low/772.vcd",
-            "scenes/player/spy/low/taunt_vehicle_allclass.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
+            "scenes/player/spy/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
+            "scenes/player/spy/low/772.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd"
         ],
         "state": "used",
@@ -7147,27 +7147,27 @@
             ]
         ],
         "events": [
-            "spy_taunt_tuefort_tango_a2",
-            "spy.laughevil02",
             "spy_taunt_tailore_terminal_a1_01",
+            "spy.laughevil02",
+            "spy_taunt_tuefort_tango_a2",
             "taunt_spy.disco_fever_middle"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
             "Taunt: Teufort Tango",
-            "Taunt: Tailored Terminal",
+            "Taunt: Kazotsky Kick",
             "Taunt: Disco Fever",
+            "Taunt: Tailored Terminal",
             "KilledPlayerManySpy"
         ],
         "rules": [
             "KilledPlayerManySpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
-            "scenes/player/spy/low/1312.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/player/spy/low/taunt_russian.vcd"
+            "scenes/player/spy/low/1312.vcd",
+            "scenes/player/spy/low/taunt_russian.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
+            "scenes/workshop/player/spy/low/disco_fever.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 2)"
@@ -7187,12 +7187,12 @@
             ]
         ],
         "events": [
-            "spy.laughhappy01",
-            "taunt_spy.disco_fever_middle"
+            "taunt_spy.disco_fever_middle",
+            "spy.laughhappy01"
         ],
         "responses": [
-            "Taunt: Disco Fever",
-            "KilledPlayerManySpy"
+            "KilledPlayerManySpy",
+            "Taunt: Disco Fever"
         ],
         "rules": [
             "KilledPlayerManySpy"
@@ -7224,15 +7224,15 @@
             "spy_taunt_russian_rand"
         ],
         "responses": [
-            "Taunt: Kazotsky Kick",
-            "KilledPlayerManySpy"
+            "KilledPlayerManySpy",
+            "Taunt: Kazotsky Kick"
         ],
         "rules": [
             "KilledPlayerManySpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/774.vcd",
-            "scenes/player/spy/low/taunt_russian.vcd"
+            "scenes/player/spy/low/taunt_russian.vcd",
+            "scenes/player/spy/low/774.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh 2)"
@@ -7294,17 +7294,17 @@
         ],
         "responses": [
             "KilledPlayerManySpy",
-            "Taunt: The Schadenfreude",
-            "SpyTauntLaugh"
+            "SpyTauntLaugh",
+            "Taunt: The Schadenfreude"
         ],
         "rules": [
-            "SpyTauntAprilFools",
             "KilledPlayerManySpy",
-            "SpyTauntLaugh"
+            "SpyTauntLaugh",
+            "SpyTauntAprilFools"
         ],
         "scenes": [
-            "scenes/player/spy/low/775.vcd",
-            "scenes/player/spy/low/taunt_laugh.vcd"
+            "scenes/player/spy/low/taunt_laugh.vcd",
+            "scenes/player/spy/low/775.vcd"
         ],
         "state": "used",
         "transcript": "(Long laugh)"
@@ -7318,14 +7318,14 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_taunt_boxtrot_intro",
+            "spy.laughshort01",
             "taunt.luxury_lounge_loop",
-            "spy.laughshort01"
+            "spy_taunt_boxtrot_intro",
+            "taunt.luxury_lounge_laugh"
         ],
         "responses": [
-            "Taunt: The Box Trot",
-            "PlayerTauntsSpy"
+            "PlayerTauntsSpy",
+            "Taunt: The Box Trot"
         ],
         "rules": [
             "PlayerPositiveSpy"
@@ -7346,17 +7346,17 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy.chuckle",
-            "spy_taunt_the_crypt_creeper_spy_laughshort02",
             "taunt.luxury_lounge_loop",
+            "taunt.luxury_lounge_laugh",
             "spy_taunt_boxtrot_intro",
+            "spy_taunt_the_crypt_creeper_spy_laughshort02",
+            "spy.chuckle",
             "spy.laughshort02"
         ],
         "responses": [
-            "Taunt: The Box Trot",
+            "Taunt: The Crypt Creeper",
             "PlayerTauntsSpy",
-            "Taunt: The Crypt Creeper"
+            "Taunt: The Box Trot"
         ],
         "rules": [
             "PlayerPositiveSpy"
@@ -7378,19 +7378,19 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_taunt_tuefort_tango_laugh",
-            "spy.laughshort03",
-            "spy.chuckle",
             "taunt.luxury_lounge_loop",
+            "spy_taunt_the_final_score_spy_spy_laughshort03",
+            "spy_taunt_tuefort_tango_laugh",
+            "taunt.luxury_lounge_laugh",
             "spy_taunt_boxtrot_intro",
-            "spy_taunt_the_final_score_spy_spy_laughshort03"
+            "spy.laughshort03",
+            "spy.chuckle"
         ],
         "responses": [
-            "Taunt: The Box Trot",
-            "PlayerTauntsSpy",
             "Taunt: Teufort Tango",
-            "Taunt: The Final Score"
+            "PlayerTauntsSpy",
+            "Taunt: The Final Score",
+            "Taunt: The Box Trot"
         ],
         "rules": [
             "PlayerPositiveSpy"
@@ -7398,8 +7398,8 @@
         "scenes": [
             "scenes/workshop/player/spy/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
-            "scenes/player/spy/low/1314.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
+            "scenes/player/spy/low/1314.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
@@ -7419,16 +7419,16 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_taunt_tuefort_tango_laugh",
-            "spy.laughshort04",
             "taunt.luxury_lounge_loop",
+            "spy.laughshort04",
+            "spy_taunt_tuefort_tango_laugh",
+            "taunt.luxury_lounge_laugh",
             "spy_taunt_boxtrot_intro"
         ],
         "responses": [
+            "Taunt: Teufort Tango",
             "Taunt: The Box Trot",
             "PlayerTauntsSpy",
-            "Taunt: Teufort Tango",
             "SpyTauntPDA"
         ],
         "rules": [
@@ -7436,8 +7436,8 @@
             "PlayerPositiveSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/player/spy/low/1315.vcd",
             "scenes/player/spy/low/taunt04_v4.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
@@ -7459,17 +7459,17 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_taunt_tuefort_tango_laugh",
             "spy.laughshort05",
-            "spy.chuckle",
             "taunt.luxury_lounge_loop",
-            "spy_taunt_boxtrot_intro"
+            "spy_taunt_tuefort_tango_laugh",
+            "taunt.luxury_lounge_laugh",
+            "spy_taunt_boxtrot_intro",
+            "spy.chuckle"
         ],
         "responses": [
+            "Taunt: Teufort Tango",
             "Taunt: The Box Trot",
             "PlayerTauntsSpy",
-            "Taunt: Teufort Tango",
             "SpyTauntPDA"
         ],
         "rules": [
@@ -7477,11 +7477,11 @@
             "PlayerPositiveSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt04_v3.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
-            "scenes/player/spy/low/1316.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
+            "scenes/player/spy/low/taunt04_v3.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/player/spy/low/1316.vcd"
         ],
         "state": "used",
         "transcript": "Short laugh 5"
@@ -7505,15 +7505,15 @@
             "spy.laughshort06"
         ],
         "responses": [
-            "Taunt: The Box Trot",
-            "KilledPlayerManySpy"
+            "KilledPlayerManySpy",
+            "Taunt: The Box Trot"
         ],
         "rules": [
             "KilledPlayerManySpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
-            "scenes/player/spy/low/1322.vcd"
+            "scenes/player/spy/low/1322.vcd",
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh)"
@@ -7661,12 +7661,12 @@
             "spy.meleedare01"
         ],
         "responses": [
-            "MeleeDareSpy",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "MeleeDareSpy"
         ],
         "rules": [
-            "MeleeDareSpy",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "MeleeDareSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/3016.vcd"
@@ -7692,12 +7692,12 @@
             "spy.meleedare02"
         ],
         "responses": [
-            "MeleeDareSpy",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "MeleeDareSpy"
         ],
         "rules": [
-            "MeleeDareSpy",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "MeleeDareSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/3023.vcd"
@@ -7761,10 +7761,10 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_loop",
-            "spy_mvm_loot_common01",
             "spy_taunt_commending_clap_a",
-            "spy_taunt_tailore_terminal_intro_1"
+            "spy_mvm_loot_common01",
+            "spy_taunt_tailore_terminal_intro_1",
+            "taunt.luxury_lounge_loop"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -7775,8 +7775,8 @@
             "SpyMvMLootCommon"
         ],
         "scenes": [
-            "scenes/player/spy/low/7513.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
+            "scenes/player/spy/low/7513.vcd",
             "scenes/workshop/player/spy/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
@@ -7816,11 +7816,11 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_taunt_tuefort_tango_laugh",
             "taunt.luxury_lounge_loop",
             "spy_taunt_tailore_terminal_intro_1",
-            "spy_mvm_loot_common03"
+            "spy_mvm_loot_common03",
+            "spy_taunt_tuefort_tango_laugh",
+            "taunt.luxury_lounge_laugh"
         ],
         "responses": [
             "Taunt: Peace!",
@@ -7832,10 +7832,10 @@
             "SpyMvMLootCommon"
         ],
         "scenes": [
-            "scenes/player/spy/low/8547.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
-            "scenes/workshop/player/spy/low/taunt_peace.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/workshop/player/spy/low/taunt_peace.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
+            "scenes/player/spy/low/8547.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
@@ -7920,8 +7920,8 @@
             ]
         ],
         "events": [
-            "spy_taunt_art_of_war",
-            "spy_mvm_loot_rare01"
+            "spy_mvm_loot_rare01",
+            "spy_taunt_art_of_war"
         ],
         "responses": [
             "SpyMvMLootRare"
@@ -7948,13 +7948,13 @@
             ]
         ],
         "events": [
+            "spy_mvm_loot_rare02",
             "spy_taunt_tailore_terminal_a1_01",
-            "spy_taunt_art_of_war",
-            "spy_mvm_loot_rare02"
+            "spy_taunt_art_of_war"
         ],
         "responses": [
-            "SpySF13SpellPickupRare",
             "SpyMvMLootRare",
+            "SpySF13SpellPickupRare",
             "Taunt: Tailored Terminal"
         ],
         "rules": [
@@ -7981,9 +7981,9 @@
             ]
         ],
         "events": [
-            "spy_mvm_loot_rare03",
+            "spy_taunt_art_of_war",
             "taunt.luxury_lounge_intro",
-            "spy_taunt_art_of_war"
+            "spy_mvm_loot_rare03"
         ],
         "responses": [
             "SpyMvMLootRare",
@@ -8104,19 +8104,19 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_intro",
-            "spy_mvm_resurrect02"
+            "spy_mvm_resurrect02",
+            "taunt.luxury_lounge_intro"
         ],
         "responses": [
-            "Taunt: Mourning Mercs",
-            "SpyMvmResurrected"
+            "SpyMvmResurrected",
+            "Taunt: Mourning Mercs"
         ],
         "rules": [
             "SpyMvmResurrected"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
-            "scenes/player/spy/low/7527.vcd"
+            "scenes/player/spy/low/7527.vcd",
+            "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd"
         ],
         "state": "used",
         "transcript": "Hah. Much better."
@@ -8199,8 +8199,8 @@
             ]
         ],
         "events": [
-            "spy_mvm_resurrect06",
-            "spy_taunt_the_crypt_creeper_spy_mvm_resurrect06"
+            "spy_taunt_the_crypt_creeper_spy_mvm_resurrect06",
+            "spy_mvm_resurrect06"
         ],
         "responses": [
             "SpyMvmResurrected",
@@ -8271,10 +8271,10 @@
             ]
         ],
         "events": [
-            "taunt.luxury_lounge_laugh",
-            "spy_mvm_resurrect09",
+            "spy_taunt_the_crypt_creeper_spy_mvm_resurrect09",
             "taunt.luxury_lounge_loop",
-            "spy_taunt_the_crypt_creeper_spy_mvm_resurrect09"
+            "spy_mvm_resurrect09",
+            "taunt.luxury_lounge_laugh"
         ],
         "responses": [
             "SpyMvmResurrected",
@@ -8284,8 +8284,8 @@
             "SpyMvmResurrected"
         ],
         "scenes": [
-            "scenes/player/spy/low/7535.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd",
+            "scenes/player/spy/low/7535.vcd"
         ],
         "state": "used",
         "transcript": "He he he he."
@@ -8372,27 +8372,27 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
-            "spy.negativevocalization01",
             "taunt_burstchester_spy_01",
-            "spy_taunt_tuefort_tango_outro_b"
+            "spy_taunt_tuefort_tango_outro_b",
+            "spy.negativevocalization01",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Teufort Tango",
-            "PlayerNegativeSpy",
+            "PlayerLostPointSpy",
             "Taunt: Tailored Terminal",
-            "PlayerLostPointSpy"
+            "PlayerNegativeSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
-            "scenes/player/spy/low/792.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/player/spy/low/792.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "Ugh..."
@@ -8411,26 +8411,26 @@
         ],
         "events": [
             "taunt_burstchester_spy_01",
-            "spy.negativevocalization02",
             "spy_taunt_tuefort_tango_outro_b",
-            "taunt_yeti_spy_negative"
+            "taunt_yeti_spy_negative",
+            "spy.negativevocalization02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Teufort Tango",
-            "PlayerNegativeSpy",
+            "Taunt: Second Rate Sorcery",
             "PlayerLostPointSpy",
-            "Taunt: Second Rate Sorcery"
+            "PlayerNegativeSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
+            "scenes/workshop/player/spy/low/secondrate_sorcery.vcd",
             "scenes/player/spy/low/793.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/spy/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "Argh..."
@@ -8495,16 +8495,16 @@
             "spy.negativevocalization04"
         ],
         "responses": [
-            "SpyTauntPDA",
             "RejectedDuelSpy",
             "PlayerLostPointSpy",
-            "PlayerNegativeSpy"
+            "PlayerNegativeSpy",
+            "SpyTauntPDA"
         ],
         "rules": [
-            "SpyTauntPlayerPDA",
+            "PlayerNegativeSpy",
             "RejectedDuelSpy",
             "PlayerLostPointSpy",
-            "PlayerNegativeSpy"
+            "SpyTauntPlayerPDA"
         ],
         "scenes": [
             "scenes/player/spy/low/791.vcd",
@@ -8530,9 +8530,9 @@
             "taunt.bearhug_spy_a"
         ],
         "responses": [
-            "Taunt: Bear Hug",
             "PlayerLostPointSpy",
-            "PlayerNegativeSpy"
+            "PlayerNegativeSpy",
+            "Taunt: Bear Hug"
         ],
         "rules": [
             "PlayerLostPointSpy",
@@ -8558,30 +8558,30 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_spy_01",
-            "spy_taunt_tuefort_tango_outro_b",
-            "spy.negativevocalization06",
+            "spy_taunt_tailore_terminal_a2_01",
             "taunt.bearhug_spy_a",
-            "spy_taunt_tailore_terminal_a2_01"
+            "taunt_burstchester_spy_01",
+            "spy.negativevocalization06",
+            "spy_taunt_tuefort_tango_outro_b"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Bear Hug",
             "Taunt: Teufort Tango",
-            "PlayerNegativeSpy",
+            "Taunt: Bear Hug",
+            "PlayerLostPointSpy",
             "Taunt: Tailored Terminal",
-            "PlayerLostPointSpy"
+            "PlayerNegativeSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
+            "scenes/player/spy/low/1318.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
-            "scenes/player/spy/low/1318.vcd"
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oh, no..."
@@ -8604,8 +8604,8 @@
             "taunt_yeti_spy_negative"
         ],
         "responses": [
-            "PlayerLostPointSpy",
             "Taunt: Teufort Tango",
+            "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "rules": [
@@ -8613,8 +8613,8 @@
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
-            "scenes/player/spy/low/1319.vcd"
+            "scenes/player/spy/low/1319.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "Agh!"
@@ -8632,35 +8632,35 @@
             ]
         ],
         "events": [
+            "spy_taunt_tailore_terminal_a2_01",
             "taunt_burstchester_spy_01",
-            "spy.negativevocalization08",
-            "spy_taunt_tuefort_tango_outro_b",
             "taunt_yeti_spy_negative",
-            "spy_taunt_tailore_terminal_a2_01"
+            "spy_taunt_tuefort_tango_outro_b",
+            "spy.negativevocalization08"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Teufort Tango",
-            "PlayerNegativeSpy",
             "Taunt: Rock, Paper, Scissors",
+            "PlayerLostPointSpy",
             "Taunt: Tailored Terminal",
-            "PlayerLostPointSpy"
+            "PlayerNegativeSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/1320.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
             "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
             "scenes/player/spy/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
             "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
+            "scenes/player/spy/low/1320.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Ugh!"
@@ -8678,27 +8678,27 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
             "taunt_burstchester_spy_01",
             "spy.negativevocalization09",
+            "spy_taunt_tailore_terminal_a2_01",
             "taunt_yeti_spy_negative"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerNegativeSpy",
             "Taunt: The Critical Fail",
+            "PlayerLostPointSpy",
             "Taunt: Tailored Terminal",
-            "PlayerLostPointSpy"
+            "PlayerNegativeSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/1321.vcd",
             "scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/player/spy/low/1321.vcd"
         ],
         "state": "used",
         "transcript": "Ughhhh..."
@@ -8845,12 +8845,12 @@
         "base_name": "spy_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "spy.m_mvm_critdeath",
-            "spy.paincrticialdeath01",
+            "spy.critdeath",
             "mvm.playerdiedspy",
+            "spy.paincrticialdeath01",
             "spy.meleedeath",
             "spy.m_mvm_meleedeath",
-            "spy.critdeath"
+            "spy.m_mvm_critdeath"
         ],
         "responses": [
             "Taunt: Unleashed Rage"
@@ -8866,12 +8866,12 @@
         "base_name": "spy_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "spy.m_mvm_critdeath",
+            "spy.critdeath",
             "mvm.playerdiedspy",
             "spy.meleedeath",
             "spy.m_mvm_meleedeath",
-            "spy.paincrticialdeath02",
-            "spy.critdeath"
+            "spy.m_mvm_critdeath",
+            "spy.paincrticialdeath02"
         ],
         "responses": [],
         "rules": [],
@@ -8883,12 +8883,12 @@
         "base_name": "spy_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "spy.m_mvm_critdeath",
-            "spy.paincrticialdeath03",
+            "spy.critdeath",
             "mvm.playerdiedspy",
+            "spy.paincrticialdeath03",
             "spy.meleedeath",
             "spy.m_mvm_meleedeath",
-            "spy.critdeath"
+            "spy.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -8906,16 +8906,16 @@
             ]
         ],
         "events": [
+            "taunt.bearhug_spy_b",
+            "spy.m_mvm_death",
             "spy.painsevere01",
             "spy.scardy_cat",
-            "spy.m_mvm_death",
-            "spy.death",
-            "taunt.bearhug_spy_b",
-            "spy.m_mvm_explosiondeath"
+            "spy.m_mvm_explosiondeath",
+            "spy.death"
         ],
         "responses": [
-            "Taunt: Bear Hug",
             "PlayerAttackerPainSpy",
+            "Taunt: Bear Hug",
             "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
@@ -8923,8 +8923,8 @@
         ],
         "scenes": [
             "scenes/player/spy/low/803.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd",
-            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Yell 1)"
@@ -8939,10 +8939,10 @@
             ]
         ],
         "events": [
-            "spy.painsevere02",
-            "spy.death",
+            "spy.m_mvm_explosiondeath",
             "spy.m_mvm_death",
-            "spy.m_mvm_explosiondeath"
+            "spy.death",
+            "spy.painsevere02"
         ],
         "responses": [
             "PlayerAttackerPainSpy"
@@ -8967,10 +8967,10 @@
         ],
         "events": [
             "spy.painsevere03",
-            "spy.scardy_cat",
             "spy.m_mvm_death",
-            "spy.death",
-            "spy.m_mvm_explosiondeath"
+            "spy.scardy_cat",
+            "spy.m_mvm_explosiondeath",
+            "spy.death"
         ],
         "responses": [
             "PlayerAttackerPainSpy",
@@ -8980,8 +8980,8 @@
             "PlayerAttackerPainSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd",
-            "scenes/player/spy/low/805.vcd"
+            "scenes/player/spy/low/805.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "(Groan 2)"
@@ -8996,10 +8996,10 @@
             ]
         ],
         "events": [
-            "spy.death",
-            "spy.m_mvm_death",
+            "spy.m_mvm_explosiondeath",
             "spy.painsevere04",
-            "spy.m_mvm_explosiondeath"
+            "spy.m_mvm_death",
+            "spy.death"
         ],
         "responses": [
             "PlayerAttackerPainSpy"
@@ -9025,9 +9025,9 @@
         "events": [
             "spy_taunt_neck_snap_03",
             "spy.m_mvm_death",
-            "spy.death",
             "spy.painsevere05",
-            "spy.m_mvm_explosiondeath"
+            "spy.m_mvm_explosiondeath",
+            "spy.death"
         ],
         "responses": [
             "PlayerAttackerPainSpy",
@@ -9060,21 +9060,21 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_spy_pain",
             "spy.explosiondeath",
-            "spy.painsharp01"
+            "spy.painsharp01",
+            "taunt_burstchester_spy_pain"
         ],
         "responses": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "rules": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/1928.vcd",
-            "scenes/player/spy/low/806.vcd"
+            "scenes/player/spy/low/806.vcd",
+            "scenes/player/spy/low/1928.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 1)"
@@ -9097,16 +9097,16 @@
         ],
         "events": [
             "spy.painsharp02",
-            "taunt_burstchester_spy_pain",
-            "spy.explosiondeath"
+            "spy.explosiondeath",
+            "taunt_burstchester_spy_pain"
         ],
         "responses": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "rules": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/807.vcd",
@@ -9132,17 +9132,17 @@
             ]
         ],
         "events": [
-            "taunt_burstchester_spy_pain",
             "spy.explosiondeath",
-            "spy.painsharp03"
+            "spy.painsharp03",
+            "taunt_burstchester_spy_pain"
         ],
         "responses": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "rules": [
-            "PlayerPainSpy",
-            "PlayerStillOnFireSpy"
+            "PlayerStillOnFireSpy",
+            "PlayerPainSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/808.vcd",
@@ -9161,9 +9161,9 @@
             ]
         ],
         "events": [
+            "spy.explosiondeath",
             "spy.painsharp04",
-            "taunt_burstchester_spy_pain",
-            "spy.explosiondeath"
+            "taunt_burstchester_spy_pain"
         ],
         "responses": [
             "PlayerPainSpy"
@@ -9275,24 +9275,24 @@
             ]
         ],
         "events": [
+            "spy.positivevocalization01",
             "spy_taunt_the_punchline_outro",
-            "spy_taunt_tailore_terminal_intro_1",
-            "spy.positivevocalization01"
+            "spy_taunt_tailore_terminal_intro_1"
         ],
         "responses": [
-            "PlayerPositiveSpy",
-            "Taunt: The Punchline",
             "PlayerKilledCapperSpy",
-            "Taunt: Tailored Terminal"
+            "Taunt: Tailored Terminal",
+            "PlayerPositiveSpy",
+            "Taunt: The Punchline"
         ],
         "rules": [
             "PlayerKilledCapperSpy",
             "PlayerPositiveSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/809.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
+            "scenes/player/spy/low/809.vcd"
         ],
         "state": "used",
         "transcript": "Excellent!"
@@ -9433,8 +9433,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.revenge01"
+            "spy.revenge01",
+            "spy.teasevictim"
         ],
         "responses": [
             "PlayerKilledForRevengeSpy"
@@ -9460,8 +9460,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.revenge02"
+            "spy.revenge02",
+            "spy.teasevictim"
         ],
         "responses": [
             "PlayerKilledForRevengeSpy"
@@ -9487,8 +9487,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.revenge03"
+            "spy.revenge03",
+            "spy.teasevictim"
         ],
         "responses": [
             "PlayerKilledForRevengeSpy"
@@ -9835,8 +9835,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win.vcd"
         ],
         "state": "used",
         "transcript": "I am victorious!"
@@ -9901,16 +9901,16 @@
             "taunt.bearhug_spy_a"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Bear Hug",
-            "spySmallHeadReaction"
+            "spySmallHeadReaction",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "spySmallHeadReaction"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/4710.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
@@ -9929,25 +9929,25 @@
             ]
         ],
         "events": [
+            "taunt_yeti_spy",
             "taunt_burstchester_spy_01",
             "spy.scardy_cat_b",
-            "spy_sf12_badmagic02",
-            "taunt_yeti_spy"
+            "spy_sf12_badmagic02"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "spyBigHeadReaction",
             "SpySF13SpellMovementBuff",
             "Taunt: The Scaredy-Cat!",
-            "spyBigHeadReaction"
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "SpySF13SpellMovementBuff",
-            "spyBigHeadReaction"
+            "spyBigHeadReaction",
+            "SpySF13SpellMovementBuff"
         ],
         "scenes": [
+            "scenes/player/spy/low/4711.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd",
-            "scenes/player/spy/low/4711.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "Sacrebleu."
@@ -9965,20 +9965,20 @@
             ]
         ],
         "events": [
-            "spy_sf12_badmagic03",
             "taunt_burstchester_spy_01",
+            "spy_sf12_badmagic03",
             "spy.scardy_cat_b",
             "taunt_yeti_spy"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "spyBigHeadReaction",
             "SpySF13SpellMovementBuff",
             "Taunt: The Scaredy-Cat!",
-            "spyBigHeadReaction"
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "SpySF13SpellMovementBuff",
-            "spyBigHeadReaction"
+            "spyBigHeadReaction",
+            "SpySF13SpellMovementBuff"
         ],
         "scenes": [
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
@@ -10001,8 +10001,8 @@
             "spy_sf12_badmagic04"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "spySmallHeadReaction"
+            "spySmallHeadReaction",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "spySmallHeadReaction"
@@ -10023,8 +10023,8 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
-            "spy_sf12_badmagic05"
+            "spy_sf12_badmagic05",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
             "SpySeeSpellMeteorSwarm",
@@ -10034,8 +10034,8 @@
             "SpySeeSpellMeteorSwarm"
         ],
         "scenes": [
-            "scenes/player/spy/low/4714.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/player/spy/low/4714.vcd"
         ],
         "state": "used",
         "transcript": "Nooo..."
@@ -10053,17 +10053,17 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
-            "spy_sf12_badmagic06"
+            "spy_sf12_badmagic06",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
-            "SpySeeSpellMeteorSwarm",
             "spySmallHeadReaction",
+            "SpySeeSpellMeteorSwarm",
             "Taunt: Tailored Terminal"
         ],
         "rules": [
-            "SpySeeSpellMeteorSwarm",
-            "spySmallHeadReaction"
+            "spySmallHeadReaction",
+            "SpySeeSpellMeteorSwarm"
         ],
         "scenes": [
             "scenes/player/spy/low/4715.vcd",
@@ -10077,13 +10077,13 @@
         "criteria": [],
         "events": [
             "spy_sf12_badmagic07",
-            "taunt.bearhug_spy_d",
             "taunt_burstchester_spy_02",
+            "taunt.bearhug_spy_d",
             "taunt_yeti_spy"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Bear Hug"
+            "Taunt: Bear Hug",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
@@ -10102,19 +10102,19 @@
             ]
         ],
         "events": [
-            "spy_sf12_badmagic08",
-            "taunt_burstchester_spy_01"
+            "taunt_burstchester_spy_01",
+            "spy_sf12_badmagic08"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SpySF13SpellMovementBuff"
+            "SpySF13SpellMovementBuff",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "SpySF13SpellMovementBuff"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/4717.vcd"
+            "scenes/player/spy/low/4717.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oh, Mon Dieu."
@@ -10230,8 +10230,8 @@
         "criteria": [],
         "events": [
             "spy_sf12_goodmagic05",
-            "spy_taunt_tailore_terminal_a2_03",
-            "taunt_spy.disco_fever_middle"
+            "taunt_spy.disco_fever_middle",
+            "spy_taunt_tailore_terminal_a2_03"
         ],
         "responses": [
             "Taunt: Disco Fever",
@@ -10278,8 +10278,8 @@
         "base_name": "spy_sf12_goodmagic08",
         "criteria": [],
         "events": [
-            "spy_sf12_goodmagic08",
-            "taunt_spy.disco_fever_middle"
+            "taunt_spy.disco_fever_middle",
+            "spy_sf12_goodmagic08"
         ],
         "responses": [
             "Taunt: Disco Fever"
@@ -10305,15 +10305,15 @@
             "spy_sf12_scared01"
         ],
         "responses": [
-            "SpySF13SkeletonKingAppear",
-            "Taunt: The Travel Agent"
+            "Taunt: The Travel Agent",
+            "SpySF13SkeletonKingAppear"
         ],
         "rules": [
             "SpySF13SkeletonKingAppear"
         ],
         "scenes": [
-            "scenes/player/spy/low/4718.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent_outro.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent_outro.vcd",
+            "scenes/player/spy/low/4718.vcd"
         ],
         "state": "used",
         "transcript": "Abort! Abort!"
@@ -10373,8 +10373,8 @@
             ]
         ],
         "events": [
-            "spy_sf13_influx_small02",
-            "taunt.luxury_lounge_loop"
+            "taunt.luxury_lounge_loop",
+            "spy_sf13_influx_small02"
         ],
         "responses": [
             "SpySF13SpellPickupCommon"
@@ -10432,8 +10432,8 @@
             "SpySF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
-            "scenes/player/spy/low/8548.vcd"
+            "scenes/player/spy/low/8548.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
         "transcript": "He he he he!"
@@ -10481,8 +10481,8 @@
             "SpySF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
-            "scenes/player/spy/low/8550.vcd"
+            "scenes/player/spy/low/8550.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
         "transcript": "(Evil chuckle)"
@@ -10510,10 +10510,10 @@
             "spy_sf13_magic_reac01"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "SpySeeSpellSkeletonHorde",
             "SpySeeSpellMeteorSwarm",
-            "SpySF13SkeletonKingAppear",
-            "SpySeeSpellSkeletonHorde"
+            "Taunt: Burstchester",
+            "SpySF13SkeletonKingAppear"
         ],
         "rules": [
             "SpySeeSpellSkeletonHorde",
@@ -10544,17 +10544,17 @@
             "spy_sf13_magic_reac02"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "SpySeeSpellSkeletonHorde",
             "SpySeeSpellMeteorSwarm",
-            "SpySeeSpellSkeletonHorde"
+            "Taunt: Burstchester"
         ],
         "rules": [
             "SpySeeSpellSkeletonHorde",
             "SpySeeSpellMeteorSwarm"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/7523.vcd"
+            "scenes/player/spy/low/7523.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Oh, merde."
@@ -11021,12 +11021,12 @@
             "spy_sf13_round_start06"
         ],
         "responses": [
-            "SpySF13BattleCry",
-            "SpySF13RoundStart"
+            "SpySF13RoundStart",
+            "SpySF13BattleCry"
         ],
         "rules": [
-            "SpySF13BattleCry",
-            "SpySF13RoundStart"
+            "SpySF13RoundStart",
+            "SpySF13BattleCry"
         ],
         "scenes": [
             "scenes/player/spy/low/7606.vcd"
@@ -11099,8 +11099,8 @@
             "SpyCastMeteorSwarm"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/secondrate_sorcery.vcd",
-            "scenes/player/spy/low/6161.vcd"
+            "scenes/player/spy/low/6161.vcd",
+            "scenes/workshop/player/spy/low/secondrate_sorcery.vcd"
         ],
         "state": "used",
         "transcript": "Seismela tremoro!"
@@ -11338,12 +11338,12 @@
             "spy.specialcompleted-assistedkill01"
         ],
         "responses": [
-            "KilledPlayerAssistSpy",
-            "KilledPlayerAssistAutoSpy"
+            "KilledPlayerAssistAutoSpy",
+            "KilledPlayerAssistSpy"
         ],
         "rules": [
-            "KilledPlayerAssistSpy",
-            "KilledPlayerAssistAutoSpy"
+            "KilledPlayerAssistAutoSpy",
+            "KilledPlayerAssistSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/828.vcd"
@@ -11377,12 +11377,12 @@
             "spy.specialcompleted-assistedkill02"
         ],
         "responses": [
-            "KilledPlayerAssistSpy",
-            "KilledPlayerAssistAutoSpy"
+            "KilledPlayerAssistAutoSpy",
+            "KilledPlayerAssistSpy"
         ],
         "rules": [
-            "KilledPlayerAssistSpy",
-            "KilledPlayerAssistAutoSpy"
+            "KilledPlayerAssistAutoSpy",
+            "KilledPlayerAssistSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/829.vcd"
@@ -11449,8 +11449,8 @@
             "KilledPlayerMeleeSpy"
         ],
         "rules": [
-            "KilledPlayerMeleeDisguisedSpy",
-            "KilledPlayerMeleeSpy"
+            "KilledPlayerMeleeSpy",
+            "KilledPlayerMeleeDisguisedSpy"
         ],
         "scenes": [
             "scenes/player/spy/low/817.vcd"
@@ -11492,28 +11492,28 @@
             ]
         ],
         "events": [
-            "spy_taunt_the_punchline_outro",
             "spy.scardy_cat_b",
+            "spy_taunt_the_punchline_outro",
             "spy.specialcompleted03"
         ],
         "responses": [
-            "Taunt: The Scaredy-Cat!",
-            "KilledPlayerMeleeSpy",
-            "SpyTauntSpycicle",
             "Taunt: The Punchline",
-            "SpyTauntPrimary"
+            "KilledPlayerMeleeSpy",
+            "Taunt: The Scaredy-Cat!",
+            "SpyTauntPrimary",
+            "SpyTauntSpycicle"
         ],
         "rules": [
             "KilledPlayerMeleeDisguisedSpy",
             "SpyTauntPlayerPrimary",
-            "KilledPlayerMeleeSpy",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "KilledPlayerMeleeSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt01_v2.vcd",
+            "scenes/player/spy/low/818.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd",
-            "scenes/player/spy/low/818.vcd"
+            "scenes/player/spy/low/taunt01_v2.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
         "transcript": "Oh dear, I've made quite a mess."
@@ -11533,8 +11533,8 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.specialcompleted04"
+            "spy.specialcompleted04",
+            "spy.teasevictim"
         ],
         "responses": [
             "KilledPlayerMeleeDisguisedSpy"
@@ -11640,18 +11640,18 @@
             "spy.specialcompleted07"
         ],
         "responses": [
-            "KilledPlayerMeleeDisguisedSpy",
+            "SpyTauntSpycicle",
             "SpyTauntPrimary",
-            "SpyTauntSpycicle"
+            "KilledPlayerMeleeDisguisedSpy"
         ],
         "rules": [
-            "KilledPlayerMeleeDisguisedSpy",
             "SpyTauntPlayerPrimary",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "KilledPlayerMeleeDisguisedSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt01_v3.vcd",
-            "scenes/player/spy/low/822.vcd"
+            "scenes/player/spy/low/822.vcd",
+            "scenes/player/spy/low/taunt01_v3.vcd"
         ],
         "state": "used",
         "transcript": "I never really was on your side."
@@ -11713,13 +11713,13 @@
             "spy.specialcompleted09"
         ],
         "responses": [
-            "RejectedDuelSpy",
             "KilledPlayerManySpy",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "RejectedDuelSpy"
         ],
         "rules": [
-            "RejectedDuelSpy",
             "KilledPlayerManySpy",
+            "RejectedDuelSpy",
             "MeleeDareCombatSpy"
         ],
         "scenes": [
@@ -11747,25 +11747,25 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
             "spy_taunt_the_punchline",
             "taunt_burstchester_spy_02",
-            "spy.specialcompleted10"
+            "spy.specialcompleted10",
+            "spy.teasevictim"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: The Punchline",
+            "KilledPlayerManySpy",
             "RejectedDuelSpy",
-            "KilledPlayerManySpy"
+            "Taunt: Burstchester",
+            "Taunt: The Punchline"
         ],
         "rules": [
-            "RejectedDuelSpy",
-            "KilledPlayerManySpy"
+            "KilledPlayerManySpy",
+            "RejectedDuelSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/player/spy/low/825.vcd"
+            "scenes/player/spy/low/825.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "You disgust me!"
@@ -11804,24 +11804,24 @@
             ]
         ],
         "events": [
-            "spy.specialcompleted11",
-            "taunt_burstchester_spy_02"
+            "taunt_burstchester_spy_02",
+            "spy.specialcompleted11"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "SpyTauntPrimary",
             "KilledPlayerMeleeSpy",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "SpyTauntPrimary",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "KilledPlayerMeleeDisguisedSpy",
-            "SpyTauntPlayerPrimary",
             "KilledPlayerMeleeSpy",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "SpyTauntPlayerPrimary",
+            "KilledPlayerMeleeDisguisedSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/taunt01_v4.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/826.vcd"
         ],
         "state": "used",
@@ -11842,10 +11842,10 @@
             ]
         ],
         "events": [
-            "spy.teasevictim",
-            "spy.specialcompleted12",
+            "spy_taunt_the_punchline",
             "spy_taunt_the_punchline_outro",
-            "spy_taunt_the_punchline"
+            "spy.specialcompleted12",
+            "spy.teasevictim"
         ],
         "responses": [
             "Taunt: The Punchline",
@@ -11877,8 +11877,8 @@
         "base_name": "spy_stabtaunt02",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_a1_02",
-            "spy_stabtaunt02"
+            "spy_stabtaunt02",
+            "spy_taunt_tailore_terminal_a1_02"
         ],
         "responses": [
             "Taunt: Tailored Terminal"
@@ -11966,8 +11966,8 @@
         "base_name": "spy_stabtaunt09",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_a1_02",
-            "spy_stabtaunt09"
+            "spy_stabtaunt09",
+            "spy_taunt_tailore_terminal_a1_02"
         ],
         "responses": [
             "Taunt: Tailored Terminal"
@@ -12012,8 +12012,8 @@
         "base_name": "spy_stabtaunt12",
         "criteria": [],
         "events": [
-            "spy_stabtaunt12",
-            "spy_taunt_tailore_terminal_a1_02"
+            "spy_taunt_tailore_terminal_a1_02",
+            "spy_stabtaunt12"
         ],
         "responses": [
             "Taunt: Tailored Terminal"
@@ -12109,12 +12109,12 @@
             "spy.standonthepoint01"
         ],
         "responses": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "rules": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "scenes": [
             "scenes/player/spy/low/830.vcd"
@@ -12143,12 +12143,12 @@
             "spy.standonthepoint02"
         ],
         "responses": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "rules": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "scenes": [
             "scenes/player/spy/low/1323.vcd"
@@ -12177,12 +12177,12 @@
             "spy.standonthepoint03"
         ],
         "responses": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "rules": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "scenes": [
             "scenes/player/spy/low/1324.vcd"
@@ -12211,12 +12211,12 @@
             "spy.standonthepoint04"
         ],
         "responses": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "rules": [
-            "PlayerHelpCapture2Spy",
-            "DefendOnThePointSpy"
+            "DefendOnThePointSpy",
+            "PlayerHelpCapture2Spy"
         ],
         "scenes": [
             "scenes/player/spy/low/1325.vcd"
@@ -12549,8 +12549,8 @@
         "base_name": "spy_tietaunt09",
         "criteria": [],
         "events": [
-            "spy_taunt_the_punchline_outro",
-            "spy_tietaunt09"
+            "spy_tietaunt09",
+            "spy_taunt_the_punchline_outro"
         ],
         "responses": [
             "Taunt: The Punchline"
@@ -12656,8 +12656,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/player/spy/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "Oh yeah! Haha! Mmm hmm heh heh hah hah!"
@@ -12771,9 +12771,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Ha hah! Yes!"
@@ -12830,8 +12830,8 @@
         "base_name": "spy_aerobic_pos_41",
         "criteria": [],
         "events": [
-            "spy_taunt_tuefort_tango_a2",
-            "taunt_spy_aerobic_shared_dance"
+            "taunt_spy_aerobic_shared_dance",
+            "spy_taunt_tuefort_tango_a2"
         ],
         "responses": [
             "Taunt: Mannrobics",
@@ -12839,8 +12839,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/player/spy/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
         "transcript": "Ah! Ze moves, they just sneak up on you! Ah ha ha!"
@@ -12986,8 +12986,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/player/spy/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Your move!"
@@ -13047,18 +13047,18 @@
         "base_name": "spy_taunt_cong_fun_03",
         "criteria": [],
         "events": [
-            "spy_taunt_conga_random_fun1",
-            "spy_taunt_tuefort_tango_a1"
+            "spy_taunt_tuefort_tango_a1",
+            "spy_taunt_conga_random_fun1"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Alright!"
@@ -13067,18 +13067,18 @@
         "base_name": "spy_taunt_cong_fun_05",
         "criteria": [],
         "events": [
-            "spy_taunt_conga_random_fun1",
-            "spy_taunt_tuefort_tango_a1"
+            "spy_taunt_tuefort_tango_a1",
+            "spy_taunt_conga_random_fun1"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Ah, c'est magnifique!"
@@ -13087,18 +13087,18 @@
         "base_name": "spy_taunt_cong_fun_06",
         "criteria": [],
         "events": [
-            "spy_taunt_conga_random_fun1",
-            "spy_taunt_tuefort_tango_a1"
+            "spy_taunt_tuefort_tango_a1",
+            "spy_taunt_conga_random_fun1"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, ha ha ha!"
@@ -13107,17 +13107,17 @@
         "base_name": "spy_taunt_cong_fun_08",
         "criteria": [],
         "events": [
-            "spy_taunt_conga_random_fun1",
-            "spy_taunt_tuefort_tango_a2"
+            "spy_taunt_tuefort_tango_a2",
+            "spy_taunt_conga_random_fun1"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/player/spy/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Eh hoo hoo!"
@@ -13126,18 +13126,18 @@
         "base_name": "spy_taunt_cong_fun_09",
         "criteria": [],
         "events": [
-            "spy_taunt_tuefort_tango_a1",
-            "spy_taunt_conga_random_fun2"
+            "spy_taunt_conga_random_fun2",
+            "spy_taunt_tuefort_tango_a1"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Oh ho ho ho ho!"
@@ -13146,9 +13146,9 @@
         "base_name": "spy_taunt_cong_fun_10",
         "criteria": [],
         "events": [
+            "spy_taunt_conga_random_fun2",
             "spy_taunt_tuefort_tango_a2",
-            "taunt_spy.disco_fever_end",
-            "spy_taunt_conga_random_fun2"
+            "taunt_spy.disco_fever_end"
         ],
         "responses": [
             "Taunt: Disco Fever",
@@ -13157,9 +13157,9 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/player/spy/low/conga.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/player/spy/low/conga.vcd"
         ],
         "state": "used",
         "transcript": "Oh yeah!"
@@ -13184,8 +13184,8 @@
         "base_name": "spy_taunt_cong_fun_15",
         "criteria": [],
         "events": [
-            "spy_taunt_conga_random_fun1",
-            "spy_taunt_conga_random_fun3"
+            "spy_taunt_conga_random_fun3",
+            "spy_taunt_conga_random_fun1"
         ],
         "responses": [
             "Taunt: Conga"
@@ -13239,12 +13239,12 @@
         "base_name": "spy_taunt_cong_int_05",
         "criteria": [],
         "events": [
-            "spy_taunt_tuefort_tango_intro",
-            "spy_taunt_conga_random_fun2"
+            "spy_taunt_conga_random_fun2",
+            "spy_taunt_tuefort_tango_intro"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -13258,12 +13258,12 @@
         "base_name": "spy_taunt_cong_int_11",
         "criteria": [],
         "events": [
-            "spy_taunt_tuefort_tango_intro",
-            "spy_taunt_conga_random_fun2"
+            "spy_taunt_conga_random_fun2",
+            "spy_taunt_tuefort_tango_intro"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
@@ -13293,17 +13293,17 @@
         "base_name": "spy_taunt_dosi_end_03",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_end_rand",
-            "spy_taunt_tailore_terminal_outro"
+            "spy_taunt_tailore_terminal_outro",
+            "spy_taunt_dosido_end_rand"
         ],
         "responses": [
-            "Taunt: Tailored Terminal",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd",
-            "scenes/player/spy/low/taunt_dosido_dance01.vcd"
+            "scenes/player/spy/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd"
         ],
         "state": "used",
         "transcript": "Yes! Good! We're done."
@@ -13312,8 +13312,8 @@
         "base_name": "spy_taunt_dosi_end_06",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_end_rand",
-            "taunt_yeti_spy"
+            "taunt_yeti_spy",
+            "spy_taunt_dosido_end_rand"
         ],
         "responses": [
             "Taunt: Square Dance"
@@ -13329,20 +13329,20 @@
         "base_name": "spy_taunt_dosi_end_11",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_end_rand",
-            "taunt_burstchester_spy_02",
             "taunt_spy.disco_fever_end",
-            "taunt_yeti_spy"
+            "taunt_burstchester_spy_02",
+            "taunt_yeti_spy",
+            "spy_taunt_dosido_end_rand"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Disco Fever",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
@@ -13368,24 +13368,24 @@
         "base_name": "spy_taunt_dosi_end_17",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_start_rand",
-            "taunt_burstchester_spy_02",
             "spy_taunt_neck_snap_01",
-            "spy_taunt_dosido_intro_rand"
+            "taunt_burstchester_spy_02",
+            "spy_taunt_dosido_intro_rand",
+            "spy_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Neck Snap",
+            "Taunt: Square Dance",
             "Taunt: Unleashed Rage",
-            "Taunt: Square Dance"
+            "Taunt: Neck Snap",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/taunt_dosido_intro01.vcd",
             "scenes/player/spy/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
-            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd"
+            "scenes/player/spy/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Hmmmeah..."
@@ -13394,24 +13394,24 @@
         "base_name": "spy_taunt_dosi_end_18",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_start_rand",
-            "spy_taunt_flip_random_flipthrowantic",
             "taunt_burstchester_spy_02",
-            "spy_taunt_dosido_intro_rand"
+            "spy_taunt_dosido_intro_rand",
+            "spy_taunt_flip_random_flipthrowantic",
+            "spy_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Flippin' Awesome",
+            "Taunt: Square Dance",
             "Taunt: Unleashed Rage",
-            "Taunt: Square Dance"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/flip_success_initiator1.vcd",
-            "scenes/player/spy/low/taunt_dosido_intro01.vcd",
             "scenes/player/spy/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd"
+            "scenes/player/spy/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd",
+            "scenes/player/spy/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Nyeauh..."
@@ -13420,21 +13420,21 @@
         "base_name": "spy_taunt_dosi_end_19",
         "criteria": [],
         "events": [
-            "spy_taunt_dosido_start_rand",
             "taunt_burstchester_spy_02",
-            "spy_taunt_dosido_intro_rand"
+            "spy_taunt_dosido_intro_rand",
+            "spy_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "Taunt: Square Dance",
             "Taunt: Unleashed Rage",
-            "Taunt: Square Dance"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/taunt_dosido_intro01.vcd",
-            "scenes/player/spy/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd"
+            "scenes/workshop/player/spy/low/taunt_unleashed_rage.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
+            "scenes/player/spy/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Nuuugh..."
@@ -13491,17 +13491,17 @@
         "base_name": "spy_taunt_dosi_int_01",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_a2_01",
-            "spy_taunt_dosido_mid_rand"
+            "spy_taunt_dosido_mid_rand",
+            "spy_taunt_tailore_terminal_a2_01"
         ],
         "responses": [
-            "Taunt: Tailored Terminal",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/player/spy/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Uuugh!"
@@ -13590,19 +13590,19 @@
         "base_name": "spy_taunt_dosi_int_12",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_a2_02",
+            "spy_taunt_dosido_intro_wait_rand",
             "taunt_burstchester_spy_01",
-            "spy_taunt_dosido_intro_wait_rand"
+            "spy_taunt_tailore_terminal_a2_02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Tailored Terminal",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/player/spy/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
         ],
         "state": "used",
@@ -13612,20 +13612,20 @@
         "base_name": "spy_taunt_dosi_int_14",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_a2_02",
+            "spy_taunt_dosido_mid_rand",
             "taunt_burstchester_spy_01",
-            "spy_taunt_dosido_mid_rand"
+            "spy_taunt_tailore_terminal_a2_02"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: Tailored Terminal",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/player/spy/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Ugh, come on!"
@@ -13682,22 +13682,22 @@
         "base_name": "spy_taunt_exert_11",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_flipexert",
             "spy_taunt_tailore_terminal_intro_grunt",
+            "spy_taunt_flip_random_flipexert",
             "spy_taunt_boxtrot_outro"
         ],
         "responses": [
-            "Taunt: The Box Trot",
             "Taunt: Flippin' Awesome",
-            "Taunt: Tailored Terminal"
+            "Taunt: Tailored Terminal",
+            "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Nnngh!"
@@ -13711,17 +13711,17 @@
             "spy_taunt_boxtrot_outro"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Flippin' Awesome",
+            "Taunt: Skullcracker",
             "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
             "scenes/player/spy/low/taunt_headbutt_success.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Huuh!"
@@ -13734,15 +13734,15 @@
             "spy_taunt_boxtrot_outro"
         ],
         "responses": [
-            "Taunt: The Box Trot",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
+            "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Eeegh!"
@@ -13751,22 +13751,22 @@
         "base_name": "spy_taunt_exert_14",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_flipexert",
             "spy_taunt_tailore_terminal_intro_grunt",
+            "spy_taunt_flip_random_flipexert",
             "spy_taunt_boxtrot_outro"
         ],
         "responses": [
-            "Taunt: The Box Trot",
             "Taunt: Flippin' Awesome",
-            "Taunt: Tailored Terminal"
+            "Taunt: Tailored Terminal",
+            "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Uuuh!"
@@ -13776,27 +13776,27 @@
         "criteria": [],
         "events": [
             "spy_taunt_tailore_terminal_intro_grunt",
-            "spy_taunt_headbutt_success_exert",
-            "spy_taunt_neck_snap_04",
             "spy_taunt_boxtrot_outro",
-            "spy_taunt_flip_random_flipexert"
+            "spy_taunt_headbutt_success_exert",
+            "spy_taunt_flip_random_flipexert",
+            "spy_taunt_neck_snap_04"
         ],
         "responses": [
             "Taunt: Neck Snap",
+            "Taunt: Skullcracker",
             "Taunt: Tailored Terminal",
-            "Taunt: The Box Trot",
             "Taunt: Flippin' Awesome",
-            "Taunt: Skullcracker"
+            "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
             "scenes/player/spy/low/taunt_headbutt_success.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Aigh!"
@@ -13809,15 +13809,15 @@
             "spy_taunt_boxtrot_outro"
         ],
         "responses": [
-            "Taunt: The Box Trot",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Box Trot"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_initiator0.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
-            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
+            "scenes/player/spy/low/flip_success_initiator0.vcd",
+            "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
+            "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Huuoh!"
@@ -13835,8 +13835,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/player/spy/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
         "transcript": "Very nice!"
@@ -13893,8 +13893,8 @@
         "base_name": "spy_taunt_flip_end_07",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_flipfinish",
             "taunt_spy_aerobic_finish",
+            "spy_taunt_flip_random_flipfinish",
             "spy_taunt_tuefort_tango_outro_a"
         ],
         "responses": [
@@ -13904,9 +13904,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd"
+            "scenes/player/spy/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "And then this!"
@@ -13915,8 +13915,8 @@
         "base_name": "spy_taunt_flip_end_12",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_flipfinish",
             "taunt_spy_aerobic_finish",
+            "spy_taunt_flip_random_flipfinish",
             "spy_taunt_tuefort_tango_outro_a"
         ],
         "responses": [
@@ -13926,9 +13926,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd"
+            "scenes/player/spy/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
         "transcript": "Big Finish!"
@@ -13937,23 +13937,23 @@
         "base_name": "spy_taunt_flip_end_14",
         "criteria": [],
         "events": [
+            "taunt_killer_joke_spy",
             "spy_taunt_flip_random_flipfinish",
             "taunt_spy_aerobic_finish",
-            "taunt_killer_joke_spy",
             "taunt_spy.disco_fever_end"
         ],
         "responses": [
             "Taunt: Disco Fever",
-            "Taunt: Mannrobics",
+            "Taunt: Killer Joke",
             "Taunt: Flippin' Awesome",
-            "Taunt: Killer Joke"
+            "Taunt: Mannrobics"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/disco_fever.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/spy/low/taunt_killer_joke.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/workshop/player/spy/low/taunt_killer_joke.vcd",
+            "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "I make it look easy!"
@@ -13962,18 +13962,18 @@
         "base_name": "spy_taunt_flip_end_16",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_flipfinish",
-            "spy_taunt_tuefort_tango_a1"
+            "spy_taunt_tuefort_tango_a1",
+            "spy_taunt_flip_random_flipfinish"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
         "transcript": "Pirouette!"
@@ -13989,9 +13989,9 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_success_receiver0.vcd",
             "scenes/player/spy/low/flip_success_initiator0.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/player/spy/low/flip_success_receiver0.vcd"
+            "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Hmmugh!"
@@ -14007,9 +14007,9 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_success_receiver0.vcd",
             "scenes/player/spy/low/flip_success_initiator0.vcd",
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/player/spy/low/flip_success_receiver0.vcd"
+            "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
         "transcript": "Uugh!"
@@ -14082,24 +14082,24 @@
         "base_name": "spy_taunt_flip_fun_01",
         "criteria": [],
         "events": [
-            "spy_taunt_tuefort_tango_a2",
             "spy_taunt_flip_random_flipflipping",
+            "spy_taunt_tuefort_tango_a2",
             "taunt_spy.disco_fever_start"
         ],
         "responses": [
+            "Taunt: Mannrobics",
             "Taunt: Teufort Tango",
             "Taunt: Disco Fever",
-            "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Travel Agent"
+            "Taunt: The Travel Agent",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/player/spy/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
+            "scenes/player/spy/low/taunt_aerobic_b.vcd",
+            "scenes/player/spy/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/spy/low/disco_fever.vcd"
         ],
         "state": "used",
         "transcript": "Ha hah!"
@@ -14108,29 +14108,29 @@
         "base_name": "spy_taunt_flip_fun_02",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_outro",
-            "spy_taunt_tailore_terminal_a2_03",
             "spy_taunt_flip_random_flipflipping",
             "spy_taunt_tuefort_tango_a2",
-            "taunt_spy.disco_fever_start"
+            "taunt_spy.disco_fever_start",
+            "spy_taunt_tailore_terminal_a2_03",
+            "spy_taunt_tailore_terminal_outro"
         ],
         "responses": [
-            "Taunt: Teufort Tango",
-            "Taunt: Tailored Terminal",
-            "Taunt: Disco Fever",
             "Taunt: Mannrobics",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Travel Agent"
+            "Taunt: Teufort Tango",
+            "Taunt: Disco Fever",
+            "Taunt: Tailored Terminal",
+            "Taunt: The Travel Agent",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
+            "scenes/player/spy/low/taunt_aerobic_b.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
-            "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd"
         ],
         "state": "used",
         "transcript": "Hah hah!"
@@ -14145,15 +14145,15 @@
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Travel Agent",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: The Travel Agent"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/flip_success_receiver1.vcd",
-            "scenes/player/spy/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
+            "scenes/player/spy/low/taunt_aerobic_b.vcd",
+            "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd"
         ],
         "state": "used",
@@ -14172,8 +14172,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -14192,8 +14192,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -14212,8 +14212,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd"
         ],
         "state": "used",
@@ -14336,17 +14336,17 @@
         "base_name": "spy_taunt_flip_int_20",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_waiting1",
-            "spy_taunt_fistbump_start"
+            "spy_taunt_fistbump_start",
+            "spy_taunt_flip_random_waiting1"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
-            "scenes/player/spy/low/flip_start.vcd"
+            "scenes/player/spy/low/flip_start.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "To me!"
@@ -14387,8 +14387,8 @@
         "base_name": "spy_taunt_head_doctor_pain",
         "criteria": [],
         "events": [
-            "medic_tauntthe_head_doctor_spy_taunt_head_pain_01",
-            "taunt.bearhug_spy_b"
+            "taunt.bearhug_spy_b",
+            "medic_tauntthe_head_doctor_spy_taunt_head_pain_01"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -14396,8 +14396,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -14410,13 +14410,13 @@
             "spy_taunt_headbutt_success_windup"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
+            "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
+            "scenes/player/spy/low/taunt_headbutt_success.vcd"
         ],
         "state": "used",
         "transcript": "Huhyeah omph!"
@@ -14461,13 +14461,13 @@
             "spy_taunt_fistbump_start"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_headbutt_start.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
+            "scenes/player/spy/low/taunt_headbutt_start.vcd"
         ],
         "state": "used",
         "transcript": "Right here!"
@@ -14565,8 +14565,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
+            "scenes/player/spy/low/taunt_headbutt_success.vcd"
         ],
         "state": "used",
         "transcript": "Didn't feel a thing!"
@@ -14575,20 +14575,20 @@
         "base_name": "spy_taunt_int_01",
         "criteria": [],
         "events": [
+            "spy_taunt_fistbump_start",
             "spy_taunt_tailore_terminal_a2_02",
-            "spy_taunt_flip_random_waiting1",
-            "spy_taunt_fistbump_start"
+            "spy_taunt_flip_random_waiting1"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
             "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome",
             "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_start.vcd",
             "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
-            "scenes/player/spy/low/flip_start.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
         ],
         "state": "used",
         "transcript": "Come on!"
@@ -14597,20 +14597,20 @@
         "base_name": "spy_taunt_int_03",
         "criteria": [],
         "events": [
+            "spy_taunt_fistbump_start",
             "spy_taunt_tailore_terminal_a2_02",
-            "spy_taunt_flip_random_waiting1",
-            "spy_taunt_fistbump_start"
+            "spy_taunt_flip_random_waiting1"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
             "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome",
             "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_start.vcd",
             "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
-            "scenes/player/spy/low/flip_start.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
         ],
         "state": "used",
         "transcript": "Come on!"
@@ -14619,20 +14619,20 @@
         "base_name": "spy_taunt_int_16",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_waiting1",
             "spy_taunt_fistbump_start",
+            "spy_taunt_flip_random_waiting1",
             "taunt_spy.disco_fever_start"
         ],
         "responses": [
             "Taunt: Disco Fever",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_start.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
-            "scenes/player/spy/low/flip_start.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Let's begin!"
@@ -14641,14 +14641,14 @@
         "base_name": "spy_taunt_int_24",
         "criteria": [],
         "events": [
-            "spy_taunt_rps_intro_wait_rand",
+            "spy_taunt_flag",
             "spy_taunt_fistbump_start",
-            "spy_taunt_flag"
+            "spy_taunt_rps_intro_wait_rand"
         ],
         "responses": [
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: Flying Colors",
-            "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -14663,20 +14663,20 @@
         "base_name": "spy_taunt_int_48",
         "criteria": [],
         "events": [
-            "spy_taunt_flip_random_waiting1",
             "spy_taunt_fistbump_start",
+            "spy_taunt_flip_random_waiting1",
             "taunt_spy.disco_fever_start"
         ],
         "responses": [
             "Taunt: Disco Fever",
-            "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/flip_start.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
-            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd",
-            "scenes/player/spy/low/flip_start.vcd"
+            "scenes/workshop/player/spy/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Let us commence!"
@@ -14705,8 +14705,8 @@
             "spy_taunt_neck_snap_02"
         ],
         "responses": [
-            "Taunt: Neck Snap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
@@ -14727,18 +14727,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "One!"
@@ -14754,18 +14754,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Two!"
@@ -14781,18 +14781,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_win.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/player/spy/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Three!"
@@ -14808,12 +14808,12 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_win.vcd",
             "scenes/player/spy/low/taunt_rps_rock_win.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_paper_win.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_lose.vcd"
+            "scenes/player/spy/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "On three!"
@@ -14870,12 +14870,12 @@
         "base_name": "spy_taunt_rps_int_08",
         "criteria": [],
         "events": [
-            "spy_taunt_rps_intro_wait_rand",
-            "spy_taunt_fistbump_start"
+            "spy_taunt_fistbump_start",
+            "spy_taunt_rps_intro_wait_rand"
         ],
         "responses": [
-            "Taunt: The Fist Bump",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -14889,8 +14889,8 @@
         "base_name": "spy_taunt_rps_lose_05",
         "criteria": [],
         "events": [
-            "spy_taunt_rps_lose_05",
-            "spy_taunt_the_punchline"
+            "spy_taunt_the_punchline",
+            "spy_taunt_rps_lose_05"
         ],
         "responses": [
             "Taunt: The Punchline",
@@ -14898,9 +14898,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/player/spy/low/taunt_rps_rock_lose.vcd"
+            "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Burn in hell!"
@@ -14916,8 +14916,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/spy/low/taunt_rps_scissors_lose.vcd"
         ],
         "state": "used",
         "transcript": "I should have won!"
@@ -14960,21 +14960,21 @@
         "base_name": "spy_taunt_rps_win_11",
         "criteria": [],
         "events": [
+            "spy_taunt_rps_win_11",
             "taunt_spy_aerobic_finish",
-            "spy_taunt_curtain_call_vo_01",
-            "spy_taunt_rps_win_11"
+            "spy_taunt_curtain_call_vo_01"
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Curtain Call",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Curtain Call"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_rps_paper_win.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
+            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
-            "scenes/player/spy/low/taunt_rps_paper_win_noinit.vcd"
+            "scenes/player/spy/low/taunt_rps_paper_win.vcd"
         ],
         "state": "used",
         "transcript": "I am the champion!"
@@ -14992,8 +14992,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
-            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
+            "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -15019,10 +15019,10 @@
         "base_name": "spy_tnt_nutkick_kick03",
         "criteria": [],
         "events": [
-            "spy_taunt_the_punchline_outro",
             "spy_taunt_russian_rand2",
-            "taunt_killer_joke_spy",
-            "spy_taunt_russian_rand"
+            "spy_taunt_russian_rand",
+            "spy_taunt_the_punchline_outro",
+            "taunt_killer_joke_spy"
         ],
         "responses": [
             "Taunt: The Punchline",
@@ -15031,8 +15031,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
             "scenes/player/spy/low/taunt_russian.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_punchline.vcd",
             "scenes/workshop/player/spy/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -15186,9 +15186,9 @@
         "base_name": "spy_trade_22",
         "criteria": [],
         "events": [
-            "spy_taunt_tailore_terminal_outro",
             "taunt.luxury_lounge_intro",
-            "spy_taunt_trade_loop_rand"
+            "spy_taunt_trade_loop_rand",
+            "spy_taunt_tailore_terminal_outro"
         ],
         "responses": [
             "Taunt: Tailored Terminal"
@@ -15326,8 +15326,8 @@
         "base_name": "spy_highfive07",
         "criteria": [],
         "events": [
-            "spy.highfive07",
-            "spy_taunt_flag"
+            "spy_taunt_flag",
+            "spy.highfive07"
         ],
         "responses": [
             "Taunt: Flying Colors"
@@ -15424,8 +15424,8 @@
         "base_name": "spy_highfive14",
         "criteria": [],
         "events": [
-            "spy.highfive14",
-            "spy_taunt_flag"
+            "spy_taunt_flag",
+            "spy.highfive14"
         ],
         "responses": [
             "Taunt: Flying Colors"
@@ -15441,8 +15441,8 @@
         "base_name": "spy_highfive_success01",
         "criteria": [],
         "events": [
-            "spy.highfivesuccess01",
-            "spy_taunt_flag"
+            "spy_taunt_flag",
+            "spy.highfivesuccess01"
         ],
         "responses": [
             "Taunt: Flying Colors"
@@ -15575,8 +15575,8 @@
             "SpyTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
-            "scenes/player/spy/low/taunt03_v1.vcd"
+            "scenes/player/spy/low/taunt03_v1.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
         "transcript": "I'm going to gut you like a Cornish game hen."
@@ -15616,12 +15616,12 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a1_02",
-            "spy.taunts04"
+            "spy.taunts04",
+            "spy_taunt_tailore_terminal_a1_02"
         ],
         "responses": [
-            "AcceptedDuelSpy",
-            "Taunt: Tailored Terminal"
+            "Taunt: Tailored Terminal",
+            "AcceptedDuelSpy"
         ],
         "rules": [
             "AcceptedDuelSpy"
@@ -15642,8 +15642,8 @@
             ]
         ],
         "events": [
-            "spy.taunts05",
-            "spy_taunt_the_crypt_creeper_spy_taunts05"
+            "spy_taunt_the_crypt_creeper_spy_taunts05",
+            "spy.taunts05"
         ],
         "responses": [
             "Taunt: The Crypt Creeper",
@@ -15674,12 +15674,12 @@
             ]
         ],
         "events": [
-            "spy_taunt_the_crypt_creeper_spy_taunts06",
-            "spy.taunts06"
+            "spy.taunts06",
+            "spy_taunt_the_crypt_creeper_spy_taunts06"
         ],
         "responses": [
-            "KilledPlayerMeleeDisguisedSpy",
-            "Taunt: The Crypt Creeper"
+            "Taunt: The Crypt Creeper",
+            "KilledPlayerMeleeDisguisedSpy"
         ],
         "rules": [
             "KilledPlayerMeleeDisguisedSpy"
@@ -15762,15 +15762,15 @@
             "spy.taunts09"
         ],
         "responses": [
-            "Taunt: Yeti Punch",
-            "SpyTauntMelee"
+            "SpyTauntMelee",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "SpyTauntPlayerMelee"
         ],
         "scenes": [
-            "scenes/player/spy/low/taunt_yetipunch.vcd",
-            "scenes/player/spy/low/taunt03_v2.vcd"
+            "scenes/player/spy/low/taunt03_v2.vcd",
+            "scenes/player/spy/low/taunt_yetipunch.vcd"
         ],
         "state": "used",
         "transcript": "Just lay your weapons down and walk away."
@@ -15790,21 +15790,21 @@
             ]
         ],
         "events": [
-            "spy_taunt_tailore_terminal_a1_02",
-            "spy.taunts10"
+            "spy.taunts10",
+            "spy_taunt_tailore_terminal_a1_02"
         ],
         "responses": [
-            "AcceptedDuelSpy",
+            "Taunt: Tailored Terminal",
             "MeleeDareCombatSpy",
-            "Taunt: Tailored Terminal"
+            "AcceptedDuelSpy"
         ],
         "rules": [
             "MeleeDareCombatSpy",
             "AcceptedDuelSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/845.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
+            "scenes/player/spy/low/845.vcd"
         ],
         "state": "used",
         "transcript": "I'm coming for you!"
@@ -15862,8 +15862,8 @@
             "InvulnerableSpeechSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd",
-            "scenes/player/spy/low/843.vcd"
+            "scenes/player/spy/low/843.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd"
         ],
         "state": "used",
         "transcript": "You're all of you quite out of your depth!"
@@ -15879,19 +15879,19 @@
             ]
         ],
         "events": [
-            "spy.taunts13",
-            "taunt_burstchester_spy_02"
+            "taunt_burstchester_spy_02",
+            "spy.taunts13"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "MeleeDareCombatSpy"
+            "MeleeDareCombatSpy",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "MeleeDareCombatSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
-            "scenes/player/spy/low/846.vcd"
+            "scenes/player/spy/low/846.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "\"You know, hiding won't save you.\" "
@@ -15939,8 +15939,8 @@
             ]
         ],
         "events": [
-            "spy.taunts15",
-            "spy_taunt_the_final_score_spy_spy_taunts15"
+            "spy_taunt_the_final_score_spy_spy_taunts15",
+            "spy.taunts15"
         ],
         "responses": [
             "PlayerKilledDominatingSniperSpy",
@@ -15952,8 +15952,8 @@
             "RejectedDuelSpy"
         ],
         "scenes": [
-            "scenes/workshop/player/spy/low/taunt_the_final_score.vcd",
-            "scenes/player/spy/low/831.vcd"
+            "scenes/player/spy/low/831.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "You suck!"

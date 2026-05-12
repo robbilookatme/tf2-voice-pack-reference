@@ -11,8 +11,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,burp04,,Events:,['player.burp03']
-Full Path:,vo/burp04.mp3,,Scenes:,"['scenes/player/demoman/low/taunt03_v2.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd']"
-Transcription:,three,,Responses:,"['Taunt: The Pooped Deck', 'DemomanTauntMelee']"
+Full Path:,vo/burp04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/player/demoman/low/taunt03_v2.vcd']"
+Transcription:,three,,Responses:,"['DemomanTauntMelee', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,['DemomanTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsBottle', 'AppliesContext:NotSober:1:10']]"
 
@@ -58,34 +58,34 @@ Transcription:,"Keep it up, lads!",,Responses:,['PlayerCapturedPointDemoman']
 Your Line:,,,Rules:,['PlayerCapturedPointDemoman']
 ,,,Criteria:,"[['ConceptPlayerCapturedPoint', 'IsDemoman']]"
 
-Filename:,demoman_autocappedcontrolpoint02,,Events:,"['demoman.autocappedcontrolpoint02', 'demo_taunt_flag']"
-Full Path:,vo/demoman_autocappedcontrolpoint02.mp3,,Scenes:,"['scenes/player/demoman/low/865.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd']"
-Transcription:,"Guts and glory, lads!",,Responses:,"['AwardDemoman', 'Taunt: Flying Colors', 'PlayerCapturedPointDemoman']"
-Your Line:,,,Rules:,"['AwardDemoman', 'PlayerCapturedPointDemoman']"
+Filename:,demoman_autocappedcontrolpoint02,,Events:,"['demo_taunt_flag', 'demoman.autocappedcontrolpoint02']"
+Full Path:,vo/demoman_autocappedcontrolpoint02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/player/demoman/low/865.vcd']"
+Transcription:,"Guts and glory, lads!",,Responses:,"['Taunt: Flying Colors', 'PlayerCapturedPointDemoman', 'AwardDemoman']"
+Your Line:,,,Rules:,"['PlayerCapturedPointDemoman', 'AwardDemoman']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsDemoman', 'DemomanNotAwardSpeech', 'AppliesContext:DemomanAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCapturedPoint', 'IsDemoman']]"
 
 Filename:,demoman_autocappedcontrolpoint03,,Events:,"['demoman.autocappedcontrolpoint03', 'demo_taunt_flag']"
-Full Path:,vo/demoman_autocappedcontrolpoint03.mp3,,Scenes:,"['scenes/player/demoman/low/864.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd']"
+Full Path:,vo/demoman_autocappedcontrolpoint03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/player/demoman/low/864.vcd']"
 Transcription:,"Now it's our flippin' point, hehah!",,Responses:,"['Taunt: Flying Colors', 'PlayerCapturedPointDemoman']"
 Your Line:,,,Rules:,['PlayerCapturedPointDemoman']
 ,,,Criteria:,"[['ConceptPlayerCapturedPoint', 'IsDemoman']]"
 
 Filename:,demoman_autocappedintelligence01,,Events:,['demoman.autocappedintelligence01']
 Full Path:,vo/demoman_autocappedintelligence01.mp3,,Scenes:,['scenes/player/demoman/low/866.vcd']
-Transcription:,"Aye, that's the way ye do it! Hehah!",,Responses:,"['AwardDemoman', 'PlayerCappedIntelligenceDemoman']"
-Your Line:,,,Rules:,"['AwardDemoman', 'PlayerCappedIntelligenceDemoman']"
+Transcription:,"Aye, that's the way ye do it! Hehah!",,Responses:,"['PlayerCappedIntelligenceDemoman', 'AwardDemoman']"
+Your Line:,,,Rules:,"['PlayerCappedIntelligenceDemoman', 'AwardDemoman']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsDemoman', 'DemomanNotAwardSpeech', 'AppliesContext:DemomanAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCapturedIntelligence', 'IsDemoman']]"
 
 Filename:,demoman_autocappedintelligence02,,Events:,['demoman.autocappedintelligence02']
 Full Path:,vo/demoman_autocappedintelligence02.mp3,,Scenes:,['scenes/player/demoman/low/868.vcd']
-Transcription:,Time to get bluttered!,,Responses:,"['AwardDemoman', 'MeleeDareDemoman']"
-Your Line:,,,Rules:,"['AwardDemoman', 'MeleeDareDemoman']"
+Transcription:,Time to get bluttered!,,Responses:,"['MeleeDareDemoman', 'AwardDemoman']"
+Your Line:,,,Rules:,"['MeleeDareDemoman', 'AwardDemoman']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsDemoman', 'DemomanNotAwardSpeech', 'AppliesContext:DemomanAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptRequestDuel', 'IsDemoman']]"
 
 Filename:,demoman_autocappedintelligence03,,Events:,['demoman.autocappedintelligence03']
 Full Path:,vo/demoman_autocappedintelligence03.mp3,,Scenes:,['scenes/player/demoman/low/867.vcd']
-Transcription:,That'll teach 'em!,,Responses:,"['PlayerCappedIntelligenceDemoman', 'PlayerKilledCapperDemoman', 'KilledPlayerAssistAutoDemoman', 'KilledPlayerAssistDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerAssistDemoman2', 'KilledPlayerAssistAutoDemoman', 'PlayerKilledCapperDemoman', 'KilledPlayerAssistDemoman', 'PlayerCappedIntelligenceDemoman']"
+Transcription:,That'll teach 'em!,,Responses:,"['PlayerKilledCapperDemoman', 'KilledPlayerAssistAutoDemoman', 'PlayerCappedIntelligenceDemoman', 'KilledPlayerAssistDemoman']"
+Your Line:,,,Rules:,"['PlayerKilledCapperDemoman', 'KilledPlayerAssistDemoman', 'KilledPlayerAssistAutoDemoman', 'PlayerCappedIntelligenceDemoman', 'KilledPlayerAssistDemoman2']"
 ,,,Criteria:,"[['ConceptPlayerCapturedIntelligence', 'IsDemoman'], ['ConceptKilledPlayer', 'IsDemoman', 'IsBeingHealed', 'IsManyRecentKills', 'KilledPlayerDelay', '20PercentChance', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20'], ['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10'], ['ConceptPlayerThanks', 'IsDemoman', 'IsARecentKill', 'KilledPlayerDelay', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsDemoman', 'IsNotBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20']]"
 
 Filename:,demoman_autodejectedtie01,,Events:,['demoman.autodejectedtie01']
@@ -101,13 +101,13 @@ Your Line:,,,Rules:,['PlayerStalemateDemoman']
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsDemoman']]"
 
 Filename:,demoman_autodejectedtie03,,Events:,['demoman.autodejectedtie03']
-Full Path:,vo/demoman_autodejectedtie03.mp3,,Scenes:,"['scenes/player/demoman/low/871.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_outro.vcd']"
-Transcription:,Ugggghhh...,,Responses:,"['PlayerStalemateDemoman', 'Taunt: The Drunken Sailor', 'DemomanJarateHit']"
-Your Line:,,,Rules:,"['PlayerStalemateDemoman', 'DemomanJarateHit']"
+Full Path:,vo/demoman_autodejectedtie03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel_outro.vcd', 'scenes/player/demoman/low/871.vcd']"
+Transcription:,Ugggghhh...,,Responses:,"['Taunt: The Drunken Sailor', 'PlayerStalemateDemoman', 'DemomanJarateHit']"
+Your Line:,,,Rules:,"['DemomanJarateHit', 'PlayerStalemateDemoman']"
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsDemoman'], ['ConceptJarateHit', 'IsDemoman', '50PercentChance']]"
 
 Filename:,demoman_autodejectedtie04,,Events:,['demoman.autodejectedtie04']
-Full Path:,vo/demoman_autodejectedtie04.mp3,,Scenes:,"['scenes/player/demoman/low/1357.vcd', 'scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd']"
+Full Path:,vo/demoman_autodejectedtie04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd', 'scenes/player/demoman/low/1357.vcd']"
 Transcription:,Ya' bleedin' idiots!,,Responses:,"['Taunt: The Critical Fail', 'PlayerStalemateDemoman']"
 Your Line:,,,Rules:,['PlayerStalemateDemoman']
 ,,,Criteria:,"[['ConceptPlayerStalemate', 'IsDemoman']]"
@@ -130,46 +130,46 @@ Transcription:,FIIIIREEEEEEEEE!,,Responses:,['PlayerOnFireDemoman']
 Your Line:,,,Rules:,['PlayerOnFireDemoman']
 ,,,Criteria:,"[['ConceptFire', 'IsDemoman', 'DemomanIsNotStillonFire', 'IsNotDominating', 'AppliesContext:DemomanOnFire:1:7']]"
 
-Filename:,demoman_battlecry01,,Events:,"['demoman.battlecry01', 'demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo']"
-Full Path:,vo/demoman_battlecry01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/player/demoman/low/1358.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,Freeeedooooom!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Filename:,demoman_battlecry01,,Events:,"['demoman.battlecry01', 'demo.taunt_roar_owar_vo', 'demo.drunk_manns_cannon_cheer']"
+Full Path:,vo/demoman_battlecry01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd', 'scenes/player/demoman/low/1358.vcd']"
+Transcription:,Freeeedooooom!,,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
-Filename:,demoman_battlecry02,,Events:,"['demoman.battlecry02', 'demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo']"
-Full Path:,vo/demoman_battlecry02.mp3,,Scenes:,"['scenes/player/demoman/low/876.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,"Have at 'em, lads!",,Responses:,"[""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Filename:,demoman_battlecry02,,Events:,"['demo.taunt_roar_owar_vo', 'demoman.battlecry02', 'demo.drunk_manns_cannon_cheer']"
+Full Path:,vo/demoman_battlecry02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd', 'scenes/player/demoman/low/876.vcd']"
+Transcription:,"Have at 'em, lads!",,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
-Filename:,demoman_battlecry03,,Events:,"['demoman.battlecry03', 'demo_taunt_flag', 'demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo']"
-Full Path:,vo/demoman_battlecry03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/player/demoman/low/877.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,"Get 'am, boyos!",,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerBattleCryDemoman', 'Taunt: Flying Colors', 'PlayerRoundStartDemoman', ""Taunt: Roar O'War""]"
-Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Filename:,demoman_battlecry03,,Events:,"['demo.taunt_roar_owar_vo', 'demoman.battlecry03', 'demo_taunt_flag', 'demo.drunk_manns_cannon_cheer']"
+Full Path:,vo/demoman_battlecry03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd', 'scenes/player/demoman/low/877.vcd']"
+Transcription:,"Get 'am, boyos!",,Responses:,"[""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman', 'Taunt: Flying Colors']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
-Filename:,demoman_battlecry04,,Events:,"['demoman.battlecry04', 'demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo']"
-Full Path:,vo/demoman_battlecry04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/player/demoman/low/878.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,Kill 'em aall!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Filename:,demoman_battlecry04,,Events:,"['demo.taunt_roar_owar_vo', 'demoman.battlecry04', 'demo.drunk_manns_cannon_cheer']"
+Full Path:,vo/demoman_battlecry04.mp3,,Scenes:,"['scenes/player/demoman/low/878.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd']"
+Transcription:,Kill 'em aall!,,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War"", 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
 Filename:,demoman_battlecry05,,Events:,['demoman.battlecry05']
 Full Path:,vo/demoman_battlecry05.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon.vcd', 'scenes/player/demoman/low/879.vcd']"
-Transcription:,"Leeeeet's, do iiiiit!",,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'MeleeDareDemoman', 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['MeleeDareDemoman', 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Transcription:,"Leeeeet's, do iiiiit!",,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", 'MeleeDareDemoman', 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'MeleeDareDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptRequestDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
 Filename:,demoman_battlecry06,,Events:,"['demoman.battlecry06', 'demo.drunk_manns_cannon_cheer']"
-Full Path:,vo/demoman_battlecry06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel_action2.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/player/demoman/low/880.vcd']"
-Transcription:,Aigheaght's the way to do it!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: The Drunken Sailor', 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Full Path:,vo/demoman_battlecry06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action2.vcd', 'scenes/player/demoman/low/880.vcd']"
+Transcription:,Aigheaght's the way to do it!,,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", 'Taunt: The Drunken Sailor', 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
 Filename:,demoman_battlecry07,,Events:,"['demoman.battlecry07', 'demo.drunk_manns_cannon_cheer']"
 Full Path:,vo/demoman_battlecry07.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/player/demoman/low/1369.vcd']"
-Transcription:,Come on!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'MeleeDareDemoman', 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
-Your Line:,,,Rules:,"['MeleeDareDemoman', 'PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
+Transcription:,Come on!,,Responses:,"['PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", 'MeleeDareDemoman', 'PlayerBattleCryDemoman']"
+Your Line:,,,Rules:,"['PlayerRoundStartDemoman', 'MeleeDareDemoman', 'PlayerBattleCryDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsDemoman'], ['ConceptRequestDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsDemoman']]"
 
 Filename:,demoman_cartgoingbackdefense01,,Events:,['demoman_cartgoingbackdefense01']
@@ -709,61 +709,61 @@ Your Line:,,,Rules:,['PlayerKilledDominatingSpyDemoman']
 Filename:,demoman_eyelandertaunt01,,Events:,['demoman.eyelandertaunt01']
 Full Path:,vo/demoman_eyelandertaunt01.mp3,,Scenes:,['scenes/player/demoman/low/3564.vcd']
 Transcription:,There can be only one... eye!,,Responses:,['KilledPlayerSword2Demoman']
-Your Line:,,,Rules:,"['KilledPlayerSword2Demoman', 'KilledPlayerKatana2Demoman']"
+Your Line:,,,Rules:,"['KilledPlayerKatana2Demoman', 'KilledPlayerSword2Demoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30']]"
 
 Filename:,demoman_eyelandertaunt02,,Events:,['demoman.eyelandertaunt02']
 Full Path:,vo/demoman_eyelandertaunt02.mp3,,Scenes:,['scenes/player/demoman/low/3565.vcd']
 Transcription:,There can be only one!,,Responses:,['KilledPlayerSwordDemoman']
-Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerSwordDemoman', 'KilledPlayerKatanaDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30']]"
 
 Filename:,demoman_gibberish01,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish01']"
 Full Path:,vo/demoman_gibberish01.mp3,,Scenes:,"['scenes/player/demoman/low/3566.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
 Transcription:,"And then I'll grow yer arse's arse and I'm the grass man, punk yeah heaven's heathen...",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'MeleeDareDemoman', 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['MeleeDareDemoman', 'KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'MeleeDareDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15'], ['ConceptRequestDuel', 'IsDemoman']]"
 
-Filename:,demoman_gibberish02,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing', 'demoman.gibberish02']"
-Full Path:,vo/demoman_gibberish02.mp3,,Scenes:,"['scenes/player/demoman/low/3567.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,"""Any one of you, I..."" (belch)",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Filename:,demoman_gibberish02,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish02']"
+Full Path:,vo/demoman_gibberish02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/3567.vcd']"
+Transcription:,"""Any one of you, I..."" (belch)",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Shanty Shipmate', 'KilledPlayerPanDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
-Filename:,demoman_gibberish03,,Events:,"['demoman.gibberish03', 'demo_taunt_neck_snap_01', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing']"
-Full Path:,vo/demoman_gibberish03.mp3,,Scenes:,"['scenes/player/demoman/low/3568.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_neck_snap.vcd']"
-Transcription:,"(unintelligible muttering) ""...I love you, man...""",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'KilledSoldierDemoman', 'Taunt: Neck Snap']"
+Filename:,demoman_gibberish03,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo_taunt_neck_snap_01', 'demoman.gibberish03']"
+Full Path:,vo/demoman_gibberish03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_neck_snap.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/3568.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,"(unintelligible muttering) ""...I love you, man...""",,Responses:,"['KilledSoldierDemoman', 'Taunt: Shanty Shipmate', 'Taunt: Neck Snap', ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,['KilledSoldierDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimSoldier', '10PercentChance', 'DemomanNotKillSpeech', 'IsDemoman', 'WeaponClassIsNotAxe', 'AppliesContext:DemomanKillSpeech:1:60']]"
 
-Filename:,demoman_gibberish04,,Events:,"['demoman.gibberish04', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing']"
-Full Path:,vo/demoman_gibberish04.mp3,,Scenes:,"['scenes/player/demoman/low/3569.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,"Any of you that think ye're better 'n me, you're gon' have another thing c-...",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'MeleeDareDemoman', 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['MeleeDareDemoman', 'KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Filename:,demoman_gibberish04,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish04']"
+Full Path:,vo/demoman_gibberish04.mp3,,Scenes:,"['scenes/player/demoman/low/3569.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,"Any of you that think ye're better 'n me, you're gon' have another thing c-...",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Shanty Shipmate', 'MeleeDareDemoman', 'KilledPlayerPanDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'MeleeDareDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15'], ['ConceptRequestDuel', 'IsDemoman']]"
 
-Filename:,demoman_gibberish05,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing', 'demoman.gibberish05']"
-Full Path:,vo/demoman_gibberish05.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/3570.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,...the BOTH of yeh on you...,,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Filename:,demoman_gibberish05,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish05']"
+Full Path:,vo/demoman_gibberish05.mp3,,Scenes:,"['scenes/player/demoman/low/3570.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,...the BOTH of yeh on you...,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Shanty Shipmate', 'KilledPlayerPanDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
-Filename:,demoman_gibberish06,,Events:,"['demoman.gibberish06', 'taunt_demo_deadmanns_drink_a']"
+Filename:,demoman_gibberish06,,Events:,"['taunt_demo_deadmanns_drink_a', 'demoman.gibberish06']"
 Full Path:,vo/demoman_gibberish06.mp3,,Scenes:,"['scenes/player/demoman/low/3571.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']"
 Transcription:,"Everyone thinks I'm just a one-eyed bloody monster! God damn it, Finnegan...",,Responses:,"[""Taunt: Dead Mann's Drink"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
 Filename:,demoman_gibberish07,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish07']"
-Full Path:,vo/demoman_gibberish07.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/3572.vcd']"
+Full Path:,vo/demoman_gibberish07.mp3,,Scenes:,"['scenes/player/demoman/low/3572.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
 Transcription:,"Everyone thinks I'm-- God damn it, Finnegan...",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
-Filename:,demoman_gibberish08,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing', 'demoman.gibberish08']"
-Full Path:,vo/demoman_gibberish08.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/3573.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,(Unintelligible gibberish),,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Filename:,demoman_gibberish08,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish08']"
+Full Path:,vo/demoman_gibberish08.mp3,,Scenes:,"['scenes/player/demoman/low/3573.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,(Unintelligible gibberish),,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Shanty Shipmate', 'KilledPlayerPanDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
 Filename:,demoman_gibberish09,,Events:,['demoman.gibberish09']
@@ -772,15 +772,15 @@ Transcription:,"Gonna kill you and I'll keep killin' you and I'll never, cause y
 Your Line:,,,Rules:,"['KilledSoldierDemoman', 'MeleeDareDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimSoldier', '10PercentChance', 'DemomanNotKillSpeech', 'IsDemoman', 'WeaponClassIsNotAxe', 'AppliesContext:DemomanKillSpeech:1:60'], ['ConceptRequestDuel', 'IsDemoman']]"
 
-Filename:,demoman_gibberish10,,Events:,"['demoman.gibberish10', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demo.shanty_shipmate_rowing']"
-Full Path:,vo/demoman_gibberish10.mp3,,Scenes:,"['scenes/player/demoman/low/3575.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,"Any one of you (belches) Everyone-- damn it, Finnegan...",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Scotsmann's Stagger"", 'KilledPlayerPanDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman', 'DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerClubDemoman']"
+Filename:,demoman_gibberish10,,Events:,"['demo.shanty_shipmate_rowing', 'demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish10']"
+Full Path:,vo/demoman_gibberish10.mp3,,Scenes:,"['scenes/player/demoman/low/3575.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,"Any one of you (belches) Everyone-- damn it, Finnegan...",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Shanty Shipmate', 'KilledPlayerPanDemoman']"
+Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerSaxxyDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerPanDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15']]"
 
 Filename:,demoman_gibberish11,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish11']"
-Full Path:,vo/demoman_gibberish11.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/3576.vcd']"
-Transcription:,"It's on! It's on like (falls asleep, then wakes up) Wha--?",,Responses:,"[""Taunt: Scotsmann's Stagger"", 'MeleeDareDemoman']"
+Full Path:,vo/demoman_gibberish11.mp3,,Scenes:,"['scenes/player/demoman/low/3576.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,"It's on! It's on like (falls asleep, then wakes up) Wha--?",,Responses:,"['MeleeDareDemoman', ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,['MeleeDareDemoman']
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsDemoman']]"
 
@@ -790,38 +790,38 @@ Transcription:,"Just bought two tickets to the gun show, and I'm not givin' 'em 
 Your Line:,,,Rules:,['KilledSoldierDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimSoldier', '10PercentChance', 'DemomanNotKillSpeech', 'IsDemoman', 'WeaponClassIsNotAxe', 'AppliesContext:DemomanKillSpeech:1:60']]"
 
-Filename:,demoman_gibberish13,,Events:,"['demoman.gibberish13', 'demo_taunt_scotsmans_stagger_demoman_gibberish']"
-Full Path:,vo/demoman_gibberish13.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/secondrate_sorcery.vcd', 'scenes/player/demoman/low/3578.vcd']"
-Transcription:,...Gonna take down to the pain train station in train town...,,Responses:,"['Taunt: Second Rate Sorcery', 'KilledPlayerClubDemoman', ""Taunt: Scotsmann's Stagger"", 'MeleeDareDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerClubDemoman', 'MeleeDareDemoman']"
+Filename:,demoman_gibberish13,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish13']"
+Full Path:,vo/demoman_gibberish13.mp3,,Scenes:,"['scenes/player/demoman/low/3578.vcd', 'scenes/workshop/player/demoman/low/secondrate_sorcery.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
+Transcription:,...Gonna take down to the pain train station in train town...,,Responses:,"['Taunt: Second Rate Sorcery', ""Taunt: Scotsmann's Stagger"", 'MeleeDareDemoman', 'KilledPlayerClubDemoman']"
+Your Line:,,,Rules:,"['MeleeDareDemoman', 'KilledPlayerClubDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15'], ['ConceptRequestDuel', 'IsDemoman']]"
 
-Filename:,demoman_go01,,Events:,"['demoman.go01', 'demoman.readycomp', 'demoman.readymvm', 'demoman.ready']"
+Filename:,demoman_go01,,Events:,"['demoman.go01', 'demoman.readycomp', 'demoman.ready', 'demoman.readymvm']"
 Full Path:,vo/demoman_go01.mp3,,Scenes:,['scenes/player/demoman/low/911.vcd']
 Transcription:,GO!,,Responses:,['PlayerGoDemoman']
 Your Line:,,,Rules:,['PlayerGoDemoman']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsDemoman']]"
 
-Filename:,demoman_go02,,Events:,"['demoman.readycomp', 'demoman.readymvm', 'demoman.go02', 'demoman.ready']"
+Filename:,demoman_go02,,Events:,"['demoman.readycomp', 'demoman.go02', 'demoman.ready', 'demoman.readymvm']"
 Full Path:,vo/demoman_go02.mp3,,Scenes:,['scenes/player/demoman/low/912.vcd']
 Transcription:,"Move it, lads!",,Responses:,['PlayerGoDemoman']
 Your Line:,,,Rules:,['PlayerGoDemoman']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsDemoman']]"
 
-Filename:,demoman_go03,,Events:,"['demoman.go03', 'demoman.readycomp', 'demoman.readymvm', 'demoman.ready']"
+Filename:,demoman_go03,,Events:,"['demoman.readycomp', 'demoman.go03', 'demoman.ready', 'demoman.readymvm']"
 Full Path:,vo/demoman_go03.mp3,,Scenes:,['scenes/player/demoman/low/913.vcd']
 Transcription:,Get going!,,Responses:,['PlayerGoDemoman']
 Your Line:,,,Rules:,['PlayerGoDemoman']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsDemoman']]"
 
 Filename:,demoman_goodjob01,,Events:,['demoman.goodjob01']
-Full Path:,vo/demoman_goodjob01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt03_v3.vcd', 'scenes/player/demoman/low/taunt03_v2.vcd', 'scenes/player/demoman/low/taunt03_v1.vcd', 'scenes/player/demoman/low/914.vcd', 'scenes/workshop/player/demoman/low/taunt_cheers.vcd']"
-Transcription:,"Cheers, mate!",,Responses:,"['Taunt: Cheers!', 'PlayerKilledForRevengeDemoman', 'PlayerGoodJobDemoman', 'DemomanTauntMelee']"
-Your Line:,,,Rules:,"['DemomanTauntPlayerMelee', 'PlayerKilledForRevengeDemoman', 'PlayerGoodJobDemoman']"
+Full Path:,vo/demoman_goodjob01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_cheers.vcd', 'scenes/player/demoman/low/taunt03_v2.vcd', 'scenes/player/demoman/low/taunt03_v1.vcd', 'scenes/player/demoman/low/914.vcd', 'scenes/player/demoman/low/taunt03_v3.vcd']"
+Transcription:,"Cheers, mate!",,Responses:,"['PlayerKilledForRevengeDemoman', 'Taunt: Cheers!', 'DemomanTauntMelee', 'PlayerGoodJobDemoman']"
+Your Line:,,,Rules:,"['PlayerKilledForRevengeDemoman', 'DemomanTauntPlayerMelee', 'PlayerGoodJobDemoman']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsBottle', 'AppliesContext:NotSober:1:10'], ['ConceptKilledPlayer', 'IsDemoman', 'IsRevenge', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerGoodJob', 'IsDemoman'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsBottle', 'AppliesContext:NotSober:1:10'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsBottle', 'AppliesContext:NotSober:1:10']]"
 
 Filename:,demoman_goodjob02,,Events:,"['demoman.goodjob02', 'demo_taunt_commending_clap_a']"
-Full Path:,vo/demoman_goodjob02.mp3,,Scenes:,"['scenes/player/demoman/low/915.vcd', 'scenes/workshop/player/demoman/low/taunt_commending_clap.vcd']"
+Full Path:,vo/demoman_goodjob02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_commending_clap.vcd', 'scenes/player/demoman/low/915.vcd']"
 Transcription:,"You're doing good, lad!",,Responses:,"['Taunt: Commending Clap', 'PlayerGoodJobDemoman']"
 Your Line:,,,Rules:,['PlayerGoodJobDemoman']
 ,,,Criteria:,"[['ConceptPlayerGoodJob', 'IsDemoman']]"
@@ -947,8 +947,8 @@ Your Line:,,,Rules:,"['RejectedDuelDemoman', 'PlayerSuddenDeathDemoman', 'Player
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptDuelRejected', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
 
 Filename:,demoman_jeers03,,Events:,['demoman.jeers03']
-Full Path:,vo/demoman_jeers03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_yetipunch.vcd', 'scenes/player/demoman/low/940.vcd']"
-Transcription:,"[Slurred] ""I'm drunk - you don't have an excuse!""",,Responses:,"['PlayerSuddenDeathDemoman', 'Taunt: Yeti Punch', 'PlayerJeersDemoman']"
+Full Path:,vo/demoman_jeers03.mp3,,Scenes:,"['scenes/player/demoman/low/940.vcd', 'scenes/player/demoman/low/taunt_yetipunch.vcd']"
+Transcription:,"[Slurred] ""I'm drunk - you don't have an excuse!""",,Responses:,"['Taunt: Yeti Punch', 'PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
 
@@ -964,9 +964,9 @@ Transcription:,I did what I could!,,Responses:,"['PlayerSuddenDeathDemoman', 'Pl
 Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
 
-Filename:,demoman_jeers06,,Events:,"['demoman.jeers06', 'taunt_demo_deadmanns_drink_a']"
-Full Path:,vo/demoman_jeers06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd', 'scenes/player/demoman/low/944.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']"
-Transcription:,"[Slurred] ""Ooooh, I've realllly hit rock bottom.""",,Responses:,"[""Taunt: Dead Mann's Drink"", 'PlayerSuddenDeathDemoman', 'Taunt: Mourning Mercs', 'PlayerJeersDemoman']"
+Filename:,demoman_jeers06,,Events:,"['taunt_demo_deadmanns_drink_a', 'demoman.jeers06']"
+Full Path:,vo/demoman_jeers06.mp3,,Scenes:,"['scenes/player/demoman/low/944.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd']"
+Transcription:,"[Slurred] ""Ooooh, I've realllly hit rock bottom.""",,Responses:,"['Taunt: Mourning Mercs', ""Taunt: Dead Mann's Drink"", 'PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
 
@@ -995,7 +995,7 @@ Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
 
 Filename:,demoman_jeers11,,Events:,"['demoman.jeers11', 'taunt_demo_deadmanns_drink_a']"
-Full Path:,vo/demoman_jeers11.mp3,,Scenes:,"['scenes/player/demoman/low/946.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']"
+Full Path:,vo/demoman_jeers11.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/player/demoman/low/946.vcd']"
 Transcription:,We're a sorry buncha' losers!,,Responses:,"[""Taunt: Dead Mann's Drink"", 'PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 ,,,Criteria:,"[['ConceptPlayerSuddenDeathStart', 'IsDemoman'], ['ConceptPlayerJeers', 'IsDemoman']]"
@@ -1003,19 +1003,19 @@ Your Line:,,,Rules:,"['PlayerSuddenDeathDemoman', 'PlayerJeersDemoman']"
 Filename:,demoman_laughevil01,,Events:,['demoman.laughevil01']
 Full Path:,vo/demoman_laughevil01.mp3,,Scenes:,['scenes/player/demoman/low/910.vcd']
 Transcription:,(Evil laugh 1),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerSwordDemoman', 'KilledPlayerKatanaDemoman', 'PlayerKilledDominatingDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughevil02,,Events:,"['demoman.laughevil02', 'demo.drunk_manns_cannon_laugh']"
 Full Path:,vo/demoman_laughevil02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/player/demoman/low/950.vcd']"
 Transcription:,(Evil laugh 2),,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerSwordDemoman', 'KilledPlayerKatanaDemoman', 'PlayerKilledDominatingDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughevil03,,Events:,['demoman.laughevil03']
 Full Path:,vo/demoman_laughevil03.mp3,,Scenes:,['scenes/player/demoman/low/1379.vcd']
 Transcription:,(Evil laugh 3),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerSwordDemoman', 'KilledPlayerKatanaDemoman', 'PlayerKilledDominatingDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughevil04,,Events:,['demoman.laughevil04']
@@ -1030,14 +1030,14 @@ Transcription:,(Evil laugh 5),,Responses:,['PlayerKilledDominatingDemoman']
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,demoman_laughhappy01,,Events:,"['taunt.bearhug_demoman_a', 'demoman.laughhappy01', 'taunt_yeti_demo', 'demo.drunk_manns_cannon_laugh']"
+Filename:,demoman_laughhappy01,,Events:,"['taunt_yeti_demo', 'demoman.laughhappy01', 'demo.drunk_manns_cannon_laugh', 'taunt.bearhug_demoman_a']"
 Full Path:,vo/demoman_laughhappy01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/player/demoman/low/951.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd']"
 Transcription:,(Happy laugh),,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Bear Hug', 'PlayerKilledDominatingDemoman']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,demoman_laughhappy02,,Events:,"['demo_taunt_flag', 'demoman.laughhappy02', 'taunt_yeti_demo']"
-Full Path:,vo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/player/demoman/low/952.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd']"
+Filename:,demoman_laughhappy02,,Events:,"['taunt_yeti_demo', 'demoman.laughhappy02', 'demo_taunt_flag']"
+Full Path:,vo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_flying_colors.vcd', 'scenes/player/demoman/low/952.vcd']"
 Transcription:,(Happy laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,['PlayerKilledCapperDemoman']
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
@@ -1049,37 +1049,37 @@ Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughlong02,,Events:,"['demoman.laughlong02', 'demo.drunk_manns_cannon_laugh']"
-Full Path:,vo/demoman_laughlong02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/player/demoman/low/taunt_laugh.vcd', 'scenes/player/demoman/low/954.vcd']"
-Transcription:,(Long laugh 2),,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerKilledDominatingDemoman', 'DemomanTauntLaugh', 'Taunt: The Schadenfreude']"
-Your Line:,,,Rules:,"['DemomanTauntAprilFools', 'DemomanTauntLaugh', 'PlayerKilledDominatingDemoman']"
+Full Path:,vo/demoman_laughlong02.mp3,,Scenes:,"['scenes/player/demoman/low/954.vcd', 'scenes/player/demoman/low/taunt_laugh.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd']"
+Transcription:,(Long laugh 2),,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: The Schadenfreude', 'PlayerKilledDominatingDemoman', 'DemomanTauntLaugh']"
+Your Line:,,,Rules:,"['DemomanTauntAprilFools', 'PlayerKilledDominatingDemoman', 'DemomanTauntLaugh']"
 ,,,Criteria:,"[['ConceptTauntLaugh', 'IsDemoman'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsDemoman'], ['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,demoman_laughshort01,,Events:,"['demoman.laughshort01', 'taunt_yeti_demo']"
-Full Path:,vo/demoman_laughshort01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_yetipunch.vcd', 'scenes/player/demoman/low/955.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Yeti Punch', 'Taunt: Rock, Paper, Scissors']"
+Filename:,demoman_laughshort01,,Events:,"['taunt_yeti_demo', 'demoman.laughshort01']"
+Full Path:,vo/demoman_laughshort01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/955.vcd', 'scenes/player/demoman/low/taunt_yetipunch.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd']"
+Transcription:,(Short laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Rock, Paper, Scissors', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['PlayerKilledCapperDemoman']
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
-Filename:,demoman_laughshort02,,Events:,"['demoman.laughshort02', 'taunt_yeti_demo']"
+Filename:,demoman_laughshort02,,Events:,"['taunt_yeti_demo', 'demoman.laughshort02']"
 Full Path:,vo/demoman_laughshort02.mp3,,Scenes:,['scenes/player/demoman/low/956.vcd']
 Transcription:,(Short laugh 1),,Responses:,['PlayerKilledDominatingDemoman']
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughshort03,,Events:,['demoman.laughshort03']
-Full Path:,vo/demoman_laughshort03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_hi5_a.vcd', 'scenes/player/demoman/low/1380.vcd', 'scenes/workshop/player/demoman/low/taunt_cheers.vcd']"
-Transcription:,Short laugh,,Responses:,"['Taunt: Cheers!', 'PlayerTauntsDemoman', 'Taunt: The High Five!']"
+Full Path:,vo/demoman_laughshort03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_cheers.vcd', 'scenes/player/demoman/low/1380.vcd', 'scenes/player/demoman/low/taunt_hi5_a.vcd']"
+Transcription:,Short laugh,,Responses:,"['Taunt: The High Five!', 'Taunt: Cheers!', 'PlayerTauntsDemoman']"
 Your Line:,,,Rules:,['PlayerPositiveDemoman']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsDemoman']]"
 
-Filename:,demoman_laughshort04,,Events:,"['demo_taunt_commending_clap_b', 'demoman.laughshort04']"
+Filename:,demoman_laughshort04,,Events:,"['demoman.laughshort04', 'demo_taunt_commending_clap_b']"
 Full Path:,vo/demoman_laughshort04.mp3,,Scenes:,"['scenes/player/demoman/low/1382.vcd', 'scenes/workshop/player/demoman/low/taunt_commending_clap.vcd']"
 Transcription:,Short laugh 2,,Responses:,"['Taunt: Commending Clap', 'PlayerTauntsDemoman']"
 Your Line:,,,Rules:,['PlayerPositiveDemoman']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsDemoman']]"
 
 Filename:,demoman_laughshort05,,Events:,['demoman.laughshort05']
-Full Path:,vo/demoman_laughshort05.mp3,,Scenes:,"['scenes/player/demoman/low/1383.vcd', 'scenes/player/demoman/low/taunt_hi5_a.vcd', 'scenes/player/demoman/low/taunt_hi5_b.vcd']"
+Full Path:,vo/demoman_laughshort05.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_hi5_b.vcd', 'scenes/player/demoman/low/1383.vcd', 'scenes/player/demoman/low/taunt_hi5_a.vcd']"
 Transcription:,(Short laugh 2),,Responses:,"['Taunt: The High Five!', 'PlayerKilledDominatingDemoman']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
@@ -1151,15 +1151,15 @@ Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
 Filename:,demoman_negativevocalization02,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization02']"
-Full Path:,vo/demoman_negativevocalization02.mp3,,Scenes:,"['scenes/player/demoman/low/1360.vcd', 'scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
-Transcription:,Eh.,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: The Pooped Deck', 'Taunt: The Critical Fail', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
+Full Path:,vo/demoman_negativevocalization02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/player/demoman/low/1360.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
+Transcription:,Eh.,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: The Critical Fail', 'PlayerLostPointDemoman', 'Taunt: The Pooped Deck', 'PlayerNegativeDemoman']"
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
 Filename:,demoman_negativevocalization03,,Events:,"['demoman.negativevocalization03', 'demo.drunk_manns_cannon_outro']"
 Full Path:,vo/demoman_negativevocalization03.mp3,,Scenes:,"['scenes/player/demoman/low/969.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
-Transcription:,ACH!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerLostPointDemoman', 'PlayerNegativeDemoman', 'DemomanJarateHit']"
-Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman', 'DemomanJarateHit']"
+Transcription:,ACH!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerNegativeDemoman', 'PlayerLostPointDemoman', 'DemomanJarateHit']"
+Your Line:,,,Rules:,"['PlayerNegativeDemoman', 'PlayerLostPointDemoman', 'DemomanJarateHit']"
 ,,,Criteria:,"[['ConceptJarateHit', 'IsDemoman', '50PercentChance'], ['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
 Filename:,demoman_negativevocalization04,,Events:,"['demoman.negativevocalization04', 'demo.drunk_manns_cannon_outro']"
@@ -1168,15 +1168,15 @@ Transcription:,Bloody hell!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Playe
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
-Filename:,demoman_negativevocalization05,,Events:,"['demoman.negativevocalization05', 'demo.drunk_manns_cannon_outro']"
+Filename:,demoman_negativevocalization05,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization05']"
 Full Path:,vo/demoman_negativevocalization05.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd', 'scenes/player/demoman/low/971.vcd']"
-Transcription:,AW CRIPE!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerLostPointDemoman', 'PlayerNegativeDemoman', 'DemomanJarateHit']"
-Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman', 'DemomanJarateHit']"
+Transcription:,AW CRIPE!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerNegativeDemoman', 'PlayerLostPointDemoman', 'DemomanJarateHit']"
+Your Line:,,,Rules:,"['PlayerNegativeDemoman', 'PlayerLostPointDemoman', 'DemomanJarateHit']"
 ,,,Criteria:,"[['ConceptJarateHit', 'IsDemoman', '50PercentChance'], ['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
-Filename:,demoman_negativevocalization06,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization06']"
-Full Path:,vo/demoman_negativevocalization06.mp3,,Scenes:,"['scenes/player/demoman/low/972.vcd', 'scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
-Transcription:,BAW!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'PlayerLostPointDemoman', 'PlayerNegativeDemoman', 'Taunt: Unleashed Rage']"
+Filename:,demoman_negativevocalization06,,Events:,"['demoman.negativevocalization06', 'demo.drunk_manns_cannon_outro']"
+Full Path:,vo/demoman_negativevocalization06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd', 'scenes/player/demoman/low/972.vcd']"
+Transcription:,BAW!,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Unleashed Rage', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
@@ -1216,39 +1216,39 @@ Transcription:,"Ach, nooooo!",,Responses:,['PlayerNoDemoman']
 Your Line:,,,Rules:,['PlayerNoDemoman']
 ,,,Criteria:,"[['ConceptPlayerNo', 'IsDemoman']]"
 
-Filename:,demoman_paincrticialdeath01,,Events:,"['demoman.critdeath', 'demoman.meleedeath', 'mvm.playerdieddemoman', 'demoman.paincrticialdeath01']"
+Filename:,demoman_paincrticialdeath01,,Events:,"['demoman.critdeath', 'mvm.playerdieddemoman', 'demoman.meleedeath', 'demoman.paincrticialdeath01']"
 Full Path:,vo/demoman_paincrticialdeath01.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd']
 Transcription:,(Dying scream 1),,Responses:,['Taunt: Unleashed Rage']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_paincrticialdeath02,,Events:,"['demoman.paincrticialdeath02', 'demoman.critdeath', 'demoman.meleedeath', 'mvm.playerdieddemoman']"
+Filename:,demoman_paincrticialdeath02,,Events:,"['demoman.critdeath', 'mvm.playerdieddemoman', 'demoman.meleedeath', 'demoman.paincrticialdeath02']"
 Full Path:,vo/demoman_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,(Dying scream 2),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_paincrticialdeath03,,Events:,"['demoman.paincrticialdeath03', 'demoman.critdeath', 'demoman.meleedeath', 'mvm.playerdieddemoman']"
+Filename:,demoman_paincrticialdeath03,,Events:,"['demoman.critdeath', 'mvm.playerdieddemoman', 'demoman.meleedeath', 'demoman.paincrticialdeath03']"
 Full Path:,vo/demoman_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,(Dying scream 3),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_paincrticialdeath04,,Events:,"['demoman.paincrticialdeath04', 'demoman.critdeath', 'demoman.meleedeath', 'mvm.playerdieddemoman']"
+Filename:,demoman_paincrticialdeath04,,Events:,"['demoman.critdeath', 'mvm.playerdieddemoman', 'demoman.meleedeath', 'demoman.paincrticialdeath04']"
 Full Path:,vo/demoman_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,(Dying scream 4),,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_paincrticialdeath05,,Events:,"['demoman.paincrticialdeath05', 'demoman.critdeath', 'demoman.meleedeath', 'mvm.playerdieddemoman']"
+Filename:,demoman_paincrticialdeath05,,Events:,"['demoman.critdeath', 'mvm.playerdieddemoman', 'demoman.meleedeath', 'demoman.paincrticialdeath05']"
 Full Path:,vo/demoman_paincrticialdeath05.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd']
 Transcription:,(Dying scream 5),,Responses:,['Taunt: Mourning Mercs']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_painsevere01,,Events:,"['demoman.death', 'demo.scardy_cat', 'demoman.painsevere01']"
+Filename:,demoman_painsevere01,,Events:,"['demoman.painsevere01', 'demoman.death', 'demo.scardy_cat']"
 Full Path:,vo/demoman_painsevere01.mp3,,Scenes:,"['scenes/player/demoman/low/983.vcd', 'scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/demoman/low/taunt_the_scaredycat.vcd']"
-Transcription:,(Yell 1),,Responses:,"['PlayerAttackerPainDemoman', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
+Transcription:,(Yell 1),,Responses:,"['Taunt: The Scaredy-Cat!', 'PlayerAttackerPainDemoman', 'Taunt: Unleashed Rage']"
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsDemoman', 'IsNotDominating']]"
 
@@ -1258,9 +1258,9 @@ Transcription:,(Yell 2),,Responses:,['PlayerAttackerPainDemoman']
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsDemoman', 'IsNotDominating']]"
 
-Filename:,demoman_painsevere03,,Events:,"['demoman.death', 'demoman.painsevere03', 'demo.scardy_cat']"
+Filename:,demoman_painsevere03,,Events:,"['demoman.death', 'demo.scardy_cat', 'demoman.painsevere03']"
 Full Path:,vo/demoman_painsevere03.mp3,,Scenes:,"['scenes/player/demoman/low/985.vcd', 'scenes/workshop/player/demoman/low/taunt_the_scaredycat.vcd']"
-Transcription:,(Yell 3),,Responses:,"['PlayerAttackerPainDemoman', 'Taunt: The Scaredy-Cat!']"
+Transcription:,(Yell 3),,Responses:,"['Taunt: The Scaredy-Cat!', 'PlayerAttackerPainDemoman']"
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsDemoman', 'IsNotDominating']]"
 
@@ -1270,14 +1270,14 @@ Transcription:,(Yell 4),,Responses:,['PlayerAttackerPainDemoman']
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsDemoman', 'IsNotDominating']]"
 
-Filename:,demoman_painsharp01,,Events:,"['demoman.painsharp01', 'demoman.explosiondeath']"
-Full Path:,vo/demoman_painsharp01.mp3,,Scenes:,"['scenes/player/demoman/low/1927.vcd', 'scenes/player/demoman/low/986.vcd']"
+Filename:,demoman_painsharp01,,Events:,"['demoman.explosiondeath', 'demoman.painsharp01']"
+Full Path:,vo/demoman_painsharp01.mp3,,Scenes:,"['scenes/player/demoman/low/986.vcd', 'scenes/player/demoman/low/1927.vcd']"
 Transcription:,(Grunt 1),,Responses:,"['PlayerStillOnFireDemoman', 'PlayerPainDemoman']"
 Your Line:,,,Rules:,"['PlayerStillOnFireDemoman', 'PlayerPainDemoman']"
 ,,,Criteria:,"[['ConceptFire', 'IsDemoman', 'DemomanIsStillonFire', 'IsNotDominating', 'AppliesContext:DemomanOnFire:1:7'], ['ConceptPain', 'IsDemoman', 'IsNotDominating']]"
 
-Filename:,demoman_painsharp02,,Events:,"['demoman.painsharp02', 'demo_taunt_neck_snap_02', 'demoman.explosiondeath']"
-Full Path:,vo/demoman_painsharp02.mp3,,Scenes:,"['scenes/player/demoman/low/1927.vcd', 'scenes/workshop/player/demoman/low/taunt_neck_snap.vcd', 'scenes/player/demoman/low/987.vcd']"
+Filename:,demoman_painsharp02,,Events:,"['demo_taunt_neck_snap_02', 'demoman.explosiondeath', 'demoman.painsharp02']"
+Full Path:,vo/demoman_painsharp02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_neck_snap.vcd', 'scenes/player/demoman/low/1927.vcd', 'scenes/player/demoman/low/987.vcd']"
 Transcription:,(Grunt 2),,Responses:,"['PlayerStillOnFireDemoman', 'Taunt: Neck Snap', 'PlayerPainDemoman']"
 Your Line:,,,Rules:,"['PlayerStillOnFireDemoman', 'PlayerPainDemoman']"
 ,,,Criteria:,"[['ConceptFire', 'IsDemoman', 'DemomanIsStillonFire', 'IsNotDominating', 'AppliesContext:DemomanOnFire:1:7'], ['ConceptPain', 'IsDemoman', 'IsNotDominating']]"
@@ -1301,8 +1301,8 @@ Your Line:,,,Rules:,['PlayerPainDemoman']
 ,,,Criteria:,"[['ConceptPain', 'IsDemoman', 'IsNotDominating']]"
 
 Filename:,demoman_painsharp06,,Events:,"['demoman.painsharp06', 'demoman.explosiondeath']"
-Full Path:,vo/demoman_painsharp06.mp3,,Scenes:,"['scenes/player/demoman/low/1394.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']"
-Transcription:,(Grunt 6),,Responses:,"['PlayerPainDemoman', 'Taunt: The Pooped Deck']"
+Full Path:,vo/demoman_painsharp06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/player/demoman/low/1394.vcd']"
+Transcription:,(Grunt 6),,Responses:,"['Taunt: The Pooped Deck', 'PlayerPainDemoman']"
 Your Line:,,,Rules:,['PlayerPainDemoman']
 ,,,Criteria:,"[['ConceptPain', 'IsDemoman', 'IsNotDominating']]"
 
@@ -1372,10 +1372,10 @@ Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_specialcompleted-assistedkill01,,Events:,"['demo.shanty_shipmate_outro', 'demoman.specialcompleted-assistedkill01']"
-Full Path:,vo/demoman_specialcompleted-assistedkill01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/1009.vcd']"
-Transcription:,"We did it, mate!",,Responses:,"['Taunt: Shanty Shipmate', 'KilledPlayerAssistDemoman', 'KilledPlayerAssistAutoDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerAssistDemoman', 'KilledPlayerAssistDemoman2', 'KilledPlayerAssistAutoDemoman']"
+Filename:,demoman_specialcompleted-assistedkill01,,Events:,"['demoman.specialcompleted-assistedkill01', 'demo.shanty_shipmate_outro']"
+Full Path:,vo/demoman_specialcompleted-assistedkill01.mp3,,Scenes:,"['scenes/player/demoman/low/1009.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd']"
+Transcription:,"We did it, mate!",,Responses:,"['KilledPlayerAssistAutoDemoman', 'Taunt: Shanty Shipmate', 'KilledPlayerAssistDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerAssistDemoman2', 'KilledPlayerAssistAutoDemoman', 'KilledPlayerAssistDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsBeingHealed', 'IsManyRecentKills', 'KilledPlayerDelay', '20PercentChance', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsDemoman', 'IsARecentKill', 'KilledPlayerDelay', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsDemoman', 'IsNotBeingHealed', 'IsARecentKill', 'KilledPlayerDelay', 'DemomanNotAssistSpeech', 'AppliesContext:DemomanAssistSpeech:1:20']]"
 
 Filename:,demoman_specialcompleted-assistedkill02,,Events:,['demoman.specialcompleted-assistedkill02']
@@ -1386,8 +1386,8 @@ Your Line:,,,Rules:,['KilledPlayerAssistDemoman2']
 
 Filename:,demoman_specialcompleted01,,Events:,['demoman.specialcompleted01']
 Full Path:,vo/demoman_specialcompleted01.mp3,,Scenes:,['scenes/player/demoman/low/997.vcd']
-Transcription:,And that's what yeh get for touching that!,,Responses:,"['KilledPlayerCaberDemoman', 'KilledPlayerVeryManyDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerCaberDemoman', 'KilledPlayerVeryManyDemoman']"
+Transcription:,And that's what yeh get for touching that!,,Responses:,"['KilledPlayerVeryManyDemoman', 'KilledPlayerCaberDemoman']"
+Your Line:,,,Rules:,"['KilledPlayerVeryManyDemoman', 'KilledPlayerCaberDemoman']"
 ,,,Criteria:,"[['ConceptAttackerPain', 'KilledPlayerDelay', 'WeaponIsCaber', 'IsCritical', 'CaberHealthContext', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_specialcompleted02,,Events:,['demoman.specialcompleted02']
@@ -1434,7 +1434,7 @@ Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 
 Filename:,demoman_specialcompleted09,,Events:,"['demoman.specialcompleted09', 'demo_taunt_forehead_slice_demoman_specialcompleted09']"
 Full Path:,vo/demoman_specialcompleted09.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/player/demoman/low/1005.vcd']"
-Transcription:,I had me good eye on you the whole time!,,Responses:,"['Taunt: Fore-Head Slice', 'PlayerKilledForRevengeDemoman']"
+Transcription:,I had me good eye on you the whole time!,,Responses:,"['PlayerKilledForRevengeDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['PlayerKilledForRevengeDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsRevenge', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -1446,14 +1446,14 @@ Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 
 Filename:,demoman_specialcompleted11,,Events:,['demoman.specialcompleted11']
 Full Path:,vo/demoman_specialcompleted11.mp3,,Scenes:,"['scenes/player/demoman/low/1007.vcd', 'scenes/player/demoman/low/taunt02.vcd']"
-Transcription:,Ka-boooom!,,Responses:,"['KilledPlayerCaberDemoman', 'PlayerKilledObjectDemoman', 'DemomanTauntSecondary']"
-Your Line:,,,Rules:,"['DemomanTauntPlayerScotsmansSkullcutter', 'DemomanTauntPainTrain', 'PlayerKilledObjectDemoman', 'DemomanTauntLooseCannon', 'DemomanTauntSaxxy', 'DemomanTauntPlayerSecondary', 'KilledPlayerCaberDemoman']"
+Transcription:,Ka-boooom!,,Responses:,"['PlayerKilledObjectDemoman', 'DemomanTauntSecondary', 'KilledPlayerCaberDemoman']"
+Your Line:,,,Rules:,"['DemomanTauntPlayerScotsmansSkullcutter', 'KilledPlayerCaberDemoman', 'DemomanTauntPlayerSecondary', 'DemomanTauntPainTrain', 'DemomanTauntSaxxy', 'PlayerKilledObjectDemoman', 'DemomanTauntLooseCannon']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsGrenade'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsScotsmansSkullcutter'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsSaxxy'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsPainTrain'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsLooseCannon'], ['ConceptAttackerPain', 'KilledPlayerDelay', 'WeaponIsCaber', 'IsCritical', 'CaberHealthContext', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledObject', 'IsDemoman', '30PercentChance', 'IsARecentKill', 'AppliesContext:DemomanKillSpeechObject:1:30']]"
 
 Filename:,demoman_specialcompleted12,,Events:,['demoman.specialcompleted12']
 Full Path:,vo/demoman_specialcompleted12.mp3,,Scenes:,['scenes/player/demoman/low/1008.vcd']
-Transcription:,Kablooie!,,Responses:,"['KilledPlayerCaberDemoman', 'PlayerKilledObjectDemoman']"
-Your Line:,,,Rules:,"['KilledPlayerCaberDemoman', 'PlayerKilledObjectDemoman']"
+Transcription:,Kablooie!,,Responses:,"['PlayerKilledObjectDemoman', 'KilledPlayerCaberDemoman']"
+Your Line:,,,Rules:,"['PlayerKilledObjectDemoman', 'KilledPlayerCaberDemoman']"
 ,,,Criteria:,"[['ConceptAttackerPain', 'KilledPlayerDelay', 'WeaponIsCaber', 'IsCritical', 'CaberHealthContext', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledObject', 'IsDemoman', '30PercentChance', 'IsARecentKill', 'AppliesContext:DemomanKillSpeechObject:1:30']]"
 
 Filename:,demoman_standonthepoint01,,Events:,['demoman.standonthepoint01']
@@ -1504,9 +1504,9 @@ Transcription:,Thanks fer the ride!,,Responses:,['PlayerTeleporterThanksDemoman'
 Your Line:,,,Rules:,['PlayerTeleporterThanksDemoman']
 ,,,Criteria:,"[['ConceptTeleported', 'IsNotEngineer', 'IsDemoman', '30PercentChance']]"
 
-Filename:,demoman_thanksfortheteleporter02,,Events:,"['demo.shanty_shipmate_outro', 'demoman.thanksfortheteleporter02']"
-Full Path:,vo/demoman_thanksfortheteleporter02.mp3,,Scenes:,"['scenes/player/demoman/low/1036.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd']"
-Transcription:,"Thanks, lad!",,Responses:,"['Taunt: Shanty Shipmate', 'PlayerTeleporterThanksDemoman']"
+Filename:,demoman_thanksfortheteleporter02,,Events:,"['demoman.thanksfortheteleporter02', 'demo.shanty_shipmate_outro']"
+Full Path:,vo/demoman_thanksfortheteleporter02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/1036.vcd']"
+Transcription:,"Thanks, lad!",,Responses:,"['PlayerTeleporterThanksDemoman', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,['PlayerTeleporterThanksDemoman']
 ,,,Criteria:,"[['ConceptTeleported', 'IsNotEngineer', 'IsDemoman', '30PercentChance']]"
 
@@ -1578,8 +1578,8 @@ Your Line:,,,Rules:,['KilledPlayerManyDemoman']
 
 Filename:,demoman_taunts03,,Events:,['demoman.taunts03']
 Full Path:,vo/taunts/demoman_taunts03.mp3,,Scenes:,['scenes/player/demoman/low/1015.vcd']
-Transcription:,I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!,,Responses:,"['AcceptedDuelDemoman', 'MeleeDareCombatDemoman']"
-Your Line:,,,Rules:,"['AcceptedDuelDemoman', 'MeleeDareCombatDemoman']"
+Transcription:,I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!,,Responses:,"['MeleeDareCombatDemoman', 'AcceptedDuelDemoman']"
+Your Line:,,,Rules:,"['MeleeDareCombatDemoman', 'AcceptedDuelDemoman']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsDemoman', 'IsCrosshairEnemy']]"
 
 Filename:,demoman_taunts04,,Events:,['demoman.taunts04']
@@ -1590,8 +1590,8 @@ Your Line:,,,Rules:,['KilledPlayerManyDemoman']
 
 Filename:,demoman_taunts05,,Events:,['demoman.taunts05']
 Full Path:,vo/taunts/demoman_taunts05.mp3,,Scenes:,['scenes/player/demoman/low/1017.vcd']
-Transcription:,"Ohh, I'm gonna beat ya so hard, you'll have a twitch!",,Responses:,"['AcceptedDuelDemoman', 'MeleeDareCombatDemoman']"
-Your Line:,,,Rules:,"['AcceptedDuelDemoman', 'MeleeDareCombatDemoman']"
+Transcription:,"Ohh, I'm gonna beat ya so hard, you'll have a twitch!",,Responses:,"['MeleeDareCombatDemoman', 'AcceptedDuelDemoman']"
+Your Line:,,,Rules:,"['MeleeDareCombatDemoman', 'AcceptedDuelDemoman']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsDemoman', 'IsCrosshairEnemy']]"
 
 Filename:,demoman_taunts06,,Events:,['demoman.taunts06']
@@ -1613,9 +1613,9 @@ Your Line:,,,Rules:,['KilledPlayerManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_taunts09,,Events:,['demoman.taunts09']
-Full Path:,vo/taunts/demoman_taunts09.mp3,,Scenes:,"['scenes/player/demoman/low/1021.vcd', 'scenes/player/demoman/low/taunt04_v2.vcd']"
-Transcription:,I'm goin' ta blast ya into thin gruel!,,Responses:,"['DemomanTauntCaber', 'InvulnerableSpeechDemoman2']"
-Your Line:,,,Rules:,"['DemomanTauntCaber', 'InvulnerableSpeechDemoman2']"
+Full Path:,vo/taunts/demoman_taunts09.mp3,,Scenes:,"['scenes/player/demoman/low/taunt04_v2.vcd', 'scenes/player/demoman/low/1021.vcd']"
+Transcription:,I'm goin' ta blast ya into thin gruel!,,Responses:,"['InvulnerableSpeechDemoman2', 'DemomanTauntCaber']"
+Your Line:,,,Rules:,"['InvulnerableSpeechDemoman2', 'DemomanTauntCaber']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsDemoman', 'WeaponIsGrenade', 'IsInvulnerable', 'DemomanNotInvulnerableSpeech', 'AppliesContext:DemomanInvulnerableSpeech:1:30'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsCaber']]"
 
 Filename:,demoman_taunts10,,Events:,['demoman.taunts10']
@@ -1637,15 +1637,15 @@ Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_taunts13,,Events:,['demoman.taunts13']
-Full Path:,vo/taunts/demoman_taunts13.mp3,,Scenes:,"['scenes/player/demoman/low/taunt04_v1.vcd', 'scenes/player/demoman/low/1027.vcd']"
+Full Path:,vo/taunts/demoman_taunts13.mp3,,Scenes:,"['scenes/player/demoman/low/1027.vcd', 'scenes/player/demoman/low/taunt04_v1.vcd']"
 Transcription:,"Oooohhh, I'm goin' ta liquefy ya!",,Responses:,"['DemomanTauntCaber', 'MeleeDareDemoman']"
 Your Line:,,,Rules:,"['DemomanTauntCaber', 'MeleeDareDemoman']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsDemoman'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsCaber']]"
 
 Filename:,demoman_taunts14,,Events:,['demoman.taunts14']
 Full Path:,vo/taunts/demoman_taunts14.mp3,,Scenes:,['scenes/player/demoman/low/1028.vcd']
-Transcription:,I'm going to strangle you with me bare hands!,,Responses:,"['MeleeDareDemoman', 'MeleeDareCombatDemoman']"
-Your Line:,,,Rules:,"['MeleeDareDemoman', 'MeleeDareCombatDemoman']"
+Transcription:,I'm going to strangle you with me bare hands!,,Responses:,"['MeleeDareCombatDemoman', 'MeleeDareDemoman']"
+Your Line:,,,Rules:,"['MeleeDareCombatDemoman', 'MeleeDareDemoman']"
 ,,,Criteria:,"[['ConceptRequestDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsDemoman', 'IsCrosshairEnemy']]"
 
 Filename:,demoman_taunts15,,Events:,['demoman.taunts15']
@@ -1668,8 +1668,8 @@ Your Line:,,,Rules:,[]
 
 Filename:,demoman_mvm_loot_common01,,Events:,['demoman_mvm_loot_common01']
 Full Path:,vo/demoman_mvm_loot_common01.mp3,,Scenes:,['scenes/player/demoman/low/7791.vcd']
-Transcription:,"Oh, brilliant!",,Responses:,"['DemomanSF13SpellPickupCommon', 'DemomanMvMLootCommon']"
-Your Line:,,,Rules:,"['DemomanSF13SpellPickupCommon', 'DemomanMvMLootCommon']"
+Transcription:,"Oh, brilliant!",,Responses:,"['DemomanMvMLootCommon', 'DemomanSF13SpellPickupCommon']"
+Your Line:,,,Rules:,"['DemomanMvMLootCommon', 'DemomanSF13SpellPickupCommon']"
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsDemoman'], ['ConceptMvMLootCommon', 'IsDemoman', '20PercentChance']]"
 
 Filename:,demoman_mvm_loot_common02,,Events:,['demoman_mvm_loot_common02']
@@ -1678,9 +1678,9 @@ Transcription:,"Oh, now would ya look at that!",,Responses:,['DemomanMvMLootComm
 Your Line:,,,Rules:,['DemomanMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsDemoman', '20PercentChance']]"
 
-Filename:,demoman_mvm_loot_common03,,Events:,"['demoman_mvm_loot_common03', 'demo_taunt_commending_clap_b']"
+Filename:,demoman_mvm_loot_common03,,Events:,"['demo_taunt_commending_clap_b', 'demoman_mvm_loot_common03']"
 Full Path:,vo/demoman_mvm_loot_common03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_commending_clap.vcd', 'scenes/player/demoman/low/7792.vcd']"
-Transcription:,Aye! T'is nice!,,Responses:,"['Taunt: Commending Clap', 'DemomanMvMLootCommon']"
+Transcription:,Aye! T'is nice!,,Responses:,"['DemomanMvMLootCommon', 'Taunt: Commending Clap']"
 Your Line:,,,Rules:,['DemomanMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsDemoman', '20PercentChance']]"
 
@@ -1696,8 +1696,8 @@ Transcription:,(laughs) Ab-so-bloody-lootly!,,Responses:,['DemomanMvMLootUltraRa
 Your Line:,,,Rules:,['DemomanMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsDemoman']]"
 
-Filename:,demoman_mvm_loot_rare01,,Events:,"['demoman_mvm_loot_rare01', 'demo_taunt_commending_clap_a']"
-Full Path:,vo/demoman_mvm_loot_rare01.mp3,,Scenes:,"['scenes/player/demoman/low/7795.vcd', 'scenes/workshop/player/demoman/low/taunt_commending_clap.vcd']"
+Filename:,demoman_mvm_loot_rare01,,Events:,"['demo_taunt_commending_clap_a', 'demoman_mvm_loot_rare01']"
+Full Path:,vo/demoman_mvm_loot_rare01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_commending_clap.vcd', 'scenes/player/demoman/low/7795.vcd']"
 Transcription:,Pure dead brilliant!,,Responses:,"['Taunt: Commending Clap', 'DemomanMvMLootRare']"
 Your Line:,,,Rules:,['DemomanMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsDemoman']]"
@@ -2003,32 +2003,32 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_06,,Events:,['demo_taunt_nuke_9_button']
-Full Path:,vo/taunts/demo/demo_taunt_wild_06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_06.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
 Transcription:,That's good scrumpy!,,Responses:,"['Taunt: Spent Well Spirits', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_09,,Events:,['demo_taunt_nuke_9_button']
-Full Path:,vo/taunts/demo/demo_taunt_wild_09.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_09.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
 Transcription:,I love cheap whiskey!,,Responses:,"['Taunt: Spent Well Spirits', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_taunt_wild_24,,Events:,"['demo_taunt_neck_snap_04', 'demo_taunt_flip_random_waiting2']"
+Filename:,demo_taunt_wild_24,,Events:,"['demo_taunt_flip_random_waiting2', 'demo_taunt_neck_snap_04']"
 Full Path:,vo/taunts/demo/demo_taunt_wild_24.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_neck_snap.vcd', 'scenes/player/demoman/low/flip_start.vcd']"
 Transcription:,Hah ha!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_29,,Events:,['demo_taunt_dosido_start_rand']
-Full Path:,vo/taunts/demo/demo_taunt_wild_29.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,Ah hah ha!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_29.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,Ah hah ha!,,Responses:,"['Taunt: Square Dance', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_30,,Events:,"['demo_taunt_dosido_intro_rand', 'demo_taunt_dosido_start_rand']"
-Full Path:,vo/taunts/demo/demo_taunt_wild_30.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_intro01.vcd']"
-Transcription:,Whoop de doo!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_30.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,Whoop de doo!,,Responses:,"['Taunt: Square Dance', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2045,14 +2045,14 @@ Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_33,,Events:,['demo_taunt_dosido_balance_rand']
-Full Path:,vo/taunts/demo/demo_taunt_wild_33.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd']"
-Transcription:,Wooh hoo!,,Responses:,"['Taunt: The Victory Lap', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_33.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd']"
+Transcription:,Wooh hoo!,,Responses:,"['Taunt: Square Dance', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_34,,Events:,"['taunt_killer_joke_demo', 'demo_taunt_dosido_balance_rand']"
-Full Path:,vo/taunts/demo/demo_taunt_wild_34.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_killer_joke.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd']"
-Transcription:,Woo hooh.,,Responses:,"['Taunt: Killer Joke', 'Taunt: The Victory Lap', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/demo_taunt_wild_34.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_killer_joke.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd']"
+Transcription:,Woo hooh.,,Responses:,"['Taunt: Square Dance', 'Taunt: Killer Joke', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2080,31 +2080,31 @@ Transcription:,Hah ha ha ha!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_02,,Events:,"['taunt_burstchester_demo', 'demo_taunt_trade_start_rand', 'demo_taunt_trade_rand']"
+Filename:,demo_trade_02,,Events:,"['demo_taunt_trade_rand', 'demo_taunt_trade_start_rand', 'taunt_burstchester_demo']"
 Full Path:,vo/taunts/demo/demo_trade_02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_peace.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd']"
-Transcription:,Look at this bonny thing!,,Responses:,"['Taunt: Burstchester', 'Taunt: Peace!']"
+Transcription:,Look at this bonny thing!,,Responses:,"['Taunt: Peace!', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_04,,Events:,"['demo_taunt_trade_start_rand', 'demo_taunt_trade_rand', 'demo_taunt_trade_loop_rand']"
+Filename:,demo_trade_04,,Events:,"['demo_taunt_trade_loop_rand', 'demo_taunt_trade_start_rand', 'demo_taunt_trade_rand']"
 Full Path:,vo/taunts/demo/demo_trade_04.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_peace.vcd']
 Transcription:,Ya might like this!,,Responses:,['Taunt: Peace!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_12,,Events:,"['demo_taunt_trade_start_rand', 'demo_taunt_trade_rand', 'demo_taunt_trade_loop_rand', 'demo_taunt_peace_vo_02']"
+Filename:,demo_trade_12,,Events:,"['demo_taunt_trade_loop_rand', 'demo_taunt_trade_start_rand', 'demo_taunt_peace_vo_02', 'demo_taunt_trade_rand']"
 Full Path:,vo/taunts/demo/demo_trade_12.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_peace.vcd']
 Transcription:,"What you think, eh?",,Responses:,['Taunt: Peace!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_15,,Events:,"['demo_taunt_trade_start_rand', 'demo_taunt_trade_rand', 'demo_taunt_trade_loop_rand']"
+Filename:,demo_trade_15,,Events:,"['demo_taunt_trade_loop_rand', 'demo_taunt_trade_start_rand', 'demo_taunt_trade_rand']"
 Full Path:,vo/taunts/demo/demo_trade_15.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_peace.vcd']
 Transcription:,Cast your eyes on this!,,Responses:,['Taunt: Peace!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_17,,Events:,"['demo_taunt_trade_start_rand', 'demo_taunt_trade_rand']"
+Filename:,demo_trade_17,,Events:,"['demo_taunt_trade_rand', 'demo_taunt_trade_start_rand']"
 Full Path:,vo/taunts/demo/demo_trade_17.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_peace.vcd']
 Transcription:,"Not bad, eh?",,Responses:,['Taunt: Peace!']
 Your Line:,,,Rules:,[]
@@ -2122,9 +2122,9 @@ Transcription:,"[questioning, hopeful and pleased grunts with a laugh",,Response
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_laughhappy02,,Events:,"['taunt_burstchester_demo', 'demo_taunt_russian_rand', 'demo.drunk_manns_cannon_laugh']"
-Full Path:,vo/taunts/demo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/player/demoman/low/taunt_russian.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
-Transcription:,(Happy laugh),,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Burstchester', 'Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: The Drunken Sailor']"
+Filename:,demoman_laughhappy02,,Events:,"['demo_taunt_russian_rand', 'demo.drunk_manns_cannon_laugh', 'taunt_burstchester_demo']"
+Full Path:,vo/taunts/demo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/player/demoman/low/taunt_russian.vcd']"
+Transcription:,(Happy laugh),,Responses:,"['Taunt: Mannrobics', 'Taunt: Kazotsky Kick', ""Taunt: Drunk Mann's Cannon"", 'Taunt: The Drunken Sailor', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2135,8 +2135,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_burp_03,,Events:,"['demo_taunt_dosido_burp_rand', 'taunt_demo_burp_03']"
-Full Path:,vo/taunts/demo/taunt_demo_burp_03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_cheers.vcd']"
-Transcription:,[Burps,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: Rancho Relaxo', 'Taunt: The Pooped Deck', 'Taunt: Square Dance', 'Taunt: Cheers!', 'Taunt: Mourning Mercs']"
+Full Path:,vo/taunts/demo/taunt_demo_burp_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_cheers.vcd', 'scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,[Burps,,Responses:,"['Taunt: The Pooped Deck', 'Taunt: Rancho Relaxo', 'Taunt: Cheers!', 'Taunt: Square Dance', 'Taunt: Mourning Mercs', ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2206,8 +2206,8 @@ Transcription:,Cong-ga.,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_conga_int_06,,Events:,"['demo_taunt_conga_random_fun1', 'demo_taunt_flip_random_flipthrowantic']"
-Full Path:,vo/taunts/demo/taunt_demo_conga_int_06.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/conga.vcd']"
+Filename:,taunt_demo_conga_int_06,,Events:,"['demo_taunt_flip_random_flipthrowantic', 'demo_taunt_conga_random_fun1']"
+Full Path:,vo/taunts/demo/taunt_demo_conga_int_06.mp3,,Scenes:,"['scenes/player/demoman/low/conga.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd']"
 Transcription:,Ha ha ha!,,Responses:,"['Taunt: Conga', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2219,26 +2219,26 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_dose_end_01,,Events:,['demo_taunt_dosido_start_rand']
-Full Path:,vo/taunts/demo/taunt_demo_dose_end_01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,Ha ha ho ho hwah!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/taunt_demo_dose_end_01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,Ha ha ho ho hwah!,,Responses:,"['Taunt: Square Dance', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_dose_end_02,,Events:,"['demo_taunt_dosido_start_rand', 'demo_taunt_dosido_mid_rand']"
-Full Path:,vo/taunts/demo/taunt_demo_dose_end_02.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_peace.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,Ah ha ha!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Peace!', 'Taunt: Square Dance']"
+Filename:,taunt_demo_dose_end_02,,Events:,"['demo_taunt_dosido_mid_rand', 'demo_taunt_dosido_start_rand']"
+Full Path:,vo/taunts/demo/taunt_demo_dose_end_02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/workshop/player/demoman/low/taunt_peace.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,Ah ha ha!,,Responses:,"['Taunt: Peace!', 'Taunt: Square Dance', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_dose_end_03,,Events:,"['demo_taunt_dosido_start_rand', 'demo_taunt_dosido_end_rand']"
-Full Path:,vo/taunts/demo/taunt_demo_dose_end_03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,Eh he ha ha!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square Dance']"
+Full Path:,vo/taunts/demo/taunt_demo_dose_end_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,Eh he ha ha!,,Responses:,"['Taunt: Square Dance', 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_dose_end_04,,Events:,"['demo_taunt_dosido_start_rand', 'demo_taunt_flip_random_flipthrowantic', 'demo_taunt_dosido_end_rand']"
-Full Path:,vo/taunts/demo/taunt_demo_dose_end_04.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
-Transcription:,He hee hoo!,,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Flippin' Awesome"", 'Taunt: Square Dance']"
+Filename:,taunt_demo_dose_end_04,,Events:,"['demo_taunt_dosido_start_rand', 'demo_taunt_dosido_end_rand', 'demo_taunt_flip_random_flipthrowantic']"
+Full Path:,vo/taunts/demo/taunt_demo_dose_end_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
+Transcription:,He hee hoo!,,Responses:,"['Taunt: Square Dance', ""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2249,7 +2249,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_dose_fun_07,,Events:,['demo_taunt_dosido_mid_rand']
-Full Path:,vo/taunts/demo/taunt_demo_dose_fun_07.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/demoman/low/taunt_peace.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_dose_fun_07.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_peace.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd']"
 Transcription:,Ha ha ha!,,Responses:,"['Taunt: Peace!', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2278,32 +2278,32 @@ Transcription:,"Let's do-si-do, he he he!",,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_exert_04,,Events:,"['demo_taunt_scotsmans_stagger_taunt_hop', 'demo_taunt_flip_random_flipexert']"
-Full Path:,vo/taunts/demo/taunt_demo_exert_04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd']"
-Transcription:,"Hwap, ouww.",,Responses:,"[""Taunt: Scotsmann's Stagger"", ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,taunt_demo_exert_04,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
+Full Path:,vo/taunts/demo/taunt_demo_exert_04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
+Transcription:,"Hwap, ouww.",,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_exert_06,,Events:,['demo_taunt_flip_random_flipexert']
-Full Path:,vo/taunts/demo/taunt_demo_exert_06.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_exert_06.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd']"
 Transcription:,Howup!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_exert_08,,Events:,"['demo_taunt_scotsmans_stagger_taunt_hop', 'demo_taunt_flip_random_flipexert']"
-Full Path:,vo/taunts/demo/taunt_demo_exert_08.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd']"
-Transcription:,Heyup!,,Responses:,"[""Taunt: Scotsmann's Stagger"", ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,taunt_demo_exert_08,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
+Full Path:,vo/taunts/demo/taunt_demo_exert_08.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
+Transcription:,Heyup!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_exert_03,,Events:,"['demo_taunt_scotsmans_stagger_taunt_hop', 'demo_taunt_flip_random_flipexert']"
-Full Path:,vo/taunts/demo/taunt_demo_flip_exert_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd']"
-Transcription:,Hup!,,Responses:,"[""Taunt: Scotsmann's Stagger"", ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Filename:,taunt_demo_flip_exert_03,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_exert_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
+Transcription:,Hup!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_flip_fun_01,,Events:,['demo_taunt_russian_rand']
-Full Path:,vo/taunts/demo/taunt_demo_flip_fun_01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_russian.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_fun_01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/player/demoman/low/taunt_russian.vcd']"
 Transcription:,Wooohooo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Kazotsky Kick', 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2382,49 +2382,49 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_flip_neg_02,,Events:,"['demo_taunt_flip_random_flipflipfinish', 'demo_taunt_scotsmans_stagger_taunt_hop']"
 Full Path:,vo/taunts/demo/taunt_demo_flip_neg_02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Uhhh!,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The Fist Bump']"
+Transcription:,Uhhh!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_flip_post_fun_01,,Events:,"['demo_taunt_flip_random_flipflipfinish1', 'demo.shanty_shipmate_outro']"
 Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
-Transcription:,"Oof, I'm dizzy!",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Flippin' Awesome"", 'Taunt: The Pooped Deck']"
+Transcription:,"Oof, I'm dizzy!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_03,,Events:,"['taunt_burstchester_demo', 'demo_taunt_flip_random_flipflipfinish1', 'demo.shanty_shipmate_outro']"
-Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
-Transcription:,"Oh ho ah ho, I'm dizzy!",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Flippin' Awesome"", 'Taunt: The Pooped Deck', 'Taunt: Burstchester']"
+Filename:,taunt_demo_flip_post_fun_03,,Events:,"['demo_taunt_flip_random_flipflipfinish1', 'taunt_burstchester_demo', 'demo.shanty_shipmate_outro']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd']"
+Transcription:,"Oh ho ah ho, I'm dizzy!",,Responses:,"['Taunt: The Pooped Deck', ""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_flip_post_fun_04,,Events:,"['demo_taunt_flip_random_flipflipfinish1', 'demo.shanty_shipmate_outro']"
 Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
-Transcription:,"Ough, I must be drunk!",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Flippin' Awesome"", 'Taunt: The Pooped Deck']"
+Transcription:,"Ough, I must be drunk!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_flip_post_fun_05,,Events:,"['demo_taunt_flip_random_flipflipfinish1', 'demo.shanty_shipmate_outro']"
 Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_05.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
-Transcription:,"Hwap, ouww.",,Responses:,"['Taunt: Shanty Shipmate', ""Taunt: Flippin' Awesome"", 'Taunt: The Pooped Deck']"
+Transcription:,"Hwap, ouww.",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_point_03,,Events:,"['taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire', 'taunt.bearhug_demoman_b']"
-Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_03.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd']"
-Transcription:,Haha! This guy!,,Responses:,"['Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome""]"
+Filename:,taunt_demo_flip_post_fun_point_03,,Events:,"['taunt.bearhug_demoman_b', 'taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_03.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd']"
+Transcription:,Haha! This guy!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_point_04,,Events:,"['taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire', 'taunt.bearhug_demoman_b']"
-Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_04.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd']"
-Transcription:,"Ha ha, there he is!",,Responses:,"['Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome""]"
+Filename:,taunt_demo_flip_post_fun_point_04,,Events:,"['taunt.bearhug_demoman_b', 'taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd']"
+Transcription:,"Ha ha, there he is!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_point_06,,Events:,"['taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire', 'taunt.bearhug_demoman_b']"
-Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_06.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd']"
-Transcription:,"Ha ha, ya crazy man!",,Responses:,"['Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome""]"
+Filename:,taunt_demo_flip_post_fun_point_06,,Events:,"['taunt.bearhug_demoman_b', 'taunt_burstchester_demo', 'demo_taunt_flip_random_flipadmire']"
+Full Path:,vo/taunts/demo/taunt_demo_flip_post_fun_point_06.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_burstchester.vcd']"
+Transcription:,"Ha ha, ya crazy man!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Burstchester']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2434,7 +2434,7 @@ Transcription:,Erroough!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_head_int_01,,Events:,"['demo_taunt_fistbump_start', 'demo_taunt_headbutt_start']"
+Filename:,taunt_demo_head_int_01,,Events:,"['demo_taunt_headbutt_start', 'demo_taunt_fistbump_start']"
 Full Path:,vo/taunts/demo/taunt_demo_head_int_01.mp3,,Scenes:,['scenes/player/demoman/low/taunt_headbutt_start.vcd']
 Transcription:,Right here!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
@@ -2453,32 +2453,32 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_01,,Events:,"['demo_taunt_flip_random_waiting', 'demo_taunt_russian_rand_intro']"
-Full Path:,vo/taunts/demo/taunt_demo_int_01.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_russian.vcd', 'scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Come on!,,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Full Path:,vo/taunts/demo/taunt_demo_int_01.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd', 'scenes/player/demoman/low/taunt_russian.vcd']"
+Transcription:,Come on!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_03,,Events:,['demo_taunt_flip_random_waiting']
 Full Path:,vo/taunts/demo/taunt_demo_int_03.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Come on!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Transcription:,Come on!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_04,,Events:,['demo_taunt_flip_random_waiting']
 Full Path:,vo/taunts/demo/taunt_demo_int_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Come on.,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Transcription:,Come on.,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_05,,Events:,['demo_taunt_flip_random_waiting']
 Full Path:,vo/taunts/demo/taunt_demo_int_05.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Come at me!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Transcription:,Come at me!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_10,,Events:,['demo_taunt_flip_random_waiting']
 Full Path:,vo/taunts/demo/taunt_demo_int_10.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,Aye!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Fist Bump']"
+Transcription:,Aye!,,Responses:,"['Taunt: The Fist Bump', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2501,20 +2501,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_27,,Events:,"['taunt_demo_int_27', 'demo_taunt_flip_random_waiting2']"
-Full Path:,vo/taunts/demo/taunt_demo_int_27.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/flip_start.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd']"
-Transcription:,"Come on, then!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/demo/taunt_demo_int_27.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/flip_start.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd']"
+Transcription:,"Come on, then!",,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_int_30,,Events:,"['demo_taunt_fistbump_start', 'demo_taunt_headbutt_start', 'demo_taunt_flip_random_waiting2']"
-Full Path:,vo/taunts/demo/taunt_demo_int_30.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_headbutt_start.vcd', 'scenes/player/demoman/low/flip_start.vcd']"
-Transcription:,"Come on, then!",,Responses:,"['Taunt: Skullcracker', ""Taunt: Flippin' Awesome""]"
+Filename:,taunt_demo_int_30,,Events:,"['demo_taunt_headbutt_start', 'demo_taunt_fistbump_start', 'demo_taunt_flip_random_waiting2']"
+Full Path:,vo/taunts/demo/taunt_demo_int_30.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/player/demoman/low/taunt_headbutt_start.vcd']"
+Transcription:,"Come on, then!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_int_34,,Events:,"['demo_taunt_rps_intro_wait_rand', 'demo_taunt_flip_random_waiting2']"
-Full Path:,vo/taunts/demo/taunt_demo_int_34.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_start.vcd', 'scenes/player/demoman/low/flip_start.vcd']"
-Transcription:,Get over here!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/demo/taunt_demo_int_34.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/player/demoman/low/taunt_rps_start.vcd']"
+Transcription:,Get over here!,,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2567,7 +2567,7 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_exert_04,,Events:,['taunt_demo_rps_exert_04']
-Full Path:,vo/taunts/demo/taunt_demo_rps_exert_04.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_exert_04.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/player/demoman/low/taunt_rps_paper_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd']"
 Transcription:,"One, two, three!",,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2591,19 +2591,19 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_lose_06,,Events:,['taunt_demo_rps_lose_06']
-Full Path:,vo/taunts/demo/taunt_demo_rps_lose_06.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_lose_06.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_scissors_lose.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_lose_noinit.vcd']"
 Transcription:,"Aw, come on.",,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_lose_09,,Events:,"['taunt_demo_deadmanns_drink_a', 'taunt_demo_rps_lose_09', 'demo_taunt_the_final_score_demo_taunt_demo_rps_lose_09']"
-Full Path:,vo/taunts/demo/taunt_demo_rps_lose_09.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_the_final_score.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']"
-Transcription:,"Oh, 'tis a dark day.",,Responses:,"[""Taunt: Dead Mann's Drink"", 'Taunt: The Final Score', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_lose_09.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/demoman/low/taunt_rps_rock_lose.vcd', 'scenes/workshop/player/demoman/low/taunt_the_final_score.vcd']"
+Transcription:,"Oh, 'tis a dark day.",,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Dead Mann's Drink"", 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_win_05,,Events:,['demo_taunt_russian_randend']
-Full Path:,vo/taunts/demo/taunt_demo_rps_win_05.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_russian.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel.vcd']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_win_05.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/player/demoman/low/taunt_russian.vcd']"
 Transcription:,Ohhh yesss!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
@@ -2621,39 +2621,39 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_win_25,,Events:,"['demo_taunt_russian_rand', 'demo_taunt_dosido_balance_rand']"
-Full Path:,vo/taunts/demo/taunt_demo_rps_win_25.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/player/demoman/low/taunt_russian.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
-Transcription:,Woo hoo hoo hoo!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Square Dance', 'Taunt: Mannrobics', 'Taunt: The Drunken Sailor', 'Taunt: The Victory Lap']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_win_25.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_russian.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd']"
+Transcription:,Woo hoo hoo hoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Kazotsky Kick', 'Taunt: The Drunken Sailor', 'Taunt: Square Dance', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_rps_win_27,,Events:,['taunt_demo_rps_win_27']
-Full Path:,vo/taunts/demo/taunt_demo_rps_win_27.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd', 'scenes/workshop/player/demoman/low/secondrate_sorcery.vcd']"
-Transcription:,Yeh hah!,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: The Fist Bump', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_win_27.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/demoman/low/secondrate_sorcery.vcd', 'scenes/player/demoman/low/taunt_rps_paper_win.vcd']"
+Transcription:,Yeh hah!,,Responses:,"['Taunt: Second Rate Sorcery', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_rps_win_28,,Events:,"['taunt.bearhug_demoman_a', 'demo_taunt_russian_randend']"
-Full Path:,vo/taunts/demo/taunt_demo_rps_win_28.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_russian.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd']"
-Transcription:,That's a wee!,,Responses:,"['Taunt: Bear Hug', 'Taunt: Kazotsky Kick', 'Taunt: The Drunken Sailor']"
+Filename:,taunt_demo_rps_win_28,,Events:,"['demo_taunt_russian_randend', 'taunt.bearhug_demoman_a']"
+Full Path:,vo/taunts/demo/taunt_demo_rps_win_28.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/player/demoman/low/taunt_russian.vcd']"
+Transcription:,That's a wee!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Bear Hug', 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_strike_01,,Events:,"['demo_taunt_flip_random_flipthrowantic', 'demo_taunt_the_final_score_demo_taunt_demo_strike_01']"
-Full Path:,vo/taunts/demo/taunt_demo_strike_01.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_final_score.vcd']"
+Filename:,taunt_demo_strike_01,,Events:,"['demo_taunt_the_final_score_demo_taunt_demo_strike_01', 'demo_taunt_flip_random_flipthrowantic']"
+Full Path:,vo/taunts/demo/taunt_demo_strike_01.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_the_final_score.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd']"
 Transcription:,Hah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Final Score']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demoman_sf12_badmagic01,,Events:,['demoman_sf12_badmagic01']
 Full Path:,vo/demoman_sf12_badmagic01.mp3,,Scenes:,['scenes/player/demoman/low/4586.vcd']
-Transcription:,Ahhh! Me head!,,Responses:,"['DemomanSF13SpellMovementBuff', 'demomanSmallHeadReaction', 'demomanBigHeadReaction']"
-Your Line:,,,Rules:,"['DemomanSF13SpellMovementBuff', 'demomanSmallHeadReaction', 'demomanBigHeadReaction']"
+Transcription:,Ahhh! Me head!,,Responses:,"['demomanSmallHeadReaction', 'DemomanSF13SpellMovementBuff', 'demomanBigHeadReaction']"
+Your Line:,,,Rules:,"['demomanSmallHeadReaction', 'DemomanSF13SpellMovementBuff', 'demomanBigHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isdemoman'], ['ConceptMagicSmallHead', 'Isdemoman'], ['ConceptPlayerSpellMovementBuff', 'IsDemoman']]"
 
 Filename:,demoman_sf12_badmagic02,,Events:,['demoman_sf12_badmagic02']
 Full Path:,vo/demoman_sf12_badmagic02.mp3,,Scenes:,['scenes/player/demoman/low/4587.vcd']
-Transcription:,Ohhh! Me wee head!,,Responses:,"['DemomanSF13SpellMovementBuff', 'demomanSmallHeadReaction']"
-Your Line:,,,Rules:,"['DemomanSF13SpellMovementBuff', 'demomanSmallHeadReaction']"
+Transcription:,Ohhh! Me wee head!,,Responses:,"['demomanSmallHeadReaction', 'DemomanSF13SpellMovementBuff']"
+Your Line:,,,Rules:,"['demomanSmallHeadReaction', 'DemomanSF13SpellMovementBuff']"
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isdemoman'], ['ConceptPlayerSpellMovementBuff', 'IsDemoman']]"
 
 Filename:,demoman_sf12_badmagic03,,Events:,['demoman_sf12_badmagic03']
@@ -2688,8 +2688,8 @@ Your Line:,,,Rules:,['demomanSmallHeadReaction']
 
 Filename:,demoman_sf12_badmagic08,,Events:,['demoman_sf12_badmagic08']
 Full Path:,vo/demoman_sf12_badmagic08.mp3,,Scenes:,['scenes/player/demoman/low/4593.vcd']
-Transcription:,Wot is happenin'?,,Responses:,"['DemomanSF13SpellMovementBuff', 'demomanGravityReaction']"
-Your Line:,,,Rules:,"['DemomanSF13SpellMovementBuff', 'demomanGravityReaction']"
+Transcription:,Wot is happenin'?,,Responses:,"['demomanGravityReaction', 'DemomanSF13SpellMovementBuff']"
+Your Line:,,,Rules:,"['demomanGravityReaction', 'DemomanSF13SpellMovementBuff']"
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isdemoman', '50PercentChance'], ['ConceptPlayerSpellMovementBuff', 'IsDemoman']]"
 
 Filename:,demoman_sf12_badmagic09,,Events:,['demoman_sf12_badmagic09']
@@ -2706,8 +2706,8 @@ Your Line:,,,Rules:,['DemomanSeeSpellMeteorSwarm']
 
 Filename:,demoman_sf12_badmagic11,,Events:,['demoman_sf12_badmagic11']
 Full Path:,vo/demoman_sf12_badmagic11.mp3,,Scenes:,['scenes/player/demoman/low/4596.vcd']
-Transcription:,Wot magic is this?,,Responses:,"['DemomanSeeSpellMeteorSwarm', 'demomanGravityReaction']"
-Your Line:,,,Rules:,"['DemomanSeeSpellMeteorSwarm', 'demomanGravityReaction']"
+Transcription:,Wot magic is this?,,Responses:,"['demomanGravityReaction', 'DemomanSeeSpellMeteorSwarm']"
+Your Line:,,,Rules:,"['demomanGravityReaction', 'DemomanSeeSpellMeteorSwarm']"
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isdemoman', '50PercentChance'], ['ConceptPlayerSpellMeteorSwarm', 'IsDemoman']]"
 
 Filename:,demoman_sf12_bombinomicon01,,Events:,['demoman_sf12_bombinomicon01']
@@ -2772,7 +2772,7 @@ Your Line:,,,Rules:,['demomanGoodMagicReaction']
 
 Filename:,demoman_sf12_goodmagic04,,Events:,"['demo.scardy_cat_b', 'demoman_sf12_goodmagic04']"
 Full Path:,vo/demoman_sf12_goodmagic04.mp3,,Scenes:,"['scenes/player/demoman/low/4600.vcd', 'scenes/workshop/player/demoman/low/taunt_the_scaredycat.vcd']"
-Transcription:,What manner of witchcraft is this?,,Responses:,"['demomanGoodMagicReaction', 'Taunt: The Scaredy-Cat!']"
+Transcription:,What manner of witchcraft is this?,,Responses:,"['Taunt: The Scaredy-Cat!', 'demomanGoodMagicReaction']"
 Your Line:,,,Rules:,['demomanGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Isdemoman', '50PercentChance']]"
 
@@ -2934,13 +2934,13 @@ Your Line:,,,Rules:,['DemomanSF13SpellPickupCommon']
 
 Filename:,demoman_sf13_magic_reac03,,Events:,['demoman_sf13_magic_reac03']
 Full Path:,vo/demoman_sf13_magic_reac03.mp3,,Scenes:,['scenes/player/demoman/low/8538.vcd']
-Transcription:,Too much magic! (screams),,Responses:,"['DemomanSeeSpellMeteorSwarm', 'DemomanSeeSpellSkeletonHorde']"
-Your Line:,,,Rules:,"['DemomanSeeSpellMeteorSwarm', 'DemomanSeeSpellSkeletonHorde']"
+Transcription:,Too much magic! (screams),,Responses:,"['DemomanSeeSpellSkeletonHorde', 'DemomanSeeSpellMeteorSwarm']"
+Your Line:,,,Rules:,"['DemomanSeeSpellSkeletonHorde', 'DemomanSeeSpellMeteorSwarm']"
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsDemoman'], ['ConceptPlayerSpellSkeletonHorde', 'IsDemoman']]"
 
-Filename:,demoman_sf13_magic_reac05,,Events:,"['demo.scardy_cat_b', 'demoman_sf13_magic_reac05']"
+Filename:,demoman_sf13_magic_reac05,,Events:,"['demoman_sf13_magic_reac05', 'demo.scardy_cat_b']"
 Full Path:,vo/demoman_sf13_magic_reac05.mp3,,Scenes:,"['scenes/player/demoman/low/8540.vcd', 'scenes/workshop/player/demoman/low/taunt_the_scaredycat.vcd']"
-Transcription:,It's the devil's work!,,Responses:,"['DemomanSF13SkeletonKingAppear', 'DemomanSeeSpellMeteorSwarm', 'Taunt: The Scaredy-Cat!']"
+Transcription:,It's the devil's work!,,Responses:,"['DemomanSF13SkeletonKingAppear', 'Taunt: The Scaredy-Cat!', 'DemomanSeeSpellMeteorSwarm']"
 Your Line:,,,Rules:,"['DemomanSF13SkeletonKingAppear', 'DemomanSeeSpellMeteorSwarm']"
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsDemoman'], ['ConceptPlayerSkeletonKingAppear', '50PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
@@ -3222,26 +3222,26 @@ Your Line:,,,Rules:,['PlayerMatchWinCompDemoman']
 
 Filename:,cm_demo_pregamefirst_01,,Events:,['cm_demo_pregamefirst_01']
 Full Path:,vo/compmode/cm_demo_pregamefirst_01.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_01.vcd']
-Transcription:,"Push 'em back, lads!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"Push 'em back, lads!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_02,,Events:,['cm_demo_pregamefirst_02']
 Full Path:,vo/compmode/cm_demo_pregamefirst_02.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_02.vcd']
-Transcription:,"Stand back and watch how it's done, lads!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"Stand back and watch how it's done, lads!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_03,,Events:,['cm_demo_pregamefirst_03']
 Full Path:,vo/compmode/cm_demo_pregamefirst_03.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_03.vcd']
-Transcription:,They haven't got a chance!,,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,They haven't got a chance!,,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_04,,Events:,['cm_demo_pregamefirst_04']
 Full Path:,vo/compmode/cm_demo_pregamefirst_04.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_04.vcd']
-Transcription:,"If you're ready, I'm ready!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"If you're ready, I'm ready!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_6s_01,,Events:,['cm_demo_pregamefirst_6s_01']
@@ -3264,50 +3264,50 @@ Your Line:,,,Rules:,['PlayerFirstRoundStartComp6sDemoman']
 
 Filename:,cm_demo_pregamefirst_comp_01,,Events:,['cm_demo_pregamefirst_comp_01']
 Full Path:,vo/compmode/cm_demo_pregamefirst_comp_01.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_comp_01.vcd']
-Transcription:,"Let's push 'em back to spawn, lads!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"Let's push 'em back to spawn, lads!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_comp_02,,Events:,['cm_demo_pregamefirst_comp_02']
 Full Path:,vo/compmode/cm_demo_pregamefirst_comp_02.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_comp_02.vcd']
-Transcription:,Not a single one of 'em can lay a proper sticky!,,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,Not a single one of 'em can lay a proper sticky!,,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_comp_03,,Events:,['cm_demo_pregamefirst_comp_03']
 Full Path:,vo/compmode/cm_demo_pregamefirst_comp_03.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_comp_03.vcd']
-Transcription:,"Lads, I watched their scrim! I think this might be a mercy killing!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"Lads, I watched their scrim! I think this might be a mercy killing!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_comp_04,,Events:,['cm_demo_pregamefirst_comp_04']
 Full Path:,vo/compmode/cm_demo_pregamefirst_comp_04.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_comp_04.vcd']
-Transcription:,I've been saving the good scrumpy for Competitive Mode!,,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,I've been saving the good scrumpy for Competitive Mode!,,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_comp_05,,Events:,['cm_demo_pregamefirst_comp_05']
 Full Path:,vo/compmode/cm_demo_pregamefirst_comp_05.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_comp_05.vcd']
-Transcription:,This team needs all Demomen!,,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,This team needs all Demomen!,,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_rare_01,,Events:,['cm_demo_pregamefirst_rare_01']
 Full Path:,vo/compmode/cm_demo_pregamefirst_rare_01.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_rare_01.vcd']
-Transcription:,"Lads, I don't mean to worry you, but I saw their scrim earlier and they're real bloody good! Hah hah ha! Nah, they're terrible!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"Lads, I don't mean to worry you, but I saw their scrim earlier and they're real bloody good! Hah hah ha! Nah, they're terrible!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_rare_02,,Events:,['cm_demo_pregamefirst_rare_02']
 Full Path:,vo/compmode/cm_demo_pregamefirst_rare_02.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_rare_02.vcd']
-Transcription:,"I got a good feeling about this match, lads! Dinnae tell anyone... [sotto voce] I brought a lot of bloody bombs!",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"I got a good feeling about this match, lads! Dinnae tell anyone... [sotto voce] I brought a lot of bloody bombs!",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamefirst_rare_03,,Events:,['cm_demo_pregamefirst_rare_03']
 Full Path:,vo/compmode/cm_demo_pregamefirst_rare_03.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_pregamefirst_rare_03.vcd']
-Transcription:,"I came here to kick arse and have two eyes! And I'm all out of eyes! Well, half out.",,Responses:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
-Your Line:,,,Rules:,"['PlayerFirstRoundStartCompDemoman', 'PlayerFirstRoundStartComp6sDemoman']"
+Transcription:,"I came here to kick arse and have two eyes! And I'm all out of eyes! Well, half out.",,Responses:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
+Your Line:,,,Rules:,"['PlayerFirstRoundStartComp6sDemoman', 'PlayerFirstRoundStartCompDemoman']"
 ,,,Criteria:,"[['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsNotComp6v6', '40PercentChance'], ['ConceptPlayerRoundStartComp', 'IsDemoman', 'IsFirstRound', 'IsComp6v6', '40PercentChance']]"
 
 Filename:,cm_demo_pregamelostlast_01,,Events:,['cm_demo_pregamelostlast_01']

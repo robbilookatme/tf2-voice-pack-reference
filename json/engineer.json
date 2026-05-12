@@ -485,8 +485,8 @@
             ]
         ],
         "events": [
-            "cm_engie_matchwon_02",
             "engineer_taunt_bumpkins_banjo_yells",
+            "cm_engie_matchwon_02",
             "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
@@ -499,8 +499,8 @@
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
             "scenes/player/engineer/low/cm_engie_matchwon_02.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Yeeee-haw!"
@@ -544,8 +544,8 @@
             ]
         ],
         "events": [
-            "engineer_taunt_bumpkins_banjo_engineer_outro",
-            "cm_engie_matchwon_04"
+            "cm_engie_matchwon_04",
+            "engineer_taunt_bumpkins_banjo_engineer_outro"
         ],
         "responses": [
             "Taunt: The Dueling Banjo",
@@ -572,8 +572,8 @@
             ]
         ],
         "events": [
-            "cm_engie_matchwon_05",
-            "engineer_taunt_bumpkins_banjo_yells"
+            "engineer_taunt_bumpkins_banjo_yells",
+            "cm_engie_matchwon_05"
         ],
         "responses": [
             "Taunt: The Dueling Banjo",
@@ -584,9 +584,9 @@
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
             "scenes/player/engineer/low/cm_engie_matchwon_05.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Yehaw!"
@@ -613,8 +613,8 @@
             "PlayerMatchWinCompEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/cm_engie_matchwon_06.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
+            "scenes/player/engineer/low/cm_engie_matchwon_06.vcd"
         ],
         "state": "used",
         "transcript": "Now that's how it's done!"
@@ -745,8 +745,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_01.vcd"
@@ -780,8 +780,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_02.vcd"
@@ -815,8 +815,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_03.vcd"
@@ -843,17 +843,17 @@
             ]
         ],
         "events": [
-            "engineer_taunt_bumpkins_banjo_intro",
-            "cm_engie_pregamefirst_04"
+            "cm_engie_pregamefirst_04",
+            "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartComp6sEngineer",
+            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
@@ -888,8 +888,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_05.vcd"
@@ -923,8 +923,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_06.vcd"
@@ -958,8 +958,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_07.vcd"
@@ -993,8 +993,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_08.vcd"
@@ -1021,17 +1021,17 @@
             ]
         ],
         "events": [
-            "cm_engie_pregamefirst_09",
-            "engineer_taunt_bumpkins_banjo_intro"
+            "engineer_taunt_bumpkins_banjo_intro",
+            "cm_engie_pregamefirst_09"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartComp6sEngineer",
+            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
@@ -1066,8 +1066,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_10.vcd"
@@ -1101,8 +1101,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_11.vcd"
@@ -1133,13 +1133,13 @@
             "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartComp6sEngineer",
+            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
@@ -1171,13 +1171,13 @@
             "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartComp6sEngineer",
+            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
@@ -1205,21 +1205,21 @@
             ]
         ],
         "events": [
-            "cm_engie_pregamefirst_14",
-            "engineer_taunt_bumpkins_banjo_intro"
+            "engineer_taunt_bumpkins_banjo_intro",
+            "cm_engie_pregamefirst_14"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartComp6sEngineer",
+            "Taunt: The Dueling Banjo",
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/player/engineer/low/cm_engie_pregamefirst_14.vcd"
+            "scenes/player/engineer/low/cm_engie_pregamefirst_14.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd"
         ],
         "state": "used",
         "transcript": "Let's get wranglin', cowboys!"
@@ -1250,8 +1250,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_15.vcd"
@@ -1285,8 +1285,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_18.vcd"
@@ -1398,8 +1398,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_01.vcd"
@@ -1433,8 +1433,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_02.vcd"
@@ -1468,8 +1468,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_03.vcd"
@@ -1503,8 +1503,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_04.vcd"
@@ -1538,8 +1538,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_05.vcd"
@@ -1573,8 +1573,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_06.vcd"
@@ -1608,8 +1608,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_comp_07.vcd"
@@ -1643,8 +1643,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_02.vcd"
@@ -1678,8 +1678,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_03.vcd"
@@ -1713,8 +1713,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_04.vcd"
@@ -1748,8 +1748,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_05.vcd"
@@ -1783,8 +1783,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_06.vcd"
@@ -1818,8 +1818,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_07.vcd"
@@ -1853,8 +1853,8 @@
             "PlayerFirstRoundStartCompEngineer"
         ],
         "rules": [
-            "PlayerFirstRoundStartComp6sEngineer",
-            "PlayerFirstRoundStartCompEngineer"
+            "PlayerFirstRoundStartCompEngineer",
+            "PlayerFirstRoundStartComp6sEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/cm_engie_pregamefirst_rare_08.vcd"
@@ -2303,8 +2303,8 @@
             "engineer_taunt_bumpkins_banjo_engineer_outro"
         ],
         "responses": [
-            "PlayerWonPrevRoundCompEngineer",
-            "Taunt: The Dueling Banjo"
+            "Taunt: The Dueling Banjo",
+            "PlayerWonPrevRoundCompEngineer"
         ],
         "rules": [
             "PlayerWonPrevRoundCompEngineer"
@@ -2682,8 +2682,8 @@
         "base_name": "cm_engie_summary_callout_01",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2695,10 +2695,10 @@
         "base_name": "cm_engie_summary_callout_02",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
             "engineer.comprankup",
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
             "engie_taunt_commending_clap_a",
-            "engineer_taunt_bumpkins_banjo_engineer_outro"
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -2716,8 +2716,8 @@
         "base_name": "cm_engie_summary_callout_03",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2729,8 +2729,8 @@
         "base_name": "cm_engie_summary_callout_04",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2742,8 +2742,8 @@
         "base_name": "cm_engie_summary_callout_05",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2755,9 +2755,9 @@
         "base_name": "cm_engie_summary_callout_06",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
             "engineer.comprankup",
-            "engineer_taunt_bumpkins_banjo_engineer_outro"
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [
             "Taunt: The Dueling Banjo"
@@ -2773,8 +2773,8 @@
         "base_name": "cm_engie_summary_callout_07",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2786,8 +2786,8 @@
         "base_name": "cm_engie_summary_callout_08",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2799,8 +2799,8 @@
         "base_name": "cm_engie_summary_callout_09",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2812,8 +2812,8 @@
         "base_name": "cm_engie_summary_callout_10",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
-            "engineer.comprankup"
+            "engineer.comprankup",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [],
         "rules": [],
@@ -2825,9 +2825,9 @@
         "base_name": "cm_engie_summary_callout_11",
         "criteria": [],
         "events": [
-            "engineer.compsummaryscreenoutlier",
             "engineer.comprankup",
-            "engineer_taunt_bumpkins_banjo_engineer_outro"
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
+            "engineer.compsummaryscreenoutlier"
         ],
         "responses": [
             "Taunt: The Dueling Banjo"
@@ -3279,8 +3279,8 @@
             "engineer.autodejectedtie01"
         ],
         "responses": [
-            "PlayerStalemateEngineer",
-            "EngineerJarateHit"
+            "EngineerJarateHit",
+            "PlayerStalemateEngineer"
         ],
         "rules": [
             "PlayerStalemateEngineer",
@@ -3309,8 +3309,8 @@
             "engineer.autodejectedtie02"
         ],
         "responses": [
-            "PlayerStalemateEngineer",
-            "EngineerJarateHit"
+            "EngineerJarateHit",
+            "PlayerStalemateEngineer"
         ],
         "rules": [
             "PlayerStalemateEngineer",
@@ -3335,8 +3335,8 @@
             ]
         ],
         "events": [
-            "taunt.finalscore_engineer_b",
-            "engineer.autodejectedtie03"
+            "engineer.autodejectedtie03",
+            "taunt.finalscore_engineer_b"
         ],
         "responses": [
             "PlayerStalemateEngineer",
@@ -3348,8 +3348,8 @@
             "RejectedDuelEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/24.vcd",
-            "scenes/workshop/player/engineer/low/taunt_the_final_score.vcd"
+            "scenes/workshop/player/engineer/low/taunt_the_final_score.vcd",
+            "scenes/player/engineer/low/24.vcd"
         ],
         "state": "used",
         "transcript": "Naahhh..."
@@ -3623,23 +3623,23 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
-            "engineer.battlecry05"
+            "engineer.battlecry05",
+            "engineer_bucking_bronco_taunt_start"
         ],
         "responses": [
             "Taunt: Bucking Bronco",
-            "AcceptedDuelEngineer",
             "PlayerRoundStartEngineer",
-            "PlayerBattleCryEngineer"
+            "PlayerBattleCryEngineer",
+            "AcceptedDuelEngineer"
         ],
         "rules": [
-            "AcceptedDuelEngineer",
             "PlayerRoundStartEngineer",
-            "PlayerBattleCryEngineer"
+            "PlayerBattleCryEngineer",
+            "AcceptedDuelEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/35.vcd"
+            "scenes/player/engineer/low/35.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Giddy up!"
@@ -3677,28 +3677,28 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
-            "engineer.battlecry06"
+            "engineer.battlecry06",
+            "engineer_bucking_bronco_taunt_start"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "PlayerBattleCryEngineer",
-            "PlayerRoundStartEngineer",
             "EngineerTauntPrimary",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerRoundStartEngineer",
+            "PlayerBattleCryEngineer",
+            "Taunt: Bucking Bronco"
         ],
         "rules": [
-            "EngineerTauntPlayerPrimary",
-            "PlayerBattleCryEngineer",
+            "PlayerKilledCapperEngineer",
             "PlayerRoundStartEngineer",
-            "EngineerTauntPlayerRescueRanger",
             "EngineerTauntPomson",
-            "PlayerKilledCapperEngineer"
+            "PlayerBattleCryEngineer",
+            "EngineerTauntPlayerPrimary",
+            "EngineerTauntPlayerRescueRanger"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/player/engineer/low/36.vcd",
             "scenes/player/engineer/low/taunt01_vocal03.vcd",
-            "scenes/player/engineer/low/36.vcd"
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Heeeeeeyaaah!"
@@ -3738,33 +3738,33 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_yells",
-            "engineer_bucking_bronco_taunt_yells_b",
             "engineer.battlecry07",
+            "engineer_bucking_bronco_taunt_yells_b",
+            "engineer_bucking_bronco_engineer_battlecry07",
             "engineer_item_preview_engineer_battlecry07",
-            "engineer_bucking_bronco_engineer_battlecry07"
+            "engineer_bucking_bronco_taunt_yells"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "PlayerKilledForRevengeEngineer",
-            "PlayerBattleCryEngineer",
+            "EngineerTauntPrimary",
             "Taunt: Mannrobics",
             "PlayerRoundStartEngineer",
-            "EngineerTauntPrimary"
+            "PlayerBattleCryEngineer",
+            "PlayerKilledForRevengeEngineer",
+            "Taunt: Bucking Bronco"
         ],
         "rules": [
+            "PlayerRoundStartEngineer",
+            "EngineerTauntPomson",
+            "PlayerBattleCryEngineer",
             "EngineerTauntPlayerPrimary",
             "PlayerKilledForRevengeEngineer",
-            "PlayerBattleCryEngineer",
-            "PlayerRoundStartEngineer",
-            "EngineerTauntPlayerRescueRanger",
-            "EngineerTauntPomson"
+            "EngineerTauntPlayerRescueRanger"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/player/engineer/low/taunt01_vocal04.vcd",
             "scenes/player/engineer/low/1329.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd"
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Ehee, yeeeehaaaaw!"
@@ -3785,16 +3785,16 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
             "engineer.cheers01",
-            "engineer_taunt_bumpkins_banjo_yells"
+            "engineer_taunt_bumpkins_banjo_yells",
+            "engineer_bucking_bronco_taunt_start"
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
-            "Taunt: The Fist Bump",
-            "Taunt: Bucking Bronco",
             "Taunt: The Dueling Banjo",
             "PlayerKilledForRevengeEngineer",
+            "Taunt: The Fist Bump",
+            "Taunt: Bucking Bronco",
             "PlayerCheersEngineer"
         ],
         "rules": [
@@ -3802,13 +3802,13 @@
             "PlayerCheersEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_russian.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd",
+            "scenes/player/engineer/low/taunt_russian.vcd",
             "scenes/player/engineer/low/40.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Whooooeee!"
@@ -3842,35 +3842,35 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
-            "engineer_bucking_bronco_taunt_yells",
             "engineer.cheers02",
+            "engineer_bucking_bronco_taunt_start",
+            "engineer_taunt_bumpkins_banjo_yells",
             "engineer_bucking_bronco_taunt_yells_a",
-            "engineer_taunt_bumpkins_banjo_yells"
+            "engineer_bucking_bronco_taunt_yells"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "Taunt: The Dueling Banjo",
-            "PlayerCheersEngineer",
-            "Taunt: Mannrobics",
             "EngineerTauntPrimary",
-            "PlayerKilledCapperEngineer"
+            "Taunt: Mannrobics",
+            "PlayerKilledCapperEngineer",
+            "Taunt: The Dueling Banjo",
+            "Taunt: Bucking Bronco",
+            "PlayerCheersEngineer"
         ],
         "rules": [
-            "EngineerTauntPlayerPrimary",
-            "PlayerCheersEngineer",
-            "EngineerTauntPlayerRescueRanger",
+            "PlayerKilledCapperEngineer",
             "EngineerTauntPomson",
-            "PlayerKilledCapperEngineer"
+            "EngineerTauntPlayerPrimary",
+            "EngineerTauntPlayerRescueRanger",
+            "PlayerCheersEngineer"
         ],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
             "scenes/player/engineer/low/taunt01_vocal02.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/player/engineer/low/1330.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/player/engineer/low/1330.vcd"
         ],
         "state": "used",
         "transcript": "Whoooohou!"
@@ -3893,13 +3893,13 @@
             "engineer.cheers03"
         ],
         "responses": [
-            "PlayerCheersEngineer",
+            "Taunt: Flying Colors",
             "PlayerKilledCapperEngineer",
-            "Taunt: Flying Colors"
+            "PlayerCheersEngineer"
         ],
         "rules": [
-            "PlayerCheersEngineer",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerCheersEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/42.vcd",
@@ -3925,12 +3925,12 @@
             "engineer.cheers04"
         ],
         "responses": [
-            "PlayerCheersEngineer",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerCheersEngineer"
         ],
         "rules": [
-            "PlayerCheersEngineer",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerCheersEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/43.vcd"
@@ -3955,12 +3955,12 @@
             "engineer.cheers05"
         ],
         "responses": [
-            "PlayerCheersEngineer",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerCheersEngineer"
         ],
         "rules": [
-            "PlayerCheersEngineer",
-            "PlayerKilledCapperEngineer"
+            "PlayerKilledCapperEngineer",
+            "PlayerCheersEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/41.vcd"
@@ -4031,30 +4031,30 @@
             ]
         ],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
-            "engineer_bucking_bronco_taunt_yells",
             "engineer_bucking_bronco_taunt_yells_b",
-            "engineer.cheers07"
+            "engineer.cheers07",
+            "engineer_bucking_bronco_taunt_start",
+            "engineer_bucking_bronco_taunt_yells"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "PlayerKilledForRevengeEngineer",
-            "PlayerCheersEngineer",
+            "EngineerTauntPrimary",
             "Taunt: Mannrobics",
-            "EngineerTauntPrimary"
+            "PlayerKilledForRevengeEngineer",
+            "Taunt: Bucking Bronco",
+            "PlayerCheersEngineer"
         ],
         "rules": [
+            "EngineerTauntPomson",
             "EngineerTauntPlayerPrimary",
             "PlayerKilledForRevengeEngineer",
-            "PlayerCheersEngineer",
             "EngineerTauntPlayerRescueRanger",
-            "EngineerTauntPomson"
+            "PlayerCheersEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/player/engineer/low/44.vcd",
             "scenes/player/engineer/low/taunt_aerobic_b.vcd",
-            "scenes/player/engineer/low/taunt01_vocal01.vcd"
+            "scenes/player/engineer/low/taunt01_vocal01.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yippee-kiyah-yippee-i-ki-yo!"
@@ -6224,12 +6224,12 @@
             "engineer_dominationsoldier02"
         ],
         "responses": [
-            "PlayerKilledDominatingSoldierEngineer",
-            "RejectedDuelEngineer"
+            "RejectedDuelEngineer",
+            "PlayerKilledDominatingSoldierEngineer"
         ],
         "rules": [
-            "PlayerKilledDominatingSoldierEngineer",
-            "RejectedDuelEngineer"
+            "RejectedDuelEngineer",
+            "PlayerKilledDominatingSoldierEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/3615.vcd"
@@ -6861,9 +6861,9 @@
             "EngineerGoldenWrench"
         ],
         "rules": [
-            "EngineerSaxxy",
             "EngineerGoldenWrench",
-            "EngineerGoldenFryingPan"
+            "EngineerGoldenFryingPan",
+            "EngineerSaxxy"
         ],
         "scenes": [
             "scenes/player/engineer/low/3602.vcd"
@@ -6907,9 +6907,9 @@
             "EngineerGoldenWrench"
         ],
         "rules": [
-            "EngineerSaxxy",
             "EngineerGoldenWrench",
-            "EngineerGoldenFryingPan"
+            "EngineerGoldenFryingPan",
+            "EngineerSaxxy"
         ],
         "scenes": [
             "scenes/player/engineer/low/3605.vcd"
@@ -6953,9 +6953,9 @@
             "EngineerGoldenWrench"
         ],
         "rules": [
-            "EngineerSaxxy",
             "EngineerGoldenWrench",
-            "EngineerGoldenFryingPan"
+            "EngineerGoldenFryingPan",
+            "EngineerSaxxy"
         ],
         "scenes": [
             "scenes/player/engineer/low/3690.vcd"
@@ -6999,9 +6999,9 @@
             "EngineerGoldenWrench"
         ],
         "rules": [
-            "EngineerSaxxy",
             "EngineerGoldenWrench",
-            "EngineerGoldenFryingPan"
+            "EngineerGoldenFryingPan",
+            "EngineerSaxxy"
         ],
         "scenes": [
             "scenes/player/engineer/low/3691.vcd"
@@ -7094,19 +7094,19 @@
             ]
         ],
         "events": [
-            "engineer_gunslingerpunch01",
-            "engineer_taunt_texan_trickshot_engineer_gunslingerpunch02"
+            "engineer_taunt_texan_trickshot_engineer_gunslingerpunch02",
+            "engineer_gunslingerpunch01"
         ],
         "responses": [
-            "EngySwingFistStart",
-            "Taunt: Texan Trickshot"
+            "Taunt: Texan Trickshot",
+            "EngySwingFistStart"
         ],
         "rules": [
             "EngySwingFistStart"
         ],
         "scenes": [
-            "scenes/player/engineer/low/3589.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
+            "scenes/player/engineer/low/3589.vcd"
         ],
         "state": "used",
         "transcript": "Pow!"
@@ -7129,15 +7129,15 @@
             "engineer_gunslingerpunch02"
         ],
         "responses": [
-            "EngySwingFistStart",
-            "Taunt: Texan Trickshot"
+            "Taunt: Texan Trickshot",
+            "EngySwingFistStart"
         ],
         "rules": [
             "EngySwingFistStart"
         ],
         "scenes": [
-            "scenes/player/engineer/low/3590.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
+            "scenes/player/engineer/low/3590.vcd"
         ],
         "state": "used",
         "transcript": "Bam!"
@@ -7185,8 +7185,8 @@
             ]
         ],
         "events": [
-            "engineer_taunt_bumpkins_banjo_yells",
-            "engineer_gunslingertriplepunchfinal01"
+            "engineer_gunslingertriplepunchfinal01",
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
             "EngySwingFist",
@@ -7197,9 +7197,9 @@
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/player/engineer/low/3703.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/3703.vcd"
         ],
         "state": "used",
         "transcript": "Yee-haw!"
@@ -7948,13 +7948,13 @@
             "engineer.jeers01"
         ],
         "responses": [
-            "PlayerSuddenDeathEngineer",
             "PlayerJeersEngineer",
+            "PlayerSuddenDeathEngineer",
             "RejectedDuelEngineer"
         ],
         "rules": [
-            "PlayerSuddenDeathEngineer",
             "PlayerJeersEngineer",
+            "PlayerSuddenDeathEngineer",
             "RejectedDuelEngineer"
         ],
         "scenes": [
@@ -7979,12 +7979,12 @@
             "engineer.jeers02"
         ],
         "responses": [
-            "PlayerSuddenDeathEngineer",
-            "PlayerJeersEngineer"
+            "PlayerJeersEngineer",
+            "PlayerSuddenDeathEngineer"
         ],
         "rules": [
-            "PlayerSuddenDeathEngineer",
-            "PlayerJeersEngineer"
+            "PlayerJeersEngineer",
+            "PlayerSuddenDeathEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/95.vcd"
@@ -8008,13 +8008,13 @@
             "engineer.jeers03"
         ],
         "responses": [
-            "Taunt: The Critical Fail",
+            "PlayerJeersEngineer",
             "PlayerSuddenDeathEngineer",
-            "PlayerJeersEngineer"
+            "Taunt: The Critical Fail"
         ],
         "rules": [
-            "PlayerSuddenDeathEngineer",
-            "PlayerJeersEngineer"
+            "PlayerJeersEngineer",
+            "PlayerSuddenDeathEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_the_critical_fail.vcd",
@@ -8043,21 +8043,21 @@
             ]
         ],
         "events": [
+            "engineer.scardy_cat_b",
             "taunt_burstchester_engineer_01",
-            "engineer.jeers04",
-            "engineer.scardy_cat_b"
+            "engineer.jeers04"
         ],
         "responses": [
-            "Taunt: Burstchester",
             "Taunt: The Scaredy-Cat!",
-            "PlayerKilledForRevengeEngineer",
+            "PlayerJeersEngineer",
             "PlayerSuddenDeathEngineer",
-            "PlayerJeersEngineer"
+            "PlayerKilledForRevengeEngineer",
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "PlayerSuddenDeathEngineer",
+            "PlayerJeersEngineer",
             "PlayerKilledForRevengeEngineer",
-            "PlayerJeersEngineer"
+            "PlayerSuddenDeathEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/98.vcd",
@@ -8079,8 +8079,8 @@
             ]
         ],
         "events": [
-            "engineer.laughevil01",
-            "engie_taunt_commending_clap_b"
+            "engie_taunt_commending_clap_b",
+            "engineer.laughevil01"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -8145,8 +8145,8 @@
             "EngineerTauntSecondary"
         ],
         "rules": [
-            "EngineerTauntPlayerSecondary",
-            "EngineerTauntLaserPointer"
+            "EngineerTauntLaserPointer",
+            "EngineerTauntPlayerSecondary"
         ],
         "scenes": [
             "scenes/player/engineer/low/taunt02_vocal01.vcd"
@@ -8175,8 +8175,8 @@
             "EngineerTauntSecondary"
         ],
         "rules": [
-            "EngineerTauntPlayerSecondary",
-            "EngineerTauntLaserPointer"
+            "EngineerTauntLaserPointer",
+            "EngineerTauntPlayerSecondary"
         ],
         "scenes": [
             "scenes/player/engineer/low/taunt02_vocal02.vcd"
@@ -8209,17 +8209,17 @@
             "engineer.laughevil05"
         ],
         "responses": [
-            "EngineerTauntSecondary",
-            "PlayerKilledForRevengeEngineer"
+            "PlayerKilledForRevengeEngineer",
+            "EngineerTauntSecondary"
         ],
         "rules": [
+            "EngineerTauntLaserPointer",
             "PlayerKilledForRevengeEngineer",
-            "EngineerTauntPlayerSecondary",
-            "EngineerTauntLaserPointer"
+            "EngineerTauntPlayerSecondary"
         ],
         "scenes": [
-            "scenes/player/engineer/low/taunt02_vocal03.vcd",
-            "scenes/player/engineer/low/1335.vcd"
+            "scenes/player/engineer/low/1335.vcd",
+            "scenes/player/engineer/low/taunt02_vocal03.vcd"
         ],
         "state": "used",
         "transcript": "(Evil Laughter 3)"
@@ -8320,16 +8320,16 @@
         ],
         "responses": [
             "Taunt: Bucking Bronco",
-            "Taunt: Bear Hug",
-            "PlayerKilledForRevengeEngineer"
+            "PlayerKilledForRevengeEngineer",
+            "Taunt: Bear Hug"
         ],
         "rules": [
             "PlayerKilledForRevengeEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd",
-            "scenes/player/engineer/low/102.vcd"
+            "scenes/player/engineer/low/102.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "(Happy Laughter 3)"
@@ -8363,9 +8363,9 @@
             "PlayerKilledForRevengeEngineer"
         ],
         "rules": [
-            "EngineerTauntPlayerShortCircuit",
             "PlayerKilledForRevengeEngineer",
-            "EngineerTauntPlayerMelee"
+            "EngineerTauntPlayerMelee",
+            "EngineerTauntPlayerShortCircuit"
         ],
         "scenes": [
             "scenes/player/engineer/low/103.vcd",
@@ -8388,21 +8388,21 @@
             ]
         ],
         "events": [
-            "engineer.laughlong02",
-            "taunt_engineer_aerobic_shared_dance_intro"
+            "taunt_engineer_aerobic_shared_dance_intro",
+            "engineer.laughlong02"
         ],
         "responses": [
-            "EngineerTauntLaugh",
             "Taunt: Mannrobics",
-            "Taunt: The Schadenfreude"
+            "Taunt: The Schadenfreude",
+            "EngineerTauntLaugh"
         ],
         "rules": [
-            "EngineerTauntLaugh",
-            "EngineerTauntAprilFools"
+            "EngineerTauntAprilFools",
+            "EngineerTauntLaugh"
         ],
         "scenes": [
-            "scenes/player/engineer/low/taunt_laugh.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_a.vcd"
+            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
+            "scenes/player/engineer/low/taunt_laugh.vcd"
         ],
         "state": "used",
         "transcript": "laughs a little too hard"
@@ -8451,8 +8451,8 @@
         "base_name": "engineer_laughshort04",
         "criteria": [],
         "events": [
-            "engineer.laughshort04",
-            "engie_taunt_commending_clap_b"
+            "engie_taunt_commending_clap_b",
+            "engineer.laughshort04"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -8460,8 +8460,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_cheers.vcd",
-            "scenes/workshop/player/engineer/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/engineer/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/engineer/low/taunt_cheers.vcd"
         ],
         "state": "used",
         "transcript": "Short Laughter 4"
@@ -8725,27 +8725,27 @@
             ]
         ],
         "events": [
-            "engineer_meleedare01",
             "engineer_taunt_bumpkins_banjo_yells",
+            "engineer_meleedare01",
             "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
-            "MeleeDareCombatEngineer",
-            "Taunt: The Dueling Banjo",
-            "InvulnerableSpeechEngineer",
-            "MeleeDareEngineer"
-        ],
-        "rules": [
-            "MeleeDareCombatEngineerSlinger",
             "MeleeDareEngineer",
             "InvulnerableSpeechEngineer",
+            "Taunt: The Dueling Banjo",
+            "MeleeDareCombatEngineer"
+        ],
+        "rules": [
+            "MeleeDareEngineer",
+            "InvulnerableSpeechEngineer",
+            "MeleeDareCombatEngineerSlinger",
             "MeleeDareCombatEngineer"
         ],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
             "scenes/player/engineer/low/3619.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Let's do this Texas style."
@@ -8778,8 +8778,8 @@
             "MeleeDareCombatEngineer"
         ],
         "rules": [
-            "MeleeDareCombatEngineerSlinger",
             "MeleeDareEngineer",
+            "MeleeDareCombatEngineerSlinger",
             "MeleeDareCombatEngineer"
         ],
         "scenes": [
@@ -8816,8 +8816,8 @@
             "MeleeDareCombatEngineer"
         ],
         "rules": [
-            "MeleeDareCombatEngineerSlinger",
             "MeleeDareEngineer",
+            "MeleeDareCombatEngineerSlinger",
             "MeleeDareCombatEngineer"
         ],
         "scenes": [
@@ -8853,10 +8853,10 @@
         "base_name": "engineer_mvm_ask_ready01",
         "criteria": [],
         "events": [
-            "engineer.readycomp",
-            "engineer_mvm_ask_ready01",
             "engineer.ready",
-            "engineer.readymvm"
+            "engineer.readycomp",
+            "engineer.readymvm",
+            "engineer_mvm_ask_ready01"
         ],
         "responses": [],
         "rules": [],
@@ -8868,9 +8868,9 @@
         "base_name": "engineer_mvm_ask_ready02",
         "criteria": [],
         "events": [
-            "engineer.readycomp",
             "engineer_mvm_ask_ready02",
             "engineer.ready",
+            "engineer.readycomp",
             "engineer.readymvm"
         ],
         "responses": [],
@@ -9424,21 +9424,21 @@
             ]
         ],
         "events": [
-            "engineer_mvm_get_upgrade01",
             "engineer_taunt_flag",
-            "engineer_taunt_bumpkins_banjo_engineer_outro"
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
+            "engineer_mvm_get_upgrade01"
         ],
         "responses": [
-            "MvMUpgradeCompleteEngineer",
+            "Taunt: Flying Colors",
             "Taunt: The Dueling Banjo",
-            "Taunt: Flying Colors"
+            "MvMUpgradeCompleteEngineer"
         ],
         "rules": [
             "MvMUpgradeCompleteEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
             "scenes/player/engineer/low/4131.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -9586,13 +9586,13 @@
             "engineer_mvm_loot_common02"
         ],
         "responses": [
-            "EngineerSF13SpellPickupCommon",
+            "Taunt: Flying Colors",
             "EngineerMvMLootCommon",
-            "Taunt: Flying Colors"
+            "EngineerSF13SpellPickupCommon"
         ],
         "rules": [
-            "EngineerSF13SpellPickupCommon",
-            "EngineerMvMLootCommon"
+            "EngineerMvMLootCommon",
+            "EngineerSF13SpellPickupCommon"
         ],
         "scenes": [
             "scenes/player/engineer/low/7857.vcd",
@@ -9709,12 +9709,12 @@
             "engineer_mvm_loot_rare02"
         ],
         "responses": [
-            "EngineerMvMLootRare",
-            "EngineerSF13SpellPickupRare"
+            "EngineerSF13SpellPickupRare",
+            "EngineerMvMLootRare"
         ],
         "rules": [
-            "EngineerMvMLootRare",
-            "EngineerSF13SpellPickupRare"
+            "EngineerSF13SpellPickupRare",
+            "EngineerMvMLootRare"
         ],
         "scenes": [
             "scenes/player/engineer/low/7860.vcd"
@@ -9731,8 +9731,8 @@
             ]
         ],
         "events": [
-            "engie_taunt_commending_clap_a",
-            "engineer_mvm_loot_rare03"
+            "engineer_mvm_loot_rare03",
+            "engie_taunt_commending_clap_a"
         ],
         "responses": [
             "Taunt: Commending Clap",
@@ -9742,8 +9742,8 @@
             "EngineerMvMLootRare"
         ],
         "scenes": [
-            "scenes/player/engineer/low/8467.vcd",
-            "scenes/workshop/player/engineer/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/engineer/low/taunt_commending_clap.vcd",
+            "scenes/player/engineer/low/8467.vcd"
         ],
         "state": "used",
         "transcript": "Now that is just dynamite!"
@@ -9992,9 +9992,9 @@
         "base_name": "engineer_mvm_say_ready01",
         "criteria": [],
         "events": [
-            "engineer.readycomp",
             "engineer_mvm_say_ready01",
             "engineer.ready",
+            "engineer.readycomp",
             "engineer.readymvm"
         ],
         "responses": [],
@@ -10007,9 +10007,9 @@
         "base_name": "engineer_mvm_say_ready02",
         "criteria": [],
         "events": [
-            "engineer.readycomp",
-            "engineer_mvm_say_ready02",
             "engineer.ready",
+            "engineer_mvm_say_ready02",
+            "engineer.readycomp",
             "engineer.readymvm"
         ],
         "responses": [],
@@ -10605,9 +10605,9 @@
             "engineer.negativevocalization02"
         ],
         "responses": [
+            "Taunt: Mourning Mercs",
             "PlayerNegativeEngineer",
-            "PlayerLostPointEngineer",
-            "Taunt: Mourning Mercs"
+            "PlayerLostPointEngineer"
         ],
         "rules": [
             "PlayerNegativeEngineer",
@@ -10636,9 +10636,9 @@
             "engineer.negativevocalization03"
         ],
         "responses": [
+            "Taunt: Unleashed Rage",
             "PlayerNegativeEngineer",
-            "PlayerLostPointEngineer",
-            "Taunt: Unleashed Rage"
+            "PlayerLostPointEngineer"
         ],
         "rules": [
             "PlayerNegativeEngineer",
@@ -10751,12 +10751,12 @@
             ]
         ],
         "events": [
-            "weapon_wrangler.ouch",
-            "engineer.negativevocalization07"
+            "engineer.negativevocalization07",
+            "weapon_wrangler.ouch"
         ],
         "responses": [
-            "Taunt: The Critical Fail",
             "PlayerNegativeEngineer",
+            "Taunt: The Critical Fail",
             "PlayerLostPointEngineer"
         ],
         "rules": [
@@ -10813,8 +10813,8 @@
             ]
         ],
         "events": [
-            "engineer.negativevocalization09",
-            "weapon_wrangler.ouch"
+            "weapon_wrangler.ouch",
+            "engineer.negativevocalization09"
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
@@ -10826,8 +10826,8 @@
             "PlayerLostPointEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/secondrate_sorcery.vcd",
-            "scenes/player/engineer/low/1340.vcd"
+            "scenes/player/engineer/low/1340.vcd",
+            "scenes/workshop/player/engineer/low/secondrate_sorcery.vcd"
         ],
         "state": "used",
         "transcript": "[Loud, angry, and frustruated sigh]"
@@ -10877,9 +10877,9 @@
             "engineer.negativevocalization11"
         ],
         "responses": [
+            "Taunt: Unleashed Rage",
             "PlayerNegativeEngineer",
-            "PlayerLostPointEngineer",
-            "Taunt: Unleashed Rage"
+            "PlayerLostPointEngineer"
         ],
         "rules": [
             "PlayerNegativeEngineer",
@@ -10908,9 +10908,9 @@
             "engineer.negativevocalization12"
         ],
         "responses": [
+            "Taunt: Unleashed Rage",
             "PlayerNegativeEngineer",
-            "PlayerLostPointEngineer",
-            "Taunt: Unleashed Rage"
+            "PlayerLostPointEngineer"
         ],
         "rules": [
             "PlayerNegativeEngineer",
@@ -11001,8 +11001,8 @@
             ]
         ],
         "events": [
-            "engineer_taunt_nope_engineer_no01",
-            "engineer.no01"
+            "engineer.no01",
+            "engineer_taunt_nope_engineer_no01"
         ],
         "responses": [
             "PlayerNoEngineer"
@@ -11066,14 +11066,14 @@
         "base_name": "engineer_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
-            "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
             "engineer.scardy_cat",
-            "engineer.critdeath",
             "engineer.paincrticialdeath01",
-            "mvm.playerdiedengineer"
+            "engineer.meleedeath",
+            "engineer.critdeath",
+            "engineer.m_mvm_critdeath",
+            "mvm.playerdiedengineer",
+            "engineer.m_mvm_explosiondeath",
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [
             "Taunt: The Scaredy-Cat!"
@@ -11089,14 +11089,14 @@
         "base_name": "engineer_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
-            "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
             "engineer.scardy_cat",
-            "engineer.paincrticialdeath02",
+            "engineer.meleedeath",
             "engineer.critdeath",
-            "mvm.playerdiedengineer"
+            "engineer.m_mvm_critdeath",
+            "mvm.playerdiedengineer",
+            "engineer.paincrticialdeath02",
+            "engineer.m_mvm_explosiondeath",
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [
             "Taunt: The Scaredy-Cat!"
@@ -11112,13 +11112,13 @@
         "base_name": "engineer_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
             "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
-            "engineer.paincrticialdeath03",
             "engineer.critdeath",
-            "mvm.playerdiedengineer"
+            "engineer.m_mvm_critdeath",
+            "mvm.playerdiedengineer",
+            "engineer.m_mvm_explosiondeath",
+            "engineer.paincrticialdeath03",
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -11130,14 +11130,14 @@
         "base_name": "engineer_paincrticialdeath04",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
-            "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
-            "engineer.scardy_cat",
-            "engineer.critdeath",
             "engineer.paincrticialdeath04",
-            "mvm.playerdiedengineer"
+            "engineer.scardy_cat",
+            "engineer.meleedeath",
+            "engineer.critdeath",
+            "engineer.m_mvm_critdeath",
+            "mvm.playerdiedengineer",
+            "engineer.m_mvm_explosiondeath",
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [
             "Taunt: The Scaredy-Cat!"
@@ -11153,13 +11153,13 @@
         "base_name": "engineer_paincrticialdeath05",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
             "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
             "engineer.critdeath",
+            "engineer.m_mvm_critdeath",
+            "mvm.playerdiedengineer",
+            "engineer.m_mvm_explosiondeath",
             "engineer.paincrticialdeath05",
-            "mvm.playerdiedengineer"
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -11171,13 +11171,13 @@
         "base_name": "engineer_paincrticialdeath06",
         "criteria": [],
         "events": [
-            "engineer.m_mvm_explosiondeath",
             "engineer.meleedeath",
-            "engineer.m_mvm_meleedeath",
-            "engineer.m_mvm_critdeath",
             "engineer.critdeath",
+            "engineer.m_mvm_critdeath",
+            "engineer.paincrticialdeath06",
             "mvm.playerdiedengineer",
-            "engineer.paincrticialdeath06"
+            "engineer.m_mvm_explosiondeath",
+            "engineer.m_mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -11196,8 +11196,8 @@
         ],
         "events": [
             "engineer.painsevere01",
-            "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.m_mvm_death",
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11222,8 +11222,8 @@
         ],
         "events": [
             "engineer.painsevere02",
-            "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.m_mvm_death",
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11248,8 +11248,8 @@
         ],
         "events": [
             "engineer.painsevere03",
-            "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.m_mvm_death",
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11273,13 +11273,13 @@
             ]
         ],
         "events": [
-            "engineer.painsevere04",
+            "engineer.m_mvm_death",
             "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.painsevere04"
         ],
         "responses": [
-            "PlayerAttackerPainEngineer",
-            "Taunt: Mourning Mercs"
+            "Taunt: Mourning Mercs",
+            "PlayerAttackerPainEngineer"
         ],
         "rules": [
             "PlayerAttackerPainEngineer"
@@ -11301,9 +11301,9 @@
             ]
         ],
         "events": [
-            "engineer.death",
+            "engineer.painsevere05",
             "engineer.m_mvm_death",
-            "engineer.painsevere05"
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11328,8 +11328,8 @@
         ],
         "events": [
             "engineer.painsevere06",
-            "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.m_mvm_death",
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11354,8 +11354,8 @@
         ],
         "events": [
             "engineer.painsevere07",
-            "engineer.death",
-            "engineer.m_mvm_death"
+            "engineer.m_mvm_death",
+            "engineer.death"
         ],
         "responses": [
             "PlayerAttackerPainEngineer"
@@ -11387,22 +11387,22 @@
         ],
         "events": [
             "engineer.explosiondeath",
-            "taunt_burstchester_engineer_pain",
-            "engineer.painsharp01"
+            "engineer.painsharp01",
+            "taunt_burstchester_engineer_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "PlayerStillOnFireEngineer",
             "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "PlayerStillOnFireEngineer",
+            "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/1931.vcd",
             "scenes/player/engineer/low/136.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/player/engineer/low/1931.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 1)"
@@ -11429,18 +11429,18 @@
             "engineer.painsharp02"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "PlayerStillOnFireEngineer",
             "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "PlayerStillOnFireEngineer",
+            "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/137.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
             "scenes/player/engineer/low/1931.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
+            "scenes/player/engineer/low/137.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 2)"
@@ -11462,20 +11462,20 @@
             ]
         ],
         "events": [
-            "engineer.explosiondeath",
-            "engineer.painsharp03"
+            "engineer.painsharp03",
+            "engineer.explosiondeath"
         ],
         "responses": [
-            "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "PlayerStillOnFireEngineer",
+            "PlayerPainEngineer"
         ],
         "rules": [
-            "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "PlayerStillOnFireEngineer",
+            "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/1931.vcd",
-            "scenes/player/engineer/low/138.vcd"
+            "scenes/player/engineer/low/138.vcd",
+            "scenes/player/engineer/low/1931.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 3)"
@@ -11490,20 +11490,20 @@
             ]
         ],
         "events": [
-            "engineer.explosiondeath",
+            "engineer.painsharp04",
             "taunt_burstchester_engineer_02",
-            "engineer.painsharp04"
+            "engineer.explosiondeath"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainEngineer"
+            "PlayerPainEngineer",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/1249.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/player/engineer/low/1249.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 4)"
@@ -11518,8 +11518,8 @@
             ]
         ],
         "events": [
-            "engineer.explosiondeath",
-            "engineer.painsharp05"
+            "engineer.painsharp05",
+            "engineer.explosiondeath"
         ],
         "responses": [
             "PlayerPainEngineer"
@@ -11550,23 +11550,23 @@
             ]
         ],
         "events": [
-            "engineer.explosiondeath",
+            "engineer.painsharp06",
             "taunt_burstchester_engineer_02",
-            "engineer.painsharp06"
+            "engineer.explosiondeath"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "PlayerStillOnFireEngineer",
             "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "Taunt: Burstchester"
         ],
         "rules": [
-            "PlayerPainEngineer",
-            "PlayerStillOnFireEngineer"
+            "PlayerStillOnFireEngineer",
+            "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/1931.vcd",
+            "scenes/player/engineer/low/1251.vcd",
             "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
-            "scenes/player/engineer/low/1251.vcd"
+            "scenes/player/engineer/low/1931.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 6)"
@@ -11581,20 +11581,20 @@
             ]
         ],
         "events": [
+            "engineer.painsharp07",
             "engineer.explosiondeath",
-            "taunt_burstchester_engineer_pain",
-            "engineer.painsharp07"
+            "taunt_burstchester_engineer_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainEngineer"
+            "PlayerPainEngineer",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
-            "scenes/player/engineer/low/1252.vcd"
+            "scenes/player/engineer/low/1252.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 7)"
@@ -11609,20 +11609,20 @@
             ]
         ],
         "events": [
+            "engineer.painsharp08",
             "engineer.explosiondeath",
-            "taunt_burstchester_engineer_pain",
-            "engineer.painsharp08"
+            "taunt_burstchester_engineer_pain"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPainEngineer"
+            "PlayerPainEngineer",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPainEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/1253.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/player/engineer/low/1253.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt 8)"
@@ -11640,15 +11640,15 @@
             "engineer.positivevocalization01"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "PlayerPositiveEngineer"
+            "PlayerPositiveEngineer",
+            "Taunt: Burstchester"
         ],
         "rules": [
             "PlayerPositiveEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/139.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/player/engineer/low/139.vcd"
         ],
         "state": "used",
         "transcript": "Well don't that beat all?"
@@ -11950,8 +11950,8 @@
             "engineer_sentryplanting03"
         ],
         "responses": [
-            "DeploySentryEngineer",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "DeploySentryEngineer"
         ],
         "rules": [
             "DeploySentryEngineer"
@@ -12309,12 +12309,12 @@
             "engineer_sf13_round_start04"
         ],
         "responses": [
-            "EngineerSF13RoundStart",
-            "EngineerSF13BattleCry"
+            "EngineerSF13BattleCry",
+            "EngineerSF13RoundStart"
         ],
         "rules": [
-            "EngineerSF13RoundStart",
-            "EngineerSF13BattleCry"
+            "EngineerSF13BattleCry",
+            "EngineerSF13RoundStart"
         ],
         "scenes": [
             "scenes/player/engineer/low/7896.vcd"
@@ -12626,12 +12626,12 @@
             "engineer.specialcompleted-assistedkill01"
         ],
         "responses": [
-            "KilledPlayerAssistEngineer",
-            "KilledPlayerAssistAutoEngineer"
+            "KilledPlayerAssistAutoEngineer",
+            "KilledPlayerAssistEngineer"
         ],
         "rules": [
-            "KilledPlayerAssistEngineer",
-            "KilledPlayerAssistAutoEngineer"
+            "KilledPlayerAssistAutoEngineer",
+            "KilledPlayerAssistEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/159.vcd"
@@ -12665,12 +12665,12 @@
             "engineer.specialcompleted-assistedkill02"
         ],
         "responses": [
-            "KilledPlayerAssistEngineer",
-            "KilledPlayerAssistAutoEngineer"
+            "KilledPlayerAssistAutoEngineer",
+            "KilledPlayerAssistEngineer"
         ],
         "rules": [
-            "KilledPlayerAssistEngineer",
-            "KilledPlayerAssistAutoEngineer"
+            "KilledPlayerAssistAutoEngineer",
+            "KilledPlayerAssistEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/160.vcd"
@@ -12703,8 +12703,8 @@
             "KilledPlayerVeryManyEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_peace.vcd",
-            "scenes/player/engineer/low/147.vcd"
+            "scenes/player/engineer/low/147.vcd",
+            "scenes/workshop/player/engineer/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "Whoooowee, would ya look at that!"
@@ -12750,22 +12750,22 @@
             ]
         ],
         "events": [
+            "engineer.scardy_cat_b",
             "taunt.finalscore_engineer_a",
-            "engineer.specialcompleted03",
-            "engineer.scardy_cat_b"
+            "engineer.specialcompleted03"
         ],
         "responses": [
-            "PlayerKilledForRevengeEngineer",
             "Taunt: The Scaredy-Cat!",
+            "PlayerKilledForRevengeEngineer",
             "Taunt: The Final Score"
         ],
         "rules": [
             "PlayerKilledForRevengeEngineer"
         ],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_the_final_score.vcd",
             "scenes/player/engineer/low/149.vcd",
-            "scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd"
+            "scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd",
+            "scenes/workshop/player/engineer/low/taunt_the_final_score.vcd"
         ],
         "state": "used",
         "transcript": "Gutless."
@@ -12780,8 +12780,8 @@
             ]
         ],
         "events": [
-            "engineer.specialcompleted04",
-            "engineer.scardy_cat_b"
+            "engineer.scardy_cat_b",
+            "engineer.specialcompleted04"
         ],
         "responses": [
             "EngineerJarateHit",
@@ -12816,8 +12816,8 @@
             "engineer.specialcompleted05"
         ],
         "responses": [
-            "Taunt: Bear Hug",
-            "KilledPlayerManyEngineer"
+            "KilledPlayerManyEngineer",
+            "Taunt: Bear Hug"
         ],
         "rules": [
             "KilledPlayerManyEngineer"
@@ -13024,12 +13024,12 @@
             "engineer.standonthepoint01"
         ],
         "responses": [
-            "PlayerHelpCapture2Engineer",
-            "DefendOnThePointEngineer"
+            "DefendOnThePointEngineer",
+            "PlayerHelpCapture2Engineer"
         ],
         "rules": [
-            "PlayerHelpCapture2Engineer",
-            "DefendOnThePointEngineer"
+            "DefendOnThePointEngineer",
+            "PlayerHelpCapture2Engineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/161.vcd"
@@ -13058,12 +13058,12 @@
             "engineer.standonthepoint02"
         ],
         "responses": [
-            "PlayerHelpCapture2Engineer",
-            "DefendOnThePointEngineer"
+            "DefendOnThePointEngineer",
+            "PlayerHelpCapture2Engineer"
         ],
         "rules": [
-            "PlayerHelpCapture2Engineer",
-            "DefendOnThePointEngineer"
+            "DefendOnThePointEngineer",
+            "PlayerHelpCapture2Engineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/1344.vcd"
@@ -13340,16 +13340,16 @@
         ],
         "responses": [
             "PlayerYesEngineer",
-            "AcceptedDuelEngineer",
-            "Taunt: The High Five!"
+            "Taunt: The High Five!",
+            "AcceptedDuelEngineer"
         ],
         "rules": [
             "PlayerYesEngineer",
             "AcceptedDuelEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/188.vcd",
-            "scenes/player/engineer/low/taunt_hi5_start.vcd"
+            "scenes/player/engineer/low/taunt_hi5_start.vcd",
+            "scenes/player/engineer/low/188.vcd"
         ],
         "state": "used",
         "transcript": "Heck yes!"
@@ -13398,18 +13398,18 @@
             ]
         ],
         "events": [
-            "engineer.taunts01",
-            "engineer_taunt_texan_trickshot_engineer_taunts05"
+            "engineer_taunt_texan_trickshot_engineer_taunts05",
+            "engineer.taunts01"
         ],
         "responses": [
-            "AcceptedDuelEngineer",
+            "Taunt: Texan Trickshot",
             "MeleeDareCombatEngineer",
-            "Taunt: Texan Trickshot"
+            "AcceptedDuelEngineer"
         ],
         "rules": [
             "MeleeDareCombatEngineerSlinger",
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/163.vcd",
@@ -13430,8 +13430,8 @@
             ]
         ],
         "events": [
-            "engineer.taunts02",
-            "engineer_taunt_texan_trickshot_engineer_taunts05"
+            "engineer_taunt_texan_trickshot_engineer_taunts05",
+            "engineer.taunts02"
         ],
         "responses": [
             "PlayerKilledForRevengeEngineer",
@@ -13441,8 +13441,8 @@
             "PlayerKilledForRevengeEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/164.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
+            "scenes/player/engineer/low/164.vcd"
         ],
         "state": "used",
         "transcript": "You ladies shoulda' oughta' brought some menfolk with ya."
@@ -13468,18 +13468,18 @@
             ]
         ],
         "events": [
-            "engineer.taunts03",
-            "engineer_taunt_texan_trickshot_engineer_taunts05"
+            "engineer_taunt_texan_trickshot_engineer_taunts05",
+            "engineer.taunts03"
         ],
         "responses": [
-            "AcceptedDuelEngineer",
+            "Taunt: Texan Trickshot",
             "MeleeDareCombatEngineer",
-            "Taunt: Texan Trickshot"
+            "AcceptedDuelEngineer"
         ],
         "rules": [
             "MeleeDareCombatEngineerSlinger",
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/166.vcd",
@@ -13570,11 +13570,11 @@
             "Taunt: Texan Trickshot"
         ],
         "rules": [
+            "EngyCritsReady2",
+            "EngyCritsReady2Festive",
             "EngyCritsReady",
             "InvulnerableSpeechEngineer",
-            "EngyCritsReady2",
-            "EngyCritsReadyFestive",
-            "EngyCritsReady2Festive"
+            "EngyCritsReadyFestive"
         ],
         "scenes": [
             "scenes/player/engineer/low/167.vcd",
@@ -13607,13 +13607,13 @@
             "engineer.taunts06"
         ],
         "responses": [
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "rules": [
             "MeleeDareCombatEngineerSlinger",
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/169.vcd"
@@ -13702,23 +13702,23 @@
         ],
         "responses": [
             "EngyCritsReady",
-            "AcceptedDuelEngineer",
+            "Taunt: Texan Trickshot",
             "MeleeDareCombatEngineer",
-            "Taunt: Texan Trickshot"
+            "AcceptedDuelEngineer"
         ],
         "rules": [
-            "MeleeDareCombatEngineerSlinger",
-            "EngyCritsReady",
-            "AcceptedDuelEngineer",
-            "InvulnerableSpeechEngineer",
-            "MeleeDareCombatEngineer",
             "EngyCritsReady2",
+            "EngyCritsReady2Festive",
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer",
+            "EngyCritsReady",
+            "InvulnerableSpeechEngineer",
             "EngyCritsReadyFestive",
-            "EngyCritsReady2Festive"
+            "MeleeDareCombatEngineerSlinger"
         ],
         "scenes": [
-            "scenes/player/engineer/low/172.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
+            "scenes/player/engineer/low/172.vcd"
         ],
         "state": "used",
         "transcript": "Start prayin', boy!"
@@ -13773,13 +13773,13 @@
             "engineer.taunts10"
         ],
         "responses": [
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "rules": [
             "MeleeDareCombatEngineerSlinger",
-            "AcceptedDuelEngineer",
-            "MeleeDareCombatEngineer"
+            "MeleeDareCombatEngineer",
+            "AcceptedDuelEngineer"
         ],
         "scenes": [
             "scenes/player/engineer/low/174.vcd"
@@ -13849,11 +13849,11 @@
             "InvulnerableSpeechEngineer"
         ],
         "rules": [
+            "EngyCritsReady2",
+            "EngyCritsReady2Festive",
             "EngyCritsReady",
             "InvulnerableSpeechEngineer",
-            "EngyCritsReady2",
-            "EngyCritsReadyFestive",
-            "EngyCritsReady2Festive"
+            "EngyCritsReadyFestive"
         ],
         "scenes": [
             "scenes/player/engineer/low/177.vcd"
@@ -14101,10 +14101,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yee-haw!"
@@ -14113,17 +14113,17 @@
         "base_name": "eng_bronco_02",
         "criteria": [],
         "events": [
-            "engineer_bucking_bronco_taunt_yells_a",
-            "taunt_engineer_aerobic_shared_dance_intro"
+            "taunt_engineer_aerobic_shared_dance_intro",
+            "engineer_bucking_bronco_taunt_yells_a"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Bucking Bronco"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_a.vcd"
+            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo! Hoo hoo! Yeah! Yee-haw!"
@@ -14132,20 +14132,20 @@
         "base_name": "eng_bronco_03",
         "criteria": [],
         "events": [
-            "engineer_bucking_bronco_taunt_yells_a",
             "taunt_engineer_aerobic_shared_dance_intro",
+            "engineer_bucking_bronco_taunt_yells_a",
             "taunt_killer_joke_engineer"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
             "Taunt: Mannrobics",
+            "Taunt: Bucking Bronco",
             "Taunt: Killer Joke"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_a.vcd"
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yeeeeeee-haw!"
@@ -14163,10 +14163,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yeeeeee-haw!"
@@ -14200,10 +14200,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Ah hah!"
@@ -14214,23 +14214,23 @@
         "events": [
             "engineer_bucking_bronco_taunt_yells_b",
             "taunt_engineer_aerobic_shared_dance_intro",
-            "engineer_taunt_bumpkins_banjo_yells",
-            "taunt.bearhug_engineer_b"
+            "taunt.bearhug_engineer_b",
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
             "Taunt: Mannrobics",
-            "Taunt: The Dueling Banjo",
-            "Taunt: Bear Hug"
+            "Taunt: Bucking Bronco",
+            "Taunt: Bear Hug",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "Whew! Hoo hoo!"
@@ -14240,19 +14240,19 @@
         "criteria": [],
         "events": [
             "engineer_bucking_bronco_taunt_yells_b",
-            "taunt.bearhug_engineer_c",
-            "taunt_engineer_aerobic_shared_dance_intro"
+            "taunt_engineer_aerobic_shared_dance_intro",
+            "taunt.bearhug_engineer_c"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
             "Taunt: Mannrobics",
+            "Taunt: Bucking Bronco",
             "Taunt: Bear Hug"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/player/engineer/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Mmh! Huh ha hoo! This is not doing my spine any favors!"
@@ -14293,8 +14293,8 @@
         "base_name": "eng_guzzle_03",
         "criteria": [],
         "events": [
-            "engy_taunt_killertime_4_drink",
             "taunt.demopoopeddeckdrink",
+            "engy_taunt_killertime_4_drink",
             "sniper.taunt_shooters_stake_drink"
         ],
         "responses": [
@@ -14305,12 +14305,12 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd",
             "scenes/player/engineer/low/taunt_killer_time_intro.vcd",
-            "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
+            "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
         "transcript": "[loud slurp"
@@ -14335,8 +14335,8 @@
             "engineer_taunt_cheers"
         ],
         "responses": [
-            "Taunt: Cheers!",
-            "Taunt: Rancho Relaxo"
+            "Taunt: Rancho Relaxo",
+            "Taunt: Cheers!"
         ],
         "rules": [],
         "scenes": [
@@ -14398,22 +14398,22 @@
         "base_name": "eng_taunt_cong_fun_08",
         "criteria": [],
         "events": [
-            "engineer_taunt_bumpkins_banjo_yells",
+            "eng_taunt_flip_random_flipflipfinish2",
             "eng_taunt_conga_random_fun1",
-            "eng_taunt_flip_random_flipflipfinish2"
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
             "Taunt: Conga",
-            "Taunt: The Dueling Banjo",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/flip_success_receiver1.vcd",
             "scenes/player/engineer/low/conga.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Ho ho, dee diga dee!"
@@ -14423,25 +14423,25 @@
         "criteria": [],
         "events": [
             "eng_taunt_conga_random_fun3",
-            "engineer_taunt_bumpkins_banjo_yells",
-            "eng_taunt_flip_random_flipflipfinish2"
+            "eng_taunt_flip_random_flipflipfinish2",
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
-            "Taunt: Conga",
-            "Taunt: The Dueling Banjo",
             "Taunt: Mannrobics",
             "Taunt: Texas Twirl 'Em",
+            "Taunt: The Dueling Banjo",
+            "Taunt: Conga",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
             "scenes/player/engineer/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
             "scenes/player/engineer/low/conga.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
         "transcript": "Ho ho, yee hah!"
@@ -14451,30 +14451,30 @@
         "criteria": [],
         "events": [
             "taunt_killer_joke_engineer",
-            "engineer_bucking_bronco_taunt_yells",
+            "engineer_taunt_bumpkins_banjo_yells",
+            "eng_taunt_conga_random_fun2",
             "engineer_bucking_bronco_taunt_yells_a",
             "eng_taunt_flip_random_flipflipfinish2",
-            "engineer_taunt_bumpkins_banjo_yells",
-            "eng_taunt_conga_random_fun2"
+            "engineer_bucking_bronco_taunt_yells"
         ],
         "responses": [
-            "Taunt: Bucking Bronco",
-            "Taunt: Conga",
+            "Taunt: Mannrobics",
             "Taunt: The Dueling Banjo",
             "Taunt: Killer Joke",
-            "Taunt: Mannrobics",
+            "Taunt: Bucking Bronco",
+            "Taunt: Conga",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
             "scenes/player/engineer/low/taunt_aerobic_b.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
             "scenes/player/engineer/low/conga.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Ho ho, woowhee!"
@@ -14483,21 +14483,21 @@
         "base_name": "eng_taunt_cong_fun_13",
         "criteria": [],
         "events": [
-            "eng_taunt_conga_random_fun3",
-            "engineer_bucking_bronco_taunt_yells_b"
+            "engineer_bucking_bronco_taunt_yells_b",
+            "eng_taunt_conga_random_fun3"
         ],
         "responses": [
+            "Taunt: Mannrobics",
             "Taunt: Bucking Bronco",
             "Taunt: Conga",
-            "Taunt: Texas Twirl 'Em",
-            "Taunt: Mannrobics"
+            "Taunt: Texas Twirl 'Em"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/conga.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/player/engineer/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
+            "scenes/player/engineer/low/conga.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yehaw, yehaw, yehaw!"
@@ -14586,9 +14586,9 @@
         "base_name": "eng_taunt_cong_fun_33",
         "criteria": [],
         "events": [
+            "eng_taunt_conga_random_fun2",
             "engineer_bucking_bronco_taunt_yells_a",
-            "engineer_taunt_bumpkins_banjo_yells",
-            "eng_taunt_conga_random_fun2"
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
             "Taunt: Bucking Bronco",
@@ -14597,11 +14597,11 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/player/engineer/low/conga.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Mmmh, go horse, go!"
@@ -14626,22 +14626,22 @@
         "base_name": "eng_taunt_cong_fun_35",
         "criteria": [],
         "events": [
-            "taunt_yeti_engineer",
             "eng_taunt_conga_random_fun3",
-            "engineer_bucking_bronco_taunt_yells_a"
+            "engineer_bucking_bronco_taunt_yells_a",
+            "taunt_yeti_engineer"
         ],
         "responses": [
+            "Taunt: Mannrobics",
             "Taunt: Bucking Bronco",
             "Taunt: Conga",
-            "Taunt: Texas Twirl 'Em",
-            "Taunt: Mannrobics"
+            "Taunt: Texas Twirl 'Em"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/conga.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/player/engineer/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
+            "scenes/player/engineer/low/conga.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Oh hee, hee, hee, hee, hee!"
@@ -14671,21 +14671,21 @@
             "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
-            "Taunt: Conga",
+            "Taunt: Mannrobics",
+            "Taunt: Texas Twirl 'Em",
             "Taunt: The Dueling Banjo",
             "Taunt: Killer Joke",
-            "Taunt: Mannrobics",
-            "Taunt: Texas Twirl 'Em"
+            "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
             "scenes/player/engineer/low/conga.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
         "transcript": "Mmmmmhmmmn!"
@@ -14697,13 +14697,13 @@
             "eng_taunt_dosido_end_rand"
         ],
         "responses": [
-            "Taunt: Texas Twirl 'Em",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Texas Twirl 'Em"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "I'm a dancing fool!"
@@ -14712,28 +14712,28 @@
         "base_name": "eng_taunt_dosi_end_02",
         "criteria": [],
         "events": [
-            "engineer_bucking_bronco_taunt_yells",
+            "engineer_taunt_bumpkins_banjo_yells",
             "engineer_bucking_bronco_taunt_yells_b",
-            "engineer_bucking_bronco_taunt_yells_a",
             "eng_taunt_dosido_end_rand",
-            "engineer_taunt_bumpkins_banjo_yells"
+            "engineer_bucking_bronco_taunt_yells_a",
+            "engineer_bucking_bronco_taunt_yells"
         ],
         "responses": [
-            "Taunt: Square Dance",
-            "Taunt: Bucking Bronco",
-            "Taunt: The Dueling Banjo",
             "Taunt: Mannrobics",
-            "Taunt: Texas Twirl 'Em"
+            "Taunt: Texas Twirl 'Em",
+            "Taunt: The Dueling Banjo",
+            "Taunt: Bucking Bronco",
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
         "transcript": "Yeeehaw!"
@@ -14763,15 +14763,15 @@
             "eng_taunt_flip_random_flipflipping"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/flip_success_initiator0.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/flip_success_receiver0.vcd"
+            "scenes/player/engineer/low/flip_success_receiver0.vcd",
+            "scenes/player/engineer/low/flip_success_initiator0.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Hee-yah!"
@@ -14804,9 +14804,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/flip_success_initiator0.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/player/engineer/low/flip_success_receiver0.vcd"
+            "scenes/player/engineer/low/flip_success_receiver0.vcd",
+            "scenes/player/engineer/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Urgh!"
@@ -14831,22 +14831,22 @@
         "base_name": "eng_taunt_exert_12",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipexertvocal",
             "eng_taunt_dosido_mid_rand",
-            "engineer_taunt_bumpkins_banjo_yells"
+            "engineer_taunt_bumpkins_banjo_yells",
+            "eng_taunt_flip_random_flipexertvocal"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
+            "Taunt: Square Dance",
             "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Hoowhoo!"
@@ -14871,27 +14871,27 @@
         "base_name": "eng_taunt_exert_19",
         "criteria": [],
         "events": [
+            "eng_taunt_headbutt_success_windup",
+            "eng_taunt_dosido_mid_rand",
             "engineer_taunt_bumpkins_banjo_yells",
             "eng_taunt_headbutt_success_recover_1",
-            "eng_taunt_dosido_mid_rand",
-            "eng_taunt_headbutt_success_windup",
             "engineer_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
+            "Taunt: Square Dance",
             "Taunt: Skullcracker",
             "Taunt: The Dueling Banjo",
-            "Taunt: Texas Truckin'",
-            "Taunt: Square Dance"
+            "Taunt: Texas Truckin'"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_dosido_intro01.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_dosido_intro01.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/player/engineer/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd"
         ],
         "state": "used",
         "transcript": "Whoowhew!"
@@ -14916,22 +14916,22 @@
         "base_name": "eng_taunt_exert_29",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipexertvocal",
+            "taunt.bearhug_engineer_b",
             "engineer_taunt_bumpkins_banjo_yells",
-            "taunt.bearhug_engineer_b"
+            "eng_taunt_flip_random_flipexertvocal"
         ],
         "responses": [
             "Taunt: Bear Hug",
-            "Taunt: The Dueling Banjo",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo!"
@@ -14948,9 +14948,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/flip_success_initiator0.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/player/engineer/low/flip_success_receiver0.vcd"
+            "scenes/player/engineer/low/flip_success_receiver0.vcd",
+            "scenes/player/engineer/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Ughh!"
@@ -14967,9 +14967,9 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/flip_success_initiator0.vcd",
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/player/engineer/low/flip_success_receiver0.vcd"
+            "scenes/player/engineer/low/flip_success_receiver0.vcd",
+            "scenes/player/engineer/low/flip_success_initiator0.vcd"
         ],
         "state": "used",
         "transcript": "Urgh!"
@@ -15003,8 +15003,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd"
+            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
+            "scenes/player/engineer/low/taunt_headbutt_success.vcd"
         ],
         "state": "used",
         "transcript": "Uragh!"
@@ -15022,8 +15022,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/flip_success_receiver1.vcd"
+            "scenes/player/engineer/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yah yah!"
@@ -15032,8 +15032,8 @@
         "base_name": "eng_taunt_flip_admire_02",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipadmire",
-            "eng_taunt_flip_random_flipflipfinish1"
+            "eng_taunt_flip_random_flipflipfinish1",
+            "eng_taunt_flip_random_flipadmire"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -15050,8 +15050,8 @@
         "base_name": "eng_taunt_flip_admire_03",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipadmire",
-            "engineer_bucking_bronco_taunt_yells_a"
+            "engineer_bucking_bronco_taunt_yells_a",
+            "eng_taunt_flip_random_flipadmire"
         ],
         "responses": [
             "Taunt: Bucking Bronco",
@@ -15059,8 +15059,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/flip_success_initiator1.vcd"
+            "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Yah, yah, yah!"
@@ -15101,8 +15101,8 @@
         "base_name": "eng_taunt_flip_admire_07",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipthrowantic",
-            "eng_taunt_flip_random_flipflipfinish1"
+            "eng_taunt_flip_random_flipflipfinish1",
+            "eng_taunt_flip_random_flipthrowantic"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -15151,21 +15151,21 @@
         "base_name": "eng_taunt_flip_admire_11",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_flipadmire",
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
             "eng_taunt_dosido_end_rand",
-            "engineer_taunt_bumpkins_banjo_engineer_outro"
+            "eng_taunt_flip_random_flipadmire"
         ],
         "responses": [
+            "Taunt: Square Dance",
             "Taunt: Texas Twirl 'Em",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Dueling Banjo",
-            "Taunt: Square Dance"
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
@@ -15179,15 +15179,15 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
             "scenes/player/engineer/low/taunt_dosido_dance00.vcd",
             "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd"
         ],
         "state": "used",
         "transcript": "Hah!"
@@ -15196,19 +15196,19 @@
         "base_name": "eng_taunt_flip_admire_14",
         "criteria": [],
         "events": [
+            "eng_taunt_dosido_end_rand",
             "taunt_yeti_engineer",
-            "eng_taunt_flip_random_flipadmire",
-            "eng_taunt_dosido_end_rand"
+            "eng_taunt_flip_random_flipadmire"
         ],
         "responses": [
+            "Taunt: Square Dance",
             "Taunt: Texas Twirl 'Em",
-            "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
@@ -15218,23 +15218,23 @@
         "base_name": "eng_taunt_flip_admire_15",
         "criteria": [],
         "events": [
+            "engineer_taunt_bumpkins_banjo_engineer_outro",
             "taunt_yeti_engineer",
             "eng_taunt_flip_random_flipadmire",
-            "engineer_taunt_bumpkins_banjo_engineer_outro",
             "engy_taunt_russian_rand"
         ],
         "responses": [
-            "Taunt: Texas Truckin'",
             "Taunt: Kazotsky Kick",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Dueling Banjo"
+            "Taunt: The Dueling Banjo",
+            "Taunt: Texas Truckin'"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
-            "scenes/player/engineer/low/taunt_russian.vcd",
+            "scenes/player/engineer/low/flip_success_initiator1.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd",
-            "scenes/player/engineer/low/flip_success_initiator1.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
+            "scenes/player/engineer/low/taunt_russian.vcd"
         ],
         "state": "used",
         "transcript": "Ha! All right!"
@@ -15243,22 +15243,22 @@
         "base_name": "eng_taunt_flip_end_01",
         "criteria": [],
         "events": [
-            "eng_taunt_dosido_start_rand",
-            "eng_taunt_flip_random_waiting"
+            "eng_taunt_flip_random_waiting",
+            "eng_taunt_dosido_start_rand"
         ],
         "responses": [
             "Taunt: Mannrobics",
+            "Taunt: Square Dance",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Victory Lap",
-            "Taunt: Square Dance"
+            "Taunt: The Victory Lap"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
             "scenes/player/engineer/low/taunt_dosido_dance00.vcd",
             "scenes/player/engineer/low/flip_start.vcd",
-            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd"
+            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
         "transcript": "Giddyup!"
@@ -15283,8 +15283,8 @@
         "base_name": "eng_taunt_flip_end_08",
         "criteria": [],
         "events": [
-            "taunt_yeti_engineer",
-            "eng_taunt_flip_random_flipthrowantic"
+            "eng_taunt_flip_random_flipthrowantic",
+            "taunt_yeti_engineer"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -15366,24 +15366,24 @@
         "events": [
             "taunt_killer_joke_engineer",
             "engineer_bucking_bronco_taunt_start",
+            "eng_taunt_flip_random_flipflipping",
             "engineer_bucking_bronco_taunt_yells_short",
-            "engineer_taunt_bumpkins_banjo_yells",
-            "eng_taunt_flip_random_flipflipping"
+            "engineer_taunt_bumpkins_banjo_yells"
         ],
         "responses": [
             "Taunt: Bucking Bronco",
-            "Taunt: The Dueling Banjo",
+            "Taunt: Killer Joke",
             "Taunt: Flippin' Awesome",
-            "Taunt: Killer Joke"
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Woooo!"
@@ -15392,31 +15392,31 @@
         "base_name": "eng_taunt_flip_fun_06",
         "criteria": [],
         "events": [
-            "eng_taunt_dosido_start_rand",
             "engineer_bucking_bronco_taunt_start",
+            "eng_taunt_flip_random_flipflipping",
             "engineer_bucking_bronco_taunt_yells_short",
             "engineer_taunt_bumpkins_banjo_yells",
-            "eng_taunt_flip_random_flipflipping"
+            "eng_taunt_dosido_start_rand"
         ],
         "responses": [
-            "Taunt: Square Dance",
-            "Taunt: Bucking Bronco",
-            "Taunt: The Dueling Banjo",
             "Taunt: Mannrobics",
+            "Taunt: The Victory Lap",
+            "Taunt: The Dueling Banjo",
+            "Taunt: Bucking Bronco",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Victory Lap"
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
             "scenes/player/engineer/low/taunt_dosido_dance00.vcd",
-            "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
+            "scenes/player/engineer/low/flip_success_receiver1.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Wooo!"
@@ -15425,33 +15425,33 @@
         "base_name": "eng_taunt_flip_fun_07",
         "criteria": [],
         "events": [
-            "eng_taunt_dosido_start_rand",
             "engineer_bucking_bronco_taunt_start",
             "engineer_bucking_bronco_taunt_yells_short",
             "engineer_taunt_bumpkins_banjo_yells",
+            "eng_taunt_dosido_start_rand",
             "engy_taunt_russian_rand"
         ],
         "responses": [
+            "Taunt: Mannrobics",
             "Taunt: Kazotsky Kick",
             "Taunt: Texas Truckin'",
-            "Taunt: Square Dance",
-            "Taunt: Bucking Bronco",
             "Taunt: The Dueling Banjo",
-            "Taunt: Mannrobics",
-            "Taunt: The Victory Lap"
+            "Taunt: Bucking Bronco",
+            "Taunt: The Victory Lap",
+            "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/engineer/low/taunt_dosido_dance00.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
+            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
+            "scenes/player/engineer/low/taunt_russian.vcd",
+            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
-            "scenes/player/engineer/low/taunt_aerobic_b.vcd",
-            "scenes/player/engineer/low/taunt_dosido_dance00.vcd",
-            "scenes/player/engineer/low/taunt_russian.vcd",
-            "scenes/player/engineer/low/taunt_vehicle_allclass.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo!"
@@ -15572,23 +15572,23 @@
         "base_name": "eng_taunt_head_end_07",
         "criteria": [],
         "events": [
+            "engineer.scardy_cat_b",
             "engy_taunt_neck_snap_05",
-            "eng_taunt_headbutt_success_recover_1",
             "taunt_burstchester_engineer_02",
             "taunt_yeti_engineer",
-            "engineer.scardy_cat_b"
+            "eng_taunt_headbutt_success_recover_1"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: The Scaredy-Cat!",
+            "Taunt: Skullcracker",
             "Taunt: Neck Snap",
             "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
             "scenes/player/engineer/low/taunt_headbutt_success.vcd",
             "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
@@ -15598,19 +15598,19 @@
         "base_name": "eng_taunt_head_end_08",
         "criteria": [],
         "events": [
-            "eng_taunt_headbutt_success_recover_2",
-            "engy_taunt_neck_snap_04"
+            "engy_taunt_neck_snap_04",
+            "eng_taunt_headbutt_success_recover_2"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Texas Truckin'",
+            "Taunt: Skullcracker",
             "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
             "scenes/player/engineer/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd",
-            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd"
+            "scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd"
         ],
         "state": "used",
         "transcript": "Yeah!"
@@ -15619,12 +15619,12 @@
         "base_name": "eng_taunt_head_end_13",
         "criteria": [],
         "events": [
-            "taunt_yeti_engineer",
-            "eng_taunt_headbutt_success_recover_2"
+            "eng_taunt_headbutt_success_recover_2",
+            "taunt_yeti_engineer"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: Texas Truckin'"
+            "Taunt: Texas Truckin'",
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -15638,12 +15638,12 @@
         "base_name": "eng_taunt_int_02",
         "criteria": [],
         "events": [
-            "eng_taunt_flip_random_waiting",
-            "engineer_taunt_bumpkins_banjo_intro"
+            "engineer_taunt_bumpkins_banjo_intro",
+            "eng_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
@@ -15708,8 +15708,8 @@
             "engineer_taunt_dosido_intro_wait_rand"
         ],
         "responses": [
-            "Taunt: Texas Truckin'",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Texas Truckin'"
         ],
         "rules": [],
         "scenes": [
@@ -15827,13 +15827,13 @@
         "base_name": "eng_taunt_int_23",
         "criteria": [],
         "events": [
-            "eng_taunt_headbutt_start_4",
-            "eng_taunt_dosido_intro_rand"
+            "eng_taunt_dosido_intro_rand",
+            "eng_taunt_headbutt_start_4"
         ],
         "responses": [
-            "Taunt: Skullcracker",
+            "Taunt: Square Dance",
             "Taunt: The Fist Bump",
-            "Taunt: Square Dance"
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
@@ -15864,10 +15864,10 @@
         "base_name": "eng_taunt_int_25",
         "criteria": [],
         "events": [
+            "engy_taunt_neck_snap_02",
             "eng_taunt_flip_random_flipflipantic",
-            "taunt.bearhug_engineer_a",
             "eng_taunt_flip_random_waiting",
-            "engy_taunt_neck_snap_02"
+            "taunt.bearhug_engineer_a"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -15877,9 +15877,9 @@
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd",
             "scenes/player/engineer/low/flip_start.vcd",
-            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd"
+            "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "Let's GO."
@@ -15892,8 +15892,8 @@
             "engineer_taunt_bumpkins_banjo_intro"
         ],
         "responses": [
-            "Taunt: The Dueling Banjo",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
@@ -15907,8 +15907,8 @@
         "base_name": "eng_taunt_int_36",
         "criteria": [],
         "events": [
-            "engineer_bucking_bronco_taunt_start",
-            "eng_taunt_dosido_intro_rand"
+            "eng_taunt_dosido_intro_rand",
+            "engineer_bucking_bronco_taunt_start"
         ],
         "responses": [
             "Taunt: Bucking Bronco",
@@ -15916,8 +15916,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/taunt_dosido_intro01.vcd"
+            "scenes/player/engineer/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Come on now!"
@@ -15935,8 +15935,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
-            "scenes/player/engineer/low/flip_start.vcd"
+            "scenes/player/engineer/low/flip_start.vcd",
+            "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
         "state": "used",
         "transcript": "Come on now!"
@@ -15965,8 +15965,8 @@
             "eng_taunt_flip_random_waiting"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
@@ -15980,21 +15980,21 @@
         "base_name": "eng_taunt_int_41",
         "criteria": [],
         "events": [
-            "taunt.bearhug_engineer_a",
+            "eng_taunt_headbutt_start_1",
             "eng_taunt_flip_random_waiting",
-            "eng_taunt_headbutt_start_1"
+            "taunt.bearhug_engineer_a"
         ],
         "responses": [
-            "Taunt: Skullcracker",
             "Taunt: Bear Hug",
+            "Taunt: The Fist Bump",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Fist Bump"
+            "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_headbutt_start.vcd",
             "scenes/player/engineer/low/flip_start.vcd",
             "scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd",
+            "scenes/player/engineer/low/taunt_headbutt_start.vcd",
             "scenes/workshop/player/engineer/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
@@ -16004,22 +16004,22 @@
         "base_name": "eng_taunt_int_44",
         "criteria": [],
         "events": [
-            "eng_taunt_headbutt_start_4",
             "eng_taunt_dosido_intro_rand",
-            "engineer_taunt_bumpkins_banjo_intro"
+            "engineer_taunt_bumpkins_banjo_intro",
+            "eng_taunt_headbutt_start_4"
         ],
         "responses": [
-            "Taunt: Skullcracker",
-            "Taunt: The Dueling Banjo",
+            "Taunt: Square Dance",
             "Taunt: The Fist Bump",
-            "Taunt: Square Dance"
+            "Taunt: Skullcracker",
+            "Taunt: The Dueling Banjo"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
             "scenes/player/engineer/low/taunt_dosido_intro01.vcd",
             "scenes/player/engineer/low/taunt_headbutt_start.vcd",
-            "scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd"
+            "scenes/workshop/player/engineer/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
         "transcript": "Who's with me?!"
@@ -16051,18 +16051,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd"
+            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "One!"
@@ -16078,18 +16078,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd"
+            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Two!"
@@ -16105,18 +16105,18 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd"
+            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Three!"
@@ -16132,12 +16132,12 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
             "scenes/player/engineer/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
             "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_win.vcd"
+            "scenes/player/engineer/low/taunt_rps_scissors_lose.vcd",
+            "scenes/player/engineer/low/taunt_rps_rock_lose.vcd"
         ],
         "state": "used",
         "transcript": "On three!"
@@ -16216,16 +16216,16 @@
             "eng_taunt_rps_lose_25"
         ],
         "responses": [
-            "Taunt: Burstchester",
+            "Taunt: Rock, Paper, Scissors",
             "Taunt: The Dueling Banjo",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/taunt_rps_paper_lose.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd"
+            "scenes/player/engineer/low/taunt_rps_paper_lose_noinit.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "You low-down scoundrel."
@@ -16234,18 +16234,18 @@
         "base_name": "eng_taunt_rps_lose_29",
         "criteria": [],
         "events": [
-            "eng_taunt_rps_lose_29",
-            "taunt_burstchester_engineer_01"
+            "taunt_burstchester_engineer_01",
+            "eng_taunt_rps_lose_29"
         ],
         "responses": [
-            "Taunt: Burstchester",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Burstchester"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/player/engineer/low/taunt_rps_rock_lose.vcd",
-            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
-            "scenes/player/engineer/low/taunt_rps_rock_lose_noinit.vcd"
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd"
         ],
         "state": "used",
         "transcript": "Well, that sours my milk."
@@ -16278,8 +16278,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/engineer/low/taunt_rps_scissors_win.vcd"
+            "scenes/player/engineer/low/taunt_rps_scissors_win.vcd",
+            "scenes/player/engineer/low/taunt_rps_scissors_win_noinit.vcd"
         ],
         "state": "used",
         "transcript": "Scissors cut paper, hoss!"
@@ -16295,8 +16295,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_rps_paper_win.vcd",
-            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd"
+            "scenes/player/engineer/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/engineer/low/taunt_rps_paper_win.vcd"
         ],
         "state": "used",
         "transcript": "Paper covers rock, boss!"
@@ -16340,8 +16340,8 @@
         "rules": [],
         "scenes": [
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd"
         ],
         "state": "used",
         "transcript": "Whoooohou!"
@@ -16355,16 +16355,16 @@
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
-            "Taunt: Texas Truckin'",
-            "Taunt: The Dueling Banjo"
+            "Taunt: The Dueling Banjo",
+            "Taunt: Texas Truckin'"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
-            "scenes/player/engineer/low/taunt_russian.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo.vcd",
-            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd",
-            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd"
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_fast.vcd",
+            "scenes/player/engineer/low/taunt_russian.vcd",
+            "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_slow.vcd",
+            "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd"
         ],
         "state": "used",
         "transcript": "(Happy Laughter 3)"
@@ -16381,10 +16381,10 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_killer_time_intro.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd",
+            "scenes/player/engineer/low/taunt_killer_time_intro.vcd"
         ],
         "state": "used",
         "transcript": "[beep"
@@ -16424,16 +16424,16 @@
             "engy_taunt_killertime_2_open"
         ],
         "responses": [
-            "Taunt: Rancho Relaxo",
             "Taunt: The Travel Agent",
+            "Taunt: Rancho Relaxo",
             "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/taunt_killer_time_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd",
-            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd"
+            "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd",
+            "scenes/player/engineer/low/taunt_killer_time_intro.vcd",
+            "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd"
         ],
         "state": "used",
         "transcript": "[steam hissing and gears clanking"

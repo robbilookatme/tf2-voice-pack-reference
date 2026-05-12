@@ -35,11 +35,11 @@
         "base_name": "giant_common_step_01",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -51,11 +51,11 @@
         "base_name": "giant_common_step_02",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -67,11 +67,11 @@
         "base_name": "giant_common_step_03",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -83,11 +83,11 @@
         "base_name": "giant_common_step_04",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -99,11 +99,11 @@
         "base_name": "giant_common_step_05",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -115,11 +115,11 @@
         "base_name": "giant_common_step_06",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -131,11 +131,11 @@
         "base_name": "giant_common_step_07",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -147,11 +147,11 @@
         "base_name": "giant_common_step_08",
         "criteria": [],
         "events": [
-            "mvm.giantsoldierstep",
+            "mvm.giantheavystep",
             "mvm.giantpyrostep",
-            "mvm.giantscoutstep",
             "mvm.giantdemomanstep",
-            "mvm.giantheavystep"
+            "mvm.giantsoldierstep",
+            "mvm.giantscoutstep"
         ],
         "responses": [],
         "rules": [],
@@ -601,8 +601,8 @@
         "base_name": "bat_baseball_hit_robo01",
         "criteria": [],
         "events": [
-            "soldier_tauntcan_it_bat_baseball_hit_robo01",
-            "mvm_weapon_baseballbat.hitflesh"
+            "mvm_weapon_baseballbat.hitflesh",
+            "soldier_tauntcan_it_bat_baseball_hit_robo01"
         ],
         "responses": [
             "Taunt: Ring King",
@@ -610,8 +610,8 @@
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
-            "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
+            "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
+            "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -668,9 +668,9 @@
         "base_name": "blade_slice_robo01",
         "criteria": [],
         "events": [
-            "mvm_weapon_katana.hitflesh",
+            "mvm_weapon_sword.hitflesh",
             "mvm_weapon_pickaxe.hitflesh",
-            "mvm_weapon_sword.hitflesh"
+            "mvm_weapon_katana.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -682,9 +682,9 @@
         "base_name": "blade_slice_robo02",
         "criteria": [],
         "events": [
-            "mvm_weapon_katana.hitflesh",
+            "mvm_weapon_sword.hitflesh",
             "mvm_weapon_pickaxe.hitflesh",
-            "mvm_weapon_sword.hitflesh"
+            "mvm_weapon_katana.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -696,9 +696,9 @@
         "base_name": "blade_slice_robo03",
         "criteria": [],
         "events": [
-            "mvm_weapon_katana.hitflesh",
+            "mvm_weapon_sword.hitflesh",
             "mvm_weapon_pickaxe.hitflesh",
-            "mvm_weapon_sword.hitflesh"
+            "mvm_weapon_katana.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -711,8 +711,8 @@
         "criteria": [],
         "events": [
             "mvm_weapon_bottle.intacthitflesh",
-            "mvm_weapon_bottle.brokenhitflesh",
-            "mvm_weapon_bottle.hitflesh"
+            "mvm_weapon_bottle.hitflesh",
+            "mvm_weapon_bottle.brokenhitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -725,8 +725,8 @@
         "criteria": [],
         "events": [
             "mvm_weapon_bottle.intacthitflesh",
-            "mvm_weapon_bottle.brokenhitflesh",
-            "mvm_weapon_bottle.hitflesh"
+            "mvm_weapon_bottle.hitflesh",
+            "mvm_weapon_bottle.brokenhitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -739,8 +739,8 @@
         "criteria": [],
         "events": [
             "mvm_weapon_bottle.intacthitflesh",
-            "mvm_weapon_bottle.brokenhitflesh",
-            "mvm_weapon_bottle.hitflesh"
+            "mvm_weapon_bottle.hitflesh",
+            "mvm_weapon_bottle.brokenhitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -752,20 +752,20 @@
         "base_name": "cbar_hitbod_robo01",
         "criteria": [],
         "events": [
-            "mvm_weapon_club.hitflesh",
-            "mvm_weapon_machete.hitflesh",
-            "mvm_weapon_bat.hitflesh",
-            "mvm_weapon_3rd_degree.hitflesh",
-            "mvm_weapon_fist.hitflesh",
-            "mvm_weapon_pipe.hitflesh",
-            "mvm_weapon_fireaxe.hitflesh",
-            "mvm_weapon_medikit.hitflesh",
-            "mvm_weapon_flag.hitflesh",
             "mvm_weapon_wrench.hitflesh",
-            "mvm_weapon_bonesaw.hitflesh",
-            "mvm_weapon_shovel.hitflesh",
+            "mvm_weapon_machete.hitflesh",
             "mvm_weapon_crowbar.hitflesh",
-            "mvm_weapon_default.hitflesh"
+            "mvm_weapon_bat.hitflesh",
+            "mvm_weapon_fireaxe.hitflesh",
+            "mvm_weapon_3rd_degree.hitflesh",
+            "mvm_weapon_club.hitflesh",
+            "mvm_weapon_default.hitflesh",
+            "mvm_weapon_fist.hitflesh",
+            "mvm_weapon_flag.hitflesh",
+            "mvm_weapon_medikit.hitflesh",
+            "mvm_weapon_pipe.hitflesh",
+            "mvm_weapon_bonesaw.hitflesh",
+            "mvm_weapon_shovel.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -777,20 +777,20 @@
         "base_name": "cbar_hitbod_robo02",
         "criteria": [],
         "events": [
-            "mvm_weapon_club.hitflesh",
-            "mvm_weapon_machete.hitflesh",
-            "mvm_weapon_bat.hitflesh",
-            "mvm_weapon_3rd_degree.hitflesh",
-            "mvm_weapon_fist.hitflesh",
-            "mvm_weapon_pipe.hitflesh",
-            "mvm_weapon_fireaxe.hitflesh",
-            "mvm_weapon_medikit.hitflesh",
-            "mvm_weapon_flag.hitflesh",
             "mvm_weapon_wrench.hitflesh",
-            "mvm_weapon_bonesaw.hitflesh",
-            "mvm_weapon_shovel.hitflesh",
+            "mvm_weapon_machete.hitflesh",
             "mvm_weapon_crowbar.hitflesh",
-            "mvm_weapon_default.hitflesh"
+            "mvm_weapon_bat.hitflesh",
+            "mvm_weapon_fireaxe.hitflesh",
+            "mvm_weapon_3rd_degree.hitflesh",
+            "mvm_weapon_club.hitflesh",
+            "mvm_weapon_default.hitflesh",
+            "mvm_weapon_fist.hitflesh",
+            "mvm_weapon_flag.hitflesh",
+            "mvm_weapon_medikit.hitflesh",
+            "mvm_weapon_pipe.hitflesh",
+            "mvm_weapon_bonesaw.hitflesh",
+            "mvm_weapon_shovel.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -802,20 +802,20 @@
         "base_name": "cbar_hitbod_robo03",
         "criteria": [],
         "events": [
-            "mvm_weapon_club.hitflesh",
-            "mvm_weapon_machete.hitflesh",
-            "mvm_weapon_bat.hitflesh",
-            "mvm_weapon_3rd_degree.hitflesh",
-            "mvm_weapon_fist.hitflesh",
-            "mvm_weapon_pipe.hitflesh",
-            "mvm_weapon_fireaxe.hitflesh",
-            "mvm_weapon_medikit.hitflesh",
-            "mvm_weapon_flag.hitflesh",
             "mvm_weapon_wrench.hitflesh",
-            "mvm_weapon_bonesaw.hitflesh",
-            "mvm_weapon_shovel.hitflesh",
+            "mvm_weapon_machete.hitflesh",
             "mvm_weapon_crowbar.hitflesh",
-            "mvm_weapon_default.hitflesh"
+            "mvm_weapon_bat.hitflesh",
+            "mvm_weapon_fireaxe.hitflesh",
+            "mvm_weapon_3rd_degree.hitflesh",
+            "mvm_weapon_club.hitflesh",
+            "mvm_weapon_default.hitflesh",
+            "mvm_weapon_fist.hitflesh",
+            "mvm_weapon_flag.hitflesh",
+            "mvm_weapon_medikit.hitflesh",
+            "mvm_weapon_pipe.hitflesh",
+            "mvm_weapon_bonesaw.hitflesh",
+            "mvm_weapon_shovel.hitflesh"
         ],
         "responses": [],
         "rules": [],
@@ -827,10 +827,10 @@
         "base_name": "metal_gloves_hit_robo01",
         "criteria": [],
         "events": [
-            "mvm_evictionnotice.impact",
+            "mvm_weapon_metalgloves.hitflesh",
             "mvm_weapon_metalgloves.crithit",
             "mvm_evictionnotice.impactcrit",
-            "mvm_weapon_metalgloves.hitflesh"
+            "mvm_evictionnotice.impact"
         ],
         "responses": [],
         "rules": [],
@@ -842,14 +842,14 @@
         "base_name": "metal_gloves_hit_robo02",
         "criteria": [],
         "events": [
+            "halloween.bellring.woodimpact",
+            "mvm_weapon_metalgloves.hitflesh",
             "mvm_weapon_metalgloves.crithit",
-            "halloween.bellring.wizard",
+            "mvm_evictionnotice.impactcrit",
             "mvm_evictionnotice.impact",
             "halloween.bellring.pushover",
             "halloween.bellring.scout",
-            "halloween.bellring.woodimpact",
-            "mvm_evictionnotice.impactcrit",
-            "mvm_weapon_metalgloves.hitflesh",
+            "halloween.bellring.wizard",
             "halloween.bellring.heman"
         ],
         "responses": [],
@@ -862,10 +862,10 @@
         "base_name": "metal_gloves_hit_robo03",
         "criteria": [],
         "events": [
-            "mvm_evictionnotice.impact",
+            "mvm_weapon_metalgloves.hitflesh",
             "mvm_weapon_metalgloves.crithit",
             "mvm_evictionnotice.impactcrit",
-            "mvm_weapon_metalgloves.hitflesh"
+            "mvm_evictionnotice.impact"
         ],
         "responses": [],
         "rules": [],
@@ -877,10 +877,10 @@
         "base_name": "metal_gloves_hit_robo04",
         "criteria": [],
         "events": [
-            "mvm_evictionnotice.impact",
+            "mvm_weapon_metalgloves.hitflesh",
             "mvm_weapon_metalgloves.crithit",
             "mvm_evictionnotice.impactcrit",
-            "mvm_weapon_metalgloves.hitflesh"
+            "mvm_evictionnotice.impact"
         ],
         "responses": [],
         "rules": [],
@@ -1710,9 +1710,9 @@
         "base_name": "mvm_sentrybuster_explode",
         "criteria": [],
         "events": [
-            "mvm.giantcommonexplodes",
+            "mvm.giantheavyexplodes",
             "mvm.sentrybusterexplode",
-            "mvm.giantheavyexplodes"
+            "mvm.giantcommonexplodes"
         ],
         "responses": [],
         "rules": [],
@@ -3932,9 +3932,9 @@
         "base_name": "demoman_mvm_m_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_critdeath",
+            "demoman.m_mvm_paincrticialdeath01",
             "demoman.m_mvm_meleedeath",
-            "demoman.m_mvm_paincrticialdeath01"
+            "demoman.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -3946,9 +3946,9 @@
         "base_name": "demoman_mvm_m_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_critdeath",
+            "demoman.m_mvm_paincrticialdeath02",
             "demoman.m_mvm_meleedeath",
-            "demoman.m_mvm_paincrticialdeath02"
+            "demoman.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -3960,9 +3960,9 @@
         "base_name": "demoman_mvm_m_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_critdeath",
+            "demoman.m_mvm_paincrticialdeath03",
             "demoman.m_mvm_meleedeath",
-            "demoman.m_mvm_paincrticialdeath03"
+            "demoman.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -3974,9 +3974,9 @@
         "base_name": "demoman_mvm_m_paincrticialdeath04",
         "criteria": [],
         "events": [
+            "demoman.m_mvm_meleedeath",
             "demoman.m_mvm_paincrticialdeath04",
-            "demoman.m_mvm_critdeath",
-            "demoman.m_mvm_meleedeath"
+            "demoman.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -3988,9 +3988,9 @@
         "base_name": "demoman_mvm_m_paincrticialdeath05",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_critdeath",
+            "demoman.m_mvm_meleedeath",
             "demoman.m_mvm_paincrticialdeath05",
-            "demoman.m_mvm_meleedeath"
+            "demoman.m_mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -4002,8 +4002,8 @@
         "base_name": "demoman_mvm_m_painsevere01",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_death",
-            "demoman.m_mvm_painsevere01"
+            "demoman.m_mvm_painsevere01",
+            "demoman.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -4015,8 +4015,8 @@
         "base_name": "demoman_mvm_m_painsevere02",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_death",
-            "demoman.m_mvm_painsevere02"
+            "demoman.m_mvm_painsevere02",
+            "demoman.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -4054,8 +4054,8 @@
         "base_name": "demoman_mvm_m_painsharp01",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_explosiondeath",
-            "demoman.m_mvm_painsharp01"
+            "demoman.m_mvm_painsharp01",
+            "demoman.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -4067,8 +4067,8 @@
         "base_name": "demoman_mvm_m_painsharp02",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_explosiondeath",
-            "demoman.m_mvm_painsharp02"
+            "demoman.m_mvm_painsharp02",
+            "demoman.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -4093,8 +4093,8 @@
         "base_name": "demoman_mvm_m_painsharp04",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_explosiondeath",
-            "demoman.m_mvm_painsharp04"
+            "demoman.m_mvm_painsharp04",
+            "demoman.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -4106,8 +4106,8 @@
         "base_name": "demoman_mvm_m_painsharp05",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_explosiondeath",
-            "demoman.m_mvm_painsharp05"
+            "demoman.m_mvm_painsharp05",
+            "demoman.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -4119,8 +4119,8 @@
         "base_name": "demoman_mvm_m_painsharp06",
         "criteria": [],
         "events": [
-            "demoman.m_mvm_explosiondeath",
-            "demoman.m_mvm_painsharp06"
+            "demoman.m_mvm_painsharp06",
+            "demoman.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -7451,8 +7451,8 @@
         "base_name": "heavy_mvm_m_painsevere01",
         "criteria": [],
         "events": [
-            "heavy.m_mvm_death",
-            "heavy.m_mvm_painsevere01"
+            "heavy.m_mvm_painsevere01",
+            "heavy.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -7516,8 +7516,8 @@
         "base_name": "heavy_mvm_m_painsharp03",
         "criteria": [],
         "events": [
-            "heavy.m_mvm_painsharp03",
-            "heavy.m_mvm_explosiondeath"
+            "heavy.m_mvm_explosiondeath",
+            "heavy.m_mvm_painsharp03"
         ],
         "responses": [],
         "rules": [],
@@ -9497,9 +9497,9 @@
         "base_name": "pyro_mvm_m_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_paincrticialdeath01",
             "pyro.m_mvm_critdeath",
-            "pyro.m_mvm_meleedeath"
+            "pyro.m_mvm_meleedeath",
+            "pyro.m_mvm_paincrticialdeath01"
         ],
         "responses": [],
         "rules": [],
@@ -9512,8 +9512,8 @@
         "criteria": [],
         "events": [
             "pyro.m_mvm_critdeath",
-            "pyro.m_mvm_meleedeath",
-            "pyro.m_mvm_paincrticialdeath02"
+            "pyro.m_mvm_paincrticialdeath02",
+            "pyro.m_mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -9525,9 +9525,9 @@
         "base_name": "pyro_mvm_m_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_paincrticialdeath03",
             "pyro.m_mvm_critdeath",
-            "pyro.m_mvm_meleedeath"
+            "pyro.m_mvm_meleedeath",
+            "pyro.m_mvm_paincrticialdeath03"
         ],
         "responses": [],
         "rules": [],
@@ -9539,8 +9539,8 @@
         "base_name": "pyro_mvm_m_painsevere01",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_death",
-            "pyro.m_mvm_painsevere01"
+            "pyro.m_mvm_painsevere01",
+            "pyro.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -9552,8 +9552,8 @@
         "base_name": "pyro_mvm_m_painsevere02",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_death",
-            "pyro.m_mvm_painsevere02"
+            "pyro.m_mvm_painsevere02",
+            "pyro.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -9617,8 +9617,8 @@
         "base_name": "pyro_mvm_m_painsharp01",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_painsharp01",
-            "pyro.m_mvm_explosiondeath"
+            "pyro.m_mvm_explosiondeath",
+            "pyro.m_mvm_painsharp01"
         ],
         "responses": [],
         "rules": [],
@@ -9643,8 +9643,8 @@
         "base_name": "pyro_mvm_m_painsharp03",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_painsharp03",
-            "pyro.m_mvm_explosiondeath"
+            "pyro.m_mvm_explosiondeath",
+            "pyro.m_mvm_painsharp03"
         ],
         "responses": [],
         "rules": [],
@@ -9656,8 +9656,8 @@
         "base_name": "pyro_mvm_m_painsharp04",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_explosiondeath",
-            "pyro.m_mvm_painsharp04"
+            "pyro.m_mvm_painsharp04",
+            "pyro.m_mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -9669,8 +9669,8 @@
         "base_name": "pyro_mvm_m_painsharp05",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_painsharp05",
-            "pyro.m_mvm_explosiondeath"
+            "pyro.m_mvm_explosiondeath",
+            "pyro.m_mvm_painsharp05"
         ],
         "responses": [],
         "rules": [],
@@ -9682,8 +9682,8 @@
         "base_name": "pyro_mvm_m_painsharp06",
         "criteria": [],
         "events": [
-            "pyro.m_mvm_painsharp06",
-            "pyro.m_mvm_explosiondeath"
+            "pyro.m_mvm_explosiondeath",
+            "pyro.m_mvm_painsharp06"
         ],
         "responses": [],
         "rules": [],
@@ -13597,8 +13597,8 @@
         "criteria": [],
         "events": [
             "scout.m_mvm_critdeath",
-            "scout.m_mvm_paincrticialdeath01",
-            "scout.m_mvm_meleedeath"
+            "scout.m_mvm_meleedeath",
+            "scout.m_mvm_paincrticialdeath01"
         ],
         "responses": [],
         "rules": [],
@@ -13610,9 +13610,9 @@
         "base_name": "scout_mvm_m_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "scout.m_mvm_paincrticialdeath02",
             "scout.m_mvm_critdeath",
-            "scout.m_mvm_meleedeath"
+            "scout.m_mvm_meleedeath",
+            "scout.m_mvm_paincrticialdeath02"
         ],
         "responses": [],
         "rules": [],
@@ -13624,9 +13624,9 @@
         "base_name": "scout_mvm_m_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "scout.m_mvm_paincrticialdeath03",
             "scout.m_mvm_critdeath",
-            "scout.m_mvm_meleedeath"
+            "scout.m_mvm_meleedeath",
+            "scout.m_mvm_paincrticialdeath03"
         ],
         "responses": [],
         "rules": [],
@@ -13664,8 +13664,8 @@
         "base_name": "scout_mvm_m_painsevere03",
         "criteria": [],
         "events": [
-            "scout.m_mvm_death",
-            "scout.m_mvm_painsevere03"
+            "scout.m_mvm_painsevere03",
+            "scout.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -13703,8 +13703,8 @@
         "base_name": "scout_mvm_m_painsevere06",
         "criteria": [],
         "events": [
-            "scout.m_mvm_death",
-            "scout.m_mvm_painsevere06"
+            "scout.m_mvm_painsevere06",
+            "scout.m_mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -13716,8 +13716,8 @@
         "base_name": "scout_mvm_m_painsharp01",
         "criteria": [],
         "events": [
-            "scout.m_mvm_painsharp01",
-            "scout.m_mvm_explosiondeath"
+            "scout.m_mvm_explosiondeath",
+            "scout.m_mvm_painsharp01"
         ],
         "responses": [],
         "rules": [],
@@ -13729,8 +13729,8 @@
         "base_name": "scout_mvm_m_painsharp02",
         "criteria": [],
         "events": [
-            "scout.m_mvm_painsharp02",
-            "scout.m_mvm_explosiondeath"
+            "scout.m_mvm_explosiondeath",
+            "scout.m_mvm_painsharp02"
         ],
         "responses": [],
         "rules": [],
@@ -13755,8 +13755,8 @@
         "base_name": "scout_mvm_m_painsharp04",
         "criteria": [],
         "events": [
-            "scout.m_mvm_painsharp04",
-            "scout.m_mvm_explosiondeath"
+            "scout.m_mvm_explosiondeath",
+            "scout.m_mvm_painsharp04"
         ],
         "responses": [],
         "rules": [],
@@ -13768,8 +13768,8 @@
         "base_name": "scout_mvm_m_painsharp05",
         "criteria": [],
         "events": [
-            "scout.m_mvm_painsharp05",
-            "scout.m_mvm_explosiondeath"
+            "scout.m_mvm_explosiondeath",
+            "scout.m_mvm_painsharp05"
         ],
         "responses": [],
         "rules": [],
@@ -13794,8 +13794,8 @@
         "base_name": "scout_mvm_m_painsharp07",
         "criteria": [],
         "events": [
-            "scout.m_mvm_painsharp07",
-            "scout.m_mvm_explosiondeath"
+            "scout.m_mvm_explosiondeath",
+            "scout.m_mvm_painsharp07"
         ],
         "responses": [],
         "rules": [],
@@ -17294,9 +17294,9 @@
         "base_name": "soldier_mvm_m_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "soldier.m_mvm_paincrticialdeath02",
             "soldier.m_mvm_critdeath",
-            "soldier.m_mvm_meleedeath"
+            "soldier.m_mvm_meleedeath",
+            "soldier.m_mvm_paincrticialdeath02"
         ],
         "responses": [],
         "rules": [],
@@ -17323,8 +17323,8 @@
         "criteria": [],
         "events": [
             "soldier.m_mvm_critdeath",
-            "soldier.m_mvm_paincrticialdeath04",
-            "soldier.m_mvm_meleedeath"
+            "soldier.m_mvm_meleedeath",
+            "soldier.m_mvm_paincrticialdeath04"
         ],
         "responses": [],
         "rules": [],
@@ -17362,8 +17362,8 @@
         "base_name": "soldier_mvm_m_painsevere03",
         "criteria": [],
         "events": [
-            "soldier.m_mvm_painsevere03",
-            "soldier.m_mvm_death"
+            "soldier.m_mvm_death",
+            "soldier.m_mvm_painsevere03"
         ],
         "responses": [],
         "rules": [],
@@ -17375,8 +17375,8 @@
         "base_name": "soldier_mvm_m_painsevere04",
         "criteria": [],
         "events": [
-            "soldier.m_mvm_painsevere04",
-            "soldier.m_mvm_death"
+            "soldier.m_mvm_death",
+            "soldier.m_mvm_painsevere04"
         ],
         "responses": [],
         "rules": [],
@@ -21438,9 +21438,9 @@
         "base_name": "demoman_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
+            "demoman.mvm_paincrticialdeath02",
             "demoman.mvm_meleedeath",
-            "demoman.mvm_critdeath",
-            "demoman.mvm_paincrticialdeath02"
+            "demoman.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -21452,9 +21452,9 @@
         "base_name": "demoman_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
+            "demoman.mvm_paincrticialdeath03",
             "demoman.mvm_meleedeath",
-            "demoman.mvm_critdeath",
-            "demoman.mvm_paincrticialdeath03"
+            "demoman.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -21466,9 +21466,9 @@
         "base_name": "demoman_mvm_paincrticialdeath04",
         "criteria": [],
         "events": [
+            "demoman.mvm_paincrticialdeath04",
             "demoman.mvm_meleedeath",
-            "demoman.mvm_critdeath",
-            "demoman.mvm_paincrticialdeath04"
+            "demoman.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -21480,9 +21480,9 @@
         "base_name": "demoman_mvm_paincrticialdeath05",
         "criteria": [],
         "events": [
+            "demoman.mvm_paincrticialdeath05",
             "demoman.mvm_meleedeath",
-            "demoman.mvm_critdeath",
-            "demoman.mvm_paincrticialdeath05"
+            "demoman.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -21494,8 +21494,8 @@
         "base_name": "demoman_mvm_painsevere01",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsevere01",
-            "demoman.mvm_death"
+            "demoman.mvm_death",
+            "demoman.mvm_painsevere01"
         ],
         "responses": [],
         "rules": [],
@@ -21520,8 +21520,8 @@
         "base_name": "demoman_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsevere03",
-            "demoman.mvm_death"
+            "demoman.mvm_death",
+            "demoman.mvm_painsevere03"
         ],
         "responses": [],
         "rules": [],
@@ -21533,8 +21533,8 @@
         "base_name": "demoman_mvm_painsevere04",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsevere04",
-            "demoman.mvm_death"
+            "demoman.mvm_death",
+            "demoman.mvm_painsevere04"
         ],
         "responses": [],
         "rules": [],
@@ -21546,8 +21546,8 @@
         "base_name": "demoman_mvm_painsharp01",
         "criteria": [],
         "events": [
-            "demoman.mvm_explosiondeath",
-            "demoman.mvm_painsharp01"
+            "demoman.mvm_painsharp01",
+            "demoman.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -21559,8 +21559,8 @@
         "base_name": "demoman_mvm_painsharp02",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsharp02",
-            "demoman.mvm_explosiondeath"
+            "demoman.mvm_explosiondeath",
+            "demoman.mvm_painsharp02"
         ],
         "responses": [],
         "rules": [],
@@ -21585,8 +21585,8 @@
         "base_name": "demoman_mvm_painsharp04",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsharp04",
-            "demoman.mvm_explosiondeath"
+            "demoman.mvm_explosiondeath",
+            "demoman.mvm_painsharp04"
         ],
         "responses": [],
         "rules": [],
@@ -21598,8 +21598,8 @@
         "base_name": "demoman_mvm_painsharp05",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsharp05",
-            "demoman.mvm_explosiondeath"
+            "demoman.mvm_explosiondeath",
+            "demoman.mvm_painsharp05"
         ],
         "responses": [],
         "rules": [],
@@ -21611,8 +21611,8 @@
         "base_name": "demoman_mvm_painsharp06",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsharp06",
-            "demoman.mvm_explosiondeath"
+            "demoman.mvm_explosiondeath",
+            "demoman.mvm_painsharp06"
         ],
         "responses": [],
         "rules": [],
@@ -21624,8 +21624,8 @@
         "base_name": "demoman_mvm_painsharp07",
         "criteria": [],
         "events": [
-            "demoman.mvm_painsharp07",
-            "demoman.mvm_explosiondeath"
+            "demoman.mvm_explosiondeath",
+            "demoman.mvm_painsharp07"
         ],
         "responses": [],
         "rules": [],
@@ -24650,8 +24650,8 @@
         "criteria": [],
         "events": [
             "engineer.mvm_meleedeath",
-            "engineer.mvm_critdeath",
-            "engineer.mvm_paincrticialdeath01"
+            "engineer.mvm_paincrticialdeath01",
+            "engineer.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -24664,8 +24664,8 @@
         "criteria": [],
         "events": [
             "engineer.mvm_meleedeath",
-            "engineer.mvm_critdeath",
-            "engineer.mvm_paincrticialdeath02"
+            "engineer.mvm_paincrticialdeath02",
+            "engineer.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -24678,8 +24678,8 @@
         "criteria": [],
         "events": [
             "engineer.mvm_meleedeath",
-            "engineer.mvm_critdeath",
-            "engineer.mvm_paincrticialdeath03"
+            "engineer.mvm_paincrticialdeath03",
+            "engineer.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -24692,8 +24692,8 @@
         "criteria": [],
         "events": [
             "engineer.mvm_meleedeath",
-            "engineer.mvm_paincrticialdeath04",
-            "engineer.mvm_critdeath"
+            "engineer.mvm_critdeath",
+            "engineer.mvm_paincrticialdeath04"
         ],
         "responses": [],
         "rules": [],
@@ -24705,9 +24705,9 @@
         "base_name": "engineer_mvm_paincrticialdeath05",
         "criteria": [],
         "events": [
+            "engineer.mvm_paincrticialdeath05",
             "engineer.mvm_meleedeath",
-            "engineer.mvm_critdeath",
-            "engineer.mvm_paincrticialdeath05"
+            "engineer.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -24746,8 +24746,8 @@
         "base_name": "engineer_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "engineer.mvm_painsevere02",
-            "engineer.mvm_death"
+            "engineer.mvm_death",
+            "engineer.mvm_painsevere02"
         ],
         "responses": [],
         "rules": [],
@@ -24785,8 +24785,8 @@
         "base_name": "engineer_mvm_painsevere05",
         "criteria": [],
         "events": [
-            "engineer.mvm_painsevere05",
-            "engineer.mvm_death"
+            "engineer.mvm_death",
+            "engineer.mvm_painsevere05"
         ],
         "responses": [],
         "rules": [],
@@ -24798,8 +24798,8 @@
         "base_name": "engineer_mvm_painsevere06",
         "criteria": [],
         "events": [
-            "engineer.mvm_death",
-            "engineer.mvm_painsevere06"
+            "engineer.mvm_painsevere06",
+            "engineer.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -24824,8 +24824,8 @@
         "base_name": "engineer_mvm_painsharp01",
         "criteria": [],
         "events": [
-            "engineer.mvm_painsharp01",
-            "engineer.mvm_explosiondeath"
+            "engineer.mvm_explosiondeath",
+            "engineer.mvm_painsharp01"
         ],
         "responses": [],
         "rules": [],
@@ -24876,8 +24876,8 @@
         "base_name": "engineer_mvm_painsharp05",
         "criteria": [],
         "events": [
-            "engineer.mvm_painsharp05",
-            "engineer.mvm_explosiondeath"
+            "engineer.mvm_explosiondeath",
+            "engineer.mvm_painsharp05"
         ],
         "responses": [],
         "rules": [],
@@ -27442,8 +27442,8 @@
         "base_name": "heavy_mvm_laughevil01",
         "criteria": [],
         "events": [
-            "heavy.mvm_laughevil01",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_laughevil01"
         ],
         "responses": [],
         "rules": [],
@@ -27455,8 +27455,8 @@
         "base_name": "heavy_mvm_laughevil02",
         "criteria": [],
         "events": [
-            "heavy.mvm_laughevil02",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_laughevil02"
         ],
         "responses": [],
         "rules": [],
@@ -27481,8 +27481,8 @@
         "base_name": "heavy_mvm_laughevil04",
         "criteria": [],
         "events": [
-            "heavy.mvm_laughevil04",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_laughevil04"
         ],
         "responses": [],
         "rules": [],
@@ -27782,8 +27782,8 @@
         "base_name": "heavy_mvm_meleedare01",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare01",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare01"
         ],
         "responses": [],
         "rules": [],
@@ -27808,8 +27808,8 @@
         "base_name": "heavy_mvm_meleedare03",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare03",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare03"
         ],
         "responses": [],
         "rules": [],
@@ -27821,8 +27821,8 @@
         "base_name": "heavy_mvm_meleedare04",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare04",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare04"
         ],
         "responses": [],
         "rules": [],
@@ -27834,8 +27834,8 @@
         "base_name": "heavy_mvm_meleedare05",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare05",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare05"
         ],
         "responses": [],
         "rules": [],
@@ -27847,8 +27847,8 @@
         "base_name": "heavy_mvm_meleedare06",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare06",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare06"
         ],
         "responses": [],
         "rules": [],
@@ -27860,8 +27860,8 @@
         "base_name": "heavy_mvm_meleedare07",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare07",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare07"
         ],
         "responses": [],
         "rules": [],
@@ -27873,8 +27873,8 @@
         "base_name": "heavy_mvm_meleedare08",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare08",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare08"
         ],
         "responses": [],
         "rules": [],
@@ -27899,8 +27899,8 @@
         "base_name": "heavy_mvm_meleedare10",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare10",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare10"
         ],
         "responses": [],
         "rules": [],
@@ -27912,8 +27912,8 @@
         "base_name": "heavy_mvm_meleedare11",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare11",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare11"
         ],
         "responses": [],
         "rules": [],
@@ -27925,8 +27925,8 @@
         "base_name": "heavy_mvm_meleedare12",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare12",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare12"
         ],
         "responses": [],
         "rules": [],
@@ -27938,8 +27938,8 @@
         "base_name": "heavy_mvm_meleedare13",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedare13",
-            "heavy.mvm_mobjabber"
+            "heavy.mvm_mobjabber",
+            "heavy.mvm_meleedare13"
         ],
         "responses": [],
         "rules": [],
@@ -28264,8 +28264,8 @@
         "criteria": [],
         "events": [
             "heavy.mvm_paincrticialdeath01",
-            "heavy.mvm_meleedeath",
-            "heavy.mvm_critdeath"
+            "heavy.mvm_critdeath",
+            "heavy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -28277,9 +28277,9 @@
         "base_name": "heavy_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "heavy.mvm_meleedeath",
+            "heavy.mvm_paincrticialdeath02",
             "heavy.mvm_critdeath",
-            "heavy.mvm_paincrticialdeath02"
+            "heavy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -28292,8 +28292,8 @@
         "criteria": [],
         "events": [
             "heavy.mvm_paincrticialdeath03",
-            "heavy.mvm_meleedeath",
-            "heavy.mvm_critdeath"
+            "heavy.mvm_critdeath",
+            "heavy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -28305,8 +28305,8 @@
         "base_name": "heavy_mvm_painsevere01",
         "criteria": [],
         "events": [
-            "heavy.mvm_death",
-            "heavy.mvm_painsevere01"
+            "heavy.mvm_painsevere01",
+            "heavy.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -28331,8 +28331,8 @@
         "base_name": "heavy_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "heavy.mvm_death",
-            "heavy.mvm_painsevere03"
+            "heavy.mvm_painsevere03",
+            "heavy.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -28344,8 +28344,8 @@
         "base_name": "heavy_mvm_painsharp01",
         "criteria": [],
         "events": [
-            "heavy.mvm_painsharp01",
-            "heavy.mvm_explosiondeath"
+            "heavy.mvm_explosiondeath",
+            "heavy.mvm_painsharp01"
         ],
         "responses": [],
         "rules": [],
@@ -28383,8 +28383,8 @@
         "base_name": "heavy_mvm_painsharp04",
         "criteria": [],
         "events": [
-            "heavy.mvm_explosiondeath",
-            "heavy.mvm_painsharp04"
+            "heavy.mvm_painsharp04",
+            "heavy.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31005,8 +31005,8 @@
         "base_name": "medic_mvm_paincrticialdeath01",
         "criteria": [],
         "events": [
-            "medic.mvm_meleedeath",
             "medic.mvm_critdeath",
+            "medic.mvm_meleedeath",
             "medic.mvm_paincrticialdeath01"
         ],
         "responses": [],
@@ -31019,9 +31019,9 @@
         "base_name": "medic_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "medic.mvm_meleedeath",
+            "medic.mvm_paincrticialdeath02",
             "medic.mvm_critdeath",
-            "medic.mvm_paincrticialdeath02"
+            "medic.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -31033,9 +31033,9 @@
         "base_name": "medic_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
+            "medic.mvm_critdeath",
             "medic.mvm_meleedeath",
-            "medic.mvm_paincrticialdeath03",
-            "medic.mvm_critdeath"
+            "medic.mvm_paincrticialdeath03"
         ],
         "responses": [],
         "rules": [],
@@ -31047,8 +31047,8 @@
         "base_name": "medic_mvm_paincrticialdeath04",
         "criteria": [],
         "events": [
-            "medic.mvm_meleedeath",
             "medic.mvm_critdeath",
+            "medic.mvm_meleedeath",
             "medic.mvm_paincrticialdeath04"
         ],
         "responses": [],
@@ -31074,8 +31074,8 @@
         "base_name": "medic_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "medic.mvm_painsevere02",
-            "medic.mvm_death"
+            "medic.mvm_death",
+            "medic.mvm_painsevere02"
         ],
         "responses": [],
         "rules": [],
@@ -31087,8 +31087,8 @@
         "base_name": "medic_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "medic.mvm_painsevere03",
-            "medic.mvm_death"
+            "medic.mvm_death",
+            "medic.mvm_painsevere03"
         ],
         "responses": [],
         "rules": [],
@@ -31100,8 +31100,8 @@
         "base_name": "medic_mvm_painsevere04",
         "criteria": [],
         "events": [
-            "medic.mvm_death",
-            "medic.mvm_painsevere04"
+            "medic.mvm_painsevere04",
+            "medic.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -31113,8 +31113,8 @@
         "base_name": "medic_mvm_painsharp01",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp01"
+            "medic.mvm_painsharp01",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31139,8 +31139,8 @@
         "base_name": "medic_mvm_painsharp03",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp03"
+            "medic.mvm_painsharp03",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31165,8 +31165,8 @@
         "base_name": "medic_mvm_painsharp05",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp05"
+            "medic.mvm_painsharp05",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31178,8 +31178,8 @@
         "base_name": "medic_mvm_painsharp06",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp06"
+            "medic.mvm_painsharp06",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31191,8 +31191,8 @@
         "base_name": "medic_mvm_painsharp07",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp07"
+            "medic.mvm_painsharp07",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -31204,8 +31204,8 @@
         "base_name": "medic_mvm_painsharp08",
         "criteria": [],
         "events": [
-            "medic.mvm_explosiondeath",
-            "medic.mvm_painsharp08"
+            "medic.mvm_painsharp08",
+            "medic.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -32106,8 +32106,8 @@
         "criteria": [],
         "events": [
             "pyro.mvm_paincrticialdeath01",
-            "pyro.mvm_meleedeath",
-            "pyro.mvm_critdeath"
+            "pyro.mvm_critdeath",
+            "pyro.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -32120,8 +32120,8 @@
         "criteria": [],
         "events": [
             "pyro.mvm_paincrticialdeath02",
-            "pyro.mvm_meleedeath",
-            "pyro.mvm_critdeath"
+            "pyro.mvm_critdeath",
+            "pyro.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -32134,8 +32134,8 @@
         "criteria": [],
         "events": [
             "pyro.mvm_paincrticialdeath03",
-            "pyro.mvm_meleedeath",
-            "pyro.mvm_critdeath"
+            "pyro.mvm_critdeath",
+            "pyro.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -32147,8 +32147,8 @@
         "base_name": "pyro_mvm_painsevere01",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere01"
+            "pyro.mvm_painsevere01",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32160,8 +32160,8 @@
         "base_name": "pyro_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere02"
+            "pyro.mvm_painsevere02",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32173,8 +32173,8 @@
         "base_name": "pyro_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere03"
+            "pyro.mvm_painsevere03",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32186,8 +32186,8 @@
         "base_name": "pyro_mvm_painsevere04",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere04"
+            "pyro.mvm_painsevere04",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32199,8 +32199,8 @@
         "base_name": "pyro_mvm_painsevere05",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere05"
+            "pyro.mvm_painsevere05",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32212,8 +32212,8 @@
         "base_name": "pyro_mvm_painsevere06",
         "criteria": [],
         "events": [
-            "pyro.mvm_death",
-            "pyro.mvm_painsevere06"
+            "pyro.mvm_painsevere06",
+            "pyro.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -32238,8 +32238,8 @@
         "base_name": "pyro_mvm_painsharp02",
         "criteria": [],
         "events": [
-            "pyro.mvm_explosiondeath",
-            "pyro.mvm_painsharp02"
+            "pyro.mvm_painsharp02",
+            "pyro.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -34920,8 +34920,8 @@
         "base_name": "scout_mvm_generic01",
         "criteria": [],
         "events": [
-            "scout.mvm_wanderjabber",
-            "scout.mvm_generic01"
+            "scout.mvm_generic01",
+            "scout.mvm_wanderjabber"
         ],
         "responses": [],
         "rules": [],
@@ -35353,8 +35353,8 @@
         "base_name": "scout_mvm_invinciblenotready01",
         "criteria": [],
         "events": [
-            "scout.mvm_invinciblenotready01",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_invinciblenotready01"
         ],
         "responses": [],
         "rules": [],
@@ -35822,8 +35822,8 @@
         "base_name": "scout_mvm_meleedare01",
         "criteria": [],
         "events": [
-            "scout.mvm_meleedare01",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_meleedare01"
         ],
         "responses": [],
         "rules": [],
@@ -35861,8 +35861,8 @@
         "base_name": "scout_mvm_meleedare04",
         "criteria": [],
         "events": [
-            "scout.mvm_meleedare04",
-            "scout.mvm_mobjabber"
+            "scout.mvm_mobjabber",
+            "scout.mvm_meleedare04"
         ],
         "responses": [],
         "rules": [],
@@ -35887,8 +35887,8 @@
         "base_name": "scout_mvm_meleedare06",
         "criteria": [],
         "events": [
-            "scout.mvm_meleedare06",
-            "scout.mvm_mobjabber"
+            "scout.mvm_mobjabber",
+            "scout.mvm_meleedare06"
         ],
         "responses": [],
         "rules": [],
@@ -35912,8 +35912,8 @@
         "base_name": "scout_mvm_misc02",
         "criteria": [],
         "events": [
-            "scout.mvm_misc02",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_misc02"
         ],
         "responses": [],
         "rules": [],
@@ -35950,8 +35950,8 @@
         "base_name": "scout_mvm_misc05",
         "criteria": [],
         "events": [
-            "scout.mvm_misc05",
-            "scout.mvm_mobjabber"
+            "scout.mvm_mobjabber",
+            "scout.mvm_misc05"
         ],
         "responses": [],
         "rules": [],
@@ -35987,8 +35987,8 @@
         "base_name": "scout_mvm_misc08",
         "criteria": [],
         "events": [
-            "scout.mvm_misc08",
-            "scout.mvm_mobjabber"
+            "scout.mvm_mobjabber",
+            "scout.mvm_misc08"
         ],
         "responses": [],
         "rules": [],
@@ -36000,8 +36000,8 @@
         "base_name": "scout_mvm_misc09",
         "criteria": [],
         "events": [
-            "scout.mvm_misc09",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_misc09"
         ],
         "responses": [],
         "rules": [],
@@ -36219,8 +36219,8 @@
         "criteria": [],
         "events": [
             "scout.mvm_paincrticialdeath01",
-            "scout.mvm_critdeath",
-            "scout.mvm_meleedeath"
+            "scout.mvm_meleedeath",
+            "scout.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -36233,8 +36233,8 @@
         "criteria": [],
         "events": [
             "scout.mvm_paincrticialdeath02",
-            "scout.mvm_critdeath",
-            "scout.mvm_meleedeath"
+            "scout.mvm_meleedeath",
+            "scout.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -36246,9 +36246,9 @@
         "base_name": "scout_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
-            "scout.mvm_critdeath",
+            "scout.mvm_meleedeath",
             "scout.mvm_paincrticialdeath03",
-            "scout.mvm_meleedeath"
+            "scout.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -36273,8 +36273,8 @@
         "base_name": "scout_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "scout.mvm_painsevere02",
-            "scout.mvm_death"
+            "scout.mvm_death",
+            "scout.mvm_painsevere02"
         ],
         "responses": [],
         "rules": [],
@@ -36312,8 +36312,8 @@
         "base_name": "scout_mvm_painsevere05",
         "criteria": [],
         "events": [
-            "scout.mvm_painsevere05",
-            "scout.mvm_death"
+            "scout.mvm_death",
+            "scout.mvm_painsevere05"
         ],
         "responses": [],
         "rules": [],
@@ -36325,8 +36325,8 @@
         "base_name": "scout_mvm_painsevere06",
         "criteria": [],
         "events": [
-            "scout.mvm_painsevere06",
-            "scout.mvm_death"
+            "scout.mvm_death",
+            "scout.mvm_painsevere06"
         ],
         "responses": [],
         "rules": [],
@@ -36351,8 +36351,8 @@
         "base_name": "scout_mvm_painsharp02",
         "criteria": [],
         "events": [
-            "scout.mvm_explosiondeath",
-            "scout.mvm_painsharp02"
+            "scout.mvm_painsharp02",
+            "scout.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -36377,8 +36377,8 @@
         "base_name": "scout_mvm_painsharp04",
         "criteria": [],
         "events": [
-            "scout.mvm_explosiondeath",
-            "scout.mvm_painsharp04"
+            "scout.mvm_painsharp04",
+            "scout.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -36403,8 +36403,8 @@
         "base_name": "scout_mvm_painsharp06",
         "criteria": [],
         "events": [
-            "scout.mvm_painsharp06",
-            "scout.mvm_explosiondeath"
+            "scout.mvm_explosiondeath",
+            "scout.mvm_painsharp06"
         ],
         "responses": [],
         "rules": [],
@@ -36416,8 +36416,8 @@
         "base_name": "scout_mvm_painsharp07",
         "criteria": [],
         "events": [
-            "scout.mvm_painsharp07",
-            "scout.mvm_explosiondeath"
+            "scout.mvm_explosiondeath",
+            "scout.mvm_painsharp07"
         ],
         "responses": [],
         "rules": [],
@@ -36454,8 +36454,8 @@
         "base_name": "scout_mvm_positivevocalization02",
         "criteria": [],
         "events": [
-            "scout.mvm_positivevocalization02",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_positivevocalization02"
         ],
         "responses": [],
         "rules": [],
@@ -36707,8 +36707,8 @@
         "base_name": "scout_mvm_specialcompleted04",
         "criteria": [],
         "events": [
-            "scout.mvm_specialcompleted04",
-            "scout.mvm_wanderjabber"
+            "scout.mvm_wanderjabber",
+            "scout.mvm_specialcompleted04"
         ],
         "responses": [],
         "rules": [],
@@ -41218,9 +41218,9 @@
         "base_name": "sniper_mvm_paincrticialdeath01",
         "criteria": [],
         "events": [
+            "sniper.mvm_paincrticialdeath01",
             "sniper.mvm_critdeath",
-            "sniper.mvm_meleedeath",
-            "sniper.mvm_paincrticialdeath01"
+            "sniper.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -41232,9 +41232,9 @@
         "base_name": "sniper_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
+            "sniper.mvm_paincrticialdeath02",
             "sniper.mvm_critdeath",
-            "sniper.mvm_meleedeath",
-            "sniper.mvm_paincrticialdeath02"
+            "sniper.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -41246,9 +41246,9 @@
         "base_name": "sniper_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
+            "sniper.mvm_paincrticialdeath03",
             "sniper.mvm_critdeath",
-            "sniper.mvm_meleedeath",
-            "sniper.mvm_paincrticialdeath03"
+            "sniper.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -41260,9 +41260,9 @@
         "base_name": "sniper_mvm_paincrticialdeath04",
         "criteria": [],
         "events": [
+            "sniper.mvm_paincrticialdeath04",
             "sniper.mvm_critdeath",
-            "sniper.mvm_meleedeath",
-            "sniper.mvm_paincrticialdeath04"
+            "sniper.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -45050,9 +45050,9 @@
         "base_name": "soldier_mvm_paincrticialdeath01",
         "criteria": [],
         "events": [
+            "soldier.mvm_meleedeath",
             "soldier.mvm_paincrticialdeath01",
-            "soldier.mvm_critdeath",
-            "soldier.mvm_meleedeath"
+            "soldier.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -45064,9 +45064,9 @@
         "base_name": "soldier_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
-            "soldier.mvm_critdeath",
+            "soldier.mvm_paincrticialdeath02",
             "soldier.mvm_meleedeath",
-            "soldier.mvm_paincrticialdeath02"
+            "soldier.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -45078,9 +45078,9 @@
         "base_name": "soldier_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
+            "soldier.mvm_meleedeath",
             "soldier.mvm_paincrticialdeath03",
-            "soldier.mvm_critdeath",
-            "soldier.mvm_meleedeath"
+            "soldier.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -45093,8 +45093,8 @@
         "criteria": [],
         "events": [
             "soldier.mvm_paincrticialdeath04",
-            "soldier.mvm_critdeath",
-            "soldier.mvm_meleedeath"
+            "soldier.mvm_meleedeath",
+            "soldier.mvm_critdeath"
         ],
         "responses": [],
         "rules": [],
@@ -45106,8 +45106,8 @@
         "base_name": "soldier_mvm_painsevere01",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere01",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere01"
         ],
         "responses": [],
         "rules": [],
@@ -45119,8 +45119,8 @@
         "base_name": "soldier_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere02",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere02"
         ],
         "responses": [],
         "rules": [],
@@ -45132,8 +45132,8 @@
         "base_name": "soldier_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere03",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere03"
         ],
         "responses": [],
         "rules": [],
@@ -45145,8 +45145,8 @@
         "base_name": "soldier_mvm_painsevere04",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere04",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere04"
         ],
         "responses": [],
         "rules": [],
@@ -45158,8 +45158,8 @@
         "base_name": "soldier_mvm_painsevere05",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere05",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere05"
         ],
         "responses": [],
         "rules": [],
@@ -45171,8 +45171,8 @@
         "base_name": "soldier_mvm_painsevere06",
         "criteria": [],
         "events": [
-            "soldier.mvm_painsevere06",
-            "soldier.mvm_death"
+            "soldier.mvm_death",
+            "soldier.mvm_painsevere06"
         ],
         "responses": [],
         "rules": [],
@@ -45197,8 +45197,8 @@
         "base_name": "soldier_mvm_painsharp02",
         "criteria": [],
         "events": [
-            "soldier.mvm_explosiondeath",
-            "soldier.mvm_painsharp02"
+            "soldier.mvm_painsharp02",
+            "soldier.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -45210,8 +45210,8 @@
         "base_name": "soldier_mvm_painsharp03",
         "criteria": [],
         "events": [
-            "soldier.mvm_explosiondeath",
-            "soldier.mvm_painsharp03"
+            "soldier.mvm_painsharp03",
+            "soldier.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -46422,8 +46422,8 @@
         "base_name": "spy_mvm_cloakedspy03",
         "criteria": [],
         "events": [
-            "spy.mvm_cloakedspy03",
-            "spy.mvm_teasevictim"
+            "spy.mvm_teasevictim",
+            "spy.mvm_cloakedspy03"
         ],
         "responses": [],
         "rules": [],
@@ -46435,8 +46435,8 @@
         "base_name": "spy_mvm_cloakedspy04",
         "criteria": [],
         "events": [
-            "spy.mvm_teasevictim",
-            "spy.mvm_cloakedspy04"
+            "spy.mvm_cloakedspy04",
+            "spy.mvm_teasevictim"
         ],
         "responses": [],
         "rules": [],
@@ -47781,8 +47781,8 @@
         "base_name": "spy_mvm_laughshort03",
         "criteria": [],
         "events": [
-            "spy.mvm_chuckle",
-            "spy.mvm_laughshort03"
+            "spy.mvm_laughshort03",
+            "spy.mvm_chuckle"
         ],
         "responses": [],
         "rules": [],
@@ -47806,8 +47806,8 @@
         "base_name": "spy_mvm_laughshort05",
         "criteria": [],
         "events": [
-            "spy.mvm_chuckle",
-            "spy.mvm_laughshort05"
+            "spy.mvm_laughshort05",
+            "spy.mvm_chuckle"
         ],
         "responses": [],
         "rules": [],
@@ -48156,8 +48156,8 @@
         "criteria": [],
         "events": [
             "spy.mvm_paincrticialdeath01",
-            "spy.mvm_meleedeath",
-            "spy.mvm_critdeath"
+            "spy.mvm_critdeath",
+            "spy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -48169,9 +48169,9 @@
         "base_name": "spy_mvm_paincrticialdeath02",
         "criteria": [],
         "events": [
+            "spy.mvm_critdeath",
             "spy.mvm_paincrticialdeath02",
-            "spy.mvm_meleedeath",
-            "spy.mvm_critdeath"
+            "spy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -48183,9 +48183,9 @@
         "base_name": "spy_mvm_paincrticialdeath03",
         "criteria": [],
         "events": [
+            "spy.mvm_critdeath",
             "spy.mvm_paincrticialdeath03",
-            "spy.mvm_meleedeath",
-            "spy.mvm_critdeath"
+            "spy.mvm_meleedeath"
         ],
         "responses": [],
         "rules": [],
@@ -48197,8 +48197,8 @@
         "base_name": "spy_mvm_painsevere01",
         "criteria": [],
         "events": [
-            "spy.mvm_painsevere01",
-            "spy.mvm_death"
+            "spy.mvm_death",
+            "spy.mvm_painsevere01"
         ],
         "responses": [],
         "rules": [],
@@ -48210,8 +48210,8 @@
         "base_name": "spy_mvm_painsevere02",
         "criteria": [],
         "events": [
-            "spy.mvm_painsevere02",
-            "spy.mvm_death"
+            "spy.mvm_death",
+            "spy.mvm_painsevere02"
         ],
         "responses": [],
         "rules": [],
@@ -48223,8 +48223,8 @@
         "base_name": "spy_mvm_painsevere03",
         "criteria": [],
         "events": [
-            "spy.mvm_death",
-            "spy.mvm_painsevere03"
+            "spy.mvm_painsevere03",
+            "spy.mvm_death"
         ],
         "responses": [],
         "rules": [],
@@ -48236,8 +48236,8 @@
         "base_name": "spy_mvm_painsevere04",
         "criteria": [],
         "events": [
-            "spy.mvm_painsevere04",
-            "spy.mvm_death"
+            "spy.mvm_death",
+            "spy.mvm_painsevere04"
         ],
         "responses": [],
         "rules": [],
@@ -48249,8 +48249,8 @@
         "base_name": "spy_mvm_painsevere05",
         "criteria": [],
         "events": [
-            "spy.mvm_painsevere05",
-            "spy.mvm_death"
+            "spy.mvm_death",
+            "spy.mvm_painsevere05"
         ],
         "responses": [],
         "rules": [],
@@ -48262,8 +48262,8 @@
         "base_name": "spy_mvm_painsharp01",
         "criteria": [],
         "events": [
-            "spy.mvm_explosiondeath",
-            "spy.mvm_painsharp01"
+            "spy.mvm_painsharp01",
+            "spy.mvm_explosiondeath"
         ],
         "responses": [],
         "rules": [],
@@ -48288,8 +48288,8 @@
         "base_name": "spy_mvm_painsharp03",
         "criteria": [],
         "events": [
-            "spy.mvm_painsharp03",
-            "spy.mvm_explosiondeath"
+            "spy.mvm_explosiondeath",
+            "spy.mvm_painsharp03"
         ],
         "responses": [],
         "rules": [],
@@ -48374,8 +48374,8 @@
         "base_name": "spy_mvm_revenge01",
         "criteria": [],
         "events": [
-            "spy.mvm_revenge01",
-            "spy.mvm_teasevictim"
+            "spy.mvm_teasevictim",
+            "spy.mvm_revenge01"
         ],
         "responses": [],
         "rules": [],
@@ -48387,8 +48387,8 @@
         "base_name": "spy_mvm_revenge02",
         "criteria": [],
         "events": [
-            "spy.mvm_teasevictim",
-            "spy.mvm_revenge02"
+            "spy.mvm_revenge02",
+            "spy.mvm_teasevictim"
         ],
         "responses": [],
         "rules": [],
@@ -48497,8 +48497,8 @@
         "base_name": "spy_mvm_specialcompleted04",
         "criteria": [],
         "events": [
-            "spy.mvm_teasevictim",
-            "spy.mvm_specialcompleted04"
+            "spy.mvm_specialcompleted04",
+            "spy.mvm_teasevictim"
         ],
         "responses": [],
         "rules": [],
@@ -48595,8 +48595,8 @@
         "base_name": "spy_mvm_specialcompleted12",
         "criteria": [],
         "events": [
-            "spy.mvm_teasevictim",
-            "spy.mvm_specialcompleted12"
+            "spy.mvm_specialcompleted12",
+            "spy.mvm_teasevictim"
         ],
         "responses": [],
         "rules": [],
