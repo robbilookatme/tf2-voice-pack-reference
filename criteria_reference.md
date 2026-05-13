@@ -687,7 +687,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>CaberHealthContext</dt>
   <dd>Passes if player has more than 43% health remaining</dd>
   <dt>IsCritical</dt>
-  <dd>Despite the name, passes if this rule call is any type of damage, only used by Ullapool Caber rule where it will always pass</dd>
+  <dd>Despite the name, set to pass for every call of ConceptPain or ConceptAttackerPain, only used by Ullapool Caber rule where it will always pass</dd>
 </dl>
 
 ### Heavy-Specific Criteria
