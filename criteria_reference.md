@@ -796,21 +796,21 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>IsWeaponPrimary</dt>
   <dd>True when player's selected weapon is a primary weapon</dd>
   <dt>WeaponIsNotVanillaPrimary</dt>
-  <dd>Passes if the primary weapon slot does not contain a stock weapon or a variant (e.g. Australium weapons will cause this criterion to not match)</dd>
+  <dd>Passes if the primary weapon slot does not contain a stock weapon or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>IsWeaponSecondary</dt>
   <dd>True when player's selected weapon is a secondary weapon</dd>
   <dt>WeaponIsNotVanillaSecondary</dt>
-  <dd>Passes if the secondary weapon slot does not contain a stock weapon or a variant</dd>
+  <dd>Passes if the secondary weapon slot does not contain a stock weapon or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>IsWeaponMelee</dt>
   <dd>True when player's selected weapon is a melee weapon</dd>
   <dt>WeaponIsNotVanillaMelee</dt>
-  <dd>Passes if the melee weapon slot does not contain a stock weapon with no skin or variant</dd>
+  <dd>Passes if the melee weapon slot does not contain a stock weapon with or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>IsNotWeaponMelee</dt>
   <dd>True when player's selected weapon is NOT a melee weapon</dd>
   <dt>IsWeaponPda</dt>
-  <dd>True when player's selected weapon is a PDA</dd>
+  <dd>Unused in rules, true when player's selected weapon is a PDA</dd>
   <dt>IsWeaponBuilding</dt>
-  <dd>True when player's selected weapon is a building</dd>
+  <dd>Unused in rules, true when player's selected weapon is a building</dd>
 </dl>
 
 ### Demoman Weapon Criteria
@@ -864,7 +864,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsNotRobotArm</dt>
   <dd>Passes if selected weapon is not The Gunslinger</dd>
   <dt>LoadoutIsNotRobotArm</dt>
-  <dd>Passes if loadout does not contain The Gunslinger</dd>
+  <dd>Unused in rules, passes if loadout does not contain The Gunslinger</dd>
   <dt>WeaponIsGoldenWrench</dt>
   <dd>Passes if selected weapon is The Golden Wrench</dd>
   <dt>WeaponIsEurekaEffect</dt>
@@ -887,7 +887,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsMinigun</dt>
   <dd>Passes if selected weapon is any minigun</dd>
   <dt>WeaponIsNotTaggedMinigun</dt>
-  <dd>Passes if selected weapon is not Minigun or a variant (Australium or Festivized)</dd>
+  <dd>Passes if selected weapon is not Minigun or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>WeaponIsNotTomislav</dt>
   <dd>Passes if selected weapon is not Tomislav</dd>
   <dt>WeaponIsShotgunHwg</dt>
@@ -926,7 +926,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsNotMediGun</dt>
   <dd>Passes if selected weapon is not any medigun</dd>
   <dt>WeaponIsNotTaggedMedigun</dt>
-  <dd>Passes if selected weapon is not Medi Gun or a variant (Australium or Festivized)</dd>
+  <dd>Passes if selected weapon is not Medi Gun or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>WeaponIsKritzkrieg</dt>
   <dd>Passes if selected weapon is The Kritzkrieg</dd>
   <dt>WeaponIsBonesaw</dt>
@@ -963,7 +963,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsLollichop</dt>
   <dd>Passes if selected weapon is The Lollichop</dd>
   <dt>WeaponIsPromoAnnihilator</dt>
-  <dd>Passes if selected weapon is Promo Neon Annihilator</dd>
+  <dd>Passes if selected weapon is Promo Neon Annihilator (defined in item schema, may not exist)</dd>
   <dt>WeaponIsAnnihilator</dt>
   <dd>Passes if selected weapon is The Neon Annihilator</dd>
   <dt>WeaponIsThirdDegree</dt>
@@ -1049,7 +1049,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsSniperrifle</dt>
   <dd>Passes if selected weapon is any sniper rifle except The Bazaar Bargain or The Classic</dd>
   <dt>WeaponIsNotTaggedRifle</dt>
-  <dd>Passes if selected weapon is not Sniper Rifle or a variant (Australium or Festivized)</dd>
+  <dd>Passes if selected weapon is not Sniper Rifle or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>WeaponIsBow</dt>
   <dd>Passes if selected weapon is The Huntsman or The Fortified Compound</dd>
   <dt>WeaponIsBazaarBargain</dt>
@@ -1058,10 +1058,10 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Classic</dd>
   <dt>WeaponIsSMG</dt>
   <dd>Passes if selected weapon is SMG</dd>
+  <dt>WeaponIsNotTaggedSMG</dt>
+  <dd>Passes if selected weapon is not SMG or a variant (Australium, Decorated, or Festivized)</dd>
   <dt>WeaponIsJarate</dt>
   <dd>Passes if selected weapon is The Jarate (not any reskin)</dd>
-  <dt>WeaponIsNotTaggedSMG</dt>
-  <dd>Passes if selected weapon is not SMG or a variant (Australium or Festivized)</dd>
   <dt>WeaponIsChargedSMG</dt>
   <dd>Passes if selected weapon is The Cleaner's Carbine</dd>
   <dt>WeaponIsClub</dt>
@@ -1085,6 +1085,8 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Beggar's Bazooka</dd>
   <dt>WeaponIsRocketLauncherAirStrike</dt>
   <dd>Passes if selected weapon is The Air Strike</dd>
+  <dt>WeaponIsShotgunSoldier</dt>
+  <dd>Passes if selected weapon is Shotgun (Soldier)</dd>
   <dt>WeaponIsBanner</dt>
   <dd>Passes if selected weapon is The Buff Banner</dd>
   <dt>WeaponIsFestiveBanner</dt>
@@ -1095,8 +1097,6 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Concheror</dd>
   <dt>WeaponIsRayGun</dt>
   <dd>Passes if selected weapon is The Righteous Bison</dd>
-  <dt>WeaponIsShotgunSoldier</dt>
-  <dd>Passes if selected weapon is Shotgun (Soldier)</dd>
   <dt>WeaponIsShovel</dt>
   <dd>Passes if selected weapon is Shovel</dd>
   <dt>WeaponIsEqualizer</dt>
@@ -1147,15 +1147,15 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
 
 <dl>
   <dt>HasTaunt2Item_TauntEnablerTest</dt>
-  <dd>Unused in rules, checks action slot for debug item "Taunt Enabler Test"</dd>
+  <dd>Unused in rules, always fails (checks action slot for debug item "Taunt Enabler Test")</dd>
   <dt>SF13IsTheWitchingHour</dt>
   <dd>Unused in rules, passes if world context "worldIsTheWitchingHour" is active</dd>
   <dt>SF13IsNotTheWitchingHour</dt>
   <dd>Unused in rules, passes if world context "worldIsTheWitchingHour" is not active</dd>
   <dt>WeaponIsShotgun</dt>
-  <dd>Unused in rules (compares to unused class "tf_weapon_shotgun_secondary")</dd>
+  <dd>Unused in rules, always fails (compares to unused class "tf_weapon_shotgun_secondary")</dd>
   <dt>WeaponIsSMGScout</dt>
-  <dd>Unused in rules (compares to unused class "tf_weapon_smg_scout")</dd>
+  <dd>Unused in rules, always fails (compares to unused class "tf_weapon_smg_scout")</dd>
 </dl>
 
 ## Context Criteria
