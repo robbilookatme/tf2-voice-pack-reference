@@ -878,7 +878,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsNotMiniSentrygun</dt>
   <dd>Passes if kill that triggered concept was not a Mini-Sentry kill</dd>
   <dt>WeaponIsNotSentrygun</dt>
-  <dd>Unused in rules, will never pass, compares to invalid "customdeath" value</dd>
+  <dd>Unused in rules, due to a bug will always pass for ConceptKilledPlayer and always fail for any other concept</dd>
 </dl>
 
 ### Heavy Weapon Criteria
