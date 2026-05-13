@@ -1118,6 +1118,11 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Spy-cicle</dd>
   <dt>WeaponIsSpyPDA</dt>
   <dd>Passes if selected weapon is Disguise Kit</dd>
+</dl>
+
+### Multi-class Weapon Criteria
+
+<dl>
   <dt>WeaponIsBuild</dt>
   <dd>Passes if selected weapon is of class tf_weapon_builder (Engineer's PDA or Spy's Sapper)</dd>
   <dt>WeaponIsPainTrain</dt>
@@ -1135,7 +1140,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsNotFryingPan</dt>
   <dd>Passes if selected weapon is not The Frying Pan</dd>
   <dt>WeaponIsGoldenFryingPan</dt>
-  <dd>Passes if selected weapon is The Gold Frying Pan</dd>
+  <dd>Passes if selected weapon is The Golden Frying Pan</dd>
 </dl>
 
 ### Unused Criteria
