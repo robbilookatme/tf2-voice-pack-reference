@@ -390,30 +390,32 @@ In the following list, I explain every criteria and when they are resolved as ma
 
 <dl>
   <dt>ConceptPlayerSpellBlastJump</dt>
-  <dd>Unused in rules, fires when seeing a Blast Jump or Bumper Car B.A.S.E. Jump spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy Blast Jump or Bumper Car B.A.S.E. Jump spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellSelfHeal</dt>
-  <dd>Unused in rules, fires when seeing a Overheal or Bumper Car Uber Heal spell on Halloween ma</dd>
+  <dd>Unused in rules, fires when seeing an enemy Overheal or Bumper Car Uber Heal spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellMerasmusZap</dt>
-  <dd>Unused in rules, fires when seeing a Swarm of Bats or Bumper Car Boxing Rocket on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy Swarm of Bats on Halloween maps (due to spell objects reusing code, also fires for Pumpkin MIRV, Shadow Leap, MONOCULUS, and Skeleton Horde spells)</dd>
   <dt>ConceptPlayerSpellMirv</dt>
-  <dd>Unused in rules, fires when seeing a Pumpkin MIRV spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing a Pumpkin MIRV spell on Halloween maps (and also fires for every pumpkin created by the spell)</dd>
   <dt>ConceptPlayerSpellStealth</dt>
-  <dd>Unused in rules, fires when seeing a Stealth spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy Stealth spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellTeleport</dt>
-  <dd>Unused in rules, fires when seeing a Shadow Leap spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy Shadow Leap spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellMonoculous</dt>
-  <dd>Unused in rules, fires when seeing a MONOCULUS spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy MONOCULUS spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellSkeletonHorde</dt>
-  <dd>Fires when seeing a Skeleton Horde spell on Halloween maps</dd>
+  <dd>Fires when seeing an enemy Skeleton Horde spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellLightningBall</dt>
-  <dd>Unused in rules, fires when seeing a Ball O' Lightning spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when an enemy Ball O' Lightning spell deals damage to anyone on Halloween maps</dd>
   <dt>ConceptPlayerSpellMeteorSwarm</dt>
-  <dd>Fires when seeing a Meteor Shower spell on Halloween maps</dd>
+  <dd>Never called, bugged (supposed to fire when seeing an enemy Meteor Shower spell on Halloween maps)</dd>
   <dt>ConceptPlayerSpellMovementBuff</dt>
-  <dd>Fires when seeing a Power Up spell on Halloween maps</dd>
+  <dd>Fires when seeing an enemy Power Up spell on Halloween maps</dd>
   <dt>ConceptPlayerSpellFireball</dt>
-  <dd>Fires when seeing a Bumper Car Bombonomicon Head spell on Halloween maps</dd>
+  <dd>Unused in rules, fires when seeing an enemy Fireball or Bumper Car Bombonomicon Head spell on Halloween maps (due to spell objects reusing code, also fires for every meteor created by Meteor Swarm spell)</dd>
 </dl>
+
+The only spell not accounted for is the Bumper Car Boxing Rocket spell, which is tied in game data to ConceptPlayerSpellMerasmusZap, but no concept is ever called in the spell's code.
 
 ## Criteria
 
