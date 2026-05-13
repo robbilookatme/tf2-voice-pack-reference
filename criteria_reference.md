@@ -661,29 +661,6 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if player is on a non-team-owned control point</dd>
 </dl>
 
-### Weapon Slot Criteria
-
-<dl>
-  <dt>IsWeaponPrimary</dt>
-  <dd>True when player's selected weapon is a primary weapon</dd>
-  <dt>WeaponIsNotVanillaPrimary</dt>
-  <dd>Passes if the primary weapon slot does not contain a stock weapon or a variant (e.g. Australium weapons will cause this criterion to not match)</dd>
-  <dt>IsWeaponSecondary</dt>
-  <dd>True when player's selected weapon is a secondary weapon</dd>
-  <dt>WeaponIsNotVanillaSecondary</dt>
-  <dd>Passes if the secondary weapon slot does not contain a stock weapon or a variant</dd>
-  <dt>IsWeaponMelee</dt>
-  <dd>True when player's selected weapon is a melee weapon</dd>
-  <dt>WeaponIsNotVanillaMelee</dt>
-  <dd>Passes if the melee weapon slot does not contain a stock weapon with no skin or variant</dd>
-  <dt>IsNotWeaponMelee</dt>
-  <dd>True when player's selected weapon is NOT a melee weapon</dd>
-  <dt>IsWeaponPda</dt>
-  <dd>True when player's selected weapon is a PDA</dd>
-  <dt>IsWeaponBuilding</dt>
-  <dd>True when player's selected weapon is a building</dd>
-</dl>
-
 ### Building Criteria
 
 <dl>
@@ -811,6 +788,29 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if players are not in the Hell section of Helltower</dd>
   <dt>IsMerasmusHiding</dt>
   <dd>Passes if Merasmus is subjecting players to hide and seek</dd>
+</dl>
+
+### Weapon Slot Criteria
+
+<dl>
+  <dt>IsWeaponPrimary</dt>
+  <dd>True when player's selected weapon is a primary weapon</dd>
+  <dt>WeaponIsNotVanillaPrimary</dt>
+  <dd>Passes if the primary weapon slot does not contain a stock weapon or a variant (e.g. Australium weapons will cause this criterion to not match)</dd>
+  <dt>IsWeaponSecondary</dt>
+  <dd>True when player's selected weapon is a secondary weapon</dd>
+  <dt>WeaponIsNotVanillaSecondary</dt>
+  <dd>Passes if the secondary weapon slot does not contain a stock weapon or a variant</dd>
+  <dt>IsWeaponMelee</dt>
+  <dd>True when player's selected weapon is a melee weapon</dd>
+  <dt>WeaponIsNotVanillaMelee</dt>
+  <dd>Passes if the melee weapon slot does not contain a stock weapon with no skin or variant</dd>
+  <dt>IsNotWeaponMelee</dt>
+  <dd>True when player's selected weapon is NOT a melee weapon</dd>
+  <dt>IsWeaponPda</dt>
+  <dd>True when player's selected weapon is a PDA</dd>
+  <dt>IsWeaponBuilding</dt>
+  <dd>True when player's selected weapon is a building</dd>
 </dl>
 
 ### Demoman Weapon Criteria
