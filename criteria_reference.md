@@ -878,7 +878,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>WeaponIsNotMiniSentrygun</dt>
   <dd>Passes if kill that triggered concept was not a Mini-Sentry kill</dd>
   <dt>WeaponIsNotSentrygun</dt>
-  <dd>Unused in rules, will never be matched, compares to invalid "customdeath" value</dd>
+  <dd>Unused in rules, will never pass, compares to invalid "customdeath" value</dd>
 </dl>
 
 ### Heavy Weapon Criteria
@@ -912,6 +912,31 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Killing Gloves of Boxing</dd>
   <dt>WeaponIsMetalFists</dt>
   <dd>Passes if selected weapon is The Fists of Steel</dd>
+</dl>
+
+### Medic Weapon Criteria
+
+<dl>
+  <dt>WeaponIsSyringe</dt>
+  <dd>Passes if selected weapon is Syringe Gun, The Overdose, or The Blutsauger</dd>
+  <dt>WeaponIsHealArrow</dt>
+  <dd>Passes if selected weapon is The Crusader's Crossbow</dd>
+  <dt>WeaponIsHeal</dt>
+  <dd>Passes if selected weapon is any medigun</dd>
+  <dt>WeaponIsNotMediGun</dt>
+  <dd>Passes if selected weapon is not any medigun</dd>
+  <dt>WeaponIsNotTaggedMedigun</dt>
+  <dd>Passes if selected weapon is not Medi Gun or a variant (Australium or Festivized)</dd>
+  <dt>WeaponIsKritzkrieg</dt>
+  <dd>Passes if selected weapon is The Kritzkrieg</dd>
+  <dt>WeaponIsBonesaw</dt>
+  <dd>Passes if selected weapon is any Medic melee</dd>
+  <dt>WeaponIsUbersaw</dt>
+  <dd>Passes if selected weapon is The Ubersaw</dd>
+  <dt>WeaponIsFestiveUbersaw</dt>
+  <dd>Passes if selected weapon is Festive Ubersaw</dd>
+  <dt>WeaponIsHippocrates</dt>
+  <dd>Passes if selected weapon is The Solemn Vow</dd>
 </dl>
 
 ### Pyro Weapon Criteria
@@ -1018,6 +1043,35 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Wrap Assassin</dd>
 </dl>
 
+### Sniper Weapon Criteria
+
+<dl>
+  <dt>WeaponIsSniperrifle</dt>
+  <dd>Passes if selected weapon is any sniper rifle except The Bazaar Bargain or The Classic</dd>
+  <dt>WeaponIsNotTaggedRifle</dt>
+  <dd>Passes if selected weapon is not Sniper Rifle or a variant (Australium or Festivized)</dd>
+  <dt>WeaponIsBow</dt>
+  <dd>Passes if selected weapon is The Huntsman or The Fortified Compound</dd>
+  <dt>WeaponIsBazaarBargain</dt>
+  <dd>Passes if selected weapon is The Bazaar Bargain</dd>
+  <dt>WeaponIsClassicSniperrifle</dt>
+  <dd>Passes if selected weapon is The Classic</dd>
+  <dt>WeaponIsSMG</dt>
+  <dd>Passes if selected weapon is SMG</dd>
+  <dt>WeaponIsJarate</dt>
+  <dd>Passes if selected weapon is The Jarate (not any reskin)</dd>
+  <dt>WeaponIsNotTaggedSMG</dt>
+  <dd>Passes if selected weapon is not SMG or a variant (Australium or Festivized)</dd>
+  <dt>WeaponIsChargedSMG</dt>
+  <dd>Passes if selected weapon is The Cleaner's Carbine</dd>
+  <dt>WeaponIsClub</dt>
+  <dd>Passes if selected weapon is any Sniper melee</dd>
+  <dt>WeaponIsNotTaggedKukri</dt>
+  <dd>Passes if selected weapon is not Kukri or a variant (Festivized)</dd>
+  <dt>WeaponIsShiv</dt>
+  <dd>Passes if selected weapon is The Tribalman's Shiv</dd>
+</dl>
+
 ### Soldier Weapon Criteria
 
 <dl>
@@ -1049,60 +1103,6 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if selected weapon is The Equalizer</dd>
   <dt>WeaponIsEscapePlan</dt>
   <dd>Passes if selected weapon is The Escape Plan</dd>
-</dl>
-
-### Medic Weapon Criteria
-
-<dl>
-  <dt>WeaponIsSyringe</dt>
-  <dd>Passes if selected weapon is Syringe Gun, The Overdose, or The Blutsauger</dd>
-  <dt>WeaponIsHealArrow</dt>
-  <dd>Passes if selected weapon is The Crusader's Crossbow</dd>
-  <dt>WeaponIsHeal</dt>
-  <dd>Passes if selected weapon is any medigun</dd>
-  <dt>WeaponIsNotMediGun</dt>
-  <dd>Passes if selected weapon is not any medigun</dd>
-  <dt>WeaponIsNotTaggedMedigun</dt>
-  <dd>Passes if selected weapon is not Medi Gun or a variant (Australium or Festivized)</dd>
-  <dt>WeaponIsKritzkrieg</dt>
-  <dd>Passes if selected weapon is The Kritzkrieg</dd>
-  <dt>WeaponIsBonesaw</dt>
-  <dd>Passes if selected weapon is any Medic melee</dd>
-  <dt>WeaponIsUbersaw</dt>
-  <dd>Passes if selected weapon is The Ubersaw</dd>
-  <dt>WeaponIsFestiveUbersaw</dt>
-  <dd>Passes if selected weapon is Festive Ubersaw</dd>
-  <dt>WeaponIsHippocrates</dt>
-  <dd>Passes if selected weapon is The Solemn Vow</dd>
-</dl>
-
-### Sniper Weapon Criteria
-
-<dl>
-  <dt>WeaponIsSniperrifle</dt>
-  <dd>Passes if selected weapon is any sniper rifle except The Bazaar Bargain or The Classic</dd>
-  <dt>WeaponIsNotTaggedRifle</dt>
-  <dd>Passes if selected weapon is not Sniper Rifle or a variant (Australium or Festivized)</dd>
-  <dt>WeaponIsBow</dt>
-  <dd>Passes if selected weapon is The Huntsman or The Fortified Compound</dd>
-  <dt>WeaponIsBazaarBargain</dt>
-  <dd>Passes if selected weapon is The Bazaar Bargain</dd>
-  <dt>WeaponIsClassicSniperrifle</dt>
-  <dd>Passes if selected weapon is The Classic</dd>
-  <dt>WeaponIsSMG</dt>
-  <dd>Passes if selected weapon is SMG</dd>
-  <dt>WeaponIsJarate</dt>
-  <dd>Passes if selected weapon is The Jarate (not any reskin)</dd>
-  <dt>WeaponIsNotTaggedSMG</dt>
-  <dd>Passes if selected weapon is not SMG or a variant (Australium or Festivized)</dd>
-  <dt>WeaponIsChargedSMG</dt>
-  <dd>Passes if selected weapon is The Cleaner's Carbine</dd>
-  <dt>WeaponIsClub</dt>
-  <dd>Passes if selected weapon is any Sniper melee</dd>
-  <dt>WeaponIsNotTaggedKukri</dt>
-  <dd>Passes if selected weapon is not Kukri or a variant (Festivized)</dd>
-  <dt>WeaponIsShiv</dt>
-  <dd>Passes if selected weapon is The Tribalman's Shiv</dd>
 </dl>
 
 ### Spy Weapon Criteria
@@ -1168,21 +1168,6 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if world context "worldDontKilledPlayer" is not active (not set in any maps as far as I can tell)</dd>
   <dt>IsNotDominating</dt>
   <dd>Passes if player has not said a domination line in the past 10 seconds</dd>
-</dl>
-
-### Heavy-Specific Context Criteria
-
-<dl>
-  <dt>IsNotDaring</dt>
-  <dd>Passes if player has not performed a melee dare in the past 5 seconds</dd>
-  <dt>IsHeavyFistsSwung</dt>
-  <dd>Passes if player has performed the first melee swing line as Heavy ("Take that!") in the past 10 seconds</dd>
-  <dt>IsNotHeavyFistsSwung</dt>
-  <dd>Passes if player has not performed the first melee swing line as Heavy ("Take that!") in the past 10 seconds</dd>
-  <dt>IsHeavyFistsSwinging</dt>
-  <dd>Unused in rules, will never pass due to comparing "HeavyFistsSwinging" to "1", when it is only ever set to "0" or "2"</dd>
-  <dt>IsNotHeavyFistsSwinging</dt>
-  <dd>Passes if player has not performed any followup melee swing line as Heavy in the past 10 seconds</dd>
 </dl>
 
 ### Demoman-Specific Context Criteria
@@ -1252,6 +1237,8 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
 ### Heavy-Specific Context Criteria
 
 <dl>
+
+<dl>
   <dt>HeavyIsNotStillonFire</dt>
   <dd>Passes if player as Heavy has not said a line related to being on fire in the past 7 seconds</dd>
   <dt>HeavyIsStillonFire</dt>
@@ -1286,6 +1273,17 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Passes if player as Heavy has not said a line thanking for healing in the past 20 seconds</dd>
   <dt>HeavyNotShinySpeech</dt>
   <dd>Passes if player as Heavy has not said a line when winding up a non-stock, non-Tomislav minigun in the past 5 minutes</dd>
+  <dt>IsNotDaring</dt>
+  <dd>Passes if player has not performed a melee dare in the past 5 seconds</dd>
+  <dt>IsHeavyFistsSwung</dt>
+  <dd>Passes if player has performed the first melee swing line as Heavy ("Take that!") in the past 10 seconds</dd>
+  <dt>IsNotHeavyFistsSwung</dt>
+  <dd>Passes if player has not performed the first melee swing line as Heavy ("Take that!") in the past 10 seconds</dd>
+  <dt>IsHeavyFistsSwinging</dt>
+  <dd>Unused in rules, will never pass due to comparing "HeavyFistsSwinging" to "1", when it is only ever set to "0" or "2"</dd>
+  <dt>IsNotHeavyFistsSwinging</dt>
+  <dd>Passes if player has not performed any followup melee swing line as Heavy in the past 10 seconds</dd>
+</dl>
   <dt>NotGunTauntHeavy</dt>
   <dd>Passes if player as Heavy has not insulted another non-Heavy player in the past 10 seconds</dd>
   <dt>HeavyIsKillSpeechObject</dt>
@@ -1346,7 +1344,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dd>Unused, is never set</dd>
 </dl>
 
-### SCOUT CONTEXT CRITERIA
+### Scout-Specific Context Criteria
 
 <dl>
   <dt>NotSaidScoutHitBallSpeech</dt>
