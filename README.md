@@ -142,7 +142,9 @@ As mentioned above, custom soundscripts do not work when connected to servers, s
 
 The ConceptPlayerExpression criteria fires every time a player model's facial expression updates. This is used in two circumstances. The first is for Halloween items like the Larval Lid, any Voodoo-Cursed Soul, or The Second Opinion, where it is used to randomly play lines while the player isn't doing anything in particular. The second is when the Sniper is aiming at a player, which causes him to mutter under his breath about something Australian probably. This criteria is unique in that it fires as soon as any choreography scene ends, including one triggered by a rule with this very critiera. In practice, that means that TF2's base dialogue lines which are triggered by the ConceptPlayerExpression criteria are timed out exactly in the choreography scenes, and any custom lines which are longer than the originals will be cut off.
 
-Please keep in mind that this information is collected from the game files, and in-game results may not reflect the data collected here exactly. I have done my best to confirm information collected here through code inspection and actual testing, but I encourage you to test this information yourself in-game.
+All sounds taken from map data are assumed to be used, as they would be called by map events rather than the normal dialogue system.
+
+Please keep in mind that even though this information is collected from the game files, in-game results may not reflect the data collected here exactly. I have done my best to confirm information collected here through code inspection and actual testing, but I encourage you to test this information yourself in-game.
 
 ### Thanks
 
