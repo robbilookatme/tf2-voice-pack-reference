@@ -3332,7 +3332,7 @@
             "scenes/player/medic/low/6832.vcd"
         ],
         "state": "used",
-        "transcript": "Medic: \"Ve did it! Haha!\" :Archimedes: \"Rraaaaa, kill your friends!\" Medic: \"Ah yes, I almost forgot.\""
+        "transcript": "Medic: \"Ve did it! Haha!\" Archimedes: \"Rraaaaa, kill your friends!\" Medic: \"Ah yes, I almost forgot.\""
     },
     "sound/vo/medic_item_zombiebird_on_fire01.mp3": {
         "base_name": "medic_item_zombiebird_on_fire01",
@@ -3384,7 +3384,7 @@
             "scenes/player/medic/low/6820.vcd"
         ],
         "state": "used",
-        "transcript": "Archimedes: \"Bwark, kill them all!\" :Medic: \"Shh.\""
+        "transcript": "Archimedes: \"Bwark, kill them all!\" Medic: \"Shh.\""
     },
     "sound/vo/medic_item_zombiebird_round_start02.mp3": {
         "base_name": "medic_item_zombiebird_round_start02",

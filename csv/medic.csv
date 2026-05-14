@@ -3126,7 +3126,7 @@ Your Line:,,,Rules:,['item_zombiebird_on_fireMedic']
 
 Filename:,medic_item_zombiebird_round_start01,,Events:,['medic_item_zombiebird_round_start01']
 Full Path:,sound/vo/medic_item_zombiebird_round_start01.mp3,,Scenes:,['scenes/player/medic/low/6820.vcd']
-Transcription:,"Archimedes: ""Bwark, kill them all!"" :Medic: ""Shh.""",,Responses:,['item_zombiebird_round_startMedic']
+Transcription:,"Archimedes: ""Bwark, kill them all!"" Medic: ""Shh.""",,Responses:,['item_zombiebird_round_startMedic']
 Your Line:,,,Rules:,['item_zombiebird_round_startMedic']
 ,,,Criteria:,"[['ConceptPlayerRoundStart', 'IsMedic', '100PercentChance', 'IsMedicZombieBird']]"
 
@@ -3174,7 +3174,7 @@ Your Line:,,,Rules:,['item_zombiebird_mvm_go_upgradeMedic']
 
 Filename:,medic_item_zombiebird_mvm_win01,,Events:,['medic_item_zombiebird_mvm_win01']
 Full Path:,sound/vo/medic_item_zombiebird_mvm_win01.mp3,,Scenes:,['scenes/player/medic/low/6832.vcd']
-Transcription:,"Medic: ""Ve did it! Haha!"" :Archimedes: ""Rraaaaa, kill your friends!"" Medic: ""Ah yes, I almost forgot.""",,Responses:,['item_zombiebird_mvm_winMedic']
+Transcription:,"Medic: ""Ve did it! Haha!"" Archimedes: ""Rraaaaa, kill your friends!"" Medic: ""Ah yes, I almost forgot.""",,Responses:,['item_zombiebird_mvm_winMedic']
 Your Line:,,,Rules:,['item_zombiebird_mvm_winMedic']
 ,,,Criteria:,"[['ConceptMvMWaveWin', '30PercentChance', 'IsMvMDefender', 'IsMedic', 'IsMedicZombieBird']]"
 
