@@ -129,7 +129,7 @@ Now that the audio has been processed, it can be saved in a format that TF2 will
 
 ### File/Folder Composition.
 
-The Source Engine loads modded files from a subfolder in the user's "custom" folder, expecting the same file path as that of the game's data. As an example, say you want to replace the file "engineer_revenge01.mp3". This is in the "vo" folder in the "sound" folder of the game's data. (Actually, it's in a .vpk file, which contains these same folders.) This means you should place your modified file in the following place:
+The Source Engine loads modded files from a subfolder in the user's "custom" folder, expecting the same file path as that of the game's data. As an example, say you want to replace the file "engineer_revenge01.mp3". This is in the "vo" folder in the "sound" folder of the game's data. (Actually, the original is in a .vpk file, which contains these same folders, but your mod doesn't have to be in a .vpk necessarily.) This means you should place your modified file in the following place:
 
 "(TF2 Installation Folder)/tf/custom/(Your Mod Name)/sound/vo/engineer_revenge01.mp3"
 

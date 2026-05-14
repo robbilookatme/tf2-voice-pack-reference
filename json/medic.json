@@ -1,5 +1,5 @@
 {
-    "vo/medic_activatecharge01.mp3": {
+    "sound/vo/medic_activatecharge01.mp3": {
         "base_name": "medic_activatecharge01",
         "criteria": [
             [
@@ -22,7 +22,7 @@
         "state": "used",
         "transcript": "Charge me, Herr Doktor."
     },
-    "vo/medic_activatecharge02.mp3": {
+    "sound/vo/medic_activatecharge02.mp3": {
         "base_name": "medic_activatecharge02",
         "criteria": [
             [
@@ -45,7 +45,7 @@
         "state": "used",
         "transcript": "Ready for ze charge, Herr Doktor."
     },
-    "vo/medic_activatecharge03.mp3": {
+    "sound/vo/medic_activatecharge03.mp3": {
         "base_name": "medic_activatecharge03",
         "criteria": [
             [
@@ -68,7 +68,7 @@
         "state": "used",
         "transcript": "Now is ze time, Herr Doktor."
     },
-    "vo/medic_autocappedcontrolpoint01.mp3": {
+    "sound/vo/medic_autocappedcontrolpoint01.mp3": {
         "base_name": "medic_autocappedcontrolpoint01",
         "criteria": [
             [
@@ -111,7 +111,7 @@
         "state": "used",
         "transcript": "Anuhza successful procedure!"
     },
-    "vo/medic_autocappedcontrolpoint02.mp3": {
+    "sound/vo/medic_autocappedcontrolpoint02.mp3": {
         "base_name": "medic_autocappedcontrolpoint02",
         "criteria": [
             [
@@ -134,7 +134,7 @@
         "state": "used",
         "transcript": "Zey are veakened!"
     },
-    "vo/medic_autocappedcontrolpoint03.mp3": {
+    "sound/vo/medic_autocappedcontrolpoint03.mp3": {
         "base_name": "medic_autocappedcontrolpoint03",
         "criteria": [
             [
@@ -163,7 +163,7 @@
         "state": "used",
         "transcript": "I am prepared to do vatever it takes!"
     },
-    "vo/medic_autocappedintelligence01.mp3": {
+    "sound/vo/medic_autocappedintelligence01.mp3": {
         "base_name": "medic_autocappedintelligence01",
         "criteria": [
             [
@@ -186,7 +186,7 @@
         "state": "used",
         "transcript": "How embarrassing. Zey let a man of science escape with ze papers!"
     },
-    "vo/medic_autocappedintelligence02.mp3": {
+    "sound/vo/medic_autocappedintelligence02.mp3": {
         "base_name": "medic_autocappedintelligence02",
         "criteria": [
             [
@@ -209,7 +209,7 @@
         "state": "used",
         "transcript": "Papers, please."
     },
-    "vo/medic_autocappedintelligence03.mp3": {
+    "sound/vo/medic_autocappedintelligence03.mp3": {
         "base_name": "medic_autocappedintelligence03",
         "criteria": [
             [
@@ -232,7 +232,7 @@
         "state": "used",
         "transcript": "Vere are your precious papers now, Dummkopfs?"
     },
-    "vo/medic_autochargeready01.mp3": {
+    "sound/vo/medic_autochargeready01.mp3": {
         "base_name": "medic_autochargeready01",
         "criteria": [
             [
@@ -261,7 +261,7 @@
         "state": "used",
         "transcript": "Ready to charge!"
     },
-    "vo/medic_autochargeready02.mp3": {
+    "sound/vo/medic_autochargeready02.mp3": {
         "base_name": "medic_autochargeready02",
         "criteria": [
             [
@@ -290,7 +290,7 @@
         "state": "used",
         "transcript": "I am fully charged!"
     },
-    "vo/medic_autochargeready03.mp3": {
+    "sound/vo/medic_autochargeready03.mp3": {
         "base_name": "medic_autochargeready03",
         "criteria": [
             [
@@ -319,7 +319,7 @@
         "state": "used",
         "transcript": "I am charged!"
     },
-    "vo/medic_autodejectedtie01.mp3": {
+    "sound/vo/medic_autodejectedtie01.mp3": {
         "base_name": "medic_autodejectedtie01",
         "criteria": [
             [
@@ -348,7 +348,7 @@
         "state": "used",
         "transcript": "Zis... is unacceptable!"
     },
-    "vo/medic_autodejectedtie02.mp3": {
+    "sound/vo/medic_autodejectedtie02.mp3": {
         "base_name": "medic_autodejectedtie02",
         "criteria": [
             [
@@ -371,7 +371,7 @@
         "state": "used",
         "transcript": "Anyvun still alive has let me down!"
     },
-    "vo/medic_autodejectedtie03.mp3": {
+    "sound/vo/medic_autodejectedtie03.mp3": {
         "base_name": "medic_autodejectedtie03",
         "criteria": [
             [
@@ -394,7 +394,7 @@
         "state": "used",
         "transcript": "Dawww..."
     },
-    "vo/medic_autodejectedtie04.mp3": {
+    "sound/vo/medic_autodejectedtie04.mp3": {
         "base_name": "medic_autodejectedtie04",
         "criteria": [
             [
@@ -430,7 +430,7 @@
         "state": "used",
         "transcript": "Schweinhunds!"
     },
-    "vo/medic_autodejectedtie05.mp3": {
+    "sound/vo/medic_autodejectedtie05.mp3": {
         "base_name": "medic_autodejectedtie05",
         "criteria": [
             [
@@ -463,7 +463,7 @@
         "state": "used",
         "transcript": "Awwww..."
     },
-    "vo/medic_autodejectedtie06.mp3": {
+    "sound/vo/medic_autodejectedtie06.mp3": {
         "base_name": "medic_autodejectedtie06",
         "criteria": [
             [
@@ -493,7 +493,7 @@
         "state": "used",
         "transcript": "Aiii..."
     },
-    "vo/medic_autodejectedtie07.mp3": {
+    "sound/vo/medic_autodejectedtie07.mp3": {
         "base_name": "medic_autodejectedtie07",
         "criteria": [
             [
@@ -529,7 +529,7 @@
         "state": "used",
         "transcript": "Hawww!"
     },
-    "vo/medic_autoonfire01.mp3": {
+    "sound/vo/medic_autoonfire01.mp3": {
         "base_name": "medic_autoonfire01",
         "criteria": [
             [
@@ -555,7 +555,7 @@
         "state": "used",
         "transcript": "Fire, fire, fire!"
     },
-    "vo/medic_autoonfire02.mp3": {
+    "sound/vo/medic_autoonfire02.mp3": {
         "base_name": "medic_autoonfire02",
         "criteria": [
             [
@@ -581,7 +581,7 @@
         "state": "used",
         "transcript": "Fiiiiire!"
     },
-    "vo/medic_autoonfire03.mp3": {
+    "sound/vo/medic_autoonfire03.mp3": {
         "base_name": "medic_autoonfire03",
         "criteria": [
             [
@@ -607,7 +607,7 @@
         "state": "used",
         "transcript": "I am on fire!"
     },
-    "vo/medic_autoonfire04.mp3": {
+    "sound/vo/medic_autoonfire04.mp3": {
         "base_name": "medic_autoonfire04",
         "criteria": [
             [
@@ -634,7 +634,7 @@
         "state": "used",
         "transcript": "Everyone, I am on fire!"
     },
-    "vo/medic_autoonfire05.mp3": {
+    "sound/vo/medic_autoonfire05.mp3": {
         "base_name": "medic_autoonfire05",
         "criteria": [
             [
@@ -661,7 +661,7 @@
         "state": "used",
         "transcript": "I am melting!"
     },
-    "vo/medic_battlecry01.mp3": {
+    "sound/vo/medic_battlecry01.mp3": {
         "base_name": "medic_battlecry01",
         "criteria": [
             [
@@ -693,7 +693,7 @@
         "state": "used",
         "transcript": "Raus, Raus!"
     },
-    "vo/medic_battlecry02.mp3": {
+    "sound/vo/medic_battlecry02.mp3": {
         "base_name": "medic_battlecry02",
         "criteria": [
             [
@@ -725,7 +725,7 @@
         "state": "used",
         "transcript": "Forward!"
     },
-    "vo/medic_battlecry03.mp3": {
+    "sound/vo/medic_battlecry03.mp3": {
         "base_name": "medic_battlecry03",
         "criteria": [
             [
@@ -754,7 +754,7 @@
         "state": "used",
         "transcript": "Heil us!"
     },
-    "vo/medic_battlecry04.mp3": {
+    "sound/vo/medic_battlecry04.mp3": {
         "base_name": "medic_battlecry04",
         "criteria": [
             [
@@ -789,7 +789,7 @@
         "state": "used",
         "transcript": "Hyaaaa!"
     },
-    "vo/medic_battlecry05.mp3": {
+    "sound/vo/medic_battlecry05.mp3": {
         "base_name": "medic_battlecry05",
         "criteria": [
             [
@@ -821,7 +821,7 @@
         "state": "used",
         "transcript": "Horrido!"
     },
-    "vo/medic_battlecry06.mp3": {
+    "sound/vo/medic_battlecry06.mp3": {
         "base_name": "medic_battlecry06",
         "criteria": [
             [
@@ -850,7 +850,7 @@
         "state": "used",
         "transcript": "Gesundheit!"
     },
-    "vo/medic_cartgoingbackoffense01.mp3": {
+    "sound/vo/medic_cartgoingbackoffense01.mp3": {
         "base_name": "medic_cartgoingbackoffense01",
         "criteria": [
             [
@@ -878,7 +878,7 @@
         "state": "used",
         "transcript": "Forvard, push ze cart forvard!"
     },
-    "vo/medic_cartgoingbackoffense02.mp3": {
+    "sound/vo/medic_cartgoingbackoffense02.mp3": {
         "base_name": "medic_cartgoingbackoffense02",
         "criteria": [
             [
@@ -906,7 +906,7 @@
         "state": "used",
         "transcript": "Vhy is ze cart moving backvards?"
     },
-    "vo/medic_cartgoingforwarddefense01.mp3": {
+    "sound/vo/medic_cartgoingforwarddefense01.mp3": {
         "base_name": "medic_cartgoingforwarddefense01",
         "criteria": [
             [
@@ -934,7 +934,7 @@
         "state": "used",
         "transcript": "Zhat cart must be shtopped!"
     },
-    "vo/medic_cartgoingforwarddefense02.mp3": {
+    "sound/vo/medic_cartgoingforwarddefense02.mp3": {
         "base_name": "medic_cartgoingforwarddefense02",
         "criteria": [
             [
@@ -962,7 +962,7 @@
         "state": "used",
         "transcript": "Shtopp zhat cart!"
     },
-    "vo/medic_cartgoingforwardoffense01.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense01.mp3": {
         "base_name": "medic_cartgoingforwardoffense01",
         "criteria": [
             [
@@ -990,7 +990,7 @@
         "state": "used",
         "transcript": "Push!"
     },
-    "vo/medic_cartgoingforwardoffense02.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense02.mp3": {
         "base_name": "medic_cartgoingforwardoffense02",
         "criteria": [
             [
@@ -1018,7 +1018,7 @@
         "state": "used",
         "transcript": "Puuuush!"
     },
-    "vo/medic_cartgoingforwardoffense03.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense03.mp3": {
         "base_name": "medic_cartgoingforwardoffense03",
         "criteria": [
             [
@@ -1046,7 +1046,7 @@
         "state": "used",
         "transcript": "Everyvun! Push!"
     },
-    "vo/medic_cartgoingforwardoffense04.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense04.mp3": {
         "base_name": "medic_cartgoingforwardoffense04",
         "criteria": [
             [
@@ -1074,7 +1074,7 @@
         "state": "used",
         "transcript": "Push ze cart!"
     },
-    "vo/medic_cartgoingforwardoffense05.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense05.mp3": {
         "base_name": "medic_cartgoingforwardoffense05",
         "criteria": [
             [
@@ -1102,7 +1102,7 @@
         "state": "used",
         "transcript": "Everyvun, push ze cart!"
     },
-    "vo/medic_cartgoingforwardoffense06.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense06.mp3": {
         "base_name": "medic_cartgoingforwardoffense06",
         "criteria": [
             [
@@ -1130,7 +1130,7 @@
         "state": "used",
         "transcript": "Raus, Raus!"
     },
-    "vo/medic_cartgoingforwardoffense07.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense07.mp3": {
         "base_name": "medic_cartgoingforwardoffense07",
         "criteria": [
             [
@@ -1158,7 +1158,7 @@
         "state": "used",
         "transcript": "Push! Schnell!"
     },
-    "vo/medic_cartgoingforwardoffense08.mp3": {
+    "sound/vo/medic_cartgoingforwardoffense08.mp3": {
         "base_name": "medic_cartgoingforwardoffense08",
         "criteria": [
             [
@@ -1186,7 +1186,7 @@
         "state": "used",
         "transcript": "Push damn you push!"
     },
-    "vo/medic_cartstaycloseoffense01.mp3": {
+    "sound/vo/medic_cartstaycloseoffense01.mp3": {
         "base_name": "medic_cartstaycloseoffense01",
         "criteria": [
             [
@@ -1214,7 +1214,7 @@
         "state": "used",
         "transcript": "Everyvun, stay close to zhe cart!"
     },
-    "vo/medic_cartstaycloseoffense02.mp3": {
+    "sound/vo/medic_cartstaycloseoffense02.mp3": {
         "base_name": "medic_cartstaycloseoffense02",
         "criteria": [
             [
@@ -1242,7 +1242,7 @@
         "state": "used",
         "transcript": "Do not leave zhe cart, dummkopfs!"
     },
-    "vo/medic_cartstaycloseoffense03.mp3": {
+    "sound/vo/medic_cartstaycloseoffense03.mp3": {
         "base_name": "medic_cartstaycloseoffense03",
         "criteria": [
             [
@@ -1270,7 +1270,7 @@
         "state": "used",
         "transcript": "Stay close to zhe cart!"
     },
-    "vo/medic_cartstopitdefense01.mp3": {
+    "sound/vo/medic_cartstopitdefense01.mp3": {
         "base_name": "medic_cartstopitdefense01",
         "criteria": [
             [
@@ -1298,7 +1298,7 @@
         "state": "used",
         "transcript": "Everyone, we must stop zhat bomb!"
     },
-    "vo/medic_cartstoppedoffense01.mp3": {
+    "sound/vo/medic_cartstoppedoffense01.mp3": {
         "base_name": "medic_cartstoppedoffense01",
         "criteria": [
             [
@@ -1326,7 +1326,7 @@
         "state": "used",
         "transcript": "Zhe cart is not moving!"
     },
-    "vo/medic_cartstoppedoffense02.mp3": {
+    "sound/vo/medic_cartstoppedoffense02.mp3": {
         "base_name": "medic_cartstoppedoffense02",
         "criteria": [
             [
@@ -1354,7 +1354,7 @@
         "state": "used",
         "transcript": "Who stopped pushing zhe cart?! I want names!"
     },
-    "vo/medic_cartstoppedoffense03.mp3": {
+    "sound/vo/medic_cartstoppedoffense03.mp3": {
         "base_name": "medic_cartstoppedoffense03",
         "criteria": [
             [
@@ -1382,7 +1382,7 @@
         "state": "used",
         "transcript": "Vhy is no one else pushing zhis cart?!"
     },
-    "vo/medic_cartstoppedoffense04.mp3": {
+    "sound/vo/medic_cartstoppedoffense04.mp3": {
         "base_name": "medic_cartstoppedoffense04",
         "criteria": [
             [
@@ -1410,7 +1410,7 @@
         "state": "used",
         "transcript": "Who stopped pushing zhe cart?!"
     },
-    "vo/medic_cheers01.mp3": {
+    "sound/vo/medic_cheers01.mp3": {
         "base_name": "medic_cheers01",
         "criteria": [
             [
@@ -1436,7 +1436,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/medic_cheers02.mp3": {
+    "sound/vo/medic_cheers02.mp3": {
         "base_name": "medic_cheers02",
         "criteria": [
             [
@@ -1466,7 +1466,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/medic_cheers03.mp3": {
+    "sound/vo/medic_cheers03.mp3": {
         "base_name": "medic_cheers03",
         "criteria": [
             [
@@ -1489,7 +1489,7 @@
         "state": "used",
         "transcript": "Keep it up!"
     },
-    "vo/medic_cheers04.mp3": {
+    "sound/vo/medic_cheers04.mp3": {
         "base_name": "medic_cheers04",
         "criteria": [
             [
@@ -1516,7 +1516,7 @@
         "state": "used",
         "transcript": "Sturm und Drang!"
     },
-    "vo/medic_cheers05.mp3": {
+    "sound/vo/medic_cheers05.mp3": {
         "base_name": "medic_cheers05",
         "criteria": [
             [
@@ -1546,7 +1546,7 @@
         "state": "used",
         "transcript": "I am ze \u00dcbermensch!"
     },
-    "vo/medic_cheers06.mp3": {
+    "sound/vo/medic_cheers06.mp3": {
         "base_name": "medic_cheers06",
         "criteria": [
             [
@@ -1586,7 +1586,7 @@
         "state": "used",
         "transcript": "Oktoberfest!"
     },
-    "vo/medic_cloakedspy01.mp3": {
+    "sound/vo/medic_cloakedspy01.mp3": {
         "base_name": "medic_cloakedspy01",
         "criteria": [
             [
@@ -1609,7 +1609,7 @@
         "state": "used",
         "transcript": "Spy!"
     },
-    "vo/medic_cloakedspy02.mp3": {
+    "sound/vo/medic_cloakedspy02.mp3": {
         "base_name": "medic_cloakedspy02",
         "criteria": [
             [
@@ -1632,7 +1632,7 @@
         "state": "used",
         "transcript": "Achtung! Spy!"
     },
-    "vo/medic_cloakedspyidentify01.mp3": {
+    "sound/vo/medic_cloakedspyidentify01.mp3": {
         "base_name": "medic_cloakedspyidentify01",
         "criteria": [
             [
@@ -1656,7 +1656,7 @@
         "state": "used",
         "transcript": "Ze Scout is a Spy!"
     },
-    "vo/medic_cloakedspyidentify02.mp3": {
+    "sound/vo/medic_cloakedspyidentify02.mp3": {
         "base_name": "medic_cloakedspyidentify02",
         "criteria": [
             [
@@ -1680,7 +1680,7 @@
         "state": "used",
         "transcript": "Ze Soldier is a Spy!"
     },
-    "vo/medic_cloakedspyidentify03.mp3": {
+    "sound/vo/medic_cloakedspyidentify03.mp3": {
         "base_name": "medic_cloakedspyidentify03",
         "criteria": [
             [
@@ -1704,7 +1704,7 @@
         "state": "used",
         "transcript": "Ze Heavy is a Spy!"
     },
-    "vo/medic_cloakedspyidentify04.mp3": {
+    "sound/vo/medic_cloakedspyidentify04.mp3": {
         "base_name": "medic_cloakedspyidentify04",
         "criteria": [
             [
@@ -1728,7 +1728,7 @@
         "state": "used",
         "transcript": "Ze Pyro is a Spy!"
     },
-    "vo/medic_cloakedspyidentify05.mp3": {
+    "sound/vo/medic_cloakedspyidentify05.mp3": {
         "base_name": "medic_cloakedspyidentify05",
         "criteria": [
             [
@@ -1752,7 +1752,7 @@
         "state": "used",
         "transcript": "Ze Demoman is a Spy!"
     },
-    "vo/medic_cloakedspyidentify06.mp3": {
+    "sound/vo/medic_cloakedspyidentify06.mp3": {
         "base_name": "medic_cloakedspyidentify06",
         "criteria": [
             [
@@ -1776,7 +1776,7 @@
         "state": "used",
         "transcript": "Ze Spy is a double agent!"
     },
-    "vo/medic_cloakedspyidentify07.mp3": {
+    "sound/vo/medic_cloakedspyidentify07.mp3": {
         "base_name": "medic_cloakedspyidentify07",
         "criteria": [
             [
@@ -1800,7 +1800,7 @@
         "state": "used",
         "transcript": "Ze Medic is a Spy!"
     },
-    "vo/medic_cloakedspyidentify08.mp3": {
+    "sound/vo/medic_cloakedspyidentify08.mp3": {
         "base_name": "medic_cloakedspyidentify08",
         "criteria": [
             [
@@ -1824,7 +1824,7 @@
         "state": "used",
         "transcript": "Ze Engineer is a Spy!"
     },
-    "vo/medic_cloakedspyidentify09.mp3": {
+    "sound/vo/medic_cloakedspyidentify09.mp3": {
         "base_name": "medic_cloakedspyidentify09",
         "criteria": [
             [
@@ -1848,7 +1848,7 @@
         "state": "used",
         "transcript": "Ze Sniper is a Spy!"
     },
-    "vo/medic_go01.mp3": {
+    "sound/vo/medic_go01.mp3": {
         "base_name": "medic_go01",
         "criteria": [
             [
@@ -1874,7 +1874,7 @@
         "state": "used",
         "transcript": "Mach schnell!"
     },
-    "vo/medic_go02.mp3": {
+    "sound/vo/medic_go02.mp3": {
         "base_name": "medic_go02",
         "criteria": [
             [
@@ -1900,7 +1900,7 @@
         "state": "used",
         "transcript": "Schnell! Raus, RAUS!"
     },
-    "vo/medic_go03.mp3": {
+    "sound/vo/medic_go03.mp3": {
         "base_name": "medic_go03",
         "criteria": [
             [
@@ -1926,7 +1926,7 @@
         "state": "used",
         "transcript": "Move! Schnell!"
     },
-    "vo/medic_go04.mp3": {
+    "sound/vo/medic_go04.mp3": {
         "base_name": "medic_go04",
         "criteria": [
             [
@@ -1952,7 +1952,7 @@
         "state": "used",
         "transcript": "Los, Weiter!"
     },
-    "vo/medic_go05.mp3": {
+    "sound/vo/medic_go05.mp3": {
         "base_name": "medic_go05",
         "criteria": [],
         "events": [
@@ -1968,7 +1968,7 @@
         "state": "used",
         "transcript": "Los, los!"
     },
-    "vo/medic_goodjob01.mp3": {
+    "sound/vo/medic_goodjob01.mp3": {
         "base_name": "medic_goodjob01",
         "criteria": [
             [
@@ -1991,7 +1991,7 @@
         "state": "used",
         "transcript": "Good verk!"
     },
-    "vo/medic_goodjob02.mp3": {
+    "sound/vo/medic_goodjob02.mp3": {
         "base_name": "medic_goodjob02",
         "criteria": [
             [
@@ -2023,7 +2023,7 @@
         "state": "used",
         "transcript": "Stupendous!"
     },
-    "vo/medic_goodjob03.mp3": {
+    "sound/vo/medic_goodjob03.mp3": {
         "base_name": "medic_goodjob03",
         "criteria": [
             [
@@ -2046,7 +2046,7 @@
         "state": "used",
         "transcript": "Amazing, kamerad!"
     },
-    "vo/medic_hat_taunts01.mp3": {
+    "sound/vo/medic_hat_taunts01.mp3": {
         "base_name": "medic_hat_taunts01",
         "criteria": [],
         "events": [
@@ -2058,7 +2058,7 @@
         "state": "used",
         "transcript": "Oh ho, your awful hat, it's killing me! Haha!"
     },
-    "vo/medic_hat_taunts02.mp3": {
+    "sound/vo/medic_hat_taunts02.mp3": {
         "base_name": "medic_hat_taunts02",
         "criteria": [],
         "events": [
@@ -2070,7 +2070,7 @@
         "state": "used",
         "transcript": "In my medical opinion, zhat hat looks ridiculous. Here's a second opinion: YOU'RE DEAD! Haha!"
     },
-    "vo/medic_hat_taunts03.mp3": {
+    "sound/vo/medic_hat_taunts03.mp3": {
         "base_name": "medic_hat_taunts03",
         "criteria": [],
         "events": [
@@ -2082,7 +2082,7 @@
         "state": "used",
         "transcript": "Zhe patient died, but sadly, his terrible hat lives on!"
     },
-    "vo/medic_hat_taunts04.mp3": {
+    "sound/vo/medic_hat_taunts04.mp3": {
         "base_name": "medic_hat_taunts04",
         "criteria": [],
         "events": [
@@ -2094,7 +2094,7 @@
         "state": "used",
         "transcript": "Confidentially doctor-to-patient, that is a STUPID HAT!"
     },
-    "vo/medic_headleft01.mp3": {
+    "sound/vo/medic_headleft01.mp3": {
         "base_name": "medic_headleft01",
         "criteria": [
             [
@@ -2117,7 +2117,7 @@
         "state": "used",
         "transcript": "Left!"
     },
-    "vo/medic_headleft02.mp3": {
+    "sound/vo/medic_headleft02.mp3": {
         "base_name": "medic_headleft02",
         "criteria": [
             [
@@ -2140,7 +2140,7 @@
         "state": "used",
         "transcript": "Go left!"
     },
-    "vo/medic_headleft03.mp3": {
+    "sound/vo/medic_headleft03.mp3": {
         "base_name": "medic_headleft03",
         "criteria": [
             [
@@ -2163,7 +2163,7 @@
         "state": "used",
         "transcript": "Left, left!"
     },
-    "vo/medic_headright01.mp3": {
+    "sound/vo/medic_headright01.mp3": {
         "base_name": "medic_headright01",
         "criteria": [
             [
@@ -2186,7 +2186,7 @@
         "state": "used",
         "transcript": "Right!"
     },
-    "vo/medic_headright02.mp3": {
+    "sound/vo/medic_headright02.mp3": {
         "base_name": "medic_headright02",
         "criteria": [
             [
@@ -2209,7 +2209,7 @@
         "state": "used",
         "transcript": "Go right!"
     },
-    "vo/medic_headright03.mp3": {
+    "sound/vo/medic_headright03.mp3": {
         "base_name": "medic_headright03",
         "criteria": [
             [
@@ -2232,7 +2232,7 @@
         "state": "used",
         "transcript": "Right, right!"
     },
-    "vo/medic_helpme01.mp3": {
+    "sound/vo/medic_helpme01.mp3": {
         "base_name": "medic_helpme01",
         "criteria": [
             [
@@ -2255,7 +2255,7 @@
         "state": "used",
         "transcript": "Help!"
     },
-    "vo/medic_helpme02.mp3": {
+    "sound/vo/medic_helpme02.mp3": {
         "base_name": "medic_helpme02",
         "criteria": [
             [
@@ -2278,7 +2278,7 @@
         "state": "used",
         "transcript": "I require assistance!"
     },
-    "vo/medic_helpme03.mp3": {
+    "sound/vo/medic_helpme03.mp3": {
         "base_name": "medic_helpme03",
         "criteria": [
             [
@@ -2301,7 +2301,7 @@
         "state": "used",
         "transcript": "Assistance, bitte!"
     },
-    "vo/medic_helpmecapture01.mp3": {
+    "sound/vo/medic_helpmecapture01.mp3": {
         "base_name": "medic_helpmecapture01",
         "criteria": [
             [
@@ -2326,7 +2326,7 @@
         "state": "used",
         "transcript": "Help me secure this point!"
     },
-    "vo/medic_helpmecapture02.mp3": {
+    "sound/vo/medic_helpmecapture02.mp3": {
         "base_name": "medic_helpmecapture02",
         "criteria": [
             [
@@ -2351,7 +2351,7 @@
         "state": "used",
         "transcript": "I need help with zis point! Schnell!"
     },
-    "vo/medic_helpmedefend01.mp3": {
+    "sound/vo/medic_helpmedefend01.mp3": {
         "base_name": "medic_helpmedefend01",
         "criteria": [
             [
@@ -2375,7 +2375,7 @@
         "state": "used",
         "transcript": "Ve must defend zis point!"
     },
-    "vo/medic_helpmedefend02.mp3": {
+    "sound/vo/medic_helpmedefend02.mp3": {
         "base_name": "medic_helpmedefend02",
         "criteria": [
             [
@@ -2399,7 +2399,7 @@
         "state": "used",
         "transcript": "Must I defend zis point myself?!"
     },
-    "vo/medic_helpmedefend03.mp3": {
+    "sound/vo/medic_helpmedefend03.mp3": {
         "base_name": "medic_helpmedefend03",
         "criteria": [
             [
@@ -2423,7 +2423,7 @@
         "state": "used",
         "transcript": "Defend ze point!"
     },
-    "vo/medic_incoming01.mp3": {
+    "sound/vo/medic_incoming01.mp3": {
         "base_name": "medic_incoming01",
         "criteria": [
             [
@@ -2449,7 +2449,7 @@
         "state": "used",
         "transcript": "Incoming."
     },
-    "vo/medic_incoming02.mp3": {
+    "sound/vo/medic_incoming02.mp3": {
         "base_name": "medic_incoming02",
         "criteria": [
             [
@@ -2478,7 +2478,7 @@
         "state": "used",
         "transcript": "Incoming!"
     },
-    "vo/medic_incoming03.mp3": {
+    "sound/vo/medic_incoming03.mp3": {
         "base_name": "medic_incoming03",
         "criteria": [
             [
@@ -2504,7 +2504,7 @@
         "state": "used",
         "transcript": "Incoming."
     },
-    "vo/medic_item_birdhead_domination01.mp3": {
+    "sound/vo/medic_item_birdhead_domination01.mp3": {
         "base_name": "medic_item_birdhead_domination01",
         "criteria": [],
         "events": [
@@ -2516,7 +2516,7 @@
         "state": "used",
         "transcript": "Bird head domination!"
     },
-    "vo/medic_item_birdhead_domination02.mp3": {
+    "sound/vo/medic_item_birdhead_domination02.mp3": {
         "base_name": "medic_item_birdhead_domination02",
         "criteria": [],
         "events": [
@@ -2528,7 +2528,7 @@
         "state": "used",
         "transcript": "I have a bird head, you're dominated!\" [sotto voce] \"Ve're bozh having a bad day."
     },
-    "vo/medic_item_birdhead_round_start01.mp3": {
+    "sound/vo/medic_item_birdhead_round_start01.mp3": {
         "base_name": "medic_item_birdhead_round_start01",
         "criteria": [
             [
@@ -2553,7 +2553,7 @@
         "state": "used",
         "transcript": "I am Archimedes!"
     },
-    "vo/medic_item_birdhead_round_start02.mp3": {
+    "sound/vo/medic_item_birdhead_round_start02.mp3": {
         "base_name": "medic_item_birdhead_round_start02",
         "criteria": [
             [
@@ -2578,7 +2578,7 @@
         "state": "used",
         "transcript": "I experimented on my own head! (laughs maniacally)"
     },
-    "vo/medic_item_birdhead_round_start03.mp3": {
+    "sound/vo/medic_item_birdhead_round_start03.mp3": {
         "base_name": "medic_item_birdhead_round_start03",
         "criteria": [
             [
@@ -2603,7 +2603,7 @@
         "state": "used",
         "transcript": "My head! (laughs)"
     },
-    "vo/medic_item_birdhead_round_start04.mp3": {
+    "sound/vo/medic_item_birdhead_round_start04.mp3": {
         "base_name": "medic_item_birdhead_round_start04",
         "criteria": [
             [
@@ -2628,7 +2628,7 @@
         "state": "used",
         "transcript": "Zhe bird head is pure agony! (laughs manically)"
     },
-    "vo/medic_item_birdhead_round_start05.mp3": {
+    "sound/vo/medic_item_birdhead_round_start05.mp3": {
         "base_name": "medic_item_birdhead_round_start05",
         "criteria": [
             [
@@ -2653,7 +2653,7 @@
         "state": "used",
         "transcript": "It's a bird! It's a head! It's a bird head! (laughs)"
     },
-    "vo/medic_item_birdhead_round_start06.mp3": {
+    "sound/vo/medic_item_birdhead_round_start06.mp3": {
         "base_name": "medic_item_birdhead_round_start06",
         "criteria": [
             [
@@ -2678,7 +2678,7 @@
         "state": "used",
         "transcript": "Help me! (unstable laughter)"
     },
-    "vo/medic_item_birdhead_round_start07.mp3": {
+    "sound/vo/medic_item_birdhead_round_start07.mp3": {
         "base_name": "medic_item_birdhead_round_start07",
         "criteria": [
             [
@@ -2703,7 +2703,7 @@
         "state": "used",
         "transcript": "Bird head was a bad choice! (screams)"
     },
-    "vo/medic_item_birdhead_round_start08.mp3": {
+    "sound/vo/medic_item_birdhead_round_start08.mp3": {
         "base_name": "medic_item_birdhead_round_start08",
         "criteria": [
             [
@@ -2728,7 +2728,7 @@
         "state": "used",
         "transcript": "I toiled in God's domain! (screams)"
     },
-    "vo/medic_item_birdhead_uber01.mp3": {
+    "sound/vo/medic_item_birdhead_uber01.mp3": {
         "base_name": "medic_item_birdhead_uber01",
         "criteria": [
             [
@@ -2755,7 +2755,7 @@
         "state": "used",
         "transcript": "I am zhe angry bird god of zhe Badlands! Fear me!"
     },
-    "vo/medic_item_secop_cart_push03.mp3": {
+    "sound/vo/medic_item_secop_cart_push03.mp3": {
         "base_name": "medic_item_secop_cart_push03",
         "criteria": [
             [
@@ -2783,7 +2783,7 @@
         "state": "used",
         "transcript": "Evilly: \"Push harder!\" Normally: \"Oh, shut up!\""
     },
-    "vo/medic_item_secop_cart_push04.mp3": {
+    "sound/vo/medic_item_secop_cart_push04.mp3": {
         "base_name": "medic_item_secop_cart_push04",
         "criteria": [
             [
@@ -2811,7 +2811,7 @@
         "state": "used",
         "transcript": "Evilly: \"Keep pushing.\" Normally: \"Vhy don't you push?\""
     },
-    "vo/medic_item_secop_cart_stopped01.mp3": {
+    "sound/vo/medic_item_secop_cart_stopped01.mp3": {
         "base_name": "medic_item_secop_cart_stopped01",
         "criteria": [
             [
@@ -2839,7 +2839,7 @@
         "state": "used",
         "transcript": "Normally: \"Who stopped pushing zhe cart?\" Evilly: \"Zhis is your fault!\""
     },
-    "vo/medic_item_secop_domination01.mp3": {
+    "sound/vo/medic_item_secop_domination01.mp3": {
         "base_name": "medic_item_secop_domination01",
         "criteria": [
             [
@@ -2866,7 +2866,7 @@
         "state": "used",
         "transcript": "I'm of two minds about zhis. Both are-- pretty good with it."
     },
-    "vo/medic_item_secop_idle01.mp3": {
+    "sound/vo/medic_item_secop_idle01.mp3": {
         "base_name": "medic_item_secop_idle01",
         "criteria": [
             [
@@ -2893,7 +2893,7 @@
         "state": "used",
         "transcript": "Evilly: \"Do you ever worry you might be going mad!?\" Normally: \"Well, not worry. I mean, I'm not up at night about it.\""
     },
-    "vo/medic_item_secop_idle02.mp3": {
+    "sound/vo/medic_item_secop_idle02.mp3": {
         "base_name": "medic_item_secop_idle02",
         "criteria": [
             [
@@ -2920,7 +2920,7 @@
         "state": "used",
         "transcript": "Evilly: \"Do you ever zhink zhat you might be going mad?\" Normally: \"Oh, all zhe time. I don't zhink it's anyzhing to worry about.\""
     },
-    "vo/medic_item_secop_idle03.mp3": {
+    "sound/vo/medic_item_secop_idle03.mp3": {
         "base_name": "medic_item_secop_idle03",
         "criteria": [
             [
@@ -2947,7 +2947,7 @@
         "state": "used",
         "transcript": "Evilly: \"Redrum, redrum!\" Normally: \"Red- Oh, I just got zhat. Very clever.\""
     },
-    "vo/medic_item_secop_kill_assist01.mp3": {
+    "sound/vo/medic_item_secop_kill_assist01.mp3": {
         "base_name": "medic_item_secop_kill_assist01",
         "criteria": [
             [
@@ -2976,7 +2976,7 @@
         "state": "used",
         "transcript": "Normally: \"Ve did it!\" Evilly: \"I did it.\" Normally: \"Eh, vhatever.\""
     },
-    "vo/medic_item_secop_round_start01.mp3": {
+    "sound/vo/medic_item_secop_round_start01.mp3": {
         "base_name": "medic_item_secop_round_start01",
         "criteria": [
             [
@@ -3001,7 +3001,7 @@
         "state": "used",
         "transcript": "Normally: \"Let's do zhis, my friends!\" Evilly: \"Kill zhem all.\" Normally: \"Shh, it's enough!\""
     },
-    "vo/medic_item_secop_round_start02.mp3": {
+    "sound/vo/medic_item_secop_round_start02.mp3": {
         "base_name": "medic_item_secop_round_start02",
         "criteria": [
             [
@@ -3026,7 +3026,7 @@
         "state": "used",
         "transcript": "Normally: \"I'm ready, my friends.\" Evilly: \"Kill all your friends.\" Normally: \"Ooh, good idea.\""
     },
-    "vo/medic_item_secop_round_start03.mp3": {
+    "sound/vo/medic_item_secop_round_start03.mp3": {
         "base_name": "medic_item_secop_round_start03",
         "criteria": [
             [
@@ -3051,7 +3051,7 @@
         "state": "used",
         "transcript": "Normally: \"I'm ready!\" Evilly: \"Kill zhem all.\" Normally: \"Also, I must kill you all.\""
     },
-    "vo/medic_item_secop_round_start04.mp3": {
+    "sound/vo/medic_item_secop_round_start04.mp3": {
         "base_name": "medic_item_secop_round_start04",
         "criteria": [
             [
@@ -3076,7 +3076,7 @@
         "state": "used",
         "transcript": "Normally: \"I cannot vait (nervous giggle)\" Evilly: \"And neizher can I.\""
     },
-    "vo/medic_item_secop_round_start05.mp3": {
+    "sound/vo/medic_item_secop_round_start05.mp3": {
         "base_name": "medic_item_secop_round_start05",
         "criteria": [
             [
@@ -3101,7 +3101,7 @@
         "state": "used",
         "transcript": "Evilly: \"Kill zhem, kill zhem all.\" Normally: \"Hm, zhat does sound like fun.\""
     },
-    "vo/medic_item_secop_round_start06.mp3": {
+    "sound/vo/medic_item_secop_round_start06.mp3": {
         "base_name": "medic_item_secop_round_start06",
         "criteria": [
             [
@@ -3126,7 +3126,7 @@
         "state": "used",
         "transcript": "Evilly: \"Kill zhem all.\" Normally: \"Hm. Are you sure?\" Evilly: \"Yes.\" Normally: \"Vell, I'm convinced.\""
     },
-    "vo/medic_item_secop_round_start07.mp3": {
+    "sound/vo/medic_item_secop_round_start07.mp3": {
         "base_name": "medic_item_secop_round_start07",
         "criteria": [
             [
@@ -3151,7 +3151,7 @@
         "state": "used",
         "transcript": "Evilly: \"Zhey all zhink you're crazy.\" Normally: \"Vhat? I'll show zhem!\""
     },
-    "vo/medic_item_secop_round_start08.mp3": {
+    "sound/vo/medic_item_secop_round_start08.mp3": {
         "base_name": "medic_item_secop_round_start08",
         "criteria": [
             [
@@ -3176,7 +3176,7 @@
         "state": "used",
         "transcript": "Normally: \"Ready?\" Evilly: \"Ve're both ready.\""
     },
-    "vo/medic_item_secop_uber01.mp3": {
+    "sound/vo/medic_item_secop_uber01.mp3": {
         "base_name": "medic_item_secop_uber01",
         "criteria": [
             [
@@ -3203,7 +3203,7 @@
         "state": "used",
         "transcript": "Normally: \"Ve are invincible!\" Evilly: \"Yes, ve are.\""
     },
-    "vo/medic_item_zombiebird_dominated01.mp3": {
+    "sound/vo/medic_item_zombiebird_dominated01.mp3": {
         "base_name": "medic_item_zombiebird_dominated01",
         "criteria": [
             [
@@ -3230,7 +3230,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwarrrr, dominated! Bwaaaark!\""
     },
-    "vo/medic_item_zombiebird_got_briefcase01.mp3": {
+    "sound/vo/medic_item_zombiebird_got_briefcase01.mp3": {
         "base_name": "medic_item_zombiebird_got_briefcase01",
         "criteria": [
             [
@@ -3257,7 +3257,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwarrrr, stole the briefcase! Raawk!\" Medic: \"Shh shh shh!\""
     },
-    "vo/medic_item_zombiebird_jarate01.mp3": {
+    "sound/vo/medic_item_zombiebird_jarate01.mp3": {
         "base_name": "medic_item_zombiebird_jarate01",
         "criteria": [
             [
@@ -3282,7 +3282,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwark, that's jarate!\" Medic: [sad voice] \"Yes, it is.\""
     },
-    "vo/medic_item_zombiebird_mvm_go_upgrade01.mp3": {
+    "sound/vo/medic_item_zombiebird_mvm_go_upgrade01.mp3": {
         "base_name": "medic_item_zombiebird_mvm_go_upgrade01",
         "criteria": [
             [
@@ -3308,7 +3308,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Rrrooowl, upgrade station! Raawk!\" Medic: \"Ah. Yes.\""
     },
-    "vo/medic_item_zombiebird_mvm_win01.mp3": {
+    "sound/vo/medic_item_zombiebird_mvm_win01.mp3": {
         "base_name": "medic_item_zombiebird_mvm_win01",
         "criteria": [
             [
@@ -3334,7 +3334,7 @@
         "state": "used",
         "transcript": "Medic: \"Ve did it! Haha!\" :Archimedes: \"Rraaaaa, kill your friends!\" Medic: \"Ah yes, I almost forgot.\""
     },
-    "vo/medic_item_zombiebird_on_fire01.mp3": {
+    "sound/vo/medic_item_zombiebird_on_fire01.mp3": {
         "base_name": "medic_item_zombiebird_on_fire01",
         "criteria": [
             [
@@ -3361,7 +3361,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Rraaa, we're on fire!\" Medic: \"Yes, I know!\""
     },
-    "vo/medic_item_zombiebird_round_start01.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start01.mp3": {
         "base_name": "medic_item_zombiebird_round_start01",
         "criteria": [
             [
@@ -3386,7 +3386,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwark, kill them all!\" :Medic: \"Shh.\""
     },
-    "vo/medic_item_zombiebird_round_start02.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start02.mp3": {
         "base_name": "medic_item_zombiebird_round_start02",
         "criteria": [
             [
@@ -3411,7 +3411,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwarr.\" Medic: \"Shh.\" Archimedes: \"Raaaarl.\" Medic: \"Shh shh shh!\" Archimedes: \"Kill them all...\" Medic: \"That's enough!\""
     },
-    "vo/medic_item_zombiebird_round_start03.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start03.mp3": {
         "base_name": "medic_item_zombiebird_round_start03",
         "criteria": [
             [
@@ -3436,7 +3436,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaarrrl, dead by dawn!\" Medic: \"Shh, silence!\"."
     },
-    "vo/medic_item_zombiebird_round_start04.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start04.mp3": {
         "base_name": "medic_item_zombiebird_round_start04",
         "criteria": [
             [
@@ -3461,7 +3461,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaarrrl, Archimedes wants brains!\" Medic: \"Thank you, Archimedes.\""
     },
-    "vo/medic_item_zombiebird_round_start05.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start05.mp3": {
         "base_name": "medic_item_zombiebird_round_start05",
         "criteria": [
             [
@@ -3486,7 +3486,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaarrrl, braaaains! Bwaaark!\" Medic: \"Shush, Archimedes.\""
     },
-    "vo/medic_item_zombiebird_round_start06.mp3": {
+    "sound/vo/medic_item_zombiebird_round_start06.mp3": {
         "base_name": "medic_item_zombiebird_round_start06",
         "criteria": [
             [
@@ -3511,7 +3511,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaarrrl, Archimedes wants brains!\" Medic: \"Yes, Archimedes wants all the brains, doesn't he?\""
     },
-    "vo/medic_item_zombiebird_sf13_cart_forward01.mp3": {
+    "sound/vo/medic_item_zombiebird_sf13_cart_forward01.mp3": {
         "base_name": "medic_item_zombiebird_sf13_cart_forward01",
         "criteria": [
             [
@@ -3539,7 +3539,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwark, push the dead man!\" Medic: \"I'm trying...\""
     },
-    "vo/medic_item_zombiebird_sf13_cart_forward02.mp3": {
+    "sound/vo/medic_item_zombiebird_sf13_cart_forward02.mp3": {
         "base_name": "medic_item_zombiebird_sf13_cart_forward02",
         "criteria": [
             [
@@ -3567,7 +3567,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaarl, send him to hell!\" Medic: \"Ah, yes.\""
     },
-    "vo/medic_item_zombiebird_stand_point01.mp3": {
+    "sound/vo/medic_item_zombiebird_stand_point01.mp3": {
         "base_name": "medic_item_zombiebird_stand_point01",
         "criteria": [
             [
@@ -3593,7 +3593,7 @@
         "state": "used",
         "transcript": "Archimedes: \"Bwaaaark, stand on the point!\""
     },
-    "vo/medic_jeers01.mp3": {
+    "sound/vo/medic_jeers01.mp3": {
         "base_name": "medic_jeers01",
         "criteria": [
             [
@@ -3624,7 +3624,7 @@
         "state": "used",
         "transcript": "Fess..."
     },
-    "vo/medic_jeers02.mp3": {
+    "sound/vo/medic_jeers02.mp3": {
         "base_name": "medic_jeers02",
         "criteria": [
             [
@@ -3653,7 +3653,7 @@
         "state": "used",
         "transcript": "Iz zere a point to your lives?"
     },
-    "vo/medic_jeers03.mp3": {
+    "sound/vo/medic_jeers03.mp3": {
         "base_name": "medic_jeers03",
         "criteria": [
             [
@@ -3682,7 +3682,7 @@
         "state": "used",
         "transcript": "My skill is VASTED on zis team!"
     },
-    "vo/medic_jeers04.mp3": {
+    "sound/vo/medic_jeers04.mp3": {
         "base_name": "medic_jeers04",
         "criteria": [
             [
@@ -3711,7 +3711,7 @@
         "state": "used",
         "transcript": "DUMMKOPFS!"
     },
-    "vo/medic_jeers05.mp3": {
+    "sound/vo/medic_jeers05.mp3": {
         "base_name": "medic_jeers05",
         "criteria": [
             [
@@ -3746,7 +3746,7 @@
         "state": "used",
         "transcript": "Booo!"
     },
-    "vo/medic_jeers06.mp3": {
+    "sound/vo/medic_jeers06.mp3": {
         "base_name": "medic_jeers06",
         "criteria": [
             [
@@ -3781,7 +3781,7 @@
         "state": "used",
         "transcript": "You are trying my patience!"
     },
-    "vo/medic_jeers07.mp3": {
+    "sound/vo/medic_jeers07.mp3": {
         "base_name": "medic_jeers07",
         "criteria": [
             [
@@ -3810,7 +3810,7 @@
         "state": "used",
         "transcript": "Teeeeeeam!"
     },
-    "vo/medic_jeers08.mp3": {
+    "sound/vo/medic_jeers08.mp3": {
         "base_name": "medic_jeers08",
         "criteria": [
             [
@@ -3839,7 +3839,7 @@
         "state": "used",
         "transcript": "Velcome to the 've lose vonce again'-fest."
     },
-    "vo/medic_jeers09.mp3": {
+    "sound/vo/medic_jeers09.mp3": {
         "base_name": "medic_jeers09",
         "criteria": [
             [
@@ -3868,7 +3868,7 @@
         "state": "used",
         "transcript": "Ach, was ist los?"
     },
-    "vo/medic_jeers10.mp3": {
+    "sound/vo/medic_jeers10.mp3": {
         "base_name": "medic_jeers10",
         "criteria": [
             [
@@ -3911,7 +3911,7 @@
         "state": "used",
         "transcript": "Danke, dummkopfs!"
     },
-    "vo/medic_jeers11.mp3": {
+    "sound/vo/medic_jeers11.mp3": {
         "base_name": "medic_jeers11",
         "criteria": [
             [
@@ -3940,7 +3940,7 @@
         "state": "used",
         "transcript": "From now on, losing is verboten!"
     },
-    "vo/medic_jeers12.mp3": {
+    "sound/vo/medic_jeers12.mp3": {
         "base_name": "medic_jeers12",
         "criteria": [
             [
@@ -3969,7 +3969,7 @@
         "state": "used",
         "transcript": "Schweinhunds!"
     },
-    "vo/medic_laughevil01.mp3": {
+    "sound/vo/medic_laughevil01.mp3": {
         "base_name": "medic_laughevil01",
         "criteria": [
             [
@@ -3992,7 +3992,7 @@
         "state": "used",
         "transcript": "Evil laugh"
     },
-    "vo/medic_laughevil02.mp3": {
+    "sound/vo/medic_laughevil02.mp3": {
         "base_name": "medic_laughevil02",
         "criteria": [
             [
@@ -4035,7 +4035,7 @@
         "state": "used",
         "transcript": "(Evil laugh 1)"
     },
-    "vo/medic_laughevil03.mp3": {
+    "sound/vo/medic_laughevil03.mp3": {
         "base_name": "medic_laughevil03",
         "criteria": [
             [
@@ -4068,7 +4068,7 @@
         "state": "used",
         "transcript": "Evil laugh 2"
     },
-    "vo/medic_laughevil04.mp3": {
+    "sound/vo/medic_laughevil04.mp3": {
         "base_name": "medic_laughevil04",
         "criteria": [
             [
@@ -4091,7 +4091,7 @@
         "state": "used",
         "transcript": "Evil laugh 3"
     },
-    "vo/medic_laughevil05.mp3": {
+    "sound/vo/medic_laughevil05.mp3": {
         "base_name": "medic_laughevil05",
         "criteria": [
             [
@@ -4130,7 +4130,7 @@
         "state": "used",
         "transcript": "(Evil laugh 2)"
     },
-    "vo/medic_laughhappy01.mp3": {
+    "sound/vo/medic_laughhappy01.mp3": {
         "base_name": "medic_laughhappy01",
         "criteria": [
             [
@@ -4166,7 +4166,7 @@
         "state": "used",
         "transcript": "(Happy laugh 1)"
     },
-    "vo/medic_laughhappy02.mp3": {
+    "sound/vo/medic_laughhappy02.mp3": {
         "base_name": "medic_laughhappy02",
         "criteria": [
             [
@@ -4202,7 +4202,7 @@
         "state": "used",
         "transcript": "(Happy laugh 2)"
     },
-    "vo/medic_laughhappy03.mp3": {
+    "sound/vo/medic_laughhappy03.mp3": {
         "base_name": "medic_laughhappy03",
         "criteria": [
             [
@@ -4244,7 +4244,7 @@
         "state": "used",
         "transcript": "(Happy laugh 3)"
     },
-    "vo/medic_laughlong01.mp3": {
+    "sound/vo/medic_laughlong01.mp3": {
         "base_name": "medic_laughlong01",
         "criteria": [
             [
@@ -4294,7 +4294,7 @@
         "state": "used",
         "transcript": "(Long laugh 1)"
     },
-    "vo/medic_laughlong02.mp3": {
+    "sound/vo/medic_laughlong02.mp3": {
         "base_name": "medic_laughlong02",
         "criteria": [
             [
@@ -4330,7 +4330,7 @@
         "state": "used",
         "transcript": "(Long laugh 2)"
     },
-    "vo/medic_laughshort01.mp3": {
+    "sound/vo/medic_laughshort01.mp3": {
         "base_name": "medic_laughshort01",
         "criteria": [
             [
@@ -4355,7 +4355,7 @@
         "state": "used",
         "transcript": "Short laugh"
     },
-    "vo/medic_laughshort02.mp3": {
+    "sound/vo/medic_laughshort02.mp3": {
         "base_name": "medic_laughshort02",
         "criteria": [
             [
@@ -4381,7 +4381,7 @@
         "state": "used",
         "transcript": "Short laugh 2"
     },
-    "vo/medic_laughshort03.mp3": {
+    "sound/vo/medic_laughshort03.mp3": {
         "base_name": "medic_laughshort03",
         "criteria": [
             [
@@ -4424,7 +4424,7 @@
         "state": "used",
         "transcript": "(Short laugh)"
     },
-    "vo/medic_medic01.mp3": {
+    "sound/vo/medic_medic01.mp3": {
         "base_name": "medic_medic01",
         "criteria": [
             [
@@ -4447,7 +4447,7 @@
         "state": "used",
         "transcript": "Doktor!"
     },
-    "vo/medic_medic02.mp3": {
+    "sound/vo/medic_medic02.mp3": {
         "base_name": "medic_medic02",
         "criteria": [
             [
@@ -4470,7 +4470,7 @@
         "state": "used",
         "transcript": "Medic!"
     },
-    "vo/medic_medic03.mp3": {
+    "sound/vo/medic_medic03.mp3": {
         "base_name": "medic_medic03",
         "criteria": [
             [
@@ -4493,7 +4493,7 @@
         "state": "used",
         "transcript": "MEEEDIIIC!"
     },
-    "vo/medic_moveup01.mp3": {
+    "sound/vo/medic_moveup01.mp3": {
         "base_name": "medic_moveup01",
         "criteria": [
             [
@@ -4516,7 +4516,7 @@
         "state": "used",
         "transcript": "Move ze gear up, SCHNELL!"
     },
-    "vo/medic_moveup02.mp3": {
+    "sound/vo/medic_moveup02.mp3": {
         "base_name": "medic_moveup02",
         "criteria": [
             [
@@ -4539,7 +4539,7 @@
         "state": "used",
         "transcript": "Move zis gear up!"
     },
-    "vo/medic_mvm_ask_ready01.mp3": {
+    "sound/vo/medic_mvm_ask_ready01.mp3": {
         "base_name": "medic_mvm_ask_ready01",
         "criteria": [],
         "events": [
@@ -4554,7 +4554,7 @@
         "state": "used",
         "transcript": "Who is not ready?"
     },
-    "vo/medic_mvm_bomb_destroyed01.mp3": {
+    "sound/vo/medic_mvm_bomb_destroyed01.mp3": {
         "base_name": "medic_mvm_bomb_destroyed01",
         "criteria": [
             [
@@ -4579,7 +4579,7 @@
         "state": "used",
         "transcript": "Zhe bomb is clear."
     },
-    "vo/medic_mvm_bomb_destroyed02.mp3": {
+    "sound/vo/medic_mvm_bomb_destroyed02.mp3": {
         "base_name": "medic_mvm_bomb_destroyed02",
         "criteria": [
             [
@@ -4604,7 +4604,7 @@
         "state": "used",
         "transcript": "Zhe bomb carrier is down."
     },
-    "vo/medic_mvm_bomb_see01.mp3": {
+    "sound/vo/medic_mvm_bomb_see01.mp3": {
         "base_name": "medic_mvm_bomb_see01",
         "criteria": [
             [
@@ -4629,7 +4629,7 @@
         "state": "used",
         "transcript": "Bomb!"
     },
-    "vo/medic_mvm_bomb_see02.mp3": {
+    "sound/vo/medic_mvm_bomb_see02.mp3": {
         "base_name": "medic_mvm_bomb_see02",
         "criteria": [
             [
@@ -4654,7 +4654,7 @@
         "state": "used",
         "transcript": "Zhey have a bomb!"
     },
-    "vo/medic_mvm_bomb_see03.mp3": {
+    "sound/vo/medic_mvm_bomb_see03.mp3": {
         "base_name": "medic_mvm_bomb_see03",
         "criteria": [
             [
@@ -4679,7 +4679,7 @@
         "state": "used",
         "transcript": "Another bomb!"
     },
-    "vo/medic_mvm_bomb_upgrade01.mp3": {
+    "sound/vo/medic_mvm_bomb_upgrade01.mp3": {
         "base_name": "medic_mvm_bomb_upgrade01",
         "criteria": [
             [
@@ -4704,7 +4704,7 @@
         "state": "used",
         "transcript": "Zhe bomb carrier is looking angry!"
     },
-    "vo/medic_mvm_bomb_upgrade02.mp3": {
+    "sound/vo/medic_mvm_bomb_upgrade02.mp3": {
         "base_name": "medic_mvm_bomb_upgrade02",
         "criteria": [
             [
@@ -4729,7 +4729,7 @@
         "state": "used",
         "transcript": "Zhe bomb carrier is getting angrier!"
     },
-    "vo/medic_mvm_bomb_upgrade03.mp3": {
+    "sound/vo/medic_mvm_bomb_upgrade03.mp3": {
         "base_name": "medic_mvm_bomb_upgrade03",
         "criteria": [
             [
@@ -4754,7 +4754,7 @@
         "state": "used",
         "transcript": "Zhe bomb carrier is furious!"
     },
-    "vo/medic_mvm_class_is_dead01.mp3": {
+    "sound/vo/medic_mvm_class_is_dead01.mp3": {
         "base_name": "medic_mvm_class_is_dead01",
         "criteria": [
             [
@@ -4780,7 +4780,7 @@
         "state": "used",
         "transcript": "Scout is dead!"
     },
-    "vo/medic_mvm_class_is_dead02.mp3": {
+    "sound/vo/medic_mvm_class_is_dead02.mp3": {
         "base_name": "medic_mvm_class_is_dead02",
         "criteria": [
             [
@@ -4806,7 +4806,7 @@
         "state": "used",
         "transcript": "Spy is dead!"
     },
-    "vo/medic_mvm_class_is_dead03.mp3": {
+    "sound/vo/medic_mvm_class_is_dead03.mp3": {
         "base_name": "medic_mvm_class_is_dead03",
         "criteria": [
             [
@@ -4832,7 +4832,7 @@
         "state": "used",
         "transcript": "Heavy is dead!"
     },
-    "vo/medic_mvm_class_is_dead04.mp3": {
+    "sound/vo/medic_mvm_class_is_dead04.mp3": {
         "base_name": "medic_mvm_class_is_dead04",
         "criteria": [
             [
@@ -4858,7 +4858,7 @@
         "state": "used",
         "transcript": "Soldier is dead!"
     },
-    "vo/medic_mvm_class_is_dead05.mp3": {
+    "sound/vo/medic_mvm_class_is_dead05.mp3": {
         "base_name": "medic_mvm_class_is_dead05",
         "criteria": [
             [
@@ -4884,7 +4884,7 @@
         "state": "used",
         "transcript": "Medic is dead!"
     },
-    "vo/medic_mvm_class_is_dead06.mp3": {
+    "sound/vo/medic_mvm_class_is_dead06.mp3": {
         "base_name": "medic_mvm_class_is_dead06",
         "criteria": [
             [
@@ -4910,7 +4910,7 @@
         "state": "used",
         "transcript": "Demo is dead!"
     },
-    "vo/medic_mvm_class_is_dead07.mp3": {
+    "sound/vo/medic_mvm_class_is_dead07.mp3": {
         "base_name": "medic_mvm_class_is_dead07",
         "criteria": [
             [
@@ -4936,7 +4936,7 @@
         "state": "used",
         "transcript": "Pyro is dead!"
     },
-    "vo/medic_mvm_class_is_dead08.mp3": {
+    "sound/vo/medic_mvm_class_is_dead08.mp3": {
         "base_name": "medic_mvm_class_is_dead08",
         "criteria": [
             [
@@ -4962,7 +4962,7 @@
         "state": "used",
         "transcript": "Sniper is dead!"
     },
-    "vo/medic_mvm_class_is_dead09.mp3": {
+    "sound/vo/medic_mvm_class_is_dead09.mp3": {
         "base_name": "medic_mvm_class_is_dead09",
         "criteria": [
             [
@@ -4988,7 +4988,7 @@
         "state": "used",
         "transcript": "Engie is dead!"
     },
-    "vo/medic_mvm_collect_credits01.mp3": {
+    "sound/vo/medic_mvm_collect_credits01.mp3": {
         "base_name": "medic_mvm_collect_credits01",
         "criteria": [
             [
@@ -5013,7 +5013,7 @@
         "state": "used",
         "transcript": "Come on! Collect zhe money!"
     },
-    "vo/medic_mvm_collect_credits02.mp3": {
+    "sound/vo/medic_mvm_collect_credits02.mp3": {
         "base_name": "medic_mvm_collect_credits02",
         "criteria": [
             [
@@ -5038,7 +5038,7 @@
         "state": "used",
         "transcript": "Free money! Free money!"
     },
-    "vo/medic_mvm_collect_credits03.mp3": {
+    "sound/vo/medic_mvm_collect_credits03.mp3": {
         "base_name": "medic_mvm_collect_credits03",
         "criteria": [
             [
@@ -5063,7 +5063,7 @@
         "state": "used",
         "transcript": "Everyvun! Freee money!"
     },
-    "vo/medic_mvm_collect_credits04.mp3": {
+    "sound/vo/medic_mvm_collect_credits04.mp3": {
         "base_name": "medic_mvm_collect_credits04",
         "criteria": [
             [
@@ -5088,7 +5088,7 @@
         "state": "used",
         "transcript": "Ooh, money!"
     },
-    "vo/medic_mvm_encourage_upgrade01.mp3": {
+    "sound/vo/medic_mvm_encourage_upgrade01.mp3": {
         "base_name": "medic_mvm_encourage_upgrade01",
         "criteria": [
             [
@@ -5113,7 +5113,7 @@
         "state": "used",
         "transcript": "I should upgrade."
     },
-    "vo/medic_mvm_encourage_upgrade02.mp3": {
+    "sound/vo/medic_mvm_encourage_upgrade02.mp3": {
         "base_name": "medic_mvm_encourage_upgrade02",
         "criteria": [
             [
@@ -5138,7 +5138,7 @@
         "state": "used",
         "transcript": "Get to an Upgrade Station, schnell!"
     },
-    "vo/medic_mvm_encourage_upgrade03.mp3": {
+    "sound/vo/medic_mvm_encourage_upgrade03.mp3": {
         "base_name": "medic_mvm_encourage_upgrade03",
         "criteria": [
             [
@@ -5163,7 +5163,7 @@
         "state": "used",
         "transcript": "Upgrade! Uppengraden everyvun!"
     },
-    "vo/medic_mvm_get_upgrade01.mp3": {
+    "sound/vo/medic_mvm_get_upgrade01.mp3": {
         "base_name": "medic_mvm_get_upgrade01",
         "criteria": [
             [
@@ -5188,7 +5188,7 @@
         "state": "used",
         "transcript": "Ooh, much better."
     },
-    "vo/medic_mvm_get_upgrade02.mp3": {
+    "sound/vo/medic_mvm_get_upgrade02.mp3": {
         "base_name": "medic_mvm_get_upgrade02",
         "criteria": [
             [
@@ -5213,7 +5213,7 @@
         "state": "used",
         "transcript": "I feel like a million Deutschmarks!"
     },
-    "vo/medic_mvm_get_upgrade03.mp3": {
+    "sound/vo/medic_mvm_get_upgrade03.mp3": {
         "base_name": "medic_mvm_get_upgrade03",
         "criteria": [
             [
@@ -5238,7 +5238,7 @@
         "state": "used",
         "transcript": "(Laughs) I am a god."
     },
-    "vo/medic_mvm_get_upgrade04.mp3": {
+    "sound/vo/medic_mvm_get_upgrade04.mp3": {
         "base_name": "medic_mvm_get_upgrade04",
         "criteria": [
             [
@@ -5263,7 +5263,7 @@
         "state": "used",
         "transcript": "Oh, I am going to murder so many robots."
     },
-    "vo/medic_mvm_giant_robot01.mp3": {
+    "sound/vo/medic_mvm_giant_robot01.mp3": {
         "base_name": "medic_mvm_giant_robot01",
         "criteria": [
             [
@@ -5288,7 +5288,7 @@
         "state": "used",
         "transcript": "\u00dcberbot!"
     },
-    "vo/medic_mvm_giant_robot02.mp3": {
+    "sound/vo/medic_mvm_giant_robot02.mp3": {
         "base_name": "medic_mvm_giant_robot02",
         "criteria": [
             [
@@ -5313,7 +5313,7 @@
         "state": "used",
         "transcript": "Zhe \u00dcberbot is destroyed."
     },
-    "vo/medic_mvm_giant_robot03.mp3": {
+    "sound/vo/medic_mvm_giant_robot03.mp3": {
         "base_name": "medic_mvm_giant_robot03",
         "criteria": [
             [
@@ -5338,7 +5338,7 @@
         "state": "used",
         "transcript": "Zhe \u00dcberbot has a bomb!"
     },
-    "vo/medic_mvm_heal_shield01.mp3": {
+    "sound/vo/medic_mvm_heal_shield01.mp3": {
         "base_name": "medic_mvm_heal_shield01",
         "criteria": [
             [
@@ -5362,7 +5362,7 @@
         "state": "used",
         "transcript": "Everyone! Behind me!"
     },
-    "vo/medic_mvm_heal_shield02.mp3": {
+    "sound/vo/medic_mvm_heal_shield02.mp3": {
         "base_name": "medic_mvm_heal_shield02",
         "criteria": [
             [
@@ -5386,7 +5386,7 @@
         "state": "used",
         "transcript": "You vill go no furzher!"
     },
-    "vo/medic_mvm_heal_shield03.mp3": {
+    "sound/vo/medic_mvm_heal_shield03.mp3": {
         "base_name": "medic_mvm_heal_shield03",
         "criteria": [
             [
@@ -5410,7 +5410,7 @@
         "state": "used",
         "transcript": "No robot shall pass!"
     },
-    "vo/medic_mvm_heal_shield04.mp3": {
+    "sound/vo/medic_mvm_heal_shield04.mp3": {
         "base_name": "medic_mvm_heal_shield04",
         "criteria": [
             [
@@ -5434,7 +5434,7 @@
         "state": "used",
         "transcript": "Get behind me!"
     },
-    "vo/medic_mvm_heal_shield05.mp3": {
+    "sound/vo/medic_mvm_heal_shield05.mp3": {
         "base_name": "medic_mvm_heal_shield05",
         "criteria": [
             [
@@ -5458,7 +5458,7 @@
         "state": "used",
         "transcript": "(Laughter) Zhis wall is robot death!"
     },
-    "vo/medic_mvm_loot_common01.mp3": {
+    "sound/vo/medic_mvm_loot_common01.mp3": {
         "base_name": "medic_mvm_loot_common01",
         "criteria": [
             [
@@ -5482,7 +5482,7 @@
         "state": "used",
         "transcript": "Ooh, zhis vill do nicely."
     },
-    "vo/medic_mvm_loot_common02.mp3": {
+    "sound/vo/medic_mvm_loot_common02.mp3": {
         "base_name": "medic_mvm_loot_common02",
         "criteria": [
             [
@@ -5515,7 +5515,7 @@
         "state": "used",
         "transcript": "Ooh, vunderbar!"
     },
-    "vo/medic_mvm_loot_common03.mp3": {
+    "sound/vo/medic_mvm_loot_common03.mp3": {
         "base_name": "medic_mvm_loot_common03",
         "criteria": [
             [
@@ -5545,7 +5545,7 @@
         "state": "used",
         "transcript": "Hm, not bad."
     },
-    "vo/medic_mvm_loot_godlike01.mp3": {
+    "sound/vo/medic_mvm_loot_godlike01.mp3": {
         "base_name": "medic_mvm_loot_godlike01",
         "criteria": [
             [
@@ -5568,7 +5568,7 @@
         "state": "used",
         "transcript": "Vunderbar."
     },
-    "vo/medic_mvm_loot_godlike02.mp3": {
+    "sound/vo/medic_mvm_loot_godlike02.mp3": {
         "base_name": "medic_mvm_loot_godlike02",
         "criteria": [
             [
@@ -5591,7 +5591,7 @@
         "state": "used",
         "transcript": "(Gasp) It's beautiful."
     },
-    "vo/medic_mvm_loot_godlike03.mp3": {
+    "sound/vo/medic_mvm_loot_godlike03.mp3": {
         "base_name": "medic_mvm_loot_godlike03",
         "criteria": [
             [
@@ -5614,7 +5614,7 @@
         "state": "used",
         "transcript": "Gott in Himmel, it's vunderful. It's more zhan vunderful, it's- it's Perfekt! (gleeful laughter)"
     },
-    "vo/medic_mvm_loot_rare01.mp3": {
+    "sound/vo/medic_mvm_loot_rare01.mp3": {
         "base_name": "medic_mvm_loot_rare01",
         "criteria": [
             [
@@ -5637,7 +5637,7 @@
         "state": "used",
         "transcript": "Oh, now zhis is a rare piece!"
     },
-    "vo/medic_mvm_loot_rare02.mp3": {
+    "sound/vo/medic_mvm_loot_rare02.mp3": {
         "base_name": "medic_mvm_loot_rare02",
         "criteria": [
             [
@@ -5663,7 +5663,7 @@
         "state": "used",
         "transcript": "Ooh, very nice."
     },
-    "vo/medic_mvm_mannhattan_gate_atk01.mp3": {
+    "sound/vo/medic_mvm_mannhattan_gate_atk01.mp3": {
         "base_name": "medic_mvm_mannhattan_gate_atk01",
         "criteria": [
             [
@@ -5688,7 +5688,7 @@
         "state": "used",
         "transcript": "Zhey're attacking zhe gate!"
     },
-    "vo/medic_mvm_mannhattan_gate_atk02.mp3": {
+    "sound/vo/medic_mvm_mannhattan_gate_atk02.mp3": {
         "base_name": "medic_mvm_mannhattan_gate_atk02",
         "criteria": [
             [
@@ -5713,7 +5713,7 @@
         "state": "used",
         "transcript": "Zhe robots are attacking zhe gate!"
     },
-    "vo/medic_mvm_mannhattan_gate_take01.mp3": {
+    "sound/vo/medic_mvm_mannhattan_gate_take01.mp3": {
         "base_name": "medic_mvm_mannhattan_gate_take01",
         "criteria": [
             [
@@ -5736,7 +5736,7 @@
         "state": "used",
         "transcript": "Zhe robots have taken zhe gate!"
     },
-    "vo/medic_mvm_mannhattan_gate_take02.mp3": {
+    "sound/vo/medic_mvm_mannhattan_gate_take02.mp3": {
         "base_name": "medic_mvm_mannhattan_gate_take02",
         "criteria": [
             [
@@ -5759,7 +5759,7 @@
         "state": "used",
         "transcript": "Zhe robots have zhe gate!"
     },
-    "vo/medic_mvm_resurrect01.mp3": {
+    "sound/vo/medic_mvm_resurrect01.mp3": {
         "base_name": "medic_mvm_resurrect01",
         "criteria": [
             [
@@ -5782,7 +5782,7 @@
         "state": "used",
         "transcript": "I'm alive! Alive!"
     },
-    "vo/medic_mvm_resurrect02.mp3": {
+    "sound/vo/medic_mvm_resurrect02.mp3": {
         "base_name": "medic_mvm_resurrect02",
         "criteria": [
             [
@@ -5805,7 +5805,7 @@
         "state": "used",
         "transcript": "Back from zhe dead!"
     },
-    "vo/medic_mvm_resurrect03.mp3": {
+    "sound/vo/medic_mvm_resurrect03.mp3": {
         "base_name": "medic_mvm_resurrect03",
         "criteria": [
             [
@@ -5828,7 +5828,7 @@
         "state": "used",
         "transcript": "I'm back!"
     },
-    "vo/medic_mvm_robot_sapped01.mp3": {
+    "sound/vo/medic_mvm_robot_sapped01.mp3": {
         "base_name": "medic_mvm_robot_sapped01",
         "criteria": [
             [
@@ -5853,7 +5853,7 @@
         "state": "used",
         "transcript": "Sapping a robot."
     },
-    "vo/medic_mvm_robot_sapped02.mp3": {
+    "sound/vo/medic_mvm_robot_sapped02.mp3": {
         "base_name": "medic_mvm_robot_sapped02",
         "criteria": [
             [
@@ -5878,7 +5878,7 @@
         "state": "used",
         "transcript": "Zhe robot is sapped."
     },
-    "vo/medic_mvm_say_ready01.mp3": {
+    "sound/vo/medic_mvm_say_ready01.mp3": {
         "base_name": "medic_mvm_say_ready01",
         "criteria": [],
         "events": [
@@ -5893,7 +5893,7 @@
         "state": "used",
         "transcript": "Ready!"
     },
-    "vo/medic_mvm_say_ready02.mp3": {
+    "sound/vo/medic_mvm_say_ready02.mp3": {
         "base_name": "medic_mvm_say_ready02",
         "criteria": [],
         "events": [
@@ -5908,7 +5908,7 @@
         "state": "used",
         "transcript": "I cannot vait, hah!"
     },
-    "vo/medic_mvm_sentry_buster01.mp3": {
+    "sound/vo/medic_mvm_sentry_buster01.mp3": {
         "base_name": "medic_mvm_sentry_buster01",
         "criteria": [
             [
@@ -5933,7 +5933,7 @@
         "state": "used",
         "transcript": "Sentry Buster!"
     },
-    "vo/medic_mvm_sentry_buster02.mp3": {
+    "sound/vo/medic_mvm_sentry_buster02.mp3": {
         "base_name": "medic_mvm_sentry_buster02",
         "criteria": [
             [
@@ -5958,7 +5958,7 @@
         "state": "used",
         "transcript": "Sentry Buster is destroyed!"
     },
-    "vo/medic_mvm_sniper01.mp3": {
+    "sound/vo/medic_mvm_sniper01.mp3": {
         "base_name": "medic_mvm_sniper01",
         "criteria": [
             [
@@ -5983,7 +5983,7 @@
         "state": "used",
         "transcript": "Sniper!"
     },
-    "vo/medic_mvm_stand_alone01.mp3": {
+    "sound/vo/medic_mvm_stand_alone01.mp3": {
         "base_name": "medic_mvm_stand_alone01",
         "criteria": [
             [
@@ -6008,7 +6008,7 @@
         "state": "used",
         "transcript": "(Laughs) It's just you and me, robots!"
     },
-    "vo/medic_mvm_tank_alert01.mp3": {
+    "sound/vo/medic_mvm_tank_alert01.mp3": {
         "base_name": "medic_mvm_tank_alert01",
         "criteria": [
             [
@@ -6033,7 +6033,7 @@
         "state": "used",
         "transcript": "Taaank!"
     },
-    "vo/medic_mvm_tank_deploy01.mp3": {
+    "sound/vo/medic_mvm_tank_deploy01.mp3": {
         "base_name": "medic_mvm_tank_deploy01",
         "criteria": [
             [
@@ -6058,7 +6058,7 @@
         "state": "used",
         "transcript": "Zhe Tank is dropping a bomb!"
     },
-    "vo/medic_mvm_tank_shooting01.mp3": {
+    "sound/vo/medic_mvm_tank_shooting01.mp3": {
         "base_name": "medic_mvm_tank_shooting01",
         "criteria": [
             [
@@ -6083,7 +6083,7 @@
         "state": "used",
         "transcript": "Shoot zhe Tank!"
     },
-    "vo/medic_mvm_tank_shooting02.mp3": {
+    "sound/vo/medic_mvm_tank_shooting02.mp3": {
         "base_name": "medic_mvm_tank_shooting02",
         "criteria": [
             [
@@ -6108,7 +6108,7 @@
         "state": "used",
         "transcript": "Kill zhat Tank!"
     },
-    "vo/medic_mvm_tank_shooting03.mp3": {
+    "sound/vo/medic_mvm_tank_shooting03.mp3": {
         "base_name": "medic_mvm_tank_shooting03",
         "criteria": [
             [
@@ -6133,7 +6133,7 @@
         "state": "used",
         "transcript": "Shoot at ein Kraftmaschine!"
     },
-    "vo/medic_mvm_taunt01.mp3": {
+    "sound/vo/medic_mvm_taunt01.mp3": {
         "base_name": "medic_mvm_taunt01",
         "criteria": [
             [
@@ -6158,7 +6158,7 @@
         "state": "used",
         "transcript": "Oh, I vill tear you apart, bolt by bolt!"
     },
-    "vo/medic_mvm_wave_end01.mp3": {
+    "sound/vo/medic_mvm_wave_end01.mp3": {
         "base_name": "medic_mvm_wave_end01",
         "criteria": [
             [
@@ -6183,7 +6183,7 @@
         "state": "used",
         "transcript": "Ve have done it!"
     },
-    "vo/medic_mvm_wave_end02.mp3": {
+    "sound/vo/medic_mvm_wave_end02.mp3": {
         "base_name": "medic_mvm_wave_end02",
         "criteria": [
             [
@@ -6208,7 +6208,7 @@
         "state": "used",
         "transcript": "Robots, haha!"
     },
-    "vo/medic_mvm_wave_end03.mp3": {
+    "sound/vo/medic_mvm_wave_end03.mp3": {
         "base_name": "medic_mvm_wave_end03",
         "criteria": [
             [
@@ -6233,7 +6233,7 @@
         "state": "used",
         "transcript": "(Hysterical laughter) Death to robots!"
     },
-    "vo/medic_mvm_wave_end04.mp3": {
+    "sound/vo/medic_mvm_wave_end04.mp3": {
         "base_name": "medic_mvm_wave_end04",
         "criteria": [
             [
@@ -6260,7 +6260,7 @@
         "state": "used",
         "transcript": "Oh, zhis is not gut."
     },
-    "vo/medic_mvm_wave_end05.mp3": {
+    "sound/vo/medic_mvm_wave_end05.mp3": {
         "base_name": "medic_mvm_wave_end05",
         "criteria": [
             [
@@ -6285,7 +6285,7 @@
         "state": "used",
         "transcript": "Ach, ve deserve to lose."
     },
-    "vo/medic_mvm_wave_end06.mp3": {
+    "sound/vo/medic_mvm_wave_end06.mp3": {
         "base_name": "medic_mvm_wave_end06",
         "criteria": [
             [
@@ -6313,7 +6313,7 @@
         "state": "used",
         "transcript": "Zhe flesh is veak."
     },
-    "vo/medic_mvm_wave_end07.mp3": {
+    "sound/vo/medic_mvm_wave_end07.mp3": {
         "base_name": "medic_mvm_wave_end07",
         "criteria": [
             [
@@ -6338,7 +6338,7 @@
         "state": "used",
         "transcript": "Robots are our masters."
     },
-    "vo/medic_needdispenser01.mp3": {
+    "sound/vo/medic_needdispenser01.mp3": {
         "base_name": "medic_needdispenser01",
         "criteria": [
             [
@@ -6361,7 +6361,7 @@
         "state": "used",
         "transcript": "Ze Dispenser goes here!"
     },
-    "vo/medic_needsentry01.mp3": {
+    "sound/vo/medic_needsentry01.mp3": {
         "base_name": "medic_needsentry01",
         "criteria": [
             [
@@ -6384,7 +6384,7 @@
         "state": "used",
         "transcript": "Ze Sentry goes here!"
     },
-    "vo/medic_needteleporter01.mp3": {
+    "sound/vo/medic_needteleporter01.mp3": {
         "base_name": "medic_needteleporter01",
         "criteria": [
             [
@@ -6407,7 +6407,7 @@
         "state": "used",
         "transcript": "Ze Teleporter goes here!"
     },
-    "vo/medic_negativevocalization01.mp3": {
+    "sound/vo/medic_negativevocalization01.mp3": {
         "base_name": "medic_negativevocalization01",
         "criteria": [
             [
@@ -6438,7 +6438,7 @@
         "state": "used",
         "transcript": "Gah!"
     },
-    "vo/medic_negativevocalization02.mp3": {
+    "sound/vo/medic_negativevocalization02.mp3": {
         "base_name": "medic_negativevocalization02",
         "criteria": [
             [
@@ -6477,7 +6477,7 @@
         "state": "used",
         "transcript": "(in a low, grim voice) \"Schweinhunds!\""
     },
-    "vo/medic_negativevocalization03.mp3": {
+    "sound/vo/medic_negativevocalization03.mp3": {
         "base_name": "medic_negativevocalization03",
         "criteria": [
             [
@@ -6506,7 +6506,7 @@
         "state": "used",
         "transcript": "Dummkopfs!"
     },
-    "vo/medic_negativevocalization04.mp3": {
+    "sound/vo/medic_negativevocalization04.mp3": {
         "base_name": "medic_negativevocalization04",
         "criteria": [
             [
@@ -6544,7 +6544,7 @@
         "state": "used",
         "transcript": "Raaah..."
     },
-    "vo/medic_negativevocalization05.mp3": {
+    "sound/vo/medic_negativevocalization05.mp3": {
         "base_name": "medic_negativevocalization05",
         "criteria": [
             [
@@ -6583,7 +6583,7 @@
         "state": "used",
         "transcript": "MNAAH!"
     },
-    "vo/medic_negativevocalization06.mp3": {
+    "sound/vo/medic_negativevocalization06.mp3": {
         "base_name": "medic_negativevocalization06",
         "criteria": [
             [
@@ -6623,7 +6623,7 @@
         "state": "used",
         "transcript": "Schweinhunds!"
     },
-    "vo/medic_negativevocalization07.mp3": {
+    "sound/vo/medic_negativevocalization07.mp3": {
         "base_name": "medic_negativevocalization07",
         "criteria": [
             [
@@ -6663,7 +6663,7 @@
         "state": "used",
         "transcript": "Dummkopfs!"
     },
-    "vo/medic_niceshot01.mp3": {
+    "sound/vo/medic_niceshot01.mp3": {
         "base_name": "medic_niceshot01",
         "criteria": [
             [
@@ -6686,7 +6686,7 @@
         "state": "used",
         "transcript": "Nice shot, kamerad!"
     },
-    "vo/medic_niceshot02.mp3": {
+    "sound/vo/medic_niceshot02.mp3": {
         "base_name": "medic_niceshot02",
         "criteria": [
             [
@@ -6709,7 +6709,7 @@
         "state": "used",
         "transcript": "Good shooting!"
     },
-    "vo/medic_no01.mp3": {
+    "sound/vo/medic_no01.mp3": {
         "base_name": "medic_no01",
         "criteria": [
             [
@@ -6732,7 +6732,7 @@
         "state": "used",
         "transcript": "Nein!"
     },
-    "vo/medic_no02.mp3": {
+    "sound/vo/medic_no02.mp3": {
         "base_name": "medic_no02",
         "criteria": [
             [
@@ -6755,7 +6755,7 @@
         "state": "used",
         "transcript": "No!"
     },
-    "vo/medic_no03.mp3": {
+    "sound/vo/medic_no03.mp3": {
         "base_name": "medic_no03",
         "criteria": [
             [
@@ -6778,7 +6778,7 @@
         "state": "used",
         "transcript": "Nichts da!"
     },
-    "vo/medic_paincrticialdeath01.mp3": {
+    "sound/vo/medic_paincrticialdeath01.mp3": {
         "base_name": "medic_paincrticialdeath01",
         "criteria": [],
         "events": [
@@ -6793,7 +6793,7 @@
         "state": "used",
         "transcript": "(Dying scream 1)"
     },
-    "vo/medic_paincrticialdeath02.mp3": {
+    "sound/vo/medic_paincrticialdeath02.mp3": {
         "base_name": "medic_paincrticialdeath02",
         "criteria": [],
         "events": [
@@ -6808,7 +6808,7 @@
         "state": "used",
         "transcript": "(Dying scream 2)"
     },
-    "vo/medic_paincrticialdeath03.mp3": {
+    "sound/vo/medic_paincrticialdeath03.mp3": {
         "base_name": "medic_paincrticialdeath03",
         "criteria": [],
         "events": [
@@ -6823,7 +6823,7 @@
         "state": "used",
         "transcript": "(Dying scream 3)"
     },
-    "vo/medic_paincrticialdeath04.mp3": {
+    "sound/vo/medic_paincrticialdeath04.mp3": {
         "base_name": "medic_paincrticialdeath04",
         "criteria": [],
         "events": [
@@ -6838,7 +6838,7 @@
         "state": "used",
         "transcript": "(Dying scream 4)"
     },
-    "vo/medic_painsevere01.mp3": {
+    "sound/vo/medic_painsevere01.mp3": {
         "base_name": "medic_painsevere01",
         "criteria": [
             [
@@ -6869,7 +6869,7 @@
         "state": "used",
         "transcript": "(Yell 1)"
     },
-    "vo/medic_painsevere02.mp3": {
+    "sound/vo/medic_painsevere02.mp3": {
         "base_name": "medic_painsevere02",
         "criteria": [
             [
@@ -6902,7 +6902,7 @@
         "state": "used",
         "transcript": "(Yell 2)"
     },
-    "vo/medic_painsevere03.mp3": {
+    "sound/vo/medic_painsevere03.mp3": {
         "base_name": "medic_painsevere03",
         "criteria": [
             [
@@ -6930,7 +6930,7 @@
         "state": "used",
         "transcript": "(Yell 3)"
     },
-    "vo/medic_painsevere04.mp3": {
+    "sound/vo/medic_painsevere04.mp3": {
         "base_name": "medic_painsevere04",
         "criteria": [
             [
@@ -6961,7 +6961,7 @@
         "state": "used",
         "transcript": "(Whimper)"
     },
-    "vo/medic_painsharp01.mp3": {
+    "sound/vo/medic_painsharp01.mp3": {
         "base_name": "medic_painsharp01",
         "criteria": [
             [
@@ -6999,7 +6999,7 @@
         "state": "used",
         "transcript": "(Grunt 1)"
     },
-    "vo/medic_painsharp02.mp3": {
+    "sound/vo/medic_painsharp02.mp3": {
         "base_name": "medic_painsharp02",
         "criteria": [
             [
@@ -7027,7 +7027,7 @@
         "state": "used",
         "transcript": "(Grunt 2)"
     },
-    "vo/medic_painsharp03.mp3": {
+    "sound/vo/medic_painsharp03.mp3": {
         "base_name": "medic_painsharp03",
         "criteria": [
             [
@@ -7065,7 +7065,7 @@
         "state": "used",
         "transcript": "(Grunt 3)"
     },
-    "vo/medic_painsharp04.mp3": {
+    "sound/vo/medic_painsharp04.mp3": {
         "base_name": "medic_painsharp04",
         "criteria": [
             [
@@ -7093,7 +7093,7 @@
         "state": "used",
         "transcript": "(Grunt 4)"
     },
-    "vo/medic_painsharp05.mp3": {
+    "sound/vo/medic_painsharp05.mp3": {
         "base_name": "medic_painsharp05",
         "criteria": [
             [
@@ -7121,7 +7121,7 @@
         "state": "used",
         "transcript": "(Grunt 5)"
     },
-    "vo/medic_painsharp06.mp3": {
+    "sound/vo/medic_painsharp06.mp3": {
         "base_name": "medic_painsharp06",
         "criteria": [
             [
@@ -7159,7 +7159,7 @@
         "state": "used",
         "transcript": "(Grunt 6)"
     },
-    "vo/medic_painsharp07.mp3": {
+    "sound/vo/medic_painsharp07.mp3": {
         "base_name": "medic_painsharp07",
         "criteria": [
             [
@@ -7187,7 +7187,7 @@
         "state": "used",
         "transcript": "(Grunt 7)"
     },
-    "vo/medic_painsharp08.mp3": {
+    "sound/vo/medic_painsharp08.mp3": {
         "base_name": "medic_painsharp08",
         "criteria": [
             [
@@ -7223,7 +7223,7 @@
         "state": "used",
         "transcript": "(Gasp)"
     },
-    "vo/medic_positivevocalization01.mp3": {
+    "sound/vo/medic_positivevocalization01.mp3": {
         "base_name": "medic_positivevocalization01",
         "criteria": [
             [
@@ -7246,7 +7246,7 @@
         "state": "used",
         "transcript": "Vondaful."
     },
-    "vo/medic_positivevocalization02.mp3": {
+    "sound/vo/medic_positivevocalization02.mp3": {
         "base_name": "medic_positivevocalization02",
         "criteria": [
             [
@@ -7277,7 +7277,7 @@
         "state": "used",
         "transcript": "Wunderbar!"
     },
-    "vo/medic_positivevocalization03.mp3": {
+    "sound/vo/medic_positivevocalization03.mp3": {
         "base_name": "medic_positivevocalization03",
         "criteria": [
             [
@@ -7310,7 +7310,7 @@
         "state": "used",
         "transcript": "Ha!"
     },
-    "vo/medic_positivevocalization04.mp3": {
+    "sound/vo/medic_positivevocalization04.mp3": {
         "base_name": "medic_positivevocalization04",
         "criteria": [],
         "events": [
@@ -7322,7 +7322,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/medic_positivevocalization05.mp3": {
+    "sound/vo/medic_positivevocalization05.mp3": {
         "base_name": "medic_positivevocalization05",
         "criteria": [
             [
@@ -7345,7 +7345,7 @@
         "state": "used",
         "transcript": "Dankesch\u00f6n, na na, Dankesch\u00f6n."
     },
-    "vo/medic_positivevocalization06.mp3": {
+    "sound/vo/medic_positivevocalization06.mp3": {
         "base_name": "medic_positivevocalization06",
         "criteria": [
             [
@@ -7368,7 +7368,7 @@
         "state": "used",
         "transcript": "(quietly to self) \"Dankesch\u00f6n, dankesch\u00f6n...\""
     },
-    "vo/medic_sentryahead01.mp3": {
+    "sound/vo/medic_sentryahead01.mp3": {
         "base_name": "medic_sentryahead01",
         "criteria": [
             [
@@ -7391,7 +7391,7 @@
         "state": "used",
         "transcript": "Sentry ahead!"
     },
-    "vo/medic_sentryahead02.mp3": {
+    "sound/vo/medic_sentryahead02.mp3": {
         "base_name": "medic_sentryahead02",
         "criteria": [
             [
@@ -7414,7 +7414,7 @@
         "state": "used",
         "transcript": "Zere is a Sentry ahead!"
     },
-    "vo/medic_sf12_attack01.mp3": {
+    "sound/vo/medic_sf12_attack01.mp3": {
         "base_name": "medic_sf12_attack01",
         "criteria": [],
         "events": [
@@ -7426,7 +7426,7 @@
         "state": "used",
         "transcript": "Everybody! Attack ze vizard!"
     },
-    "vo/medic_sf12_attack02.mp3": {
+    "sound/vo/medic_sf12_attack02.mp3": {
         "base_name": "medic_sf12_attack02",
         "criteria": [],
         "events": [
@@ -7438,7 +7438,7 @@
         "state": "used",
         "transcript": "Now! NOW! Attack ze vizard!"
     },
-    "vo/medic_sf12_attack03.mp3": {
+    "sound/vo/medic_sf12_attack03.mp3": {
         "base_name": "medic_sf12_attack03",
         "criteria": [],
         "events": [
@@ -7450,7 +7450,7 @@
         "state": "used",
         "transcript": "I vill heal you! Attack ze vizard!"
     },
-    "vo/medic_sf12_badmagic01.mp3": {
+    "sound/vo/medic_sf12_badmagic01.mp3": {
         "base_name": "medic_sf12_badmagic01",
         "criteria": [
             [
@@ -7473,7 +7473,7 @@
         "state": "used",
         "transcript": "Ooh. Big head."
     },
-    "vo/medic_sf12_badmagic02.mp3": {
+    "sound/vo/medic_sf12_badmagic02.mp3": {
         "base_name": "medic_sf12_badmagic02",
         "criteria": [
             [
@@ -7517,7 +7517,7 @@
         "state": "used",
         "transcript": "Fascinating."
     },
-    "vo/medic_sf12_badmagic03.mp3": {
+    "sound/vo/medic_sf12_badmagic03.mp3": {
         "base_name": "medic_sf12_badmagic03",
         "criteria": [
             [
@@ -7552,7 +7552,7 @@
         "state": "used",
         "transcript": "Ooh! Tiny little head!"
     },
-    "vo/medic_sf12_badmagic04.mp3": {
+    "sound/vo/medic_sf12_badmagic04.mp3": {
         "base_name": "medic_sf12_badmagic04",
         "criteria": [],
         "events": [
@@ -7564,7 +7564,7 @@
         "state": "used",
         "transcript": "Haha! Ooh! I have no head!"
     },
-    "vo/medic_sf12_badmagic05.mp3": {
+    "sound/vo/medic_sf12_badmagic05.mp3": {
         "base_name": "medic_sf12_badmagic05",
         "criteria": [
             [
@@ -7600,7 +7600,7 @@
         "state": "used",
         "transcript": "Ooh. Interesting."
     },
-    "vo/medic_sf12_badmagic06.mp3": {
+    "sound/vo/medic_sf12_badmagic06.mp3": {
         "base_name": "medic_sf12_badmagic06",
         "criteria": [
             [
@@ -7633,7 +7633,7 @@
         "state": "used",
         "transcript": "Ooh. Zhis is exciting!"
     },
-    "vo/medic_sf12_badmagic07.mp3": {
+    "sound/vo/medic_sf12_badmagic07.mp3": {
         "base_name": "medic_sf12_badmagic07",
         "criteria": [],
         "events": [
@@ -7645,7 +7645,7 @@
         "state": "used",
         "transcript": "Oh ho hoh! I have been in zhe wrong profession. I must learn zhis magic!"
     },
-    "vo/medic_sf12_badmagic08.mp3": {
+    "sound/vo/medic_sf12_badmagic08.mp3": {
         "base_name": "medic_sf12_badmagic08",
         "criteria": [
             [
@@ -7668,7 +7668,7 @@
         "state": "used",
         "transcript": "Ooh. Vhat is happening now?"
     },
-    "vo/medic_sf12_badmagic09.mp3": {
+    "sound/vo/medic_sf12_badmagic09.mp3": {
         "base_name": "medic_sf12_badmagic09",
         "criteria": [
             [
@@ -7709,7 +7709,7 @@
         "state": "used",
         "transcript": "Vhat a strange sensation!"
     },
-    "vo/medic_sf12_badmagic10.mp3": {
+    "sound/vo/medic_sf12_badmagic10.mp3": {
         "base_name": "medic_sf12_badmagic10",
         "criteria": [],
         "events": [
@@ -7726,7 +7726,7 @@
         "state": "used",
         "transcript": "Uhh. Uh-oh. Alright, zhis is actually really bad."
     },
-    "vo/medic_sf12_badmagic11.mp3": {
+    "sound/vo/medic_sf12_badmagic11.mp3": {
         "base_name": "medic_sf12_badmagic11",
         "criteria": [],
         "events": [
@@ -7738,7 +7738,7 @@
         "state": "used",
         "transcript": "My-my blood is entirely out of my body. Vhat a curious feeling!"
     },
-    "vo/medic_sf12_badmagic12.mp3": {
+    "sound/vo/medic_sf12_badmagic12.mp3": {
         "base_name": "medic_sf12_badmagic12",
         "criteria": [
             [
@@ -7775,7 +7775,7 @@
         "state": "used",
         "transcript": "Wuh ho ho! Vhat a curious sensation!"
     },
-    "vo/medic_sf12_bombinomicon01.mp3": {
+    "sound/vo/medic_sf12_bombinomicon01.mp3": {
         "base_name": "medic_sf12_bombinomicon01",
         "criteria": [],
         "events": [
@@ -7787,7 +7787,7 @@
         "state": "used",
         "transcript": "Hoh! Zhat book certainly seems angry!"
     },
-    "vo/medic_sf12_bombinomicon02.mp3": {
+    "sound/vo/medic_sf12_bombinomicon02.mp3": {
         "base_name": "medic_sf12_bombinomicon02",
         "criteria": [],
         "events": [
@@ -7799,7 +7799,7 @@
         "state": "used",
         "transcript": "Uh, hello! Magic book? Do you still have Demoman's eye? I'll trade you a heart for it!"
     },
-    "vo/medic_sf12_bombinomicon03.mp3": {
+    "sound/vo/medic_sf12_bombinomicon03.mp3": {
         "base_name": "medic_sf12_bombinomicon03",
         "criteria": [],
         "events": [
@@ -7811,7 +7811,7 @@
         "state": "used",
         "transcript": "Hoh! Zhat book is full of bombs!"
     },
-    "vo/medic_sf12_bombinomicon04.mp3": {
+    "sound/vo/medic_sf12_bombinomicon04.mp3": {
         "base_name": "medic_sf12_bombinomicon04",
         "criteria": [],
         "events": [
@@ -7823,7 +7823,7 @@
         "state": "used",
         "transcript": "So many bombs!"
     },
-    "vo/medic_sf12_bombinomicon05.mp3": {
+    "sound/vo/medic_sf12_bombinomicon05.mp3": {
         "base_name": "medic_sf12_bombinomicon05",
         "criteria": [],
         "events": [
@@ -7835,7 +7835,7 @@
         "state": "used",
         "transcript": "Woo! What is zhat book doing?"
     },
-    "vo/medic_sf12_charging01.mp3": {
+    "sound/vo/medic_sf12_charging01.mp3": {
         "base_name": "medic_sf12_charging01",
         "criteria": [],
         "events": [
@@ -7847,7 +7847,7 @@
         "state": "used",
         "transcript": "The vizard is charging!"
     },
-    "vo/medic_sf12_falling01.mp3": {
+    "sound/vo/medic_sf12_falling01.mp3": {
         "base_name": "medic_sf12_falling01",
         "criteria": [
             [
@@ -7870,7 +7870,7 @@
         "state": "used",
         "transcript": "(Long scream)"
     },
-    "vo/medic_sf12_goodmagic01.mp3": {
+    "sound/vo/medic_sf12_goodmagic01.mp3": {
         "base_name": "medic_sf12_goodmagic01",
         "criteria": [
             [
@@ -7894,7 +7894,7 @@
         "state": "used",
         "transcript": "I have so much power!"
     },
-    "vo/medic_sf12_goodmagic02.mp3": {
+    "sound/vo/medic_sf12_goodmagic02.mp3": {
         "base_name": "medic_sf12_goodmagic02",
         "criteria": [
             [
@@ -7918,7 +7918,7 @@
         "state": "used",
         "transcript": "I am full of magic!"
     },
-    "vo/medic_sf12_goodmagic03.mp3": {
+    "sound/vo/medic_sf12_goodmagic03.mp3": {
         "base_name": "medic_sf12_goodmagic03",
         "criteria": [
             [
@@ -7942,7 +7942,7 @@
         "state": "used",
         "transcript": "I am coming for you, vizard!"
     },
-    "vo/medic_sf12_goodmagic04.mp3": {
+    "sound/vo/medic_sf12_goodmagic04.mp3": {
         "base_name": "medic_sf12_goodmagic04",
         "criteria": [
             [
@@ -7966,7 +7966,7 @@
         "state": "used",
         "transcript": "Ooh. I must learn how to do zhat."
     },
-    "vo/medic_sf12_healing01.mp3": {
+    "sound/vo/medic_sf12_healing01.mp3": {
         "base_name": "medic_sf12_healing01",
         "criteria": [],
         "events": [
@@ -7978,7 +7978,7 @@
         "state": "used",
         "transcript": "He's healing himself!"
     },
-    "vo/medic_sf12_healing02.mp3": {
+    "sound/vo/medic_sf12_healing02.mp3": {
         "base_name": "medic_sf12_healing02",
         "criteria": [],
         "events": [
@@ -7990,7 +7990,7 @@
         "state": "used",
         "transcript": "KILL HIM! He's healing himself!"
     },
-    "vo/medic_sf12_scared01.mp3": {
+    "sound/vo/medic_sf12_scared01.mp3": {
         "base_name": "medic_sf12_scared01",
         "criteria": [
             [
@@ -8018,7 +8018,7 @@
         "state": "used",
         "transcript": "RUN!"
     },
-    "vo/medic_sf12_scared02.mp3": {
+    "sound/vo/medic_sf12_scared02.mp3": {
         "base_name": "medic_sf12_scared02",
         "criteria": [
             [
@@ -8046,7 +8046,7 @@
         "state": "used",
         "transcript": "GET AVAY!"
     },
-    "vo/medic_sf12_scared03.mp3": {
+    "sound/vo/medic_sf12_scared03.mp3": {
         "base_name": "medic_sf12_scared03",
         "criteria": [],
         "events": [
@@ -8058,7 +8058,7 @@
         "state": "used",
         "transcript": "GET AVAY FROM ZHE VIZARD!"
     },
-    "vo/medic_sf12_seeking01.mp3": {
+    "sound/vo/medic_sf12_seeking01.mp3": {
         "base_name": "medic_sf12_seeking01",
         "criteria": [
             [
@@ -8085,7 +8085,7 @@
         "state": "used",
         "transcript": "Vizard! Where are you?"
     },
-    "vo/medic_sf12_seeking02.mp3": {
+    "sound/vo/medic_sf12_seeking02.mp3": {
         "base_name": "medic_sf12_seeking02",
         "criteria": [
             [
@@ -8112,7 +8112,7 @@
         "state": "used",
         "transcript": "Vizard! Zhe sooner you come out, the sooner ve can kill you!"
     },
-    "vo/medic_sf12_seeking03.mp3": {
+    "sound/vo/medic_sf12_seeking03.mp3": {
         "base_name": "medic_sf12_seeking03",
         "criteria": [
             [
@@ -8139,7 +8139,7 @@
         "state": "used",
         "transcript": "Come out, Merasmus! Ve have much to discuss!"
     },
-    "vo/medic_sf12_seeking04.mp3": {
+    "sound/vo/medic_sf12_seeking04.mp3": {
         "base_name": "medic_sf12_seeking04",
         "criteria": [],
         "events": [
@@ -8151,7 +8151,7 @@
         "state": "used",
         "transcript": "Come out, Merasmus! Nothing vill happen to you. I svear!\" (breathless laughter) \"I can't...ve're going to kill you! (more laughter)"
     },
-    "vo/medic_sf12_seeking05.mp3": {
+    "sound/vo/medic_sf12_seeking05.mp3": {
         "base_name": "medic_sf12_seeking05",
         "criteria": [
             [
@@ -8178,7 +8178,7 @@
         "state": "used",
         "transcript": "Zhat vizard is hiding somevhere."
     },
-    "vo/medic_sf12_seeking06.mp3": {
+    "sound/vo/medic_sf12_seeking06.mp3": {
         "base_name": "medic_sf12_seeking06",
         "criteria": [
             [
@@ -8205,7 +8205,7 @@
         "state": "used",
         "transcript": "Merasmus?"
     },
-    "vo/medic_sf12_seeking07.mp3": {
+    "sound/vo/medic_sf12_seeking07.mp3": {
         "base_name": "medic_sf12_seeking07",
         "criteria": [],
         "events": [
@@ -8217,7 +8217,7 @@
         "state": "used",
         "transcript": "Vhere are you, vizard?"
     },
-    "vo/medic_sf12_seeking08.mp3": {
+    "sound/vo/medic_sf12_seeking08.mp3": {
         "base_name": "medic_sf12_seeking08",
         "criteria": [],
         "events": [
@@ -8229,7 +8229,7 @@
         "state": "used",
         "transcript": "Vizard!"
     },
-    "vo/medic_sf12_taunts02.mp3": {
+    "sound/vo/medic_sf12_taunts02.mp3": {
         "base_name": "medic_sf12_taunts02",
         "criteria": [
             [
@@ -8256,7 +8256,7 @@
         "state": "used",
         "transcript": "(Evil laughter)"
     },
-    "vo/medic_sf12_taunts03.mp3": {
+    "sound/vo/medic_sf12_taunts03.mp3": {
         "base_name": "medic_sf12_taunts03",
         "criteria": [
             [
@@ -8289,7 +8289,7 @@
         "state": "used",
         "transcript": "(Happy laughter)"
     },
-    "vo/medic_sf12_taunts04.mp3": {
+    "sound/vo/medic_sf12_taunts04.mp3": {
         "base_name": "medic_sf12_taunts04",
         "criteria": [
             [
@@ -8313,7 +8313,7 @@
         "state": "used",
         "transcript": "Oh. Magic. Ghosts! Oho! Zhis is so much fun!"
     },
-    "vo/medic_sf12_taunts05.mp3": {
+    "sound/vo/medic_sf12_taunts05.mp3": {
         "base_name": "medic_sf12_taunts05",
         "criteria": [],
         "events": [
@@ -8325,7 +8325,7 @@
         "state": "used",
         "transcript": "Oh hohoho. I love Halloveen!"
     },
-    "vo/medic_sf13_cart_forward01.mp3": {
+    "sound/vo/medic_sf13_cart_forward01.mp3": {
         "base_name": "medic_sf13_cart_forward01",
         "criteria": [
             [
@@ -8353,7 +8353,7 @@
         "state": "used",
         "transcript": "Raus, raus! Move ze wheelchair!"
     },
-    "vo/medic_sf13_cart_forward02.mp3": {
+    "sound/vo/medic_sf13_cart_forward02.mp3": {
         "base_name": "medic_sf13_cart_forward02",
         "criteria": [
             [
@@ -8379,7 +8379,7 @@
         "state": "used",
         "transcript": "Push zat old man to hell!"
     },
-    "vo/medic_sf13_cart_forward03.mp3": {
+    "sound/vo/medic_sf13_cart_forward03.mp3": {
         "base_name": "medic_sf13_cart_forward03",
         "criteria": [
             [
@@ -8407,7 +8407,7 @@
         "state": "used",
         "transcript": "Push ze dead man!"
     },
-    "vo/medic_sf13_influx_big02.mp3": {
+    "sound/vo/medic_sf13_influx_big02.mp3": {
         "base_name": "medic_sf13_influx_big02",
         "criteria": [
             [
@@ -8430,7 +8430,7 @@
         "state": "used",
         "transcript": "Today!! I am a God!! (maniacal laughter)"
     },
-    "vo/medic_sf13_influx_big03.mp3": {
+    "sound/vo/medic_sf13_influx_big03.mp3": {
         "base_name": "medic_sf13_influx_big03",
         "criteria": [
             [
@@ -8456,7 +8456,7 @@
         "state": "used",
         "transcript": "(Maniacal laughter)"
     },
-    "vo/medic_sf13_influx_small02.mp3": {
+    "sound/vo/medic_sf13_influx_small02.mp3": {
         "base_name": "medic_sf13_influx_small02",
         "criteria": [
             [
@@ -8485,7 +8485,7 @@
         "state": "used",
         "transcript": "Ooh, tingly."
     },
-    "vo/medic_sf13_magic_reac01.mp3": {
+    "sound/vo/medic_sf13_magic_reac01.mp3": {
         "base_name": "medic_sf13_magic_reac01",
         "criteria": [
             [
@@ -8514,7 +8514,7 @@
         "state": "used",
         "transcript": "Vhat is happening?!"
     },
-    "vo/medic_sf13_magic_reac02.mp3": {
+    "sound/vo/medic_sf13_magic_reac02.mp3": {
         "base_name": "medic_sf13_magic_reac02",
         "criteria": [
             [
@@ -8546,7 +8546,7 @@
         "state": "used",
         "transcript": "Zhe horror! Zhe horror!"
     },
-    "vo/medic_sf13_magic_reac03.mp3": {
+    "sound/vo/medic_sf13_magic_reac03.mp3": {
         "base_name": "medic_sf13_magic_reac03",
         "criteria": [
             [
@@ -8575,7 +8575,7 @@
         "state": "used",
         "transcript": "I can't take any more of zis insanity!"
     },
-    "vo/medic_sf13_magic_reac04.mp3": {
+    "sound/vo/medic_sf13_magic_reac04.mp3": {
         "base_name": "medic_sf13_magic_reac04",
         "criteria": [
             [
@@ -8604,7 +8604,7 @@
         "state": "used",
         "transcript": "Ahh! Insanity!"
     },
-    "vo/medic_sf13_magic_reac05.mp3": {
+    "sound/vo/medic_sf13_magic_reac05.mp3": {
         "base_name": "medic_sf13_magic_reac05",
         "criteria": [
             [
@@ -8633,7 +8633,7 @@
         "state": "used",
         "transcript": "Someone make zhe magic stop!"
     },
-    "vo/medic_sf13_magic_reac06.mp3": {
+    "sound/vo/medic_sf13_magic_reac06.mp3": {
         "base_name": "medic_sf13_magic_reac06",
         "criteria": [
             [
@@ -8662,7 +8662,7 @@
         "state": "used",
         "transcript": "Too much magic!"
     },
-    "vo/medic_sf13_magic_reac07.mp3": {
+    "sound/vo/medic_sf13_magic_reac07.mp3": {
         "base_name": "medic_sf13_magic_reac07",
         "criteria": [
             [
@@ -8691,7 +8691,7 @@
         "state": "used",
         "transcript": "I can't take it any more!"
     },
-    "vo/medic_sf13_midnight01.mp3": {
+    "sound/vo/medic_sf13_midnight01.mp3": {
         "base_name": "medic_sf13_midnight01",
         "criteria": [
             [
@@ -8717,7 +8717,7 @@
         "state": "used",
         "transcript": "Ze bridge is down!"
     },
-    "vo/medic_sf13_midnight02.mp3": {
+    "sound/vo/medic_sf13_midnight02.mp3": {
         "base_name": "medic_sf13_midnight02",
         "criteria": [
             [
@@ -8743,7 +8743,7 @@
         "state": "used",
         "transcript": "Everyone, get to ze bridge!!"
     },
-    "vo/medic_sf13_midnight03.mp3": {
+    "sound/vo/medic_sf13_midnight03.mp3": {
         "base_name": "medic_sf13_midnight03",
         "criteria": [
             [
@@ -8769,7 +8769,7 @@
         "state": "used",
         "transcript": "Ze bridge!"
     },
-    "vo/medic_sf13_midnight06.mp3": {
+    "sound/vo/medic_sf13_midnight06.mp3": {
         "base_name": "medic_sf13_midnight06",
         "criteria": [
             [
@@ -8796,7 +8796,7 @@
         "state": "used",
         "transcript": "Ze clock has struck! Schnell, schnell!"
     },
-    "vo/medic_sf13_midnight07.mp3": {
+    "sound/vo/medic_sf13_midnight07.mp3": {
         "base_name": "medic_sf13_midnight07",
         "criteria": [
             [
@@ -8823,7 +8823,7 @@
         "state": "used",
         "transcript": "Ze clock has struck!"
     },
-    "vo/medic_sf13_spell_bombhead01.mp3": {
+    "sound/vo/medic_sf13_spell_bombhead01.mp3": {
         "base_name": "medic_sf13_spell_bombhead01",
         "criteria": [
             [
@@ -8848,7 +8848,7 @@
         "state": "used",
         "transcript": "Caputus crepitus!"
     },
-    "vo/medic_sf13_spell_devil_bargain01.mp3": {
+    "sound/vo/medic_sf13_spell_devil_bargain01.mp3": {
         "base_name": "medic_sf13_spell_devil_bargain01",
         "criteria": [
             [
@@ -8871,7 +8871,7 @@
         "state": "used",
         "transcript": "Pactum diabolus!"
     },
-    "vo/medic_sf13_spell_earthquake01.mp3": {
+    "sound/vo/medic_sf13_spell_earthquake01.mp3": {
         "base_name": "medic_sf13_spell_earthquake01",
         "criteria": [
             [
@@ -8894,7 +8894,7 @@
         "state": "used",
         "transcript": "Seismela tremoro!"
     },
-    "vo/medic_sf13_spell_generic04.mp3": {
+    "sound/vo/medic_sf13_spell_generic04.mp3": {
         "base_name": "medic_sf13_spell_generic04",
         "criteria": [
             [
@@ -8917,7 +8917,7 @@
         "state": "used",
         "transcript": "Barpo kabalto!"
     },
-    "vo/medic_sf13_spell_invisibility01.mp3": {
+    "sound/vo/medic_sf13_spell_invisibility01.mp3": {
         "base_name": "medic_sf13_spell_invisibility01",
         "criteria": [
             [
@@ -8940,7 +8940,7 @@
         "state": "used",
         "transcript": "Barpo invisium!"
     },
-    "vo/medic_sf13_spell_lightning_bolt01.mp3": {
+    "sound/vo/medic_sf13_spell_lightning_bolt01.mp3": {
         "base_name": "medic_sf13_spell_lightning_bolt01",
         "criteria": [
             [
@@ -8963,7 +8963,7 @@
         "state": "used",
         "transcript": "Imputum fulmenus!"
     },
-    "vo/medic_sf13_spell_summon_monoculous01.mp3": {
+    "sound/vo/medic_sf13_spell_summon_monoculous01.mp3": {
         "base_name": "medic_sf13_spell_summon_monoculous01",
         "criteria": [
             [
@@ -8986,7 +8986,7 @@
         "state": "used",
         "transcript": "Invokum Monoculus!"
     },
-    "vo/medic_sf13_spell_super_jump01.mp3": {
+    "sound/vo/medic_sf13_spell_super_jump01.mp3": {
         "base_name": "medic_sf13_spell_super_jump01",
         "criteria": [
             [
@@ -9009,7 +9009,7 @@
         "state": "used",
         "transcript": "Amplus tripudio!"
     },
-    "vo/medic_sf13_spell_super_speed01.mp3": {
+    "sound/vo/medic_sf13_spell_super_speed01.mp3": {
         "base_name": "medic_sf13_spell_super_speed01",
         "criteria": [
             [
@@ -9032,7 +9032,7 @@
         "state": "used",
         "transcript": "Paidum celeris!"
     },
-    "vo/medic_sf13_spell_teleport_self01.mp3": {
+    "sound/vo/medic_sf13_spell_teleport_self01.mp3": {
         "base_name": "medic_sf13_spell_teleport_self01",
         "criteria": [
             [
@@ -9055,7 +9055,7 @@
         "state": "used",
         "transcript": "Ipsum instantarium!"
     },
-    "vo/medic_sf13_spell_uber01.mp3": {
+    "sound/vo/medic_sf13_spell_uber01.mp3": {
         "base_name": "medic_sf13_spell_uber01",
         "criteria": [
             [
@@ -9078,7 +9078,7 @@
         "state": "used",
         "transcript": "Deus invictus!"
     },
-    "vo/medic_sf13_spell_zombie_horde01.mp3": {
+    "sound/vo/medic_sf13_spell_zombie_horde01.mp3": {
         "base_name": "medic_sf13_spell_zombie_horde01",
         "criteria": [
             [
@@ -9101,7 +9101,7 @@
         "state": "used",
         "transcript": "Mortis animataris!"
     },
-    "vo/medic_specialcompleted-assistedkill01.mp3": {
+    "sound/vo/medic_specialcompleted-assistedkill01.mp3": {
         "base_name": "medic_specialcompleted-assistedkill01",
         "criteria": [
             [
@@ -9140,7 +9140,7 @@
         "state": "used",
         "transcript": "Danke, Kamerad!"
     },
-    "vo/medic_specialcompleted-assistedkill02.mp3": {
+    "sound/vo/medic_specialcompleted-assistedkill02.mp3": {
         "base_name": "medic_specialcompleted-assistedkill02",
         "criteria": [
             [
@@ -9179,7 +9179,7 @@
         "state": "used",
         "transcript": "Ve did it, Kamerad!"
     },
-    "vo/medic_specialcompleted01.mp3": {
+    "sound/vo/medic_specialcompleted01.mp3": {
         "base_name": "medic_specialcompleted01",
         "criteria": [
             [
@@ -9230,7 +9230,7 @@
         "state": "used",
         "transcript": "[Quietly] \"Did zat sting?\" [Loudly] \"SAW-ry!\""
     },
-    "vo/medic_specialcompleted02.mp3": {
+    "sound/vo/medic_specialcompleted02.mp3": {
         "base_name": "medic_specialcompleted02",
         "criteria": [
             [
@@ -9290,7 +9290,7 @@
         "state": "used",
         "transcript": "Ze healing is not as revarding as ze hurting."
     },
-    "vo/medic_specialcompleted03.mp3": {
+    "sound/vo/medic_specialcompleted03.mp3": {
         "base_name": "medic_specialcompleted03",
         "criteria": [
             [
@@ -9330,7 +9330,7 @@
         "state": "used",
         "transcript": "Ze healing leaves little time for ze hurting."
     },
-    "vo/medic_specialcompleted04.mp3": {
+    "sound/vo/medic_specialcompleted04.mp3": {
         "base_name": "medic_specialcompleted04",
         "criteria": [
             [
@@ -9365,7 +9365,7 @@
         "state": "used",
         "transcript": "Now go!"
     },
-    "vo/medic_specialcompleted05.mp3": {
+    "sound/vo/medic_specialcompleted05.mp3": {
         "base_name": "medic_specialcompleted05",
         "criteria": [
             [
@@ -9400,7 +9400,7 @@
         "state": "used",
         "transcript": "Get zem. Raus, Raus!"
     },
-    "vo/medic_specialcompleted06.mp3": {
+    "sound/vo/medic_specialcompleted06.mp3": {
         "base_name": "medic_specialcompleted06",
         "criteria": [
             [
@@ -9435,7 +9435,7 @@
         "state": "used",
         "transcript": "Schnell! Go get zem!"
     },
-    "vo/medic_specialcompleted07.mp3": {
+    "sound/vo/medic_specialcompleted07.mp3": {
         "base_name": "medic_specialcompleted07",
         "criteria": [
             [
@@ -9484,7 +9484,7 @@
         "state": "used",
         "transcript": "Good to go!"
     },
-    "vo/medic_specialcompleted08.mp3": {
+    "sound/vo/medic_specialcompleted08.mp3": {
         "base_name": "medic_specialcompleted08",
         "criteria": [
             [
@@ -9510,7 +9510,7 @@
         "state": "used",
         "transcript": "Did ze Fr\u00e4uleins have zeir Mittelschmerz?"
     },
-    "vo/medic_specialcompleted09.mp3": {
+    "sound/vo/medic_specialcompleted09.mp3": {
         "base_name": "medic_specialcompleted09",
         "criteria": [
             [
@@ -9568,7 +9568,7 @@
         "state": "used",
         "transcript": "Zat vas doktor-assisted homicide!"
     },
-    "vo/medic_specialcompleted10.mp3": {
+    "sound/vo/medic_specialcompleted10.mp3": {
         "base_name": "medic_specialcompleted10",
         "criteria": [
             [
@@ -9629,7 +9629,7 @@
         "state": "used",
         "transcript": "Oops! Zat vas not Medizin!"
     },
-    "vo/medic_specialcompleted11.mp3": {
+    "sound/vo/medic_specialcompleted11.mp3": {
         "base_name": "medic_specialcompleted11",
         "criteria": [
             [
@@ -9670,7 +9670,7 @@
         "state": "used",
         "transcript": "Can you feel ze Schadenfreude?"
     },
-    "vo/medic_specialcompleted12.mp3": {
+    "sound/vo/medic_specialcompleted12.mp3": {
         "base_name": "medic_specialcompleted12",
         "criteria": [
             [
@@ -9711,7 +9711,7 @@
         "state": "used",
         "transcript": "Haha! Vhat a bloodbazh!"
     },
-    "vo/medic_standonthepoint01.mp3": {
+    "sound/vo/medic_standonthepoint01.mp3": {
         "base_name": "medic_standonthepoint01",
         "criteria": [
             [
@@ -9745,7 +9745,7 @@
         "state": "used",
         "transcript": "Get on ze point, dummkopf!"
     },
-    "vo/medic_standonthepoint02.mp3": {
+    "sound/vo/medic_standonthepoint02.mp3": {
         "base_name": "medic_standonthepoint02",
         "criteria": [
             [
@@ -9779,7 +9779,7 @@
         "state": "used",
         "transcript": "Stand on ze point, schweinhund!"
     },
-    "vo/medic_standonthepoint03.mp3": {
+    "sound/vo/medic_standonthepoint03.mp3": {
         "base_name": "medic_standonthepoint03",
         "criteria": [
             [
@@ -9813,7 +9813,7 @@
         "state": "used",
         "transcript": "Idiot! Get on ze point!"
     },
-    "vo/medic_standonthepoint04.mp3": {
+    "sound/vo/medic_standonthepoint04.mp3": {
         "base_name": "medic_standonthepoint04",
         "criteria": [
             [
@@ -9847,7 +9847,7 @@
         "state": "used",
         "transcript": "Idiot! Stand on ze point!"
     },
-    "vo/medic_standonthepoint05.mp3": {
+    "sound/vo/medic_standonthepoint05.mp3": {
         "base_name": "medic_standonthepoint05",
         "criteria": [
             [
@@ -9881,7 +9881,7 @@
         "state": "used",
         "transcript": "Standing near ze point does nussing; get on ze point, dummkopf!"
     },
-    "vo/medic_thanks01.mp3": {
+    "sound/vo/medic_thanks01.mp3": {
         "base_name": "medic_thanks01",
         "criteria": [
             [
@@ -9904,7 +9904,7 @@
         "state": "used",
         "transcript": "Zank you."
     },
-    "vo/medic_thanks02.mp3": {
+    "sound/vo/medic_thanks02.mp3": {
         "base_name": "medic_thanks02",
         "criteria": [
             [
@@ -9930,7 +9930,7 @@
         "state": "used",
         "transcript": "Danke!"
     },
-    "vo/medic_thanksfortheheal01.mp3": {
+    "sound/vo/medic_thanksfortheheal01.mp3": {
         "base_name": "medic_thanksfortheheal01",
         "criteria": [
             [
@@ -9957,7 +9957,7 @@
         "state": "used",
         "transcript": "Zank you, Herr Doktor!"
     },
-    "vo/medic_thanksfortheheal02.mp3": {
+    "sound/vo/medic_thanksfortheheal02.mp3": {
         "base_name": "medic_thanksfortheheal02",
         "criteria": [
             [
@@ -9984,7 +9984,7 @@
         "state": "used",
         "transcript": "Danke, Herr Doktor!"
     },
-    "vo/medic_thanksfortheteleporter01.mp3": {
+    "sound/vo/medic_thanksfortheteleporter01.mp3": {
         "base_name": "medic_thanksfortheteleporter01",
         "criteria": [
             [
@@ -10009,7 +10009,7 @@
         "state": "used",
         "transcript": "Danke, Engineer!"
     },
-    "vo/medic_thanksfortheteleporter02.mp3": {
+    "sound/vo/medic_thanksfortheteleporter02.mp3": {
         "base_name": "medic_thanksfortheteleporter02",
         "criteria": [
             [
@@ -10041,7 +10041,7 @@
         "state": "used",
         "transcript": "Danke, mein hard-hatted friend!"
     },
-    "vo/medic_thanksfortheteleporter03.mp3": {
+    "sound/vo/medic_thanksfortheteleporter03.mp3": {
         "base_name": "medic_thanksfortheteleporter03",
         "criteria": [
             [
@@ -10066,7 +10066,7 @@
         "state": "used",
         "transcript": "Zank you, Engineer!"
     },
-    "vo/medic_trade_taunts01.mp3": {
+    "sound/vo/medic_trade_taunts01.mp3": {
         "base_name": "medic_trade_taunts01",
         "criteria": [],
         "events": [
@@ -10078,7 +10078,7 @@
         "state": "used",
         "transcript": "Ve should trade!"
     },
-    "vo/medic_trade_taunts02.mp3": {
+    "sound/vo/medic_trade_taunts02.mp3": {
         "base_name": "medic_trade_taunts02",
         "criteria": [],
         "events": [
@@ -10101,7 +10101,7 @@
         "state": "used",
         "transcript": "Oh, I see you looking!"
     },
-    "vo/medic_trade_taunts03.mp3": {
+    "sound/vo/medic_trade_taunts03.mp3": {
         "base_name": "medic_trade_taunts03",
         "criteria": [],
         "events": [
@@ -10113,7 +10113,7 @@
         "state": "used",
         "transcript": "You vant zis? ZEN TRADE ME FOR IT!"
     },
-    "vo/medic_trade_taunts04.mp3": {
+    "sound/vo/medic_trade_taunts04.mp3": {
         "base_name": "medic_trade_taunts04",
         "criteria": [],
         "events": [
@@ -10125,7 +10125,7 @@
         "state": "used",
         "transcript": "Let us trade! Schnell!"
     },
-    "vo/medic_weapon_taunts01.mp3": {
+    "sound/vo/medic_weapon_taunts01.mp3": {
         "base_name": "medic_weapon_taunts01",
         "criteria": [],
         "events": [
@@ -10137,7 +10137,7 @@
         "state": "used",
         "transcript": "Heh ha! Your silly clown veapon is making a mockery of zis var!"
     },
-    "vo/medic_weapon_taunts02.mp3": {
+    "sound/vo/medic_weapon_taunts02.mp3": {
         "base_name": "medic_weapon_taunts02",
         "criteria": [],
         "events": [
@@ -10149,7 +10149,7 @@
         "state": "used",
         "transcript": "Ho ho! What did you think you are going to kill with zhat?"
     },
-    "vo/medic_weapon_taunts03.mp3": {
+    "sound/vo/medic_weapon_taunts03.mp3": {
         "base_name": "medic_weapon_taunts03",
         "criteria": [],
         "events": [
@@ -10161,7 +10161,7 @@
         "state": "used",
         "transcript": "Hahahaha! Ha I'm- I'm sorry- I'm sorry, I- I'm not laughing at you, it's just your- your veapon! Hahaha!"
     },
-    "vo/medic_yes01.mp3": {
+    "sound/vo/medic_yes01.mp3": {
         "base_name": "medic_yes01",
         "criteria": [
             [
@@ -10190,7 +10190,7 @@
         "state": "used",
         "transcript": "Ja."
     },
-    "vo/medic_yes02.mp3": {
+    "sound/vo/medic_yes02.mp3": {
         "base_name": "medic_yes02",
         "criteria": [
             [
@@ -10221,7 +10221,7 @@
         "state": "used",
         "transcript": "Jawohl."
     },
-    "vo/medic_yes03.mp3": {
+    "sound/vo/medic_yes03.mp3": {
         "base_name": "medic_yes03",
         "criteria": [
             [
@@ -10244,7 +10244,7 @@
         "state": "used",
         "transcript": "Yes."
     },
-    "vo/taunts/medic/medic_taunt_admire_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_01.mp3": {
         "base_name": "medic_taunt_admire_01",
         "criteria": [],
         "events": [
@@ -10272,7 +10272,7 @@
         "state": "used",
         "transcript": "Ha ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_admire_02.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_02.mp3": {
         "base_name": "medic_taunt_admire_02",
         "criteria": [],
         "events": [
@@ -10301,7 +10301,7 @@
         "state": "used",
         "transcript": "Ha ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_admire_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_03.mp3": {
         "base_name": "medic_taunt_admire_03",
         "criteria": [],
         "events": [
@@ -10323,7 +10323,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/taunts/medic/medic_taunt_admire_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_07.mp3": {
         "base_name": "medic_taunt_admire_07",
         "criteria": [],
         "events": [
@@ -10348,7 +10348,7 @@
         "state": "used",
         "transcript": "Zank you, heh ha!"
     },
-    "vo/taunts/medic/medic_taunt_admire_10.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_10.mp3": {
         "base_name": "medic_taunt_admire_10",
         "criteria": [],
         "events": [
@@ -10369,7 +10369,7 @@
         "state": "used",
         "transcript": "Zank you!"
     },
-    "vo/taunts/medic/medic_taunt_admire_13.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_13.mp3": {
         "base_name": "medic_taunt_admire_13",
         "criteria": [],
         "events": [
@@ -10394,7 +10394,7 @@
         "state": "used",
         "transcript": "Zhat vas fun! Heh ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_admire_14.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_14.mp3": {
         "base_name": "medic_taunt_admire_14",
         "criteria": [],
         "events": [
@@ -10418,7 +10418,7 @@
         "state": "used",
         "transcript": "Zhat vas fun! Hoh!"
     },
-    "vo/taunts/medic/medic_taunt_admire_20.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_20.mp3": {
         "base_name": "medic_taunt_admire_20",
         "criteria": [],
         "events": [
@@ -10440,7 +10440,7 @@
         "state": "used",
         "transcript": "Very nice!"
     },
-    "vo/taunts/medic/medic_taunt_admire_22.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_admire_22.mp3": {
         "base_name": "medic_taunt_admire_22",
         "criteria": [],
         "events": [
@@ -10464,7 +10464,7 @@
         "state": "used",
         "transcript": "My zhanks!"
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_01.mp3": {
         "base_name": "medic_taunt_cong_fun_01",
         "criteria": [],
         "events": [
@@ -10480,7 +10480,7 @@
         "state": "used",
         "transcript": "Vun, two, zhree, kick!"
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_06.mp3": {
         "base_name": "medic_taunt_cong_fun_06",
         "criteria": [],
         "events": [
@@ -10496,7 +10496,7 @@
         "state": "used",
         "transcript": "(hushed singing) \"I like doing ze conga!\""
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_07.mp3": {
         "base_name": "medic_taunt_cong_fun_07",
         "criteria": [],
         "events": [
@@ -10512,7 +10512,7 @@
         "state": "used",
         "transcript": "(whispered intense singing) \"I kick my leg out. Oh I am so good, ja!\""
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_08.mp3": {
         "base_name": "medic_taunt_cong_fun_08",
         "criteria": [],
         "events": [
@@ -10537,7 +10537,7 @@
         "state": "used",
         "transcript": "Whoo hoo ha!"
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_09.mp3": {
         "base_name": "medic_taunt_cong_fun_09",
         "criteria": [],
         "events": [
@@ -10562,7 +10562,7 @@
         "state": "used",
         "transcript": "Yeh ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_12.mp3": {
         "base_name": "medic_taunt_cong_fun_12",
         "criteria": [],
         "events": [
@@ -10588,7 +10588,7 @@
         "state": "used",
         "transcript": "Whooo ha!"
     },
-    "vo/taunts/medic/medic_taunt_cong_fun_15.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_cong_fun_15.mp3": {
         "base_name": "medic_taunt_cong_fun_15",
         "criteria": [],
         "events": [
@@ -10609,7 +10609,7 @@
         "state": "used",
         "transcript": "Hah hoo hoo ha hahah!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_01.mp3": {
         "base_name": "medic_taunt_dosi_fun_01",
         "criteria": [],
         "events": [
@@ -10628,7 +10628,7 @@
         "state": "used",
         "transcript": "Ha ha ha! Ha ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_02.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_02.mp3": {
         "base_name": "medic_taunt_dosi_fun_02",
         "criteria": [],
         "events": [
@@ -10645,7 +10645,7 @@
         "state": "used",
         "transcript": "Whoo hoo hoo! Ooh, do-si-do your partner!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_03.mp3": {
         "base_name": "medic_taunt_dosi_fun_03",
         "criteria": [],
         "events": [
@@ -10662,7 +10662,7 @@
         "state": "used",
         "transcript": "Allemande Left! Allemande Right! Ha hah!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_05.mp3": {
         "base_name": "medic_taunt_dosi_fun_05",
         "criteria": [],
         "events": [
@@ -10678,7 +10678,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_08.mp3": {
         "base_name": "medic_taunt_dosi_fun_08",
         "criteria": [],
         "events": [
@@ -10699,7 +10699,7 @@
         "state": "used",
         "transcript": "Ha ha ha! Whoo!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_10.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_10.mp3": {
         "base_name": "medic_taunt_dosi_fun_10",
         "criteria": [],
         "events": [
@@ -10715,7 +10715,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_11.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_11.mp3": {
         "base_name": "medic_taunt_dosi_fun_11",
         "criteria": [],
         "events": [
@@ -10731,7 +10731,7 @@
         "state": "used",
         "transcript": "Very nice!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_12.mp3": {
         "base_name": "medic_taunt_dosi_fun_12",
         "criteria": [],
         "events": [
@@ -10750,7 +10750,7 @@
         "state": "used",
         "transcript": "I like your moves! Haha!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_13.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_13.mp3": {
         "base_name": "medic_taunt_dosi_fun_13",
         "criteria": [],
         "events": [
@@ -10766,7 +10766,7 @@
         "state": "used",
         "transcript": "Hoo! Zhat vas fun! Haha!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_fun_14.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_fun_14.mp3": {
         "base_name": "medic_taunt_dosi_fun_14",
         "criteria": [],
         "events": [
@@ -10792,7 +10792,7 @@
         "state": "used",
         "transcript": "Hoo ha ha! I love it!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_int_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_int_03.mp3": {
         "base_name": "medic_taunt_dosi_int_03",
         "criteria": [],
         "events": [
@@ -10808,7 +10808,7 @@
         "state": "used",
         "transcript": "Do-si-do!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_int_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_int_06.mp3": {
         "base_name": "medic_taunt_dosi_int_06",
         "criteria": [],
         "events": [
@@ -10824,7 +10824,7 @@
         "state": "used",
         "transcript": "Let us dance!"
     },
-    "vo/taunts/medic/medic_taunt_dosi_int_14.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_dosi_int_14.mp3": {
         "base_name": "medic_taunt_dosi_int_14",
         "criteria": [],
         "events": [
@@ -10843,7 +10843,7 @@
         "state": "used",
         "transcript": "My prescription? Dancing! Haha!"
     },
-    "vo/taunts/medic/medic_taunt_exert_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_exert_01.mp3": {
         "base_name": "medic_taunt_exert_01",
         "criteria": [],
         "events": [
@@ -10860,7 +10860,7 @@
         "state": "used",
         "transcript": "Huhyeah!"
     },
-    "vo/taunts/medic/medic_taunt_exert_02.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_exert_02.mp3": {
         "base_name": "medic_taunt_exert_02",
         "criteria": [],
         "events": [
@@ -10880,7 +10880,7 @@
         "state": "used",
         "transcript": "Nuhyeah!"
     },
-    "vo/taunts/medic/medic_taunt_exert_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_exert_08.mp3": {
         "base_name": "medic_taunt_exert_08",
         "criteria": [],
         "events": [
@@ -10900,7 +10900,7 @@
         "state": "used",
         "transcript": "Ahh!"
     },
-    "vo/taunts/medic/medic_taunt_exert_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_exert_09.mp3": {
         "base_name": "medic_taunt_exert_09",
         "criteria": [],
         "events": [
@@ -10920,7 +10920,7 @@
         "state": "used",
         "transcript": "Guhyeah!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_01.mp3": {
         "base_name": "medic_taunt_flip_end_01",
         "criteria": [],
         "events": [
@@ -10936,7 +10936,7 @@
         "state": "used",
         "transcript": "Danke danke!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_02.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_02.mp3": {
         "base_name": "medic_taunt_flip_end_02",
         "criteria": [],
         "events": [
@@ -10952,7 +10952,7 @@
         "state": "used",
         "transcript": "Zhank you! Zhank you!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_05.mp3": {
         "base_name": "medic_taunt_flip_end_05",
         "criteria": [],
         "events": [
@@ -10971,7 +10971,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_06.mp3": {
         "base_name": "medic_taunt_flip_end_06",
         "criteria": [],
         "events": [
@@ -11000,7 +11000,7 @@
         "state": "used",
         "transcript": "Oooh! Very nice!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_08.mp3": {
         "base_name": "medic_taunt_flip_end_08",
         "criteria": [],
         "events": [
@@ -11019,7 +11019,7 @@
         "state": "used",
         "transcript": "Ten out of ten!"
     },
-    "vo/taunts/medic/medic_taunt_flip_end_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_end_09.mp3": {
         "base_name": "medic_taunt_flip_end_09",
         "criteria": [],
         "events": [
@@ -11044,7 +11044,7 @@
         "state": "used",
         "transcript": "Hoo hoo! Astounding!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_01.mp3": {
         "base_name": "medic_taunt_flip_exert_01",
         "criteria": [],
         "events": [
@@ -11061,7 +11061,7 @@
         "state": "used",
         "transcript": "Nyeah!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_03.mp3": {
         "base_name": "medic_taunt_flip_exert_03",
         "criteria": [],
         "events": [
@@ -11078,7 +11078,7 @@
         "state": "used",
         "transcript": "Uhyah!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_04.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_04.mp3": {
         "base_name": "medic_taunt_flip_exert_04",
         "criteria": [],
         "events": [
@@ -11094,7 +11094,7 @@
         "state": "used",
         "transcript": "(strained) \"Up you go!\""
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_05.mp3": {
         "base_name": "medic_taunt_flip_exert_05",
         "criteria": [],
         "events": [
@@ -11110,7 +11110,7 @@
         "state": "used",
         "transcript": "Zhere you are!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_06.mp3": {
         "base_name": "medic_taunt_flip_exert_06",
         "criteria": [],
         "events": [
@@ -11126,7 +11126,7 @@
         "state": "used",
         "transcript": "Into zhe air!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_07.mp3": {
         "base_name": "medic_taunt_flip_exert_07",
         "criteria": [],
         "events": [
@@ -11142,7 +11142,7 @@
         "state": "used",
         "transcript": "Up up!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_08.mp3": {
         "base_name": "medic_taunt_flip_exert_08",
         "criteria": [],
         "events": [
@@ -11158,7 +11158,7 @@
         "state": "used",
         "transcript": "Up up!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_09.mp3": {
         "base_name": "medic_taunt_flip_exert_09",
         "criteria": [],
         "events": [
@@ -11176,7 +11176,7 @@
         "state": "used",
         "transcript": "Ooh hoo hoo!"
     },
-    "vo/taunts/medic/medic_taunt_flip_exert_10.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_exert_10.mp3": {
         "base_name": "medic_taunt_flip_exert_10",
         "criteria": [],
         "events": [
@@ -11192,7 +11192,7 @@
         "state": "used",
         "transcript": "Hoo oooh!"
     },
-    "vo/taunts/medic/medic_taunt_flip_int_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_int_05.mp3": {
         "base_name": "medic_taunt_flip_int_05",
         "criteria": [],
         "events": [
@@ -11209,7 +11209,7 @@
         "state": "used",
         "transcript": "Time to flip!"
     },
-    "vo/taunts/medic/medic_taunt_flip_int_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_int_08.mp3": {
         "base_name": "medic_taunt_flip_int_08",
         "criteria": [],
         "events": [
@@ -11225,7 +11225,7 @@
         "state": "used",
         "transcript": "Time to flip!"
     },
-    "vo/taunts/medic/medic_taunt_flip_int_10.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_int_10.mp3": {
         "base_name": "medic_taunt_flip_int_10",
         "criteria": [],
         "events": [
@@ -11242,7 +11242,7 @@
         "state": "used",
         "transcript": "Who vants a flip?"
     },
-    "vo/taunts/medic/medic_taunt_flip_int_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_int_12.mp3": {
         "base_name": "medic_taunt_flip_int_12",
         "criteria": [],
         "events": [
@@ -11258,7 +11258,7 @@
         "state": "used",
         "transcript": "Ready to flip!?"
     },
-    "vo/taunts/medic/medic_taunt_flip_int_15.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_flip_int_15.mp3": {
         "base_name": "medic_taunt_flip_int_15",
         "criteria": [],
         "events": [
@@ -11283,7 +11283,7 @@
         "state": "used",
         "transcript": "In position!"
     },
-    "vo/taunts/medic/medic_taunt_head_end_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_end_03.mp3": {
         "base_name": "medic_taunt_head_end_03",
         "criteria": [],
         "events": [
@@ -11305,7 +11305,7 @@
         "state": "used",
         "transcript": "Ooh ho hah ho hah oh!"
     },
-    "vo/taunts/medic/medic_taunt_head_end_04.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_end_04.mp3": {
         "base_name": "medic_taunt_head_end_04",
         "criteria": [],
         "events": [
@@ -11321,7 +11321,7 @@
         "state": "used",
         "transcript": "Ooh ha ha! I zhink I have a concussion, haha!"
     },
-    "vo/taunts/medic/medic_taunt_head_end_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_end_07.mp3": {
         "base_name": "medic_taunt_head_end_07",
         "criteria": [],
         "events": [
@@ -11340,7 +11340,7 @@
         "state": "used",
         "transcript": "Ooh! I zhink I have a concussion, hehe!"
     },
-    "vo/taunts/medic/medic_taunt_head_end_20.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_end_20.mp3": {
         "base_name": "medic_taunt_head_end_20",
         "criteria": [],
         "events": [
@@ -11356,7 +11356,7 @@
         "state": "used",
         "transcript": "Ooooh!"
     },
-    "vo/taunts/medic/medic_taunt_head_exert_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_exert_01.mp3": {
         "base_name": "medic_taunt_head_exert_01",
         "criteria": [],
         "events": [
@@ -11372,7 +11372,7 @@
         "state": "used",
         "transcript": "Reaah ugh!"
     },
-    "vo/taunts/medic/medic_taunt_head_exert_04.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_exert_04.mp3": {
         "base_name": "medic_taunt_head_exert_04",
         "criteria": [],
         "events": [
@@ -11388,7 +11388,7 @@
         "state": "used",
         "transcript": "Ah ha ha ha rugh!"
     },
-    "vo/taunts/medic/medic_taunt_head_int_04.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_int_04.mp3": {
         "base_name": "medic_taunt_head_int_04",
         "criteria": [],
         "events": [
@@ -11404,7 +11404,7 @@
         "state": "used",
         "transcript": "Right in ze noggin!"
     },
-    "vo/taunts/medic/medic_taunt_head_int_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_head_int_08.mp3": {
         "base_name": "medic_taunt_head_int_08",
         "criteria": [],
         "events": [
@@ -11420,7 +11420,7 @@
         "state": "used",
         "transcript": "Head to head!"
     },
-    "vo/taunts/medic/medic_taunt_int_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_01.mp3": {
         "base_name": "medic_taunt_int_01",
         "criteria": [],
         "events": [
@@ -11445,7 +11445,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/medic/medic_taunt_int_02.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_02.mp3": {
         "base_name": "medic_taunt_int_02",
         "criteria": [],
         "events": [
@@ -11464,7 +11464,7 @@
         "state": "used",
         "transcript": "Come on."
     },
-    "vo/taunts/medic/medic_taunt_int_03.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_03.mp3": {
         "base_name": "medic_taunt_int_03",
         "criteria": [],
         "events": [
@@ -11483,7 +11483,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/medic/medic_taunt_int_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_05.mp3": {
         "base_name": "medic_taunt_int_05",
         "criteria": [],
         "events": [
@@ -11505,7 +11505,7 @@
         "state": "used",
         "transcript": "Schnell!"
     },
-    "vo/taunts/medic/medic_taunt_int_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_06.mp3": {
         "base_name": "medic_taunt_int_06",
         "criteria": [],
         "events": [
@@ -11521,7 +11521,7 @@
         "state": "used",
         "transcript": "Schnell!"
     },
-    "vo/taunts/medic/medic_taunt_int_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_07.mp3": {
         "base_name": "medic_taunt_int_07",
         "criteria": [],
         "events": [
@@ -11549,7 +11549,7 @@
         "state": "used",
         "transcript": "Let us do zhis!"
     },
-    "vo/taunts/medic/medic_taunt_int_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_09.mp3": {
         "base_name": "medic_taunt_int_09",
         "criteria": [],
         "events": [
@@ -11578,7 +11578,7 @@
         "state": "used",
         "transcript": "Shall we?"
     },
-    "vo/taunts/medic/medic_taunt_int_10.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_10.mp3": {
         "base_name": "medic_taunt_int_10",
         "criteria": [],
         "events": [
@@ -11595,7 +11595,7 @@
         "state": "used",
         "transcript": "Shall we?"
     },
-    "vo/taunts/medic/medic_taunt_int_11.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_11.mp3": {
         "base_name": "medic_taunt_int_11",
         "criteria": [],
         "events": [
@@ -11618,7 +11618,7 @@
         "state": "used",
         "transcript": "Let's begin!"
     },
-    "vo/taunts/medic/medic_taunt_int_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_12.mp3": {
         "base_name": "medic_taunt_int_12",
         "criteria": [],
         "events": [
@@ -11635,7 +11635,7 @@
         "state": "used",
         "transcript": "Let's begin!"
     },
-    "vo/taunts/medic/medic_taunt_int_13.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_13.mp3": {
         "base_name": "medic_taunt_int_13",
         "criteria": [],
         "events": [
@@ -11657,7 +11657,7 @@
         "state": "used",
         "transcript": "Over here!"
     },
-    "vo/taunts/medic/medic_taunt_int_14.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_14.mp3": {
         "base_name": "medic_taunt_int_14",
         "criteria": [],
         "events": [
@@ -11679,7 +11679,7 @@
         "state": "used",
         "transcript": "Over here."
     },
-    "vo/taunts/medic/medic_taunt_int_15.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_15.mp3": {
         "base_name": "medic_taunt_int_15",
         "criteria": [],
         "events": [
@@ -11698,7 +11698,7 @@
         "state": "used",
         "transcript": "Oh, I can't vait!"
     },
-    "vo/taunts/medic/medic_taunt_int_22.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_int_22.mp3": {
         "base_name": "medic_taunt_int_22",
         "criteria": [],
         "events": [
@@ -11719,7 +11719,7 @@
         "state": "used",
         "transcript": "Ho ho hoh! Hoo hoo! Oh, it's on!"
     },
-    "vo/taunts/medic/medic_taunt_kill_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_12.mp3": {
         "base_name": "medic_taunt_kill_12",
         "criteria": [],
         "events": [
@@ -11738,7 +11738,7 @@
         "state": "used",
         "transcript": "My professional opinion?"
     },
-    "vo/taunts/medic/medic_taunt_kill_16.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_16.mp3": {
         "base_name": "medic_taunt_kill_16",
         "criteria": [],
         "events": [
@@ -11757,7 +11757,7 @@
         "state": "used",
         "transcript": "Prognosis?"
     },
-    "vo/taunts/medic/medic_taunt_kill_17.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_17.mp3": {
         "base_name": "medic_taunt_kill_17",
         "criteria": [],
         "events": [
@@ -11776,7 +11776,7 @@
         "state": "used",
         "transcript": "Diagnosis?"
     },
-    "vo/taunts/medic/medic_taunt_kill_21.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_21.mp3": {
         "base_name": "medic_taunt_kill_21",
         "criteria": [],
         "events": [
@@ -11795,7 +11795,7 @@
         "state": "used",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic/medic_taunt_kill_22.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_22.mp3": {
         "base_name": "medic_taunt_kill_22",
         "criteria": [],
         "events": [
@@ -11811,7 +11811,7 @@
         "state": "used",
         "transcript": "...hmm ha ha ha! Yes! I killed you, alright!"
     },
-    "vo/taunts/medic/medic_taunt_kill_23.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_23.mp3": {
         "base_name": "medic_taunt_kill_23",
         "criteria": [],
         "events": [
@@ -11830,7 +11830,7 @@
         "state": "used",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic/medic_taunt_kill_24.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_24.mp3": {
         "base_name": "medic_taunt_kill_24",
         "criteria": [],
         "events": [
@@ -11850,7 +11850,7 @@
         "state": "used",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic/medic_taunt_kill_26.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_26.mp3": {
         "base_name": "medic_taunt_kill_26",
         "criteria": [],
         "events": [
@@ -11866,7 +11866,7 @@
         "state": "used",
         "transcript": "...ha ha..."
     },
-    "vo/taunts/medic/medic_taunt_kill_27.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_kill_27.mp3": {
         "base_name": "medic_taunt_kill_27",
         "criteria": [],
         "events": [
@@ -11882,7 +11882,7 @@
         "state": "used",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic/medic_taunt_rps_exert_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_exert_01.mp3": {
         "base_name": "medic_taunt_rps_exert_01",
         "criteria": [],
         "events": [
@@ -11909,7 +11909,7 @@
         "state": "used",
         "transcript": "Vun!"
     },
-    "vo/taunts/medic/medic_taunt_rps_exert_07.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_exert_07.mp3": {
         "base_name": "medic_taunt_rps_exert_07",
         "criteria": [],
         "events": [
@@ -11936,7 +11936,7 @@
         "state": "used",
         "transcript": "Two!"
     },
-    "vo/taunts/medic/medic_taunt_rps_exert_24.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_exert_24.mp3": {
         "base_name": "medic_taunt_rps_exert_24",
         "criteria": [],
         "events": [
@@ -11963,7 +11963,7 @@
         "state": "used",
         "transcript": "Three!"
     },
-    "vo/taunts/medic/medic_taunt_rps_int_01.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_int_01.mp3": {
         "base_name": "medic_taunt_rps_int_01",
         "criteria": [],
         "events": [
@@ -11979,7 +11979,7 @@
         "state": "used",
         "transcript": "Rock, paper, scissors!"
     },
-    "vo/taunts/medic/medic_taunt_rps_lose_12.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_lose_12.mp3": {
         "base_name": "medic_taunt_rps_lose_12",
         "criteria": [],
         "events": [
@@ -11996,7 +11996,7 @@
         "state": "used",
         "transcript": "Bah."
     },
-    "vo/taunts/medic/medic_taunt_rps_lose_14.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_lose_14.mp3": {
         "base_name": "medic_taunt_rps_lose_14",
         "criteria": [],
         "events": [
@@ -12014,7 +12014,7 @@
         "state": "used",
         "transcript": "Ridiculous!"
     },
-    "vo/taunts/medic/medic_taunt_rps_lose_16.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_lose_16.mp3": {
         "base_name": "medic_taunt_rps_lose_16",
         "criteria": [],
         "events": [
@@ -12031,7 +12031,7 @@
         "state": "used",
         "transcript": "Unbelievable!"
     },
-    "vo/taunts/medic/medic_taunt_rps_lose_17.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_lose_17.mp3": {
         "base_name": "medic_taunt_rps_lose_17",
         "criteria": [],
         "events": [
@@ -12048,7 +12048,7 @@
         "state": "used",
         "transcript": "Impossible!"
     },
-    "vo/taunts/medic/medic_taunt_rps_lose_19.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_lose_19.mp3": {
         "base_name": "medic_taunt_rps_lose_19",
         "criteria": [],
         "events": [
@@ -12072,7 +12072,7 @@
         "state": "used",
         "transcript": "What!?"
     },
-    "vo/taunts/medic/medic_taunt_rps_win_04.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_win_04.mp3": {
         "base_name": "medic_taunt_rps_win_04",
         "criteria": [],
         "events": [
@@ -12089,7 +12089,7 @@
         "state": "used",
         "transcript": "(tauntingly) \"I am zhe vinner!\""
     },
-    "vo/taunts/medic/medic_taunt_rps_win_05.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_win_05.mp3": {
         "base_name": "medic_taunt_rps_win_05",
         "criteria": [],
         "events": [
@@ -12115,7 +12115,7 @@
         "state": "used",
         "transcript": "Ah ha ha ha ha!"
     },
-    "vo/taunts/medic/medic_taunt_rps_win_06.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_win_06.mp3": {
         "base_name": "medic_taunt_rps_win_06",
         "criteria": [],
         "events": [],
@@ -12125,7 +12125,7 @@
         "state": "unused",
         "transcript": "(liltingly) \"Victorious!\""
     },
-    "vo/taunts/medic/medic_taunt_rps_win_08.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_win_08.mp3": {
         "base_name": "medic_taunt_rps_win_08",
         "criteria": [],
         "events": [
@@ -12152,7 +12152,7 @@
         "state": "used",
         "transcript": "YES!"
     },
-    "vo/taunts/medic/medic_taunt_rps_win_09.mp3": {
+    "sound/vo/taunts/medic/medic_taunt_rps_win_09.mp3": {
         "base_name": "medic_taunt_rps_win_09",
         "criteria": [],
         "events": [
@@ -12181,7 +12181,7 @@
         "state": "used",
         "transcript": "Hoo ho, perfect!"
     },
-    "vo/taunts/medic/medic_trade_02.mp3": {
+    "sound/vo/taunts/medic/medic_trade_02.mp3": {
         "base_name": "medic_trade_02",
         "criteria": [],
         "events": [
@@ -12204,7 +12204,7 @@
         "state": "used",
         "transcript": "How about zis?"
     },
-    "vo/taunts/medic/medic_trade_03.mp3": {
+    "sound/vo/taunts/medic/medic_trade_03.mp3": {
         "base_name": "medic_trade_03",
         "criteria": [],
         "events": [
@@ -12227,7 +12227,7 @@
         "state": "used",
         "transcript": "Now zis, you might like!"
     },
-    "vo/taunts/medic/medic_trade_04.mp3": {
+    "sound/vo/taunts/medic/medic_trade_04.mp3": {
         "base_name": "medic_trade_04",
         "criteria": [],
         "events": [
@@ -12256,7 +12256,7 @@
         "state": "used",
         "transcript": "Vhat do you think of zis? Ha ha!"
     },
-    "vo/taunts/medic/medic_trade_05.mp3": {
+    "sound/vo/taunts/medic/medic_trade_05.mp3": {
         "base_name": "medic_trade_05",
         "criteria": [],
         "events": [
@@ -12273,7 +12273,7 @@
         "state": "used",
         "transcript": "Eh? Eh?"
     },
-    "vo/taunts/medic/medic_trade_06.mp3": {
+    "sound/vo/taunts/medic/medic_trade_06.mp3": {
         "base_name": "medic_trade_06",
         "criteria": [],
         "events": [
@@ -12290,7 +12290,7 @@
         "state": "used",
         "transcript": "Not bad, yea?"
     },
-    "vo/taunts/medic/medic_trade_10.mp3": {
+    "sound/vo/taunts/medic/medic_trade_10.mp3": {
         "base_name": "medic_trade_10",
         "criteria": [],
         "events": [
@@ -12316,7 +12316,7 @@
         "state": "used",
         "transcript": "I'm fond of zis one."
     },
-    "vo/taunts/medic/medic_trade_11.mp3": {
+    "sound/vo/taunts/medic/medic_trade_11.mp3": {
         "base_name": "medic_trade_11",
         "criteria": [],
         "events": [
@@ -12337,7 +12337,7 @@
         "state": "used",
         "transcript": "I found zis, inside a patient. Ha ha!"
     },
-    "vo/taunts/medic/taunt_ambulance_loop_01.wav": {
+    "sound/vo/taunts/medic/taunt_ambulance_loop_01.wav": {
         "base_name": "taunt_ambulance_loop_01",
         "criteria": [],
         "events": [
@@ -12349,7 +12349,7 @@
         "state": "used",
         "transcript": "[ambulance engine, siren, horns"
     },
-    "vo/taunts/medic/taunt_medic_xray_1_open.mp3": {
+    "sound/vo/taunts/medic/taunt_medic_xray_1_open.mp3": {
         "base_name": "taunt_medic_xray_1_open",
         "criteria": [],
         "events": [
@@ -12361,7 +12361,7 @@
         "state": "used",
         "transcript": "[rustling film paper"
     },
-    "vo/taunts/medic/taunt_medic_xray_2_crumple.mp3": {
+    "sound/vo/taunts/medic/taunt_medic_xray_2_crumple.mp3": {
         "base_name": "taunt_medic_xray_2_crumple",
         "criteria": [],
         "events": [
@@ -12373,7 +12373,7 @@
         "state": "used",
         "transcript": "[crumpling film paper"
     },
-    "vo/taunts/medic_taunt_kill_06.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_06.mp3": {
         "base_name": "medic_taunt_kill_06",
         "criteria": [],
         "events": [],
@@ -12383,7 +12383,7 @@
         "state": "unused",
         "transcript": "Heh ha ha ha ..."
     },
-    "vo/taunts/medic_taunt_kill_08.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_08.mp3": {
         "base_name": "medic_taunt_kill_08",
         "criteria": [],
         "events": [],
@@ -12393,7 +12393,7 @@
         "state": "unused",
         "transcript": "Vell, you'll be dead soon!"
     },
-    "vo/taunts/medic_taunt_kill_12.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_12.mp3": {
         "base_name": "medic_taunt_kill_12",
         "criteria": [],
         "events": [
@@ -12409,7 +12409,7 @@
         "state": "used",
         "transcript": "My professional opinion?"
     },
-    "vo/taunts/medic_taunt_kill_16.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_16.mp3": {
         "base_name": "medic_taunt_kill_16",
         "criteria": [],
         "events": [],
@@ -12419,7 +12419,7 @@
         "state": "unused",
         "transcript": "Prognosis?"
     },
-    "vo/taunts/medic_taunt_kill_17.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_17.mp3": {
         "base_name": "medic_taunt_kill_17",
         "criteria": [],
         "events": [],
@@ -12429,7 +12429,7 @@
         "state": "unused",
         "transcript": "Diagnosis?"
     },
-    "vo/taunts/medic_taunt_kill_21.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_21.mp3": {
         "base_name": "medic_taunt_kill_21",
         "criteria": [],
         "events": [],
@@ -12439,7 +12439,7 @@
         "state": "unused",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic_taunt_kill_22.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_22.mp3": {
         "base_name": "medic_taunt_kill_22",
         "criteria": [],
         "events": [],
@@ -12449,7 +12449,7 @@
         "state": "unused",
         "transcript": "...hmm ha ha ha! Yes! I killed you, alright!"
     },
-    "vo/taunts/medic_taunt_kill_23.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_23.mp3": {
         "base_name": "medic_taunt_kill_23",
         "criteria": [],
         "events": [],
@@ -12459,7 +12459,7 @@
         "state": "unused",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic_taunt_kill_24.mp3": {
+    "sound/vo/taunts/medic_taunt_kill_24.mp3": {
         "base_name": "medic_taunt_kill_24",
         "criteria": [],
         "events": [],
@@ -12469,7 +12469,7 @@
         "state": "unused",
         "transcript": "...you're dead!"
     },
-    "vo/taunts/medic_taunts01.mp3": {
+    "sound/vo/taunts/medic_taunts01.mp3": {
         "base_name": "medic_taunts01",
         "criteria": [
             [
@@ -12497,7 +12497,7 @@
         "state": "used",
         "transcript": "Hold still, Schweinhund, zis vill only sting for a moment."
     },
-    "vo/taunts/medic_taunts02.mp3": {
+    "sound/vo/taunts/medic_taunts02.mp3": {
         "base_name": "medic_taunts02",
         "criteria": [
             [
@@ -12535,7 +12535,7 @@
         "state": "used",
         "transcript": "Eins, zwei, drei... Ugh, I do not think we brought enough body bags."
     },
-    "vo/taunts/medic_taunts03.mp3": {
+    "sound/vo/taunts/medic_taunts03.mp3": {
         "base_name": "medic_taunts03",
         "criteria": [
             [
@@ -12565,7 +12565,7 @@
         "state": "used",
         "transcript": "Auf Wiedersehen, Dummkopfs!"
     },
-    "vo/taunts/medic_taunts04.mp3": {
+    "sound/vo/taunts/medic_taunts04.mp3": {
         "base_name": "medic_taunts04",
         "criteria": [
             [
@@ -12593,7 +12593,7 @@
         "state": "used",
         "transcript": "Turn your head and cough."
     },
-    "vo/taunts/medic_taunts05.mp3": {
+    "sound/vo/taunts/medic_taunts05.mp3": {
         "base_name": "medic_taunts05",
         "criteria": [
             [
@@ -12638,7 +12638,7 @@
         "state": "used",
         "transcript": "I'm going to saw zrough your bones!"
     },
-    "vo/taunts/medic_taunts06.mp3": {
+    "sound/vo/taunts/medic_taunts06.mp3": {
         "base_name": "medic_taunts06",
         "criteria": [
             [
@@ -12663,7 +12663,7 @@
         "state": "used",
         "transcript": "(Dark, low voice) \"I healed zuh man who vill kill you!\""
     },
-    "vo/taunts/medic_taunts07.mp3": {
+    "sound/vo/taunts/medic_taunts07.mp3": {
         "base_name": "medic_taunts07",
         "criteria": [],
         "events": [
@@ -12675,7 +12675,7 @@
         "state": "used",
         "transcript": "Hello, Fr\u00e4uleins!"
     },
-    "vo/taunts/medic_taunts08.mp3": {
+    "sound/vo/taunts/medic_taunts08.mp3": {
         "base_name": "medic_taunts08",
         "criteria": [
             [
@@ -12699,7 +12699,7 @@
         "state": "used",
         "transcript": "It looks like Dummkopffest!"
     },
-    "vo/taunts/medic_taunts09.mp3": {
+    "sound/vo/taunts/medic_taunts09.mp3": {
         "base_name": "medic_taunts09",
         "criteria": [
             [
@@ -12729,7 +12729,7 @@
         "state": "used",
         "transcript": "Auf Wiedersehen, Schweinehunds!"
     },
-    "vo/taunts/medic_taunts10.mp3": {
+    "sound/vo/taunts/medic_taunts10.mp3": {
         "base_name": "medic_taunts10",
         "criteria": [
             [
@@ -12763,7 +12763,7 @@
         "state": "used",
         "transcript": "\"Prepare for your examination...\" (laughs)"
     },
-    "vo/taunts/medic_taunts11.mp3": {
+    "sound/vo/taunts/medic_taunts11.mp3": {
         "base_name": "medic_taunts11",
         "criteria": [
             [
@@ -12788,7 +12788,7 @@
         "state": "used",
         "transcript": "You are... schtupid!"
     },
-    "vo/taunts/medic_taunts12.mp3": {
+    "sound/vo/taunts/medic_taunts12.mp3": {
         "base_name": "medic_taunts12",
         "criteria": [
             [
@@ -12838,7 +12838,7 @@
         "state": "used",
         "transcript": "Come over here. I promise I vill heal you!"
     },
-    "vo/taunts/medic_taunts13.mp3": {
+    "sound/vo/taunts/medic_taunts13.mp3": {
         "base_name": "medic_taunts13",
         "criteria": [
             [
@@ -12863,7 +12863,7 @@
         "state": "used",
         "transcript": "All I can tell you about zis next procedure is zat it vill be... excruciating!"
     },
-    "vo/taunts/medic_taunts14.mp3": {
+    "sound/vo/taunts/medic_taunts14.mp3": {
         "base_name": "medic_taunts14",
         "criteria": [
             [
@@ -12899,7 +12899,7 @@
         "state": "used",
         "transcript": "Vould you like a second opinion? You are also ugly!"
     },
-    "vo/taunts/medic_taunts15.mp3": {
+    "sound/vo/taunts/medic_taunts15.mp3": {
         "base_name": "medic_taunts15",
         "criteria": [
             [
@@ -12924,7 +12924,7 @@
         "state": "used",
         "transcript": "You have 30 seconds to live!"
     },
-    "vo/taunts/medic_taunts16.mp3": {
+    "sound/vo/taunts/medic_taunts16.mp3": {
         "base_name": "medic_taunts16",
         "criteria": [
             [
@@ -12948,7 +12948,7 @@
         "state": "used",
         "transcript": "Ha ha ha! Oktoberfest!"
     },
-    "vo/toughbreak/medic_quest_complete_easy_01.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_easy_01.mp3": {
         "base_name": "medic_quest_complete_easy_01",
         "criteria": [],
         "events": [
@@ -12960,7 +12960,7 @@
         "state": "used",
         "transcript": "Very nice!"
     },
-    "vo/toughbreak/medic_quest_complete_easy_02.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_easy_02.mp3": {
         "base_name": "medic_quest_complete_easy_02",
         "criteria": [],
         "events": [
@@ -12972,7 +12972,7 @@
         "state": "used",
         "transcript": "Zat vas fun! Ha ha!"
     },
-    "vo/toughbreak/medic_quest_complete_easy_03.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_easy_03.mp3": {
         "base_name": "medic_quest_complete_easy_03",
         "criteria": [],
         "events": [
@@ -12984,7 +12984,7 @@
         "state": "used",
         "transcript": "Vell done!"
     },
-    "vo/toughbreak/medic_quest_complete_easy_04.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_easy_04.mp3": {
         "base_name": "medic_quest_complete_easy_04",
         "criteria": [],
         "events": [
@@ -12996,7 +12996,7 @@
         "state": "used",
         "transcript": "(Mischievous laughter)"
     },
-    "vo/toughbreak/medic_quest_complete_easy_05.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_easy_05.mp3": {
         "base_name": "medic_quest_complete_easy_05",
         "criteria": [],
         "events": [
@@ -13008,7 +13008,7 @@
         "state": "used",
         "transcript": "(Malevolent laughter)"
     },
-    "vo/toughbreak/medic_quest_complete_hard_01.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_hard_01.mp3": {
         "base_name": "medic_quest_complete_hard_01",
         "criteria": [],
         "events": [
@@ -13020,7 +13020,7 @@
         "state": "used",
         "transcript": "Oh heavens, yes!"
     },
-    "vo/toughbreak/medic_quest_complete_hard_02.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_hard_02.mp3": {
         "base_name": "medic_quest_complete_hard_02",
         "criteria": [],
         "events": [
@@ -13032,7 +13032,7 @@
         "state": "used",
         "transcript": "Perfect!"
     },
-    "vo/toughbreak/medic_quest_complete_hard_05.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_hard_05.mp3": {
         "base_name": "medic_quest_complete_hard_05",
         "criteria": [],
         "events": [
@@ -13044,7 +13044,7 @@
         "state": "used",
         "transcript": "Yes!"
     },
-    "vo/toughbreak/medic_quest_complete_hard_06.mp3": {
+    "sound/vo/toughbreak/medic_quest_complete_hard_06.mp3": {
         "base_name": "medic_quest_complete_hard_06",
         "criteria": [],
         "events": [

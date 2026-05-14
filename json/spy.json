@@ -1,5 +1,5 @@
 {
-    "vo/compmode/cm_spy_gamewon_01.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_01.mp3": {
         "base_name": "cm_spy_gamewon_01",
         "criteria": [
             [
@@ -24,7 +24,7 @@
         "state": "used",
         "transcript": "Another day, another back with a gaping stab wound!"
     },
-    "vo/compmode/cm_spy_gamewon_02.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_02.mp3": {
         "base_name": "cm_spy_gamewon_02",
         "criteria": [
             [
@@ -49,7 +49,7 @@
         "state": "used",
         "transcript": "For someone else, that might have been a challenge!"
     },
-    "vo/compmode/cm_spy_gamewon_03.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_03.mp3": {
         "base_name": "cm_spy_gamewon_03",
         "criteria": [
             [
@@ -74,7 +74,7 @@
         "state": "used",
         "transcript": "Of course we won!"
     },
-    "vo/compmode/cm_spy_gamewon_04.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_04.mp3": {
         "base_name": "cm_spy_gamewon_04",
         "criteria": [
             [
@@ -99,7 +99,7 @@
         "state": "used",
         "transcript": "A surprise to no one!"
     },
-    "vo/compmode/cm_spy_gamewon_05.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_05.mp3": {
         "base_name": "cm_spy_gamewon_05",
         "criteria": [
             [
@@ -124,7 +124,7 @@
         "state": "used",
         "transcript": "So many backs, so little time!"
     },
-    "vo/compmode/cm_spy_gamewon_06.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_06.mp3": {
         "base_name": "cm_spy_gamewon_06",
         "criteria": [
             [
@@ -149,7 +149,7 @@
         "state": "used",
         "transcript": "We won! Let's do it again!"
     },
-    "vo/compmode/cm_spy_gamewon_07.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_07.mp3": {
         "base_name": "cm_spy_gamewon_07",
         "criteria": [
             [
@@ -174,7 +174,7 @@
         "state": "used",
         "transcript": "We have won the battle, now let's win the war!"
     },
-    "vo/compmode/cm_spy_gamewon_08.mp3": {
+    "sound/vo/compmode/cm_spy_gamewon_08.mp3": {
         "base_name": "cm_spy_gamewon_08",
         "criteria": [
             [
@@ -199,7 +199,7 @@
         "state": "used",
         "transcript": "The game is ours!"
     },
-    "vo/compmode/cm_spy_matchwon_01.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_01.mp3": {
         "base_name": "cm_spy_matchwon_01",
         "criteria": [
             [
@@ -224,7 +224,7 @@
         "state": "used",
         "transcript": "Ha ha! Yes!"
     },
-    "vo/compmode/cm_spy_matchwon_02.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_02.mp3": {
         "base_name": "cm_spy_matchwon_02",
         "criteria": [
             [
@@ -249,7 +249,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/compmode/cm_spy_matchwon_03.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_03.mp3": {
         "base_name": "cm_spy_matchwon_03",
         "criteria": [
             [
@@ -274,7 +274,7 @@
         "state": "used",
         "transcript": "Success!"
     },
-    "vo/compmode/cm_spy_matchwon_04.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_04.mp3": {
         "base_name": "cm_spy_matchwon_04",
         "criteria": [
             [
@@ -299,7 +299,7 @@
         "state": "used",
         "transcript": "Too easy!"
     },
-    "vo/compmode/cm_spy_matchwon_05.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_05.mp3": {
         "base_name": "cm_spy_matchwon_05",
         "criteria": [
             [
@@ -324,7 +324,7 @@
         "state": "used",
         "transcript": "And it is done!"
     },
-    "vo/compmode/cm_spy_matchwon_06.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_06.mp3": {
         "base_name": "cm_spy_matchwon_06",
         "criteria": [
             [
@@ -349,7 +349,7 @@
         "state": "used",
         "transcript": "Gentlemen, we've done it!"
     },
-    "vo/compmode/cm_spy_matchwon_07.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_07.mp3": {
         "base_name": "cm_spy_matchwon_07",
         "criteria": [
             [
@@ -374,7 +374,7 @@
         "state": "used",
         "transcript": "We have done it!"
     },
-    "vo/compmode/cm_spy_matchwon_08.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_08.mp3": {
         "base_name": "cm_spy_matchwon_08",
         "criteria": [
             [
@@ -399,7 +399,7 @@
         "state": "used",
         "transcript": "Yes, my friend!"
     },
-    "vo/compmode/cm_spy_matchwon_09.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_09.mp3": {
         "base_name": "cm_spy_matchwon_09",
         "criteria": [
             [
@@ -424,7 +424,7 @@
         "state": "used",
         "transcript": "Victory is ours!"
     },
-    "vo/compmode/cm_spy_matchwon_10.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_10.mp3": {
         "base_name": "cm_spy_matchwon_10",
         "criteria": [
             [
@@ -449,7 +449,7 @@
         "state": "used",
         "transcript": "The match is ours!"
     },
-    "vo/compmode/cm_spy_matchwon_11.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_11.mp3": {
         "base_name": "cm_spy_matchwon_11",
         "criteria": [
             [
@@ -474,7 +474,7 @@
         "state": "used",
         "transcript": "Ha ha ha ha ha! How do you like the Spy now?"
     },
-    "vo/compmode/cm_spy_matchwon_12.mp3": {
+    "sound/vo/compmode/cm_spy_matchwon_12.mp3": {
         "base_name": "cm_spy_matchwon_12",
         "criteria": [
             [
@@ -499,7 +499,7 @@
         "state": "used",
         "transcript": "Ha ha ha ha ha ha! Yes!"
     },
-    "vo/compmode/cm_spy_pregamefirst_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_01.mp3": {
         "base_name": "cm_spy_pregamefirst_01",
         "criteria": [
             [
@@ -534,7 +534,7 @@
         "state": "used",
         "transcript": "Shall I carry us to victory? I don't mind."
     },
-    "vo/compmode/cm_spy_pregamefirst_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_02.mp3": {
         "base_name": "cm_spy_pregamefirst_02",
         "criteria": [
             [
@@ -569,7 +569,7 @@
         "state": "used",
         "transcript": "Let's get to work!"
     },
-    "vo/compmode/cm_spy_pregamefirst_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_03.mp3": {
         "base_name": "cm_spy_pregamefirst_03",
         "criteria": [
             [
@@ -604,7 +604,7 @@
         "state": "used",
         "transcript": "Are you ready?"
     },
-    "vo/compmode/cm_spy_pregamefirst_04.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_04.mp3": {
         "base_name": "cm_spy_pregamefirst_04",
         "criteria": [
             [
@@ -639,7 +639,7 @@
         "state": "used",
         "transcript": "Well, time to win."
     },
-    "vo/compmode/cm_spy_pregamefirst_05.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_05.mp3": {
         "base_name": "cm_spy_pregamefirst_05",
         "criteria": [
             [
@@ -674,7 +674,7 @@
         "state": "used",
         "transcript": "I'm ready when you are!"
     },
-    "vo/compmode/cm_spy_pregamefirst_06.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_06.mp3": {
         "base_name": "cm_spy_pregamefirst_06",
         "criteria": [
             [
@@ -709,7 +709,7 @@
         "state": "used",
         "transcript": "Anytime you're ready!"
     },
-    "vo/compmode/cm_spy_pregamefirst_07.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_07.mp3": {
         "base_name": "cm_spy_pregamefirst_07",
         "criteria": [
             [
@@ -744,7 +744,7 @@
         "state": "used",
         "transcript": "Let's push them back!"
     },
-    "vo/compmode/cm_spy_pregamefirst_08.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_08.mp3": {
         "base_name": "cm_spy_pregamefirst_08",
         "criteria": [
             [
@@ -779,7 +779,7 @@
         "state": "used",
         "transcript": "They'll never see us coming!"
     },
-    "vo/compmode/cm_spy_pregamefirst_09.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_09.mp3": {
         "base_name": "cm_spy_pregamefirst_09",
         "criteria": [
             [
@@ -814,7 +814,7 @@
         "state": "used",
         "transcript": "Who else is ready to win?"
     },
-    "vo/compmode/cm_spy_pregamefirst_10.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_10.mp3": {
         "base_name": "cm_spy_pregamefirst_10",
         "criteria": [
             [
@@ -849,7 +849,7 @@
         "state": "used",
         "transcript": "I feel like winning. Who is with me?"
     },
-    "vo/compmode/cm_spy_pregamefirst_11.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_11.mp3": {
         "base_name": "cm_spy_pregamefirst_11",
         "criteria": [
             [
@@ -884,7 +884,7 @@
         "state": "used",
         "transcript": "Today, we will emerge victorious!"
     },
-    "vo/compmode/cm_spy_pregamefirst_12.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_12.mp3": {
         "base_name": "cm_spy_pregamefirst_12",
         "criteria": [
             [
@@ -919,7 +919,7 @@
         "state": "used",
         "transcript": "I think we'll win this game."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_01.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_01",
         "criteria": [
             [
@@ -945,7 +945,7 @@
         "state": "used",
         "transcript": "Five sacks of flour to carry on my back to victory? (sigh) If I must."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_02.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_02",
         "criteria": [
             [
@@ -971,7 +971,7 @@
         "state": "used",
         "transcript": "Six healthy backs just waiting to be stabbed! (sniff) Ah, there's that new back smell."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_03.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_03",
         "criteria": [
             [
@@ -997,7 +997,7 @@
         "state": "used",
         "transcript": "Six unstabbed backs: smooth, healthy, untouched by knife wounds? I do love a blank canvas!"
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_04.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_04.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_04",
         "criteria": [
             [
@@ -1023,7 +1023,7 @@
         "state": "used",
         "transcript": "Ah, so 6s finally came crawling to the Spy. About time."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_05.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_05.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_05",
         "criteria": [
             [
@@ -1049,7 +1049,7 @@
         "state": "used",
         "transcript": "Finally, 6s comes to its senses and welcomes a Spy to its ranks."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_06.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_06.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_06",
         "criteria": [
             [
@@ -1075,7 +1075,7 @@
         "state": "used",
         "transcript": "Finally, 6s is worth playing, because you can play as me."
     },
-    "vo/compmode/cm_spy_pregamefirst_6s_07.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_6s_07.mp3": {
         "base_name": "cm_spy_pregamefirst_6s_07",
         "criteria": [
             [
@@ -1101,7 +1101,7 @@
         "state": "used",
         "transcript": "Let's play some 6s!"
     },
-    "vo/compmode/cm_spy_pregamefirst_comp_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_comp_01.mp3": {
         "base_name": "cm_spy_pregamefirst_comp_01",
         "criteria": [
             [
@@ -1136,7 +1136,7 @@
         "state": "used",
         "transcript": "Finally, a comp class that can bring some class with it!"
     },
-    "vo/compmode/cm_spy_pregamefirst_comp_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_comp_02.mp3": {
         "base_name": "cm_spy_pregamefirst_comp_02",
         "criteria": [
             [
@@ -1171,7 +1171,7 @@
         "state": "used",
         "transcript": "Finally, you've come to your senses and welcomed a Spy to your ranks!"
     },
-    "vo/compmode/cm_spy_pregamefirst_comp_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_comp_03.mp3": {
         "base_name": "cm_spy_pregamefirst_comp_03",
         "criteria": [
             [
@@ -1206,7 +1206,7 @@
         "state": "used",
         "transcript": "Finally, a Comp Mode is worth playing because you can play as me."
     },
-    "vo/compmode/cm_spy_pregamefirst_rare_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_rare_01.mp3": {
         "base_name": "cm_spy_pregamefirst_rare_01",
         "criteria": [
             [
@@ -1241,7 +1241,7 @@
         "state": "used",
         "transcript": "I like my enemies like I like my wines: I let them breathe, for a moment."
     },
-    "vo/compmode/cm_spy_pregamefirst_rare_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_rare_02.mp3": {
         "base_name": "cm_spy_pregamefirst_rare_02",
         "criteria": [
             [
@@ -1276,7 +1276,7 @@
         "state": "used",
         "transcript": "I like my teams like I like my romances: in groups of six."
     },
-    "vo/compmode/cm_spy_pregamefirst_rare_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamefirst_rare_03.mp3": {
         "base_name": "cm_spy_pregamefirst_rare_03",
         "criteria": [
             [
@@ -1311,7 +1311,7 @@
         "state": "used",
         "transcript": "My knife is sharp, my watch is wound, my ski mask is freshly-laundered: time to win."
     },
-    "vo/compmode/cm_spy_pregamelostlast_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_01.mp3": {
         "base_name": "cm_spy_pregamelostlast_01",
         "criteria": [
             [
@@ -1338,7 +1338,7 @@
         "state": "used",
         "transcript": "We are not out of this yet!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_02.mp3": {
         "base_name": "cm_spy_pregamelostlast_02",
         "criteria": [
             [
@@ -1365,7 +1365,7 @@
         "state": "used",
         "transcript": "I've gotten out of worse scrapes than this!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_03.mp3": {
         "base_name": "cm_spy_pregamelostlast_03",
         "criteria": [
             [
@@ -1392,7 +1392,7 @@
         "state": "used",
         "transcript": "Listen up, gentlemen, time to get serious!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_04.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_04.mp3": {
         "base_name": "cm_spy_pregamelostlast_04",
         "criteria": [
             [
@@ -1419,7 +1419,7 @@
         "state": "used",
         "transcript": "Our best kills are still ahead of us!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_05.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_05.mp3": {
         "base_name": "cm_spy_pregamelostlast_05",
         "criteria": [
             [
@@ -1446,7 +1446,7 @@
         "state": "used",
         "transcript": "That last game was just a warm-up!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_06.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_06.mp3": {
         "base_name": "cm_spy_pregamelostlast_06",
         "criteria": [
             [
@@ -1473,7 +1473,7 @@
         "state": "used",
         "transcript": "Enough practice, time to start playing!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_07.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_07.mp3": {
         "base_name": "cm_spy_pregamelostlast_07",
         "criteria": [
             [
@@ -1500,7 +1500,7 @@
         "state": "used",
         "transcript": "They beat us once, they will not beat us again!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_08.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_08.mp3": {
         "base_name": "cm_spy_pregamelostlast_08",
         "criteria": [
             [
@@ -1527,7 +1527,7 @@
         "state": "used",
         "transcript": "We are a game down, time to get serious!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_09.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_09.mp3": {
         "base_name": "cm_spy_pregamelostlast_09",
         "criteria": [
             [
@@ -1554,7 +1554,7 @@
         "state": "used",
         "transcript": "We are not out of this match yet!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_10.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_10.mp3": {
         "base_name": "cm_spy_pregamelostlast_10",
         "criteria": [
             [
@@ -1581,7 +1581,7 @@
         "state": "used",
         "transcript": "They will not beat us again!"
     },
-    "vo/compmode/cm_spy_pregamelostlast_11.mp3": {
+    "sound/vo/compmode/cm_spy_pregamelostlast_11.mp3": {
         "base_name": "cm_spy_pregamelostlast_11",
         "criteria": [
             [
@@ -1608,7 +1608,7 @@
         "state": "used",
         "transcript": "This next game is ours!"
     },
-    "vo/compmode/cm_spy_pregametie_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_01.mp3": {
         "base_name": "cm_spy_pregametie_01",
         "criteria": [
             [
@@ -1634,7 +1634,7 @@
         "state": "used",
         "transcript": "I have never been more ready!"
     },
-    "vo/compmode/cm_spy_pregametie_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_02.mp3": {
         "base_name": "cm_spy_pregametie_02",
         "criteria": [
             [
@@ -1660,7 +1660,7 @@
         "state": "used",
         "transcript": "We are tied? We must correct this immediately!"
     },
-    "vo/compmode/cm_spy_pregametie_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_03.mp3": {
         "base_name": "cm_spy_pregametie_03",
         "criteria": [
             [
@@ -1686,7 +1686,7 @@
         "state": "used",
         "transcript": "We are tied, gentlemen! Let's get this done!"
     },
-    "vo/compmode/cm_spy_pregametie_04.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_04.mp3": {
         "base_name": "cm_spy_pregametie_04",
         "criteria": [
             [
@@ -1712,7 +1712,7 @@
         "state": "used",
         "transcript": "If there's one thing I hate, it's a tied game!"
     },
-    "vo/compmode/cm_spy_pregametie_05.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_05.mp3": {
         "base_name": "cm_spy_pregametie_05",
         "criteria": [
             [
@@ -1738,7 +1738,7 @@
         "state": "used",
         "transcript": "We are tied? We might as well be losing!"
     },
-    "vo/compmode/cm_spy_pregametie_06.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_06.mp3": {
         "base_name": "cm_spy_pregametie_06",
         "criteria": [
             [
@@ -1764,7 +1764,7 @@
         "state": "used",
         "transcript": "We are tied? Unacceptable!"
     },
-    "vo/compmode/cm_spy_pregametie_rare_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregametie_rare_01.mp3": {
         "base_name": "cm_spy_pregametie_rare_01",
         "criteria": [
             [
@@ -1790,7 +1790,7 @@
         "state": "used",
         "transcript": "I have a tie. I'm wearing it, it's silk, and it costs $9000. I do not need another one!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_01.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_01.mp3": {
         "base_name": "cm_spy_pregamewonlast_01",
         "criteria": [
             [
@@ -1816,7 +1816,7 @@
         "state": "used",
         "transcript": "Gentlemen, this game is as good as ours!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_02.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_02.mp3": {
         "base_name": "cm_spy_pregamewonlast_02",
         "criteria": [
             [
@@ -1842,7 +1842,7 @@
         "state": "used",
         "transcript": "I have a good feeling about this game!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_03.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_03.mp3": {
         "base_name": "cm_spy_pregamewonlast_03",
         "criteria": [
             [
@@ -1868,7 +1868,7 @@
         "state": "used",
         "transcript": "We're winning, but of course!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_04.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_04.mp3": {
         "base_name": "cm_spy_pregamewonlast_04",
         "criteria": [
             [
@@ -1894,7 +1894,7 @@
         "state": "used",
         "transcript": "Winning is my only vice!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_05.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_05.mp3": {
         "base_name": "cm_spy_pregamewonlast_05",
         "criteria": [
             [
@@ -1920,7 +1920,7 @@
         "state": "used",
         "transcript": "Keep up the pressure, we haven't won yet."
     },
-    "vo/compmode/cm_spy_pregamewonlast_06.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_06.mp3": {
         "base_name": "cm_spy_pregamewonlast_06",
         "criteria": [
             [
@@ -1946,7 +1946,7 @@
         "state": "used",
         "transcript": "We should go easy on them. They are playing with a handicap. They do not have me on their team!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_07.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_07.mp3": {
         "base_name": "cm_spy_pregamewonlast_07",
         "criteria": [
             [
@@ -1972,7 +1972,7 @@
         "state": "used",
         "transcript": "I think I developed a taste for winning. Let's do it again!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_08.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_08.mp3": {
         "base_name": "cm_spy_pregamewonlast_08",
         "criteria": [
             [
@@ -1998,7 +1998,7 @@
         "state": "used",
         "transcript": "Already? I haven't wiped the blood off my knife from the last round."
     },
-    "vo/compmode/cm_spy_pregamewonlast_09.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_09.mp3": {
         "base_name": "cm_spy_pregamewonlast_09",
         "criteria": [
             [
@@ -2024,7 +2024,7 @@
         "state": "used",
         "transcript": "Spy, you handsome, unkillable scoundrel!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_10.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_10.mp3": {
         "base_name": "cm_spy_pregamewonlast_10",
         "criteria": [
             [
@@ -2050,7 +2050,7 @@
         "state": "used",
         "transcript": "Spy, you are as unkillable as you are handsome!"
     },
-    "vo/compmode/cm_spy_pregamewonlast_11.mp3": {
+    "sound/vo/compmode/cm_spy_pregamewonlast_11.mp3": {
         "base_name": "cm_spy_pregamewonlast_11",
         "criteria": [
             [
@@ -2076,7 +2076,7 @@
         "state": "used",
         "transcript": "We're a game up! Let's do that...again."
     },
-    "vo/compmode/cm_spy_rankup_01.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_01.mp3": {
         "base_name": "cm_spy_rankup_01",
         "criteria": [],
         "events": [
@@ -2088,7 +2088,7 @@
         "state": "used",
         "transcript": "Rank up!"
     },
-    "vo/compmode/cm_spy_rankup_02.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_02.mp3": {
         "base_name": "cm_spy_rankup_02",
         "criteria": [],
         "events": [
@@ -2100,7 +2100,7 @@
         "state": "used",
         "transcript": "We have ranked up!"
     },
-    "vo/compmode/cm_spy_rankup_03.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_03.mp3": {
         "base_name": "cm_spy_rankup_03",
         "criteria": [],
         "events": [
@@ -2112,7 +2112,7 @@
         "state": "used",
         "transcript": "Excellent, a new rank!"
     },
-    "vo/compmode/cm_spy_rankup_04.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_04.mp3": {
         "base_name": "cm_spy_rankup_04",
         "criteria": [],
         "events": [
@@ -2124,7 +2124,7 @@
         "state": "used",
         "transcript": "You earned this rank!"
     },
-    "vo/compmode/cm_spy_rankup_05.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_05.mp3": {
         "base_name": "cm_spy_rankup_05",
         "criteria": [],
         "events": [
@@ -2136,7 +2136,7 @@
         "state": "used",
         "transcript": "\"I am uncorking a bottle of 1942 Ch\u00e2teau Backstab!\" (uncorking sound)"
     },
-    "vo/compmode/cm_spy_rankup_06.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_06.mp3": {
         "base_name": "cm_spy_rankup_06",
         "criteria": [],
         "events": [
@@ -2148,7 +2148,7 @@
         "state": "used",
         "transcript": "We have been promoted!"
     },
-    "vo/compmode/cm_spy_rankup_07.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_07.mp3": {
         "base_name": "cm_spy_rankup_07",
         "criteria": [],
         "events": [
@@ -2160,7 +2160,7 @@
         "state": "used",
         "transcript": "It seems we've been given a promotion!"
     },
-    "vo/compmode/cm_spy_rankup_08.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_08.mp3": {
         "base_name": "cm_spy_rankup_08",
         "criteria": [],
         "events": [
@@ -2172,7 +2172,7 @@
         "state": "used",
         "transcript": "We ranked up!"
     },
-    "vo/compmode/cm_spy_rankup_09.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_09.mp3": {
         "base_name": "cm_spy_rankup_09",
         "criteria": [],
         "events": [
@@ -2184,7 +2184,7 @@
         "state": "used",
         "transcript": "If there's one thing I like more than winning, it's ranking up!"
     },
-    "vo/compmode/cm_spy_rankup_10.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_10.mp3": {
         "base_name": "cm_spy_rankup_10",
         "criteria": [],
         "events": [
@@ -2196,7 +2196,7 @@
         "state": "used",
         "transcript": "Of course we ranked up!"
     },
-    "vo/compmode/cm_spy_rankup_highest_01.mp3": {
+    "sound/vo/compmode/cm_spy_rankup_highest_01.mp3": {
         "base_name": "cm_spy_rankup_highest_01",
         "criteria": [],
         "events": [
@@ -2208,7 +2208,7 @@
         "state": "used",
         "transcript": "And when the Spy saw the breadth of his achievement, he wept, for there were no more backs to stab."
     },
-    "vo/compmode/cm_spy_summary_callout_01.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_01.mp3": {
         "base_name": "cm_spy_summary_callout_01",
         "criteria": [],
         "events": [
@@ -2221,7 +2221,7 @@
         "state": "used",
         "transcript": "Well done, my friend!"
     },
-    "vo/compmode/cm_spy_summary_callout_02.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_02.mp3": {
         "base_name": "cm_spy_summary_callout_02",
         "criteria": [],
         "events": [
@@ -2234,7 +2234,7 @@
         "state": "used",
         "transcript": "But of course!"
     },
-    "vo/compmode/cm_spy_summary_callout_03.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_03.mp3": {
         "base_name": "cm_spy_summary_callout_03",
         "criteria": [],
         "events": [
@@ -2247,7 +2247,7 @@
         "state": "used",
         "transcript": "It's about time they recognized our brilliance!"
     },
-    "vo/compmode/cm_spy_summary_callout_04.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_04.mp3": {
         "base_name": "cm_spy_summary_callout_04",
         "criteria": [],
         "events": [
@@ -2260,7 +2260,7 @@
         "state": "used",
         "transcript": "Ho ho hoh! They have been shown who is the boss!"
     },
-    "vo/compmode/cm_spy_summary_callout_05.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_05.mp3": {
         "base_name": "cm_spy_summary_callout_05",
         "criteria": [],
         "events": [
@@ -2272,7 +2272,7 @@
         "state": "used",
         "transcript": "We have gained the acceptance of our inferiors!"
     },
-    "vo/compmode/cm_spy_summary_callout_06.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_06.mp3": {
         "base_name": "cm_spy_summary_callout_06",
         "criteria": [],
         "events": [
@@ -2285,7 +2285,7 @@
         "state": "used",
         "transcript": "Finally, some recognition!"
     },
-    "vo/compmode/cm_spy_summary_callout_07.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_07.mp3": {
         "base_name": "cm_spy_summary_callout_07",
         "criteria": [],
         "events": [
@@ -2298,7 +2298,7 @@
         "state": "used",
         "transcript": "I am not easily impressed, and yet you have impressed me!"
     },
-    "vo/compmode/cm_spy_summary_callout_08.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_08.mp3": {
         "base_name": "cm_spy_summary_callout_08",
         "criteria": [],
         "events": [
@@ -2311,7 +2311,7 @@
         "state": "used",
         "transcript": "I am the deadliest man I know, but you are a close second!"
     },
-    "vo/compmode/cm_spy_summary_callout_10.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_10.mp3": {
         "base_name": "cm_spy_summary_callout_10",
         "criteria": [],
         "events": [
@@ -2324,7 +2324,7 @@
         "state": "used",
         "transcript": "Finally, they've recognized our brilliance!"
     },
-    "vo/compmode/cm_spy_summary_callout_11.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_11.mp3": {
         "base_name": "cm_spy_summary_callout_11",
         "criteria": [],
         "events": [
@@ -2337,7 +2337,7 @@
         "state": "used",
         "transcript": "Our work is finally being recognized!"
     },
-    "vo/compmode/cm_spy_summary_callout_12.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_12.mp3": {
         "base_name": "cm_spy_summary_callout_12",
         "criteria": [],
         "events": [
@@ -2350,7 +2350,7 @@
         "state": "used",
         "transcript": "It looks like we've been busy!"
     },
-    "vo/compmode/cm_spy_summary_callout_13.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_13.mp3": {
         "base_name": "cm_spy_summary_callout_13",
         "criteria": [],
         "events": [
@@ -2363,7 +2363,7 @@
         "state": "used",
         "transcript": "Our skills have been acknowledged!"
     },
-    "vo/compmode/cm_spy_summary_callout_14.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_14.mp3": {
         "base_name": "cm_spy_summary_callout_14",
         "criteria": [],
         "events": [
@@ -2376,7 +2376,7 @@
         "state": "used",
         "transcript": "We earned this."
     },
-    "vo/compmode/cm_spy_summary_callout_15.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_15.mp3": {
         "base_name": "cm_spy_summary_callout_15",
         "criteria": [],
         "events": [
@@ -2389,7 +2389,7 @@
         "state": "used",
         "transcript": "Yes! My friend, we have done it!"
     },
-    "vo/compmode/cm_spy_summary_callout_16.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_16.mp3": {
         "base_name": "cm_spy_summary_callout_16",
         "criteria": [],
         "events": [
@@ -2402,7 +2402,7 @@
         "state": "used",
         "transcript": "We did it! I mean, of course we did it."
     },
-    "vo/compmode/cm_spy_summary_callout_17.mp3": {
+    "sound/vo/compmode/cm_spy_summary_callout_17.mp3": {
         "base_name": "cm_spy_summary_callout_17",
         "criteria": [],
         "events": [
@@ -2415,7 +2415,7 @@
         "state": "used",
         "transcript": "Very nice!"
     },
-    "vo/spy_activatecharge01.mp3": {
+    "sound/vo/spy_activatecharge01.mp3": {
         "base_name": "spy_activatecharge01",
         "criteria": [
             [
@@ -2438,7 +2438,7 @@
         "state": "used",
         "transcript": "Activate the charge, Doctor."
     },
-    "vo/spy_activatecharge02.mp3": {
+    "sound/vo/spy_activatecharge02.mp3": {
         "base_name": "spy_activatecharge02",
         "criteria": [
             [
@@ -2461,7 +2461,7 @@
         "state": "used",
         "transcript": "At your pleasure, Doctor."
     },
-    "vo/spy_activatecharge03.mp3": {
+    "sound/vo/spy_activatecharge03.mp3": {
         "base_name": "spy_activatecharge03",
         "criteria": [
             [
@@ -2484,7 +2484,7 @@
         "state": "used",
         "transcript": "Doctor, if you please."
     },
-    "vo/spy_autocappedcontrolpoint01.mp3": {
+    "sound/vo/spy_autocappedcontrolpoint01.mp3": {
         "base_name": "spy_autocappedcontrolpoint01",
         "criteria": [
             [
@@ -2507,7 +2507,7 @@
         "state": "used",
         "transcript": "Well done, us!"
     },
-    "vo/spy_autocappedcontrolpoint02.mp3": {
+    "sound/vo/spy_autocappedcontrolpoint02.mp3": {
         "base_name": "spy_autocappedcontrolpoint02",
         "criteria": [
             [
@@ -2530,7 +2530,7 @@
         "state": "used",
         "transcript": "Our influence grows!"
     },
-    "vo/spy_autocappedcontrolpoint03.mp3": {
+    "sound/vo/spy_autocappedcontrolpoint03.mp3": {
         "base_name": "spy_autocappedcontrolpoint03",
         "criteria": [
             [
@@ -2555,7 +2555,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/spy_autocappedintelligence01.mp3": {
+    "sound/vo/spy_autocappedintelligence01.mp3": {
         "base_name": "spy_autocappedintelligence01",
         "criteria": [
             [
@@ -2578,7 +2578,7 @@
         "state": "used",
         "transcript": "Was there ever any doubt?"
     },
-    "vo/spy_autocappedintelligence02.mp3": {
+    "sound/vo/spy_autocappedintelligence02.mp3": {
         "base_name": "spy_autocappedintelligence02",
         "criteria": [
             [
@@ -2601,7 +2601,7 @@
         "state": "used",
         "transcript": "My pleasure."
     },
-    "vo/spy_autocappedintelligence03.mp3": {
+    "sound/vo/spy_autocappedintelligence03.mp3": {
         "base_name": "spy_autocappedintelligence03",
         "criteria": [
             [
@@ -2634,7 +2634,7 @@
         "state": "used",
         "transcript": "Cheers!"
     },
-    "vo/spy_autodejectedtie01.mp3": {
+    "sound/vo/spy_autodejectedtie01.mp3": {
         "base_name": "spy_autodejectedtie01",
         "criteria": [
             [
@@ -2660,7 +2660,7 @@
         "state": "used",
         "transcript": "That was unfortunate."
     },
-    "vo/spy_autodejectedtie02.mp3": {
+    "sound/vo/spy_autodejectedtie02.mp3": {
         "base_name": "spy_autodejectedtie02",
         "criteria": [
             [
@@ -2683,7 +2683,7 @@
         "state": "used",
         "transcript": "I must be dreaming!"
     },
-    "vo/spy_autodejectedtie03.mp3": {
+    "sound/vo/spy_autodejectedtie03.mp3": {
         "base_name": "spy_autodejectedtie03",
         "criteria": [
             [
@@ -2715,7 +2715,7 @@
         "state": "used",
         "transcript": "Awwwwww..."
     },
-    "vo/spy_autoonfire01.mp3": {
+    "sound/vo/spy_autoonfire01.mp3": {
         "base_name": "spy_autoonfire01",
         "criteria": [
             [
@@ -2742,7 +2742,7 @@
         "state": "used",
         "transcript": "I appear to have burst into flames."
     },
-    "vo/spy_autoonfire02.mp3": {
+    "sound/vo/spy_autoonfire02.mp3": {
         "base_name": "spy_autoonfire02",
         "criteria": [
             [
@@ -2768,7 +2768,7 @@
         "state": "used",
         "transcript": "Fire, fire, fire!"
     },
-    "vo/spy_autoonfire03.mp3": {
+    "sound/vo/spy_autoonfire03.mp3": {
         "base_name": "spy_autoonfire03",
         "criteria": [
             [
@@ -2795,7 +2795,7 @@
         "state": "used",
         "transcript": "I do believe I'm on fire."
     },
-    "vo/spy_battlecry01.mp3": {
+    "sound/vo/spy_battlecry01.mp3": {
         "base_name": "spy_battlecry01",
         "criteria": [
             [
@@ -2824,7 +2824,7 @@
         "state": "used",
         "transcript": "Gentlemen?"
     },
-    "vo/spy_battlecry02.mp3": {
+    "sound/vo/spy_battlecry02.mp3": {
         "base_name": "spy_battlecry02",
         "criteria": [
             [
@@ -2860,7 +2860,7 @@
         "state": "used",
         "transcript": "Shall we?"
     },
-    "vo/spy_battlecry03.mp3": {
+    "sound/vo/spy_battlecry03.mp3": {
         "base_name": "spy_battlecry03",
         "criteria": [
             [
@@ -2889,7 +2889,7 @@
         "state": "used",
         "transcript": "After you!"
     },
-    "vo/spy_battlecry04.mp3": {
+    "sound/vo/spy_battlecry04.mp3": {
         "base_name": "spy_battlecry04",
         "criteria": [
             [
@@ -2934,7 +2934,7 @@
         "state": "used",
         "transcript": "Ahem..."
     },
-    "vo/spy_cartgoingbackdefense01.mp3": {
+    "sound/vo/spy_cartgoingbackdefense01.mp3": {
         "base_name": "spy_cartgoingbackdefense01",
         "criteria": [
             [
@@ -2963,7 +2963,7 @@
         "state": "used",
         "transcript": "Excellent! The cart's moving back!"
     },
-    "vo/spy_cartgoingbackdefense02.mp3": {
+    "sound/vo/spy_cartgoingbackdefense02.mp3": {
         "base_name": "spy_cartgoingbackdefense02",
         "criteria": [
             [
@@ -2992,7 +2992,7 @@
         "state": "used",
         "transcript": "Yes! The cart's moving back!"
     },
-    "vo/spy_cartgoingbackoffense01.mp3": {
+    "sound/vo/spy_cartgoingbackoffense01.mp3": {
         "base_name": "spy_cartgoingbackoffense01",
         "criteria": [
             [
@@ -3021,7 +3021,7 @@
         "state": "used",
         "transcript": "The cart is supposed to move forward!"
     },
-    "vo/spy_cartgoingbackoffense02.mp3": {
+    "sound/vo/spy_cartgoingbackoffense02.mp3": {
         "base_name": "spy_cartgoingbackoffense02",
         "criteria": [
             [
@@ -3050,7 +3050,7 @@
         "state": "used",
         "transcript": "Damn it! We are losing ground!"
     },
-    "vo/spy_cartgoingforwarddefense01.mp3": {
+    "sound/vo/spy_cartgoingforwarddefense01.mp3": {
         "base_name": "spy_cartgoingforwarddefense01",
         "criteria": [
             [
@@ -3079,7 +3079,7 @@
         "state": "used",
         "transcript": "Somebody stop that cart!"
     },
-    "vo/spy_cartgoingforwarddefense02.mp3": {
+    "sound/vo/spy_cartgoingforwarddefense02.mp3": {
         "base_name": "spy_cartgoingforwarddefense02",
         "criteria": [
             [
@@ -3108,7 +3108,7 @@
         "state": "used",
         "transcript": "Stop that cart!"
     },
-    "vo/spy_cartgoingforwarddefense03.mp3": {
+    "sound/vo/spy_cartgoingforwarddefense03.mp3": {
         "base_name": "spy_cartgoingforwarddefense03",
         "criteria": [
             [
@@ -3137,7 +3137,7 @@
         "state": "used",
         "transcript": "Stop that cart, you idiots!"
     },
-    "vo/spy_cartgoingforwarddefense04.mp3": {
+    "sound/vo/spy_cartgoingforwarddefense04.mp3": {
         "base_name": "spy_cartgoingforwarddefense04",
         "criteria": [
             [
@@ -3166,7 +3166,7 @@
         "state": "used",
         "transcript": "We need to stop that cart!"
     },
-    "vo/spy_cartgoingforwardoffense01.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense01.mp3": {
         "base_name": "spy_cartgoingforwardoffense01",
         "criteria": [
             [
@@ -3195,7 +3195,7 @@
         "state": "used",
         "transcript": "Push! Push!"
     },
-    "vo/spy_cartgoingforwardoffense02.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense02.mp3": {
         "base_name": "spy_cartgoingforwardoffense02",
         "criteria": [
             [
@@ -3224,7 +3224,7 @@
         "state": "used",
         "transcript": "Push!"
     },
-    "vo/spy_cartgoingforwardoffense03.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense03.mp3": {
         "base_name": "spy_cartgoingforwardoffense03",
         "criteria": [
             [
@@ -3253,7 +3253,7 @@
         "state": "used",
         "transcript": "Push, everyone!"
     },
-    "vo/spy_cartgoingforwardoffense04.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense04.mp3": {
         "base_name": "spy_cartgoingforwardoffense04",
         "criteria": [
             [
@@ -3282,7 +3282,7 @@
         "state": "used",
         "transcript": "Everyone, push!"
     },
-    "vo/spy_cartgoingforwardoffense05.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense05.mp3": {
         "base_name": "spy_cartgoingforwardoffense05",
         "criteria": [
             [
@@ -3311,7 +3311,7 @@
         "state": "used",
         "transcript": "Push the cart!"
     },
-    "vo/spy_cartgoingforwardoffense06.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense06.mp3": {
         "base_name": "spy_cartgoingforwardoffense06",
         "criteria": [
             [
@@ -3340,7 +3340,7 @@
         "state": "used",
         "transcript": "Push!"
     },
-    "vo/spy_cartgoingforwardoffense07.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense07.mp3": {
         "base_name": "spy_cartgoingforwardoffense07",
         "criteria": [
             [
@@ -3369,7 +3369,7 @@
         "state": "used",
         "transcript": "Push, you idiots!"
     },
-    "vo/spy_cartgoingforwardoffense08.mp3": {
+    "sound/vo/spy_cartgoingforwardoffense08.mp3": {
         "base_name": "spy_cartgoingforwardoffense08",
         "criteria": [
             [
@@ -3398,7 +3398,7 @@
         "state": "used",
         "transcript": "Push, damn you!"
     },
-    "vo/spy_cartstaycloseoffense01.mp3": {
+    "sound/vo/spy_cartstaycloseoffense01.mp3": {
         "base_name": "spy_cartstaycloseoffense01",
         "criteria": [
             [
@@ -3427,7 +3427,7 @@
         "state": "used",
         "transcript": "Get to the cart!"
     },
-    "vo/spy_cartstaycloseoffense02.mp3": {
+    "sound/vo/spy_cartstaycloseoffense02.mp3": {
         "base_name": "spy_cartstaycloseoffense02",
         "criteria": [
             [
@@ -3456,7 +3456,7 @@
         "state": "used",
         "transcript": "Get to the cart!"
     },
-    "vo/spy_cartstaycloseoffense03.mp3": {
+    "sound/vo/spy_cartstaycloseoffense03.mp3": {
         "base_name": "spy_cartstaycloseoffense03",
         "criteria": [
             [
@@ -3485,7 +3485,7 @@
         "state": "used",
         "transcript": "Stay close to the cart!"
     },
-    "vo/spy_cartstaycloseoffense04.mp3": {
+    "sound/vo/spy_cartstaycloseoffense04.mp3": {
         "base_name": "spy_cartstaycloseoffense04",
         "criteria": [
             [
@@ -3514,7 +3514,7 @@
         "state": "used",
         "transcript": "Do not leave the cart!"
     },
-    "vo/spy_cartstopitdefense01.mp3": {
+    "sound/vo/spy_cartstopitdefense01.mp3": {
         "base_name": "spy_cartstopitdefense01",
         "criteria": [
             [
@@ -3543,7 +3543,7 @@
         "state": "used",
         "transcript": "We've got to stop that bomb!"
     },
-    "vo/spy_cartstopitdefense02.mp3": {
+    "sound/vo/spy_cartstopitdefense02.mp3": {
         "base_name": "spy_cartstopitdefense02",
         "criteria": [
             [
@@ -3572,7 +3572,7 @@
         "state": "used",
         "transcript": "Stand next to the bomb!"
     },
-    "vo/spy_cartstopitdefense03.mp3": {
+    "sound/vo/spy_cartstopitdefense03.mp3": {
         "base_name": "spy_cartstopitdefense03",
         "criteria": [
             [
@@ -3601,7 +3601,7 @@
         "state": "used",
         "transcript": "We must stop the bomb!"
     },
-    "vo/spy_cartstopitdefense04.mp3": {
+    "sound/vo/spy_cartstopitdefense04.mp3": {
         "base_name": "spy_cartstopitdefense04",
         "criteria": [
             [
@@ -3630,7 +3630,7 @@
         "state": "used",
         "transcript": "Get to the bomb cart!"
     },
-    "vo/spy_cartstoppedoffense01.mp3": {
+    "sound/vo/spy_cartstoppedoffense01.mp3": {
         "base_name": "spy_cartstoppedoffense01",
         "criteria": [
             [
@@ -3659,7 +3659,7 @@
         "state": "used",
         "transcript": "The cart isn't moving, gentlemen!"
     },
-    "vo/spy_cartstoppedoffense02.mp3": {
+    "sound/vo/spy_cartstoppedoffense02.mp3": {
         "base_name": "spy_cartstoppedoffense02",
         "criteria": [
             [
@@ -3688,7 +3688,7 @@
         "state": "used",
         "transcript": "Ugh, the cart has stopped!"
     },
-    "vo/spy_cartstoppedoffense03.mp3": {
+    "sound/vo/spy_cartstoppedoffense03.mp3": {
         "base_name": "spy_cartstoppedoffense03",
         "criteria": [
             [
@@ -3717,7 +3717,7 @@
         "state": "used",
         "transcript": "Why is the cart not moving?!"
     },
-    "vo/spy_cheers01.mp3": {
+    "sound/vo/spy_cheers01.mp3": {
         "base_name": "spy_cheers01",
         "criteria": [
             [
@@ -3749,7 +3749,7 @@
         "state": "used",
         "transcript": "All in a day's work."
     },
-    "vo/spy_cheers02.mp3": {
+    "sound/vo/spy_cheers02.mp3": {
         "base_name": "spy_cheers02",
         "criteria": [
             [
@@ -3775,7 +3775,7 @@
         "state": "used",
         "transcript": "Heartwarming..."
     },
-    "vo/spy_cheers03.mp3": {
+    "sound/vo/spy_cheers03.mp3": {
         "base_name": "spy_cheers03",
         "criteria": [
             [
@@ -3801,7 +3801,7 @@
         "state": "used",
         "transcript": "But of course!"
     },
-    "vo/spy_cheers04.mp3": {
+    "sound/vo/spy_cheers04.mp3": {
         "base_name": "spy_cheers04",
         "criteria": [
             [
@@ -3835,7 +3835,7 @@
         "state": "used",
         "transcript": "What did they expect?"
     },
-    "vo/spy_cheers05.mp3": {
+    "sound/vo/spy_cheers05.mp3": {
         "base_name": "spy_cheers05",
         "criteria": [
             [
@@ -3861,7 +3861,7 @@
         "state": "used",
         "transcript": "Naturally."
     },
-    "vo/spy_cheers06.mp3": {
+    "sound/vo/spy_cheers06.mp3": {
         "base_name": "spy_cheers06",
         "criteria": [
             [
@@ -3899,7 +3899,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/spy_cheers07.mp3": {
+    "sound/vo/spy_cheers07.mp3": {
         "base_name": "spy_cheers07",
         "criteria": [
             [
@@ -3929,7 +3929,7 @@
         "state": "used",
         "transcript": "The outcome was never really in doubt."
     },
-    "vo/spy_cheers08.mp3": {
+    "sound/vo/spy_cheers08.mp3": {
         "base_name": "spy_cheers08",
         "criteria": [
             [
@@ -3952,7 +3952,7 @@
         "state": "used",
         "transcript": "Clearly, they were outclassed."
     },
-    "vo/spy_cloakedspy01.mp3": {
+    "sound/vo/spy_cloakedspy01.mp3": {
         "base_name": "spy_cloakedspy01",
         "criteria": [
             [
@@ -3975,7 +3975,7 @@
         "state": "used",
         "transcript": "It seems I am not the only Spy."
     },
-    "vo/spy_cloakedspy02.mp3": {
+    "sound/vo/spy_cloakedspy02.mp3": {
         "base_name": "spy_cloakedspy02",
         "criteria": [
             [
@@ -3998,7 +3998,7 @@
         "state": "used",
         "transcript": "Spy in our midst!"
     },
-    "vo/spy_cloakedspy03.mp3": {
+    "sound/vo/spy_cloakedspy03.mp3": {
         "base_name": "spy_cloakedspy03",
         "criteria": [
             [
@@ -4022,7 +4022,7 @@
         "state": "used",
         "transcript": "Spy, gentlemen."
     },
-    "vo/spy_cloakedspy04.mp3": {
+    "sound/vo/spy_cloakedspy04.mp3": {
         "base_name": "spy_cloakedspy04",
         "criteria": [
             [
@@ -4046,7 +4046,7 @@
         "state": "used",
         "transcript": "Spy among us!"
     },
-    "vo/spy_cloakedspyidentify01.mp3": {
+    "sound/vo/spy_cloakedspyidentify01.mp3": {
         "base_name": "spy_cloakedspyidentify01",
         "criteria": [
             [
@@ -4070,7 +4070,7 @@
         "state": "used",
         "transcript": "That Scout is a Spy."
     },
-    "vo/spy_cloakedspyidentify02.mp3": {
+    "sound/vo/spy_cloakedspyidentify02.mp3": {
         "base_name": "spy_cloakedspyidentify02",
         "criteria": [
             [
@@ -4094,7 +4094,7 @@
         "state": "used",
         "transcript": "The Soldier is a Spy!"
     },
-    "vo/spy_cloakedspyidentify03.mp3": {
+    "sound/vo/spy_cloakedspyidentify03.mp3": {
         "base_name": "spy_cloakedspyidentify03",
         "criteria": [
             [
@@ -4118,7 +4118,7 @@
         "state": "used",
         "transcript": "The Heavy is a Spy."
     },
-    "vo/spy_cloakedspyidentify04.mp3": {
+    "sound/vo/spy_cloakedspyidentify04.mp3": {
         "base_name": "spy_cloakedspyidentify04",
         "criteria": [
             [
@@ -4142,7 +4142,7 @@
         "state": "used",
         "transcript": "The Pyro is a Spy!"
     },
-    "vo/spy_cloakedspyidentify05.mp3": {
+    "sound/vo/spy_cloakedspyidentify05.mp3": {
         "base_name": "spy_cloakedspyidentify05",
         "criteria": [
             [
@@ -4166,7 +4166,7 @@
         "state": "used",
         "transcript": "The Demoman is a Spy!"
     },
-    "vo/spy_cloakedspyidentify06.mp3": {
+    "sound/vo/spy_cloakedspyidentify06.mp3": {
         "base_name": "spy_cloakedspyidentify06",
         "criteria": [
             [
@@ -4190,7 +4190,7 @@
         "state": "used",
         "transcript": "That Spy is an enemy!"
     },
-    "vo/spy_cloakedspyidentify07.mp3": {
+    "sound/vo/spy_cloakedspyidentify07.mp3": {
         "base_name": "spy_cloakedspyidentify07",
         "criteria": [
             [
@@ -4214,7 +4214,7 @@
         "state": "used",
         "transcript": "That Spy is not one of us!"
     },
-    "vo/spy_cloakedspyidentify08.mp3": {
+    "sound/vo/spy_cloakedspyidentify08.mp3": {
         "base_name": "spy_cloakedspyidentify08",
         "criteria": [
             [
@@ -4238,7 +4238,7 @@
         "state": "used",
         "transcript": "The Medic is a Spy."
     },
-    "vo/spy_cloakedspyidentify09.mp3": {
+    "sound/vo/spy_cloakedspyidentify09.mp3": {
         "base_name": "spy_cloakedspyidentify09",
         "criteria": [
             [
@@ -4262,7 +4262,7 @@
         "state": "used",
         "transcript": "The Engineer is a Spy."
     },
-    "vo/spy_cloakedspyidentify10.mp3": {
+    "sound/vo/spy_cloakedspyidentify10.mp3": {
         "base_name": "spy_cloakedspyidentify10",
         "criteria": [
             [
@@ -4286,7 +4286,7 @@
         "state": "used",
         "transcript": "The Sniper is a Spy!"
     },
-    "vo/spy_dominationdemoman01.mp3": {
+    "sound/vo/spy_dominationdemoman01.mp3": {
         "base_name": "spy_dominationdemoman01",
         "criteria": [
             [
@@ -4313,7 +4313,7 @@
         "state": "used",
         "transcript": "'Kaboom', indeed, you drunken wretch!"
     },
-    "vo/spy_dominationdemoman02.mp3": {
+    "sound/vo/spy_dominationdemoman02.mp3": {
         "base_name": "spy_dominationdemoman02",
         "criteria": [
             [
@@ -4340,7 +4340,7 @@
         "state": "used",
         "transcript": "How's that bottle of Scrumpy now?"
     },
-    "vo/spy_dominationdemoman03.mp3": {
+    "sound/vo/spy_dominationdemoman03.mp3": {
         "base_name": "spy_dominationdemoman03",
         "criteria": [],
         "events": [
@@ -4352,7 +4352,7 @@
         "state": "used",
         "transcript": "'Kaboom' to you, sir."
     },
-    "vo/spy_dominationdemoman04.mp3": {
+    "sound/vo/spy_dominationdemoman04.mp3": {
         "base_name": "spy_dominationdemoman04",
         "criteria": [
             [
@@ -4379,7 +4379,7 @@
         "state": "used",
         "transcript": "Don't feel bad; you did a fine job tossing your little balls around!"
     },
-    "vo/spy_dominationdemoman05.mp3": {
+    "sound/vo/spy_dominationdemoman05.mp3": {
         "base_name": "spy_dominationdemoman05",
         "criteria": [
             [
@@ -4406,7 +4406,7 @@
         "state": "used",
         "transcript": "The Black Scottish Cyclops \u2014 now extinct!"
     },
-    "vo/spy_dominationdemoman06.mp3": {
+    "sound/vo/spy_dominationdemoman06.mp3": {
         "base_name": "spy_dominationdemoman06",
         "criteria": [
             [
@@ -4433,7 +4433,7 @@
         "state": "used",
         "transcript": "I've merely finished what your liver started!"
     },
-    "vo/spy_dominationdemoman07.mp3": {
+    "sound/vo/spy_dominationdemoman07.mp3": {
         "base_name": "spy_dominationdemoman07",
         "criteria": [
             [
@@ -4460,7 +4460,7 @@
         "state": "used",
         "transcript": "Here's what I have that you don't: a functioning liver, depth perception, and a pulse!"
     },
-    "vo/spy_dominationengineer01.mp3": {
+    "sound/vo/spy_dominationengineer01.mp3": {
         "base_name": "spy_dominationengineer01",
         "criteria": [
             [
@@ -4487,7 +4487,7 @@
         "state": "used",
         "transcript": "Yippee ki-yay, my dead, illiterate friend!"
     },
-    "vo/spy_dominationengineer02.mp3": {
+    "sound/vo/spy_dominationengineer02.mp3": {
         "base_name": "spy_dominationengineer02",
         "criteria": [
             [
@@ -4514,7 +4514,7 @@
         "state": "used",
         "transcript": "Howdy, pardner!"
     },
-    "vo/spy_dominationengineer03.mp3": {
+    "sound/vo/spy_dominationengineer03.mp3": {
         "base_name": "spy_dominationengineer03",
         "criteria": [
             [
@@ -4541,7 +4541,7 @@
         "state": "used",
         "transcript": "Happy trails, laborer!"
     },
-    "vo/spy_dominationengineer04.mp3": {
+    "sound/vo/spy_dominationengineer04.mp3": {
         "base_name": "spy_dominationengineer04",
         "criteria": [
             [
@@ -4568,7 +4568,7 @@
         "state": "used",
         "transcript": "\"Did I throw a wrench into your plans?\" (laughs maniacally)"
     },
-    "vo/spy_dominationengineer05.mp3": {
+    "sound/vo/spy_dominationengineer05.mp3": {
         "base_name": "spy_dominationengineer05",
         "criteria": [
             [
@@ -4595,7 +4595,7 @@
         "state": "used",
         "transcript": "Not much of a quick-draw, are you, pardner?"
     },
-    "vo/spy_dominationengineer06.mp3": {
+    "sound/vo/spy_dominationengineer06.mp3": {
         "base_name": "spy_dominationengineer06",
         "criteria": [
             [
@@ -4622,7 +4622,7 @@
         "state": "used",
         "transcript": "Giddyup now -- to hell!"
     },
-    "vo/spy_dominationheavy01.mp3": {
+    "sound/vo/spy_dominationheavy01.mp3": {
         "base_name": "spy_dominationheavy01",
         "criteria": [
             [
@@ -4649,7 +4649,7 @@
         "state": "used",
         "transcript": "Oh, fat man, please! This is getting awkward!"
     },
-    "vo/spy_dominationheavy02.mp3": {
+    "sound/vo/spy_dominationheavy02.mp3": {
         "base_name": "spy_dominationheavy02",
         "criteria": [
             [
@@ -4676,7 +4676,7 @@
         "state": "used",
         "transcript": "You disgust me, fat man!"
     },
-    "vo/spy_dominationheavy03.mp3": {
+    "sound/vo/spy_dominationheavy03.mp3": {
         "base_name": "spy_dominationheavy03",
         "criteria": [
             [
@@ -4703,7 +4703,7 @@
         "state": "used",
         "transcript": "That is a diet I call 'death.'"
     },
-    "vo/spy_dominationheavy04.mp3": {
+    "sound/vo/spy_dominationheavy04.mp3": {
         "base_name": "spy_dominationheavy04",
         "criteria": [
             [
@@ -4730,7 +4730,7 @@
         "state": "used",
         "transcript": "Dominated, you fatuous, fat-headed fat man!"
     },
-    "vo/spy_dominationheavy05.mp3": {
+    "sound/vo/spy_dominationheavy05.mp3": {
         "base_name": "spy_dominationheavy05",
         "criteria": [
             [
@@ -4757,7 +4757,7 @@
         "state": "used",
         "transcript": "You died as you lived: morbidly obese!"
     },
-    "vo/spy_dominationheavy06.mp3": {
+    "sound/vo/spy_dominationheavy06.mp3": {
         "base_name": "spy_dominationheavy06",
         "criteria": [
             [
@@ -4784,7 +4784,7 @@
         "state": "used",
         "transcript": "Your precious sandvich won't save you now, fatty!"
     },
-    "vo/spy_dominationheavy07.mp3": {
+    "sound/vo/spy_dominationheavy07.mp3": {
         "base_name": "spy_dominationheavy07",
         "criteria": [
             [
@@ -4811,7 +4811,7 @@
         "state": "used",
         "transcript": "Aww, too bad this wasn't a pie-eating contest!"
     },
-    "vo/spy_dominationheavy08.mp3": {
+    "sound/vo/spy_dominationheavy08.mp3": {
         "base_name": "spy_dominationheavy08",
         "criteria": [
             [
@@ -4838,7 +4838,7 @@
         "state": "used",
         "transcript": "\"What's the matter? Fat got your tongue?\" (laughs)"
     },
-    "vo/spy_dominationmedic01.mp3": {
+    "sound/vo/spy_dominationmedic01.mp3": {
         "base_name": "spy_dominationmedic01",
         "criteria": [
             [
@@ -4865,7 +4865,7 @@
         "state": "used",
         "transcript": "[Laughing] \"Laughter really is the best medicine!\" (laughs again)"
     },
-    "vo/spy_dominationmedic02.mp3": {
+    "sound/vo/spy_dominationmedic02.mp3": {
         "base_name": "spy_dominationmedic02",
         "criteria": [
             [
@@ -4892,7 +4892,7 @@
         "state": "used",
         "transcript": "[Mockingly] \"Medic! Medic! Medic!\" (laughs maniacally)"
     },
-    "vo/spy_dominationmedic03.mp3": {
+    "sound/vo/spy_dominationmedic03.mp3": {
         "base_name": "spy_dominationmedic03",
         "criteria": [
             [
@@ -4919,7 +4919,7 @@
         "state": "used",
         "transcript": "Aww, you almost healed me to death that time!"
     },
-    "vo/spy_dominationmedic04.mp3": {
+    "sound/vo/spy_dominationmedic04.mp3": {
         "base_name": "spy_dominationmedic04",
         "criteria": [
             [
@@ -4946,7 +4946,7 @@
         "state": "used",
         "transcript": "I'm looking at your x-ray, and I'm afraid you suck!"
     },
-    "vo/spy_dominationmedic05.mp3": {
+    "sound/vo/spy_dominationmedic05.mp3": {
         "base_name": "spy_dominationmedic05",
         "criteria": [
             [
@@ -4973,7 +4973,7 @@
         "state": "used",
         "transcript": "[Laughing] \"You are such a bad doctor!\" (laughs again)"
     },
-    "vo/spy_dominationmedic06.mp3": {
+    "sound/vo/spy_dominationmedic06.mp3": {
         "base_name": "spy_dominationmedic06",
         "criteria": [
             [
@@ -5000,7 +5000,7 @@
         "state": "used",
         "transcript": "Does it hurt when I do that? It does, doesn't it?!"
     },
-    "vo/spy_dominationpyro01.mp3": {
+    "sound/vo/spy_dominationpyro01.mp3": {
         "base_name": "spy_dominationpyro01",
         "criteria": [
             [
@@ -5027,7 +5027,7 @@
         "state": "used",
         "transcript": "Dominated, you mush-mouthed freak!"
     },
-    "vo/spy_dominationpyro02.mp3": {
+    "sound/vo/spy_dominationpyro02.mp3": {
         "base_name": "spy_dominationpyro02",
         "criteria": [
             [
@@ -5054,7 +5054,7 @@
         "state": "used",
         "transcript": "Good Lord! You fight like a woman!"
     },
-    "vo/spy_dominationpyro03.mp3": {
+    "sound/vo/spy_dominationpyro03.mp3": {
         "base_name": "spy_dominationpyro03",
         "criteria": [
             [
@@ -5081,7 +5081,7 @@
         "state": "used",
         "transcript": "The world will thank me for this, you monster!"
     },
-    "vo/spy_dominationpyro04.mp3": {
+    "sound/vo/spy_dominationpyro04.mp3": {
         "base_name": "spy_dominationpyro04",
         "criteria": [
             [
@@ -5108,7 +5108,7 @@
         "state": "used",
         "transcript": "Burn in hell, you mumbling abomination!"
     },
-    "vo/spy_dominationpyro05.mp3": {
+    "sound/vo/spy_dominationpyro05.mp3": {
         "base_name": "spy_dominationpyro05",
         "criteria": [
             [
@@ -5135,7 +5135,7 @@
         "state": "used",
         "transcript": "\"You look like death warmed over.\" (chuckles)"
     },
-    "vo/spy_dominationscout01.mp3": {
+    "sound/vo/spy_dominationscout01.mp3": {
         "base_name": "spy_dominationscout01",
         "criteria": [
             [
@@ -5162,7 +5162,7 @@
         "state": "used",
         "transcript": "Well, off to visit your mother!"
     },
-    "vo/spy_dominationscout02.mp3": {
+    "sound/vo/spy_dominationscout02.mp3": {
         "base_name": "spy_dominationscout02",
         "criteria": [
             [
@@ -5189,7 +5189,7 @@
         "state": "used",
         "transcript": "You died as you lived: running away!"
     },
-    "vo/spy_dominationscout03.mp3": {
+    "sound/vo/spy_dominationscout03.mp3": {
         "base_name": "spy_dominationscout03",
         "criteria": [
             [
@@ -5216,7 +5216,7 @@
         "state": "used",
         "transcript": "Ooh, you were quick as a little bunny, weren't you?"
     },
-    "vo/spy_dominationscout04.mp3": {
+    "sound/vo/spy_dominationscout04.mp3": {
         "base_name": "spy_dominationscout04",
         "criteria": [
             [
@@ -5243,7 +5243,7 @@
         "state": "used",
         "transcript": "Here lies Scout--he ran fast and died a virgin."
     },
-    "vo/spy_dominationscout05.mp3": {
+    "sound/vo/spy_dominationscout05.mp3": {
         "base_name": "spy_dominationscout05",
         "criteria": [
             [
@@ -5270,7 +5270,7 @@
         "state": "used",
         "transcript": "Weren't you supposed to be good at dodging?"
     },
-    "vo/spy_dominationscout06.mp3": {
+    "sound/vo/spy_dominationscout06.mp3": {
         "base_name": "spy_dominationscout06",
         "criteria": [
             [
@@ -5297,7 +5297,7 @@
         "state": "used",
         "transcript": "May I borrow your earpiece?\" [mimicking Scout] \"'This is Scout! Rainbows make me cry! Over!'"
     },
-    "vo/spy_dominationscout07.mp3": {
+    "sound/vo/spy_dominationscout07.mp3": {
         "base_name": "spy_dominationscout07",
         "criteria": [
             [
@@ -5324,7 +5324,7 @@
         "state": "used",
         "transcript": "Nothing personal, I just had to shut you up."
     },
-    "vo/spy_dominationscout08.mp3": {
+    "sound/vo/spy_dominationscout08.mp3": {
         "base_name": "spy_dominationscout08",
         "criteria": [
             [
@@ -5351,7 +5351,7 @@
         "state": "used",
         "transcript": "So, your deadly skill is jogging? Mine is murdering people."
     },
-    "vo/spy_dominationsniper01.mp3": {
+    "sound/vo/spy_dominationsniper01.mp3": {
         "base_name": "spy_dominationsniper01",
         "criteria": [
             [
@@ -5378,7 +5378,7 @@
         "state": "used",
         "transcript": "Boo! You repulsive bushman!"
     },
-    "vo/spy_dominationsniper02.mp3": {
+    "sound/vo/spy_dominationsniper02.mp3": {
         "base_name": "spy_dominationsniper02",
         "criteria": [
             [
@@ -5408,7 +5408,7 @@
         "state": "used",
         "transcript": "You disgust me, filthy jar man!"
     },
-    "vo/spy_dominationsniper03.mp3": {
+    "sound/vo/spy_dominationsniper03.mp3": {
         "base_name": "spy_dominationsniper03",
         "criteria": [
             [
@@ -5435,7 +5435,7 @@
         "state": "used",
         "transcript": "\"No worries, mate!\" (laughs)"
     },
-    "vo/spy_dominationsniper04.mp3": {
+    "sound/vo/spy_dominationsniper04.mp3": {
         "base_name": "spy_dominationsniper04",
         "criteria": [
             [
@@ -5462,7 +5462,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/spy_dominationsniper05.mp3": {
+    "sound/vo/spy_dominationsniper05.mp3": {
         "base_name": "spy_dominationsniper05",
         "criteria": [
             [
@@ -5489,7 +5489,7 @@
         "state": "used",
         "transcript": "Oh, please, just stay down!"
     },
-    "vo/spy_dominationsniper06.mp3": {
+    "sound/vo/spy_dominationsniper06.mp3": {
         "base_name": "spy_dominationsniper06",
         "criteria": [
             [
@@ -5516,7 +5516,7 @@
         "state": "used",
         "transcript": "Perhaps they can bury you in that van you call 'home.'"
     },
-    "vo/spy_dominationsniper07.mp3": {
+    "sound/vo/spy_dominationsniper07.mp3": {
         "base_name": "spy_dominationsniper07",
         "criteria": [
             [
@@ -5543,7 +5543,7 @@
         "state": "used",
         "transcript": "\"Good day to you, mate!\" (laughs)"
     },
-    "vo/spy_dominationsoldier01.mp3": {
+    "sound/vo/spy_dominationsoldier01.mp3": {
         "base_name": "spy_dominationsoldier01",
         "criteria": [
             [
@@ -5570,7 +5570,7 @@
         "state": "used",
         "transcript": "Maybe your colleagues will send a man next time."
     },
-    "vo/spy_dominationsoldier02.mp3": {
+    "sound/vo/spy_dominationsoldier02.mp3": {
         "base_name": "spy_dominationsoldier02",
         "criteria": [
             [
@@ -5597,7 +5597,7 @@
         "state": "used",
         "transcript": "I dominate you, you sluggish simpleton."
     },
-    "vo/spy_dominationsoldier03.mp3": {
+    "sound/vo/spy_dominationsoldier03.mp3": {
         "base_name": "spy_dominationsoldier03",
         "criteria": [
             [
@@ -5624,7 +5624,7 @@
         "state": "used",
         "transcript": "At least you died for honor -- and my amusement!"
     },
-    "vo/spy_dominationsoldier04.mp3": {
+    "sound/vo/spy_dominationsoldier04.mp3": {
         "base_name": "spy_dominationsoldier04",
         "criteria": [
             [
@@ -5651,7 +5651,7 @@
         "state": "used",
         "transcript": "\"Oh, Soldier, who will they ever find to replace you? Anyone!\" (laughs)"
     },
-    "vo/spy_dominationsoldier05.mp3": {
+    "sound/vo/spy_dominationsoldier05.mp3": {
         "base_name": "spy_dominationsoldier05",
         "criteria": [
             [
@@ -5678,7 +5678,7 @@
         "state": "used",
         "transcript": "They can bury you in the 'Tomb of the Unskilled Soldier!"
     },
-    "vo/spy_dominationspy01.mp3": {
+    "sound/vo/spy_dominationspy01.mp3": {
         "base_name": "spy_dominationspy01",
         "criteria": [
             [
@@ -5706,7 +5706,7 @@
         "state": "used",
         "transcript": "Go to hell, and take your cheap suit with you!"
     },
-    "vo/spy_dominationspy02.mp3": {
+    "sound/vo/spy_dominationspy02.mp3": {
         "base_name": "spy_dominationspy02",
         "criteria": [
             [
@@ -5733,7 +5733,7 @@
         "state": "used",
         "transcript": "We all knew you were a Spy!"
     },
-    "vo/spy_dominationspy03.mp3": {
+    "sound/vo/spy_dominationspy03.mp3": {
         "base_name": "spy_dominationspy03",
         "criteria": [
             [
@@ -5760,7 +5760,7 @@
         "state": "used",
         "transcript": "You are an amateur and a fool!"
     },
-    "vo/spy_dominationspy04.mp3": {
+    "sound/vo/spy_dominationspy04.mp3": {
         "base_name": "spy_dominationspy04",
         "criteria": [
             [
@@ -5787,7 +5787,7 @@
         "state": "used",
         "transcript": "I'll see you in hell... you handsome rogue!"
     },
-    "vo/spy_dominationspy05.mp3": {
+    "sound/vo/spy_dominationspy05.mp3": {
         "base_name": "spy_dominationspy05",
         "criteria": [
             [
@@ -5814,7 +5814,7 @@
         "state": "used",
         "transcript": "You are an embarrassment to Spies everywhere!"
     },
-    "vo/spy_go01.mp3": {
+    "sound/vo/spy_go01.mp3": {
         "base_name": "spy_go01",
         "criteria": [
             [
@@ -5840,7 +5840,7 @@
         "state": "used",
         "transcript": "Move!"
     },
-    "vo/spy_go02.mp3": {
+    "sound/vo/spy_go02.mp3": {
         "base_name": "spy_go02",
         "criteria": [
             [
@@ -5866,7 +5866,7 @@
         "state": "used",
         "transcript": "Let us move!"
     },
-    "vo/spy_go03.mp3": {
+    "sound/vo/spy_go03.mp3": {
         "base_name": "spy_go03",
         "criteria": [
             [
@@ -5892,7 +5892,7 @@
         "state": "used",
         "transcript": "Proceed!"
     },
-    "vo/spy_goodjob01.mp3": {
+    "sound/vo/spy_goodjob01.mp3": {
         "base_name": "spy_goodjob01",
         "criteria": [
             [
@@ -5927,7 +5927,7 @@
         "state": "used",
         "transcript": "Well played!"
     },
-    "vo/spy_goodjob02.mp3": {
+    "sound/vo/spy_goodjob02.mp3": {
         "base_name": "spy_goodjob02",
         "criteria": [
             [
@@ -5961,7 +5961,7 @@
         "state": "used",
         "transcript": "Fine job!"
     },
-    "vo/spy_goodjob03.mp3": {
+    "sound/vo/spy_goodjob03.mp3": {
         "base_name": "spy_goodjob03",
         "criteria": [
             [
@@ -5987,7 +5987,7 @@
         "state": "used",
         "transcript": "You have done well!"
     },
-    "vo/spy_headleft01.mp3": {
+    "sound/vo/spy_headleft01.mp3": {
         "base_name": "spy_headleft01",
         "criteria": [
             [
@@ -6010,7 +6010,7 @@
         "state": "used",
         "transcript": "Left!"
     },
-    "vo/spy_headleft02.mp3": {
+    "sound/vo/spy_headleft02.mp3": {
         "base_name": "spy_headleft02",
         "criteria": [
             [
@@ -6033,7 +6033,7 @@
         "state": "used",
         "transcript": "To the left!"
     },
-    "vo/spy_headleft03.mp3": {
+    "sound/vo/spy_headleft03.mp3": {
         "base_name": "spy_headleft03",
         "criteria": [
             [
@@ -6056,7 +6056,7 @@
         "state": "used",
         "transcript": "Go left!"
     },
-    "vo/spy_headright01.mp3": {
+    "sound/vo/spy_headright01.mp3": {
         "base_name": "spy_headright01",
         "criteria": [
             [
@@ -6079,7 +6079,7 @@
         "state": "used",
         "transcript": "Right!"
     },
-    "vo/spy_headright02.mp3": {
+    "sound/vo/spy_headright02.mp3": {
         "base_name": "spy_headright02",
         "criteria": [
             [
@@ -6102,7 +6102,7 @@
         "state": "used",
         "transcript": "To the right!"
     },
-    "vo/spy_headright03.mp3": {
+    "sound/vo/spy_headright03.mp3": {
         "base_name": "spy_headright03",
         "criteria": [
             [
@@ -6125,7 +6125,7 @@
         "state": "used",
         "transcript": "Go right!"
     },
-    "vo/spy_helpme01.mp3": {
+    "sound/vo/spy_helpme01.mp3": {
         "base_name": "spy_helpme01",
         "criteria": [
             [
@@ -6148,7 +6148,7 @@
         "state": "used",
         "transcript": "Help!"
     },
-    "vo/spy_helpme02.mp3": {
+    "sound/vo/spy_helpme02.mp3": {
         "base_name": "spy_helpme02",
         "criteria": [
             [
@@ -6171,7 +6171,7 @@
         "state": "used",
         "transcript": "Some assistance, please!"
     },
-    "vo/spy_helpme03.mp3": {
+    "sound/vo/spy_helpme03.mp3": {
         "base_name": "spy_helpme03",
         "criteria": [
             [
@@ -6194,7 +6194,7 @@
         "state": "used",
         "transcript": "I require assistance!"
     },
-    "vo/spy_helpmecapture01.mp3": {
+    "sound/vo/spy_helpmecapture01.mp3": {
         "base_name": "spy_helpmecapture01",
         "criteria": [
             [
@@ -6222,7 +6222,7 @@
         "state": "used",
         "transcript": "Come help me capture this."
     },
-    "vo/spy_helpmecapture02.mp3": {
+    "sound/vo/spy_helpmecapture02.mp3": {
         "base_name": "spy_helpmecapture02",
         "criteria": [
             [
@@ -6247,7 +6247,7 @@
         "state": "used",
         "transcript": "Help me capture the point!"
     },
-    "vo/spy_helpmecapture03.mp3": {
+    "sound/vo/spy_helpmecapture03.mp3": {
         "base_name": "spy_helpmecapture03",
         "criteria": [
             [
@@ -6275,7 +6275,7 @@
         "state": "used",
         "transcript": "Would someone care to help me capture this?"
     },
-    "vo/spy_helpmedefend01.mp3": {
+    "sound/vo/spy_helpmedefend01.mp3": {
         "base_name": "spy_helpmedefend01",
         "criteria": [
             [
@@ -6299,7 +6299,7 @@
         "state": "used",
         "transcript": "Help me defend!"
     },
-    "vo/spy_helpmedefend02.mp3": {
+    "sound/vo/spy_helpmedefend02.mp3": {
         "base_name": "spy_helpmedefend02",
         "criteria": [
             [
@@ -6323,7 +6323,7 @@
         "state": "used",
         "transcript": "More defense required here!"
     },
-    "vo/spy_helpmedefend03.mp3": {
+    "sound/vo/spy_helpmedefend03.mp3": {
         "base_name": "spy_helpmedefend03",
         "criteria": [
             [
@@ -6347,7 +6347,7 @@
         "state": "used",
         "transcript": "I could use a hand defending here!"
     },
-    "vo/spy_incoming01.mp3": {
+    "sound/vo/spy_incoming01.mp3": {
         "base_name": "spy_incoming01",
         "criteria": [
             [
@@ -6373,7 +6373,7 @@
         "state": "used",
         "transcript": "Incomiiing!"
     },
-    "vo/spy_incoming02.mp3": {
+    "sound/vo/spy_incoming02.mp3": {
         "base_name": "spy_incoming02",
         "criteria": [
             [
@@ -6396,7 +6396,7 @@
         "state": "used",
         "transcript": "Incoming."
     },
-    "vo/spy_incoming03.mp3": {
+    "sound/vo/spy_incoming03.mp3": {
         "base_name": "spy_incoming03",
         "criteria": [
             [
@@ -6419,7 +6419,7 @@
         "state": "used",
         "transcript": "Incoming!"
     },
-    "vo/spy_item_unicorn_backstab01.mp3": {
+    "sound/vo/spy_item_unicorn_backstab01.mp3": {
         "base_name": "spy_item_unicorn_backstab01",
         "criteria": [
             [
@@ -6448,7 +6448,7 @@
         "state": "used",
         "transcript": "I am the prettiest unicorn."
     },
-    "vo/spy_item_unicorn_backstab02.mp3": {
+    "sound/vo/spy_item_unicorn_backstab02.mp3": {
         "base_name": "spy_item_unicorn_backstab02",
         "criteria": [
             [
@@ -6477,7 +6477,7 @@
         "state": "used",
         "transcript": "Sorry to horn in."
     },
-    "vo/spy_item_unicorn_capped01.mp3": {
+    "sound/vo/spy_item_unicorn_capped01.mp3": {
         "base_name": "spy_item_unicorn_capped01",
         "criteria": [
             [
@@ -6501,7 +6501,7 @@
         "state": "used",
         "transcript": "I claim this point for unicorns!"
     },
-    "vo/spy_item_unicorn_capped02.mp3": {
+    "sound/vo/spy_item_unicorn_capped02.mp3": {
         "base_name": "spy_item_unicorn_capped02",
         "criteria": [
             [
@@ -6525,7 +6525,7 @@
         "state": "used",
         "transcript": "I claim this point for France, and the unicorns!"
     },
-    "vo/spy_item_unicorn_capped03.mp3": {
+    "sound/vo/spy_item_unicorn_capped03.mp3": {
         "base_name": "spy_item_unicorn_capped03",
         "criteria": [
             [
@@ -6549,7 +6549,7 @@
         "state": "used",
         "transcript": "This cap point is now under the iron hoof of Unicorn Fairyland!"
     },
-    "vo/spy_item_unicorn_case_cap01.mp3": {
+    "sound/vo/spy_item_unicorn_case_cap01.mp3": {
         "base_name": "spy_item_unicorn_case_cap01",
         "criteria": [
             [
@@ -6573,7 +6573,7 @@
         "state": "used",
         "transcript": "Never send a Scout to do a unicorn's job."
     },
-    "vo/spy_item_unicorn_domination01.mp3": {
+    "sound/vo/spy_item_unicorn_domination01.mp3": {
         "base_name": "spy_item_unicorn_domination01",
         "criteria": [
             [
@@ -6600,7 +6600,7 @@
         "state": "used",
         "transcript": "There's no room for two pretty unicorns!"
     },
-    "vo/spy_item_unicorn_round_start01.mp3": {
+    "sound/vo/spy_item_unicorn_round_start01.mp3": {
         "base_name": "spy_item_unicorn_round_start01",
         "criteria": [
             [
@@ -6625,7 +6625,7 @@
         "state": "used",
         "transcript": "I'm not just any unicorn! I am the prettiest unicorn that ever was!"
     },
-    "vo/spy_item_unicorn_round_start02.mp3": {
+    "sound/vo/spy_item_unicorn_round_start02.mp3": {
         "base_name": "spy_item_unicorn_round_start02",
         "criteria": [
             [
@@ -6650,7 +6650,7 @@
         "state": "used",
         "transcript": "You don't need to tell me I am the prettiest unicorn! I know I am the prettiest unicorn!"
     },
-    "vo/spy_item_unicorn_round_start03.mp3": {
+    "sound/vo/spy_item_unicorn_round_start03.mp3": {
         "base_name": "spy_item_unicorn_round_start03",
         "criteria": [
             [
@@ -6675,7 +6675,7 @@
         "state": "used",
         "transcript": "If there are any unicorns prettier than me, I will find them. I will follow them. And no one will ever see those unicorns again."
     },
-    "vo/spy_item_unicorn_round_start04.mp3": {
+    "sound/vo/spy_item_unicorn_round_start04.mp3": {
         "base_name": "spy_item_unicorn_round_start04",
         "criteria": [
             [
@@ -6700,7 +6700,7 @@
         "state": "used",
         "transcript": "I can feel the unicorn friendship magic coursing through my veins!"
     },
-    "vo/spy_item_unicorn_round_start05.mp3": {
+    "sound/vo/spy_item_unicorn_round_start05.mp3": {
         "base_name": "spy_item_unicorn_round_start05",
         "criteria": [
             [
@@ -6725,7 +6725,7 @@
         "state": "used",
         "transcript": "Today, I am a pony god!"
     },
-    "vo/spy_item_unicorn_round_start06.mp3": {
+    "sound/vo/spy_item_unicorn_round_start06.mp3": {
         "base_name": "spy_item_unicorn_round_start06",
         "criteria": [
             [
@@ -6750,7 +6750,7 @@
         "state": "used",
         "transcript": "I am the prettiest unicorn!"
     },
-    "vo/spy_jaratehit01.mp3": {
+    "sound/vo/spy_jaratehit01.mp3": {
         "base_name": "spy_jaratehit01",
         "criteria": [
             [
@@ -6773,7 +6773,7 @@
         "state": "used",
         "transcript": "Is this... mon dieu!"
     },
-    "vo/spy_jaratehit02.mp3": {
+    "sound/vo/spy_jaratehit02.mp3": {
         "base_name": "spy_jaratehit02",
         "criteria": [
             [
@@ -6796,7 +6796,7 @@
         "state": "used",
         "transcript": "Jarate? NOOOOOOO!"
     },
-    "vo/spy_jaratehit03.mp3": {
+    "sound/vo/spy_jaratehit03.mp3": {
         "base_name": "spy_jaratehit03",
         "criteria": [
             [
@@ -6819,7 +6819,7 @@
         "state": "used",
         "transcript": "I hate you!"
     },
-    "vo/spy_jaratehit04.mp3": {
+    "sound/vo/spy_jaratehit04.mp3": {
         "base_name": "spy_jaratehit04",
         "criteria": [
             [
@@ -6842,7 +6842,7 @@
         "state": "used",
         "transcript": "I have been shown who is the boss!"
     },
-    "vo/spy_jaratehit05.mp3": {
+    "sound/vo/spy_jaratehit05.mp3": {
         "base_name": "spy_jaratehit05",
         "criteria": [
             [
@@ -6865,7 +6865,7 @@
         "state": "used",
         "transcript": "\"Jarate?\" (cries)"
     },
-    "vo/spy_jaratehit06.mp3": {
+    "sound/vo/spy_jaratehit06.mp3": {
         "base_name": "spy_jaratehit06",
         "criteria": [
             [
@@ -6891,7 +6891,7 @@
         "state": "used",
         "transcript": "EWWWWEUGH!"
     },
-    "vo/spy_jeers01.mp3": {
+    "sound/vo/spy_jeers01.mp3": {
         "base_name": "spy_jeers01",
         "criteria": [
             [
@@ -6920,7 +6920,7 @@
         "state": "used",
         "transcript": "Hssssss!"
     },
-    "vo/spy_jeers02.mp3": {
+    "sound/vo/spy_jeers02.mp3": {
         "base_name": "spy_jeers02",
         "criteria": [
             [
@@ -6964,7 +6964,7 @@
         "state": "used",
         "transcript": "Well, this was a disappointment!"
     },
-    "vo/spy_jeers03.mp3": {
+    "sound/vo/spy_jeers03.mp3": {
         "base_name": "spy_jeers03",
         "criteria": [
             [
@@ -6993,7 +6993,7 @@
         "state": "used",
         "transcript": "I did all I could!"
     },
-    "vo/spy_jeers04.mp3": {
+    "sound/vo/spy_jeers04.mp3": {
         "base_name": "spy_jeers04",
         "criteria": [
             [
@@ -7022,7 +7022,7 @@
         "state": "used",
         "transcript": "What a disaster!!"
     },
-    "vo/spy_jeers05.mp3": {
+    "sound/vo/spy_jeers05.mp3": {
         "base_name": "spy_jeers05",
         "criteria": [
             [
@@ -7054,7 +7054,7 @@
         "state": "used",
         "transcript": "Not our finest moment!"
     },
-    "vo/spy_jeers06.mp3": {
+    "sound/vo/spy_jeers06.mp3": {
         "base_name": "spy_jeers06",
         "criteria": [
             [
@@ -7089,7 +7089,7 @@
         "state": "used",
         "transcript": "Ohhhh... merde."
     },
-    "vo/spy_laughevil01.mp3": {
+    "sound/vo/spy_laughevil01.mp3": {
         "base_name": "spy_laughevil01",
         "criteria": [
             [
@@ -7132,7 +7132,7 @@
         "state": "used",
         "transcript": "(Evil laugh 1)"
     },
-    "vo/spy_laughevil02.mp3": {
+    "sound/vo/spy_laughevil02.mp3": {
         "base_name": "spy_laughevil02",
         "criteria": [
             [
@@ -7172,7 +7172,7 @@
         "state": "used",
         "transcript": "(Evil laugh 2)"
     },
-    "vo/spy_laughhappy01.mp3": {
+    "sound/vo/spy_laughhappy01.mp3": {
         "base_name": "spy_laughhappy01",
         "criteria": [
             [
@@ -7204,7 +7204,7 @@
         "state": "used",
         "transcript": "(Happy laugh 1)"
     },
-    "vo/spy_laughhappy02.mp3": {
+    "sound/vo/spy_laughhappy02.mp3": {
         "base_name": "spy_laughhappy02",
         "criteria": [
             [
@@ -7237,7 +7237,7 @@
         "state": "used",
         "transcript": "(Happy laugh 2)"
     },
-    "vo/spy_laughhappy03.mp3": {
+    "sound/vo/spy_laughhappy03.mp3": {
         "base_name": "spy_laughhappy03",
         "criteria": [
             [
@@ -7266,7 +7266,7 @@
         "state": "used",
         "transcript": "(Happy laugh 3)"
     },
-    "vo/spy_laughlong01.mp3": {
+    "sound/vo/spy_laughlong01.mp3": {
         "base_name": "spy_laughlong01",
         "criteria": [
             [
@@ -7309,7 +7309,7 @@
         "state": "used",
         "transcript": "(Long laugh)"
     },
-    "vo/spy_laughshort01.mp3": {
+    "sound/vo/spy_laughshort01.mp3": {
         "base_name": "spy_laughshort01",
         "criteria": [
             [
@@ -7337,7 +7337,7 @@
         "state": "used",
         "transcript": "Short laugh"
     },
-    "vo/spy_laughshort02.mp3": {
+    "sound/vo/spy_laughshort02.mp3": {
         "base_name": "spy_laughshort02",
         "criteria": [
             [
@@ -7369,7 +7369,7 @@
         "state": "used",
         "transcript": "Short laugh 2"
     },
-    "vo/spy_laughshort03.mp3": {
+    "sound/vo/spy_laughshort03.mp3": {
         "base_name": "spy_laughshort03",
         "criteria": [
             [
@@ -7405,7 +7405,7 @@
         "state": "used",
         "transcript": "Short laugh 3"
     },
-    "vo/spy_laughshort04.mp3": {
+    "sound/vo/spy_laughshort04.mp3": {
         "base_name": "spy_laughshort04",
         "criteria": [
             [
@@ -7445,7 +7445,7 @@
         "state": "used",
         "transcript": "Short laugh 4"
     },
-    "vo/spy_laughshort05.mp3": {
+    "sound/vo/spy_laughshort05.mp3": {
         "base_name": "spy_laughshort05",
         "criteria": [
             [
@@ -7486,7 +7486,7 @@
         "state": "used",
         "transcript": "Short laugh 5"
     },
-    "vo/spy_laughshort06.mp3": {
+    "sound/vo/spy_laughshort06.mp3": {
         "base_name": "spy_laughshort06",
         "criteria": [
             [
@@ -7518,7 +7518,7 @@
         "state": "used",
         "transcript": "(Short laugh)"
     },
-    "vo/spy_medic01.mp3": {
+    "sound/vo/spy_medic01.mp3": {
         "base_name": "spy_medic01",
         "criteria": [
             [
@@ -7541,7 +7541,7 @@
         "state": "used",
         "transcript": "Doctor!"
     },
-    "vo/spy_medic02.mp3": {
+    "sound/vo/spy_medic02.mp3": {
         "base_name": "spy_medic02",
         "criteria": [
             [
@@ -7564,7 +7564,7 @@
         "state": "used",
         "transcript": "Doctor!"
     },
-    "vo/spy_medic03.mp3": {
+    "sound/vo/spy_medic03.mp3": {
         "base_name": "spy_medic03",
         "criteria": [
             [
@@ -7587,7 +7587,7 @@
         "state": "used",
         "transcript": "Medic!"
     },
-    "vo/spy_medicfollow01.mp3": {
+    "sound/vo/spy_medicfollow01.mp3": {
         "base_name": "spy_medicfollow01",
         "criteria": [
             [
@@ -7615,7 +7615,7 @@
         "state": "used",
         "transcript": "This way, Doctor!"
     },
-    "vo/spy_medicfollow02.mp3": {
+    "sound/vo/spy_medicfollow02.mp3": {
         "base_name": "spy_medicfollow02",
         "criteria": [
             [
@@ -7643,7 +7643,7 @@
         "state": "used",
         "transcript": "Follow me, Doctor!"
     },
-    "vo/spy_meleedare01.mp3": {
+    "sound/vo/spy_meleedare01.mp3": {
         "base_name": "spy_meleedare01",
         "criteria": [
             [
@@ -7674,7 +7674,7 @@
         "state": "used",
         "transcript": "Let's settle this like gentlemen!"
     },
-    "vo/spy_meleedare02.mp3": {
+    "sound/vo/spy_meleedare02.mp3": {
         "base_name": "spy_meleedare02",
         "criteria": [
             [
@@ -7705,7 +7705,7 @@
         "state": "used",
         "transcript": "Queen's rules?"
     },
-    "vo/spy_moveup01.mp3": {
+    "sound/vo/spy_moveup01.mp3": {
         "base_name": "spy_moveup01",
         "criteria": [
             [
@@ -7728,7 +7728,7 @@
         "state": "used",
         "transcript": "Move these things up!"
     },
-    "vo/spy_moveup02.mp3": {
+    "sound/vo/spy_moveup02.mp3": {
         "base_name": "spy_moveup02",
         "criteria": [
             [
@@ -7751,7 +7751,7 @@
         "state": "used",
         "transcript": "Move these machines up!"
     },
-    "vo/spy_mvm_loot_common01.mp3": {
+    "sound/vo/spy_mvm_loot_common01.mp3": {
         "base_name": "spy_mvm_loot_common01",
         "criteria": [
             [
@@ -7782,7 +7782,7 @@
         "state": "used",
         "transcript": "Very nice."
     },
-    "vo/spy_mvm_loot_common02.mp3": {
+    "sound/vo/spy_mvm_loot_common02.mp3": {
         "base_name": "spy_mvm_loot_common02",
         "criteria": [
             [
@@ -7806,7 +7806,7 @@
         "state": "used",
         "transcript": "I'll take it!"
     },
-    "vo/spy_mvm_loot_common03.mp3": {
+    "sound/vo/spy_mvm_loot_common03.mp3": {
         "base_name": "spy_mvm_loot_common03",
         "criteria": [
             [
@@ -7841,7 +7841,7 @@
         "state": "used",
         "transcript": "He he he he!"
     },
-    "vo/spy_mvm_loot_godlike01.mp3": {
+    "sound/vo/spy_mvm_loot_godlike01.mp3": {
         "base_name": "spy_mvm_loot_godlike01",
         "criteria": [
             [
@@ -7864,7 +7864,7 @@
         "state": "used",
         "transcript": "My! God!"
     },
-    "vo/spy_mvm_loot_godlike02.mp3": {
+    "sound/vo/spy_mvm_loot_godlike02.mp3": {
         "base_name": "spy_mvm_loot_godlike02",
         "criteria": [
             [
@@ -7888,7 +7888,7 @@
         "state": "used",
         "transcript": "It's perfect!"
     },
-    "vo/spy_mvm_loot_godlike03.mp3": {
+    "sound/vo/spy_mvm_loot_godlike03.mp3": {
         "base_name": "spy_mvm_loot_godlike03",
         "criteria": [
             [
@@ -7911,7 +7911,7 @@
         "state": "used",
         "transcript": "It's the only one of its kind! And it's mine!"
     },
-    "vo/spy_mvm_loot_rare01.mp3": {
+    "sound/vo/spy_mvm_loot_rare01.mp3": {
         "base_name": "spy_mvm_loot_rare01",
         "criteria": [
             [
@@ -7935,7 +7935,7 @@
         "state": "used",
         "transcript": "I'll give it a good home!"
     },
-    "vo/spy_mvm_loot_rare02.mp3": {
+    "sound/vo/spy_mvm_loot_rare02.mp3": {
         "base_name": "spy_mvm_loot_rare02",
         "criteria": [
             [
@@ -7968,7 +7968,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/spy_mvm_loot_rare03.mp3": {
+    "sound/vo/spy_mvm_loot_rare03.mp3": {
         "base_name": "spy_mvm_loot_rare03",
         "criteria": [
             [
@@ -7999,7 +7999,7 @@
         "state": "used",
         "transcript": "Magnificent!"
     },
-    "vo/spy_mvm_mannhattan_gate_atk01.mp3": {
+    "sound/vo/spy_mvm_mannhattan_gate_atk01.mp3": {
         "base_name": "spy_mvm_mannhattan_gate_atk01",
         "criteria": [
             [
@@ -8024,7 +8024,7 @@
         "state": "used",
         "transcript": "The robots are at the gate!"
     },
-    "vo/spy_mvm_mannhattan_gate_atk02.mp3": {
+    "sound/vo/spy_mvm_mannhattan_gate_atk02.mp3": {
         "base_name": "spy_mvm_mannhattan_gate_atk02",
         "criteria": [
             [
@@ -8049,7 +8049,7 @@
         "state": "used",
         "transcript": "The robots are taking the gate!"
     },
-    "vo/spy_mvm_mannhattan_gate_take01.mp3": {
+    "sound/vo/spy_mvm_mannhattan_gate_take01.mp3": {
         "base_name": "spy_mvm_mannhattan_gate_take01",
         "criteria": [
             [
@@ -8072,7 +8072,7 @@
         "state": "used",
         "transcript": "The robots have taken the gate!"
     },
-    "vo/spy_mvm_resurrect01.mp3": {
+    "sound/vo/spy_mvm_resurrect01.mp3": {
         "base_name": "spy_mvm_resurrect01",
         "criteria": [
             [
@@ -8095,7 +8095,7 @@
         "state": "used",
         "transcript": "Gentlemen. I'm back!"
     },
-    "vo/spy_mvm_resurrect02.mp3": {
+    "sound/vo/spy_mvm_resurrect02.mp3": {
         "base_name": "spy_mvm_resurrect02",
         "criteria": [
             [
@@ -8121,7 +8121,7 @@
         "state": "used",
         "transcript": "Hah. Much better."
     },
-    "vo/spy_mvm_resurrect03.mp3": {
+    "sound/vo/spy_mvm_resurrect03.mp3": {
         "base_name": "spy_mvm_resurrect03",
         "criteria": [
             [
@@ -8144,7 +8144,7 @@
         "state": "used",
         "transcript": "I'm back."
     },
-    "vo/spy_mvm_resurrect04.mp3": {
+    "sound/vo/spy_mvm_resurrect04.mp3": {
         "base_name": "spy_mvm_resurrect04",
         "criteria": [
             [
@@ -8167,7 +8167,7 @@
         "state": "used",
         "transcript": "Death is but a doorway."
     },
-    "vo/spy_mvm_resurrect05.mp3": {
+    "sound/vo/spy_mvm_resurrect05.mp3": {
         "base_name": "spy_mvm_resurrect05",
         "criteria": [
             [
@@ -8190,7 +8190,7 @@
         "state": "used",
         "transcript": "Voil\u00e0!"
     },
-    "vo/spy_mvm_resurrect06.mp3": {
+    "sound/vo/spy_mvm_resurrect06.mp3": {
         "base_name": "spy_mvm_resurrect06",
         "criteria": [
             [
@@ -8216,7 +8216,7 @@
         "state": "used",
         "transcript": "I have returned!"
     },
-    "vo/spy_mvm_resurrect07.mp3": {
+    "sound/vo/spy_mvm_resurrect07.mp3": {
         "base_name": "spy_mvm_resurrect07",
         "criteria": [
             [
@@ -8239,7 +8239,7 @@
         "state": "used",
         "transcript": "No coffin can contain me!"
     },
-    "vo/spy_mvm_resurrect08.mp3": {
+    "sound/vo/spy_mvm_resurrect08.mp3": {
         "base_name": "spy_mvm_resurrect08",
         "criteria": [
             [
@@ -8262,7 +8262,7 @@
         "state": "used",
         "transcript": "What did I miss?"
     },
-    "vo/spy_mvm_resurrect09.mp3": {
+    "sound/vo/spy_mvm_resurrect09.mp3": {
         "base_name": "spy_mvm_resurrect09",
         "criteria": [
             [
@@ -8290,7 +8290,7 @@
         "state": "used",
         "transcript": "He he he he."
     },
-    "vo/spy_needdispenser01.mp3": {
+    "sound/vo/spy_needdispenser01.mp3": {
         "base_name": "spy_needdispenser01",
         "criteria": [
             [
@@ -8313,7 +8313,7 @@
         "state": "used",
         "transcript": "Place a Dispenser here."
     },
-    "vo/spy_needsentry01.mp3": {
+    "sound/vo/spy_needsentry01.mp3": {
         "base_name": "spy_needsentry01",
         "criteria": [
             [
@@ -8336,7 +8336,7 @@
         "state": "used",
         "transcript": "Place a Sentry here."
     },
-    "vo/spy_needteleporter01.mp3": {
+    "sound/vo/spy_needteleporter01.mp3": {
         "base_name": "spy_needteleporter01",
         "criteria": [
             [
@@ -8359,7 +8359,7 @@
         "state": "used",
         "transcript": "Place a Teleporter here."
     },
-    "vo/spy_negativevocalization01.mp3": {
+    "sound/vo/spy_negativevocalization01.mp3": {
         "base_name": "spy_negativevocalization01",
         "criteria": [
             [
@@ -8397,7 +8397,7 @@
         "state": "used",
         "transcript": "Ugh..."
     },
-    "vo/spy_negativevocalization02.mp3": {
+    "sound/vo/spy_negativevocalization02.mp3": {
         "base_name": "spy_negativevocalization02",
         "criteria": [
             [
@@ -8435,7 +8435,7 @@
         "state": "used",
         "transcript": "Argh..."
     },
-    "vo/spy_negativevocalization03.mp3": {
+    "sound/vo/spy_negativevocalization03.mp3": {
         "base_name": "spy_negativevocalization03",
         "criteria": [
             [
@@ -8470,7 +8470,7 @@
         "state": "used",
         "transcript": "Preposterous!"
     },
-    "vo/spy_negativevocalization04.mp3": {
+    "sound/vo/spy_negativevocalization04.mp3": {
         "base_name": "spy_negativevocalization04",
         "criteria": [
             [
@@ -8513,7 +8513,7 @@
         "state": "used",
         "transcript": "Oh, please..."
     },
-    "vo/spy_negativevocalization05.mp3": {
+    "sound/vo/spy_negativevocalization05.mp3": {
         "base_name": "spy_negativevocalization05",
         "criteria": [
             [
@@ -8545,7 +8545,7 @@
         "state": "used",
         "transcript": "Oh please."
     },
-    "vo/spy_negativevocalization06.mp3": {
+    "sound/vo/spy_negativevocalization06.mp3": {
         "base_name": "spy_negativevocalization06",
         "criteria": [
             [
@@ -8586,7 +8586,7 @@
         "state": "used",
         "transcript": "Oh, no..."
     },
-    "vo/spy_negativevocalization07.mp3": {
+    "sound/vo/spy_negativevocalization07.mp3": {
         "base_name": "spy_negativevocalization07",
         "criteria": [
             [
@@ -8619,7 +8619,7 @@
         "state": "used",
         "transcript": "Agh!"
     },
-    "vo/spy_negativevocalization08.mp3": {
+    "sound/vo/spy_negativevocalization08.mp3": {
         "base_name": "spy_negativevocalization08",
         "criteria": [
             [
@@ -8665,7 +8665,7 @@
         "state": "used",
         "transcript": "Ugh!"
     },
-    "vo/spy_negativevocalization09.mp3": {
+    "sound/vo/spy_negativevocalization09.mp3": {
         "base_name": "spy_negativevocalization09",
         "criteria": [
             [
@@ -8703,7 +8703,7 @@
         "state": "used",
         "transcript": "Ughhhh..."
     },
-    "vo/spy_niceshot01.mp3": {
+    "sound/vo/spy_niceshot01.mp3": {
         "base_name": "spy_niceshot01",
         "criteria": [
             [
@@ -8726,7 +8726,7 @@
         "state": "used",
         "transcript": "Nice shot."
     },
-    "vo/spy_niceshot02.mp3": {
+    "sound/vo/spy_niceshot02.mp3": {
         "base_name": "spy_niceshot02",
         "criteria": [
             [
@@ -8749,7 +8749,7 @@
         "state": "used",
         "transcript": "Admirable shot."
     },
-    "vo/spy_niceshot03.mp3": {
+    "sound/vo/spy_niceshot03.mp3": {
         "base_name": "spy_niceshot03",
         "criteria": [
             [
@@ -8772,7 +8772,7 @@
         "state": "used",
         "transcript": "Superior shot!"
     },
-    "vo/spy_no01.mp3": {
+    "sound/vo/spy_no01.mp3": {
         "base_name": "spy_no01",
         "criteria": [
             [
@@ -8795,7 +8795,7 @@
         "state": "used",
         "transcript": "I think not."
     },
-    "vo/spy_no02.mp3": {
+    "sound/vo/spy_no02.mp3": {
         "base_name": "spy_no02",
         "criteria": [
             [
@@ -8818,7 +8818,7 @@
         "state": "used",
         "transcript": "No."
     },
-    "vo/spy_no03.mp3": {
+    "sound/vo/spy_no03.mp3": {
         "base_name": "spy_no03",
         "criteria": [
             [
@@ -8841,7 +8841,7 @@
         "state": "used",
         "transcript": "I'm afraid not."
     },
-    "vo/spy_paincrticialdeath01.mp3": {
+    "sound/vo/spy_paincrticialdeath01.mp3": {
         "base_name": "spy_paincrticialdeath01",
         "criteria": [],
         "events": [
@@ -8862,7 +8862,7 @@
         "state": "used",
         "transcript": "(Dying scream 1)"
     },
-    "vo/spy_paincrticialdeath02.mp3": {
+    "sound/vo/spy_paincrticialdeath02.mp3": {
         "base_name": "spy_paincrticialdeath02",
         "criteria": [],
         "events": [
@@ -8879,7 +8879,7 @@
         "state": "used",
         "transcript": "(Dying scream 2)"
     },
-    "vo/spy_paincrticialdeath03.mp3": {
+    "sound/vo/spy_paincrticialdeath03.mp3": {
         "base_name": "spy_paincrticialdeath03",
         "criteria": [],
         "events": [
@@ -8896,7 +8896,7 @@
         "state": "used",
         "transcript": "(Dying scream 3)"
     },
-    "vo/spy_painsevere01.mp3": {
+    "sound/vo/spy_painsevere01.mp3": {
         "base_name": "spy_painsevere01",
         "criteria": [
             [
@@ -8929,7 +8929,7 @@
         "state": "used",
         "transcript": "(Yell 1)"
     },
-    "vo/spy_painsevere02.mp3": {
+    "sound/vo/spy_painsevere02.mp3": {
         "base_name": "spy_painsevere02",
         "criteria": [
             [
@@ -8956,7 +8956,7 @@
         "state": "used",
         "transcript": "(Groan 1)"
     },
-    "vo/spy_painsevere03.mp3": {
+    "sound/vo/spy_painsevere03.mp3": {
         "base_name": "spy_painsevere03",
         "criteria": [
             [
@@ -8986,7 +8986,7 @@
         "state": "used",
         "transcript": "(Groan 2)"
     },
-    "vo/spy_painsevere04.mp3": {
+    "sound/vo/spy_painsevere04.mp3": {
         "base_name": "spy_painsevere04",
         "criteria": [
             [
@@ -9013,7 +9013,7 @@
         "state": "used",
         "transcript": "(Yell 2)"
     },
-    "vo/spy_painsevere05.mp3": {
+    "sound/vo/spy_painsevere05.mp3": {
         "base_name": "spy_painsevere05",
         "criteria": [
             [
@@ -9043,7 +9043,7 @@
         "state": "used",
         "transcript": "(Groan 3)"
     },
-    "vo/spy_painsharp01.mp3": {
+    "sound/vo/spy_painsharp01.mp3": {
         "base_name": "spy_painsharp01",
         "criteria": [
             [
@@ -9079,7 +9079,7 @@
         "state": "used",
         "transcript": "(Grunt 1)"
     },
-    "vo/spy_painsharp02.mp3": {
+    "sound/vo/spy_painsharp02.mp3": {
         "base_name": "spy_painsharp02",
         "criteria": [
             [
@@ -9115,7 +9115,7 @@
         "state": "used",
         "transcript": "(Grunt 2)"
     },
-    "vo/spy_painsharp03.mp3": {
+    "sound/vo/spy_painsharp03.mp3": {
         "base_name": "spy_painsharp03",
         "criteria": [
             [
@@ -9151,7 +9151,7 @@
         "state": "used",
         "transcript": "(Gasp 1)"
     },
-    "vo/spy_painsharp04.mp3": {
+    "sound/vo/spy_painsharp04.mp3": {
         "base_name": "spy_painsharp04",
         "criteria": [
             [
@@ -9177,7 +9177,7 @@
         "state": "used",
         "transcript": "(Gasp 2)"
     },
-    "vo/spy_painsharp05.mp3": {
+    "sound/vo/spy_painsharp05.mp3": {
         "base_name": "spy_painsharp05",
         "criteria": [],
         "events": [
@@ -9189,7 +9189,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/spy_painsharp06.mp3": {
+    "sound/vo/spy_painsharp06.mp3": {
         "base_name": "spy_painsharp06",
         "criteria": [],
         "events": [
@@ -9201,7 +9201,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/spy_painsharp07.mp3": {
+    "sound/vo/spy_painsharp07.mp3": {
         "base_name": "spy_painsharp07",
         "criteria": [],
         "events": [
@@ -9213,7 +9213,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/spy_painsharp08.mp3": {
+    "sound/vo/spy_painsharp08.mp3": {
         "base_name": "spy_painsharp08",
         "criteria": [],
         "events": [
@@ -9225,7 +9225,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/spy_paulingkilltaunt01.mp3": {
+    "sound/vo/spy_paulingkilltaunt01.mp3": {
         "base_name": "spy_paulingkilltaunt01",
         "criteria": [],
         "events": [
@@ -9237,7 +9237,7 @@
         "state": "used",
         "transcript": "I'll tell Miss Pauling you're... Occupied."
     },
-    "vo/spy_paulingkilltaunt02.mp3": {
+    "sound/vo/spy_paulingkilltaunt02.mp3": {
         "base_name": "spy_paulingkilltaunt02",
         "criteria": [],
         "events": [
@@ -9249,7 +9249,7 @@
         "state": "used",
         "transcript": "Mhm. Well, maybe I'll ask Miss Pauling out?"
     },
-    "vo/spy_paulingkilltaunt03.mp3": {
+    "sound/vo/spy_paulingkilltaunt03.mp3": {
         "base_name": "spy_paulingkilltaunt03",
         "criteria": [],
         "events": [
@@ -9261,7 +9261,7 @@
         "state": "used",
         "transcript": "I'll tell your mother hello."
     },
-    "vo/spy_positivevocalization01.mp3": {
+    "sound/vo/spy_positivevocalization01.mp3": {
         "base_name": "spy_positivevocalization01",
         "criteria": [
             [
@@ -9297,7 +9297,7 @@
         "state": "used",
         "transcript": "Excellent!"
     },
-    "vo/spy_positivevocalization02.mp3": {
+    "sound/vo/spy_positivevocalization02.mp3": {
         "base_name": "spy_positivevocalization02",
         "criteria": [
             [
@@ -9327,7 +9327,7 @@
         "state": "used",
         "transcript": "Splendid!"
     },
-    "vo/spy_positivevocalization03.mp3": {
+    "sound/vo/spy_positivevocalization03.mp3": {
         "base_name": "spy_positivevocalization03",
         "criteria": [
             [
@@ -9357,7 +9357,7 @@
         "state": "used",
         "transcript": "Magnificent!"
     },
-    "vo/spy_positivevocalization04.mp3": {
+    "sound/vo/spy_positivevocalization04.mp3": {
         "base_name": "spy_positivevocalization04",
         "criteria": [
             [
@@ -9389,7 +9389,7 @@
         "state": "used",
         "transcript": "First rate!"
     },
-    "vo/spy_positivevocalization05.mp3": {
+    "sound/vo/spy_positivevocalization05.mp3": {
         "base_name": "spy_positivevocalization05",
         "criteria": [
             [
@@ -9421,7 +9421,7 @@
         "state": "used",
         "transcript": "Top shelf!"
     },
-    "vo/spy_revenge01.mp3": {
+    "sound/vo/spy_revenge01.mp3": {
         "base_name": "spy_revenge01",
         "criteria": [
             [
@@ -9448,7 +9448,7 @@
         "state": "used",
         "transcript": "Hello again, dumbbell!"
     },
-    "vo/spy_revenge02.mp3": {
+    "sound/vo/spy_revenge02.mp3": {
         "base_name": "spy_revenge02",
         "criteria": [
             [
@@ -9475,7 +9475,7 @@
         "state": "used",
         "transcript": "I'm back, you subnormal halfwit!"
     },
-    "vo/spy_revenge03.mp3": {
+    "sound/vo/spy_revenge03.mp3": {
         "base_name": "spy_revenge03",
         "criteria": [
             [
@@ -9502,7 +9502,7 @@
         "state": "used",
         "transcript": "Did you forget about me?!"
     },
-    "vo/spy_rpscountgo01.mp3": {
+    "sound/vo/spy_rpscountgo01.mp3": {
         "base_name": "spy_rpscountgo01",
         "criteria": [],
         "events": [
@@ -9514,7 +9514,7 @@
         "state": "used",
         "transcript": "Allez!"
     },
-    "vo/spy_rpscountgo02.mp3": {
+    "sound/vo/spy_rpscountgo02.mp3": {
         "base_name": "spy_rpscountgo02",
         "criteria": [],
         "events": [
@@ -9526,7 +9526,7 @@
         "state": "used",
         "transcript": "Shoot!"
     },
-    "vo/spy_rpscountgo03.mp3": {
+    "sound/vo/spy_rpscountgo03.mp3": {
         "base_name": "spy_rpscountgo03",
         "criteria": [],
         "events": [
@@ -9538,7 +9538,7 @@
         "state": "used",
         "transcript": "Shoot!"
     },
-    "vo/spy_rpscountone01.mp3": {
+    "sound/vo/spy_rpscountone01.mp3": {
         "base_name": "spy_rpscountone01",
         "criteria": [],
         "events": [
@@ -9550,7 +9550,7 @@
         "state": "used",
         "transcript": "Un!"
     },
-    "vo/spy_rpscountpaper01.mp3": {
+    "sound/vo/spy_rpscountpaper01.mp3": {
         "base_name": "spy_rpscountpaper01",
         "criteria": [],
         "events": [
@@ -9562,7 +9562,7 @@
         "state": "used",
         "transcript": "Paper!"
     },
-    "vo/spy_rpscountpaper02.mp3": {
+    "sound/vo/spy_rpscountpaper02.mp3": {
         "base_name": "spy_rpscountpaper02",
         "criteria": [],
         "events": [
@@ -9574,7 +9574,7 @@
         "state": "used",
         "transcript": "Paper!"
     },
-    "vo/spy_rpscountrock01.mp3": {
+    "sound/vo/spy_rpscountrock01.mp3": {
         "base_name": "spy_rpscountrock01",
         "criteria": [],
         "events": [
@@ -9586,7 +9586,7 @@
         "state": "used",
         "transcript": "Rock!"
     },
-    "vo/spy_rpscountrock02.mp3": {
+    "sound/vo/spy_rpscountrock02.mp3": {
         "base_name": "spy_rpscountrock02",
         "criteria": [],
         "events": [
@@ -9598,7 +9598,7 @@
         "state": "used",
         "transcript": "Rock!"
     },
-    "vo/spy_rpscountscissor01.mp3": {
+    "sound/vo/spy_rpscountscissor01.mp3": {
         "base_name": "spy_rpscountscissor01",
         "criteria": [],
         "events": [
@@ -9610,7 +9610,7 @@
         "state": "used",
         "transcript": "Scissors!"
     },
-    "vo/spy_rpscountscissor02.mp3": {
+    "sound/vo/spy_rpscountscissor02.mp3": {
         "base_name": "spy_rpscountscissor02",
         "criteria": [],
         "events": [
@@ -9622,7 +9622,7 @@
         "state": "used",
         "transcript": "Scissors!"
     },
-    "vo/spy_rpscountthree01.mp3": {
+    "sound/vo/spy_rpscountthree01.mp3": {
         "base_name": "spy_rpscountthree01",
         "criteria": [],
         "events": [
@@ -9634,7 +9634,7 @@
         "state": "used",
         "transcript": "Trois!"
     },
-    "vo/spy_rpscounttwo01.mp3": {
+    "sound/vo/spy_rpscounttwo01.mp3": {
         "base_name": "spy_rpscounttwo01",
         "criteria": [],
         "events": [
@@ -9646,7 +9646,7 @@
         "state": "used",
         "transcript": "Deux!"
     },
-    "vo/spy_rpshold01.mp3": {
+    "sound/vo/spy_rpshold01.mp3": {
         "base_name": "spy_rpshold01",
         "criteria": [],
         "events": [
@@ -9658,7 +9658,7 @@
         "state": "used",
         "transcript": "Anyone?"
     },
-    "vo/spy_rpslose01.mp3": {
+    "sound/vo/spy_rpslose01.mp3": {
         "base_name": "spy_rpslose01",
         "criteria": [],
         "events": [
@@ -9675,7 +9675,7 @@
         "state": "used",
         "transcript": "Awww."
     },
-    "vo/spy_rpslose02.mp3": {
+    "sound/vo/spy_rpslose02.mp3": {
         "base_name": "spy_rpslose02",
         "criteria": [],
         "events": [
@@ -9692,7 +9692,7 @@
         "state": "used",
         "transcript": "Awwwww."
     },
-    "vo/spy_rpspaperwin01.mp3": {
+    "sound/vo/spy_rpspaperwin01.mp3": {
         "base_name": "spy_rpspaperwin01",
         "criteria": [],
         "events": [
@@ -9704,7 +9704,7 @@
         "state": "used",
         "transcript": "Paper obfuscates Rock!"
     },
-    "vo/spy_rpspaperwin02.mp3": {
+    "sound/vo/spy_rpspaperwin02.mp3": {
         "base_name": "spy_rpspaperwin02",
         "criteria": [],
         "events": [
@@ -9716,7 +9716,7 @@
         "state": "used",
         "transcript": "Paper envelopes Rock!"
     },
-    "vo/spy_rpspaperwin03.mp3": {
+    "sound/vo/spy_rpspaperwin03.mp3": {
         "base_name": "spy_rpspaperwin03",
         "criteria": [],
         "events": [
@@ -9728,7 +9728,7 @@
         "state": "used",
         "transcript": "Paper smothers Rock!"
     },
-    "vo/spy_rpsregretpaper01.mp3": {
+    "sound/vo/spy_rpsregretpaper01.mp3": {
         "base_name": "spy_rpsregretpaper01",
         "criteria": [],
         "events": [
@@ -9740,7 +9740,7 @@
         "state": "used",
         "transcript": "Paper! I should have chosen Paper!"
     },
-    "vo/spy_rpsregretrock01.mp3": {
+    "sound/vo/spy_rpsregretrock01.mp3": {
         "base_name": "spy_rpsregretrock01",
         "criteria": [],
         "events": [
@@ -9752,7 +9752,7 @@
         "state": "used",
         "transcript": "Rock! I should have chosen Rock!"
     },
-    "vo/spy_rpsregretscissor01.mp3": {
+    "sound/vo/spy_rpsregretscissor01.mp3": {
         "base_name": "spy_rpsregretscissor01",
         "criteria": [],
         "events": [
@@ -9764,7 +9764,7 @@
         "state": "used",
         "transcript": "Scissors! I should have chosen Scissors!"
     },
-    "vo/spy_rpsrockwin01.mp3": {
+    "sound/vo/spy_rpsrockwin01.mp3": {
         "base_name": "spy_rpsrockwin01",
         "criteria": [],
         "events": [
@@ -9776,7 +9776,7 @@
         "state": "used",
         "transcript": "Rock obliterates Scissors!"
     },
-    "vo/spy_rpsscissorwin01.mp3": {
+    "sound/vo/spy_rpsscissorwin01.mp3": {
         "base_name": "spy_rpsscissorwin01",
         "criteria": [],
         "events": [
@@ -9788,7 +9788,7 @@
         "state": "used",
         "transcript": "Scissors cuts Paper!"
     },
-    "vo/spy_rpsstart01.mp3": {
+    "sound/vo/spy_rpsstart01.mp3": {
         "base_name": "spy_rpsstart01",
         "criteria": [],
         "events": [
@@ -9800,7 +9800,7 @@
         "state": "used",
         "transcript": "Let us play!"
     },
-    "vo/spy_rpstie01.mp3": {
+    "sound/vo/spy_rpstie01.mp3": {
         "base_name": "spy_rpstie01",
         "criteria": [],
         "events": [
@@ -9812,7 +9812,7 @@
         "state": "used",
         "transcript": "Merde! A tie!"
     },
-    "vo/spy_rpswin01.mp3": {
+    "sound/vo/spy_rpswin01.mp3": {
         "base_name": "spy_rpswin01",
         "criteria": [],
         "events": [
@@ -9824,7 +9824,7 @@
         "state": "used",
         "transcript": "Excellent."
     },
-    "vo/spy_rpswin02.mp3": {
+    "sound/vo/spy_rpswin02.mp3": {
         "base_name": "spy_rpswin02",
         "criteria": [],
         "events": [
@@ -9841,7 +9841,7 @@
         "state": "used",
         "transcript": "I am victorious!"
     },
-    "vo/spy_sentryahead01.mp3": {
+    "sound/vo/spy_sentryahead01.mp3": {
         "base_name": "spy_sentryahead01",
         "criteria": [
             [
@@ -9864,7 +9864,7 @@
         "state": "used",
         "transcript": "Sentry just ahead!"
     },
-    "vo/spy_sentryahead02.mp3": {
+    "sound/vo/spy_sentryahead02.mp3": {
         "base_name": "spy_sentryahead02",
         "criteria": [
             [
@@ -9887,7 +9887,7 @@
         "state": "used",
         "transcript": "Sentry ahead!"
     },
-    "vo/spy_sf12_badmagic01.mp3": {
+    "sound/vo/spy_sf12_badmagic01.mp3": {
         "base_name": "spy_sf12_badmagic01",
         "criteria": [
             [
@@ -9916,7 +9916,7 @@
         "state": "used",
         "transcript": "Oh no."
     },
-    "vo/spy_sf12_badmagic02.mp3": {
+    "sound/vo/spy_sf12_badmagic02.mp3": {
         "base_name": "spy_sf12_badmagic02",
         "criteria": [
             [
@@ -9952,7 +9952,7 @@
         "state": "used",
         "transcript": "Sacrebleu."
     },
-    "vo/spy_sf12_badmagic03.mp3": {
+    "sound/vo/spy_sf12_badmagic03.mp3": {
         "base_name": "spy_sf12_badmagic03",
         "criteria": [
             [
@@ -9988,7 +9988,7 @@
         "state": "used",
         "transcript": "What the hell?"
     },
-    "vo/spy_sf12_badmagic04.mp3": {
+    "sound/vo/spy_sf12_badmagic04.mp3": {
         "base_name": "spy_sf12_badmagic04",
         "criteria": [
             [
@@ -10014,7 +10014,7 @@
         "state": "used",
         "transcript": "Oh. Fantastique."
     },
-    "vo/spy_sf12_badmagic05.mp3": {
+    "sound/vo/spy_sf12_badmagic05.mp3": {
         "base_name": "spy_sf12_badmagic05",
         "criteria": [
             [
@@ -10040,7 +10040,7 @@
         "state": "used",
         "transcript": "Nooo..."
     },
-    "vo/spy_sf12_badmagic06.mp3": {
+    "sound/vo/spy_sf12_badmagic06.mp3": {
         "base_name": "spy_sf12_badmagic06",
         "criteria": [
             [
@@ -10072,7 +10072,7 @@
         "state": "used",
         "transcript": "Nooo!"
     },
-    "vo/spy_sf12_badmagic07.mp3": {
+    "sound/vo/spy_sf12_badmagic07.mp3": {
         "base_name": "spy_sf12_badmagic07",
         "criteria": [],
         "events": [
@@ -10093,7 +10093,7 @@
         "state": "used",
         "transcript": "Tell no one of this."
     },
-    "vo/spy_sf12_badmagic08.mp3": {
+    "sound/vo/spy_sf12_badmagic08.mp3": {
         "base_name": "spy_sf12_badmagic08",
         "criteria": [
             [
@@ -10119,7 +10119,7 @@
         "state": "used",
         "transcript": "Oh, Mon Dieu."
     },
-    "vo/spy_sf12_dancing01.mp3": {
+    "sound/vo/spy_sf12_dancing01.mp3": {
         "base_name": "spy_sf12_dancing01",
         "criteria": [],
         "events": [
@@ -10131,7 +10131,7 @@
         "state": "used",
         "transcript": "Jealous?"
     },
-    "vo/spy_sf12_falling01.mp3": {
+    "sound/vo/spy_sf12_falling01.mp3": {
         "base_name": "spy_sf12_falling01",
         "criteria": [
             [
@@ -10154,7 +10154,7 @@
         "state": "used",
         "transcript": "(Short scream) (breath) (long scream)"
     },
-    "vo/spy_sf12_falling02.mp3": {
+    "sound/vo/spy_sf12_falling02.mp3": {
         "base_name": "spy_sf12_falling02",
         "criteria": [
             [
@@ -10177,7 +10177,7 @@
         "state": "used",
         "transcript": "(Dramatic scream) Come on, I don't have all day."
     },
-    "vo/spy_sf12_goodmagic01.mp3": {
+    "sound/vo/spy_sf12_goodmagic01.mp3": {
         "base_name": "spy_sf12_goodmagic01",
         "criteria": [],
         "events": [
@@ -10189,7 +10189,7 @@
         "state": "used",
         "transcript": "Hmm. Not bad."
     },
-    "vo/spy_sf12_goodmagic02.mp3": {
+    "sound/vo/spy_sf12_goodmagic02.mp3": {
         "base_name": "spy_sf12_goodmagic02",
         "criteria": [],
         "events": [
@@ -10201,7 +10201,7 @@
         "state": "used",
         "transcript": "(Laughter) Well, now."
     },
-    "vo/spy_sf12_goodmagic03.mp3": {
+    "sound/vo/spy_sf12_goodmagic03.mp3": {
         "base_name": "spy_sf12_goodmagic03",
         "criteria": [],
         "events": [
@@ -10213,7 +10213,7 @@
         "state": "used",
         "transcript": "Hmm. Excellent."
     },
-    "vo/spy_sf12_goodmagic04.mp3": {
+    "sound/vo/spy_sf12_goodmagic04.mp3": {
         "base_name": "spy_sf12_goodmagic04",
         "criteria": [],
         "events": [
@@ -10225,7 +10225,7 @@
         "state": "used",
         "transcript": "Splendid!"
     },
-    "vo/spy_sf12_goodmagic05.mp3": {
+    "sound/vo/spy_sf12_goodmagic05.mp3": {
         "base_name": "spy_sf12_goodmagic05",
         "criteria": [],
         "events": [
@@ -10245,7 +10245,7 @@
         "state": "used",
         "transcript": "Yes!"
     },
-    "vo/spy_sf12_goodmagic06.mp3": {
+    "sound/vo/spy_sf12_goodmagic06.mp3": {
         "base_name": "spy_sf12_goodmagic06",
         "criteria": [],
         "events": [
@@ -10257,7 +10257,7 @@
         "state": "used",
         "transcript": "Gentlemen."
     },
-    "vo/spy_sf12_goodmagic07.mp3": {
+    "sound/vo/spy_sf12_goodmagic07.mp3": {
         "base_name": "spy_sf12_goodmagic07",
         "criteria": [],
         "events": [
@@ -10274,7 +10274,7 @@
         "state": "used",
         "transcript": "(Evil laughter)"
     },
-    "vo/spy_sf12_goodmagic08.mp3": {
+    "sound/vo/spy_sf12_goodmagic08.mp3": {
         "base_name": "spy_sf12_goodmagic08",
         "criteria": [],
         "events": [
@@ -10291,7 +10291,7 @@
         "state": "used",
         "transcript": "(Laughter) Yes!"
     },
-    "vo/spy_sf12_scared01.mp3": {
+    "sound/vo/spy_sf12_scared01.mp3": {
         "base_name": "spy_sf12_scared01",
         "criteria": [
             [
@@ -10318,7 +10318,7 @@
         "state": "used",
         "transcript": "Abort! Abort!"
     },
-    "vo/spy_sf13_influx_big01.mp3": {
+    "sound/vo/spy_sf13_influx_big01.mp3": {
         "base_name": "spy_sf13_influx_big01",
         "criteria": [
             [
@@ -10341,7 +10341,7 @@
         "state": "used",
         "transcript": "Oh, YES!"
     },
-    "vo/spy_sf13_influx_big02.mp3": {
+    "sound/vo/spy_sf13_influx_big02.mp3": {
         "base_name": "spy_sf13_influx_big02",
         "criteria": [
             [
@@ -10364,7 +10364,7 @@
         "state": "used",
         "transcript": "Very nice, very nice!"
     },
-    "vo/spy_sf13_influx_small02.mp3": {
+    "sound/vo/spy_sf13_influx_small02.mp3": {
         "base_name": "spy_sf13_influx_small02",
         "criteria": [
             [
@@ -10388,7 +10388,7 @@
         "state": "used",
         "transcript": "Excellent."
     },
-    "vo/spy_sf13_influx_small03.mp3": {
+    "sound/vo/spy_sf13_influx_small03.mp3": {
         "base_name": "spy_sf13_influx_small03",
         "criteria": [
             [
@@ -10412,7 +10412,7 @@
         "state": "used",
         "transcript": "Marvelous."
     },
-    "vo/spy_sf13_influx_small04.mp3": {
+    "sound/vo/spy_sf13_influx_small04.mp3": {
         "base_name": "spy_sf13_influx_small04",
         "criteria": [
             [
@@ -10438,7 +10438,7 @@
         "state": "used",
         "transcript": "He he he he!"
     },
-    "vo/spy_sf13_influx_small05.mp3": {
+    "sound/vo/spy_sf13_influx_small05.mp3": {
         "base_name": "spy_sf13_influx_small05",
         "criteria": [
             [
@@ -10461,7 +10461,7 @@
         "state": "used",
         "transcript": "(Short laugh)"
     },
-    "vo/spy_sf13_influx_small06.mp3": {
+    "sound/vo/spy_sf13_influx_small06.mp3": {
         "base_name": "spy_sf13_influx_small06",
         "criteria": [
             [
@@ -10487,7 +10487,7 @@
         "state": "used",
         "transcript": "(Evil chuckle)"
     },
-    "vo/spy_sf13_magic_reac01.mp3": {
+    "sound/vo/spy_sf13_magic_reac01.mp3": {
         "base_name": "spy_sf13_magic_reac01",
         "criteria": [
             [
@@ -10527,7 +10527,7 @@
         "state": "used",
         "transcript": "Oh, no."
     },
-    "vo/spy_sf13_magic_reac02.mp3": {
+    "sound/vo/spy_sf13_magic_reac02.mp3": {
         "base_name": "spy_sf13_magic_reac02",
         "criteria": [
             [
@@ -10559,7 +10559,7 @@
         "state": "used",
         "transcript": "Oh, merde."
     },
-    "vo/spy_sf13_magic_reac03.mp3": {
+    "sound/vo/spy_sf13_magic_reac03.mp3": {
         "base_name": "spy_sf13_magic_reac03",
         "criteria": [
             [
@@ -10597,7 +10597,7 @@
         "state": "used",
         "transcript": "What the hell is that?!"
     },
-    "vo/spy_sf13_magic_reac04.mp3": {
+    "sound/vo/spy_sf13_magic_reac04.mp3": {
         "base_name": "spy_sf13_magic_reac04",
         "criteria": [
             [
@@ -10626,7 +10626,7 @@
         "state": "used",
         "transcript": "What have you done?!"
     },
-    "vo/spy_sf13_magic_reac05.mp3": {
+    "sound/vo/spy_sf13_magic_reac05.mp3": {
         "base_name": "spy_sf13_magic_reac05",
         "criteria": [
             [
@@ -10655,7 +10655,7 @@
         "state": "used",
         "transcript": "God, help us!"
     },
-    "vo/spy_sf13_magic_reac06.mp3": {
+    "sound/vo/spy_sf13_magic_reac06.mp3": {
         "base_name": "spy_sf13_magic_reac06",
         "criteria": [
             [
@@ -10684,7 +10684,7 @@
         "state": "used",
         "transcript": "You imbecile! You've doomed us all!"
     },
-    "vo/spy_sf13_midnight01.mp3": {
+    "sound/vo/spy_sf13_midnight01.mp3": {
         "base_name": "spy_sf13_midnight01",
         "criteria": [
             [
@@ -10710,7 +10710,7 @@
         "state": "used",
         "transcript": "The bridge is down!"
     },
-    "vo/spy_sf13_midnight02.mp3": {
+    "sound/vo/spy_sf13_midnight02.mp3": {
         "base_name": "spy_sf13_midnight02",
         "criteria": [
             [
@@ -10736,7 +10736,7 @@
         "state": "used",
         "transcript": "The bridge is down!"
     },
-    "vo/spy_sf13_midnight03.mp3": {
+    "sound/vo/spy_sf13_midnight03.mp3": {
         "base_name": "spy_sf13_midnight03",
         "criteria": [
             [
@@ -10762,7 +10762,7 @@
         "state": "used",
         "transcript": "The bridge is down, gentlemen!"
     },
-    "vo/spy_sf13_midnight04.mp3": {
+    "sound/vo/spy_sf13_midnight04.mp3": {
         "base_name": "spy_sf13_midnight04",
         "criteria": [
             [
@@ -10788,7 +10788,7 @@
         "state": "used",
         "transcript": "Now, gentlemen! Cross the bridge!"
     },
-    "vo/spy_sf13_midnight05.mp3": {
+    "sound/vo/spy_sf13_midnight05.mp3": {
         "base_name": "spy_sf13_midnight05",
         "criteria": [
             [
@@ -10815,7 +10815,7 @@
         "state": "used",
         "transcript": "It's the Witching Hour!"
     },
-    "vo/spy_sf13_midnight06.mp3": {
+    "sound/vo/spy_sf13_midnight06.mp3": {
         "base_name": "spy_sf13_midnight06",
         "criteria": [
             [
@@ -10841,7 +10841,7 @@
         "state": "used",
         "transcript": "Now, gentlemen! Grab all that you can!"
     },
-    "vo/spy_sf13_midnight08.mp3": {
+    "sound/vo/spy_sf13_midnight08.mp3": {
         "base_name": "spy_sf13_midnight08",
         "criteria": [
             [
@@ -10867,7 +10867,7 @@
         "state": "used",
         "transcript": "Quickly! Get to the island!"
     },
-    "vo/spy_sf13_round_start01.mp3": {
+    "sound/vo/spy_sf13_round_start01.mp3": {
         "base_name": "spy_sf13_round_start01",
         "criteria": [
             [
@@ -10893,7 +10893,7 @@
         "state": "used",
         "transcript": "This won't be the first corpse I've disposed of in the dead of night."
     },
-    "vo/spy_sf13_round_start02.mp3": {
+    "sound/vo/spy_sf13_round_start02.mp3": {
         "base_name": "spy_sf13_round_start02",
         "criteria": [
             [
@@ -10919,7 +10919,7 @@
         "state": "used",
         "transcript": "As long as nothing supernatural happens, this should be easy."
     },
-    "vo/spy_sf13_round_start03.mp3": {
+    "sound/vo/spy_sf13_round_start03.mp3": {
         "base_name": "spy_sf13_round_start03",
         "criteria": [
             [
@@ -10945,7 +10945,7 @@
         "state": "used",
         "transcript": "Why is it always this time of year we get assignments like this?"
     },
-    "vo/spy_sf13_round_start04.mp3": {
+    "sound/vo/spy_sf13_round_start04.mp3": {
         "base_name": "spy_sf13_round_start04",
         "criteria": [
             [
@@ -10971,7 +10971,7 @@
         "state": "used",
         "transcript": "Gentlemen! Let's push a dead man to hell!"
     },
-    "vo/spy_sf13_round_start05.mp3": {
+    "sound/vo/spy_sf13_round_start05.mp3": {
         "base_name": "spy_sf13_round_start05",
         "criteria": [
             [
@@ -10997,7 +10997,7 @@
         "state": "used",
         "transcript": "This dead man belongs in hell! Let's take him home!"
     },
-    "vo/spy_sf13_round_start06.mp3": {
+    "sound/vo/spy_sf13_round_start06.mp3": {
         "base_name": "spy_sf13_round_start06",
         "criteria": [
             [
@@ -11034,7 +11034,7 @@
         "state": "used",
         "transcript": "Let's give this wretch his final reward!"
     },
-    "vo/spy_sf13_spell_bombhead01.mp3": {
+    "sound/vo/spy_sf13_spell_bombhead01.mp3": {
         "base_name": "spy_sf13_spell_bombhead01",
         "criteria": [
             [
@@ -11057,7 +11057,7 @@
         "state": "used",
         "transcript": "Caputus crepitus!"
     },
-    "vo/spy_sf13_spell_devil_bargain01.mp3": {
+    "sound/vo/spy_sf13_spell_devil_bargain01.mp3": {
         "base_name": "spy_sf13_spell_devil_bargain01",
         "criteria": [
             [
@@ -11080,7 +11080,7 @@
         "state": "used",
         "transcript": "Pactum diabolus!"
     },
-    "vo/spy_sf13_spell_earthquake01.mp3": {
+    "sound/vo/spy_sf13_spell_earthquake01.mp3": {
         "base_name": "spy_sf13_spell_earthquake01",
         "criteria": [
             [
@@ -11105,7 +11105,7 @@
         "state": "used",
         "transcript": "Seismela tremoro!"
     },
-    "vo/spy_sf13_spell_generic04.mp3": {
+    "sound/vo/spy_sf13_spell_generic04.mp3": {
         "base_name": "spy_sf13_spell_generic04",
         "criteria": [
             [
@@ -11128,7 +11128,7 @@
         "state": "used",
         "transcript": "Barpo kabalto!"
     },
-    "vo/spy_sf13_spell_invisibility01.mp3": {
+    "sound/vo/spy_sf13_spell_invisibility01.mp3": {
         "base_name": "spy_sf13_spell_invisibility01",
         "criteria": [
             [
@@ -11151,7 +11151,7 @@
         "state": "used",
         "transcript": "Barpo invisium!"
     },
-    "vo/spy_sf13_spell_lightning_bolt01.mp3": {
+    "sound/vo/spy_sf13_spell_lightning_bolt01.mp3": {
         "base_name": "spy_sf13_spell_lightning_bolt01",
         "criteria": [
             [
@@ -11174,7 +11174,7 @@
         "state": "used",
         "transcript": "Imputum fulmenus!"
     },
-    "vo/spy_sf13_spell_summon_monoculous01.mp3": {
+    "sound/vo/spy_sf13_spell_summon_monoculous01.mp3": {
         "base_name": "spy_sf13_spell_summon_monoculous01",
         "criteria": [
             [
@@ -11197,7 +11197,7 @@
         "state": "used",
         "transcript": "Invokum Monoculus!"
     },
-    "vo/spy_sf13_spell_super_jump01.mp3": {
+    "sound/vo/spy_sf13_spell_super_jump01.mp3": {
         "base_name": "spy_sf13_spell_super_jump01",
         "criteria": [
             [
@@ -11220,7 +11220,7 @@
         "state": "used",
         "transcript": "Amplus tripudio!"
     },
-    "vo/spy_sf13_spell_super_speed01.mp3": {
+    "sound/vo/spy_sf13_spell_super_speed01.mp3": {
         "base_name": "spy_sf13_spell_super_speed01",
         "criteria": [
             [
@@ -11243,7 +11243,7 @@
         "state": "used",
         "transcript": "Paidum celeris!"
     },
-    "vo/spy_sf13_spell_teleport_self01.mp3": {
+    "sound/vo/spy_sf13_spell_teleport_self01.mp3": {
         "base_name": "spy_sf13_spell_teleport_self01",
         "criteria": [
             [
@@ -11266,7 +11266,7 @@
         "state": "used",
         "transcript": "Ipsum instantarium!"
     },
-    "vo/spy_sf13_spell_uber01.mp3": {
+    "sound/vo/spy_sf13_spell_uber01.mp3": {
         "base_name": "spy_sf13_spell_uber01",
         "criteria": [
             [
@@ -11289,7 +11289,7 @@
         "state": "used",
         "transcript": "Deus invictus!"
     },
-    "vo/spy_sf13_spell_zombie_horde01.mp3": {
+    "sound/vo/spy_sf13_spell_zombie_horde01.mp3": {
         "base_name": "spy_sf13_spell_zombie_horde01",
         "criteria": [
             [
@@ -11312,7 +11312,7 @@
         "state": "used",
         "transcript": "Mortis animataris!"
     },
-    "vo/spy_specialcompleted-assistedkill01.mp3": {
+    "sound/vo/spy_specialcompleted-assistedkill01.mp3": {
         "base_name": "spy_specialcompleted-assistedkill01",
         "criteria": [
             [
@@ -11351,7 +11351,7 @@
         "state": "used",
         "transcript": "I appreciate your help."
     },
-    "vo/spy_specialcompleted-assistedkill02.mp3": {
+    "sound/vo/spy_specialcompleted-assistedkill02.mp3": {
         "base_name": "spy_specialcompleted-assistedkill02",
         "criteria": [
             [
@@ -11390,7 +11390,7 @@
         "state": "used",
         "transcript": "My appreciation, amigo."
     },
-    "vo/spy_specialcompleted01.mp3": {
+    "sound/vo/spy_specialcompleted01.mp3": {
         "base_name": "spy_specialcompleted01",
         "criteria": [
             [
@@ -11419,7 +11419,7 @@
         "state": "used",
         "transcript": "Apologies."
     },
-    "vo/spy_specialcompleted02.mp3": {
+    "sound/vo/spy_specialcompleted02.mp3": {
         "base_name": "spy_specialcompleted02",
         "criteria": [
             [
@@ -11458,7 +11458,7 @@
         "state": "used",
         "transcript": "With my apologies."
     },
-    "vo/spy_specialcompleted03.mp3": {
+    "sound/vo/spy_specialcompleted03.mp3": {
         "base_name": "spy_specialcompleted03",
         "criteria": [
             [
@@ -11518,7 +11518,7 @@
         "state": "used",
         "transcript": "Oh dear, I've made quite a mess."
     },
-    "vo/spy_specialcompleted04.mp3": {
+    "sound/vo/spy_specialcompleted04.mp3": {
         "base_name": "spy_specialcompleted04",
         "criteria": [
             [
@@ -11548,7 +11548,7 @@
         "state": "used",
         "transcript": "Sorry to 'pop-in' unannounced."
     },
-    "vo/spy_specialcompleted05.mp3": {
+    "sound/vo/spy_specialcompleted05.mp3": {
         "base_name": "spy_specialcompleted05",
         "criteria": [
             [
@@ -11583,7 +11583,7 @@
         "state": "used",
         "transcript": "I murdered your toys as well."
     },
-    "vo/spy_specialcompleted06.mp3": {
+    "sound/vo/spy_specialcompleted06.mp3": {
         "base_name": "spy_specialcompleted06",
         "criteria": [
             [
@@ -11612,7 +11612,7 @@
         "state": "used",
         "transcript": "Pardon me."
     },
-    "vo/spy_specialcompleted07.mp3": {
+    "sound/vo/spy_specialcompleted07.mp3": {
         "base_name": "spy_specialcompleted07",
         "criteria": [
             [
@@ -11656,7 +11656,7 @@
         "state": "used",
         "transcript": "I never really was on your side."
     },
-    "vo/spy_specialcompleted08.mp3": {
+    "sound/vo/spy_specialcompleted08.mp3": {
         "base_name": "spy_specialcompleted08",
         "criteria": [
             [
@@ -11685,7 +11685,7 @@
         "state": "used",
         "transcript": "Thank you for being such a dear friend."
     },
-    "vo/spy_specialcompleted09.mp3": {
+    "sound/vo/spy_specialcompleted09.mp3": {
         "base_name": "spy_specialcompleted09",
         "criteria": [
             [
@@ -11728,7 +11728,7 @@
         "state": "used",
         "transcript": "Coward!"
     },
-    "vo/spy_specialcompleted10.mp3": {
+    "sound/vo/spy_specialcompleted10.mp3": {
         "base_name": "spy_specialcompleted10",
         "criteria": [
             [
@@ -11770,7 +11770,7 @@
         "state": "used",
         "transcript": "You disgust me!"
     },
-    "vo/spy_specialcompleted11.mp3": {
+    "sound/vo/spy_specialcompleted11.mp3": {
         "base_name": "spy_specialcompleted11",
         "criteria": [
             [
@@ -11827,7 +11827,7 @@
         "state": "used",
         "transcript": "You got blood on my suit."
     },
-    "vo/spy_specialcompleted12.mp3": {
+    "sound/vo/spy_specialcompleted12.mp3": {
         "base_name": "spy_specialcompleted12",
         "criteria": [
             [
@@ -11861,7 +11861,7 @@
         "state": "used",
         "transcript": "Surprise!"
     },
-    "vo/spy_stabtaunt01.mp3": {
+    "sound/vo/spy_stabtaunt01.mp3": {
         "base_name": "spy_stabtaunt01",
         "criteria": [],
         "events": [
@@ -11873,7 +11873,7 @@
         "state": "used",
         "transcript": "Time for the killing stroke!"
     },
-    "vo/spy_stabtaunt02.mp3": {
+    "sound/vo/spy_stabtaunt02.mp3": {
         "base_name": "spy_stabtaunt02",
         "criteria": [],
         "events": [
@@ -11890,7 +11890,7 @@
         "state": "used",
         "transcript": "Time to make that ugly face a little prettier!"
     },
-    "vo/spy_stabtaunt03.mp3": {
+    "sound/vo/spy_stabtaunt03.mp3": {
         "base_name": "spy_stabtaunt03",
         "criteria": [],
         "events": [
@@ -11902,7 +11902,7 @@
         "state": "used",
         "transcript": "Ah, stab wounds. My favorite type of wound!"
     },
-    "vo/spy_stabtaunt04.mp3": {
+    "sound/vo/spy_stabtaunt04.mp3": {
         "base_name": "spy_stabtaunt04",
         "criteria": [],
         "events": [
@@ -11914,7 +11914,7 @@
         "state": "used",
         "transcript": "Shock, blood loss, infection; Oh ho ho ho, I love stabbing!"
     },
-    "vo/spy_stabtaunt05.mp3": {
+    "sound/vo/spy_stabtaunt05.mp3": {
         "base_name": "spy_stabtaunt05",
         "criteria": [],
         "events": [
@@ -11926,7 +11926,7 @@
         "state": "used",
         "transcript": "Some are born great, others have greatness thrust into their sternums!"
     },
-    "vo/spy_stabtaunt06.mp3": {
+    "sound/vo/spy_stabtaunt06.mp3": {
         "base_name": "spy_stabtaunt06",
         "criteria": [],
         "events": [
@@ -11938,7 +11938,7 @@
         "state": "used",
         "transcript": "Let's make it straight to the point!"
     },
-    "vo/spy_stabtaunt07.mp3": {
+    "sound/vo/spy_stabtaunt07.mp3": {
         "base_name": "spy_stabtaunt07",
         "criteria": [],
         "events": [
@@ -11950,7 +11950,7 @@
         "state": "used",
         "transcript": "I'm not going to stab you, I'm not going to stab you! HA! I stabbed you!"
     },
-    "vo/spy_stabtaunt08.mp3": {
+    "sound/vo/spy_stabtaunt08.mp3": {
         "base_name": "spy_stabtaunt08",
         "criteria": [],
         "events": [
@@ -11962,7 +11962,7 @@
         "state": "used",
         "transcript": "I'm going to filet you like a salmon."
     },
-    "vo/spy_stabtaunt09.mp3": {
+    "sound/vo/spy_stabtaunt09.mp3": {
         "base_name": "spy_stabtaunt09",
         "criteria": [],
         "events": [
@@ -11979,7 +11979,7 @@
         "state": "used",
         "transcript": "I'm going to puncture you like a juice box."
     },
-    "vo/spy_stabtaunt10.mp3": {
+    "sound/vo/spy_stabtaunt10.mp3": {
         "base_name": "spy_stabtaunt10",
         "criteria": [],
         "events": [
@@ -11991,7 +11991,7 @@
         "state": "used",
         "transcript": "I'm going to carve you like a partridge."
     },
-    "vo/spy_stabtaunt11.mp3": {
+    "sound/vo/spy_stabtaunt11.mp3": {
         "base_name": "spy_stabtaunt11",
         "criteria": [],
         "events": [
@@ -12008,7 +12008,7 @@
         "state": "used",
         "transcript": "I'm going to carve you like a pumpkin."
     },
-    "vo/spy_stabtaunt12.mp3": {
+    "sound/vo/spy_stabtaunt12.mp3": {
         "base_name": "spy_stabtaunt12",
         "criteria": [],
         "events": [
@@ -12025,7 +12025,7 @@
         "state": "used",
         "transcript": "I'm going to butcher you like a pig."
     },
-    "vo/spy_stabtaunt13.mp3": {
+    "sound/vo/spy_stabtaunt13.mp3": {
         "base_name": "spy_stabtaunt13",
         "criteria": [],
         "events": [
@@ -12037,7 +12037,7 @@
         "state": "used",
         "transcript": "I am going to hack you up like cordwood."
     },
-    "vo/spy_stabtaunt14.mp3": {
+    "sound/vo/spy_stabtaunt14.mp3": {
         "base_name": "spy_stabtaunt14",
         "criteria": [],
         "events": [
@@ -12054,7 +12054,7 @@
         "state": "used",
         "transcript": "I'm going to filet you like a salmon."
     },
-    "vo/spy_stabtaunt15.mp3": {
+    "sound/vo/spy_stabtaunt15.mp3": {
         "base_name": "spy_stabtaunt15",
         "criteria": [],
         "events": [
@@ -12071,7 +12071,7 @@
         "state": "used",
         "transcript": "I am going to hack you up like cordwood."
     },
-    "vo/spy_stabtaunt16.mp3": {
+    "sound/vo/spy_stabtaunt16.mp3": {
         "base_name": "spy_stabtaunt16",
         "criteria": [],
         "events": [
@@ -12088,7 +12088,7 @@
         "state": "used",
         "transcript": "I'm going to puncture you like an old tire."
     },
-    "vo/spy_standonthepoint01.mp3": {
+    "sound/vo/spy_standonthepoint01.mp3": {
         "base_name": "spy_standonthepoint01",
         "criteria": [
             [
@@ -12122,7 +12122,7 @@
         "state": "used",
         "transcript": "Come stand on the point!"
     },
-    "vo/spy_standonthepoint02.mp3": {
+    "sound/vo/spy_standonthepoint02.mp3": {
         "base_name": "spy_standonthepoint02",
         "criteria": [
             [
@@ -12156,7 +12156,7 @@
         "state": "used",
         "transcript": "Come stand on the point, you idiot!"
     },
-    "vo/spy_standonthepoint03.mp3": {
+    "sound/vo/spy_standonthepoint03.mp3": {
         "base_name": "spy_standonthepoint03",
         "criteria": [
             [
@@ -12190,7 +12190,7 @@
         "state": "used",
         "transcript": "Idiot! Come stand on the point."
     },
-    "vo/spy_standonthepoint04.mp3": {
+    "sound/vo/spy_standonthepoint04.mp3": {
         "base_name": "spy_standonthepoint04",
         "criteria": [
             [
@@ -12224,7 +12224,7 @@
         "state": "used",
         "transcript": "Come stand on the point, you imbecile!"
     },
-    "vo/spy_thanks01.mp3": {
+    "sound/vo/spy_thanks01.mp3": {
         "base_name": "spy_thanks01",
         "criteria": [
             [
@@ -12247,7 +12247,7 @@
         "state": "used",
         "transcript": "Prego."
     },
-    "vo/spy_thanks02.mp3": {
+    "sound/vo/spy_thanks02.mp3": {
         "base_name": "spy_thanks02",
         "criteria": [
             [
@@ -12270,7 +12270,7 @@
         "state": "used",
         "transcript": "Many thanks."
     },
-    "vo/spy_thanks03.mp3": {
+    "sound/vo/spy_thanks03.mp3": {
         "base_name": "spy_thanks03",
         "criteria": [
             [
@@ -12293,7 +12293,7 @@
         "state": "used",
         "transcript": "Thank you."
     },
-    "vo/spy_thanksfortheheal01.mp3": {
+    "sound/vo/spy_thanksfortheheal01.mp3": {
         "base_name": "spy_thanksfortheheal01",
         "criteria": [
             [
@@ -12320,7 +12320,7 @@
         "state": "used",
         "transcript": "Cheers, doctor."
     },
-    "vo/spy_thanksfortheheal02.mp3": {
+    "sound/vo/spy_thanksfortheheal02.mp3": {
         "base_name": "spy_thanksfortheheal02",
         "criteria": [
             [
@@ -12347,7 +12347,7 @@
         "state": "used",
         "transcript": "Thank you, doctor."
     },
-    "vo/spy_thanksfortheheal03.mp3": {
+    "sound/vo/spy_thanksfortheheal03.mp3": {
         "base_name": "spy_thanksfortheheal03",
         "criteria": [
             [
@@ -12374,7 +12374,7 @@
         "state": "used",
         "transcript": "Much appreciated, doctor."
     },
-    "vo/spy_thanksfortheteleporter01.mp3": {
+    "sound/vo/spy_thanksfortheteleporter01.mp3": {
         "base_name": "spy_thanksfortheteleporter01",
         "criteria": [
             [
@@ -12399,7 +12399,7 @@
         "state": "used",
         "transcript": "Thank you, laborer!"
     },
-    "vo/spy_thanksfortheteleporter02.mp3": {
+    "sound/vo/spy_thanksfortheteleporter02.mp3": {
         "base_name": "spy_thanksfortheteleporter02",
         "criteria": [
             [
@@ -12424,7 +12424,7 @@
         "state": "used",
         "transcript": "Thank you, my friend."
     },
-    "vo/spy_thanksfortheteleporter03.mp3": {
+    "sound/vo/spy_thanksfortheteleporter03.mp3": {
         "base_name": "spy_thanksfortheteleporter03",
         "criteria": [
             [
@@ -12449,7 +12449,7 @@
         "state": "used",
         "transcript": "Cheers, Engineers!"
     },
-    "vo/spy_tietaunt01.mp3": {
+    "sound/vo/spy_tietaunt01.mp3": {
         "base_name": "spy_tietaunt01",
         "criteria": [],
         "events": [
@@ -12461,7 +12461,7 @@
         "state": "used",
         "transcript": "Let's see. Yes, good! I still look magnificent."
     },
-    "vo/spy_tietaunt02.mp3": {
+    "sound/vo/spy_tietaunt02.mp3": {
         "base_name": "spy_tietaunt02",
         "criteria": [],
         "events": [
@@ -12473,7 +12473,7 @@
         "state": "used",
         "transcript": "Good. I still look magnificent."
     },
-    "vo/spy_tietaunt03.mp3": {
+    "sound/vo/spy_tietaunt03.mp3": {
         "base_name": "spy_tietaunt03",
         "criteria": [],
         "events": [
@@ -12485,7 +12485,7 @@
         "state": "used",
         "transcript": "Ho ho ho. It should be a crime to look this good."
     },
-    "vo/spy_tietaunt04.mp3": {
+    "sound/vo/spy_tietaunt04.mp3": {
         "base_name": "spy_tietaunt04",
         "criteria": [],
         "events": [
@@ -12497,7 +12497,7 @@
         "state": "used",
         "transcript": "It should be a crime to look this good."
     },
-    "vo/spy_tietaunt05.mp3": {
+    "sound/vo/spy_tietaunt05.mp3": {
         "base_name": "spy_tietaunt05",
         "criteria": [],
         "events": [
@@ -12509,7 +12509,7 @@
         "state": "used",
         "transcript": "Heh heh heh heh. Like a wolf among the lambs."
     },
-    "vo/spy_tietaunt06.mp3": {
+    "sound/vo/spy_tietaunt06.mp3": {
         "base_name": "spy_tietaunt06",
         "criteria": [],
         "events": [
@@ -12521,7 +12521,7 @@
         "state": "used",
         "transcript": "Like a wolf among the lambs."
     },
-    "vo/spy_tietaunt07.mp3": {
+    "sound/vo/spy_tietaunt07.mp3": {
         "base_name": "spy_tietaunt07",
         "criteria": [],
         "events": [
@@ -12533,7 +12533,7 @@
         "state": "used",
         "transcript": "(admiringly) \"You handsome devil. Don't you ever die!\""
     },
-    "vo/spy_tietaunt08.mp3": {
+    "sound/vo/spy_tietaunt08.mp3": {
         "base_name": "spy_tietaunt08",
         "criteria": [],
         "events": [
@@ -12545,7 +12545,7 @@
         "state": "used",
         "transcript": "It's a privilege to be killed by a man who looks this good."
     },
-    "vo/spy_tietaunt09.mp3": {
+    "sound/vo/spy_tietaunt09.mp3": {
         "base_name": "spy_tietaunt09",
         "criteria": [],
         "events": [
@@ -12562,7 +12562,7 @@
         "state": "used",
         "transcript": "As if I would get blood on a $3,000 suit. Come on."
     },
-    "vo/spy_yes01.mp3": {
+    "sound/vo/spy_yes01.mp3": {
         "base_name": "spy_yes01",
         "criteria": [
             [
@@ -12585,7 +12585,7 @@
         "state": "used",
         "transcript": "Yes."
     },
-    "vo/spy_yes02.mp3": {
+    "sound/vo/spy_yes02.mp3": {
         "base_name": "spy_yes02",
         "criteria": [
             [
@@ -12614,7 +12614,7 @@
         "state": "used",
         "transcript": "But of course."
     },
-    "vo/spy_yes03.mp3": {
+    "sound/vo/spy_yes03.mp3": {
         "base_name": "spy_yes03",
         "criteria": [
             [
@@ -12643,7 +12643,7 @@
         "state": "used",
         "transcript": "Of course!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_01.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_01.mp3": {
         "base_name": "spy_aerobic_pos_01",
         "criteria": [],
         "events": [
@@ -12662,7 +12662,7 @@
         "state": "used",
         "transcript": "Oh yeah! Haha! Mmm hmm heh heh hah hah!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_05.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_05.mp3": {
         "base_name": "spy_aerobic_pos_05",
         "criteria": [],
         "events": [
@@ -12678,7 +12678,7 @@
         "state": "used",
         "transcript": "Mmm. (heavily breathing) Ha ha ha ha hah hah!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_06.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_06.mp3": {
         "base_name": "spy_aerobic_pos_06",
         "criteria": [],
         "events": [
@@ -12694,7 +12694,7 @@
         "state": "used",
         "transcript": "Ah! Huh huh huh!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_09.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_09.mp3": {
         "base_name": "spy_aerobic_pos_09",
         "criteria": [],
         "events": [
@@ -12710,7 +12710,7 @@
         "state": "used",
         "transcript": "(exhales heavily) \"Hmmph! Heh ha ha ha ha ha!\""
     },
-    "vo/taunts/spy/spy_aerobic_pos_10.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_10.mp3": {
         "base_name": "spy_aerobic_pos_10",
         "criteria": [],
         "events": [
@@ -12726,7 +12726,7 @@
         "state": "used",
         "transcript": "Huh! Hoo, hoo, huh!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_11.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_11.mp3": {
         "base_name": "spy_aerobic_pos_11",
         "criteria": [],
         "events": [
@@ -12742,7 +12742,7 @@
         "state": "used",
         "transcript": "Ha, hoo! (heavily breathing) Magnifique!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_12.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_12.mp3": {
         "base_name": "spy_aerobic_pos_12",
         "criteria": [],
         "events": [
@@ -12758,7 +12758,7 @@
         "state": "used",
         "transcript": "(heavily breathing) \"Time to assassinate some calories!\""
     },
-    "vo/taunts/spy/spy_aerobic_pos_15.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_15.mp3": {
         "base_name": "spy_aerobic_pos_15",
         "criteria": [],
         "events": [
@@ -12778,7 +12778,7 @@
         "state": "used",
         "transcript": "Ha hah! Yes!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_20.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_20.mp3": {
         "base_name": "spy_aerobic_pos_20",
         "criteria": [],
         "events": [
@@ -12794,7 +12794,7 @@
         "state": "used",
         "transcript": "(heavily breathing) \"The moves! I have all of them!\""
     },
-    "vo/taunts/spy/spy_aerobic_pos_32.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_32.mp3": {
         "base_name": "spy_aerobic_pos_32",
         "criteria": [],
         "events": [
@@ -12810,7 +12810,7 @@
         "state": "used",
         "transcript": "(exhales) \"And the Spycrab!\""
     },
-    "vo/taunts/spy/spy_aerobic_pos_33.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_33.mp3": {
         "base_name": "spy_aerobic_pos_33",
         "criteria": [],
         "events": [
@@ -12826,7 +12826,7 @@
         "state": "used",
         "transcript": "Ah hah hah! And... Spycrab!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_41.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_41.mp3": {
         "base_name": "spy_aerobic_pos_41",
         "criteria": [],
         "events": [
@@ -12845,7 +12845,7 @@
         "state": "used",
         "transcript": "Ah! Ze moves, they just sneak up on you! Ah ha ha!"
     },
-    "vo/taunts/spy/spy_aerobic_pos_43.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_43.mp3": {
         "base_name": "spy_aerobic_pos_43",
         "criteria": [],
         "events": [
@@ -12861,7 +12861,7 @@
         "state": "used",
         "transcript": "(heavily breathing) \"Feel ze burn! Be ze burn! Ah hah, ha ha!\""
     },
-    "vo/taunts/spy/spy_aerobic_pos_44.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_44.mp3": {
         "base_name": "spy_aerobic_pos_44",
         "criteria": [],
         "events": [
@@ -12877,7 +12877,7 @@
         "state": "used",
         "transcript": "(exhales heavily) \"You want it, Spy! You want it!\" (heavily breathing)"
     },
-    "vo/taunts/spy/spy_aerobic_pos_45.mp3": {
+    "sound/vo/taunts/spy/spy_aerobic_pos_45.mp3": {
         "base_name": "spy_aerobic_pos_45",
         "criteria": [],
         "events": [
@@ -12893,7 +12893,7 @@
         "state": "used",
         "transcript": "(exhales heavily) \"I believe it! So I can achieve it!\" (heavily breathing)"
     },
-    "vo/taunts/spy/spy_kill_taunt_03.mp3": {
+    "sound/vo/taunts/spy/spy_kill_taunt_03.mp3": {
         "base_name": "spy_kill_taunt_03",
         "criteria": [],
         "events": [
@@ -12909,7 +12909,7 @@
         "state": "used",
         "transcript": "Here. Buy yourself some talent."
     },
-    "vo/taunts/spy/spy_kill_taunt_13.mp3": {
+    "sound/vo/taunts/spy/spy_kill_taunt_13.mp3": {
         "base_name": "spy_kill_taunt_13",
         "criteria": [],
         "events": [
@@ -12925,7 +12925,7 @@
         "state": "used",
         "transcript": "Here. Go buy a nicer hat."
     },
-    "vo/taunts/spy/spy_kill_taunt_16.mp3": {
+    "sound/vo/taunts/spy/spy_kill_taunt_16.mp3": {
         "base_name": "spy_kill_taunt_16",
         "criteria": [],
         "events": [
@@ -12941,7 +12941,7 @@
         "state": "used",
         "transcript": "Here. That's what you're worth!"
     },
-    "vo/taunts/spy/spy_kill_taunt_17.mp3": {
+    "sound/vo/taunts/spy/spy_kill_taunt_17.mp3": {
         "base_name": "spy_kill_taunt_17",
         "criteria": [],
         "events": [
@@ -12957,7 +12957,7 @@
         "state": "used",
         "transcript": "Here. Keep the change."
     },
-    "vo/taunts/spy/spy_laughevil02.mp3": {
+    "sound/vo/taunts/spy/spy_laughevil02.mp3": {
         "base_name": "spy_laughevil02",
         "criteria": [],
         "events": [
@@ -12973,7 +12973,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/taunts/spy/spy_taunt_bos_int_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_bos_int_05.mp3": {
         "base_name": "spy_taunt_bos_int_05",
         "criteria": [],
         "events": [
@@ -12992,7 +12992,7 @@
         "state": "used",
         "transcript": "Your move!"
     },
-    "vo/taunts/spy/spy_taunt_bos_kick_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_bos_kick_02.mp3": {
         "base_name": "spy_taunt_bos_kick_02",
         "criteria": [],
         "events": [
@@ -13008,7 +13008,7 @@
         "state": "used",
         "transcript": "Ha ha!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_01.mp3": {
         "base_name": "spy_taunt_cong_fun_01",
         "criteria": [],
         "events": [
@@ -13027,7 +13027,7 @@
         "state": "used",
         "transcript": "Whoo hoo hoo hoo!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_02.mp3": {
         "base_name": "spy_taunt_cong_fun_02",
         "criteria": [],
         "events": [
@@ -13043,7 +13043,7 @@
         "state": "used",
         "transcript": "Ahhh! Ho ho ho ho ho hah!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_03.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_03.mp3": {
         "base_name": "spy_taunt_cong_fun_03",
         "criteria": [],
         "events": [
@@ -13063,7 +13063,7 @@
         "state": "used",
         "transcript": "Alright!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_05.mp3": {
         "base_name": "spy_taunt_cong_fun_05",
         "criteria": [],
         "events": [
@@ -13083,7 +13083,7 @@
         "state": "used",
         "transcript": "Ah, c'est magnifique!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_06.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_06.mp3": {
         "base_name": "spy_taunt_cong_fun_06",
         "criteria": [],
         "events": [
@@ -13103,7 +13103,7 @@
         "state": "used",
         "transcript": "Ooh, ha ha ha!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_08.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_08.mp3": {
         "base_name": "spy_taunt_cong_fun_08",
         "criteria": [],
         "events": [
@@ -13122,7 +13122,7 @@
         "state": "used",
         "transcript": "Eh hoo hoo!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_09.mp3": {
         "base_name": "spy_taunt_cong_fun_09",
         "criteria": [],
         "events": [
@@ -13142,7 +13142,7 @@
         "state": "used",
         "transcript": "Oh ho ho ho ho!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_10.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_10.mp3": {
         "base_name": "spy_taunt_cong_fun_10",
         "criteria": [],
         "events": [
@@ -13164,7 +13164,7 @@
         "state": "used",
         "transcript": "Oh yeah!"
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_14.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_14.mp3": {
         "base_name": "spy_taunt_cong_fun_14",
         "criteria": [],
         "events": [
@@ -13180,7 +13180,7 @@
         "state": "used",
         "transcript": "(singing) \"Dum dum dum tom!\""
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_15.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_15.mp3": {
         "base_name": "spy_taunt_cong_fun_15",
         "criteria": [],
         "events": [
@@ -13197,7 +13197,7 @@
         "state": "used",
         "transcript": "(singing) \"Bum ba bum bum ba bum bum bum!\""
     },
-    "vo/taunts/spy/spy_taunt_cong_fun_17.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_fun_17.mp3": {
         "base_name": "spy_taunt_cong_fun_17",
         "criteria": [],
         "events": [
@@ -13213,7 +13213,7 @@
         "state": "used",
         "transcript": "Bum bum boom bum, bum bum boom bum, bum bum boom!"
     },
-    "vo/taunts/spy/spy_taunt_cong_int_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_int_01.mp3": {
         "base_name": "spy_taunt_cong_int_01",
         "criteria": [],
         "events": [
@@ -13235,7 +13235,7 @@
         "state": "used",
         "transcript": "Let us dance!"
     },
-    "vo/taunts/spy/spy_taunt_cong_int_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_int_05.mp3": {
         "base_name": "spy_taunt_cong_int_05",
         "criteria": [],
         "events": [
@@ -13254,7 +13254,7 @@
         "state": "used",
         "transcript": "Dancing! It is the forbidden dance!"
     },
-    "vo/taunts/spy/spy_taunt_cong_int_11.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cong_int_11.mp3": {
         "base_name": "spy_taunt_cong_int_11",
         "criteria": [],
         "events": [
@@ -13273,7 +13273,7 @@
         "state": "used",
         "transcript": "Let us dance, gentlemen! Dance like no one's shooting at us!"
     },
-    "vo/taunts/spy/spy_taunt_cry.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_cry.mp3": {
         "base_name": "spy_taunt_cry",
         "criteria": [],
         "events": [
@@ -13289,7 +13289,7 @@
         "state": "used",
         "transcript": "cries"
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_03.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_03.mp3": {
         "base_name": "spy_taunt_dosi_end_03",
         "criteria": [],
         "events": [
@@ -13308,7 +13308,7 @@
         "state": "used",
         "transcript": "Yes! Good! We're done."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_06.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_06.mp3": {
         "base_name": "spy_taunt_dosi_end_06",
         "criteria": [],
         "events": [
@@ -13325,7 +13325,7 @@
         "state": "used",
         "transcript": "If you speak of this, I will kill you!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_11.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_11.mp3": {
         "base_name": "spy_taunt_dosi_end_11",
         "criteria": [],
         "events": [
@@ -13348,7 +13348,7 @@
         "state": "used",
         "transcript": "Well, that was idiotic!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_14.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_14.mp3": {
         "base_name": "spy_taunt_dosi_end_14",
         "criteria": [],
         "events": [
@@ -13364,7 +13364,7 @@
         "state": "used",
         "transcript": "I will stab this memory out of my skull!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_17.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_17.mp3": {
         "base_name": "spy_taunt_dosi_end_17",
         "criteria": [],
         "events": [
@@ -13390,7 +13390,7 @@
         "state": "used",
         "transcript": "Hmmmeah..."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_18.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_18.mp3": {
         "base_name": "spy_taunt_dosi_end_18",
         "criteria": [],
         "events": [
@@ -13416,7 +13416,7 @@
         "state": "used",
         "transcript": "Nyeauh..."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_19.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_19.mp3": {
         "base_name": "spy_taunt_dosi_end_19",
         "criteria": [],
         "events": [
@@ -13439,7 +13439,7 @@
         "state": "used",
         "transcript": "Nuuugh..."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_24.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_24.mp3": {
         "base_name": "spy_taunt_dosi_end_24",
         "criteria": [],
         "events": [
@@ -13455,7 +13455,7 @@
         "state": "used",
         "transcript": "Yes, good times for all."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_32.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_32.mp3": {
         "base_name": "spy_taunt_dosi_end_32",
         "criteria": [],
         "events": [
@@ -13471,7 +13471,7 @@
         "state": "used",
         "transcript": "And we're done! Time to shower."
     },
-    "vo/taunts/spy/spy_taunt_dosi_end_37.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_end_37.mp3": {
         "base_name": "spy_taunt_dosi_end_37",
         "criteria": [],
         "events": [
@@ -13487,7 +13487,7 @@
         "state": "used",
         "transcript": "And we're done! Off to hang myself!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_01.mp3": {
         "base_name": "spy_taunt_dosi_int_01",
         "criteria": [],
         "events": [
@@ -13506,7 +13506,7 @@
         "state": "used",
         "transcript": "Uuugh!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_02.mp3": {
         "base_name": "spy_taunt_dosi_int_02",
         "criteria": [],
         "events": [
@@ -13522,7 +13522,7 @@
         "state": "used",
         "transcript": "Uuuuugh!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_03.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_03.mp3": {
         "base_name": "spy_taunt_dosi_int_03",
         "criteria": [],
         "events": [
@@ -13538,7 +13538,7 @@
         "state": "used",
         "transcript": "Uuuuyeuh!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_08.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_08.mp3": {
         "base_name": "spy_taunt_dosi_int_08",
         "criteria": [],
         "events": [
@@ -13554,7 +13554,7 @@
         "state": "used",
         "transcript": "Ugh, the do-si-do!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_09.mp3": {
         "base_name": "spy_taunt_dosi_int_09",
         "criteria": [],
         "events": [
@@ -13570,7 +13570,7 @@
         "state": "used",
         "transcript": "Ugh, the do-si-do!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_10.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_10.mp3": {
         "base_name": "spy_taunt_dosi_int_10",
         "criteria": [],
         "events": [
@@ -13586,7 +13586,7 @@
         "state": "used",
         "transcript": "(with consternation) \"The do-si-do!\""
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_12.mp3": {
         "base_name": "spy_taunt_dosi_int_12",
         "criteria": [],
         "events": [
@@ -13608,7 +13608,7 @@
         "state": "used",
         "transcript": "Oh, come on!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_14.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_14.mp3": {
         "base_name": "spy_taunt_dosi_int_14",
         "criteria": [],
         "events": [
@@ -13630,7 +13630,7 @@
         "state": "used",
         "transcript": "Ugh, come on!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_16.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_16.mp3": {
         "base_name": "spy_taunt_dosi_int_16",
         "criteria": [],
         "events": [
@@ -13646,7 +13646,7 @@
         "state": "used",
         "transcript": "I will never live this down!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_31.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_31.mp3": {
         "base_name": "spy_taunt_dosi_int_31",
         "criteria": [],
         "events": [
@@ -13662,7 +13662,7 @@
         "state": "used",
         "transcript": "Yes, yes, spinning! Happy memories!"
     },
-    "vo/taunts/spy/spy_taunt_dosi_int_32.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_dosi_int_32.mp3": {
         "base_name": "spy_taunt_dosi_int_32",
         "criteria": [],
         "events": [
@@ -13678,7 +13678,7 @@
         "state": "used",
         "transcript": "I feel like an idiot!"
     },
-    "vo/taunts/spy/spy_taunt_exert_11.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_11.mp3": {
         "base_name": "spy_taunt_exert_11",
         "criteria": [],
         "events": [
@@ -13702,7 +13702,7 @@
         "state": "used",
         "transcript": "Nnngh!"
     },
-    "vo/taunts/spy/spy_taunt_exert_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_12.mp3": {
         "base_name": "spy_taunt_exert_12",
         "criteria": [],
         "events": [
@@ -13726,7 +13726,7 @@
         "state": "used",
         "transcript": "Huuh!"
     },
-    "vo/taunts/spy/spy_taunt_exert_13.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_13.mp3": {
         "base_name": "spy_taunt_exert_13",
         "criteria": [],
         "events": [
@@ -13747,7 +13747,7 @@
         "state": "used",
         "transcript": "Eeegh!"
     },
-    "vo/taunts/spy/spy_taunt_exert_14.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_14.mp3": {
         "base_name": "spy_taunt_exert_14",
         "criteria": [],
         "events": [
@@ -13771,7 +13771,7 @@
         "state": "used",
         "transcript": "Uuuh!"
     },
-    "vo/taunts/spy/spy_taunt_exert_15.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_15.mp3": {
         "base_name": "spy_taunt_exert_15",
         "criteria": [],
         "events": [
@@ -13801,7 +13801,7 @@
         "state": "used",
         "transcript": "Aigh!"
     },
-    "vo/taunts/spy/spy_taunt_exert_16.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_exert_16.mp3": {
         "base_name": "spy_taunt_exert_16",
         "criteria": [],
         "events": [
@@ -13822,7 +13822,7 @@
         "state": "used",
         "transcript": "Huuoh!"
     },
-    "vo/taunts/spy/spy_taunt_flip_admire_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_admire_05.mp3": {
         "base_name": "spy_taunt_flip_admire_05",
         "criteria": [],
         "events": [
@@ -13841,7 +13841,7 @@
         "state": "used",
         "transcript": "Very nice!"
     },
-    "vo/taunts/spy/spy_taunt_flip_admire_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_admire_09.mp3": {
         "base_name": "spy_taunt_flip_admire_09",
         "criteria": [],
         "events": [
@@ -13857,7 +13857,7 @@
         "state": "used",
         "transcript": "Teamwork!"
     },
-    "vo/taunts/spy/spy_taunt_flip_admire_18.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_admire_18.mp3": {
         "base_name": "spy_taunt_flip_admire_18",
         "criteria": [],
         "events": [
@@ -13873,7 +13873,7 @@
         "state": "used",
         "transcript": "Alright, take it easy."
     },
-    "vo/taunts/spy/spy_taunt_flip_admire_20.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_admire_20.mp3": {
         "base_name": "spy_taunt_flip_admire_20",
         "criteria": [],
         "events": [
@@ -13889,7 +13889,7 @@
         "state": "used",
         "transcript": "Ok, don't get too excited."
     },
-    "vo/taunts/spy/spy_taunt_flip_end_07.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_end_07.mp3": {
         "base_name": "spy_taunt_flip_end_07",
         "criteria": [],
         "events": [
@@ -13911,7 +13911,7 @@
         "state": "used",
         "transcript": "And then this!"
     },
-    "vo/taunts/spy/spy_taunt_flip_end_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_end_12.mp3": {
         "base_name": "spy_taunt_flip_end_12",
         "criteria": [],
         "events": [
@@ -13933,7 +13933,7 @@
         "state": "used",
         "transcript": "Big Finish!"
     },
-    "vo/taunts/spy/spy_taunt_flip_end_14.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_end_14.mp3": {
         "base_name": "spy_taunt_flip_end_14",
         "criteria": [],
         "events": [
@@ -13958,7 +13958,7 @@
         "state": "used",
         "transcript": "I make it look easy!"
     },
-    "vo/taunts/spy/spy_taunt_flip_end_16.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_end_16.mp3": {
         "base_name": "spy_taunt_flip_end_16",
         "criteria": [],
         "events": [
@@ -13978,7 +13978,7 @@
         "state": "used",
         "transcript": "Pirouette!"
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_01.mp3": {
         "base_name": "spy_taunt_flip_exert_01",
         "criteria": [],
         "events": [
@@ -13996,7 +13996,7 @@
         "state": "used",
         "transcript": "Hmmugh!"
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_02.mp3": {
         "base_name": "spy_taunt_flip_exert_02",
         "criteria": [],
         "events": [
@@ -14014,7 +14014,7 @@
         "state": "used",
         "transcript": "Uugh!"
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_07.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_07.mp3": {
         "base_name": "spy_taunt_flip_exert_07",
         "criteria": [],
         "events": [
@@ -14030,7 +14030,7 @@
         "state": "used",
         "transcript": "(strained) \"Up you go!\""
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_08.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_08.mp3": {
         "base_name": "spy_taunt_flip_exert_08",
         "criteria": [],
         "events": [
@@ -14046,7 +14046,7 @@
         "state": "used",
         "transcript": "Up you go!"
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_09.mp3": {
         "base_name": "spy_taunt_flip_exert_09",
         "criteria": [],
         "events": [
@@ -14062,7 +14062,7 @@
         "state": "used",
         "transcript": "And flip!"
     },
-    "vo/taunts/spy/spy_taunt_flip_exert_10.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_exert_10.mp3": {
         "base_name": "spy_taunt_flip_exert_10",
         "criteria": [],
         "events": [
@@ -14078,7 +14078,7 @@
         "state": "used",
         "transcript": "Like so!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_01.mp3": {
         "base_name": "spy_taunt_flip_fun_01",
         "criteria": [],
         "events": [
@@ -14104,7 +14104,7 @@
         "state": "used",
         "transcript": "Ha hah!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_02.mp3": {
         "base_name": "spy_taunt_flip_fun_02",
         "criteria": [],
         "events": [
@@ -14135,7 +14135,7 @@
         "state": "used",
         "transcript": "Hah hah!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_07.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_07.mp3": {
         "base_name": "spy_taunt_flip_fun_07",
         "criteria": [],
         "events": [
@@ -14159,7 +14159,7 @@
         "state": "used",
         "transcript": "Watch and learn!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_09.mp3": {
         "base_name": "spy_taunt_flip_fun_09",
         "criteria": [],
         "events": [
@@ -14179,7 +14179,7 @@
         "state": "used",
         "transcript": "La jet\u00e9!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_12.mp3": {
         "base_name": "spy_taunt_flip_fun_12",
         "criteria": [],
         "events": [
@@ -14199,7 +14199,7 @@
         "state": "used",
         "transcript": "I fly!"
     },
-    "vo/taunts/spy/spy_taunt_flip_fun_13.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_fun_13.mp3": {
         "base_name": "spy_taunt_flip_fun_13",
         "criteria": [],
         "events": [
@@ -14219,7 +14219,7 @@
         "state": "used",
         "transcript": "I take to the air!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_01.mp3": {
         "base_name": "spy_taunt_flip_int_01",
         "criteria": [],
         "events": [
@@ -14235,7 +14235,7 @@
         "state": "used",
         "transcript": "Flipping!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_02.mp3": {
         "base_name": "spy_taunt_flip_int_02",
         "criteria": [],
         "events": [
@@ -14251,7 +14251,7 @@
         "state": "used",
         "transcript": "Flipping!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_03.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_03.mp3": {
         "base_name": "spy_taunt_flip_int_03",
         "criteria": [],
         "events": [
@@ -14267,7 +14267,7 @@
         "state": "used",
         "transcript": "Flipping!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_04.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_04.mp3": {
         "base_name": "spy_taunt_flip_int_04",
         "criteria": [],
         "events": [
@@ -14283,7 +14283,7 @@
         "state": "used",
         "transcript": "Ugh, flipping!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_07.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_07.mp3": {
         "base_name": "spy_taunt_flip_int_07",
         "criteria": [],
         "events": [
@@ -14299,7 +14299,7 @@
         "state": "used",
         "transcript": "Time to flip!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_15.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_15.mp3": {
         "base_name": "spy_taunt_flip_int_15",
         "criteria": [],
         "events": [
@@ -14315,7 +14315,7 @@
         "state": "used",
         "transcript": "Flipping time!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_16.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_16.mp3": {
         "base_name": "spy_taunt_flip_int_16",
         "criteria": [],
         "events": [
@@ -14332,7 +14332,7 @@
         "state": "used",
         "transcript": "Flipping time!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_20.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_20.mp3": {
         "base_name": "spy_taunt_flip_int_20",
         "criteria": [],
         "events": [
@@ -14351,7 +14351,7 @@
         "state": "used",
         "transcript": "To me!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_25.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_25.mp3": {
         "base_name": "spy_taunt_flip_int_25",
         "criteria": [],
         "events": [
@@ -14367,7 +14367,7 @@
         "state": "used",
         "transcript": "Ugh, fine!"
     },
-    "vo/taunts/spy/spy_taunt_flip_int_28.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_flip_int_28.mp3": {
         "base_name": "spy_taunt_flip_int_28",
         "criteria": [],
         "events": [
@@ -14383,7 +14383,7 @@
         "state": "used",
         "transcript": "Ugh, fine, let's flip!"
     },
-    "vo/taunts/spy/spy_taunt_head_doctor_pain.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_doctor_pain.mp3": {
         "base_name": "spy_taunt_head_doctor_pain",
         "criteria": [],
         "events": [
@@ -14402,7 +14402,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/spy/spy_taunt_head_exert_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_exert_01.mp3": {
         "base_name": "spy_taunt_head_exert_01",
         "criteria": [],
         "events": [
@@ -14421,7 +14421,7 @@
         "state": "used",
         "transcript": "Huhyeah omph!"
     },
-    "vo/taunts/spy/spy_taunt_head_exert_15.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_exert_15.mp3": {
         "base_name": "spy_taunt_head_exert_15",
         "criteria": [],
         "events": [
@@ -14437,7 +14437,7 @@
         "state": "used",
         "transcript": "Owww!"
     },
-    "vo/taunts/spy/spy_taunt_head_int_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_int_02.mp3": {
         "base_name": "spy_taunt_head_int_02",
         "criteria": [],
         "events": [
@@ -14453,7 +14453,7 @@
         "state": "used",
         "transcript": "Let us butt heads!"
     },
-    "vo/taunts/spy/spy_taunt_head_int_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_int_05.mp3": {
         "base_name": "spy_taunt_head_int_05",
         "criteria": [],
         "events": [
@@ -14472,7 +14472,7 @@
         "state": "used",
         "transcript": "Right here!"
     },
-    "vo/taunts/spy/spy_taunt_head_int_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_int_12.mp3": {
         "base_name": "spy_taunt_head_int_12",
         "criteria": [],
         "events": [
@@ -14488,7 +14488,7 @@
         "state": "used",
         "transcript": "Butt my head!"
     },
-    "vo/taunts/spy/spy_taunt_head_int_21.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_int_21.mp3": {
         "base_name": "spy_taunt_head_int_21",
         "criteria": [],
         "events": [
@@ -14504,7 +14504,7 @@
         "state": "used",
         "transcript": "Bottez la t\u00eate!"
     },
-    "vo/taunts/spy/spy_taunt_head_int_26.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_int_26.mp3": {
         "base_name": "spy_taunt_head_int_26",
         "criteria": [],
         "events": [
@@ -14520,7 +14520,7 @@
         "state": "used",
         "transcript": "Bottez la t\u00eate!"
     },
-    "vo/taunts/spy/spy_taunt_head_pain_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_pain_01.mp3": {
         "base_name": "spy_taunt_head_pain_01",
         "criteria": [],
         "events": [
@@ -14536,7 +14536,7 @@
         "state": "used",
         "transcript": "Ow ow ow!"
     },
-    "vo/taunts/spy/spy_taunt_head_pain_11.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_pain_11.mp3": {
         "base_name": "spy_taunt_head_pain_11",
         "criteria": [],
         "events": [
@@ -14552,7 +14552,7 @@
         "state": "used",
         "transcript": "Oh, good. A concussion!"
     },
-    "vo/taunts/spy/spy_taunt_head_pain_20.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_head_pain_20.mp3": {
         "base_name": "spy_taunt_head_pain_20",
         "criteria": [],
         "events": [
@@ -14571,7 +14571,7 @@
         "state": "used",
         "transcript": "Didn't feel a thing!"
     },
-    "vo/taunts/spy/spy_taunt_int_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_int_01.mp3": {
         "base_name": "spy_taunt_int_01",
         "criteria": [],
         "events": [
@@ -14593,7 +14593,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/spy/spy_taunt_int_03.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_int_03.mp3": {
         "base_name": "spy_taunt_int_03",
         "criteria": [],
         "events": [
@@ -14615,7 +14615,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/spy/spy_taunt_int_16.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_int_16.mp3": {
         "base_name": "spy_taunt_int_16",
         "criteria": [],
         "events": [
@@ -14637,7 +14637,7 @@
         "state": "used",
         "transcript": "Let's begin!"
     },
-    "vo/taunts/spy/spy_taunt_int_24.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_int_24.mp3": {
         "base_name": "spy_taunt_int_24",
         "criteria": [],
         "events": [
@@ -14659,7 +14659,7 @@
         "state": "used",
         "transcript": "Over here!"
     },
-    "vo/taunts/spy/spy_taunt_int_48.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_int_48.mp3": {
         "base_name": "spy_taunt_int_48",
         "criteria": [],
         "events": [
@@ -14681,7 +14681,7 @@
         "state": "used",
         "transcript": "Let us commence!"
     },
-    "vo/taunts/spy/spy_taunt_killme_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_killme_01.mp3": {
         "base_name": "spy_taunt_killme_01",
         "criteria": [],
         "events": [
@@ -14697,7 +14697,7 @@
         "state": "used",
         "transcript": "Kill. Me."
     },
-    "vo/taunts/spy/spy_taunt_killme_02.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_killme_02.mp3": {
         "base_name": "spy_taunt_killme_02",
         "criteria": [],
         "events": [
@@ -14716,7 +14716,7 @@
         "state": "used",
         "transcript": "Kill me!"
     },
-    "vo/taunts/spy/spy_taunt_rps_exert_08.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_exert_08.mp3": {
         "base_name": "spy_taunt_rps_exert_08",
         "criteria": [],
         "events": [
@@ -14743,7 +14743,7 @@
         "state": "used",
         "transcript": "One!"
     },
-    "vo/taunts/spy/spy_taunt_rps_exert_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_exert_09.mp3": {
         "base_name": "spy_taunt_rps_exert_09",
         "criteria": [],
         "events": [
@@ -14770,7 +14770,7 @@
         "state": "used",
         "transcript": "Two!"
     },
-    "vo/taunts/spy/spy_taunt_rps_exert_10.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_exert_10.mp3": {
         "base_name": "spy_taunt_rps_exert_10",
         "criteria": [],
         "events": [
@@ -14797,7 +14797,7 @@
         "state": "used",
         "transcript": "Three!"
     },
-    "vo/taunts/spy/spy_taunt_rps_exert_28.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_exert_28.mp3": {
         "base_name": "spy_taunt_rps_exert_28",
         "criteria": [],
         "events": [
@@ -14818,7 +14818,7 @@
         "state": "used",
         "transcript": "On three!"
     },
-    "vo/taunts/spy/spy_taunt_rps_int_01.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_int_01.mp3": {
         "base_name": "spy_taunt_rps_int_01",
         "criteria": [],
         "events": [
@@ -14834,7 +14834,7 @@
         "state": "used",
         "transcript": "Rock, paper, scissors!"
     },
-    "vo/taunts/spy/spy_taunt_rps_int_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_int_05.mp3": {
         "base_name": "spy_taunt_rps_int_05",
         "criteria": [],
         "events": [
@@ -14850,7 +14850,7 @@
         "state": "used",
         "transcript": "Let us play!"
     },
-    "vo/taunts/spy/spy_taunt_rps_int_07.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_int_07.mp3": {
         "base_name": "spy_taunt_rps_int_07",
         "criteria": [],
         "events": [
@@ -14866,7 +14866,7 @@
         "state": "used",
         "transcript": "Who will play me?"
     },
-    "vo/taunts/spy/spy_taunt_rps_int_08.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_int_08.mp3": {
         "base_name": "spy_taunt_rps_int_08",
         "criteria": [],
         "events": [
@@ -14885,7 +14885,7 @@
         "state": "used",
         "transcript": "My hands against your hands!"
     },
-    "vo/taunts/spy/spy_taunt_rps_lose_05.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_lose_05.mp3": {
         "base_name": "spy_taunt_rps_lose_05",
         "criteria": [],
         "events": [
@@ -14905,7 +14905,7 @@
         "state": "used",
         "transcript": "Burn in hell!"
     },
-    "vo/taunts/spy/spy_taunt_rps_lose_12.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_lose_12.mp3": {
         "base_name": "spy_taunt_rps_lose_12",
         "criteria": [],
         "events": [
@@ -14922,7 +14922,7 @@
         "state": "used",
         "transcript": "I should have won!"
     },
-    "vo/taunts/spy/spy_taunt_rps_lose_15.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_lose_15.mp3": {
         "base_name": "spy_taunt_rps_lose_15",
         "criteria": [],
         "events": [
@@ -14939,7 +14939,7 @@
         "state": "used",
         "transcript": "You got lucky!"
     },
-    "vo/taunts/spy/spy_taunt_rps_win_09.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_win_09.mp3": {
         "base_name": "spy_taunt_rps_win_09",
         "criteria": [],
         "events": [
@@ -14956,7 +14956,7 @@
         "state": "used",
         "transcript": "Behold, your winner!"
     },
-    "vo/taunts/spy/spy_taunt_rps_win_11.mp3": {
+    "sound/vo/taunts/spy/spy_taunt_rps_win_11.mp3": {
         "base_name": "spy_taunt_rps_win_11",
         "criteria": [],
         "events": [
@@ -14979,7 +14979,7 @@
         "state": "used",
         "transcript": "I am the champion!"
     },
-    "vo/taunts/spy/spy_taunts_head_doctor_you_suck.mp3": {
+    "sound/vo/taunts/spy/spy_taunts_head_doctor_you_suck.mp3": {
         "base_name": "spy_taunts_head_doctor_you_suck",
         "criteria": [],
         "events": [
@@ -14998,7 +14998,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/spy/spy_tnt_dosido_init04.mp3": {
+    "sound/vo/taunts/spy/spy_tnt_dosido_init04.mp3": {
         "base_name": "spy_tnt_dosido_init04",
         "criteria": [],
         "events": [
@@ -15015,7 +15015,7 @@
         "state": "used",
         "transcript": "Who among you is man enough to dance with me?"
     },
-    "vo/taunts/spy/spy_tnt_nutkick_kick03.mp3": {
+    "sound/vo/taunts/spy/spy_tnt_nutkick_kick03.mp3": {
         "base_name": "spy_tnt_nutkick_kick03",
         "criteria": [],
         "events": [
@@ -15038,7 +15038,7 @@
         "state": "used",
         "transcript": "Hilarious!"
     },
-    "vo/taunts/spy/spy_tnt_nutkick_kick04.mp3": {
+    "sound/vo/taunts/spy/spy_tnt_nutkick_kick04.mp3": {
         "base_name": "spy_tnt_nutkick_kick04",
         "criteria": [],
         "events": [
@@ -15055,7 +15055,7 @@
         "state": "used",
         "transcript": "Ho-hoh!"
     },
-    "vo/taunts/spy/spy_trade_01.mp3": {
+    "sound/vo/taunts/spy/spy_trade_01.mp3": {
         "base_name": "spy_trade_01",
         "criteria": [],
         "events": [
@@ -15072,7 +15072,7 @@
         "state": "used",
         "transcript": "Magnificent."
     },
-    "vo/taunts/spy/spy_trade_03.mp3": {
+    "sound/vo/taunts/spy/spy_trade_03.mp3": {
         "base_name": "spy_trade_03",
         "criteria": [],
         "events": [
@@ -15084,7 +15084,7 @@
         "state": "used",
         "transcript": "Such treasure."
     },
-    "vo/taunts/spy/spy_trade_05.mp3": {
+    "sound/vo/taunts/spy/spy_trade_05.mp3": {
         "base_name": "spy_trade_05",
         "criteria": [],
         "events": [
@@ -15096,7 +15096,7 @@
         "state": "used",
         "transcript": "Jealous?"
     },
-    "vo/taunts/spy/spy_trade_08.mp3": {
+    "sound/vo/taunts/spy/spy_trade_08.mp3": {
         "base_name": "spy_trade_08",
         "criteria": [],
         "events": [
@@ -15108,7 +15108,7 @@
         "state": "used",
         "transcript": "Stylish."
     },
-    "vo/taunts/spy/spy_trade_09.mp3": {
+    "sound/vo/taunts/spy/spy_trade_09.mp3": {
         "base_name": "spy_trade_09",
         "criteria": [],
         "events": [
@@ -15120,7 +15120,7 @@
         "state": "used",
         "transcript": "You're green with envy, I can tell."
     },
-    "vo/taunts/spy/spy_trade_11.mp3": {
+    "sound/vo/taunts/spy/spy_trade_11.mp3": {
         "base_name": "spy_trade_11",
         "criteria": [],
         "events": [
@@ -15132,7 +15132,7 @@
         "state": "used",
         "transcript": "What do you think?"
     },
-    "vo/taunts/spy/spy_trade_13.mp3": {
+    "sound/vo/taunts/spy/spy_trade_13.mp3": {
         "base_name": "spy_trade_13",
         "criteria": [],
         "events": [
@@ -15145,7 +15145,7 @@
         "state": "used",
         "transcript": "Very nice, yea?"
     },
-    "vo/taunts/spy/spy_trade_17.mp3": {
+    "sound/vo/taunts/spy/spy_trade_17.mp3": {
         "base_name": "spy_trade_17",
         "criteria": [],
         "events": [
@@ -15157,7 +15157,7 @@
         "state": "used",
         "transcript": "The pearl of my collection."
     },
-    "vo/taunts/spy/spy_trade_18.mp3": {
+    "sound/vo/taunts/spy/spy_trade_18.mp3": {
         "base_name": "spy_trade_18",
         "criteria": [],
         "events": [
@@ -15169,7 +15169,7 @@
         "state": "used",
         "transcript": "Le Pi\u00e8ce de r\u00e9sistance."
     },
-    "vo/taunts/spy/spy_trade_20.mp3": {
+    "sound/vo/taunts/spy/spy_trade_20.mp3": {
         "base_name": "spy_trade_20",
         "criteria": [],
         "events": [
@@ -15182,7 +15182,7 @@
         "state": "used",
         "transcript": "I have expensive tastes."
     },
-    "vo/taunts/spy/spy_trade_22.mp3": {
+    "sound/vo/taunts/spy/spy_trade_22.mp3": {
         "base_name": "spy_trade_22",
         "criteria": [],
         "events": [
@@ -15200,7 +15200,7 @@
         "state": "used",
         "transcript": "I spare no expense on luxuries."
     },
-    "vo/taunts/spy/taunt_spy_buyalife_bill_select.mp3": {
+    "sound/vo/taunts/spy/taunt_spy_buyalife_bill_select.mp3": {
         "base_name": "taunt_spy_buyalife_bill_select",
         "criteria": [],
         "events": [
@@ -15212,7 +15212,7 @@
         "state": "used",
         "transcript": "[grabbing the cardboard box"
     },
-    "vo/taunts/spy/taunt_spy_buyalife_bill_throw.mp3": {
+    "sound/vo/taunts/spy/taunt_spy_buyalife_bill_throw.mp3": {
         "base_name": "taunt_spy_buyalife_bill_throw",
         "criteria": [],
         "events": [
@@ -15230,7 +15230,7 @@
         "state": "used",
         "transcript": "[throwing cash"
     },
-    "vo/taunts/spy_feelgood01.mp3": {
+    "sound/vo/taunts/spy_feelgood01.mp3": {
         "base_name": "spy_feelgood01",
         "criteria": [],
         "events": [
@@ -15246,7 +15246,7 @@
         "state": "used",
         "transcript": "I feel tr\u00e8s bon!"
     },
-    "vo/taunts/spy_highfive01.mp3": {
+    "sound/vo/taunts/spy_highfive01.mp3": {
         "base_name": "spy_highfive01",
         "criteria": [],
         "events": [
@@ -15262,7 +15262,7 @@
         "state": "used",
         "transcript": "Slap my hand."
     },
-    "vo/taunts/spy_highfive02.mp3": {
+    "sound/vo/taunts/spy_highfive02.mp3": {
         "base_name": "spy_highfive02",
         "criteria": [],
         "events": [
@@ -15274,7 +15274,7 @@
         "state": "used",
         "transcript": "Slap it now!"
     },
-    "vo/taunts/spy_highfive03.mp3": {
+    "sound/vo/taunts/spy_highfive03.mp3": {
         "base_name": "spy_highfive03",
         "criteria": [],
         "events": [
@@ -15286,7 +15286,7 @@
         "state": "used",
         "transcript": "Who will join me?"
     },
-    "vo/taunts/spy_highfive04.mp3": {
+    "sound/vo/taunts/spy_highfive04.mp3": {
         "base_name": "spy_highfive04",
         "criteria": [],
         "events": [
@@ -15298,7 +15298,7 @@
         "state": "used",
         "transcript": "Trust me."
     },
-    "vo/taunts/spy_highfive05.mp3": {
+    "sound/vo/taunts/spy_highfive05.mp3": {
         "base_name": "spy_highfive05",
         "criteria": [],
         "events": [
@@ -15310,7 +15310,7 @@
         "state": "used",
         "transcript": "This is not a trick."
     },
-    "vo/taunts/spy_highfive06.mp3": {
+    "sound/vo/taunts/spy_highfive06.mp3": {
         "base_name": "spy_highfive06",
         "criteria": [],
         "events": [
@@ -15322,7 +15322,7 @@
         "state": "used",
         "transcript": "I'm waiting."
     },
-    "vo/taunts/spy_highfive07.mp3": {
+    "sound/vo/taunts/spy_highfive07.mp3": {
         "base_name": "spy_highfive07",
         "criteria": [],
         "events": [
@@ -15339,7 +15339,7 @@
         "state": "used",
         "transcript": "Gentlemen!"
     },
-    "vo/taunts/spy_highfive08.mp3": {
+    "sound/vo/taunts/spy_highfive08.mp3": {
         "base_name": "spy_highfive08",
         "criteria": [],
         "events": [
@@ -15355,7 +15355,7 @@
         "state": "used",
         "transcript": "Who is with me?"
     },
-    "vo/taunts/spy_highfive09.mp3": {
+    "sound/vo/taunts/spy_highfive09.mp3": {
         "base_name": "spy_highfive09",
         "criteria": [],
         "events": [
@@ -15367,7 +15367,7 @@
         "state": "used",
         "transcript": "Up high!"
     },
-    "vo/taunts/spy_highfive10.mp3": {
+    "sound/vo/taunts/spy_highfive10.mp3": {
         "base_name": "spy_highfive10",
         "criteria": [],
         "events": [
@@ -15379,7 +15379,7 @@
         "state": "used",
         "transcript": "Leave me hanging and you will regret it."
     },
-    "vo/taunts/spy_highfive11.mp3": {
+    "sound/vo/taunts/spy_highfive11.mp3": {
         "base_name": "spy_highfive11",
         "criteria": [],
         "events": [
@@ -15391,7 +15391,7 @@
         "state": "used",
         "transcript": "Slap my hand."
     },
-    "vo/taunts/spy_highfive12.mp3": {
+    "sound/vo/taunts/spy_highfive12.mp3": {
         "base_name": "spy_highfive12",
         "criteria": [],
         "events": [
@@ -15403,7 +15403,7 @@
         "state": "used",
         "transcript": "Slap it now!"
     },
-    "vo/taunts/spy_highfive13.mp3": {
+    "sound/vo/taunts/spy_highfive13.mp3": {
         "base_name": "spy_highfive13",
         "criteria": [],
         "events": [
@@ -15420,7 +15420,7 @@
         "state": "used",
         "transcript": "Come on, I don't have all day."
     },
-    "vo/taunts/spy_highfive14.mp3": {
+    "sound/vo/taunts/spy_highfive14.mp3": {
         "base_name": "spy_highfive14",
         "criteria": [],
         "events": [
@@ -15437,7 +15437,7 @@
         "state": "used",
         "transcript": "Who will join me?"
     },
-    "vo/taunts/spy_highfive_success01.mp3": {
+    "sound/vo/taunts/spy_highfive_success01.mp3": {
         "base_name": "spy_highfive_success01",
         "criteria": [],
         "events": [
@@ -15454,7 +15454,7 @@
         "state": "used",
         "transcript": "Yes!"
     },
-    "vo/taunts/spy_highfive_success02.mp3": {
+    "sound/vo/taunts/spy_highfive_success02.mp3": {
         "base_name": "spy_highfive_success02",
         "criteria": [],
         "events": [
@@ -15470,7 +15470,7 @@
         "state": "used",
         "transcript": "Yes."
     },
-    "vo/taunts/spy_highfive_success03.mp3": {
+    "sound/vo/taunts/spy_highfive_success03.mp3": {
         "base_name": "spy_highfive_success03",
         "criteria": [],
         "events": [
@@ -15487,7 +15487,7 @@
         "state": "used",
         "transcript": "Mission accomplished!"
     },
-    "vo/taunts/spy_highfive_success04.mp3": {
+    "sound/vo/taunts/spy_highfive_success04.mp3": {
         "base_name": "spy_highfive_success04",
         "criteria": [],
         "events": [
@@ -15507,7 +15507,7 @@
         "state": "used",
         "transcript": "Well, the moment has passed, back to work!"
     },
-    "vo/taunts/spy_highfive_success05.mp3": {
+    "sound/vo/taunts/spy_highfive_success05.mp3": {
         "base_name": "spy_highfive_success05",
         "criteria": [],
         "events": [
@@ -15523,7 +15523,7 @@
         "state": "used",
         "transcript": "Well, the moment has passed; back to work!"
     },
-    "vo/taunts/spy_taunts01.mp3": {
+    "sound/vo/taunts/spy_taunts01.mp3": {
         "base_name": "spy_taunts01",
         "criteria": [
             [
@@ -15554,7 +15554,7 @@
         "state": "used",
         "transcript": "Promise not to bleed on my suit, and I'll kill you quickly."
     },
-    "vo/taunts/spy_taunts02.mp3": {
+    "sound/vo/taunts/spy_taunts02.mp3": {
         "base_name": "spy_taunts02",
         "criteria": [
             [
@@ -15581,7 +15581,7 @@
         "state": "used",
         "transcript": "I'm going to gut you like a Cornish game hen."
     },
-    "vo/taunts/spy_taunts03.mp3": {
+    "sound/vo/taunts/spy_taunts03.mp3": {
         "base_name": "spy_taunts03",
         "criteria": [
             [
@@ -15607,7 +15607,7 @@
         "state": "used",
         "transcript": "You are all incompetent cowards!"
     },
-    "vo/taunts/spy_taunts04.mp3": {
+    "sound/vo/taunts/spy_taunts04.mp3": {
         "base_name": "spy_taunts04",
         "criteria": [
             [
@@ -15633,7 +15633,7 @@
         "state": "used",
         "transcript": "I'll be seeeing youuu!"
     },
-    "vo/taunts/spy_taunts05.mp3": {
+    "sound/vo/taunts/spy_taunts05.mp3": {
         "base_name": "spy_taunts05",
         "criteria": [
             [
@@ -15659,7 +15659,7 @@
         "state": "used",
         "transcript": "(Spooky Whistle)"
     },
-    "vo/taunts/spy_taunts06.mp3": {
+    "sound/vo/taunts/spy_taunts06.mp3": {
         "base_name": "spy_taunts06",
         "criteria": [
             [
@@ -15691,7 +15691,7 @@
         "state": "used",
         "transcript": "Peek-a-boo!"
     },
-    "vo/taunts/spy_taunts07.mp3": {
+    "sound/vo/taunts/spy_taunts07.mp3": {
         "base_name": "spy_taunts07",
         "criteria": [
             [
@@ -15720,7 +15720,7 @@
         "state": "used",
         "transcript": "Why don't we just give up, pardner?"
     },
-    "vo/taunts/spy_taunts08.mp3": {
+    "sound/vo/taunts/spy_taunts08.mp3": {
         "base_name": "spy_taunts08",
         "criteria": [
             [
@@ -15749,7 +15749,7 @@
         "state": "used",
         "transcript": "Everyone back to the base, pardner."
     },
-    "vo/taunts/spy_taunts09.mp3": {
+    "sound/vo/taunts/spy_taunts09.mp3": {
         "base_name": "spy_taunts09",
         "criteria": [
             [
@@ -15775,7 +15775,7 @@
         "state": "used",
         "transcript": "Just lay your weapons down and walk away."
     },
-    "vo/taunts/spy_taunts10.mp3": {
+    "sound/vo/taunts/spy_taunts10.mp3": {
         "base_name": "spy_taunts10",
         "criteria": [
             [
@@ -15809,7 +15809,7 @@
         "state": "used",
         "transcript": "I'm coming for you!"
     },
-    "vo/taunts/spy_taunts11.mp3": {
+    "sound/vo/taunts/spy_taunts11.mp3": {
         "base_name": "spy_taunts11",
         "criteria": [
             [
@@ -15840,7 +15840,7 @@
         "state": "used",
         "transcript": "May I make a suggestion? Run."
     },
-    "vo/taunts/spy_taunts12.mp3": {
+    "sound/vo/taunts/spy_taunts12.mp3": {
         "base_name": "spy_taunts12",
         "criteria": [
             [
@@ -15868,7 +15868,7 @@
         "state": "used",
         "transcript": "You're all of you quite out of your depth!"
     },
-    "vo/taunts/spy_taunts13.mp3": {
+    "sound/vo/taunts/spy_taunts13.mp3": {
         "base_name": "spy_taunts13",
         "criteria": [
             [
@@ -15896,7 +15896,7 @@
         "state": "used",
         "transcript": "\"You know, hiding won't save you.\" "
     },
-    "vo/taunts/spy_taunts14.mp3": {
+    "sound/vo/taunts/spy_taunts14.mp3": {
         "base_name": "spy_taunts14",
         "criteria": [
             [
@@ -15922,7 +15922,7 @@
         "state": "used",
         "transcript": "They should call you whiners 'Dr. NOOOOOO!'"
     },
-    "vo/taunts/spy_taunts15.mp3": {
+    "sound/vo/taunts/spy_taunts15.mp3": {
         "base_name": "spy_taunts15",
         "criteria": [
             [
@@ -15958,7 +15958,7 @@
         "state": "used",
         "transcript": "You suck!"
     },
-    "vo/taunts/spy_taunts16.mp3": {
+    "sound/vo/taunts/spy_taunts16.mp3": {
         "base_name": "spy_taunts16",
         "criteria": [
             [
@@ -15984,7 +15984,7 @@
         "state": "used",
         "transcript": "This will be the last time you see me."
     },
-    "vo/toughbreak/spy_quest_complete_easy_01.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_01.mp3": {
         "base_name": "spy_quest_complete_easy_01",
         "criteria": [],
         "events": [
@@ -15996,7 +15996,7 @@
         "state": "used",
         "transcript": "Success!"
     },
-    "vo/toughbreak/spy_quest_complete_easy_02.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_02.mp3": {
         "base_name": "spy_quest_complete_easy_02",
         "criteria": [],
         "events": [
@@ -16008,7 +16008,7 @@
         "state": "used",
         "transcript": "Too easy!"
     },
-    "vo/toughbreak/spy_quest_complete_easy_03.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_03.mp3": {
         "base_name": "spy_quest_complete_easy_03",
         "criteria": [],
         "events": [
@@ -16020,7 +16020,7 @@
         "state": "used",
         "transcript": "For someone else, that might have been a challenge!"
     },
-    "vo/toughbreak/spy_quest_complete_easy_04.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_04.mp3": {
         "base_name": "spy_quest_complete_easy_04",
         "criteria": [],
         "events": [
@@ -16032,7 +16032,7 @@
         "state": "used",
         "transcript": "And it is done!"
     },
-    "vo/toughbreak/spy_quest_complete_easy_05.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_05.mp3": {
         "base_name": "spy_quest_complete_easy_05",
         "criteria": [],
         "events": [
@@ -16044,7 +16044,7 @@
         "state": "used",
         "transcript": "Another successful mission!"
     },
-    "vo/toughbreak/spy_quest_complete_easy_07.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_easy_07.mp3": {
         "base_name": "spy_quest_complete_easy_07",
         "criteria": [],
         "events": [
@@ -16056,7 +16056,7 @@
         "state": "used",
         "transcript": "Another day, another back with a gaping stab wound!"
     },
-    "vo/toughbreak/spy_quest_complete_hard_01.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_hard_01.mp3": {
         "base_name": "spy_quest_complete_hard_01",
         "criteria": [],
         "events": [
@@ -16068,7 +16068,7 @@
         "state": "used",
         "transcript": "Yes! My friend, we have done it!"
     },
-    "vo/toughbreak/spy_quest_complete_hard_02.mp3": {
+    "sound/vo/toughbreak/spy_quest_complete_hard_02.mp3": {
         "base_name": "spy_quest_complete_hard_02",
         "criteria": [],
         "events": [

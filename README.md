@@ -112,8 +112,8 @@ A brief summary of one dialogue event is as follows:
   * scenes/Player/Spy/low/3048.vcd
   * scenes/Player/Spy/low/3049.vcd
 * Let's say the first scene is chosen. The scene "scenes/Player/Spy/low/3011.vcd" performs two actions: making the Spy have an amused expression, and playing the soundscript event "Spy.DominationScout01".
-* "Spy.DominationScout01" is a soundscript event defined in game_sounds_vo.txt. This event only has one sound file it can play, "vo/spy_DominationScout01.mp3".
-* The file "vo/spy_DominationScout01.mp3" is played from the game files, which contains Spy saying "well, off to visit your mother!"
+* "Spy.DominationScout01" is a soundscript event defined in game_sounds_vo.txt. This event only has one sound file it can play, "soud/vo/spy_DominationScout01.mp3".
+* The file "sound/vo/spy_DominationScout01.mp3" is played from the game files, which contains Spy saying "well, off to visit your mother!"
 
 As you can see, while there are many steps in the process, dialogue can typically be paired to a set of criteria that trigger it. Since this line isn't used anywhere else, we can confidently say that the only way to hear the line "well, off to visit your mother!" is to get a dominating kill against a Scout as Spy. Conversely, if you were to get a dominating kill against a Scout as Spy, we know one of the possible outcomes is this line. By automating the process of teasing out the chain of rules to responses to scenes to events, we can construct a list of every voice line in the game and the exact circumstances in which they are spoken.
 

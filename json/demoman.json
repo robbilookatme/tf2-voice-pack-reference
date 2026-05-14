@@ -1,5 +1,5 @@
 {
-    "vo/burp02.mp3": {
+    "sound/vo/burp02.mp3": {
         "base_name": "burp02",
         "criteria": [
             [
@@ -24,7 +24,7 @@
         "state": "used",
         "transcript": "different"
     },
-    "vo/burp03.mp3": {
+    "sound/vo/burp03.mp3": {
         "base_name": "burp03",
         "criteria": [],
         "events": [
@@ -36,7 +36,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/burp04.mp3": {
+    "sound/vo/burp04.mp3": {
         "base_name": "burp04",
         "criteria": [
             [
@@ -63,7 +63,7 @@
         "state": "used",
         "transcript": "three"
     },
-    "vo/burp05.mp3": {
+    "sound/vo/burp05.mp3": {
         "base_name": "burp05",
         "criteria": [],
         "events": [
@@ -75,7 +75,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/burp06.mp3": {
+    "sound/vo/burp06.mp3": {
         "base_name": "burp06",
         "criteria": [
             [
@@ -100,7 +100,7 @@
         "state": "used",
         "transcript": "ways"
     },
-    "vo/burp07.mp3": {
+    "sound/vo/burp07.mp3": {
         "base_name": "burp07",
         "criteria": [],
         "events": [
@@ -112,7 +112,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/compmode/cm_demo_gamewon_01.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_01.mp3": {
         "base_name": "cm_demo_gamewon_01",
         "criteria": [
             [
@@ -137,7 +137,7 @@
         "state": "used",
         "transcript": "Oh, we won? Heh heh, I dinnae know we were playing anybody!"
     },
-    "vo/compmode/cm_demo_gamewon_02.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_02.mp3": {
         "base_name": "cm_demo_gamewon_02",
         "criteria": [
             [
@@ -162,7 +162,7 @@
         "state": "used",
         "transcript": "We won? Ha ha ha!"
     },
-    "vo/compmode/cm_demo_gamewon_03.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_03.mp3": {
         "base_name": "cm_demo_gamewon_03",
         "criteria": [
             [
@@ -187,7 +187,7 @@
         "state": "used",
         "transcript": "Bottoms up, lads!"
     },
-    "vo/compmode/cm_demo_gamewon_04.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_04.mp3": {
         "base_name": "cm_demo_gamewon_04",
         "criteria": [
             [
@@ -212,7 +212,7 @@
         "state": "used",
         "transcript": "Oh, too bloody easy!"
     },
-    "vo/compmode/cm_demo_gamewon_05.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_05.mp3": {
         "base_name": "cm_demo_gamewon_05",
         "criteria": [
             [
@@ -237,7 +237,7 @@
         "state": "used",
         "transcript": "Hah, barely broke a sweat!"
     },
-    "vo/compmode/cm_demo_gamewon_06.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_06.mp3": {
         "base_name": "cm_demo_gamewon_06",
         "criteria": [
             [
@@ -262,7 +262,7 @@
         "state": "used",
         "transcript": "Done and done!"
     },
-    "vo/compmode/cm_demo_gamewon_rare_01.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_rare_01.mp3": {
         "base_name": "cm_demo_gamewon_rare_01",
         "criteria": [
             [
@@ -287,7 +287,7 @@
         "state": "used",
         "transcript": "Ah hah! They came to a sticky end, dinnae they? That's a bomb joke."
     },
-    "vo/compmode/cm_demo_gamewon_rare_02.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_rare_02.mp3": {
         "base_name": "cm_demo_gamewon_rare_02",
         "criteria": [
             [
@@ -312,7 +312,7 @@
         "state": "used",
         "transcript": "Where was the other team during that last round? Oh, that's right, they were in bits all over the point!"
     },
-    "vo/compmode/cm_demo_gamewon_rare_03.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_rare_03.mp3": {
         "base_name": "cm_demo_gamewon_rare_03",
         "criteria": [
             [
@@ -337,7 +337,7 @@
         "state": "used",
         "transcript": "I dinnae even know we were fightin' another team! I just thought we were just testing our weapons!"
     },
-    "vo/compmode/cm_demo_gamewon_rare_04.mp3": {
+    "sound/vo/compmode/cm_demo_gamewon_rare_04.mp3": {
         "base_name": "cm_demo_gamewon_rare_04",
         "criteria": [
             [
@@ -362,7 +362,7 @@
         "state": "used",
         "transcript": "Ha ha ha! I'm a drunk and glorious man!"
     },
-    "vo/compmode/cm_demo_matchwon_01.mp3": {
+    "sound/vo/compmode/cm_demo_matchwon_01.mp3": {
         "base_name": "cm_demo_matchwon_01",
         "criteria": [
             [
@@ -387,7 +387,7 @@
         "state": "used",
         "transcript": "'Course we won! You got a bloody Demo, don't ya?"
     },
-    "vo/compmode/cm_demo_matchwon_02.mp3": {
+    "sound/vo/compmode/cm_demo_matchwon_02.mp3": {
         "base_name": "cm_demo_matchwon_02",
         "criteria": [
             [
@@ -412,7 +412,7 @@
         "state": "used",
         "transcript": "'Course we won!"
     },
-    "vo/compmode/cm_demo_matchwon_03.mp3": {
+    "sound/vo/compmode/cm_demo_matchwon_03.mp3": {
         "base_name": "cm_demo_matchwon_03",
         "criteria": [
             [
@@ -437,7 +437,7 @@
         "state": "used",
         "transcript": "Hoh hor! Was that it, then?"
     },
-    "vo/compmode/cm_demo_matchwon_04.mp3": {
+    "sound/vo/compmode/cm_demo_matchwon_04.mp3": {
         "base_name": "cm_demo_matchwon_04",
         "criteria": [
             [
@@ -462,7 +462,7 @@
         "state": "used",
         "transcript": "Are we done? I was just gettin' warmed up!"
     },
-    "vo/compmode/cm_demo_pregamefirst_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_01.mp3": {
         "base_name": "cm_demo_pregamefirst_01",
         "criteria": [
             [
@@ -497,7 +497,7 @@
         "state": "used",
         "transcript": "Push 'em back, lads!"
     },
-    "vo/compmode/cm_demo_pregamefirst_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_02.mp3": {
         "base_name": "cm_demo_pregamefirst_02",
         "criteria": [
             [
@@ -532,7 +532,7 @@
         "state": "used",
         "transcript": "Stand back and watch how it's done, lads!"
     },
-    "vo/compmode/cm_demo_pregamefirst_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_03.mp3": {
         "base_name": "cm_demo_pregamefirst_03",
         "criteria": [
             [
@@ -567,7 +567,7 @@
         "state": "used",
         "transcript": "They haven't got a chance!"
     },
-    "vo/compmode/cm_demo_pregamefirst_04.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_04.mp3": {
         "base_name": "cm_demo_pregamefirst_04",
         "criteria": [
             [
@@ -602,7 +602,7 @@
         "state": "used",
         "transcript": "If you're ready, I'm ready!"
     },
-    "vo/compmode/cm_demo_pregamefirst_6s_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_6s_01.mp3": {
         "base_name": "cm_demo_pregamefirst_6s_01",
         "criteria": [
             [
@@ -628,7 +628,7 @@
         "state": "used",
         "transcript": "I killed the bloody Loch Ness Monster! I ain't afraid of six wee men!"
     },
-    "vo/compmode/cm_demo_pregamefirst_6s_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_6s_02.mp3": {
         "base_name": "cm_demo_pregamefirst_6s_02",
         "criteria": [
             [
@@ -654,7 +654,7 @@
         "state": "used",
         "transcript": "Who's ready for a wee game of 6s?"
     },
-    "vo/compmode/cm_demo_pregamefirst_6s_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_6s_03.mp3": {
         "base_name": "cm_demo_pregamefirst_6s_03",
         "criteria": [
             [
@@ -680,7 +680,7 @@
         "state": "used",
         "transcript": "Aww, six wee baby lambs come to slaughter!"
     },
-    "vo/compmode/cm_demo_pregamefirst_comp_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_comp_01.mp3": {
         "base_name": "cm_demo_pregamefirst_comp_01",
         "criteria": [
             [
@@ -715,7 +715,7 @@
         "state": "used",
         "transcript": "Let's push 'em back to spawn, lads!"
     },
-    "vo/compmode/cm_demo_pregamefirst_comp_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_comp_02.mp3": {
         "base_name": "cm_demo_pregamefirst_comp_02",
         "criteria": [
             [
@@ -750,7 +750,7 @@
         "state": "used",
         "transcript": "Not a single one of 'em can lay a proper sticky!"
     },
-    "vo/compmode/cm_demo_pregamefirst_comp_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_comp_03.mp3": {
         "base_name": "cm_demo_pregamefirst_comp_03",
         "criteria": [
             [
@@ -785,7 +785,7 @@
         "state": "used",
         "transcript": "Lads, I watched their scrim! I think this might be a mercy killing!"
     },
-    "vo/compmode/cm_demo_pregamefirst_comp_04.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_comp_04.mp3": {
         "base_name": "cm_demo_pregamefirst_comp_04",
         "criteria": [
             [
@@ -820,7 +820,7 @@
         "state": "used",
         "transcript": "I've been saving the good scrumpy for Competitive Mode!"
     },
-    "vo/compmode/cm_demo_pregamefirst_comp_05.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_comp_05.mp3": {
         "base_name": "cm_demo_pregamefirst_comp_05",
         "criteria": [
             [
@@ -855,7 +855,7 @@
         "state": "used",
         "transcript": "This team needs all Demomen!"
     },
-    "vo/compmode/cm_demo_pregamefirst_rare_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_rare_01.mp3": {
         "base_name": "cm_demo_pregamefirst_rare_01",
         "criteria": [
             [
@@ -890,7 +890,7 @@
         "state": "used",
         "transcript": "Lads, I don't mean to worry you, but I saw their scrim earlier and they're real bloody good! Hah hah ha! Nah, they're terrible!"
     },
-    "vo/compmode/cm_demo_pregamefirst_rare_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_rare_02.mp3": {
         "base_name": "cm_demo_pregamefirst_rare_02",
         "criteria": [
             [
@@ -925,7 +925,7 @@
         "state": "used",
         "transcript": "I got a good feeling about this match, lads! Dinnae tell anyone... [sotto voce] I brought a lot of bloody bombs!"
     },
-    "vo/compmode/cm_demo_pregamefirst_rare_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamefirst_rare_03.mp3": {
         "base_name": "cm_demo_pregamefirst_rare_03",
         "criteria": [
             [
@@ -960,7 +960,7 @@
         "state": "used",
         "transcript": "I came here to kick arse and have two eyes! And I'm all out of eyes! Well, half out."
     },
-    "vo/compmode/cm_demo_pregamelostlast_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamelostlast_01.mp3": {
         "base_name": "cm_demo_pregamelostlast_01",
         "criteria": [
             [
@@ -987,7 +987,7 @@
         "state": "used",
         "transcript": "The losing ends here, people!"
     },
-    "vo/compmode/cm_demo_pregamelostlast_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamelostlast_02.mp3": {
         "base_name": "cm_demo_pregamelostlast_02",
         "criteria": [
             [
@@ -1014,7 +1014,7 @@
         "state": "used",
         "transcript": "Dinnae worry, lads, we're turning this tide now!"
     },
-    "vo/compmode/cm_demo_pregamelostlast_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamelostlast_03.mp3": {
         "base_name": "cm_demo_pregamelostlast_03",
         "criteria": [
             [
@@ -1041,7 +1041,7 @@
         "state": "used",
         "transcript": "Alright, no more foolin' around! Let's win this one!"
     },
-    "vo/compmode/cm_demo_pregamelostlast_04.mp3": {
+    "sound/vo/compmode/cm_demo_pregamelostlast_04.mp3": {
         "base_name": "cm_demo_pregamelostlast_04",
         "criteria": [
             [
@@ -1068,7 +1068,7 @@
         "state": "used",
         "transcript": "I've a bomb with each and every one of their names on it!"
     },
-    "vo/compmode/cm_demo_pregamelostlast_rare_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamelostlast_rare_01.mp3": {
         "base_name": "cm_demo_pregamelostlast_rare_01",
         "criteria": [
             [
@@ -1095,7 +1095,7 @@
         "state": "used",
         "transcript": "Did we win or lose that last one? Eh, either way, it deserves a drink!"
     },
-    "vo/compmode/cm_demo_pregametie_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregametie_01.mp3": {
         "base_name": "cm_demo_pregametie_01",
         "criteria": [
             [
@@ -1121,7 +1121,7 @@
         "state": "used",
         "transcript": "Let's finish this, lads!"
     },
-    "vo/compmode/cm_demo_pregametie_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregametie_02.mp3": {
         "base_name": "cm_demo_pregametie_02",
         "criteria": [
             [
@@ -1147,7 +1147,7 @@
         "state": "used",
         "transcript": "Time to pull ahead, boys!"
     },
-    "vo/compmode/cm_demo_pregametie_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregametie_03.mp3": {
         "base_name": "cm_demo_pregametie_03",
         "criteria": [
             [
@@ -1173,7 +1173,7 @@
         "state": "used",
         "transcript": "Oh, it's a tie, is it? We'll see about that!"
     },
-    "vo/compmode/cm_demo_pregametie_04.mp3": {
+    "sound/vo/compmode/cm_demo_pregametie_04.mp3": {
         "base_name": "cm_demo_pregametie_04",
         "criteria": [
             [
@@ -1199,7 +1199,7 @@
         "state": "used",
         "transcript": "Time to break the tie, lads!"
     },
-    "vo/compmode/cm_demo_pregamewonlast_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamewonlast_01.mp3": {
         "base_name": "cm_demo_pregamewonlast_01",
         "criteria": [
             [
@@ -1225,7 +1225,7 @@
         "state": "used",
         "transcript": "Keep it up, lads!"
     },
-    "vo/compmode/cm_demo_pregamewonlast_02.mp3": {
+    "sound/vo/compmode/cm_demo_pregamewonlast_02.mp3": {
         "base_name": "cm_demo_pregamewonlast_02",
         "criteria": [
             [
@@ -1251,7 +1251,7 @@
         "state": "used",
         "transcript": "Ha ha ha! We've got 'em on the run!"
     },
-    "vo/compmode/cm_demo_pregamewonlast_03.mp3": {
+    "sound/vo/compmode/cm_demo_pregamewonlast_03.mp3": {
         "base_name": "cm_demo_pregamewonlast_03",
         "criteria": [
             [
@@ -1277,7 +1277,7 @@
         "state": "used",
         "transcript": "Bear down, lads! Let's finish it!"
     },
-    "vo/compmode/cm_demo_pregamewonlast_04.mp3": {
+    "sound/vo/compmode/cm_demo_pregamewonlast_04.mp3": {
         "base_name": "cm_demo_pregamewonlast_04",
         "criteria": [
             [
@@ -1303,7 +1303,7 @@
         "state": "used",
         "transcript": "Oh, I'm ready, lad! Let's go cause some more trouble!"
     },
-    "vo/compmode/cm_demo_pregamewonlast_rare_01.mp3": {
+    "sound/vo/compmode/cm_demo_pregamewonlast_rare_01.mp3": {
         "base_name": "cm_demo_pregamewonlast_rare_01",
         "criteria": [
             [
@@ -1329,7 +1329,7 @@
         "state": "used",
         "transcript": "Let's give 'em a sportin' chance! Someone, take out me other eye!"
     },
-    "vo/compmode/cm_demo_rankup_01.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_01.mp3": {
         "base_name": "cm_demo_rankup_01",
         "criteria": [],
         "events": [
@@ -1341,7 +1341,7 @@
         "state": "used",
         "transcript": "Rank up!"
     },
-    "vo/compmode/cm_demo_rankup_02.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_02.mp3": {
         "base_name": "cm_demo_rankup_02",
         "criteria": [],
         "events": [
@@ -1353,7 +1353,7 @@
         "state": "used",
         "transcript": "Aye, we've ranked up!"
     },
-    "vo/compmode/cm_demo_rankup_03.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_03.mp3": {
         "base_name": "cm_demo_rankup_03",
         "criteria": [],
         "events": [
@@ -1365,7 +1365,7 @@
         "state": "used",
         "transcript": "Well done, lad!"
     },
-    "vo/compmode/cm_demo_rankup_04.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_04.mp3": {
         "base_name": "cm_demo_rankup_04",
         "criteria": [],
         "events": [
@@ -1377,7 +1377,7 @@
         "state": "used",
         "transcript": "Oh, a wee promotion? Don't mind if I do!"
     },
-    "vo/compmode/cm_demo_rankup_05.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_05.mp3": {
         "base_name": "cm_demo_rankup_05",
         "criteria": [],
         "events": [
@@ -1389,7 +1389,7 @@
         "state": "used",
         "transcript": "Ha ha ha! Rank up!"
     },
-    "vo/compmode/cm_demo_rankup_06.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_06.mp3": {
         "base_name": "cm_demo_rankup_06",
         "criteria": [],
         "events": [
@@ -1401,7 +1401,7 @@
         "state": "used",
         "transcript": "Ha ha! I love ranking up!"
     },
-    "vo/compmode/cm_demo_rankup_07.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_07.mp3": {
         "base_name": "cm_demo_rankup_07",
         "criteria": [],
         "events": [
@@ -1413,7 +1413,7 @@
         "state": "used",
         "transcript": "Ho hah! Oh, I could rank up all day!"
     },
-    "vo/compmode/cm_demo_rankup_08.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_08.mp3": {
         "base_name": "cm_demo_rankup_08",
         "criteria": [],
         "events": [
@@ -1425,7 +1425,7 @@
         "state": "used",
         "transcript": "Ho! A wee rank up!"
     },
-    "vo/compmode/cm_demo_rankup_09.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_09.mp3": {
         "base_name": "cm_demo_rankup_09",
         "criteria": [],
         "events": [
@@ -1437,7 +1437,7 @@
         "state": "used",
         "transcript": "Oh! Now we're getting noticed!"
     },
-    "vo/compmode/cm_demo_rankup_10.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_10.mp3": {
         "base_name": "cm_demo_rankup_10",
         "criteria": [],
         "events": [
@@ -1449,7 +1449,7 @@
         "state": "used",
         "transcript": "What rank up gets me eye back, do you think?"
     },
-    "vo/compmode/cm_demo_rankup_highest_01.mp3": {
+    "sound/vo/compmode/cm_demo_rankup_highest_01.mp3": {
         "base_name": "cm_demo_rankup_highest_01",
         "criteria": [],
         "events": [
@@ -1461,7 +1461,7 @@
         "state": "used",
         "transcript": "Remember, lad, it wasn't the easy matches that got you here, it was the bloody impossible ones!"
     },
-    "vo/compmode/cm_demo_summary_callout_01.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_01.mp3": {
         "base_name": "cm_demo_summary_callout_01",
         "criteria": [],
         "events": [
@@ -1474,7 +1474,7 @@
         "state": "used",
         "transcript": "You did good!"
     },
-    "vo/compmode/cm_demo_summary_callout_02.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_02.mp3": {
         "base_name": "cm_demo_summary_callout_02",
         "criteria": [],
         "events": [
@@ -1487,7 +1487,7 @@
         "state": "used",
         "transcript": "Nice work, lad!"
     },
-    "vo/compmode/cm_demo_summary_callout_03.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_03.mp3": {
         "base_name": "cm_demo_summary_callout_03",
         "criteria": [],
         "events": [
@@ -1500,7 +1500,7 @@
         "state": "used",
         "transcript": "I'm bloody proud of ya!"
     },
-    "vo/compmode/cm_demo_summary_callout_04.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_04.mp3": {
         "base_name": "cm_demo_summary_callout_04",
         "criteria": [],
         "events": [
@@ -1513,7 +1513,7 @@
         "state": "used",
         "transcript": "Well done, boyo!"
     },
-    "vo/compmode/cm_demo_summary_callout_05.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_05.mp3": {
         "base_name": "cm_demo_summary_callout_05",
         "criteria": [],
         "events": [
@@ -1526,7 +1526,7 @@
         "state": "used",
         "transcript": "Ack, I knew you could do it!"
     },
-    "vo/compmode/cm_demo_summary_callout_06.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_06.mp3": {
         "base_name": "cm_demo_summary_callout_06",
         "criteria": [],
         "events": [
@@ -1539,7 +1539,7 @@
         "state": "used",
         "transcript": "Ha ha ha! We did it, lads!"
     },
-    "vo/compmode/cm_demo_summary_callout_07.mp3": {
+    "sound/vo/compmode/cm_demo_summary_callout_07.mp3": {
         "base_name": "cm_demo_summary_callout_07",
         "criteria": [],
         "events": [
@@ -1552,7 +1552,7 @@
         "state": "used",
         "transcript": "We did it, lad! Ha ha ha ha ha!"
     },
-    "vo/demoman_activatecharge01.mp3": {
+    "sound/vo/demoman_activatecharge01.mp3": {
         "base_name": "demoman_activatecharge01",
         "criteria": [
             [
@@ -1575,7 +1575,7 @@
         "state": "used",
         "transcript": "Hit it, doc!"
     },
-    "vo/demoman_activatecharge02.mp3": {
+    "sound/vo/demoman_activatecharge02.mp3": {
         "base_name": "demoman_activatecharge02",
         "criteria": [
             [
@@ -1598,7 +1598,7 @@
         "state": "used",
         "transcript": "Charge it, doc!"
     },
-    "vo/demoman_activatecharge03.mp3": {
+    "sound/vo/demoman_activatecharge03.mp3": {
         "base_name": "demoman_activatecharge03",
         "criteria": [
             [
@@ -1621,7 +1621,7 @@
         "state": "used",
         "transcript": "Go on then, doc!"
     },
-    "vo/demoman_autocappedcontrolpoint01.mp3": {
+    "sound/vo/demoman_autocappedcontrolpoint01.mp3": {
         "base_name": "demoman_autocappedcontrolpoint01",
         "criteria": [
             [
@@ -1644,7 +1644,7 @@
         "state": "used",
         "transcript": "Keep it up, lads!"
     },
-    "vo/demoman_autocappedcontrolpoint02.mp3": {
+    "sound/vo/demoman_autocappedcontrolpoint02.mp3": {
         "base_name": "demoman_autocappedcontrolpoint02",
         "criteria": [
             [
@@ -1679,7 +1679,7 @@
         "state": "used",
         "transcript": "Guts and glory, lads!"
     },
-    "vo/demoman_autocappedcontrolpoint03.mp3": {
+    "sound/vo/demoman_autocappedcontrolpoint03.mp3": {
         "base_name": "demoman_autocappedcontrolpoint03",
         "criteria": [
             [
@@ -1705,7 +1705,7 @@
         "state": "used",
         "transcript": "Now it's our flippin' point, hehah!"
     },
-    "vo/demoman_autocappedintelligence01.mp3": {
+    "sound/vo/demoman_autocappedintelligence01.mp3": {
         "base_name": "demoman_autocappedintelligence01",
         "criteria": [
             [
@@ -1737,7 +1737,7 @@
         "state": "used",
         "transcript": "Aye, that's the way ye do it! Hehah!"
     },
-    "vo/demoman_autocappedintelligence02.mp3": {
+    "sound/vo/demoman_autocappedintelligence02.mp3": {
         "base_name": "demoman_autocappedintelligence02",
         "criteria": [
             [
@@ -1769,7 +1769,7 @@
         "state": "used",
         "transcript": "Time to get bluttered!"
     },
-    "vo/demoman_autocappedintelligence03.mp3": {
+    "sound/vo/demoman_autocappedintelligence03.mp3": {
         "base_name": "demoman_autocappedintelligence03",
         "criteria": [
             [
@@ -1831,7 +1831,7 @@
         "state": "used",
         "transcript": "That'll teach 'em!"
     },
-    "vo/demoman_autodejectedtie01.mp3": {
+    "sound/vo/demoman_autodejectedtie01.mp3": {
         "base_name": "demoman_autodejectedtie01",
         "criteria": [
             [
@@ -1854,7 +1854,7 @@
         "state": "used",
         "transcript": "That wasn't supposed ta' happen!"
     },
-    "vo/demoman_autodejectedtie02.mp3": {
+    "sound/vo/demoman_autodejectedtie02.mp3": {
         "base_name": "demoman_autodejectedtie02",
         "criteria": [
             [
@@ -1877,7 +1877,7 @@
         "state": "used",
         "transcript": "Aye, what just happened?"
     },
-    "vo/demoman_autodejectedtie03.mp3": {
+    "sound/vo/demoman_autodejectedtie03.mp3": {
         "base_name": "demoman_autodejectedtie03",
         "criteria": [
             [
@@ -1909,7 +1909,7 @@
         "state": "used",
         "transcript": "Ugggghhh..."
     },
-    "vo/demoman_autodejectedtie04.mp3": {
+    "sound/vo/demoman_autodejectedtie04.mp3": {
         "base_name": "demoman_autodejectedtie04",
         "criteria": [
             [
@@ -1934,7 +1934,7 @@
         "state": "used",
         "transcript": "Ya' bleedin' idiots!"
     },
-    "vo/demoman_autoonfire01.mp3": {
+    "sound/vo/demoman_autoonfire01.mp3": {
         "base_name": "demoman_autoonfire01",
         "criteria": [
             [
@@ -1960,7 +1960,7 @@
         "state": "used",
         "transcript": "Fire, fire, fire!"
     },
-    "vo/demoman_autoonfire02.mp3": {
+    "sound/vo/demoman_autoonfire02.mp3": {
         "base_name": "demoman_autoonfire02",
         "criteria": [
             [
@@ -1987,7 +1987,7 @@
         "state": "used",
         "transcript": "I'm burnin'!"
     },
-    "vo/demoman_autoonfire03.mp3": {
+    "sound/vo/demoman_autoonfire03.mp3": {
         "base_name": "demoman_autoonfire03",
         "criteria": [
             [
@@ -2013,7 +2013,7 @@
         "state": "used",
         "transcript": "FIIIIREEEEEEEEE!"
     },
-    "vo/demoman_battlecry01.mp3": {
+    "sound/vo/demoman_battlecry01.mp3": {
         "base_name": "demoman_battlecry01",
         "criteria": [
             [
@@ -2048,7 +2048,7 @@
         "state": "used",
         "transcript": "Freeeedooooom!"
     },
-    "vo/demoman_battlecry02.mp3": {
+    "sound/vo/demoman_battlecry02.mp3": {
         "base_name": "demoman_battlecry02",
         "criteria": [
             [
@@ -2083,7 +2083,7 @@
         "state": "used",
         "transcript": "Have at 'em, lads!"
     },
-    "vo/demoman_battlecry03.mp3": {
+    "sound/vo/demoman_battlecry03.mp3": {
         "base_name": "demoman_battlecry03",
         "criteria": [
             [
@@ -2121,7 +2121,7 @@
         "state": "used",
         "transcript": "Get 'am, boyos!"
     },
-    "vo/demoman_battlecry04.mp3": {
+    "sound/vo/demoman_battlecry04.mp3": {
         "base_name": "demoman_battlecry04",
         "criteria": [
             [
@@ -2156,7 +2156,7 @@
         "state": "used",
         "transcript": "Kill 'em aall!"
     },
-    "vo/demoman_battlecry05.mp3": {
+    "sound/vo/demoman_battlecry05.mp3": {
         "base_name": "demoman_battlecry05",
         "criteria": [
             [
@@ -2193,7 +2193,7 @@
         "state": "used",
         "transcript": "Leeeeet's, do iiiiit!"
     },
-    "vo/demoman_battlecry06.mp3": {
+    "sound/vo/demoman_battlecry06.mp3": {
         "base_name": "demoman_battlecry06",
         "criteria": [
             [
@@ -2227,7 +2227,7 @@
         "state": "used",
         "transcript": "Aigheaght's the way to do it!"
     },
-    "vo/demoman_battlecry07.mp3": {
+    "sound/vo/demoman_battlecry07.mp3": {
         "base_name": "demoman_battlecry07",
         "criteria": [
             [
@@ -2265,7 +2265,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/demoman_cartgoingbackdefense01.mp3": {
+    "sound/vo/demoman_cartgoingbackdefense01.mp3": {
         "base_name": "demoman_cartgoingbackdefense01",
         "criteria": [
             [
@@ -2293,7 +2293,7 @@
         "state": "used",
         "transcript": "Roll back to Hell, ya bloody cart!"
     },
-    "vo/demoman_cartgoingbackdefense02.mp3": {
+    "sound/vo/demoman_cartgoingbackdefense02.mp3": {
         "base_name": "demoman_cartgoingbackdefense02",
         "criteria": [
             [
@@ -2321,7 +2321,7 @@
         "state": "used",
         "transcript": "Back ya bloody go!"
     },
-    "vo/demoman_cartgoingbackdefense03.mp3": {
+    "sound/vo/demoman_cartgoingbackdefense03.mp3": {
         "base_name": "demoman_cartgoingbackdefense03",
         "criteria": [
             [
@@ -2349,7 +2349,7 @@
         "state": "used",
         "transcript": "It's rolling back!"
     },
-    "vo/demoman_cartgoingbackoffense01.mp3": {
+    "sound/vo/demoman_cartgoingbackoffense01.mp3": {
         "base_name": "demoman_cartgoingbackoffense01",
         "criteria": [
             [
@@ -2377,7 +2377,7 @@
         "state": "used",
         "transcript": "The cart's moving back!"
     },
-    "vo/demoman_cartgoingbackoffense02.mp3": {
+    "sound/vo/demoman_cartgoingbackoffense02.mp3": {
         "base_name": "demoman_cartgoingbackoffense02",
         "criteria": [
             [
@@ -2405,7 +2405,7 @@
         "state": "used",
         "transcript": "It's rolling bloody back!"
     },
-    "vo/demoman_cartgoingbackoffense03.mp3": {
+    "sound/vo/demoman_cartgoingbackoffense03.mp3": {
         "base_name": "demoman_cartgoingbackoffense03",
         "criteria": [
             [
@@ -2433,7 +2433,7 @@
         "state": "used",
         "transcript": "Mind the cart, lads!"
     },
-    "vo/demoman_cartgoingbackoffense04.mp3": {
+    "sound/vo/demoman_cartgoingbackoffense04.mp3": {
         "base_name": "demoman_cartgoingbackoffense04",
         "criteria": [
             [
@@ -2461,7 +2461,7 @@
         "state": "used",
         "transcript": "The cart's moving back, lads!"
     },
-    "vo/demoman_cartgoingforwarddefense01.mp3": {
+    "sound/vo/demoman_cartgoingforwarddefense01.mp3": {
         "base_name": "demoman_cartgoingforwarddefense01",
         "criteria": [
             [
@@ -2489,7 +2489,7 @@
         "state": "used",
         "transcript": "Stop that bloody cart!"
     },
-    "vo/demoman_cartgoingforwarddefense02.mp3": {
+    "sound/vo/demoman_cartgoingforwarddefense02.mp3": {
         "base_name": "demoman_cartgoingforwarddefense02",
         "criteria": [
             [
@@ -2517,7 +2517,7 @@
         "state": "used",
         "transcript": "Stop that cart, lads!"
     },
-    "vo/demoman_cartgoingforwardoffense01.mp3": {
+    "sound/vo/demoman_cartgoingforwardoffense01.mp3": {
         "base_name": "demoman_cartgoingforwardoffense01",
         "criteria": [
             [
@@ -2545,7 +2545,7 @@
         "state": "used",
         "transcript": "Go! Push!"
     },
-    "vo/demoman_cartgoingforwardoffense02.mp3": {
+    "sound/vo/demoman_cartgoingforwardoffense02.mp3": {
         "base_name": "demoman_cartgoingforwardoffense02",
         "criteria": [
             [
@@ -2573,7 +2573,7 @@
         "state": "used",
         "transcript": "Put yer backs into it, lads!"
     },
-    "vo/demoman_cartgoingforwardoffense03.mp3": {
+    "sound/vo/demoman_cartgoingforwardoffense03.mp3": {
         "base_name": "demoman_cartgoingforwardoffense03",
         "criteria": [
             [
@@ -2601,7 +2601,7 @@
         "state": "used",
         "transcript": "Push!"
     },
-    "vo/demoman_cartgoingforwardoffense04.mp3": {
+    "sound/vo/demoman_cartgoingforwardoffense04.mp3": {
         "base_name": "demoman_cartgoingforwardoffense04",
         "criteria": [
             [
@@ -2629,7 +2629,7 @@
         "state": "used",
         "transcript": "Push, lads!"
     },
-    "vo/demoman_cartgoingforwardoffense05.mp3": {
+    "sound/vo/demoman_cartgoingforwardoffense05.mp3": {
         "base_name": "demoman_cartgoingforwardoffense05",
         "criteria": [
             [
@@ -2657,7 +2657,7 @@
         "state": "used",
         "transcript": "Mush, lads!"
     },
-    "vo/demoman_cartstaycloseoffense01.mp3": {
+    "sound/vo/demoman_cartstaycloseoffense01.mp3": {
         "base_name": "demoman_cartstaycloseoffense01",
         "criteria": [
             [
@@ -2685,7 +2685,7 @@
         "state": "used",
         "transcript": "Get to the cart!"
     },
-    "vo/demoman_cartstaycloseoffense02.mp3": {
+    "sound/vo/demoman_cartstaycloseoffense02.mp3": {
         "base_name": "demoman_cartstaycloseoffense02",
         "criteria": [
             [
@@ -2713,7 +2713,7 @@
         "state": "used",
         "transcript": "Stay close to that bloody cart!"
     },
-    "vo/demoman_cartstaycloseoffense03.mp3": {
+    "sound/vo/demoman_cartstaycloseoffense03.mp3": {
         "base_name": "demoman_cartstaycloseoffense03",
         "criteria": [
             [
@@ -2741,7 +2741,7 @@
         "state": "used",
         "transcript": "Lads! Get to the cart!"
     },
-    "vo/demoman_cartstoppedoffense01.mp3": {
+    "sound/vo/demoman_cartstoppedoffense01.mp3": {
         "base_name": "demoman_cartstoppedoffense01",
         "criteria": [
             [
@@ -2769,7 +2769,7 @@
         "state": "used",
         "transcript": "The bloody cart's not moving!"
     },
-    "vo/demoman_cartstoppedoffense02.mp3": {
+    "sound/vo/demoman_cartstoppedoffense02.mp3": {
         "base_name": "demoman_cartstoppedoffense02",
         "criteria": [
             [
@@ -2797,7 +2797,7 @@
         "state": "used",
         "transcript": "The cart is bloody stopped!"
     },
-    "vo/demoman_cartstoppedoffense03.mp3": {
+    "sound/vo/demoman_cartstoppedoffense03.mp3": {
         "base_name": "demoman_cartstoppedoffense03",
         "criteria": [
             [
@@ -2825,7 +2825,7 @@
         "state": "used",
         "transcript": "The cart's not moving, lads!"
     },
-    "vo/demoman_cheers01.mp3": {
+    "sound/vo/demoman_cheers01.mp3": {
         "base_name": "demoman_cheers01",
         "criteria": [
             [
@@ -2848,7 +2848,7 @@
         "state": "used",
         "transcript": "We, did it..."
     },
-    "vo/demoman_cheers02.mp3": {
+    "sound/vo/demoman_cheers02.mp3": {
         "base_name": "demoman_cheers02",
         "criteria": [
             [
@@ -2871,7 +2871,7 @@
         "state": "used",
         "transcript": "I love... every... single... one of ye... not you."
     },
-    "vo/demoman_cheers03.mp3": {
+    "sound/vo/demoman_cheers03.mp3": {
         "base_name": "demoman_cheers03",
         "criteria": [
             [
@@ -2901,7 +2901,7 @@
         "state": "used",
         "transcript": "Imagine if I hadn't been drunk!"
     },
-    "vo/demoman_cheers04.mp3": {
+    "sound/vo/demoman_cheers04.mp3": {
         "base_name": "demoman_cheers04",
         "criteria": [
             [
@@ -2924,7 +2924,7 @@
         "state": "used",
         "transcript": "We did it, hehah!"
     },
-    "vo/demoman_cheers05.mp3": {
+    "sound/vo/demoman_cheers05.mp3": {
         "base_name": "demoman_cheers05",
         "criteria": [
             [
@@ -2956,7 +2956,7 @@
         "state": "used",
         "transcript": "See? I told ye they were a buncha' wee lasses!"
     },
-    "vo/demoman_cheers06.mp3": {
+    "sound/vo/demoman_cheers06.mp3": {
         "base_name": "demoman_cheers06",
         "criteria": [
             [
@@ -2986,7 +2986,7 @@
         "state": "used",
         "transcript": "I don't think they saw that one comin'!"
     },
-    "vo/demoman_cheers07.mp3": {
+    "sound/vo/demoman_cheers07.mp3": {
         "base_name": "demoman_cheers07",
         "criteria": [
             [
@@ -3009,7 +3009,7 @@
         "state": "used",
         "transcript": "If I wasn' the man I was I'd kiss ye!"
     },
-    "vo/demoman_cheers08.mp3": {
+    "sound/vo/demoman_cheers08.mp3": {
         "base_name": "demoman_cheers08",
         "criteria": [
             [
@@ -3032,7 +3032,7 @@
         "state": "used",
         "transcript": "It's a fine thing, lads, heheh."
     },
-    "vo/demoman_cloakedspy01.mp3": {
+    "sound/vo/demoman_cloakedspy01.mp3": {
         "base_name": "demoman_cloakedspy01",
         "criteria": [
             [
@@ -3055,7 +3055,7 @@
         "state": "used",
         "transcript": "Bloody SPY!"
     },
-    "vo/demoman_cloakedspy02.mp3": {
+    "sound/vo/demoman_cloakedspy02.mp3": {
         "base_name": "demoman_cloakedspy02",
         "criteria": [
             [
@@ -3078,7 +3078,7 @@
         "state": "used",
         "transcript": "Spy around here!"
     },
-    "vo/demoman_cloakedspy03.mp3": {
+    "sound/vo/demoman_cloakedspy03.mp3": {
         "base_name": "demoman_cloakedspy03",
         "criteria": [
             [
@@ -3101,7 +3101,7 @@
         "state": "used",
         "transcript": "SPY!"
     },
-    "vo/demoman_cloakedspyidentify01.mp3": {
+    "sound/vo/demoman_cloakedspyidentify01.mp3": {
         "base_name": "demoman_cloakedspyidentify01",
         "criteria": [
             [
@@ -3125,7 +3125,7 @@
         "state": "used",
         "transcript": "That Scout's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify02.mp3": {
+    "sound/vo/demoman_cloakedspyidentify02.mp3": {
         "base_name": "demoman_cloakedspyidentify02",
         "criteria": [
             [
@@ -3149,7 +3149,7 @@
         "state": "used",
         "transcript": "That Soldier's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify03.mp3": {
+    "sound/vo/demoman_cloakedspyidentify03.mp3": {
         "base_name": "demoman_cloakedspyidentify03",
         "criteria": [
             [
@@ -3173,7 +3173,7 @@
         "state": "used",
         "transcript": "That Heavy's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify04.mp3": {
+    "sound/vo/demoman_cloakedspyidentify04.mp3": {
         "base_name": "demoman_cloakedspyidentify04",
         "criteria": [
             [
@@ -3197,7 +3197,7 @@
         "state": "used",
         "transcript": "That Demo's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify05.mp3": {
+    "sound/vo/demoman_cloakedspyidentify05.mp3": {
         "base_name": "demoman_cloakedspyidentify05",
         "criteria": [
             [
@@ -3221,7 +3221,7 @@
         "state": "used",
         "transcript": "That Spy's a bloody traitor!"
     },
-    "vo/demoman_cloakedspyidentify06.mp3": {
+    "sound/vo/demoman_cloakedspyidentify06.mp3": {
         "base_name": "demoman_cloakedspyidentify06",
         "criteria": [
             [
@@ -3245,7 +3245,7 @@
         "state": "used",
         "transcript": "That Medic's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify07.mp3": {
+    "sound/vo/demoman_cloakedspyidentify07.mp3": {
         "base_name": "demoman_cloakedspyidentify07",
         "criteria": [
             [
@@ -3269,7 +3269,7 @@
         "state": "used",
         "transcript": "The Engineer's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify08.mp3": {
+    "sound/vo/demoman_cloakedspyidentify08.mp3": {
         "base_name": "demoman_cloakedspyidentify08",
         "criteria": [
             [
@@ -3293,7 +3293,7 @@
         "state": "used",
         "transcript": "That Sniper's a bloody Spy!"
     },
-    "vo/demoman_cloakedspyidentify09.mp3": {
+    "sound/vo/demoman_cloakedspyidentify09.mp3": {
         "base_name": "demoman_cloakedspyidentify09",
         "criteria": [
             [
@@ -3317,7 +3317,7 @@
         "state": "used",
         "transcript": "That Pyro's a bloody Spy!"
     },
-    "vo/demoman_dominationdemoman01.mp3": {
+    "sound/vo/demoman_dominationdemoman01.mp3": {
         "base_name": "demoman_dominationdemoman01",
         "criteria": [
             [
@@ -3344,7 +3344,7 @@
         "state": "used",
         "transcript": "Thus begins my thousand year reign of blood!"
     },
-    "vo/demoman_dominationdemoman02.mp3": {
+    "sound/vo/demoman_dominationdemoman02.mp3": {
         "base_name": "demoman_dominationdemoman02",
         "criteria": [
             [
@@ -3371,7 +3371,7 @@
         "state": "used",
         "transcript": "DOMINATED! I feel everything! I know everything!"
     },
-    "vo/demoman_dominationdemoman03.mp3": {
+    "sound/vo/demoman_dominationdemoman03.mp3": {
         "base_name": "demoman_dominationdemoman03",
         "criteria": [
             [
@@ -3398,7 +3398,7 @@
         "state": "used",
         "transcript": "It is the Dominatening!"
     },
-    "vo/demoman_dominationdemoman04.mp3": {
+    "sound/vo/demoman_dominationdemoman04.mp3": {
         "base_name": "demoman_dominationdemoman04",
         "criteria": [
             [
@@ -3425,7 +3425,7 @@
         "state": "used",
         "transcript": "Welcome to the Dominatening!"
     },
-    "vo/demoman_dominationengineer01.mp3": {
+    "sound/vo/demoman_dominationengineer01.mp3": {
         "base_name": "demoman_dominationengineer01",
         "criteria": [
             [
@@ -3452,7 +3452,7 @@
         "state": "used",
         "transcript": "Don't hide behind yer toys, lad!"
     },
-    "vo/demoman_dominationengineer02.mp3": {
+    "sound/vo/demoman_dominationengineer02.mp3": {
         "base_name": "demoman_dominationengineer02",
         "criteria": [
             [
@@ -3479,7 +3479,7 @@
         "state": "used",
         "transcript": "You're weak. I'm strong. And I win, toymaker!"
     },
-    "vo/demoman_dominationengineer03.mp3": {
+    "sound/vo/demoman_dominationengineer03.mp3": {
         "base_name": "demoman_dominationengineer03",
         "criteria": [
             [
@@ -3506,7 +3506,7 @@
         "state": "used",
         "transcript": "That's a right pretty bra-washer ya built, ya big ugly girl!"
     },
-    "vo/demoman_dominationengineer04.mp3": {
+    "sound/vo/demoman_dominationengineer04.mp3": {
         "base_name": "demoman_dominationengineer04",
         "criteria": [
             [
@@ -3533,7 +3533,7 @@
         "state": "used",
         "transcript": "You come wide at me again, boy, I'll stick that wrench right up yer arse!"
     },
-    "vo/demoman_dominationengineer05.mp3": {
+    "sound/vo/demoman_dominationengineer05.mp3": {
         "base_name": "demoman_dominationengineer05",
         "criteria": [
             [
@@ -3560,7 +3560,7 @@
         "state": "used",
         "transcript": "Go on and build more o' yer little guns. I'll shove every one of them up yer arse!"
     },
-    "vo/demoman_dominationengineer06.mp3": {
+    "sound/vo/demoman_dominationengineer06.mp3": {
         "base_name": "demoman_dominationengineer06",
         "criteria": [
             [
@@ -3587,7 +3587,7 @@
         "state": "used",
         "transcript": "If you were huntin' trouble, lad, ya found it."
     },
-    "vo/demoman_dominationheavy01.mp3": {
+    "sound/vo/demoman_dominationheavy01.mp3": {
         "base_name": "demoman_dominationheavy01",
         "criteria": [
             [
@@ -3614,7 +3614,7 @@
         "state": "used",
         "transcript": "Dominated, ya grease-drippin' pork pie!"
     },
-    "vo/demoman_dominationheavy02.mp3": {
+    "sound/vo/demoman_dominationheavy02.mp3": {
         "base_name": "demoman_dominationheavy02",
         "criteria": [
             [
@@ -3641,7 +3641,7 @@
         "state": "used",
         "transcript": "Ohhh... There's a new gravy-filled angel in heaven."
     },
-    "vo/demoman_dominationheavy03.mp3": {
+    "sound/vo/demoman_dominationheavy03.mp3": {
         "base_name": "demoman_dominationheavy03",
         "criteria": [
             [
@@ -3668,7 +3668,7 @@
         "state": "used",
         "transcript": "Dominated, ya blubbery Bolshevik!"
     },
-    "vo/demoman_dominationheavy04.mp3": {
+    "sound/vo/demoman_dominationheavy04.mp3": {
         "base_name": "demoman_dominationheavy04",
         "criteria": [
             [
@@ -3695,7 +3695,7 @@
         "state": "used",
         "transcript": "Awww.... There's a new angel in heaven... IN HELL!"
     },
-    "vo/demoman_dominationheavy05.mp3": {
+    "sound/vo/demoman_dominationheavy05.mp3": {
         "base_name": "demoman_dominationheavy05",
         "criteria": [
             [
@@ -3722,7 +3722,7 @@
         "state": "used",
         "transcript": "Little too much caber-tossin' pie down yer own throat, eh, chubby?"
     },
-    "vo/demoman_dominationmedic01.mp3": {
+    "sound/vo/demoman_dominationmedic01.mp3": {
         "base_name": "demoman_dominationmedic01",
         "criteria": [
             [
@@ -3749,7 +3749,7 @@
         "state": "used",
         "transcript": "Dominated, ya Teutonic nursemai-\" (belches) \"Ahh... hah."
     },
-    "vo/demoman_dominationmedic02.mp3": {
+    "sound/vo/demoman_dominationmedic02.mp3": {
         "base_name": "demoman_dominationmedic02",
         "criteria": [
             [
@@ -3776,7 +3776,7 @@
         "state": "used",
         "transcript": "How's that doin' no harm workin' out for ya, then?"
     },
-    "vo/demoman_dominationmedic03.mp3": {
+    "sound/vo/demoman_dominationmedic03.mp3": {
         "base_name": "demoman_dominationmedic03",
         "criteria": [
             [
@@ -3803,7 +3803,7 @@
         "state": "used",
         "transcript": "Dominated! ...And I've been shaggin' yer wife! Hahah!"
     },
-    "vo/demoman_dominationmedic04.mp3": {
+    "sound/vo/demoman_dominationmedic04.mp3": {
         "base_name": "demoman_dominationmedic04",
         "criteria": [
             [
@@ -3830,7 +3830,7 @@
         "state": "used",
         "transcript": "I dominate ya, Sawbones!"
     },
-    "vo/demoman_dominationpyro01.mp3": {
+    "sound/vo/demoman_dominationpyro01.mp3": {
         "base_name": "demoman_dominationpyro01",
         "criteria": [
             [
@@ -3857,7 +3857,7 @@
         "state": "used",
         "transcript": "You've brought shame on yer people, ya mumblin' devil."
     },
-    "vo/demoman_dominationpyro02.mp3": {
+    "sound/vo/demoman_dominationpyro02.mp3": {
         "base_name": "demoman_dominationpyro02",
         "criteria": [
             [
@@ -3884,7 +3884,7 @@
         "state": "used",
         "transcript": "Go home, lassie; men are fightin' here!"
     },
-    "vo/demoman_dominationpyro03.mp3": {
+    "sound/vo/demoman_dominationpyro03.mp3": {
         "base_name": "demoman_dominationpyro03",
         "criteria": [
             [
@@ -3911,7 +3911,7 @@
         "state": "used",
         "transcript": "Go to hell, and tell the devil I'm comin' for him next!"
     },
-    "vo/demoman_dominationpyro04.mp3": {
+    "sound/vo/demoman_dominationpyro04.mp3": {
         "base_name": "demoman_dominationpyro04",
         "criteria": [
             [
@@ -3938,7 +3938,7 @@
         "state": "used",
         "transcript": "Burn! In! HELL!'"
     },
-    "vo/demoman_dominationscout01.mp3": {
+    "sound/vo/demoman_dominationscout01.mp3": {
         "base_name": "demoman_dominationscout01",
         "criteria": [
             [
@@ -3965,7 +3965,7 @@
         "state": "used",
         "transcript": "DOMINATED, twinkle-toes!"
     },
-    "vo/demoman_dominationscout02.mp3": {
+    "sound/vo/demoman_dominationscout02.mp3": {
         "base_name": "demoman_dominationscout02",
         "criteria": [
             [
@@ -3992,7 +3992,7 @@
         "state": "used",
         "transcript": "Dominated, ya wee scamperin' windbag!"
     },
-    "vo/demoman_dominationscout03.mp3": {
+    "sound/vo/demoman_dominationscout03.mp3": {
         "base_name": "demoman_dominationscout03",
         "criteria": [
             [
@@ -4019,7 +4019,7 @@
         "state": "used",
         "transcript": "Dominated, tiny man!"
     },
-    "vo/demoman_dominationscout04.mp3": {
+    "sound/vo/demoman_dominationscout04.mp3": {
         "base_name": "demoman_dominationscout04",
         "criteria": [
             [
@@ -4046,7 +4046,7 @@
         "state": "used",
         "transcript": "Don't come wide with me, ye pint-sized mutt!"
     },
-    "vo/demoman_dominationscout05.mp3": {
+    "sound/vo/demoman_dominationscout05.mp3": {
         "base_name": "demoman_dominationscout05",
         "criteria": [
             [
@@ -4073,7 +4073,7 @@
         "state": "used",
         "transcript": "Yer like a little bunny... Scurryin' around, eatin' up yer lettuce and berries!"
     },
-    "vo/demoman_dominationscout06.mp3": {
+    "sound/vo/demoman_dominationscout06.mp3": {
         "base_name": "demoman_dominationscout06",
         "criteria": [
             [
@@ -4100,7 +4100,7 @@
         "state": "used",
         "transcript": "Yer so bloody TINY! Yer like a toy-sized version of a man!"
     },
-    "vo/demoman_dominationscout07.mp3": {
+    "sound/vo/demoman_dominationscout07.mp3": {
         "base_name": "demoman_dominationscout07",
         "criteria": [
             [
@@ -4127,7 +4127,7 @@
         "state": "used",
         "transcript": "Grow some hair on yer face, and come and try me again, lad."
     },
-    "vo/demoman_dominationscout08.mp3": {
+    "sound/vo/demoman_dominationscout08.mp3": {
         "base_name": "demoman_dominationscout08",
         "criteria": [
             [
@@ -4160,7 +4160,7 @@
         "state": "used",
         "transcript": "Oh, you're a wee little miss, you are!"
     },
-    "vo/demoman_dominationsniper01.mp3": {
+    "sound/vo/demoman_dominationsniper01.mp3": {
         "base_name": "demoman_dominationsniper01",
         "criteria": [
             [
@@ -4187,7 +4187,7 @@
         "state": "used",
         "transcript": "Perfect bloody domination, ya campy weasel!"
     },
-    "vo/demoman_dominationsniper02.mp3": {
+    "sound/vo/demoman_dominationsniper02.mp3": {
         "base_name": "demoman_dominationsniper02",
         "criteria": [
             [
@@ -4214,7 +4214,7 @@
         "state": "used",
         "transcript": "Dominated, ya headshottin' Judas!"
     },
-    "vo/demoman_dominationsniper03.mp3": {
+    "sound/vo/demoman_dominationsniper03.mp3": {
         "base_name": "demoman_dominationsniper03",
         "criteria": [
             [
@@ -4241,7 +4241,7 @@
         "state": "used",
         "transcript": "I hate you campers; everybody bloody hates you!"
     },
-    "vo/demoman_dominationsniper04.mp3": {
+    "sound/vo/demoman_dominationsniper04.mp3": {
         "base_name": "demoman_dominationsniper04",
         "criteria": [
             [
@@ -4268,7 +4268,7 @@
         "state": "used",
         "transcript": "It's lads like you that give war a bad name!"
     },
-    "vo/demoman_dominationsoldier01.mp3": {
+    "sound/vo/demoman_dominationsoldier01.mp3": {
         "base_name": "demoman_dominationsoldier01",
         "criteria": [
             [
@@ -4295,7 +4295,7 @@
         "state": "used",
         "transcript": "DOMINATED! Ha ha ha ha ha ha!"
     },
-    "vo/demoman_dominationsoldier02.mp3": {
+    "sound/vo/demoman_dominationsoldier02.mp3": {
         "base_name": "demoman_dominationsoldier02",
         "criteria": [
             [
@@ -4322,7 +4322,7 @@
         "state": "used",
         "transcript": "I'll notify yer next o' kin... That ya sucked!"
     },
-    "vo/demoman_dominationsoldier03.mp3": {
+    "sound/vo/demoman_dominationsoldier03.mp3": {
         "base_name": "demoman_dominationsoldier03",
         "criteria": [
             [
@@ -4349,7 +4349,7 @@
         "state": "used",
         "transcript": "Hey, Private Haircut, I might've taken a bit too much off... Yer head!"
     },
-    "vo/demoman_dominationsoldier04.mp3": {
+    "sound/vo/demoman_dominationsoldier04.mp3": {
         "base_name": "demoman_dominationsoldier04",
         "criteria": [
             [
@@ -4376,7 +4376,7 @@
         "state": "used",
         "transcript": "Mother o' mercy! Now that is a bloody domination!"
     },
-    "vo/demoman_dominationsoldier05.mp3": {
+    "sound/vo/demoman_dominationsoldier05.mp3": {
         "base_name": "demoman_dominationsoldier05",
         "criteria": [
             [
@@ -4403,7 +4403,7 @@
         "state": "used",
         "transcript": "Lot o' good that Soldier trainin' did ya! I'm drunk!"
     },
-    "vo/demoman_dominationsoldierupdate01.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate01.mp3": {
         "base_name": "demoman_dominationsoldierupdate01",
         "criteria": [],
         "events": [
@@ -4415,7 +4415,7 @@
         "state": "used",
         "transcript": "Dominated!\" [sotto voce] \"But you're a good man, and I love you."
     },
-    "vo/demoman_dominationsoldierupdate02.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate02.mp3": {
         "base_name": "demoman_dominationsoldierupdate02",
         "criteria": [],
         "events": [
@@ -4427,7 +4427,7 @@
         "state": "used",
         "transcript": "Everybody, I don't like this man. He is a soulless monster!\" [sotto voce] \"I do like you, it's just for show."
     },
-    "vo/demoman_dominationsoldierupdate03.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate03.mp3": {
         "base_name": "demoman_dominationsoldierupdate03",
         "criteria": [],
         "events": [
@@ -4439,7 +4439,7 @@
         "state": "used",
         "transcript": "Dominated!\" [sotto voce] \"But you're still me best mate. (chuckles)"
     },
-    "vo/demoman_dominationsoldierupdate04.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate04.mp3": {
         "base_name": "demoman_dominationsoldierupdate04",
         "criteria": [],
         "events": [
@@ -4451,7 +4451,7 @@
         "state": "used",
         "transcript": "Dominated!\" [sotto voce] \"But I treasure your friendship."
     },
-    "vo/demoman_dominationsoldierupdate05.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate05.mp3": {
         "base_name": "demoman_dominationsoldierupdate05",
         "criteria": [],
         "events": [
@@ -4463,7 +4463,7 @@
         "state": "used",
         "transcript": "Dominated!\" [sotto voce] \"You are okay, though. Right, lad?"
     },
-    "vo/demoman_dominationsoldierupdate06.mp3": {
+    "sound/vo/demoman_dominationsoldierupdate06.mp3": {
         "base_name": "demoman_dominationsoldierupdate06",
         "criteria": [],
         "events": [
@@ -4475,7 +4475,7 @@
         "state": "used",
         "transcript": "My greatest enemy is dead!\" [sotto voce] \"We should be friends forever, eh?"
     },
-    "vo/demoman_dominationspy01.mp3": {
+    "sound/vo/demoman_dominationspy01.mp3": {
         "base_name": "demoman_dominationspy01",
         "criteria": [
             [
@@ -4502,7 +4502,7 @@
         "state": "used",
         "transcript": "Dominated, ya alley-skulkin' backstabber!"
     },
-    "vo/demoman_dominationspy02.mp3": {
+    "sound/vo/demoman_dominationspy02.mp3": {
         "base_name": "demoman_dominationspy02",
         "criteria": [
             [
@@ -4529,7 +4529,7 @@
         "state": "used",
         "transcript": "Yer a back-pokin' snake, and by God you'll die like one!"
     },
-    "vo/demoman_dominationspy03.mp3": {
+    "sound/vo/demoman_dominationspy03.mp3": {
         "base_name": "demoman_dominationspy03",
         "criteria": [
             [
@@ -4556,7 +4556,7 @@
         "state": "used",
         "transcript": "I hope I didn't scare you with my face-to-face man fightin'!"
     },
-    "vo/demoman_eyelandertaunt01.mp3": {
+    "sound/vo/demoman_eyelandertaunt01.mp3": {
         "base_name": "demoman_eyelandertaunt01",
         "criteria": [
             [
@@ -4596,7 +4596,7 @@
         "state": "used",
         "transcript": "There can be only one... eye!"
     },
-    "vo/demoman_eyelandertaunt02.mp3": {
+    "sound/vo/demoman_eyelandertaunt02.mp3": {
         "base_name": "demoman_eyelandertaunt02",
         "criteria": [
             [
@@ -4636,7 +4636,7 @@
         "state": "used",
         "transcript": "There can be only one!"
     },
-    "vo/demoman_gibberish01.mp3": {
+    "sound/vo/demoman_gibberish01.mp3": {
         "base_name": "demoman_gibberish01",
         "criteria": [
             [
@@ -4713,7 +4713,7 @@
         "state": "used",
         "transcript": "And then I'll grow yer arse's arse and I'm the grass man, punk yeah heaven's heathen..."
     },
-    "vo/demoman_gibberish02.mp3": {
+    "sound/vo/demoman_gibberish02.mp3": {
         "base_name": "demoman_gibberish02",
         "criteria": [
             [
@@ -4787,7 +4787,7 @@
         "state": "used",
         "transcript": "\"Any one of you, I...\" (belch)"
     },
-    "vo/demoman_gibberish03.mp3": {
+    "sound/vo/demoman_gibberish03.mp3": {
         "base_name": "demoman_gibberish03",
         "criteria": [
             [
@@ -4825,7 +4825,7 @@
         "state": "used",
         "transcript": "(unintelligible muttering) \"...I love you, man...\""
     },
-    "vo/demoman_gibberish04.mp3": {
+    "sound/vo/demoman_gibberish04.mp3": {
         "base_name": "demoman_gibberish04",
         "criteria": [
             [
@@ -4905,7 +4905,7 @@
         "state": "used",
         "transcript": "Any of you that think ye're better 'n me, you're gon' have another thing c-..."
     },
-    "vo/demoman_gibberish05.mp3": {
+    "sound/vo/demoman_gibberish05.mp3": {
         "base_name": "demoman_gibberish05",
         "criteria": [
             [
@@ -4979,7 +4979,7 @@
         "state": "used",
         "transcript": "...the BOTH of yeh on you..."
     },
-    "vo/demoman_gibberish06.mp3": {
+    "sound/vo/demoman_gibberish06.mp3": {
         "base_name": "demoman_gibberish06",
         "criteria": [
             [
@@ -5050,7 +5050,7 @@
         "state": "used",
         "transcript": "Everyone thinks I'm just a one-eyed bloody monster! God damn it, Finnegan..."
     },
-    "vo/demoman_gibberish07.mp3": {
+    "sound/vo/demoman_gibberish07.mp3": {
         "base_name": "demoman_gibberish07",
         "criteria": [
             [
@@ -5121,7 +5121,7 @@
         "state": "used",
         "transcript": "Everyone thinks I'm-- God damn it, Finnegan..."
     },
-    "vo/demoman_gibberish08.mp3": {
+    "sound/vo/demoman_gibberish08.mp3": {
         "base_name": "demoman_gibberish08",
         "criteria": [
             [
@@ -5195,7 +5195,7 @@
         "state": "used",
         "transcript": "(Unintelligible gibberish)"
     },
-    "vo/demoman_gibberish09.mp3": {
+    "sound/vo/demoman_gibberish09.mp3": {
         "base_name": "demoman_gibberish09",
         "criteria": [
             [
@@ -5230,7 +5230,7 @@
         "state": "used",
         "transcript": "Gonna kill you and I'll keep killin' you and I'll never, cause you're 'onna be dead and I don't gotta kill you."
     },
-    "vo/demoman_gibberish10.mp3": {
+    "sound/vo/demoman_gibberish10.mp3": {
         "base_name": "demoman_gibberish10",
         "criteria": [
             [
@@ -5304,7 +5304,7 @@
         "state": "used",
         "transcript": "Any one of you (belches) Everyone-- damn it, Finnegan..."
     },
-    "vo/demoman_gibberish11.mp3": {
+    "sound/vo/demoman_gibberish11.mp3": {
         "base_name": "demoman_gibberish11",
         "criteria": [
             [
@@ -5330,7 +5330,7 @@
         "state": "used",
         "transcript": "It's on! It's on like (falls asleep, then wakes up) Wha--?"
     },
-    "vo/demoman_gibberish12.mp3": {
+    "sound/vo/demoman_gibberish12.mp3": {
         "base_name": "demoman_gibberish12",
         "criteria": [
             [
@@ -5359,7 +5359,7 @@
         "state": "used",
         "transcript": "Just bought two tickets to the gun show, and I'm not givin' 'em to ya; I'm goin' with your tickets!\" (laughs, falls asleep) \"Wha--?"
     },
-    "vo/demoman_gibberish13.mp3": {
+    "sound/vo/demoman_gibberish13.mp3": {
         "base_name": "demoman_gibberish13",
         "criteria": [
             [
@@ -5398,7 +5398,7 @@
         "state": "used",
         "transcript": "...Gonna take down to the pain train station in train town..."
     },
-    "vo/demoman_go01.mp3": {
+    "sound/vo/demoman_go01.mp3": {
         "base_name": "demoman_go01",
         "criteria": [
             [
@@ -5424,7 +5424,7 @@
         "state": "used",
         "transcript": "GO!"
     },
-    "vo/demoman_go02.mp3": {
+    "sound/vo/demoman_go02.mp3": {
         "base_name": "demoman_go02",
         "criteria": [
             [
@@ -5450,7 +5450,7 @@
         "state": "used",
         "transcript": "Move it, lads!"
     },
-    "vo/demoman_go03.mp3": {
+    "sound/vo/demoman_go03.mp3": {
         "base_name": "demoman_go03",
         "criteria": [
             [
@@ -5476,7 +5476,7 @@
         "state": "used",
         "transcript": "Get going!"
     },
-    "vo/demoman_goodjob01.mp3": {
+    "sound/vo/demoman_goodjob01.mp3": {
         "base_name": "demoman_goodjob01",
         "criteria": [
             [
@@ -5533,7 +5533,7 @@
         "state": "used",
         "transcript": "Cheers, mate!"
     },
-    "vo/demoman_goodjob02.mp3": {
+    "sound/vo/demoman_goodjob02.mp3": {
         "base_name": "demoman_goodjob02",
         "criteria": [
             [
@@ -5559,7 +5559,7 @@
         "state": "used",
         "transcript": "You're doing good, lad!"
     },
-    "vo/demoman_headleft01.mp3": {
+    "sound/vo/demoman_headleft01.mp3": {
         "base_name": "demoman_headleft01",
         "criteria": [
             [
@@ -5582,7 +5582,7 @@
         "state": "used",
         "transcript": "Head left!"
     },
-    "vo/demoman_headleft02.mp3": {
+    "sound/vo/demoman_headleft02.mp3": {
         "base_name": "demoman_headleft02",
         "criteria": [
             [
@@ -5605,7 +5605,7 @@
         "state": "used",
         "transcript": "Go left!"
     },
-    "vo/demoman_headleft03.mp3": {
+    "sound/vo/demoman_headleft03.mp3": {
         "base_name": "demoman_headleft03",
         "criteria": [
             [
@@ -5628,7 +5628,7 @@
         "state": "used",
         "transcript": "To the left!"
     },
-    "vo/demoman_headright01.mp3": {
+    "sound/vo/demoman_headright01.mp3": {
         "base_name": "demoman_headright01",
         "criteria": [
             [
@@ -5651,7 +5651,7 @@
         "state": "used",
         "transcript": "Head right!"
     },
-    "vo/demoman_headright02.mp3": {
+    "sound/vo/demoman_headright02.mp3": {
         "base_name": "demoman_headright02",
         "criteria": [
             [
@@ -5674,7 +5674,7 @@
         "state": "used",
         "transcript": "Go right!"
     },
-    "vo/demoman_headright03.mp3": {
+    "sound/vo/demoman_headright03.mp3": {
         "base_name": "demoman_headright03",
         "criteria": [
             [
@@ -5697,7 +5697,7 @@
         "state": "used",
         "transcript": "To the right!"
     },
-    "vo/demoman_helpme01.mp3": {
+    "sound/vo/demoman_helpme01.mp3": {
         "base_name": "demoman_helpme01",
         "criteria": [
             [
@@ -5720,7 +5720,7 @@
         "state": "used",
         "transcript": "HEEELP!"
     },
-    "vo/demoman_helpme02.mp3": {
+    "sound/vo/demoman_helpme02.mp3": {
         "base_name": "demoman_helpme02",
         "criteria": [
             [
@@ -5743,7 +5743,7 @@
         "state": "used",
         "transcript": "Help me!"
     },
-    "vo/demoman_helpme03.mp3": {
+    "sound/vo/demoman_helpme03.mp3": {
         "base_name": "demoman_helpme03",
         "criteria": [
             [
@@ -5766,7 +5766,7 @@
         "state": "used",
         "transcript": "Aye, give us a hand!"
     },
-    "vo/demoman_helpmecapture01.mp3": {
+    "sound/vo/demoman_helpmecapture01.mp3": {
         "base_name": "demoman_helpmecapture01",
         "criteria": [
             [
@@ -5791,7 +5791,7 @@
         "state": "used",
         "transcript": "Give us a hand here with this point!"
     },
-    "vo/demoman_helpmecapture02.mp3": {
+    "sound/vo/demoman_helpmecapture02.mp3": {
         "base_name": "demoman_helpmecapture02",
         "criteria": [
             [
@@ -5816,7 +5816,7 @@
         "state": "used",
         "transcript": "Help me capture this bloody thing!"
     },
-    "vo/demoman_helpmecapture03.mp3": {
+    "sound/vo/demoman_helpmecapture03.mp3": {
         "base_name": "demoman_helpmecapture03",
         "criteria": [
             [
@@ -5841,7 +5841,7 @@
         "state": "used",
         "transcript": "Come here lad help me capture this!"
     },
-    "vo/demoman_helpmedefend01.mp3": {
+    "sound/vo/demoman_helpmedefend01.mp3": {
         "base_name": "demoman_helpmedefend01",
         "criteria": [
             [
@@ -5865,7 +5865,7 @@
         "state": "used",
         "transcript": "I can't hold them off alone heeere!"
     },
-    "vo/demoman_helpmedefend02.mp3": {
+    "sound/vo/demoman_helpmedefend02.mp3": {
         "base_name": "demoman_helpmedefend02",
         "criteria": [
             [
@@ -5889,7 +5889,7 @@
         "state": "used",
         "transcript": "I need some help holding them off!"
     },
-    "vo/demoman_helpmedefend03.mp3": {
+    "sound/vo/demoman_helpmedefend03.mp3": {
         "base_name": "demoman_helpmedefend03",
         "criteria": [
             [
@@ -5913,7 +5913,7 @@
         "state": "used",
         "transcript": "Get over here and help me defend, ya idiot!"
     },
-    "vo/demoman_incoming01.mp3": {
+    "sound/vo/demoman_incoming01.mp3": {
         "base_name": "demoman_incoming01",
         "criteria": [
             [
@@ -5936,7 +5936,7 @@
         "state": "used",
         "transcript": "Incoming."
     },
-    "vo/demoman_incoming02.mp3": {
+    "sound/vo/demoman_incoming02.mp3": {
         "base_name": "demoman_incoming02",
         "criteria": [
             [
@@ -5959,7 +5959,7 @@
         "state": "used",
         "transcript": "Incoming!"
     },
-    "vo/demoman_incoming03.mp3": {
+    "sound/vo/demoman_incoming03.mp3": {
         "base_name": "demoman_incoming03",
         "criteria": [
             [
@@ -5982,7 +5982,7 @@
         "state": "used",
         "transcript": "Iincoomiing!"
     },
-    "vo/demoman_item_unicorn_domination01.mp3": {
+    "sound/vo/demoman_item_unicorn_domination01.mp3": {
         "base_name": "demoman_item_unicorn_domination01",
         "criteria": [
             [
@@ -6009,7 +6009,7 @@
         "state": "used",
         "transcript": "Who's laughin' at me pink wig now?!"
     },
-    "vo/demoman_item_unicorn_domination02.mp3": {
+    "sound/vo/demoman_item_unicorn_domination02.mp3": {
         "base_name": "demoman_item_unicorn_domination02",
         "criteria": [
             [
@@ -6036,7 +6036,7 @@
         "state": "used",
         "transcript": "That's unicorn bloody justice!"
     },
-    "vo/demoman_item_unicorn_domination03.mp3": {
+    "sound/vo/demoman_item_unicorn_domination03.mp3": {
         "base_name": "demoman_item_unicorn_domination03",
         "criteria": [
             [
@@ -6063,7 +6063,7 @@
         "state": "used",
         "transcript": "Domination is bloody magic!"
     },
-    "vo/demoman_item_unicorn_domination04.mp3": {
+    "sound/vo/demoman_item_unicorn_domination04.mp3": {
         "base_name": "demoman_item_unicorn_domination04",
         "criteria": [
             [
@@ -6090,7 +6090,7 @@
         "state": "used",
         "transcript": "Dominated! Ya wee unicorn-hatin' piece o' crap!"
     },
-    "vo/demoman_item_unicorn_domination05.mp3": {
+    "sound/vo/demoman_item_unicorn_domination05.mp3": {
         "base_name": "demoman_item_unicorn_domination05",
         "criteria": [
             [
@@ -6117,7 +6117,7 @@
         "state": "used",
         "transcript": "Dominated! Accordin' to unicorn law, yer me bloody wife now."
     },
-    "vo/demoman_item_unicorn_on_fire01.mp3": {
+    "sound/vo/demoman_item_unicorn_on_fire01.mp3": {
         "base_name": "demoman_item_unicorn_on_fire01",
         "criteria": [
             [
@@ -6144,7 +6144,7 @@
         "state": "used",
         "transcript": "(Screams) Me beautiful horn!"
     },
-    "vo/demoman_item_unicorn_on_fire02.mp3": {
+    "sound/vo/demoman_item_unicorn_on_fire02.mp3": {
         "base_name": "demoman_item_unicorn_on_fire02",
         "criteria": [
             [
@@ -6171,7 +6171,7 @@
         "state": "used",
         "transcript": "The pink hair, it burns!"
     },
-    "vo/demoman_item_unicorn_round_start01.mp3": {
+    "sound/vo/demoman_item_unicorn_round_start01.mp3": {
         "base_name": "demoman_item_unicorn_round_start01",
         "criteria": [
             [
@@ -6196,7 +6196,7 @@
         "state": "used",
         "transcript": "Freedom! For unicorns!"
     },
-    "vo/demoman_item_unicorn_round_start02.mp3": {
+    "sound/vo/demoman_item_unicorn_round_start02.mp3": {
         "base_name": "demoman_item_unicorn_round_start02",
         "criteria": [
             [
@@ -6221,7 +6221,7 @@
         "state": "used",
         "transcript": "I've got pink hair!"
     },
-    "vo/demoman_item_unicorn_round_start03.mp3": {
+    "sound/vo/demoman_item_unicorn_round_start03.mp3": {
         "base_name": "demoman_item_unicorn_round_start03",
         "criteria": [
             [
@@ -6246,7 +6246,7 @@
         "state": "used",
         "transcript": "Unicorn brothers! Tonight, we pony prance in HELL!"
     },
-    "vo/demoman_item_unicorn_uber01.mp3": {
+    "sound/vo/demoman_item_unicorn_uber01.mp3": {
         "base_name": "demoman_item_unicorn_uber01",
         "criteria": [
             [
@@ -6273,7 +6273,7 @@
         "state": "used",
         "transcript": "I'm a unicorn from Hell, and I'm comin' for ya!"
     },
-    "vo/demoman_item_unicorn_uber02.mp3": {
+    "sound/vo/demoman_item_unicorn_uber02.mp3": {
         "base_name": "demoman_item_unicorn_uber02",
         "criteria": [
             [
@@ -6300,7 +6300,7 @@
         "state": "used",
         "transcript": "You cannot stop the magic!"
     },
-    "vo/demoman_item_unicorn_uber03.mp3": {
+    "sound/vo/demoman_item_unicorn_uber03.mp3": {
         "base_name": "demoman_item_unicorn_uber03",
         "criteria": [
             [
@@ -6327,7 +6327,7 @@
         "state": "used",
         "transcript": "I'm bearin' a message of peace!"
     },
-    "vo/demoman_jeers01.mp3": {
+    "sound/vo/demoman_jeers01.mp3": {
         "base_name": "demoman_jeers01",
         "criteria": [
             [
@@ -6362,7 +6362,7 @@
         "state": "used",
         "transcript": "Boooooooo!"
     },
-    "vo/demoman_jeers02.mp3": {
+    "sound/vo/demoman_jeers02.mp3": {
         "base_name": "demoman_jeers02",
         "criteria": [
             [
@@ -6397,7 +6397,7 @@
         "state": "used",
         "transcript": "Hsssssss!"
     },
-    "vo/demoman_jeers03.mp3": {
+    "sound/vo/demoman_jeers03.mp3": {
         "base_name": "demoman_jeers03",
         "criteria": [
             [
@@ -6428,7 +6428,7 @@
         "state": "used",
         "transcript": "[Slurred] \"I'm drunk - you don't have an excuse!\""
     },
-    "vo/demoman_jeers04.mp3": {
+    "sound/vo/demoman_jeers04.mp3": {
         "base_name": "demoman_jeers04",
         "criteria": [
             [
@@ -6457,7 +6457,7 @@
         "state": "used",
         "transcript": "I feel like every bone in me body's broke!"
     },
-    "vo/demoman_jeers05.mp3": {
+    "sound/vo/demoman_jeers05.mp3": {
         "base_name": "demoman_jeers05",
         "criteria": [
             [
@@ -6486,7 +6486,7 @@
         "state": "used",
         "transcript": "I did what I could!"
     },
-    "vo/demoman_jeers06.mp3": {
+    "sound/vo/demoman_jeers06.mp3": {
         "base_name": "demoman_jeers06",
         "criteria": [
             [
@@ -6520,7 +6520,7 @@
         "state": "used",
         "transcript": "[Slurred] \"Ooooh, I've realllly hit rock bottom.\""
     },
-    "vo/demoman_jeers07.mp3": {
+    "sound/vo/demoman_jeers07.mp3": {
         "base_name": "demoman_jeers07",
         "criteria": [
             [
@@ -6549,7 +6549,7 @@
         "state": "used",
         "transcript": "[Slurred] \"Thankfully, I already don't remember this.\""
     },
-    "vo/demoman_jeers08.mp3": {
+    "sound/vo/demoman_jeers08.mp3": {
         "base_name": "demoman_jeers08",
         "criteria": [
             [
@@ -6585,7 +6585,7 @@
         "state": "used",
         "transcript": "Bloody hell!"
     },
-    "vo/demoman_jeers09.mp3": {
+    "sound/vo/demoman_jeers09.mp3": {
         "base_name": "demoman_jeers09",
         "criteria": [
             [
@@ -6614,7 +6614,7 @@
         "state": "used",
         "transcript": "Buck up, lads! We'll get 'em next time."
     },
-    "vo/demoman_jeers10.mp3": {
+    "sound/vo/demoman_jeers10.mp3": {
         "base_name": "demoman_jeers10",
         "criteria": [
             [
@@ -6643,7 +6643,7 @@
         "state": "used",
         "transcript": "I almost joined their bloody team!"
     },
-    "vo/demoman_jeers11.mp3": {
+    "sound/vo/demoman_jeers11.mp3": {
         "base_name": "demoman_jeers11",
         "criteria": [
             [
@@ -6675,7 +6675,7 @@
         "state": "used",
         "transcript": "We're a sorry buncha' losers!"
     },
-    "vo/demoman_laughevil01.mp3": {
+    "sound/vo/demoman_laughevil01.mp3": {
         "base_name": "demoman_laughevil01",
         "criteria": [
             [
@@ -6724,7 +6724,7 @@
         "state": "used",
         "transcript": "(Evil laugh 1)"
     },
-    "vo/demoman_laughevil02.mp3": {
+    "sound/vo/demoman_laughevil02.mp3": {
         "base_name": "demoman_laughevil02",
         "criteria": [
             [
@@ -6776,7 +6776,7 @@
         "state": "used",
         "transcript": "(Evil laugh 2)"
     },
-    "vo/demoman_laughevil03.mp3": {
+    "sound/vo/demoman_laughevil03.mp3": {
         "base_name": "demoman_laughevil03",
         "criteria": [
             [
@@ -6825,7 +6825,7 @@
         "state": "used",
         "transcript": "(Evil laugh 3)"
     },
-    "vo/demoman_laughevil04.mp3": {
+    "sound/vo/demoman_laughevil04.mp3": {
         "base_name": "demoman_laughevil04",
         "criteria": [
             [
@@ -6851,7 +6851,7 @@
         "state": "used",
         "transcript": "(Evil laugh 4)"
     },
-    "vo/demoman_laughevil05.mp3": {
+    "sound/vo/demoman_laughevil05.mp3": {
         "base_name": "demoman_laughevil05",
         "criteria": [
             [
@@ -6877,7 +6877,7 @@
         "state": "used",
         "transcript": "(Evil laugh 5)"
     },
-    "vo/demoman_laughhappy01.mp3": {
+    "sound/vo/demoman_laughhappy01.mp3": {
         "base_name": "demoman_laughhappy01",
         "criteria": [
             [
@@ -6910,7 +6910,7 @@
         "state": "used",
         "transcript": "(Happy laugh)"
     },
-    "vo/demoman_laughhappy02.mp3": {
+    "sound/vo/demoman_laughhappy02.mp3": {
         "base_name": "demoman_laughhappy02",
         "criteria": [
             [
@@ -6938,7 +6938,7 @@
         "state": "used",
         "transcript": "(Happy laugh)"
     },
-    "vo/demoman_laughlong01.mp3": {
+    "sound/vo/demoman_laughlong01.mp3": {
         "base_name": "demoman_laughlong01",
         "criteria": [
             [
@@ -6967,7 +6967,7 @@
         "state": "used",
         "transcript": "(Long laugh 1)"
     },
-    "vo/demoman_laughlong02.mp3": {
+    "sound/vo/demoman_laughlong02.mp3": {
         "base_name": "demoman_laughlong02",
         "criteria": [
             [
@@ -7010,7 +7010,7 @@
         "state": "used",
         "transcript": "(Long laugh 2)"
     },
-    "vo/demoman_laughshort01.mp3": {
+    "sound/vo/demoman_laughshort01.mp3": {
         "base_name": "demoman_laughshort01",
         "criteria": [
             [
@@ -7040,7 +7040,7 @@
         "state": "used",
         "transcript": "(Short laugh)"
     },
-    "vo/demoman_laughshort02.mp3": {
+    "sound/vo/demoman_laughshort02.mp3": {
         "base_name": "demoman_laughshort02",
         "criteria": [
             [
@@ -7067,7 +7067,7 @@
         "state": "used",
         "transcript": "(Short laugh 1)"
     },
-    "vo/demoman_laughshort03.mp3": {
+    "sound/vo/demoman_laughshort03.mp3": {
         "base_name": "demoman_laughshort03",
         "criteria": [
             [
@@ -7094,7 +7094,7 @@
         "state": "used",
         "transcript": "Short laugh"
     },
-    "vo/demoman_laughshort04.mp3": {
+    "sound/vo/demoman_laughshort04.mp3": {
         "base_name": "demoman_laughshort04",
         "criteria": [
             [
@@ -7120,7 +7120,7 @@
         "state": "used",
         "transcript": "Short laugh 2"
     },
-    "vo/demoman_laughshort05.mp3": {
+    "sound/vo/demoman_laughshort05.mp3": {
         "base_name": "demoman_laughshort05",
         "criteria": [
             [
@@ -7149,7 +7149,7 @@
         "state": "used",
         "transcript": "(Short laugh 2)"
     },
-    "vo/demoman_laughshort06.mp3": {
+    "sound/vo/demoman_laughshort06.mp3": {
         "base_name": "demoman_laughshort06",
         "criteria": [
             [
@@ -7172,7 +7172,7 @@
         "state": "used",
         "transcript": "Short laugh 3"
     },
-    "vo/demoman_medic01.mp3": {
+    "sound/vo/demoman_medic01.mp3": {
         "base_name": "demoman_medic01",
         "criteria": [
             [
@@ -7195,7 +7195,7 @@
         "state": "used",
         "transcript": "Medic!"
     },
-    "vo/demoman_medic02.mp3": {
+    "sound/vo/demoman_medic02.mp3": {
         "base_name": "demoman_medic02",
         "criteria": [
             [
@@ -7218,7 +7218,7 @@
         "state": "used",
         "transcript": "Medic!"
     },
-    "vo/demoman_medic03.mp3": {
+    "sound/vo/demoman_medic03.mp3": {
         "base_name": "demoman_medic03",
         "criteria": [
             [
@@ -7241,7 +7241,7 @@
         "state": "used",
         "transcript": "Meeediiic!"
     },
-    "vo/demoman_moveup01.mp3": {
+    "sound/vo/demoman_moveup01.mp3": {
         "base_name": "demoman_moveup01",
         "criteria": [
             [
@@ -7264,7 +7264,7 @@
         "state": "used",
         "transcript": "Move the gear up, lads!"
     },
-    "vo/demoman_moveup02.mp3": {
+    "sound/vo/demoman_moveup02.mp3": {
         "base_name": "demoman_moveup02",
         "criteria": [
             [
@@ -7287,7 +7287,7 @@
         "state": "used",
         "transcript": "MOOOOOVE THAT GEAR UP!"
     },
-    "vo/demoman_moveup03.mp3": {
+    "sound/vo/demoman_moveup03.mp3": {
         "base_name": "demoman_moveup03",
         "criteria": [
             [
@@ -7310,7 +7310,7 @@
         "state": "used",
         "transcript": "Move that kit up!"
     },
-    "vo/demoman_mvm_loot_common01.mp3": {
+    "sound/vo/demoman_mvm_loot_common01.mp3": {
         "base_name": "demoman_mvm_loot_common01",
         "criteria": [
             [
@@ -7340,7 +7340,7 @@
         "state": "used",
         "transcript": "Oh, brilliant!"
     },
-    "vo/demoman_mvm_loot_common02.mp3": {
+    "sound/vo/demoman_mvm_loot_common02.mp3": {
         "base_name": "demoman_mvm_loot_common02",
         "criteria": [
             [
@@ -7364,7 +7364,7 @@
         "state": "used",
         "transcript": "Oh, now would ya look at that!"
     },
-    "vo/demoman_mvm_loot_common03.mp3": {
+    "sound/vo/demoman_mvm_loot_common03.mp3": {
         "base_name": "demoman_mvm_loot_common03",
         "criteria": [
             [
@@ -7391,7 +7391,7 @@
         "state": "used",
         "transcript": "Aye! T'is nice!"
     },
-    "vo/demoman_mvm_loot_common04.mp3": {
+    "sound/vo/demoman_mvm_loot_common04.mp3": {
         "base_name": "demoman_mvm_loot_common04",
         "criteria": [
             [
@@ -7415,7 +7415,7 @@
         "state": "used",
         "transcript": "Aye! That'll do!"
     },
-    "vo/demoman_mvm_loot_godlike01.mp3": {
+    "sound/vo/demoman_mvm_loot_godlike01.mp3": {
         "base_name": "demoman_mvm_loot_godlike01",
         "criteria": [
             [
@@ -7438,7 +7438,7 @@
         "state": "used",
         "transcript": "(laughs) Ab-so-bloody-lootly!"
     },
-    "vo/demoman_mvm_loot_rare01.mp3": {
+    "sound/vo/demoman_mvm_loot_rare01.mp3": {
         "base_name": "demoman_mvm_loot_rare01",
         "criteria": [
             [
@@ -7464,7 +7464,7 @@
         "state": "used",
         "transcript": "Pure dead brilliant!"
     },
-    "vo/demoman_mvm_loot_rare02.mp3": {
+    "sound/vo/demoman_mvm_loot_rare02.mp3": {
         "base_name": "demoman_mvm_loot_rare02",
         "criteria": [
             [
@@ -7487,7 +7487,7 @@
         "state": "used",
         "transcript": "Oh, what's your name, ya pretty lit'le thing?"
     },
-    "vo/demoman_mvm_mannhattan_gate_atk01.mp3": {
+    "sound/vo/demoman_mvm_mannhattan_gate_atk01.mp3": {
         "base_name": "demoman_mvm_mannhattan_gate_atk01",
         "criteria": [
             [
@@ -7512,7 +7512,7 @@
         "state": "used",
         "transcript": "Clankers at the gate, lads!"
     },
-    "vo/demoman_mvm_mannhattan_gate_atk02.mp3": {
+    "sound/vo/demoman_mvm_mannhattan_gate_atk02.mp3": {
         "base_name": "demoman_mvm_mannhattan_gate_atk02",
         "criteria": [
             [
@@ -7537,7 +7537,7 @@
         "state": "used",
         "transcript": "Robots at the gate!"
     },
-    "vo/demoman_mvm_mannhattan_gate_atk03.mp3": {
+    "sound/vo/demoman_mvm_mannhattan_gate_atk03.mp3": {
         "base_name": "demoman_mvm_mannhattan_gate_atk03",
         "criteria": [
             [
@@ -7562,7 +7562,7 @@
         "state": "used",
         "transcript": "Robots are taking the gate, lads!"
     },
-    "vo/demoman_mvm_mannhattan_gate_take01.mp3": {
+    "sound/vo/demoman_mvm_mannhattan_gate_take01.mp3": {
         "base_name": "demoman_mvm_mannhattan_gate_take01",
         "criteria": [
             [
@@ -7585,7 +7585,7 @@
         "state": "used",
         "transcript": "Argh! The robots took the gate!"
     },
-    "vo/demoman_mvm_mannhattan_gate_take02.mp3": {
+    "sound/vo/demoman_mvm_mannhattan_gate_take02.mp3": {
         "base_name": "demoman_mvm_mannhattan_gate_take02",
         "criteria": [
             [
@@ -7608,7 +7608,7 @@
         "state": "used",
         "transcript": "The tin cans have the gate, lads!"
     },
-    "vo/demoman_mvm_resurrect01.mp3": {
+    "sound/vo/demoman_mvm_resurrect01.mp3": {
         "base_name": "demoman_mvm_resurrect01",
         "criteria": [
             [
@@ -7631,7 +7631,7 @@
         "state": "used",
         "transcript": "I'm back!"
     },
-    "vo/demoman_mvm_resurrect02.mp3": {
+    "sound/vo/demoman_mvm_resurrect02.mp3": {
         "base_name": "demoman_mvm_resurrect02",
         "criteria": [
             [
@@ -7656,7 +7656,7 @@
         "state": "used",
         "transcript": "What did I miss?"
     },
-    "vo/demoman_mvm_resurrect03.mp3": {
+    "sound/vo/demoman_mvm_resurrect03.mp3": {
         "base_name": "demoman_mvm_resurrect03",
         "criteria": [
             [
@@ -7679,7 +7679,7 @@
         "state": "used",
         "transcript": "Back from the bloody grave!"
     },
-    "vo/demoman_mvm_resurrect04.mp3": {
+    "sound/vo/demoman_mvm_resurrect04.mp3": {
         "base_name": "demoman_mvm_resurrect04",
         "criteria": [
             [
@@ -7702,7 +7702,7 @@
         "state": "used",
         "transcript": "Good on ya, Medic!"
     },
-    "vo/demoman_mvm_resurrect05.mp3": {
+    "sound/vo/demoman_mvm_resurrect05.mp3": {
         "base_name": "demoman_mvm_resurrect05",
         "criteria": [
             [
@@ -7725,7 +7725,7 @@
         "state": "used",
         "transcript": "I'll rest when I'm dead!"
     },
-    "vo/demoman_mvm_resurrect06.mp3": {
+    "sound/vo/demoman_mvm_resurrect06.mp3": {
         "base_name": "demoman_mvm_resurrect06",
         "criteria": [
             [
@@ -7748,7 +7748,7 @@
         "state": "used",
         "transcript": "FREEDOM!"
     },
-    "vo/demoman_mvm_resurrect07.mp3": {
+    "sound/vo/demoman_mvm_resurrect07.mp3": {
         "base_name": "demoman_mvm_resurrect07",
         "criteria": [
             [
@@ -7771,7 +7771,7 @@
         "state": "used",
         "transcript": "HA HA!"
     },
-    "vo/demoman_mvm_resurrect08.mp3": {
+    "sound/vo/demoman_mvm_resurrect08.mp3": {
         "base_name": "demoman_mvm_resurrect08",
         "criteria": [
             [
@@ -7794,7 +7794,7 @@
         "state": "used",
         "transcript": "Oh, I need a drink!"
     },
-    "vo/demoman_mvm_resurrect09.mp3": {
+    "sound/vo/demoman_mvm_resurrect09.mp3": {
         "base_name": "demoman_mvm_resurrect09",
         "criteria": [
             [
@@ -7817,7 +7817,7 @@
         "state": "used",
         "transcript": "Wuhbluhbluhbluh!"
     },
-    "vo/demoman_mvm_resurrect10.mp3": {
+    "sound/vo/demoman_mvm_resurrect10.mp3": {
         "base_name": "demoman_mvm_resurrect10",
         "criteria": [
             [
@@ -7840,7 +7840,7 @@
         "state": "used",
         "transcript": "Ha! I'm back!"
     },
-    "vo/demoman_mvm_resurrect11.mp3": {
+    "sound/vo/demoman_mvm_resurrect11.mp3": {
         "base_name": "demoman_mvm_resurrect11",
         "criteria": [
             [
@@ -7863,7 +7863,7 @@
         "state": "used",
         "transcript": "I'm back, lads!"
     },
-    "vo/demoman_needdispenser01.mp3": {
+    "sound/vo/demoman_needdispenser01.mp3": {
         "base_name": "demoman_needdispenser01",
         "criteria": [
             [
@@ -7886,7 +7886,7 @@
         "state": "used",
         "transcript": "Need a Dispenser here!"
     },
-    "vo/demoman_needsentry01.mp3": {
+    "sound/vo/demoman_needsentry01.mp3": {
         "base_name": "demoman_needsentry01",
         "criteria": [
             [
@@ -7909,7 +7909,7 @@
         "state": "used",
         "transcript": "Need a Sentry here!"
     },
-    "vo/demoman_needteleporter01.mp3": {
+    "sound/vo/demoman_needteleporter01.mp3": {
         "base_name": "demoman_needteleporter01",
         "criteria": [
             [
@@ -7932,7 +7932,7 @@
         "state": "used",
         "transcript": "Need a Teleporter here!"
     },
-    "vo/demoman_negativevocalization01.mp3": {
+    "sound/vo/demoman_negativevocalization01.mp3": {
         "base_name": "demoman_negativevocalization01",
         "criteria": [
             [
@@ -7961,7 +7961,7 @@
         "state": "used",
         "transcript": "Oh, me mother Tilly."
     },
-    "vo/demoman_negativevocalization02.mp3": {
+    "sound/vo/demoman_negativevocalization02.mp3": {
         "base_name": "demoman_negativevocalization02",
         "criteria": [
             [
@@ -7997,7 +7997,7 @@
         "state": "used",
         "transcript": "Eh."
     },
-    "vo/demoman_negativevocalization03.mp3": {
+    "sound/vo/demoman_negativevocalization03.mp3": {
         "base_name": "demoman_negativevocalization03",
         "criteria": [
             [
@@ -8036,7 +8036,7 @@
         "state": "used",
         "transcript": "ACH!"
     },
-    "vo/demoman_negativevocalization04.mp3": {
+    "sound/vo/demoman_negativevocalization04.mp3": {
         "base_name": "demoman_negativevocalization04",
         "criteria": [
             [
@@ -8068,7 +8068,7 @@
         "state": "used",
         "transcript": "Bloody hell!"
     },
-    "vo/demoman_negativevocalization05.mp3": {
+    "sound/vo/demoman_negativevocalization05.mp3": {
         "base_name": "demoman_negativevocalization05",
         "criteria": [
             [
@@ -8107,7 +8107,7 @@
         "state": "used",
         "transcript": "AW CRIPE!"
     },
-    "vo/demoman_negativevocalization06.mp3": {
+    "sound/vo/demoman_negativevocalization06.mp3": {
         "base_name": "demoman_negativevocalization06",
         "criteria": [
             [
@@ -8141,7 +8141,7 @@
         "state": "used",
         "transcript": "BAW!"
     },
-    "vo/demoman_niceshot01.mp3": {
+    "sound/vo/demoman_niceshot01.mp3": {
         "base_name": "demoman_niceshot01",
         "criteria": [
             [
@@ -8164,7 +8164,7 @@
         "state": "used",
         "transcript": "Good shot, lad!"
     },
-    "vo/demoman_niceshot02.mp3": {
+    "sound/vo/demoman_niceshot02.mp3": {
         "base_name": "demoman_niceshot02",
         "criteria": [
             [
@@ -8187,7 +8187,7 @@
         "state": "used",
         "transcript": "Good shot, man!"
     },
-    "vo/demoman_niceshot03.mp3": {
+    "sound/vo/demoman_niceshot03.mp3": {
         "base_name": "demoman_niceshot03",
         "criteria": [
             [
@@ -8210,7 +8210,7 @@
         "state": "used",
         "transcript": "Nice shot, man!"
     },
-    "vo/demoman_no01.mp3": {
+    "sound/vo/demoman_no01.mp3": {
         "base_name": "demoman_no01",
         "criteria": [
             [
@@ -8233,7 +8233,7 @@
         "state": "used",
         "transcript": "No!"
     },
-    "vo/demoman_no02.mp3": {
+    "sound/vo/demoman_no02.mp3": {
         "base_name": "demoman_no02",
         "criteria": [
             [
@@ -8256,7 +8256,7 @@
         "state": "used",
         "transcript": "Nah."
     },
-    "vo/demoman_no03.mp3": {
+    "sound/vo/demoman_no03.mp3": {
         "base_name": "demoman_no03",
         "criteria": [
             [
@@ -8279,7 +8279,7 @@
         "state": "used",
         "transcript": "Ach, nooooo!"
     },
-    "vo/demoman_paincrticialdeath01.mp3": {
+    "sound/vo/demoman_paincrticialdeath01.mp3": {
         "base_name": "demoman_paincrticialdeath01",
         "criteria": [],
         "events": [
@@ -8298,7 +8298,7 @@
         "state": "used",
         "transcript": "(Dying scream 1)"
     },
-    "vo/demoman_paincrticialdeath02.mp3": {
+    "sound/vo/demoman_paincrticialdeath02.mp3": {
         "base_name": "demoman_paincrticialdeath02",
         "criteria": [],
         "events": [
@@ -8313,7 +8313,7 @@
         "state": "used",
         "transcript": "(Dying scream 2)"
     },
-    "vo/demoman_paincrticialdeath03.mp3": {
+    "sound/vo/demoman_paincrticialdeath03.mp3": {
         "base_name": "demoman_paincrticialdeath03",
         "criteria": [],
         "events": [
@@ -8328,7 +8328,7 @@
         "state": "used",
         "transcript": "(Dying scream 3)"
     },
-    "vo/demoman_paincrticialdeath04.mp3": {
+    "sound/vo/demoman_paincrticialdeath04.mp3": {
         "base_name": "demoman_paincrticialdeath04",
         "criteria": [],
         "events": [
@@ -8343,7 +8343,7 @@
         "state": "used",
         "transcript": "(Dying scream 4)"
     },
-    "vo/demoman_paincrticialdeath05.mp3": {
+    "sound/vo/demoman_paincrticialdeath05.mp3": {
         "base_name": "demoman_paincrticialdeath05",
         "criteria": [],
         "events": [
@@ -8362,7 +8362,7 @@
         "state": "used",
         "transcript": "(Dying scream 5)"
     },
-    "vo/demoman_painsevere01.mp3": {
+    "sound/vo/demoman_painsevere01.mp3": {
         "base_name": "demoman_painsevere01",
         "criteria": [
             [
@@ -8392,7 +8392,7 @@
         "state": "used",
         "transcript": "(Yell 1)"
     },
-    "vo/demoman_painsevere02.mp3": {
+    "sound/vo/demoman_painsevere02.mp3": {
         "base_name": "demoman_painsevere02",
         "criteria": [
             [
@@ -8417,7 +8417,7 @@
         "state": "used",
         "transcript": "(Yell 2)"
     },
-    "vo/demoman_painsevere03.mp3": {
+    "sound/vo/demoman_painsevere03.mp3": {
         "base_name": "demoman_painsevere03",
         "criteria": [
             [
@@ -8445,7 +8445,7 @@
         "state": "used",
         "transcript": "(Yell 3)"
     },
-    "vo/demoman_painsevere04.mp3": {
+    "sound/vo/demoman_painsevere04.mp3": {
         "base_name": "demoman_painsevere04",
         "criteria": [
             [
@@ -8470,7 +8470,7 @@
         "state": "used",
         "transcript": "(Yell 4)"
     },
-    "vo/demoman_painsharp01.mp3": {
+    "sound/vo/demoman_painsharp01.mp3": {
         "base_name": "demoman_painsharp01",
         "criteria": [
             [
@@ -8505,7 +8505,7 @@
         "state": "used",
         "transcript": "(Grunt 1)"
     },
-    "vo/demoman_painsharp02.mp3": {
+    "sound/vo/demoman_painsharp02.mp3": {
         "base_name": "demoman_painsharp02",
         "criteria": [
             [
@@ -8543,7 +8543,7 @@
         "state": "used",
         "transcript": "(Grunt 2)"
     },
-    "vo/demoman_painsharp03.mp3": {
+    "sound/vo/demoman_painsharp03.mp3": {
         "base_name": "demoman_painsharp03",
         "criteria": [
             [
@@ -8570,7 +8570,7 @@
         "state": "used",
         "transcript": "(Grunt3 )"
     },
-    "vo/demoman_painsharp04.mp3": {
+    "sound/vo/demoman_painsharp04.mp3": {
         "base_name": "demoman_painsharp04",
         "criteria": [
             [
@@ -8605,7 +8605,7 @@
         "state": "used",
         "transcript": "(Grunt 4)"
     },
-    "vo/demoman_painsharp05.mp3": {
+    "sound/vo/demoman_painsharp05.mp3": {
         "base_name": "demoman_painsharp05",
         "criteria": [
             [
@@ -8632,7 +8632,7 @@
         "state": "used",
         "transcript": "(Grunt 5)"
     },
-    "vo/demoman_painsharp06.mp3": {
+    "sound/vo/demoman_painsharp06.mp3": {
         "base_name": "demoman_painsharp06",
         "criteria": [
             [
@@ -8659,7 +8659,7 @@
         "state": "used",
         "transcript": "(Grunt 6)"
     },
-    "vo/demoman_painsharp07.mp3": {
+    "sound/vo/demoman_painsharp07.mp3": {
         "base_name": "demoman_painsharp07",
         "criteria": [
             [
@@ -8684,7 +8684,7 @@
         "state": "used",
         "transcript": "Oh, that smarts!"
     },
-    "vo/demoman_positivevocalization01.mp3": {
+    "sound/vo/demoman_positivevocalization01.mp3": {
         "base_name": "demoman_positivevocalization01",
         "criteria": [
             [
@@ -8714,7 +8714,7 @@
         "state": "used",
         "transcript": "Bloody brilliant!"
     },
-    "vo/demoman_positivevocalization02.mp3": {
+    "sound/vo/demoman_positivevocalization02.mp3": {
         "base_name": "demoman_positivevocalization02",
         "criteria": [
             [
@@ -8746,7 +8746,7 @@
         "state": "used",
         "transcript": "Well, alright!"
     },
-    "vo/demoman_positivevocalization03.mp3": {
+    "sound/vo/demoman_positivevocalization03.mp3": {
         "base_name": "demoman_positivevocalization03",
         "criteria": [
             [
@@ -8776,7 +8776,7 @@
         "state": "used",
         "transcript": "That's the spirit!"
     },
-    "vo/demoman_positivevocalization04.mp3": {
+    "sound/vo/demoman_positivevocalization04.mp3": {
         "base_name": "demoman_positivevocalization04",
         "criteria": [
             [
@@ -8806,7 +8806,7 @@
         "state": "used",
         "transcript": "Ah, that's the stuff!"
     },
-    "vo/demoman_positivevocalization05.mp3": {
+    "sound/vo/demoman_positivevocalization05.mp3": {
         "base_name": "demoman_positivevocalization05",
         "criteria": [
             [
@@ -8836,7 +8836,7 @@
         "state": "used",
         "transcript": "THAT'S THE WAY YA DO IT!"
     },
-    "vo/demoman_sentryahead01.mp3": {
+    "sound/vo/demoman_sentryahead01.mp3": {
         "base_name": "demoman_sentryahead01",
         "criteria": [
             [
@@ -8859,7 +8859,7 @@
         "state": "used",
         "transcript": "Sentry ahead!"
     },
-    "vo/demoman_sentryahead02.mp3": {
+    "sound/vo/demoman_sentryahead02.mp3": {
         "base_name": "demoman_sentryahead02",
         "criteria": [
             [
@@ -8882,7 +8882,7 @@
         "state": "used",
         "transcript": "Sentry comin' up!"
     },
-    "vo/demoman_sentryahead03.mp3": {
+    "sound/vo/demoman_sentryahead03.mp3": {
         "base_name": "demoman_sentryahead03",
         "criteria": [
             [
@@ -8905,7 +8905,7 @@
         "state": "used",
         "transcript": "Sentry up ahead!"
     },
-    "vo/demoman_sf12_badmagic01.mp3": {
+    "sound/vo/demoman_sf12_badmagic01.mp3": {
         "base_name": "demoman_sf12_badmagic01",
         "criteria": [
             [
@@ -8940,7 +8940,7 @@
         "state": "used",
         "transcript": "Ahhh! Me head!"
     },
-    "vo/demoman_sf12_badmagic02.mp3": {
+    "sound/vo/demoman_sf12_badmagic02.mp3": {
         "base_name": "demoman_sf12_badmagic02",
         "criteria": [
             [
@@ -8969,7 +8969,7 @@
         "state": "used",
         "transcript": "Ohhh! Me wee head!"
     },
-    "vo/demoman_sf12_badmagic03.mp3": {
+    "sound/vo/demoman_sf12_badmagic03.mp3": {
         "base_name": "demoman_sf12_badmagic03",
         "criteria": [
             [
@@ -8992,7 +8992,7 @@
         "state": "used",
         "transcript": "\"Ahhh! Me head! It's wee. It's a wee head...\" [fades"
     },
-    "vo/demoman_sf12_badmagic04.mp3": {
+    "sound/vo/demoman_sf12_badmagic04.mp3": {
         "base_name": "demoman_sf12_badmagic04",
         "criteria": [
             [
@@ -9015,7 +9015,7 @@
         "state": "used",
         "transcript": "Ach! Me noggin is huge!"
     },
-    "vo/demoman_sf12_badmagic05.mp3": {
+    "sound/vo/demoman_sf12_badmagic05.mp3": {
         "base_name": "demoman_sf12_badmagic05",
         "criteria": [
             [
@@ -9038,7 +9038,7 @@
         "state": "used",
         "transcript": "Yer a devil! A devil!"
     },
-    "vo/demoman_sf12_badmagic06.mp3": {
+    "sound/vo/demoman_sf12_badmagic06.mp3": {
         "base_name": "demoman_sf12_badmagic06",
         "criteria": [
             [
@@ -9062,7 +9062,7 @@
         "state": "used",
         "transcript": "Yer wicked! And you'll burn fer it, Merasmus!"
     },
-    "vo/demoman_sf12_badmagic07.mp3": {
+    "sound/vo/demoman_sf12_badmagic07.mp3": {
         "base_name": "demoman_sf12_badmagic07",
         "criteria": [
             [
@@ -9085,7 +9085,7 @@
         "state": "used",
         "transcript": "Oh, this is not good."
     },
-    "vo/demoman_sf12_badmagic08.mp3": {
+    "sound/vo/demoman_sf12_badmagic08.mp3": {
         "base_name": "demoman_sf12_badmagic08",
         "criteria": [
             [
@@ -9115,7 +9115,7 @@
         "state": "used",
         "transcript": "Wot is happenin'?"
     },
-    "vo/demoman_sf12_badmagic09.mp3": {
+    "sound/vo/demoman_sf12_badmagic09.mp3": {
         "base_name": "demoman_sf12_badmagic09",
         "criteria": [],
         "events": [
@@ -9127,7 +9127,7 @@
         "state": "used",
         "transcript": "Wot's this now?"
     },
-    "vo/demoman_sf12_badmagic10.mp3": {
+    "sound/vo/demoman_sf12_badmagic10.mp3": {
         "base_name": "demoman_sf12_badmagic10",
         "criteria": [
             [
@@ -9150,7 +9150,7 @@
         "state": "used",
         "transcript": "Wot the bloody hell?"
     },
-    "vo/demoman_sf12_badmagic11.mp3": {
+    "sound/vo/demoman_sf12_badmagic11.mp3": {
         "base_name": "demoman_sf12_badmagic11",
         "criteria": [
             [
@@ -9180,7 +9180,7 @@
         "state": "used",
         "transcript": "Wot magic is this?"
     },
-    "vo/demoman_sf12_bombinomicon01.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon01.mp3": {
         "base_name": "demoman_sf12_bombinomicon01",
         "criteria": [],
         "events": [
@@ -9192,7 +9192,7 @@
         "state": "used",
         "transcript": "He's got that book that stole me eye!"
     },
-    "vo/demoman_sf12_bombinomicon02.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon02.mp3": {
         "base_name": "demoman_sf12_bombinomicon02",
         "criteria": [],
         "events": [
@@ -9204,7 +9204,7 @@
         "state": "used",
         "transcript": "That dark book is full of magic bombs!"
     },
-    "vo/demoman_sf12_bombinomicon03.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon03.mp3": {
         "base_name": "demoman_sf12_bombinomicon03",
         "criteria": [],
         "events": [
@@ -9216,7 +9216,7 @@
         "state": "used",
         "transcript": "That Bombinomicon is about to blow!"
     },
-    "vo/demoman_sf12_bombinomicon04.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon04.mp3": {
         "base_name": "demoman_sf12_bombinomicon04",
         "criteria": [],
         "events": [
@@ -9228,7 +9228,7 @@
         "state": "used",
         "transcript": "Ya call those bombs, ya wee little romance novel? I'll show you bombs!"
     },
-    "vo/demoman_sf12_bombinomicon05.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon05.mp3": {
         "base_name": "demoman_sf12_bombinomicon05",
         "criteria": [],
         "events": [
@@ -9240,7 +9240,7 @@
         "state": "used",
         "transcript": "Watch out, lads! That book's the Bombinomicon!"
     },
-    "vo/demoman_sf12_bombinomicon06.mp3": {
+    "sound/vo/demoman_sf12_bombinomicon06.mp3": {
         "base_name": "demoman_sf12_bombinomicon06",
         "criteria": [],
         "events": [
@@ -9252,7 +9252,7 @@
         "state": "used",
         "transcript": "The student has become the one-eyed master, ya fancy perfume catalog!"
     },
-    "vo/demoman_sf12_falling01.mp3": {
+    "sound/vo/demoman_sf12_falling01.mp3": {
         "base_name": "demoman_sf12_falling01",
         "criteria": [
             [
@@ -9275,7 +9275,7 @@
         "state": "used",
         "transcript": "(Long scream)"
     },
-    "vo/demoman_sf12_goodmagic01.mp3": {
+    "sound/vo/demoman_sf12_goodmagic01.mp3": {
         "base_name": "demoman_sf12_goodmagic01",
         "criteria": [
             [
@@ -9299,7 +9299,7 @@
         "state": "used",
         "transcript": "Wuh huh ho! Who's laughing now, wizard?"
     },
-    "vo/demoman_sf12_goodmagic02.mp3": {
+    "sound/vo/demoman_sf12_goodmagic02.mp3": {
         "base_name": "demoman_sf12_goodmagic02",
         "criteria": [
             [
@@ -9323,7 +9323,7 @@
         "state": "used",
         "transcript": "Yah should not have done that, wizard!"
     },
-    "vo/demoman_sf12_goodmagic03.mp3": {
+    "sound/vo/demoman_sf12_goodmagic03.mp3": {
         "base_name": "demoman_sf12_goodmagic03",
         "criteria": [
             [
@@ -9347,7 +9347,7 @@
         "state": "used",
         "transcript": "Yer magic is weak, old man!"
     },
-    "vo/demoman_sf12_goodmagic04.mp3": {
+    "sound/vo/demoman_sf12_goodmagic04.mp3": {
         "base_name": "demoman_sf12_goodmagic04",
         "criteria": [
             [
@@ -9374,7 +9374,7 @@
         "state": "used",
         "transcript": "What manner of witchcraft is this?"
     },
-    "vo/demoman_sf12_healing01.mp3": {
+    "sound/vo/demoman_sf12_healing01.mp3": {
         "base_name": "demoman_sf12_healing01",
         "criteria": [],
         "events": [
@@ -9386,7 +9386,7 @@
         "state": "used",
         "transcript": "The wizard's healin' himself!"
     },
-    "vo/demoman_sf12_healing02.mp3": {
+    "sound/vo/demoman_sf12_healing02.mp3": {
         "base_name": "demoman_sf12_healing02",
         "criteria": [],
         "events": [
@@ -9398,7 +9398,7 @@
         "state": "used",
         "transcript": "Kill him. Kill him, he's healin' himself!"
     },
-    "vo/demoman_sf12_seeking01.mp3": {
+    "sound/vo/demoman_sf12_seeking01.mp3": {
         "base_name": "demoman_sf12_seeking01",
         "criteria": [
             [
@@ -9425,7 +9425,7 @@
         "state": "used",
         "transcript": "You better hide, wizard! I'll kick you back to whatever hell you crawled out of!"
     },
-    "vo/demoman_sf12_seeking02.mp3": {
+    "sound/vo/demoman_sf12_seeking02.mp3": {
         "base_name": "demoman_sf12_seeking02",
         "criteria": [
             [
@@ -9452,7 +9452,7 @@
         "state": "used",
         "transcript": "Wizard! Show yerself!"
     },
-    "vo/demoman_sf12_seeking03.mp3": {
+    "sound/vo/demoman_sf12_seeking03.mp3": {
         "base_name": "demoman_sf12_seeking03",
         "criteria": [
             [
@@ -9479,7 +9479,7 @@
         "state": "used",
         "transcript": "Merasmus! We've got unfinished business, you and I! And by God, I'll see it settled!"
     },
-    "vo/demoman_sf12_seeking04.mp3": {
+    "sound/vo/demoman_sf12_seeking04.mp3": {
         "base_name": "demoman_sf12_seeking04",
         "criteria": [
             [
@@ -9513,7 +9513,7 @@
         "state": "used",
         "transcript": "Merasmus! I'll have me eye back, you shifty dog!"
     },
-    "vo/demoman_sf12_seeking05.mp3": {
+    "sound/vo/demoman_sf12_seeking05.mp3": {
         "base_name": "demoman_sf12_seeking05",
         "criteria": [
             [
@@ -9540,7 +9540,7 @@
         "state": "used",
         "transcript": "Merasmus! Give me my eye back, you wizard!"
     },
-    "vo/demoman_sf12_seeking06.mp3": {
+    "sound/vo/demoman_sf12_seeking06.mp3": {
         "base_name": "demoman_sf12_seeking06",
         "criteria": [
             [
@@ -9574,7 +9574,7 @@
         "state": "used",
         "transcript": "Merasmus! I've got yer nickel! Give me back me eye!"
     },
-    "vo/demoman_sf12_seeking07.mp3": {
+    "sound/vo/demoman_sf12_seeking07.mp3": {
         "base_name": "demoman_sf12_seeking07",
         "criteria": [
             [
@@ -9608,7 +9608,7 @@
         "state": "used",
         "transcript": "Wizard! You turned me own eye against me! And by God, I'll kill you for it!"
     },
-    "vo/demoman_sf12_seeking08.mp3": {
+    "sound/vo/demoman_sf12_seeking08.mp3": {
         "base_name": "demoman_sf12_seeking08",
         "criteria": [
             [
@@ -9642,7 +9642,7 @@
         "state": "used",
         "transcript": "Eye for an eye, wizard-man! I'll chew the eyeballs right out of your skull!"
     },
-    "vo/demoman_sf12_seeking09.mp3": {
+    "sound/vo/demoman_sf12_seeking09.mp3": {
         "base_name": "demoman_sf12_seeking09",
         "criteria": [
             [
@@ -9676,7 +9676,7 @@
         "state": "used",
         "transcript": "This Demoman needs an eye, wizard! Hah! Yours will do just fine."
     },
-    "vo/demoman_sf12_seeking10.mp3": {
+    "sound/vo/demoman_sf12_seeking10.mp3": {
         "base_name": "demoman_sf12_seeking10",
         "criteria": [
             [
@@ -9703,7 +9703,7 @@
         "state": "used",
         "transcript": "Merasmus!"
     },
-    "vo/demoman_sf13_bosses01.mp3": {
+    "sound/vo/demoman_sf13_bosses01.mp3": {
         "base_name": "demoman_sf13_bosses01",
         "criteria": [
             [
@@ -9726,7 +9726,7 @@
         "state": "used",
         "transcript": "Hell zombies!"
     },
-    "vo/demoman_sf13_bosses02.mp3": {
+    "sound/vo/demoman_sf13_bosses02.mp3": {
         "base_name": "demoman_sf13_bosses02",
         "criteria": [
             [
@@ -9751,7 +9751,7 @@
         "state": "used",
         "transcript": "Run!"
     },
-    "vo/demoman_sf13_bosses03.mp3": {
+    "sound/vo/demoman_sf13_bosses03.mp3": {
         "base_name": "demoman_sf13_bosses03",
         "criteria": [
             [
@@ -9776,7 +9776,7 @@
         "state": "used",
         "transcript": "(Scream 1)"
     },
-    "vo/demoman_sf13_bosses04.mp3": {
+    "sound/vo/demoman_sf13_bosses04.mp3": {
         "base_name": "demoman_sf13_bosses04",
         "criteria": [
             [
@@ -9801,7 +9801,7 @@
         "state": "used",
         "transcript": "(Scream 2)"
     },
-    "vo/demoman_sf13_bosses05.mp3": {
+    "sound/vo/demoman_sf13_bosses05.mp3": {
         "base_name": "demoman_sf13_bosses05",
         "criteria": [
             [
@@ -9826,7 +9826,7 @@
         "state": "used",
         "transcript": "(Scream 3)"
     },
-    "vo/demoman_sf13_bosses06.mp3": {
+    "sound/vo/demoman_sf13_bosses06.mp3": {
         "base_name": "demoman_sf13_bosses06",
         "criteria": [
             [
@@ -9851,7 +9851,7 @@
         "state": "used",
         "transcript": "(Long scream)"
     },
-    "vo/demoman_sf13_influx_big01.mp3": {
+    "sound/vo/demoman_sf13_influx_big01.mp3": {
         "base_name": "demoman_sf13_influx_big01",
         "criteria": [
             [
@@ -9874,7 +9874,7 @@
         "state": "used",
         "transcript": "Oh, bloody epic!"
     },
-    "vo/demoman_sf13_influx_big02.mp3": {
+    "sound/vo/demoman_sf13_influx_big02.mp3": {
         "base_name": "demoman_sf13_influx_big02",
         "criteria": [
             [
@@ -9897,7 +9897,7 @@
         "state": "used",
         "transcript": "Ha-ha-ha-ha!"
     },
-    "vo/demoman_sf13_influx_big03.mp3": {
+    "sound/vo/demoman_sf13_influx_big03.mp3": {
         "base_name": "demoman_sf13_influx_big03",
         "criteria": [
             [
@@ -9920,7 +9920,7 @@
         "state": "used",
         "transcript": "Guts and glory!"
     },
-    "vo/demoman_sf13_influx_big04.mp3": {
+    "sound/vo/demoman_sf13_influx_big04.mp3": {
         "base_name": "demoman_sf13_influx_big04",
         "criteria": [
             [
@@ -9943,7 +9943,7 @@
         "state": "used",
         "transcript": "Oh, I'm full of bombs and magic!"
     },
-    "vo/demoman_sf13_influx_big05.mp3": {
+    "sound/vo/demoman_sf13_influx_big05.mp3": {
         "base_name": "demoman_sf13_influx_big05",
         "criteria": [
             [
@@ -9966,7 +9966,7 @@
         "state": "used",
         "transcript": "Magic and mayhem!"
     },
-    "vo/demoman_sf13_influx_small02.mp3": {
+    "sound/vo/demoman_sf13_influx_small02.mp3": {
         "base_name": "demoman_sf13_influx_small02",
         "criteria": [
             [
@@ -9989,7 +9989,7 @@
         "state": "used",
         "transcript": "Oh, that's nice."
     },
-    "vo/demoman_sf13_influx_small03.mp3": {
+    "sound/vo/demoman_sf13_influx_small03.mp3": {
         "base_name": "demoman_sf13_influx_small03",
         "criteria": [
             [
@@ -10012,7 +10012,7 @@
         "state": "used",
         "transcript": "Oh, that's magic."
     },
-    "vo/demoman_sf13_influx_small04.mp3": {
+    "sound/vo/demoman_sf13_influx_small04.mp3": {
         "base_name": "demoman_sf13_influx_small04",
         "criteria": [
             [
@@ -10035,7 +10035,7 @@
         "state": "used",
         "transcript": "Now that's quality."
     },
-    "vo/demoman_sf13_magic_reac03.mp3": {
+    "sound/vo/demoman_sf13_magic_reac03.mp3": {
         "base_name": "demoman_sf13_magic_reac03",
         "criteria": [
             [
@@ -10064,7 +10064,7 @@
         "state": "used",
         "transcript": "Too much magic! (screams)"
     },
-    "vo/demoman_sf13_magic_reac05.mp3": {
+    "sound/vo/demoman_sf13_magic_reac05.mp3": {
         "base_name": "demoman_sf13_magic_reac05",
         "criteria": [
             [
@@ -10098,7 +10098,7 @@
         "state": "used",
         "transcript": "It's the devil's work!"
     },
-    "vo/demoman_sf13_midnight02.mp3": {
+    "sound/vo/demoman_sf13_midnight02.mp3": {
         "base_name": "demoman_sf13_midnight02",
         "criteria": [
             [
@@ -10124,7 +10124,7 @@
         "state": "used",
         "transcript": "The bridge! The bridge!"
     },
-    "vo/demoman_sf13_midnight04.mp3": {
+    "sound/vo/demoman_sf13_midnight04.mp3": {
         "base_name": "demoman_sf13_midnight04",
         "criteria": [
             [
@@ -10150,7 +10150,7 @@
         "state": "used",
         "transcript": "We can get to the island! Go, go!"
     },
-    "vo/demoman_sf13_midnight05.mp3": {
+    "sound/vo/demoman_sf13_midnight05.mp3": {
         "base_name": "demoman_sf13_midnight05",
         "criteria": [
             [
@@ -10177,7 +10177,7 @@
         "state": "used",
         "transcript": "It's the Witching Hour!"
     },
-    "vo/demoman_sf13_midnight06.mp3": {
+    "sound/vo/demoman_sf13_midnight06.mp3": {
         "base_name": "demoman_sf13_midnight06",
         "criteria": [
             [
@@ -10204,7 +10204,7 @@
         "state": "used",
         "transcript": "It's midnight, lads!"
     },
-    "vo/demoman_sf13_round_start01.mp3": {
+    "sound/vo/demoman_sf13_round_start01.mp3": {
         "base_name": "demoman_sf13_round_start01",
         "criteria": [
             [
@@ -10230,7 +10230,7 @@
         "state": "used",
         "transcript": "Freedom! To roll a wheelchair to Hell!"
     },
-    "vo/demoman_sf13_round_start02.mp3": {
+    "sound/vo/demoman_sf13_round_start02.mp3": {
         "base_name": "demoman_sf13_round_start02",
         "criteria": [
             [
@@ -10256,7 +10256,7 @@
         "state": "used",
         "transcript": "Let's send that old man to Hell!!"
     },
-    "vo/demoman_sf13_spell_bombhead01.mp3": {
+    "sound/vo/demoman_sf13_spell_bombhead01.mp3": {
         "base_name": "demoman_sf13_spell_bombhead01",
         "criteria": [
             [
@@ -10279,7 +10279,7 @@
         "state": "used",
         "transcript": "Caputus crepitus!"
     },
-    "vo/demoman_sf13_spell_devil_bargain01.mp3": {
+    "sound/vo/demoman_sf13_spell_devil_bargain01.mp3": {
         "base_name": "demoman_sf13_spell_devil_bargain01",
         "criteria": [
             [
@@ -10302,7 +10302,7 @@
         "state": "used",
         "transcript": "Pactum diabolus!"
     },
-    "vo/demoman_sf13_spell_earthquake01.mp3": {
+    "sound/vo/demoman_sf13_spell_earthquake01.mp3": {
         "base_name": "demoman_sf13_spell_earthquake01",
         "criteria": [
             [
@@ -10325,7 +10325,7 @@
         "state": "used",
         "transcript": "Seismela tremoro!"
     },
-    "vo/demoman_sf13_spell_generic04.mp3": {
+    "sound/vo/demoman_sf13_spell_generic04.mp3": {
         "base_name": "demoman_sf13_spell_generic04",
         "criteria": [
             [
@@ -10348,7 +10348,7 @@
         "state": "used",
         "transcript": "Barpo kabalto!"
     },
-    "vo/demoman_sf13_spell_invisibility01.mp3": {
+    "sound/vo/demoman_sf13_spell_invisibility01.mp3": {
         "base_name": "demoman_sf13_spell_invisibility01",
         "criteria": [
             [
@@ -10371,7 +10371,7 @@
         "state": "used",
         "transcript": "Barpo invisium!"
     },
-    "vo/demoman_sf13_spell_lightning_bolt01.mp3": {
+    "sound/vo/demoman_sf13_spell_lightning_bolt01.mp3": {
         "base_name": "demoman_sf13_spell_lightning_bolt01",
         "criteria": [
             [
@@ -10394,7 +10394,7 @@
         "state": "used",
         "transcript": "Imputum fulmenus!"
     },
-    "vo/demoman_sf13_spell_summon_monoculous01.mp3": {
+    "sound/vo/demoman_sf13_spell_summon_monoculous01.mp3": {
         "base_name": "demoman_sf13_spell_summon_monoculous01",
         "criteria": [
             [
@@ -10417,7 +10417,7 @@
         "state": "used",
         "transcript": "Invokum MONOCULUS!"
     },
-    "vo/demoman_sf13_spell_summon_monoculous02.mp3": {
+    "sound/vo/demoman_sf13_spell_summon_monoculous02.mp3": {
         "base_name": "demoman_sf13_spell_summon_monoculous02",
         "criteria": [
             [
@@ -10440,7 +10440,7 @@
         "state": "used",
         "transcript": "Invokum MONOCULUS! Oh, me eye!"
     },
-    "vo/demoman_sf13_spell_super_jump01.mp3": {
+    "sound/vo/demoman_sf13_spell_super_jump01.mp3": {
         "base_name": "demoman_sf13_spell_super_jump01",
         "criteria": [
             [
@@ -10463,7 +10463,7 @@
         "state": "used",
         "transcript": "Amplus tripudio!"
     },
-    "vo/demoman_sf13_spell_super_speed01.mp3": {
+    "sound/vo/demoman_sf13_spell_super_speed01.mp3": {
         "base_name": "demoman_sf13_spell_super_speed01",
         "criteria": [
             [
@@ -10486,7 +10486,7 @@
         "state": "used",
         "transcript": "Paidum celeris!"
     },
-    "vo/demoman_sf13_spell_teleport_self01.mp3": {
+    "sound/vo/demoman_sf13_spell_teleport_self01.mp3": {
         "base_name": "demoman_sf13_spell_teleport_self01",
         "criteria": [
             [
@@ -10509,7 +10509,7 @@
         "state": "used",
         "transcript": "Ipsum instantarium!"
     },
-    "vo/demoman_sf13_spell_uber01.mp3": {
+    "sound/vo/demoman_sf13_spell_uber01.mp3": {
         "base_name": "demoman_sf13_spell_uber01",
         "criteria": [
             [
@@ -10532,7 +10532,7 @@
         "state": "used",
         "transcript": "Deus invictus!"
     },
-    "vo/demoman_sf13_spell_zombie_horde01.mp3": {
+    "sound/vo/demoman_sf13_spell_zombie_horde01.mp3": {
         "base_name": "demoman_sf13_spell_zombie_horde01",
         "criteria": [
             [
@@ -10555,7 +10555,7 @@
         "state": "used",
         "transcript": "Mortis animataris!"
     },
-    "vo/demoman_snore1.mp3": {
+    "sound/vo/demoman_snore1.mp3": {
         "base_name": "demoman_snore1",
         "criteria": [],
         "events": [
@@ -10571,7 +10571,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/demoman_snore2.mp3": {
+    "sound/vo/demoman_snore2.mp3": {
         "base_name": "demoman_snore2",
         "criteria": [],
         "events": [
@@ -10587,7 +10587,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/demoman_specialcompleted-assistedkill01.mp3": {
+    "sound/vo/demoman_specialcompleted-assistedkill01.mp3": {
         "base_name": "demoman_specialcompleted-assistedkill01",
         "criteria": [
             [
@@ -10639,7 +10639,7 @@
         "state": "used",
         "transcript": "We did it, mate!"
     },
-    "vo/demoman_specialcompleted-assistedkill02.mp3": {
+    "sound/vo/demoman_specialcompleted-assistedkill02.mp3": {
         "base_name": "demoman_specialcompleted-assistedkill02",
         "criteria": [
             [
@@ -10667,7 +10667,7 @@
         "state": "used",
         "transcript": "I didn't need yer help, ya know."
     },
-    "vo/demoman_specialcompleted01.mp3": {
+    "sound/vo/demoman_specialcompleted01.mp3": {
         "base_name": "demoman_specialcompleted01",
         "criteria": [
             [
@@ -10708,7 +10708,7 @@
         "state": "used",
         "transcript": "And that's what yeh get for touching that!"
     },
-    "vo/demoman_specialcompleted02.mp3": {
+    "sound/vo/demoman_specialcompleted02.mp3": {
         "base_name": "demoman_specialcompleted02",
         "criteria": [
             [
@@ -10738,7 +10738,7 @@
         "state": "used",
         "transcript": "Aye, me bottle o' scrumpy!"
     },
-    "vo/demoman_specialcompleted03.mp3": {
+    "sound/vo/demoman_specialcompleted03.mp3": {
         "base_name": "demoman_specialcompleted03",
         "criteria": [
             [
@@ -10767,7 +10767,7 @@
         "state": "used",
         "transcript": "You appear to have trodden on a mine!"
     },
-    "vo/demoman_specialcompleted04.mp3": {
+    "sound/vo/demoman_specialcompleted04.mp3": {
         "base_name": "demoman_specialcompleted04",
         "criteria": [
             [
@@ -10796,7 +10796,7 @@
         "state": "used",
         "transcript": "How's that feel, ya blockhead?"
     },
-    "vo/demoman_specialcompleted05.mp3": {
+    "sound/vo/demoman_specialcompleted05.mp3": {
         "base_name": "demoman_specialcompleted05",
         "criteria": [
             [
@@ -10820,7 +10820,7 @@
         "state": "used",
         "transcript": "That was my point you were standin' on!"
     },
-    "vo/demoman_specialcompleted06.mp3": {
+    "sound/vo/demoman_specialcompleted06.mp3": {
         "base_name": "demoman_specialcompleted06",
         "criteria": [
             [
@@ -10844,7 +10844,7 @@
         "state": "used",
         "transcript": "Next time you'll bloody ask before you stand on my point."
     },
-    "vo/demoman_specialcompleted07.mp3": {
+    "sound/vo/demoman_specialcompleted07.mp3": {
         "base_name": "demoman_specialcompleted07",
         "criteria": [
             [
@@ -10873,7 +10873,7 @@
         "state": "used",
         "transcript": "Bloody hell, those ones were me favorites!"
     },
-    "vo/demoman_specialcompleted08.mp3": {
+    "sound/vo/demoman_specialcompleted08.mp3": {
         "base_name": "demoman_specialcompleted08",
         "criteria": [
             [
@@ -10902,7 +10902,7 @@
         "state": "used",
         "transcript": "Let that be a bloody lesson to yeh!"
     },
-    "vo/demoman_specialcompleted09.mp3": {
+    "sound/vo/demoman_specialcompleted09.mp3": {
         "base_name": "demoman_specialcompleted09",
         "criteria": [
             [
@@ -10931,7 +10931,7 @@
         "state": "used",
         "transcript": "I had me good eye on you the whole time!"
     },
-    "vo/demoman_specialcompleted10.mp3": {
+    "sound/vo/demoman_specialcompleted10.mp3": {
         "base_name": "demoman_specialcompleted10",
         "criteria": [
             [
@@ -10960,7 +10960,7 @@
         "state": "used",
         "transcript": "Couldn't ya see the bloody bombs?"
     },
-    "vo/demoman_specialcompleted11.mp3": {
+    "sound/vo/demoman_specialcompleted11.mp3": {
         "base_name": "demoman_specialcompleted11",
         "criteria": [
             [
@@ -11030,7 +11030,7 @@
         "state": "used",
         "transcript": "Ka-boooom!"
     },
-    "vo/demoman_specialcompleted12.mp3": {
+    "sound/vo/demoman_specialcompleted12.mp3": {
         "base_name": "demoman_specialcompleted12",
         "criteria": [
             [
@@ -11068,7 +11068,7 @@
         "state": "used",
         "transcript": "Kablooie!"
     },
-    "vo/demoman_standonthepoint01.mp3": {
+    "sound/vo/demoman_standonthepoint01.mp3": {
         "base_name": "demoman_standonthepoint01",
         "criteria": [
             [
@@ -11102,7 +11102,7 @@
         "state": "used",
         "transcript": "Stand on the bloody point, ya half-wit!"
     },
-    "vo/demoman_standonthepoint02.mp3": {
+    "sound/vo/demoman_standonthepoint02.mp3": {
         "base_name": "demoman_standonthepoint02",
         "criteria": [
             [
@@ -11136,7 +11136,7 @@
         "state": "used",
         "transcript": "Stand on the point, ya git!"
     },
-    "vo/demoman_thanks01.mp3": {
+    "sound/vo/demoman_thanks01.mp3": {
         "base_name": "demoman_thanks01",
         "criteria": [
             [
@@ -11159,7 +11159,7 @@
         "state": "used",
         "transcript": "Thanks, mate!"
     },
-    "vo/demoman_thanks02.mp3": {
+    "sound/vo/demoman_thanks02.mp3": {
         "base_name": "demoman_thanks02",
         "criteria": [
             [
@@ -11182,7 +11182,7 @@
         "state": "used",
         "transcript": "Aye, thanks!"
     },
-    "vo/demoman_thanksfortheheal01.mp3": {
+    "sound/vo/demoman_thanksfortheheal01.mp3": {
         "base_name": "demoman_thanksfortheheal01",
         "criteria": [
             [
@@ -11209,7 +11209,7 @@
         "state": "used",
         "transcript": "Aye, thanks doc!"
     },
-    "vo/demoman_thanksfortheheal02.mp3": {
+    "sound/vo/demoman_thanksfortheheal02.mp3": {
         "base_name": "demoman_thanksfortheheal02",
         "criteria": [
             [
@@ -11236,7 +11236,7 @@
         "state": "used",
         "transcript": "Thank ye, doctor!"
     },
-    "vo/demoman_thanksfortheheal03.mp3": {
+    "sound/vo/demoman_thanksfortheheal03.mp3": {
         "base_name": "demoman_thanksfortheheal03",
         "criteria": [
             [
@@ -11263,7 +11263,7 @@
         "state": "used",
         "transcript": "Thanks, doc!"
     },
-    "vo/demoman_thanksfortheteleporter01.mp3": {
+    "sound/vo/demoman_thanksfortheteleporter01.mp3": {
         "base_name": "demoman_thanksfortheteleporter01",
         "criteria": [
             [
@@ -11288,7 +11288,7 @@
         "state": "used",
         "transcript": "Thanks fer the ride!"
     },
-    "vo/demoman_thanksfortheteleporter02.mp3": {
+    "sound/vo/demoman_thanksfortheteleporter02.mp3": {
         "base_name": "demoman_thanksfortheteleporter02",
         "criteria": [
             [
@@ -11316,7 +11316,7 @@
         "state": "used",
         "transcript": "Thanks, lad!"
     },
-    "vo/demoman_yes01.mp3": {
+    "sound/vo/demoman_yes01.mp3": {
         "base_name": "demoman_yes01",
         "criteria": [
             [
@@ -11341,7 +11341,7 @@
         "state": "used",
         "transcript": "Aye!"
     },
-    "vo/demoman_yes02.mp3": {
+    "sound/vo/demoman_yes02.mp3": {
         "base_name": "demoman_yes02",
         "criteria": [
             [
@@ -11370,7 +11370,7 @@
         "state": "used",
         "transcript": "Yah!"
     },
-    "vo/demoman_yes03.mp3": {
+    "sound/vo/demoman_yes03.mp3": {
         "base_name": "demoman_yes03",
         "criteria": [
             [
@@ -11393,7 +11393,7 @@
         "state": "used",
         "transcript": "Yes."
     },
-    "vo/taunts/demo/demo_aerobic_01.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_01.mp3": {
         "base_name": "demo_aerobic_01",
         "criteria": [],
         "events": [
@@ -11409,7 +11409,7 @@
         "state": "used",
         "transcript": "Whoo, whoo, yah sure! Woh, hup sti'that! Hup, hup, hup yap!"
     },
-    "vo/taunts/demo/demo_aerobic_02.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_02.mp3": {
         "base_name": "demo_aerobic_02",
         "criteria": [],
         "events": [
@@ -11425,7 +11425,7 @@
         "state": "used",
         "transcript": "Hoo, whoo! Whoo whoo, ogh!"
     },
-    "vo/taunts/demo/demo_aerobic_03.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_03.mp3": {
         "base_name": "demo_aerobic_03",
         "criteria": [],
         "events": [
@@ -11441,7 +11441,7 @@
         "state": "used",
         "transcript": "Hup, all right, here we go! Whoo! Whoo! That's right, whoo! Whoo!"
     },
-    "vo/taunts/demo/demo_aerobic_05.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_05.mp3": {
         "base_name": "demo_aerobic_05",
         "criteria": [],
         "events": [
@@ -11457,7 +11457,7 @@
         "state": "used",
         "transcript": "Hup hup hup, everybody! Feet up, feet up, feet up! That's it, there's go, ho ho! Oh yeah!"
     },
-    "vo/taunts/demo/demo_aerobic_11.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_11.mp3": {
         "base_name": "demo_aerobic_11",
         "criteria": [],
         "events": [
@@ -11473,7 +11473,7 @@
         "state": "used",
         "transcript": "Oh, d'ye like that, yeah? Oh you like that, oh!"
     },
-    "vo/taunts/demo/demo_aerobic_12.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_12.mp3": {
         "base_name": "demo_aerobic_12",
         "criteria": [],
         "events": [
@@ -11489,7 +11489,7 @@
         "state": "used",
         "transcript": "How 'bout this! Oh, yah!"
     },
-    "vo/taunts/demo/demo_aerobic_13.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_13.mp3": {
         "base_name": "demo_aerobic_13",
         "criteria": [],
         "events": [
@@ -11505,7 +11505,7 @@
         "state": "used",
         "transcript": "I'm a Scottish dancin' machine! Ha!"
     },
-    "vo/taunts/demo/demo_aerobic_15.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_15.mp3": {
         "base_name": "demo_aerobic_15",
         "criteria": [],
         "events": [
@@ -11521,7 +11521,7 @@
         "state": "used",
         "transcript": "I'm a bloody, I'm bloody on fire!"
     },
-    "vo/taunts/demo/demo_aerobic_16.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_16.mp3": {
         "base_name": "demo_aerobic_16",
         "criteria": [],
         "events": [
@@ -11537,7 +11537,7 @@
         "state": "used",
         "transcript": "Oh, I'm bloody on fire!"
     },
-    "vo/taunts/demo/demo_aerobic_17.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_17.mp3": {
         "base_name": "demo_aerobic_17",
         "criteria": [],
         "events": [
@@ -11553,7 +11553,7 @@
         "state": "used",
         "transcript": "Ah, who needs this depth perception when you can bloody move like this!"
     },
-    "vo/taunts/demo/demo_aerobic_24.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_24.mp3": {
         "base_name": "demo_aerobic_24",
         "criteria": [],
         "events": [
@@ -11569,7 +11569,7 @@
         "state": "used",
         "transcript": "Oh, I'm not going anywhere! I'm not going anywhere! I'm not going anywhere! Oh!"
     },
-    "vo/taunts/demo/demo_aerobic_31.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_31.mp3": {
         "base_name": "demo_aerobic_31",
         "criteria": [],
         "events": [
@@ -11585,7 +11585,7 @@
         "state": "used",
         "transcript": "Aye, a bit of this! And a wee bit of that! A wee bit of this!"
     },
-    "vo/taunts/demo/demo_aerobic_33.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_33.mp3": {
         "base_name": "demo_aerobic_33",
         "criteria": [],
         "events": [
@@ -11601,7 +11601,7 @@
         "state": "used",
         "transcript": "Aye, a bit of this! And a bit of this! A wee bit of this!"
     },
-    "vo/taunts/demo/demo_aerobic_37.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_37.mp3": {
         "base_name": "demo_aerobic_37",
         "criteria": [],
         "events": [
@@ -11617,7 +11617,7 @@
         "state": "used",
         "transcript": "(happy laughter)"
     },
-    "vo/taunts/demo/demo_aerobic_38.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_38.mp3": {
         "base_name": "demo_aerobic_38",
         "criteria": [],
         "events": [
@@ -11633,7 +11633,7 @@
         "state": "used",
         "transcript": "(excited grunting)"
     },
-    "vo/taunts/demo/demo_aerobic_40.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_40.mp3": {
         "base_name": "demo_aerobic_40",
         "criteria": [],
         "events": [
@@ -11649,7 +11649,7 @@
         "state": "used",
         "transcript": "Feet up! That's it! Let's go! Ho, ho! Oh yeah!"
     },
-    "vo/taunts/demo/demo_aerobic_boom_02.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_boom_02.mp3": {
         "base_name": "demo_aerobic_boom_02",
         "criteria": [],
         "events": [],
@@ -11659,7 +11659,7 @@
         "state": "unused",
         "transcript": "And boom!"
     },
-    "vo/taunts/demo/demo_aerobic_boom_03.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_boom_03.mp3": {
         "base_name": "demo_aerobic_boom_03",
         "criteria": [],
         "events": [],
@@ -11669,7 +11669,7 @@
         "state": "unused",
         "transcript": "And...boom goes the bomb! Ha ha!"
     },
-    "vo/taunts/demo/demo_aerobic_boom_04.mp3": {
+    "sound/vo/taunts/demo/demo_aerobic_boom_04.mp3": {
         "base_name": "demo_aerobic_boom_04",
         "criteria": [],
         "events": [],
@@ -11679,7 +11679,7 @@
         "state": "unused",
         "transcript": "And..boom goes the bomb!"
     },
-    "vo/taunts/demo/demo_badpipes_02.mp3": {
+    "sound/vo/taunts/demo/demo_badpipes_02.mp3": {
         "base_name": "demo_badpipes_02",
         "criteria": [],
         "events": [
@@ -11695,7 +11695,7 @@
         "state": "used",
         "transcript": "Hah! Nailed it!"
     },
-    "vo/taunts/demo/demo_badpipes_05.mp3": {
+    "sound/vo/taunts/demo/demo_badpipes_05.mp3": {
         "base_name": "demo_badpipes_05",
         "criteria": [],
         "events": [
@@ -11711,7 +11711,7 @@
         "state": "used",
         "transcript": "Oh it brings tears to the eye, it does!"
     },
-    "vo/taunts/demo/demo_badpipes_08.mp3": {
+    "sound/vo/taunts/demo/demo_badpipes_08.mp3": {
         "base_name": "demo_badpipes_08",
         "criteria": [],
         "events": [
@@ -11727,7 +11727,7 @@
         "state": "used",
         "transcript": "Like a chorus of wee bagpipe-playing angels!"
     },
-    "vo/taunts/demo/demo_badpipes_09.mp3": {
+    "sound/vo/taunts/demo/demo_badpipes_09.mp3": {
         "base_name": "demo_badpipes_09",
         "criteria": [],
         "events": [
@@ -11743,7 +11743,7 @@
         "state": "used",
         "transcript": "Never played before in me life!"
     },
-    "vo/taunts/demo/demo_taunt_wild_06.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_06.mp3": {
         "base_name": "demo_taunt_wild_06",
         "criteria": [],
         "events": [
@@ -11763,7 +11763,7 @@
         "state": "used",
         "transcript": "That's good scrumpy!"
     },
-    "vo/taunts/demo/demo_taunt_wild_09.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_09.mp3": {
         "base_name": "demo_taunt_wild_09",
         "criteria": [],
         "events": [
@@ -11783,7 +11783,7 @@
         "state": "used",
         "transcript": "I love cheap whiskey!"
     },
-    "vo/taunts/demo/demo_taunt_wild_24.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_24.mp3": {
         "base_name": "demo_taunt_wild_24",
         "criteria": [],
         "events": [
@@ -11802,7 +11802,7 @@
         "state": "used",
         "transcript": "Hah ha!"
     },
-    "vo/taunts/demo/demo_taunt_wild_29.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_29.mp3": {
         "base_name": "demo_taunt_wild_29",
         "criteria": [],
         "events": [
@@ -11820,7 +11820,7 @@
         "state": "used",
         "transcript": "Ah hah ha!"
     },
-    "vo/taunts/demo/demo_taunt_wild_30.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_30.mp3": {
         "base_name": "demo_taunt_wild_30",
         "criteria": [],
         "events": [
@@ -11840,7 +11840,7 @@
         "state": "used",
         "transcript": "Whoop de doo!"
     },
-    "vo/taunts/demo/demo_taunt_wild_31.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_31.mp3": {
         "base_name": "demo_taunt_wild_31",
         "criteria": [],
         "events": [
@@ -11856,7 +11856,7 @@
         "state": "used",
         "transcript": "Eh hah ha!"
     },
-    "vo/taunts/demo/demo_taunt_wild_32.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_32.mp3": {
         "base_name": "demo_taunt_wild_32",
         "criteria": [],
         "events": [],
@@ -11866,7 +11866,7 @@
         "state": "unused",
         "transcript": "Woo hoo!"
     },
-    "vo/taunts/demo/demo_taunt_wild_33.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_33.mp3": {
         "base_name": "demo_taunt_wild_33",
         "criteria": [],
         "events": [
@@ -11885,7 +11885,7 @@
         "state": "used",
         "transcript": "Wooh hoo!"
     },
-    "vo/taunts/demo/demo_taunt_wild_34.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_34.mp3": {
         "base_name": "demo_taunt_wild_34",
         "criteria": [],
         "events": [
@@ -11907,7 +11907,7 @@
         "state": "used",
         "transcript": "Woo hooh."
     },
-    "vo/taunts/demo/demo_taunt_wild_35.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_35.mp3": {
         "base_name": "demo_taunt_wild_35",
         "criteria": [],
         "events": [
@@ -11923,7 +11923,7 @@
         "state": "used",
         "transcript": "[weakly] Whoo hoo!"
     },
-    "vo/taunts/demo/demo_taunt_wild_36.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_36.mp3": {
         "base_name": "demo_taunt_wild_36",
         "criteria": [],
         "events": [
@@ -11939,7 +11939,7 @@
         "state": "used",
         "transcript": "FREEDOM!"
     },
-    "vo/taunts/demo/demo_taunt_wild_39.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_39.mp3": {
         "base_name": "demo_taunt_wild_39",
         "criteria": [],
         "events": [
@@ -11955,7 +11955,7 @@
         "state": "used",
         "transcript": "HAH HAAA!"
     },
-    "vo/taunts/demo/demo_taunt_wild_40.mp3": {
+    "sound/vo/taunts/demo/demo_taunt_wild_40.mp3": {
         "base_name": "demo_taunt_wild_40",
         "criteria": [],
         "events": [
@@ -11971,7 +11971,7 @@
         "state": "used",
         "transcript": "Hah ha ha ha!"
     },
-    "vo/taunts/demo/demo_trade_02.mp3": {
+    "sound/vo/taunts/demo/demo_trade_02.mp3": {
         "base_name": "demo_trade_02",
         "criteria": [],
         "events": [
@@ -11991,7 +11991,7 @@
         "state": "used",
         "transcript": "Look at this bonny thing!"
     },
-    "vo/taunts/demo/demo_trade_04.mp3": {
+    "sound/vo/taunts/demo/demo_trade_04.mp3": {
         "base_name": "demo_trade_04",
         "criteria": [],
         "events": [
@@ -12009,7 +12009,7 @@
         "state": "used",
         "transcript": "Ya might like this!"
     },
-    "vo/taunts/demo/demo_trade_12.mp3": {
+    "sound/vo/taunts/demo/demo_trade_12.mp3": {
         "base_name": "demo_trade_12",
         "criteria": [],
         "events": [
@@ -12028,7 +12028,7 @@
         "state": "used",
         "transcript": "What you think, eh?"
     },
-    "vo/taunts/demo/demo_trade_15.mp3": {
+    "sound/vo/taunts/demo/demo_trade_15.mp3": {
         "base_name": "demo_trade_15",
         "criteria": [],
         "events": [
@@ -12046,7 +12046,7 @@
         "state": "used",
         "transcript": "Cast your eyes on this!"
     },
-    "vo/taunts/demo/demo_trade_17.mp3": {
+    "sound/vo/taunts/demo/demo_trade_17.mp3": {
         "base_name": "demo_trade_17",
         "criteria": [],
         "events": [
@@ -12063,7 +12063,7 @@
         "state": "used",
         "transcript": "Not bad, eh?"
     },
-    "vo/taunts/demo/demo_trade_18.mp3": {
+    "sound/vo/taunts/demo/demo_trade_18.mp3": {
         "base_name": "demo_trade_18",
         "criteria": [],
         "events": [
@@ -12075,7 +12075,7 @@
         "state": "used",
         "transcript": "[hopeful encouraging grunts and a laugh"
     },
-    "vo/taunts/demo/demo_trade_20.mp3": {
+    "sound/vo/taunts/demo/demo_trade_20.mp3": {
         "base_name": "demo_trade_20",
         "criteria": [],
         "events": [
@@ -12087,7 +12087,7 @@
         "state": "used",
         "transcript": "[questioning, hopeful and pleased grunts with a laugh"
     },
-    "vo/taunts/demo/demoman_laughhappy02.mp3": {
+    "sound/vo/taunts/demo/demoman_laughhappy02.mp3": {
         "base_name": "demoman_laughhappy02",
         "criteria": [],
         "events": [
@@ -12113,7 +12113,7 @@
         "state": "used",
         "transcript": "(Happy laugh)"
     },
-    "vo/taunts/demo/taunt_demo_admire_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_admire_06.mp3": {
         "base_name": "taunt_demo_admire_06",
         "criteria": [],
         "events": [
@@ -12131,7 +12131,7 @@
         "state": "used",
         "transcript": "Hah hah! Yes!"
     },
-    "vo/taunts/demo/taunt_demo_burp_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_burp_03.mp3": {
         "base_name": "taunt_demo_burp_03",
         "criteria": [],
         "events": [
@@ -12159,7 +12159,7 @@
         "state": "used",
         "transcript": "[Burps"
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_08.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_08.mp3": {
         "base_name": "taunt_demo_conga_fun_08",
         "criteria": [],
         "events": [
@@ -12175,7 +12175,7 @@
         "state": "used",
         "transcript": "Hey, hey, hey, hey!"
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_10.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_10.mp3": {
         "base_name": "taunt_demo_conga_fun_10",
         "criteria": [],
         "events": [
@@ -12191,7 +12191,7 @@
         "state": "used",
         "transcript": "Hoo hoo!"
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_11.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_11.mp3": {
         "base_name": "taunt_demo_conga_fun_11",
         "criteria": [],
         "events": [
@@ -12207,7 +12207,7 @@
         "state": "used",
         "transcript": "Whoop, hey!"
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_12.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_12.mp3": {
         "base_name": "taunt_demo_conga_fun_12",
         "criteria": [],
         "events": [
@@ -12223,7 +12223,7 @@
         "state": "used",
         "transcript": "Conga, conga, conga!"
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_18.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_18.mp3": {
         "base_name": "taunt_demo_conga_fun_18",
         "criteria": [],
         "events": [
@@ -12239,7 +12239,7 @@
         "state": "used",
         "transcript": "(singing) \"Conga, conga, conga!\""
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_19.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_19.mp3": {
         "base_name": "taunt_demo_conga_fun_19",
         "criteria": [],
         "events": [
@@ -12255,7 +12255,7 @@
         "state": "used",
         "transcript": "(singing) \"Conga, conga, conga!\""
     },
-    "vo/taunts/demo/taunt_demo_conga_fun_24.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_fun_24.mp3": {
         "base_name": "taunt_demo_conga_fun_24",
         "criteria": [],
         "events": [
@@ -12271,7 +12271,7 @@
         "state": "used",
         "transcript": "I love the conga!"
     },
-    "vo/taunts/demo/taunt_demo_conga_int_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_01.mp3": {
         "base_name": "taunt_demo_conga_int_01",
         "criteria": [],
         "events": [
@@ -12287,7 +12287,7 @@
         "state": "used",
         "transcript": "Conga, lads!"
     },
-    "vo/taunts/demo/taunt_demo_conga_int_02.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_02.mp3": {
         "base_name": "taunt_demo_conga_int_02",
         "criteria": [],
         "events": [
@@ -12303,7 +12303,7 @@
         "state": "used",
         "transcript": "CONGA! Conga, Conga! Ha ha ha!"
     },
-    "vo/taunts/demo/taunt_demo_conga_int_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_04.mp3": {
         "base_name": "taunt_demo_conga_int_04",
         "criteria": [],
         "events": [
@@ -12319,7 +12319,7 @@
         "state": "used",
         "transcript": "Conga!"
     },
-    "vo/taunts/demo/taunt_demo_conga_int_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_05.mp3": {
         "base_name": "taunt_demo_conga_int_05",
         "criteria": [],
         "events": [
@@ -12335,7 +12335,7 @@
         "state": "used",
         "transcript": "Cong-ga."
     },
-    "vo/taunts/demo/taunt_demo_conga_int_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_06.mp3": {
         "base_name": "taunt_demo_conga_int_06",
         "criteria": [],
         "events": [
@@ -12354,7 +12354,7 @@
         "state": "used",
         "transcript": "Ha ha ha!"
     },
-    "vo/taunts/demo/taunt_demo_conga_int_07.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_conga_int_07.mp3": {
         "base_name": "taunt_demo_conga_int_07",
         "criteria": [],
         "events": [
@@ -12370,7 +12370,7 @@
         "state": "used",
         "transcript": "Conga lads!"
     },
-    "vo/taunts/demo/taunt_demo_dose_end_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_end_01.mp3": {
         "base_name": "taunt_demo_dose_end_01",
         "criteria": [],
         "events": [
@@ -12388,7 +12388,7 @@
         "state": "used",
         "transcript": "Ha ha ho ho hwah!"
     },
-    "vo/taunts/demo/taunt_demo_dose_end_02.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_end_02.mp3": {
         "base_name": "taunt_demo_dose_end_02",
         "criteria": [],
         "events": [
@@ -12409,7 +12409,7 @@
         "state": "used",
         "transcript": "Ah ha ha!"
     },
-    "vo/taunts/demo/taunt_demo_dose_end_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_end_03.mp3": {
         "base_name": "taunt_demo_dose_end_03",
         "criteria": [],
         "events": [
@@ -12428,7 +12428,7 @@
         "state": "used",
         "transcript": "Eh he ha ha!"
     },
-    "vo/taunts/demo/taunt_demo_dose_end_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_end_04.mp3": {
         "base_name": "taunt_demo_dose_end_04",
         "criteria": [],
         "events": [
@@ -12450,7 +12450,7 @@
         "state": "used",
         "transcript": "He hee hoo!"
     },
-    "vo/taunts/demo/taunt_demo_dose_end_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_end_05.mp3": {
         "base_name": "taunt_demo_dose_end_05",
         "criteria": [],
         "events": [
@@ -12466,7 +12466,7 @@
         "state": "used",
         "transcript": "Ooogh!"
     },
-    "vo/taunts/demo/taunt_demo_dose_fun_07.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_fun_07.mp3": {
         "base_name": "taunt_demo_dose_fun_07",
         "criteria": [],
         "events": [
@@ -12484,7 +12484,7 @@
         "state": "used",
         "transcript": "Ha ha ha!"
     },
-    "vo/taunts/demo/taunt_demo_dose_fun_08.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_fun_08.mp3": {
         "base_name": "taunt_demo_dose_fun_08",
         "criteria": [],
         "events": [
@@ -12500,7 +12500,7 @@
         "state": "used",
         "transcript": "[drunkenness"
     },
-    "vo/taunts/demo/taunt_demo_dose_int_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_int_04.mp3": {
         "base_name": "taunt_demo_dose_int_04",
         "criteria": [],
         "events": [
@@ -12516,7 +12516,7 @@
         "state": "used",
         "transcript": "Let's dance!"
     },
-    "vo/taunts/demo/taunt_demo_dose_int_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_int_05.mp3": {
         "base_name": "taunt_demo_dose_int_05",
         "criteria": [],
         "events": [
@@ -12532,7 +12532,7 @@
         "state": "used",
         "transcript": "[drunken mumbling] \"Let's dance!\""
     },
-    "vo/taunts/demo/taunt_demo_dose_int_09.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_dose_int_09.mp3": {
         "base_name": "taunt_demo_dose_int_09",
         "criteria": [],
         "events": [
@@ -12548,7 +12548,7 @@
         "state": "used",
         "transcript": "Let's do-si-do, he he he!"
     },
-    "vo/taunts/demo/taunt_demo_exert_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_exert_04.mp3": {
         "base_name": "taunt_demo_exert_04",
         "criteria": [],
         "events": [
@@ -12572,7 +12572,7 @@
         "state": "used",
         "transcript": "Hwap, ouww."
     },
-    "vo/taunts/demo/taunt_demo_exert_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_exert_06.mp3": {
         "base_name": "taunt_demo_exert_06",
         "criteria": [],
         "events": [
@@ -12591,7 +12591,7 @@
         "state": "used",
         "transcript": "Howup!"
     },
-    "vo/taunts/demo/taunt_demo_exert_08.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_exert_08.mp3": {
         "base_name": "taunt_demo_exert_08",
         "criteria": [],
         "events": [
@@ -12615,7 +12615,7 @@
         "state": "used",
         "transcript": "Heyup!"
     },
-    "vo/taunts/demo/taunt_demo_flip_exert_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_exert_03.mp3": {
         "base_name": "taunt_demo_flip_exert_03",
         "criteria": [],
         "events": [
@@ -12639,7 +12639,7 @@
         "state": "used",
         "transcript": "Hup!"
     },
-    "vo/taunts/demo/taunt_demo_flip_fun_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_fun_01.mp3": {
         "base_name": "taunt_demo_flip_fun_01",
         "criteria": [],
         "events": [
@@ -12659,7 +12659,7 @@
         "state": "used",
         "transcript": "Wooohooo!"
     },
-    "vo/taunts/demo/taunt_demo_flip_fun_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_fun_03.mp3": {
         "base_name": "taunt_demo_flip_fun_03",
         "criteria": [],
         "events": [
@@ -12675,7 +12675,7 @@
         "state": "used",
         "transcript": "Whoaaaa!"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_05.mp3": {
         "base_name": "taunt_demo_flip_int_05",
         "criteria": [],
         "events": [
@@ -12691,7 +12691,7 @@
         "state": "used",
         "transcript": "I'll flip ya!"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_06.mp3": {
         "base_name": "taunt_demo_flip_int_06",
         "criteria": [],
         "events": [
@@ -12707,7 +12707,7 @@
         "state": "used",
         "transcript": "I'll flip ya."
     },
-    "vo/taunts/demo/taunt_demo_flip_int_08.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_08.mp3": {
         "base_name": "taunt_demo_flip_int_08",
         "criteria": [],
         "events": [
@@ -12723,7 +12723,7 @@
         "state": "used",
         "transcript": "Who wants a flippin'?"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_10.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_10.mp3": {
         "base_name": "taunt_demo_flip_int_10",
         "criteria": [],
         "events": [
@@ -12739,7 +12739,7 @@
         "state": "used",
         "transcript": "Oy, let's flip!"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_12.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_12.mp3": {
         "base_name": "taunt_demo_flip_int_12",
         "criteria": [],
         "events": [
@@ -12755,7 +12755,7 @@
         "state": "used",
         "transcript": "Oy, let's flip."
     },
-    "vo/taunts/demo/taunt_demo_flip_int_13.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_13.mp3": {
         "base_name": "taunt_demo_flip_int_13",
         "criteria": [],
         "events": [
@@ -12771,7 +12771,7 @@
         "state": "used",
         "transcript": "Who wants a go?"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_14.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_14.mp3": {
         "base_name": "taunt_demo_flip_int_14",
         "criteria": [],
         "events": [
@@ -12787,7 +12787,7 @@
         "state": "used",
         "transcript": "Who wants a go, eh?"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_16.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_16.mp3": {
         "base_name": "taunt_demo_flip_int_16",
         "criteria": [],
         "events": [
@@ -12803,7 +12803,7 @@
         "state": "used",
         "transcript": "Aye, let's go!"
     },
-    "vo/taunts/demo/taunt_demo_flip_int_18.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_18.mp3": {
         "base_name": "taunt_demo_flip_int_18",
         "criteria": [],
         "events": [
@@ -12819,7 +12819,7 @@
         "state": "used",
         "transcript": "Aye, let's go."
     },
-    "vo/taunts/demo/taunt_demo_flip_int_20.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_int_20.mp3": {
         "base_name": "taunt_demo_flip_int_20",
         "criteria": [],
         "events": [
@@ -12835,7 +12835,7 @@
         "state": "used",
         "transcript": "Let's give ya a hand!"
     },
-    "vo/taunts/demo/taunt_demo_flip_neg_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_neg_01.mp3": {
         "base_name": "taunt_demo_flip_neg_01",
         "criteria": [],
         "events": [
@@ -12847,7 +12847,7 @@
         "state": "used",
         "transcript": "Heyeah!"
     },
-    "vo/taunts/demo/taunt_demo_flip_neg_02.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_neg_02.mp3": {
         "base_name": "taunt_demo_flip_neg_02",
         "criteria": [],
         "events": [
@@ -12866,7 +12866,7 @@
         "state": "used",
         "transcript": "Uhhh!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_01.mp3": {
         "base_name": "taunt_demo_flip_post_fun_01",
         "criteria": [],
         "events": [
@@ -12887,7 +12887,7 @@
         "state": "used",
         "transcript": "Oof, I'm dizzy!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_03.mp3": {
         "base_name": "taunt_demo_flip_post_fun_03",
         "criteria": [],
         "events": [
@@ -12911,7 +12911,7 @@
         "state": "used",
         "transcript": "Oh ho ah ho, I'm dizzy!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_04.mp3": {
         "base_name": "taunt_demo_flip_post_fun_04",
         "criteria": [],
         "events": [
@@ -12932,7 +12932,7 @@
         "state": "used",
         "transcript": "Ough, I must be drunk!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_05.mp3": {
         "base_name": "taunt_demo_flip_post_fun_05",
         "criteria": [],
         "events": [
@@ -12953,7 +12953,7 @@
         "state": "used",
         "transcript": "Hwap, ouww."
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_point_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_point_03.mp3": {
         "base_name": "taunt_demo_flip_post_fun_point_03",
         "criteria": [],
         "events": [
@@ -12977,7 +12977,7 @@
         "state": "used",
         "transcript": "Haha! This guy!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_point_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_point_04.mp3": {
         "base_name": "taunt_demo_flip_post_fun_point_04",
         "criteria": [],
         "events": [
@@ -13001,7 +13001,7 @@
         "state": "used",
         "transcript": "Ha ha, there he is!"
     },
-    "vo/taunts/demo/taunt_demo_flip_post_fun_point_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_flip_post_fun_point_06.mp3": {
         "base_name": "taunt_demo_flip_post_fun_point_06",
         "criteria": [],
         "events": [
@@ -13025,7 +13025,7 @@
         "state": "used",
         "transcript": "Ha ha, ya crazy man!"
     },
-    "vo/taunts/demo/taunt_demo_head_exert_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_head_exert_05.mp3": {
         "base_name": "taunt_demo_head_exert_05",
         "criteria": [],
         "events": [
@@ -13041,7 +13041,7 @@
         "state": "used",
         "transcript": "Erroough!"
     },
-    "vo/taunts/demo/taunt_demo_head_int_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_head_int_01.mp3": {
         "base_name": "taunt_demo_head_int_01",
         "criteria": [],
         "events": [
@@ -13058,7 +13058,7 @@
         "state": "used",
         "transcript": "Right here!"
     },
-    "vo/taunts/demo/taunt_demo_head_int_09.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_head_int_09.mp3": {
         "base_name": "taunt_demo_head_int_09",
         "criteria": [],
         "events": [
@@ -13074,7 +13074,7 @@
         "state": "used",
         "transcript": "Who's for a head buttin'?"
     },
-    "vo/taunts/demo/taunt_demo_head_rec_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_head_rec_05.mp3": {
         "base_name": "taunt_demo_head_rec_05",
         "criteria": [],
         "events": [
@@ -13090,7 +13090,7 @@
         "state": "used",
         "transcript": "Now that's a head-butt!"
     },
-    "vo/taunts/demo/taunt_demo_int_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_01.mp3": {
         "base_name": "taunt_demo_int_01",
         "criteria": [],
         "events": [
@@ -13111,7 +13111,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/demo/taunt_demo_int_03.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_03.mp3": {
         "base_name": "taunt_demo_int_03",
         "criteria": [],
         "events": [
@@ -13129,7 +13129,7 @@
         "state": "used",
         "transcript": "Come on!"
     },
-    "vo/taunts/demo/taunt_demo_int_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_04.mp3": {
         "base_name": "taunt_demo_int_04",
         "criteria": [],
         "events": [
@@ -13147,7 +13147,7 @@
         "state": "used",
         "transcript": "Come on."
     },
-    "vo/taunts/demo/taunt_demo_int_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_05.mp3": {
         "base_name": "taunt_demo_int_05",
         "criteria": [],
         "events": [
@@ -13165,7 +13165,7 @@
         "state": "used",
         "transcript": "Come at me!"
     },
-    "vo/taunts/demo/taunt_demo_int_10.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_10.mp3": {
         "base_name": "taunt_demo_int_10",
         "criteria": [],
         "events": [
@@ -13183,7 +13183,7 @@
         "state": "used",
         "transcript": "Aye!"
     },
-    "vo/taunts/demo/taunt_demo_int_15.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_15.mp3": {
         "base_name": "taunt_demo_int_15",
         "criteria": [],
         "events": [
@@ -13199,7 +13199,7 @@
         "state": "used",
         "transcript": "Aye, let's do it!"
     },
-    "vo/taunts/demo/taunt_demo_int_19.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_19.mp3": {
         "base_name": "taunt_demo_int_19",
         "criteria": [],
         "events": [
@@ -13215,7 +13215,7 @@
         "state": "used",
         "transcript": "Let's do this!"
     },
-    "vo/taunts/demo/taunt_demo_int_21.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_21.mp3": {
         "base_name": "taunt_demo_int_21",
         "criteria": [],
         "events": [
@@ -13231,7 +13231,7 @@
         "state": "used",
         "transcript": "Let's do this!"
     },
-    "vo/taunts/demo/taunt_demo_int_27.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_27.mp3": {
         "base_name": "taunt_demo_int_27",
         "criteria": [],
         "events": [
@@ -13255,7 +13255,7 @@
         "state": "used",
         "transcript": "Come on, then!"
     },
-    "vo/taunts/demo/taunt_demo_int_30.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_30.mp3": {
         "base_name": "taunt_demo_int_30",
         "criteria": [],
         "events": [
@@ -13275,7 +13275,7 @@
         "state": "used",
         "transcript": "Come on, then!"
     },
-    "vo/taunts/demo/taunt_demo_int_34.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_int_34.mp3": {
         "base_name": "taunt_demo_int_34",
         "criteria": [],
         "events": [
@@ -13294,7 +13294,7 @@
         "state": "used",
         "transcript": "Get over here!"
     },
-    "vo/taunts/demo/taunt_demo_nuke_1_grenade_get.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_1_grenade_get.mp3": {
         "base_name": "taunt_demo_nuke_1_grenade_get",
         "criteria": [],
         "events": [
@@ -13310,7 +13310,7 @@
         "state": "used",
         "transcript": "[pulls out grenade"
     },
-    "vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3": {
         "base_name": "taunt_demo_nuke_2_grenade_open",
         "criteria": [],
         "events": [
@@ -13330,7 +13330,7 @@
         "state": "used",
         "transcript": "[cracks open grenade"
     },
-    "vo/taunts/demo/taunt_demo_nuke_3_spit_lid.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_3_spit_lid.mp3": {
         "base_name": "taunt_demo_nuke_3_spit_lid",
         "criteria": [],
         "events": [
@@ -13348,7 +13348,7 @@
         "state": "used",
         "transcript": "[spits out lid"
     },
-    "vo/taunts/demo/taunt_demo_nuke_4_pour.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_4_pour.mp3": {
         "base_name": "taunt_demo_nuke_4_pour",
         "criteria": [],
         "events": [
@@ -13368,7 +13368,7 @@
         "state": "used",
         "transcript": "[pours both liquids in his mouth"
     },
-    "vo/taunts/demo/taunt_demo_nuke_5_grenade_drop.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_5_grenade_drop.mp3": {
         "base_name": "taunt_demo_nuke_5_grenade_drop",
         "criteria": [],
         "events": [
@@ -13384,7 +13384,7 @@
         "state": "used",
         "transcript": "[drops grenade"
     },
-    "vo/taunts/demo/taunt_demo_nuke_6_bottle_drop.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_6_bottle_drop.mp3": {
         "base_name": "taunt_demo_nuke_6_bottle_drop",
         "criteria": [],
         "events": [
@@ -13400,7 +13400,7 @@
         "state": "used",
         "transcript": "[drops bottle"
     },
-    "vo/taunts/demo/taunt_demo_nuke_7_spit.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_7_spit.mp3": {
         "base_name": "taunt_demo_nuke_7_spit",
         "criteria": [],
         "events": [
@@ -13416,7 +13416,7 @@
         "state": "used",
         "transcript": "[spits liquids into the air"
     },
-    "vo/taunts/demo/taunt_demo_nuke_8_explosion.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_nuke_8_explosion.mp3": {
         "base_name": "taunt_demo_nuke_8_explosion",
         "criteria": [],
         "events": [
@@ -13434,7 +13434,7 @@
         "state": "used",
         "transcript": "[explosion"
     },
-    "vo/taunts/demo/taunt_demo_rps_exert_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_exert_04.mp3": {
         "base_name": "taunt_demo_rps_exert_04",
         "criteria": [],
         "events": [
@@ -13461,7 +13461,7 @@
         "state": "used",
         "transcript": "One, two, three!"
     },
-    "vo/taunts/demo/taunt_demo_rps_int_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_int_01.mp3": {
         "base_name": "taunt_demo_rps_int_01",
         "criteria": [],
         "events": [
@@ -13477,7 +13477,7 @@
         "state": "used",
         "transcript": "Rock, paper, scissors!"
     },
-    "vo/taunts/demo/taunt_demo_rps_int_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_int_06.mp3": {
         "base_name": "taunt_demo_rps_int_06",
         "criteria": [],
         "events": [
@@ -13493,7 +13493,7 @@
         "state": "used",
         "transcript": "Who want ta throw?"
     },
-    "vo/taunts/demo/taunt_demo_rps_lose_04.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_lose_04.mp3": {
         "base_name": "taunt_demo_rps_lose_04",
         "criteria": [],
         "events": [
@@ -13510,7 +13510,7 @@
         "state": "used",
         "transcript": "Nooo!"
     },
-    "vo/taunts/demo/taunt_demo_rps_lose_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_lose_06.mp3": {
         "base_name": "taunt_demo_rps_lose_06",
         "criteria": [],
         "events": [
@@ -13527,7 +13527,7 @@
         "state": "used",
         "transcript": "Aw, come on."
     },
-    "vo/taunts/demo/taunt_demo_rps_lose_09.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_lose_09.mp3": {
         "base_name": "taunt_demo_rps_lose_09",
         "criteria": [],
         "events": [
@@ -13550,7 +13550,7 @@
         "state": "used",
         "transcript": "Oh, 'tis a dark day."
     },
-    "vo/taunts/demo/taunt_demo_rps_win_05.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_05.mp3": {
         "base_name": "taunt_demo_rps_win_05",
         "criteria": [],
         "events": [
@@ -13568,7 +13568,7 @@
         "state": "used",
         "transcript": "Ohhh yesss!"
     },
-    "vo/taunts/demo/taunt_demo_rps_win_06.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_06.mp3": {
         "base_name": "taunt_demo_rps_win_06",
         "criteria": [],
         "events": [
@@ -13585,7 +13585,7 @@
         "state": "used",
         "transcript": "Ay!"
     },
-    "vo/taunts/demo/taunt_demo_rps_win_08.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_08.mp3": {
         "base_name": "taunt_demo_rps_win_08",
         "criteria": [],
         "events": [
@@ -13602,7 +13602,7 @@
         "state": "used",
         "transcript": "Oh, perfect!"
     },
-    "vo/taunts/demo/taunt_demo_rps_win_25.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_25.mp3": {
         "base_name": "taunt_demo_rps_win_25",
         "criteria": [],
         "events": [
@@ -13628,7 +13628,7 @@
         "state": "used",
         "transcript": "Woo hoo hoo hoo!"
     },
-    "vo/taunts/demo/taunt_demo_rps_win_27.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_27.mp3": {
         "base_name": "taunt_demo_rps_win_27",
         "criteria": [],
         "events": [
@@ -13649,7 +13649,7 @@
         "state": "used",
         "transcript": "Yeh hah!"
     },
-    "vo/taunts/demo/taunt_demo_rps_win_28.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_rps_win_28.mp3": {
         "base_name": "taunt_demo_rps_win_28",
         "criteria": [],
         "events": [
@@ -13670,7 +13670,7 @@
         "state": "used",
         "transcript": "That's a wee!"
     },
-    "vo/taunts/demo/taunt_demo_strike_01.mp3": {
+    "sound/vo/taunts/demo/taunt_demo_strike_01.mp3": {
         "base_name": "taunt_demo_strike_01",
         "criteria": [],
         "events": [
@@ -13689,7 +13689,7 @@
         "state": "used",
         "transcript": "Hah!"
     },
-    "vo/taunts/demo_guzzle_01.mp3": {
+    "sound/vo/taunts/demo_guzzle_01.mp3": {
         "base_name": "demo_guzzle_01",
         "criteria": [],
         "events": [
@@ -13707,7 +13707,7 @@
         "state": "used",
         "transcript": "[glugging, smacks lips"
     },
-    "vo/taunts/demo_taunt_wild_25.mp3": {
+    "sound/vo/taunts/demo_taunt_wild_25.mp3": {
         "base_name": "demo_taunt_wild_25",
         "criteria": [],
         "events": [],
@@ -13717,7 +13717,7 @@
         "state": "unused",
         "transcript": "Argh! Phht!"
     },
-    "vo/taunts/demo_taunt_wild_27.mp3": {
+    "sound/vo/taunts/demo_taunt_wild_27.mp3": {
         "base_name": "demo_taunt_wild_27",
         "criteria": [],
         "events": [],
@@ -13727,7 +13727,7 @@
         "state": "unused",
         "transcript": "Pbbbbt! Ergh!"
     },
-    "vo/taunts/demoman_laughevil01.mp3": {
+    "sound/vo/taunts/demoman_laughevil01.mp3": {
         "base_name": "demoman_laughevil01",
         "criteria": [],
         "events": [],
@@ -13737,7 +13737,7 @@
         "state": "unused",
         "transcript": "(Evil laugh 1)"
     },
-    "vo/taunts/demoman_laughshort01.mp3": {
+    "sound/vo/taunts/demoman_laughshort01.mp3": {
         "base_name": "demoman_laughshort01",
         "criteria": [],
         "events": [
@@ -13753,7 +13753,7 @@
         "state": "used",
         "transcript": "(Short laugh)"
     },
-    "vo/taunts/demoman_positivevocalization01.mp3": {
+    "sound/vo/taunts/demoman_positivevocalization01.mp3": {
         "base_name": "demoman_positivevocalization01",
         "criteria": [],
         "events": [],
@@ -13763,7 +13763,7 @@
         "state": "unused",
         "transcript": "Bloody brilliant!"
     },
-    "vo/taunts/demoman_taunts01.mp3": {
+    "sound/vo/taunts/demoman_taunts01.mp3": {
         "base_name": "demoman_taunts01",
         "criteria": [
             [
@@ -13790,7 +13790,7 @@
         "state": "used",
         "transcript": "All yah dandies prancin' aboot with ya heads full of eyeballs!"
     },
-    "vo/taunts/demoman_taunts02.mp3": {
+    "sound/vo/taunts/demoman_taunts02.mp3": {
         "base_name": "demoman_taunts02",
         "criteria": [
             [
@@ -13819,7 +13819,7 @@
         "state": "used",
         "transcript": "Ya great lactating wet nurse!"
     },
-    "vo/taunts/demoman_taunts03.mp3": {
+    "sound/vo/taunts/demoman_taunts03.mp3": {
         "base_name": "demoman_taunts03",
         "criteria": [
             [
@@ -13850,7 +13850,7 @@
         "state": "used",
         "transcript": "I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!"
     },
-    "vo/taunts/demoman_taunts04.mp3": {
+    "sound/vo/taunts/demoman_taunts04.mp3": {
         "base_name": "demoman_taunts04",
         "criteria": [
             [
@@ -13879,7 +13879,7 @@
         "state": "used",
         "transcript": "Don't fret, boyo. I'll be gentle!"
     },
-    "vo/taunts/demoman_taunts05.mp3": {
+    "sound/vo/taunts/demoman_taunts05.mp3": {
         "base_name": "demoman_taunts05",
         "criteria": [
             [
@@ -13910,7 +13910,7 @@
         "state": "used",
         "transcript": "Ohh, I'm gonna beat ya so hard, you'll have a twitch!"
     },
-    "vo/taunts/demoman_taunts06.mp3": {
+    "sound/vo/taunts/demoman_taunts06.mp3": {
         "base_name": "demoman_taunts06",
         "criteria": [
             [
@@ -13937,7 +13937,7 @@
         "state": "used",
         "transcript": "I'm gonna be all over ya like shingles!"
     },
-    "vo/taunts/demoman_taunts07.mp3": {
+    "sound/vo/taunts/demoman_taunts07.mp3": {
         "base_name": "demoman_taunts07",
         "criteria": [
             [
@@ -13964,7 +13964,7 @@
         "state": "used",
         "transcript": "You're makin' me very cross'!"
     },
-    "vo/taunts/demoman_taunts08.mp3": {
+    "sound/vo/taunts/demoman_taunts08.mp3": {
         "base_name": "demoman_taunts08",
         "criteria": [
             [
@@ -13993,7 +13993,7 @@
         "state": "used",
         "transcript": "Oh, they're goin' ta have to glue you back together... IN HELL!"
     },
-    "vo/taunts/demoman_taunts09.mp3": {
+    "sound/vo/taunts/demoman_taunts09.mp3": {
         "base_name": "demoman_taunts09",
         "criteria": [
             [
@@ -14028,7 +14028,7 @@
         "state": "used",
         "transcript": "I'm goin' ta blast ya into thin gruel!"
     },
-    "vo/taunts/demoman_taunts10.mp3": {
+    "sound/vo/taunts/demoman_taunts10.mp3": {
         "base_name": "demoman_taunts10",
         "criteria": [
             [
@@ -14055,7 +14055,7 @@
         "state": "used",
         "transcript": "Oh, they're gonna find ya all dead in the alley, with cats lickin' at ya!"
     },
-    "vo/taunts/demoman_taunts11.mp3": {
+    "sound/vo/taunts/demoman_taunts11.mp3": {
         "base_name": "demoman_taunts11",
         "criteria": [
             [
@@ -14082,7 +14082,7 @@
         "state": "used",
         "transcript": "Not one of ya's going to survive this!"
     },
-    "vo/taunts/demoman_taunts12.mp3": {
+    "sound/vo/taunts/demoman_taunts12.mp3": {
         "base_name": "demoman_taunts12",
         "criteria": [
             [
@@ -14111,7 +14111,7 @@
         "state": "used",
         "transcript": "You're all bloody dead!"
     },
-    "vo/taunts/demoman_taunts13.mp3": {
+    "sound/vo/taunts/demoman_taunts13.mp3": {
         "base_name": "demoman_taunts13",
         "criteria": [
             [
@@ -14142,7 +14142,7 @@
         "state": "used",
         "transcript": "Oooohhh, I'm goin' ta liquefy ya!"
     },
-    "vo/taunts/demoman_taunts14.mp3": {
+    "sound/vo/taunts/demoman_taunts14.mp3": {
         "base_name": "demoman_taunts14",
         "criteria": [
             [
@@ -14173,7 +14173,7 @@
         "state": "used",
         "transcript": "I'm going to strangle you with me bare hands!"
     },
-    "vo/taunts/demoman_taunts15.mp3": {
+    "sound/vo/taunts/demoman_taunts15.mp3": {
         "base_name": "demoman_taunts15",
         "criteria": [
             [
@@ -14200,7 +14200,7 @@
         "state": "used",
         "transcript": "In your language; 'Eat lead, laddies!'"
     },
-    "vo/taunts/demoman_taunts16.mp3": {
+    "sound/vo/taunts/demoman_taunts16.mp3": {
         "base_name": "demoman_taunts16",
         "criteria": [
             [
@@ -14226,7 +14226,7 @@
         "state": "used",
         "transcript": "They're goin' ta bury what's left of ye in a soup can!"
     },
-    "vo/taunts/demoman_taunts17.mp3": {
+    "sound/vo/taunts/demoman_taunts17.mp3": {
         "base_name": "demoman_taunts17",
         "criteria": [],
         "events": [
@@ -14242,7 +14242,7 @@
         "state": "used",
         "transcript": "Whooooooooo!! Whoooo! Woo."
     },
-    "vo/toughbreak/demo_quest_complete_easy_01.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_01.mp3": {
         "base_name": "demo_quest_complete_easy_01",
         "criteria": [],
         "events": [
@@ -14254,7 +14254,7 @@
         "state": "used",
         "transcript": "Ach, well done, lad!"
     },
-    "vo/toughbreak/demo_quest_complete_easy_02.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_02.mp3": {
         "base_name": "demo_quest_complete_easy_02",
         "criteria": [],
         "events": [
@@ -14266,7 +14266,7 @@
         "state": "used",
         "transcript": "Ho, hoh! Was that it, then?"
     },
-    "vo/toughbreak/demo_quest_complete_easy_03.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_03.mp3": {
         "base_name": "demo_quest_complete_easy_03",
         "criteria": [],
         "events": [
@@ -14278,7 +14278,7 @@
         "state": "used",
         "transcript": "Are we done? I was just getting warmed up!"
     },
-    "vo/toughbreak/demo_quest_complete_easy_04.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_04.mp3": {
         "base_name": "demo_quest_complete_easy_04",
         "criteria": [],
         "events": [
@@ -14290,7 +14290,7 @@
         "state": "used",
         "transcript": "Oh, too bloody easy!"
     },
-    "vo/toughbreak/demo_quest_complete_easy_05.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_05.mp3": {
         "base_name": "demo_quest_complete_easy_05",
         "criteria": [],
         "events": [
@@ -14302,7 +14302,7 @@
         "state": "used",
         "transcript": "Hah! Barely broke a sweat!"
     },
-    "vo/toughbreak/demo_quest_complete_easy_06.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_06.mp3": {
         "base_name": "demo_quest_complete_easy_06",
         "criteria": [],
         "events": [
@@ -14314,7 +14314,7 @@
         "state": "used",
         "transcript": "Done and done!"
     },
-    "vo/toughbreak/demo_quest_complete_easy_07.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_easy_07.mp3": {
         "base_name": "demo_quest_complete_easy_07",
         "criteria": [],
         "events": [
@@ -14326,7 +14326,7 @@
         "state": "used",
         "transcript": "Hah! Nicely done!"
     },
-    "vo/toughbreak/demo_quest_complete_hard_01.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_hard_01.mp3": {
         "base_name": "demo_quest_complete_hard_01",
         "criteria": [],
         "events": [
@@ -14338,7 +14338,7 @@
         "state": "used",
         "transcript": "I won't lie, lad, that was a tough one!"
     },
-    "vo/toughbreak/demo_quest_complete_hard_03.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_hard_03.mp3": {
         "base_name": "demo_quest_complete_hard_03",
         "criteria": [],
         "events": [
@@ -14350,7 +14350,7 @@
         "state": "used",
         "transcript": "We only went an' bloody did it, didn't we? Ah ha ha ha!"
     },
-    "vo/toughbreak/demo_quest_complete_hard_05.mp3": {
+    "sound/vo/toughbreak/demo_quest_complete_hard_05.mp3": {
         "base_name": "demo_quest_complete_hard_05",
         "criteria": [],
         "events": [

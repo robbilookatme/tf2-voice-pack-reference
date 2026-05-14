@@ -1,5 +1,5 @@
 {
-    "vo/compmode/cm_pyro_pregamelostlast_01.mp3": {
+    "sound/vo/compmode/cm_pyro_pregamelostlast_01.mp3": {
         "base_name": "cm_pyro_pregamelostlast_01",
         "criteria": [],
         "events": [],
@@ -9,7 +9,7 @@
         "state": "unused",
         "transcript": "Awwwww!"
     },
-    "vo/compmode/cm_pyro_pregamelostlast_02.mp3": {
+    "sound/vo/compmode/cm_pyro_pregamelostlast_02.mp3": {
         "base_name": "cm_pyro_pregamelostlast_02",
         "criteria": [],
         "events": [],
@@ -19,7 +19,7 @@
         "state": "unused",
         "transcript": "Heh thubba theh then, wohha?"
     },
-    "vo/compmode/cm_pyro_pregamelostlast_03.mp3": {
+    "sound/vo/compmode/cm_pyro_pregamelostlast_03.mp3": {
         "base_name": "cm_pyro_pregamelostlast_03",
         "criteria": [],
         "events": [],
@@ -29,7 +29,7 @@
         "state": "unused",
         "transcript": "Yah fuddah gon den dey fhumah!"
     },
-    "vo/compmode/cm_pyro_pregamewonlast_01.mp3": {
+    "sound/vo/compmode/cm_pyro_pregamewonlast_01.mp3": {
         "base_name": "cm_pyro_pregamewonlast_01",
         "criteria": [],
         "events": [],
@@ -39,7 +39,7 @@
         "state": "unused",
         "transcript": "Heh dum dummad."
     },
-    "vo/compmode/cm_pyro_rankup_01.mp3": {
+    "sound/vo/compmode/cm_pyro_rankup_01.mp3": {
         "base_name": "cm_pyro_rankup_01",
         "criteria": [],
         "events": [
@@ -51,7 +51,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_rankup_02.mp3": {
+    "sound/vo/compmode/cm_pyro_rankup_02.mp3": {
         "base_name": "cm_pyro_rankup_02",
         "criteria": [],
         "events": [
@@ -63,7 +63,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_rankup_03.mp3": {
+    "sound/vo/compmode/cm_pyro_rankup_03.mp3": {
         "base_name": "cm_pyro_rankup_03",
         "criteria": [],
         "events": [
@@ -75,7 +75,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_rankup_04.mp3": {
+    "sound/vo/compmode/cm_pyro_rankup_04.mp3": {
         "base_name": "cm_pyro_rankup_04",
         "criteria": [],
         "events": [
@@ -87,7 +87,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_rankup_highest_01.mp3": {
+    "sound/vo/compmode/cm_pyro_rankup_highest_01.mp3": {
         "base_name": "cm_pyro_rankup_highest_01",
         "criteria": [],
         "events": [
@@ -99,7 +99,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_summary_callout_01.mp3": {
+    "sound/vo/compmode/cm_pyro_summary_callout_01.mp3": {
         "base_name": "cm_pyro_summary_callout_01",
         "criteria": [],
         "events": [
@@ -111,7 +111,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_summary_callout_02.mp3": {
+    "sound/vo/compmode/cm_pyro_summary_callout_02.mp3": {
         "base_name": "cm_pyro_summary_callout_02",
         "criteria": [],
         "events": [
@@ -123,7 +123,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/compmode/cm_pyro_summary_callout_03.mp3": {
+    "sound/vo/compmode/cm_pyro_summary_callout_03.mp3": {
         "base_name": "cm_pyro_summary_callout_03",
         "criteria": [],
         "events": [
@@ -135,7 +135,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/pyro_activatecharge01.mp3": {
+    "sound/vo/pyro_activatecharge01.mp3": {
         "base_name": "pyro_activatecharge01",
         "criteria": [
             [
@@ -167,7 +167,7 @@
         "state": "used",
         "transcript": "Hudda hudda huh!"
     },
-    "vo/pyro_autocappedcontrolpoint01.mp3": {
+    "sound/vo/pyro_autocappedcontrolpoint01.mp3": {
         "base_name": "pyro_autocappedcontrolpoint01",
         "criteria": [
             [
@@ -190,7 +190,7 @@
         "state": "used",
         "transcript": "Hurrururururu!"
     },
-    "vo/pyro_autocappedintelligence01.mp3": {
+    "sound/vo/pyro_autocappedintelligence01.mp3": {
         "base_name": "pyro_autocappedintelligence01",
         "criteria": [
             [
@@ -227,7 +227,7 @@
         "state": "used",
         "transcript": "Mmmphya harrgh mrgha hrghgph."
     },
-    "vo/pyro_autodejectedtie01.mp3": {
+    "sound/vo/pyro_autodejectedtie01.mp3": {
         "base_name": "pyro_autodejectedtie01",
         "criteria": [
             [
@@ -263,7 +263,7 @@
         "state": "used",
         "transcript": "Mmmrpgh crpyha drghya!"
     },
-    "vo/pyro_autoonfire01.mp3": {
+    "sound/vo/pyro_autoonfire01.mp3": {
         "base_name": "pyro_autoonfire01",
         "criteria": [
             [
@@ -295,7 +295,7 @@
         "state": "used",
         "transcript": "Mmmh,mmh!"
     },
-    "vo/pyro_autoonfire02.mp3": {
+    "sound/vo/pyro_autoonfire02.mp3": {
         "base_name": "pyro_autoonfire02",
         "criteria": [
             [
@@ -328,7 +328,7 @@
         "state": "used",
         "transcript": "Mmmrgh!"
     },
-    "vo/pyro_battlecry01.mp3": {
+    "sound/vo/pyro_battlecry01.mp3": {
         "base_name": "pyro_battlecry01",
         "criteria": [
             [
@@ -366,7 +366,7 @@
         "state": "used",
         "transcript": "Khamaahh!"
     },
-    "vo/pyro_battlecry02.mp3": {
+    "sound/vo/pyro_battlecry02.mp3": {
         "base_name": "pyro_battlecry02",
         "criteria": [
             [
@@ -401,7 +401,7 @@
         "state": "used",
         "transcript": "\"Hudda hudda huh!\" "
     },
-    "vo/pyro_cheers01.mp3": {
+    "sound/vo/pyro_cheers01.mp3": {
         "base_name": "pyro_cheers01",
         "criteria": [
             [
@@ -433,7 +433,7 @@
         "state": "used",
         "transcript": "Fhanks a lah!"
     },
-    "vo/pyro_cloakedspy01.mp3": {
+    "sound/vo/pyro_cloakedspy01.mp3": {
         "base_name": "pyro_cloakedspy01",
         "criteria": [
             [
@@ -456,7 +456,7 @@
         "state": "used",
         "transcript": "Mrr hurrdurr hm hurr!"
     },
-    "vo/pyro_cloakedspyidentify01.mp3": {
+    "sound/vo/pyro_cloakedspyidentify01.mp3": {
         "base_name": "pyro_cloakedspyidentify01",
         "criteria": [
             [
@@ -542,7 +542,7 @@
         "state": "used",
         "transcript": "Ah hyro ifva phy!"
     },
-    "vo/pyro_go01.mp3": {
+    "sound/vo/pyro_go01.mp3": {
         "base_name": "pyro_go01",
         "criteria": [
             [
@@ -568,7 +568,7 @@
         "state": "used",
         "transcript": "Gho gho gho!"
     },
-    "vo/pyro_goodjob01.mp3": {
+    "sound/vo/pyro_goodjob01.mp3": {
         "base_name": "pyro_goodjob01",
         "criteria": [
             [
@@ -606,7 +606,7 @@
         "state": "used",
         "transcript": "Gvuuh jovhh."
     },
-    "vo/pyro_headleft01.mp3": {
+    "sound/vo/pyro_headleft01.mp3": {
         "base_name": "pyro_headleft01",
         "criteria": [
             [
@@ -629,7 +629,7 @@
         "state": "used",
         "transcript": "Oohthuhhumph!"
     },
-    "vo/pyro_headright01.mp3": {
+    "sound/vo/pyro_headright01.mp3": {
         "base_name": "pyro_headright01",
         "criteria": [
             [
@@ -685,7 +685,7 @@
         "state": "used",
         "transcript": "OOoh la ruuh!"
     },
-    "vo/pyro_helpme01.mp3": {
+    "sound/vo/pyro_helpme01.mp3": {
         "base_name": "pyro_helpme01",
         "criteria": [
             [
@@ -708,7 +708,7 @@
         "state": "used",
         "transcript": "Heelp mfe!"
     },
-    "vo/pyro_helpmecapture01.mp3": {
+    "sound/vo/pyro_helpmecapture01.mp3": {
         "base_name": "pyro_helpmecapture01",
         "criteria": [
             [
@@ -739,7 +739,7 @@
         "state": "used",
         "transcript": "Helfp ee cafpter!"
     },
-    "vo/pyro_helpmedefend01.mp3": {
+    "sound/vo/pyro_helpmedefend01.mp3": {
         "base_name": "pyro_helpmedefend01",
         "criteria": [
             [
@@ -769,7 +769,7 @@
         "state": "used",
         "transcript": "Helfp ee defen!"
     },
-    "vo/pyro_incoming01.mp3": {
+    "sound/vo/pyro_incoming01.mp3": {
         "base_name": "pyro_incoming01",
         "criteria": [
             [
@@ -792,7 +792,7 @@
         "state": "used",
         "transcript": "Khamahh!"
     },
-    "vo/pyro_jeers01.mp3": {
+    "sound/vo/pyro_jeers01.mp3": {
         "base_name": "pyro_jeers01",
         "criteria": [
             [
@@ -823,7 +823,7 @@
         "state": "used",
         "transcript": "Bvoooh!"
     },
-    "vo/pyro_jeers02.mp3": {
+    "sound/vo/pyro_jeers02.mp3": {
         "base_name": "pyro_jeers02",
         "criteria": [
             [
@@ -855,7 +855,7 @@
         "state": "used",
         "transcript": "Yahf fvaorarh!"
     },
-    "vo/pyro_laugh_addl04.mp3": {
+    "sound/vo/pyro_laugh_addl04.mp3": {
         "base_name": "pyro_laugh_addl04",
         "criteria": [
             [
@@ -891,7 +891,7 @@
         "state": "used",
         "transcript": "laughs a hearty laugh"
     },
-    "vo/pyro_laughevil01.mp3": {
+    "sound/vo/pyro_laughevil01.mp3": {
         "base_name": "pyro_laughevil01",
         "criteria": [
             [
@@ -938,7 +938,7 @@
         "state": "used",
         "transcript": "Evil laugh"
     },
-    "vo/pyro_laughevil02.mp3": {
+    "sound/vo/pyro_laughevil02.mp3": {
         "base_name": "pyro_laughevil02",
         "criteria": [
             [
@@ -987,7 +987,7 @@
         "state": "used",
         "transcript": "Evil laugh"
     },
-    "vo/pyro_laughevil03.mp3": {
+    "sound/vo/pyro_laughevil03.mp3": {
         "base_name": "pyro_laughevil03",
         "criteria": [
             [
@@ -1013,7 +1013,7 @@
         "state": "used",
         "transcript": "Evil laugh"
     },
-    "vo/pyro_laughevil04.mp3": {
+    "sound/vo/pyro_laughevil04.mp3": {
         "base_name": "pyro_laughevil04",
         "criteria": [
             [
@@ -1053,7 +1053,7 @@
         "state": "used",
         "transcript": "Evil laugh 2"
     },
-    "vo/pyro_laughhappy01.mp3": {
+    "sound/vo/pyro_laughhappy01.mp3": {
         "base_name": "pyro_laughhappy01",
         "criteria": [
             [
@@ -1085,7 +1085,7 @@
         "state": "used",
         "transcript": "Happy laugh"
     },
-    "vo/pyro_laughlong01.mp3": {
+    "sound/vo/pyro_laughlong01.mp3": {
         "base_name": "pyro_laughlong01",
         "criteria": [
             [
@@ -1126,7 +1126,7 @@
         "state": "used",
         "transcript": "Long laugh"
     },
-    "vo/pyro_laughshort01.mp3": {
+    "sound/vo/pyro_laughshort01.mp3": {
         "base_name": "pyro_laughshort01",
         "criteria": [
             [
@@ -1149,7 +1149,7 @@
         "state": "used",
         "transcript": "Short laugh"
     },
-    "vo/pyro_medic01.mp3": {
+    "sound/vo/pyro_medic01.mp3": {
         "base_name": "pyro_medic01",
         "criteria": [
             [
@@ -1172,7 +1172,7 @@
         "state": "used",
         "transcript": "Mhdrrk!"
     },
-    "vo/pyro_moveup01.mp3": {
+    "sound/vo/pyro_moveup01.mp3": {
         "base_name": "pyro_moveup01",
         "criteria": [
             [
@@ -1195,7 +1195,7 @@
         "state": "used",
         "transcript": "Oove! Oove up! Oove up!"
     },
-    "vo/pyro_needdispenser01.mp3": {
+    "sound/vo/pyro_needdispenser01.mp3": {
         "base_name": "pyro_needdispenser01",
         "criteria": [
             [
@@ -1218,7 +1218,7 @@
         "state": "used",
         "transcript": "Phudda Dipenza heah!"
     },
-    "vo/pyro_needsentry01.mp3": {
+    "sound/vo/pyro_needsentry01.mp3": {
         "base_name": "pyro_needsentry01",
         "criteria": [
             [
@@ -1241,7 +1241,7 @@
         "state": "used",
         "transcript": "Pudda Sfenty heah!"
     },
-    "vo/pyro_needteleporter01.mp3": {
+    "sound/vo/pyro_needteleporter01.mp3": {
         "base_name": "pyro_needteleporter01",
         "criteria": [
             [
@@ -1264,7 +1264,7 @@
         "state": "used",
         "transcript": "Phudda Teddapudda heah!"
     },
-    "vo/pyro_negativevocalization01.mp3": {
+    "sound/vo/pyro_negativevocalization01.mp3": {
         "base_name": "pyro_negativevocalization01",
         "criteria": [
             [
@@ -1312,7 +1312,7 @@
         "state": "used",
         "transcript": "Eeuaghafvada..."
     },
-    "vo/pyro_niceshot01.mp3": {
+    "sound/vo/pyro_niceshot01.mp3": {
         "base_name": "pyro_niceshot01",
         "criteria": [
             [
@@ -1338,7 +1338,7 @@
         "state": "used",
         "transcript": "Phice fah."
     },
-    "vo/pyro_no01.mp3": {
+    "sound/vo/pyro_no01.mp3": {
         "base_name": "pyro_no01",
         "criteria": [
             [
@@ -1361,7 +1361,7 @@
         "state": "used",
         "transcript": "Nho."
     },
-    "vo/pyro_paincrticialdeath01.mp3": {
+    "sound/vo/pyro_paincrticialdeath01.mp3": {
         "base_name": "pyro_paincrticialdeath01",
         "criteria": [
             [
@@ -1397,7 +1397,7 @@
         "state": "used",
         "transcript": "(Muffled dying scream 1)"
     },
-    "vo/pyro_paincrticialdeath02.mp3": {
+    "sound/vo/pyro_paincrticialdeath02.mp3": {
         "base_name": "pyro_paincrticialdeath02",
         "criteria": [],
         "events": [
@@ -1417,7 +1417,7 @@
         "state": "used",
         "transcript": "(Muffled dying scream 2)"
     },
-    "vo/pyro_paincrticialdeath03.mp3": {
+    "sound/vo/pyro_paincrticialdeath03.mp3": {
         "base_name": "pyro_paincrticialdeath03",
         "criteria": [
             [
@@ -1455,7 +1455,7 @@
         "state": "used",
         "transcript": "(Muffled dying scream 3)"
     },
-    "vo/pyro_painsevere01.mp3": {
+    "sound/vo/pyro_painsevere01.mp3": {
         "base_name": "pyro_painsevere01",
         "criteria": [
             [
@@ -1513,7 +1513,7 @@
         "state": "used",
         "transcript": "Aaah!"
     },
-    "vo/pyro_painsevere02.mp3": {
+    "sound/vo/pyro_painsevere02.mp3": {
         "base_name": "pyro_painsevere02",
         "criteria": [
             [
@@ -1538,7 +1538,7 @@
         "state": "used",
         "transcript": "[*Whimper*]"
     },
-    "vo/pyro_painsevere03.mp3": {
+    "sound/vo/pyro_painsevere03.mp3": {
         "base_name": "pyro_painsevere03",
         "criteria": [
             [
@@ -1563,7 +1563,7 @@
         "state": "used",
         "transcript": "Agh!"
     },
-    "vo/pyro_painsevere04.mp3": {
+    "sound/vo/pyro_painsevere04.mp3": {
         "base_name": "pyro_painsevere04",
         "criteria": [
             [
@@ -1588,7 +1588,7 @@
         "state": "used",
         "transcript": "Ungh!"
     },
-    "vo/pyro_painsevere05.mp3": {
+    "sound/vo/pyro_painsevere05.mp3": {
         "base_name": "pyro_painsevere05",
         "criteria": [
             [
@@ -1613,7 +1613,7 @@
         "state": "used",
         "transcript": "Ah!"
     },
-    "vo/pyro_painsevere06.mp3": {
+    "sound/vo/pyro_painsevere06.mp3": {
         "base_name": "pyro_painsevere06",
         "criteria": [
             [
@@ -1638,7 +1638,7 @@
         "state": "used",
         "transcript": "Unh!"
     },
-    "vo/pyro_painsharp01.mp3": {
+    "sound/vo/pyro_painsharp01.mp3": {
         "base_name": "pyro_painsharp01",
         "criteria": [
             [
@@ -1678,7 +1678,7 @@
         "state": "used",
         "transcript": "Oof!"
     },
-    "vo/pyro_painsharp02.mp3": {
+    "sound/vo/pyro_painsharp02.mp3": {
         "base_name": "pyro_painsharp02",
         "criteria": [
             [
@@ -1716,7 +1716,7 @@
         "state": "used",
         "transcript": "Ah!"
     },
-    "vo/pyro_painsharp03.mp3": {
+    "sound/vo/pyro_painsharp03.mp3": {
         "base_name": "pyro_painsharp03",
         "criteria": [
             [
@@ -1747,7 +1747,7 @@
         "state": "used",
         "transcript": "Ow!"
     },
-    "vo/pyro_painsharp04.mp3": {
+    "sound/vo/pyro_painsharp04.mp3": {
         "base_name": "pyro_painsharp04",
         "criteria": [
             [
@@ -1778,7 +1778,7 @@
         "state": "used",
         "transcript": "Uh!"
     },
-    "vo/pyro_painsharp05.mp3": {
+    "sound/vo/pyro_painsharp05.mp3": {
         "base_name": "pyro_painsharp05",
         "criteria": [
             [
@@ -1806,7 +1806,7 @@
         "state": "used",
         "transcript": "Uf!"
     },
-    "vo/pyro_painsharp06.mp3": {
+    "sound/vo/pyro_painsharp06.mp3": {
         "base_name": "pyro_painsharp06",
         "criteria": [
             [
@@ -1834,7 +1834,7 @@
         "state": "used",
         "transcript": "Arg!"
     },
-    "vo/pyro_painsharp07.mp3": {
+    "sound/vo/pyro_painsharp07.mp3": {
         "base_name": "pyro_painsharp07",
         "criteria": [
             [
@@ -1874,7 +1874,7 @@
         "state": "used",
         "transcript": "Ungh!"
     },
-    "vo/pyro_positivevocalization01.mp3": {
+    "sound/vo/pyro_positivevocalization01.mp3": {
         "base_name": "pyro_positivevocalization01",
         "criteria": [
             [
@@ -1912,7 +1912,7 @@
         "state": "used",
         "transcript": "Exfellend!"
     },
-    "vo/pyro_sentryahead01.mp3": {
+    "sound/vo/pyro_sentryahead01.mp3": {
         "base_name": "pyro_sentryahead01",
         "criteria": [
             [
@@ -1935,7 +1935,7 @@
         "state": "used",
         "transcript": "Sphenty ahefv!"
     },
-    "vo/pyro_sf13_influx_big01.mp3": {
+    "sound/vo/pyro_sf13_influx_big01.mp3": {
         "base_name": "pyro_sf13_influx_big01",
         "criteria": [
             [
@@ -1958,7 +1958,7 @@
         "state": "used",
         "transcript": "*Evil laugh*"
     },
-    "vo/pyro_sf13_influx_small01.mp3": {
+    "sound/vo/pyro_sf13_influx_small01.mp3": {
         "base_name": "pyro_sf13_influx_small01",
         "criteria": [
             [
@@ -1986,7 +1986,7 @@
         "state": "used",
         "transcript": "*Small chuckle*"
     },
-    "vo/pyro_sf13_spell_generic01.mp3": {
+    "sound/vo/pyro_sf13_spell_generic01.mp3": {
         "base_name": "pyro_sf13_spell_generic01",
         "criteria": [
             [
@@ -2015,7 +2015,7 @@
         "state": "used",
         "transcript": "\"Mumuno, muh bumuno!\" (\"Pactum diabolus!\" and \"Mortis animataris!\")"
     },
-    "vo/pyro_sf13_spell_generic02.mp3": {
+    "sound/vo/pyro_sf13_spell_generic02.mp3": {
         "base_name": "pyro_sf13_spell_generic02",
         "criteria": [
             [
@@ -2038,7 +2038,7 @@
         "state": "used",
         "transcript": "\"Bumunuh, bun!\" (\"Imputum fulminus!\")"
     },
-    "vo/pyro_sf13_spell_generic03.mp3": {
+    "sound/vo/pyro_sf13_spell_generic03.mp3": {
         "base_name": "pyro_sf13_spell_generic03",
         "criteria": [
             [
@@ -2061,7 +2061,7 @@
         "state": "used",
         "transcript": "\"Buh blumunuh!\" (\"Amplus tripudio!\")"
     },
-    "vo/pyro_sf13_spell_generic04.mp3": {
+    "sound/vo/pyro_sf13_spell_generic04.mp3": {
         "base_name": "pyro_sf13_spell_generic04",
         "criteria": [
             [
@@ -2090,7 +2090,7 @@
         "state": "used",
         "transcript": "\"Cuhts me trihp!\" (\"Deus invictus!\" and \"Barpo kabalto!\")"
     },
-    "vo/pyro_sf13_spell_generic05.mp3": {
+    "sound/vo/pyro_sf13_spell_generic05.mp3": {
         "base_name": "pyro_sf13_spell_generic05",
         "criteria": [
             [
@@ -2113,7 +2113,7 @@
         "state": "used",
         "transcript": "\"Muphituh lurr!\" (\"Barpo invisium!\")"
     },
-    "vo/pyro_sf13_spell_generic06.mp3": {
+    "sound/vo/pyro_sf13_spell_generic06.mp3": {
         "base_name": "pyro_sf13_spell_generic06",
         "criteria": [
             [
@@ -2142,7 +2142,7 @@
         "state": "used",
         "transcript": "\"Muhk niphurr!\" (\"Ipsum instanterium!\" and \"Seismela tremoro!\")"
     },
-    "vo/pyro_sf13_spell_generic07.mp3": {
+    "sound/vo/pyro_sf13_spell_generic07.mp3": {
         "base_name": "pyro_sf13_spell_generic07",
         "criteria": [
             [
@@ -2165,7 +2165,7 @@
         "state": "used",
         "transcript": "Buh phuh murrit uph truph!"
     },
-    "vo/pyro_sf13_spell_generic08.mp3": {
+    "sound/vo/pyro_sf13_spell_generic08.mp3": {
         "base_name": "pyro_sf13_spell_generic08",
         "criteria": [
             [
@@ -2188,7 +2188,7 @@
         "state": "used",
         "transcript": "\"Cuhts me trihp!\" (\"Paidum celeris!\")"
     },
-    "vo/pyro_sf13_spell_generic09.mp3": {
+    "sound/vo/pyro_sf13_spell_generic09.mp3": {
         "base_name": "pyro_sf13_spell_generic09",
         "criteria": [
             [
@@ -2211,7 +2211,7 @@
         "state": "used",
         "transcript": "\"Muhk muttuh!\" (\"Invokum MONOCULUS!\")"
     },
-    "vo/pyro_specialcompleted-assistedkill01.mp3": {
+    "sound/vo/pyro_specialcompleted-assistedkill01.mp3": {
         "base_name": "pyro_specialcompleted-assistedkill01",
         "criteria": [
             [
@@ -2256,7 +2256,7 @@
         "state": "used",
         "transcript": "Mmph mphna mprh."
     },
-    "vo/pyro_specialcompleted01.mp3": {
+    "sound/vo/pyro_specialcompleted01.mp3": {
         "base_name": "pyro_specialcompleted01",
         "criteria": [
             [
@@ -2290,7 +2290,7 @@
         "state": "used",
         "transcript": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!"
     },
-    "vo/pyro_standonthepoint01.mp3": {
+    "sound/vo/pyro_standonthepoint01.mp3": {
         "base_name": "pyro_standonthepoint01",
         "criteria": [
             [
@@ -2324,7 +2324,7 @@
         "state": "used",
         "transcript": "Mrh! Hrt hr nha phrnt yrh mrprph!"
     },
-    "vo/pyro_thanks01.mp3": {
+    "sound/vo/pyro_thanks01.mp3": {
         "base_name": "pyro_thanks01",
         "criteria": [
             [
@@ -2356,7 +2356,7 @@
         "state": "used",
         "transcript": "Fink fhu."
     },
-    "vo/pyro_thanksfortheheal01.mp3": {
+    "sound/vo/pyro_thanksfortheheal01.mp3": {
         "base_name": "pyro_thanksfortheheal01",
         "criteria": [
             [
@@ -2389,7 +2389,7 @@
         "state": "used",
         "transcript": "Mhnk nhya mhph."
     },
-    "vo/pyro_thanksfortheteleporter01.mp3": {
+    "sound/vo/pyro_thanksfortheteleporter01.mp3": {
         "base_name": "pyro_thanksfortheteleporter01",
         "criteria": [
             [
@@ -2420,7 +2420,7 @@
         "state": "used",
         "transcript": "Mmphn frphha herrpha."
     },
-    "vo/pyro_yes01.mp3": {
+    "sound/vo/pyro_yes01.mp3": {
         "base_name": "pyro_yes01",
         "criteria": [
             [
@@ -2446,7 +2446,7 @@
         "state": "used",
         "transcript": "Uh-huh."
     },
-    "vo/taunts/pyro/pyro_taunt_ballon_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_ballon_06.mp3": {
         "base_name": "pyro_taunt_ballon_06",
         "criteria": [],
         "events": [
@@ -2462,7 +2462,7 @@
         "state": "used",
         "transcript": "[puffing sounds"
     },
-    "vo/taunts/pyro/pyro_taunt_ballon_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_ballon_07.mp3": {
         "base_name": "pyro_taunt_ballon_07",
         "criteria": [],
         "events": [
@@ -2478,7 +2478,7 @@
         "state": "used",
         "transcript": "[busy mumbling"
     },
-    "vo/taunts/pyro/pyro_taunt_ballon_11.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_ballon_11.mp3": {
         "base_name": "pyro_taunt_ballon_11",
         "criteria": [],
         "events": [
@@ -2497,7 +2497,7 @@
         "state": "used",
         "transcript": "[maniacal laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_clap1.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap1.mp3": {
         "base_name": "pyro_taunt_clap1",
         "criteria": [],
         "events": [
@@ -2518,7 +2518,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap2.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap2.mp3": {
         "base_name": "pyro_taunt_clap2",
         "criteria": [],
         "events": [
@@ -2542,7 +2542,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap3.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap3.mp3": {
         "base_name": "pyro_taunt_clap3",
         "criteria": [],
         "events": [
@@ -2566,7 +2566,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap4.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap4.mp3": {
         "base_name": "pyro_taunt_clap4",
         "criteria": [],
         "events": [
@@ -2590,7 +2590,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap5.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap5.mp3": {
         "base_name": "pyro_taunt_clap5",
         "criteria": [],
         "events": [
@@ -2611,7 +2611,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap6.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap6.mp3": {
         "base_name": "pyro_taunt_clap6",
         "criteria": [],
         "events": [
@@ -2634,7 +2634,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_clap7.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_clap7.mp3": {
         "base_name": "pyro_taunt_clap7",
         "criteria": [],
         "events": [
@@ -2657,7 +2657,7 @@
         "state": "used",
         "transcript": "[clap"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_05.mp3": {
         "base_name": "pyro_taunt_cong_fun_05",
         "criteria": [],
         "events": [
@@ -2680,7 +2680,7 @@
         "state": "used",
         "transcript": "[amused laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_08.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_08.mp3": {
         "base_name": "pyro_taunt_cong_fun_08",
         "criteria": [],
         "events": [
@@ -2702,7 +2702,7 @@
         "state": "used",
         "transcript": "[gleeful laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_09.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_09.mp3": {
         "base_name": "pyro_taunt_cong_fun_09",
         "criteria": [],
         "events": [
@@ -2721,7 +2721,7 @@
         "state": "used",
         "transcript": "[cheerful humming"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_10.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_10.mp3": {
         "base_name": "pyro_taunt_cong_fun_10",
         "criteria": [],
         "events": [
@@ -2741,7 +2741,7 @@
         "state": "used",
         "transcript": "[rhythmic laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_11.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_11.mp3": {
         "base_name": "pyro_taunt_cong_fun_11",
         "criteria": [],
         "events": [
@@ -2763,7 +2763,7 @@
         "state": "used",
         "transcript": "[rhythmic laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_12.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_12.mp3": {
         "base_name": "pyro_taunt_cong_fun_12",
         "criteria": [],
         "events": [
@@ -2779,7 +2779,7 @@
         "state": "used",
         "transcript": "[rhythmic humming"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_13.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_13.mp3": {
         "base_name": "pyro_taunt_cong_fun_13",
         "criteria": [],
         "events": [
@@ -2798,7 +2798,7 @@
         "state": "used",
         "transcript": "[rhythmic humming"
     },
-    "vo/taunts/pyro/pyro_taunt_cong_fun_14.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_cong_fun_14.mp3": {
         "base_name": "pyro_taunt_cong_fun_14",
         "criteria": [],
         "events": [
@@ -2818,7 +2818,7 @@
         "state": "used",
         "transcript": "Whoo hoo!"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_end_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_end_05.mp3": {
         "base_name": "pyro_taunt_dosi_end_05",
         "criteria": [],
         "events": [
@@ -2834,7 +2834,7 @@
         "state": "used",
         "transcript": "(liltingly) \"Do-si-do?\""
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_end_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_end_06.mp3": {
         "base_name": "pyro_taunt_dosi_end_06",
         "criteria": [],
         "events": [
@@ -2850,7 +2850,7 @@
         "state": "used",
         "transcript": "[offended mumbling"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_end_08.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_end_08.mp3": {
         "base_name": "pyro_taunt_dosi_end_08",
         "criteria": [],
         "events": [
@@ -2866,7 +2866,7 @@
         "state": "used",
         "transcript": "[mumbled compliment"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_end_09.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_end_09.mp3": {
         "base_name": "pyro_taunt_dosi_end_09",
         "criteria": [],
         "events": [
@@ -2882,7 +2882,7 @@
         "state": "used",
         "transcript": "[mumbled] \"Boo!\""
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_fun_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_fun_02.mp3": {
         "base_name": "pyro_taunt_dosi_fun_02",
         "criteria": [],
         "events": [
@@ -2910,7 +2910,7 @@
         "state": "used",
         "transcript": "[gleeful laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_fun_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_fun_03.mp3": {
         "base_name": "pyro_taunt_dosi_fun_03",
         "criteria": [],
         "events": [
@@ -2928,7 +2928,7 @@
         "state": "used",
         "transcript": "[mumbled singing"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_fun_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_fun_04.mp3": {
         "base_name": "pyro_taunt_dosi_fun_04",
         "criteria": [],
         "events": [
@@ -2945,7 +2945,7 @@
         "state": "used",
         "transcript": "[mumbled comment"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_fun_05.mp3": {
         "base_name": "pyro_taunt_dosi_fun_05",
         "criteria": [],
         "events": [
@@ -2968,7 +2968,7 @@
         "state": "used",
         "transcript": "[muffled laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_fun_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_fun_06.mp3": {
         "base_name": "pyro_taunt_dosi_fun_06",
         "criteria": [],
         "events": [
@@ -2987,7 +2987,7 @@
         "state": "used",
         "transcript": "[mumbled scat singing"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_01.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_01.mp3": {
         "base_name": "pyro_taunt_dosi_int_01",
         "criteria": [],
         "events": [
@@ -3003,7 +3003,7 @@
         "state": "used",
         "transcript": "[mumbled] \"Do-si-do!\""
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_02.mp3": {
         "base_name": "pyro_taunt_dosi_int_02",
         "criteria": [],
         "events": [
@@ -3023,7 +3023,7 @@
         "state": "used",
         "transcript": "[gleeful laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3": {
         "base_name": "pyro_taunt_dosi_int_05",
         "criteria": [],
         "events": [
@@ -3046,7 +3046,7 @@
         "state": "used",
         "transcript": "[mumbled laughter"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_07.mp3": {
         "base_name": "pyro_taunt_dosi_int_07",
         "criteria": [],
         "events": [
@@ -3065,7 +3065,7 @@
         "state": "used",
         "transcript": "Huh dah!"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_13.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_13.mp3": {
         "base_name": "pyro_taunt_dosi_int_13",
         "criteria": [],
         "events": [
@@ -3085,7 +3085,7 @@
         "state": "used",
         "transcript": "[excited mumbling"
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_14.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_14.mp3": {
         "base_name": "pyro_taunt_dosi_int_14",
         "criteria": [],
         "events": [
@@ -3105,7 +3105,7 @@
         "state": "used",
         "transcript": "[mumbled] \"Do-si-do!\""
     },
-    "vo/taunts/pyro/pyro_taunt_dosi_int_16.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_dosi_int_16.mp3": {
         "base_name": "pyro_taunt_dosi_int_16",
         "criteria": [],
         "events": [
@@ -3125,7 +3125,7 @@
         "state": "used",
         "transcript": "[mumbled] \"Dance time!\""
     },
-    "vo/taunts/pyro/pyro_taunt_exert_12.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_exert_12.mp3": {
         "base_name": "pyro_taunt_exert_12",
         "criteria": [],
         "events": [
@@ -3144,7 +3144,7 @@
         "state": "used",
         "transcript": "Huhyah!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_admire_01.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_admire_01.mp3": {
         "base_name": "pyro_taunt_flip_admire_01",
         "criteria": [],
         "events": [
@@ -3164,7 +3164,7 @@
         "state": "used",
         "transcript": "Yee haw!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_admire_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_admire_02.mp3": {
         "base_name": "pyro_taunt_flip_admire_02",
         "criteria": [],
         "events": [
@@ -3180,7 +3180,7 @@
         "state": "used",
         "transcript": "Ha ha ha!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_admire_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_admire_03.mp3": {
         "base_name": "pyro_taunt_flip_admire_03",
         "criteria": [],
         "events": [
@@ -3202,7 +3202,7 @@
         "state": "used",
         "transcript": "Huddah hudduh!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3": {
         "base_name": "pyro_taunt_flip_admire_05",
         "criteria": [],
         "events": [
@@ -3229,7 +3229,7 @@
         "state": "used",
         "transcript": "Come to me!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_admire_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_admire_06.mp3": {
         "base_name": "pyro_taunt_flip_admire_06",
         "criteria": [],
         "events": [
@@ -3245,7 +3245,7 @@
         "state": "used",
         "transcript": "Hud hudda hud hah!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_exert_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_exert_02.mp3": {
         "base_name": "pyro_taunt_flip_exert_02",
         "criteria": [],
         "events": [
@@ -3271,7 +3271,7 @@
         "state": "used",
         "transcript": "Uhrah!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_exert_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_exert_04.mp3": {
         "base_name": "pyro_taunt_flip_exert_04",
         "criteria": [],
         "events": [
@@ -3296,7 +3296,7 @@
         "state": "used",
         "transcript": "Uhhrah!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_exert_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_exert_05.mp3": {
         "base_name": "pyro_taunt_flip_exert_05",
         "criteria": [],
         "events": [
@@ -3325,7 +3325,7 @@
         "state": "used",
         "transcript": "Ah-oop!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_exert_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_exert_06.mp3": {
         "base_name": "pyro_taunt_flip_exert_06",
         "criteria": [],
         "events": [
@@ -3351,7 +3351,7 @@
         "state": "used",
         "transcript": "Huppo hoh!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_01.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_01.mp3": {
         "base_name": "pyro_taunt_flip_fun_01",
         "criteria": [],
         "events": [
@@ -3373,7 +3373,7 @@
         "state": "used",
         "transcript": "Woooh!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_04.mp3": {
         "base_name": "pyro_taunt_flip_fun_04",
         "criteria": [],
         "events": [
@@ -3396,7 +3396,7 @@
         "state": "used",
         "transcript": "I'm flying!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3": {
         "base_name": "pyro_taunt_flip_fun_05",
         "criteria": [],
         "events": [
@@ -3416,7 +3416,7 @@
         "state": "used",
         "transcript": "Hah da-ra!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_06.mp3": {
         "base_name": "pyro_taunt_flip_fun_06",
         "criteria": [],
         "events": [
@@ -3455,7 +3455,7 @@
         "state": "used",
         "transcript": "Wooo hoo hoo hoo!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_09.mp3": {
         "base_name": "pyro_taunt_flip_fun_09",
         "criteria": [],
         "events": [
@@ -3496,7 +3496,7 @@
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3": {
         "base_name": "pyro_taunt_flip_fun_10",
         "criteria": [],
         "events": [
@@ -3542,7 +3542,7 @@
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_fun_11.mp3": {
         "base_name": "pyro_taunt_flip_fun_11",
         "criteria": [],
         "events": [
@@ -3578,7 +3578,7 @@
         "state": "used",
         "transcript": "Ah ha ha ha ha ha!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_int_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_int_02.mp3": {
         "base_name": "pyro_taunt_flip_int_02",
         "criteria": [],
         "events": [
@@ -3603,7 +3603,7 @@
         "state": "used",
         "transcript": "Whoo hoo hoo! Hudda!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_int_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_int_05.mp3": {
         "base_name": "pyro_taunt_flip_int_05",
         "criteria": [],
         "events": [
@@ -3627,7 +3627,7 @@
         "state": "used",
         "transcript": "Hoo! Hud hudda!"
     },
-    "vo/taunts/pyro/pyro_taunt_flip_int_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_flip_int_07.mp3": {
         "base_name": "pyro_taunt_flip_int_07",
         "criteria": [],
         "events": [
@@ -3643,7 +3643,7 @@
         "state": "used",
         "transcript": "Hellooo! Let's load 'em up!!"
     },
-    "vo/taunts/pyro/pyro_taunt_head_exert_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_exert_03.mp3": {
         "base_name": "pyro_taunt_head_exert_03",
         "criteria": [],
         "events": [
@@ -3663,7 +3663,7 @@
         "state": "used",
         "transcript": "[muffled grunt of effort"
     },
-    "vo/taunts/pyro/pyro_taunt_head_int_01.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_int_01.mp3": {
         "base_name": "pyro_taunt_head_int_01",
         "criteria": [],
         "events": [
@@ -3681,7 +3681,7 @@
         "state": "used",
         "transcript": "[muffled] \"Right here!\""
     },
-    "vo/taunts/pyro/pyro_taunt_head_int_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_int_03.mp3": {
         "base_name": "pyro_taunt_head_int_03",
         "criteria": [],
         "events": [
@@ -3699,7 +3699,7 @@
         "state": "used",
         "transcript": "[muffled challenging"
     },
-    "vo/taunts/pyro/pyro_taunt_head_int_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_int_04.mp3": {
         "base_name": "pyro_taunt_head_int_04",
         "criteria": [],
         "events": [
@@ -3722,7 +3722,7 @@
         "state": "used",
         "transcript": "[menacing muffles"
     },
-    "vo/taunts/pyro/pyro_taunt_head_pain_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_pain_03.mp3": {
         "base_name": "pyro_taunt_head_pain_03",
         "criteria": [],
         "events": [
@@ -3738,7 +3738,7 @@
         "state": "used",
         "transcript": "[exhausted grunt"
     },
-    "vo/taunts/pyro/pyro_taunt_head_pain_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_pain_04.mp3": {
         "base_name": "pyro_taunt_head_pain_04",
         "criteria": [],
         "events": [
@@ -3755,7 +3755,7 @@
         "state": "used",
         "transcript": "Ow!"
     },
-    "vo/taunts/pyro/pyro_taunt_head_pain_21.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_pain_21.mp3": {
         "base_name": "pyro_taunt_head_pain_21",
         "criteria": [],
         "events": [
@@ -3774,7 +3774,7 @@
         "state": "used",
         "transcript": "[rocking out"
     },
-    "vo/taunts/pyro/pyro_taunt_head_pain_22.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_head_pain_22.mp3": {
         "base_name": "pyro_taunt_head_pain_22",
         "criteria": [],
         "events": [
@@ -3793,7 +3793,7 @@
         "state": "used",
         "transcript": "[intense rocking out"
     },
-    "vo/taunts/pyro/pyro_taunt_int_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_05.mp3": {
         "base_name": "pyro_taunt_int_05",
         "criteria": [],
         "events": [
@@ -3813,7 +3813,7 @@
         "state": "used",
         "transcript": "[muffled]\"Right here!\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_07.mp3": {
         "base_name": "pyro_taunt_int_07",
         "criteria": [],
         "events": [
@@ -3830,7 +3830,7 @@
         "state": "used",
         "transcript": "[muffled]\"Let's headbutt!\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_11.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_11.mp3": {
         "base_name": "pyro_taunt_int_11",
         "criteria": [],
         "events": [
@@ -3849,7 +3849,7 @@
         "state": "used",
         "transcript": "Huhfallah!"
     },
-    "vo/taunts/pyro/pyro_taunt_int_12.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_12.mp3": {
         "base_name": "pyro_taunt_int_12",
         "criteria": [],
         "events": [
@@ -3866,7 +3866,7 @@
         "state": "used",
         "transcript": "[muffled]\"A headbutt?\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_13.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_13.mp3": {
         "base_name": "pyro_taunt_int_13",
         "criteria": [],
         "events": [
@@ -3883,7 +3883,7 @@
         "state": "used",
         "transcript": "[muffled]\"Come on!\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_15.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_15.mp3": {
         "base_name": "pyro_taunt_int_15",
         "criteria": [],
         "events": [
@@ -3900,7 +3900,7 @@
         "state": "used",
         "transcript": "[muffled]\"Let's do this!\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_21.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_21.mp3": {
         "base_name": "pyro_taunt_int_21",
         "criteria": [],
         "events": [
@@ -3920,7 +3920,7 @@
         "state": "used",
         "transcript": "Ruh dyah!"
     },
-    "vo/taunts/pyro/pyro_taunt_int_22.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_22.mp3": {
         "base_name": "pyro_taunt_int_22",
         "criteria": [],
         "events": [
@@ -3937,7 +3937,7 @@
         "state": "used",
         "transcript": "[muffled]\"Let's do this!\""
     },
-    "vo/taunts/pyro/pyro_taunt_int_24.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_int_24.mp3": {
         "base_name": "pyro_taunt_int_24",
         "criteria": [],
         "events": [
@@ -3953,7 +3953,7 @@
         "state": "used",
         "transcript": "[muffled](possibly) \"Come get your skull cracked!\""
     },
-    "vo/taunts/pyro/pyro_taunt_rps_exert_18.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_exert_18.mp3": {
         "base_name": "pyro_taunt_rps_exert_18",
         "criteria": [],
         "events": [
@@ -3980,7 +3980,7 @@
         "state": "used",
         "transcript": "Here we go!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_exert_21.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_exert_21.mp3": {
         "base_name": "pyro_taunt_rps_exert_21",
         "criteria": [],
         "events": [
@@ -4007,7 +4007,7 @@
         "state": "used",
         "transcript": "One!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_exert_22.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_exert_22.mp3": {
         "base_name": "pyro_taunt_rps_exert_22",
         "criteria": [],
         "events": [
@@ -4034,7 +4034,7 @@
         "state": "used",
         "transcript": "Two!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_exert_23.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_exert_23.mp3": {
         "base_name": "pyro_taunt_rps_exert_23",
         "criteria": [],
         "events": [
@@ -4061,7 +4061,7 @@
         "state": "used",
         "transcript": "Three!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_int_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_int_02.mp3": {
         "base_name": "pyro_taunt_rps_int_02",
         "criteria": [],
         "events": [
@@ -4077,7 +4077,7 @@
         "state": "used",
         "transcript": "Rock, paper, scissors!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_int_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_int_04.mp3": {
         "base_name": "pyro_taunt_rps_int_04",
         "criteria": [],
         "events": [
@@ -4093,7 +4093,7 @@
         "state": "used",
         "transcript": "(liltingly) \"Who wants to throw?\""
     },
-    "vo/taunts/pyro/pyro_taunt_rps_int_05.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_int_05.mp3": {
         "base_name": "pyro_taunt_rps_int_05",
         "criteria": [],
         "events": [
@@ -4111,7 +4111,7 @@
         "state": "used",
         "transcript": "Anyone want a throw?"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_int_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_int_07.mp3": {
         "base_name": "pyro_taunt_rps_int_07",
         "criteria": [],
         "events": [
@@ -4129,7 +4129,7 @@
         "state": "used",
         "transcript": "Betta!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_int_08.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_int_08.mp3": {
         "base_name": "pyro_taunt_rps_int_08",
         "criteria": [],
         "events": [
@@ -4150,7 +4150,7 @@
         "state": "used",
         "transcript": "Betta bah!"
     },
-    "vo/taunts/pyro/pyro_taunt_rps_lose_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_rps_lose_03.mp3": {
         "base_name": "pyro_taunt_rps_lose_03",
         "criteria": [],
         "events": [
@@ -4175,7 +4175,7 @@
         "state": "used",
         "transcript": "cry"
     },
-    "vo/taunts/pyro/pyro_taunt_thanks_07.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_thanks_07.mp3": {
         "base_name": "pyro_taunt_thanks_07",
         "criteria": [],
         "events": [
@@ -4194,7 +4194,7 @@
         "state": "used",
         "transcript": "Huddah hu-oh!"
     },
-    "vo/taunts/pyro/pyro_taunt_thanks_08.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_thanks_08.mp3": {
         "base_name": "pyro_taunt_thanks_08",
         "criteria": [],
         "events": [
@@ -4214,7 +4214,7 @@
         "state": "used",
         "transcript": "Huffah hu-oh!"
     },
-    "vo/taunts/pyro/pyro_taunt_thanks_09.mp3": {
+    "sound/vo/taunts/pyro/pyro_taunt_thanks_09.mp3": {
         "base_name": "pyro_taunt_thanks_09",
         "criteria": [],
         "events": [
@@ -4230,7 +4230,7 @@
         "state": "used",
         "transcript": "Thank you for the (unintelligible)!"
     },
-    "vo/taunts/pyro/pyro_trade_01.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_01.mp3": {
         "base_name": "pyro_trade_01",
         "criteria": [],
         "events": [
@@ -4251,7 +4251,7 @@
         "state": "used",
         "transcript": "Huh-nah! Huh-naaah..."
     },
-    "vo/taunts/pyro/pyro_trade_02.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_02.mp3": {
         "base_name": "pyro_trade_02",
         "criteria": [],
         "events": [
@@ -4263,7 +4263,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro/pyro_trade_03.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_03.mp3": {
         "base_name": "pyro_trade_03",
         "criteria": [],
         "events": [
@@ -4290,7 +4290,7 @@
         "state": "used",
         "transcript": "Euduh rah!"
     },
-    "vo/taunts/pyro/pyro_trade_04.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_04.mp3": {
         "base_name": "pyro_trade_04",
         "criteria": [],
         "events": [
@@ -4313,7 +4313,7 @@
         "state": "used",
         "transcript": "Ohh...ruddah buddoh."
     },
-    "vo/taunts/pyro/pyro_trade_06.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_06.mp3": {
         "base_name": "pyro_trade_06",
         "criteria": [],
         "events": [
@@ -4325,7 +4325,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro/pyro_trade_09.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_09.mp3": {
         "base_name": "pyro_trade_09",
         "criteria": [],
         "events": [
@@ -4337,7 +4337,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro/pyro_trade_12.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_12.mp3": {
         "base_name": "pyro_trade_12",
         "criteria": [],
         "events": [
@@ -4349,7 +4349,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro/pyro_trade_15.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_15.mp3": {
         "base_name": "pyro_trade_15",
         "criteria": [],
         "events": [
@@ -4361,7 +4361,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro/pyro_trade_17.mp3": {
+    "sound/vo/taunts/pyro/pyro_trade_17.mp3": {
         "base_name": "pyro_trade_17",
         "criteria": [],
         "events": [
@@ -4373,7 +4373,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro_highfive01.mp3": {
+    "sound/vo/taunts/pyro_highfive01.mp3": {
         "base_name": "pyro_highfive01",
         "criteria": [],
         "events": [
@@ -4393,7 +4393,7 @@
         "state": "used",
         "transcript": "Hit me!"
     },
-    "vo/taunts/pyro_highfive02.mp3": {
+    "sound/vo/taunts/pyro_highfive02.mp3": {
         "base_name": "pyro_highfive02",
         "criteria": [],
         "events": [
@@ -4413,7 +4413,7 @@
         "state": "used",
         "transcript": "Huddah!"
     },
-    "vo/taunts/pyro_highfive_success01.mp3": {
+    "sound/vo/taunts/pyro_highfive_success01.mp3": {
         "base_name": "pyro_highfive_success01",
         "criteria": [],
         "events": [
@@ -4430,7 +4430,7 @@
         "state": "used",
         "transcript": "*Laugh* \"Mweh!\""
     },
-    "vo/taunts/pyro_highfive_success02.mp3": {
+    "sound/vo/taunts/pyro_highfive_success02.mp3": {
         "base_name": "pyro_highfive_success02",
         "criteria": [
             [
@@ -4559,7 +4559,7 @@
         "state": "used",
         "transcript": "*Laugh* \"Hueh.\""
     },
-    "vo/taunts/pyro_highfive_success03.mp3": {
+    "sound/vo/taunts/pyro_highfive_success03.mp3": {
         "base_name": "pyro_highfive_success03",
         "criteria": [],
         "events": [
@@ -4582,7 +4582,7 @@
         "state": "used",
         "transcript": "*Gleeful laugh*"
     },
-    "vo/taunts/pyro_lollichop.mp3": {
+    "sound/vo/taunts/pyro_lollichop.mp3": {
         "base_name": "pyro_lollichop",
         "criteria": [
             [
@@ -4606,7 +4606,7 @@
         "state": "used",
         "transcript": ""
     },
-    "vo/taunts/pyro_painsevere01.mp3": {
+    "sound/vo/taunts/pyro_painsevere01.mp3": {
         "base_name": "pyro_painsevere01",
         "criteria": [],
         "events": [
@@ -4623,7 +4623,7 @@
         "state": "missing",
         "transcript": ""
     },
-    "vo/taunts/pyro_taunts01.mp3": {
+    "sound/vo/taunts/pyro_taunts01.mp3": {
         "base_name": "pyro_taunts01",
         "criteria": [
             [
@@ -4651,7 +4651,7 @@
         "state": "used",
         "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
     },
-    "vo/taunts/pyro_taunts02.mp3": {
+    "sound/vo/taunts/pyro_taunts02.mp3": {
         "base_name": "pyro_taunts02",
         "criteria": [
             [
@@ -4679,7 +4679,7 @@
         "state": "used",
         "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
     },
-    "vo/taunts/pyro_taunts03.mp3": {
+    "sound/vo/taunts/pyro_taunts03.mp3": {
         "base_name": "pyro_taunts03",
         "criteria": [
             [
@@ -4707,7 +4707,7 @@
         "state": "used",
         "transcript": "Murr hurr mphuphurrur, hurr mph phrr."
     },
-    "vo/taunts/pyro_taunts04.mp3": {
+    "sound/vo/taunts/pyro_taunts04.mp3": {
         "base_name": "pyro_taunts04",
         "criteria": [
             [
