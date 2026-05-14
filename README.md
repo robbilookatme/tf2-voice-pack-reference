@@ -31,11 +31,11 @@ The spreadsheet (.csv) files will contain the following data:
 
 For writing new dialogue, what matters most is the sets of criteria, which tell you the situations in which a line is used.
 
-To save space, the Responses list also contains the names of taunts which use the voiceline in question.
+To save space, the Responses list also contains the names of taunts which use the voiceline in question. Note that taunt information is currently incomplete, as much of the taunt information is stored in compressed animation files rather than easily-readable scripts.
 
 The (line usage) cell will contain "Unused?" if the line is in the TF2 files, but is not called by any soundscript, and will contain "Missing?" if the file is called by a soundscript but does not exist in the TF2 files.
 
-Note that a file that is marked unused, it may still be called by engine code or maps.
+Note that a file that is marked unused, it may still be called by engine code or maps. Conversely, a file marked "used" only means that it has a soundscript event that calls it, not that the soundscript event itself ever plays.
 
 ### JSON Format
 ```
