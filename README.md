@@ -35,7 +35,7 @@ To save space, the Responses list also contains the names of taunts which use th
 
 The (line usage) cell will contain "Unused?" if the line is in the TF2 files, but is not called by any soundscript, and will contain "Missing?" if the file is called by a soundscript but does not exist in the TF2 files.
 
-Note that a file that is marked unused, it may still be called by engine code or maps. Conversely, a file marked "used" only means that it has a soundscript event that calls it, not that the soundscript event itself ever plays.
+Note that a file that is marked unused, it is assuredly not played by the dialogue system, but it may still be called by engine code or maps. Conversely, a file marked "used" only means that it has a soundscript event that calls it, not that the soundscript event itself necessarily ever plays.
 
 ### JSON Format
 ```
@@ -126,6 +126,16 @@ Someone turned me onto soundscripts, saying they gave more control than just rep
 
 ### Notes
 
+Marking lines as "unused" is an extremely imperfect system. A dialogue line labeled "unused" is unused by the dialogue system, though it may be played by maps or engine code. A line labeled "used" simply has a soundscript event defined for it. This is the best that can be done without manually researching the thousands of sound files. Furthermore, a soundscript event may be called by a scene that never plays, a scene may be played by a response that is never called, and a response may be called by a rule that is set up incorrectly. Basically, if a line is marked as "used", be sure to check that it actually is, preferably by testing ingame.
+
+You can test the rule-response sytem with the following commands:
+* `developer 1` - Enables developer mode, necessary for the rule-response debug commands to work.
+* `rr_debugresponses 1` - Enables response debugging; when a rule is called, displays all game data passed to the rule-response system, the selected rule and response, and the selected scene played by the response.
+* `rr_debugrule RuleName` - Enables rule debugging; when a rule is called, displays all that rule's criteria and whether they match or not.
+* `rr_reloadresponsesystems` - Reloads the rule-response files. This works while ingame.
+
+You can write or edit rule response files and place them in "(TF2 Folder)/tf/custom/(any foldler name)/scripts/talker". If you want to test a specific line of dialogue, you can write a rule and response that play just that line. (My personal habit is making a line that plays when whatever class I'm playing fires a weapon.) If you want to test a rule that only plays a fraction of the time, you can make a copy of the original talker file from "(TF2 Folder)/tf/scripts/talker/(classname).txt" and edit the rule to remove criteria that make the rule only play a certain percentage of the time.
+
 Many scenes are not called by the rule-response system, but are instead played directly by taunts. This information can be found in the item schema file, "scripts/items/items_game.txt". Look for any line with ".vcd" to find where scene information is stored.
 
 The rule-response system loads "scripts/talker/response_rules.txt". This file contains #include lines that pull in other files in the "scripts/" folder.
@@ -141,6 +151,10 @@ Soundscripts are called from "scripts/game_sounds_manifest.txt", which loads oth
 As mentioned above, custom soundscripts do not work when connected to servers, save for client-side sounds like user interface noises and hit sounds. To be more accurate, aside from the aforementioned client-side sounds, soundscript events are determined by the server and not the client. This means that if you host a game from the "Create Server" dialog on the main menu, your custom soundscripts WILL work, as well as custom rule-response files! This also applies to hosting dedicated servers, meaning your server can change, add, or remove the game's rules, responses, and soundscript events! Note that you CANNOT add new audio this way, at least not audio that other players can hear. Sound files in the tf/custom folder on the server are not automatically synced, so you have to add them through some other method. Custom sounds are a staple of many TF2 servers, but how to activate them through soundscripts is left as an exercise for the reader.
 
 The ConceptPlayerExpression criteria fires every time a player model's facial expression updates. This is used in two circumstances. The first is for Halloween items like the Larval Lid, any Voodoo-Cursed Soul, or The Second Opinion, where it is used to randomly play lines while the player isn't doing anything in particular. The second is when the Sniper is aiming at a player, which causes him to mutter under his breath about something Australian probably. This criteria is unique in that it fires as soon as any choreography scene ends, including one triggered by a rule with this very critiera. In practice, that means that TF2's base dialogue lines which are triggered by the ConceptPlayerExpression criteria are timed out exactly in the choreography scenes, and any custom lines which are longer than the originals will be cut off.
+
+The three weapon slot concepts "WeaponIsNotVanillaPrimary", "WeaponIsNotVanillaSecondary", and "WeaponIsNotVanillaMelee" compare to an empty string "", which in theory should mean contrary to their names they should pass when the associated weapon slot is empty, but instead they pass when it is _not_ empty. Essentially, comparing to an empty string results in a not-equal comparison rather than an is-equal comparison, and the rule-response system uses this bug on purpose. Note that if this bug were to be fixed, additional work would need to be done to restore functionallity to these criteria, as there does not seem to be a way for a criteria to intentionally do a not-equal comparison to an empty string. The criteria "WeaponIsNotSentrygun" also makes this comparison, but it is unused.
+
+A fun fact about the Rock, Paper, Scissors and Flippin' Awesome taunts: one player is chosen at random to be the "vocal" player, meaning that they will speak more dialogue than the other player. This may apply to other partner taunts as well, I have not checked all of them yet.
 
 All sounds taken from map data are assumed to be used, as they would be called by map events rather than the normal dialogue system.
 

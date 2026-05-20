@@ -12,6 +12,8 @@ Contexts are information states that are only relevant to the dialogue system, a
 
 Criteria can theoretically be marked as not required, but every criteria used in TF2 is marked required, meaning rules must meet every criteria in order to play their corresponding response.
 
+The way Team Fortress 2 loads dialogue rules means that every rule needs a concept and a criteria for a specific class. For instance, a rule with the criteria "ConceptPlayerMedic" and "IsSpy" will be loaded and function correctly, but a rule with only one or the other will not.
+
 Last note about criteria is about weight. Every criteria has a weight, defaulting to 1. When rules are checked, they are given a weight equal to the sum of the weights of their matched criteria. When multiple rules are found to match a circumstance, the rule with the most weight is chosen. If multiple rules tie for the most weight, one is chosen at random. Context criteria are usually given a weight of 0.
 
 In the following list, I explain every criteria and when they are resolved as matched. If a criteria is labeled "unused", it means the criteria works correctly but no rules use it and as such no voice lines will play when that criteria fires (unless the server is running custom rule-response files). If a criteria is labeled "never called", it means that the criteria will never match due to not being set in code. This means that it is not possible to write new rules using this criteria without running a modified game executable.
@@ -441,7 +443,7 @@ Note that the engine rolls 0 to 100 inclusive, meaning there are 101 possibiliti
   <dt>75PercentChance</dt>
   <dd>75 out of 101 chance of passing, approx 74.3% chance</dd>
   <dt>100PercentChance</dt>
-  <dd>100 out of 101 chance of passing, approx 99% chance, has extra weight so rules with this criteria will fire above other rules</dd>
+  <dd>100 out of 101 chance of passing, approx 99% chance, has extra weight so rules with this criteria will fire above other rules when it passes</dd>
 </dl>
 
 ### Game State Criteria
