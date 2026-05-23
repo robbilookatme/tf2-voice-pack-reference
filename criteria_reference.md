@@ -87,7 +87,7 @@ In the following list, I explain every criteria and when they are resolved as ma
   <dt>ConceptPlayerCapturedPoint</dt>
   <dd>Fires when player captures a point</dd>
   <dt>ConceptPlayerLostPoint</dt>
-  <dd>Unused-ish, fires when enemy captures a point owned by player's team, doesn't trigger responses due to a typo in response_rules.txt</dd>
+  <dd>Fires when enemy captures a point owned by player's team (includes an owned King of the Hill point and Payload points)</dd>
   <dt>ConceptCapBlocked</dt>
   <dd>Fires when player kills an enemy capturing a player-owned point, or stops the payload cart when on defense</dd>
   <dt>ConceptCartMovingForward</dt>
