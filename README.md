@@ -154,7 +154,7 @@ The ConceptPlayerExpression criteria fires every time a player model's facial ex
 
 The three weapon slot concepts "WeaponIsNotVanillaPrimary", "WeaponIsNotVanillaSecondary", and "WeaponIsNotVanillaMelee" compare to an empty string "", which in theory should mean contrary to their names they should pass when the associated weapon slot is empty, but instead they pass when it is _not_ empty. Essentially, comparing to an empty string results in a not-equal comparison rather than an is-equal comparison, and the rule-response system uses this bug on purpose. Note that if this bug were to be fixed, additional work would need to be done to restore functionallity to these criteria, as there does not seem to be a way for a criteria to intentionally do a not-equal comparison to an empty string. The criteria "WeaponIsNotSentrygun" also makes this comparison, but it is unused.
 
-A fun fact about the Rock, Paper, Scissors and Flippin' Awesome taunts: one player is chosen at random to be the "vocal" player, meaning that they will speak more dialogue than the other player. This may apply to other partner taunts as well, I have not checked all of them yet.
+A fun fact is that some partner taunts employ a system in which one player is chosen at random to be the "vocal" player, meaning that they will speak more dialogue than the other player. So far, I've confirmed this behavior with the Rock, Paper, Scissors, Flippin' Awesome, Square Dance, and High Five taunts. This may apply to other partner taunts as well, I have not checked all of them yet.
 
 All sounds taken from map data are assumed to be used, as they would be called by map events rather than the normal dialogue system.
 
