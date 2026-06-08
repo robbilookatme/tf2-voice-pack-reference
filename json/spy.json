@@ -7188,10 +7188,12 @@
         ],
         "events": [
             "spy.laughhappy01",
+            "spy_taunt_curtain_call_vo_02",
             "taunt_spy.disco_fever_middle"
         ],
         "responses": [
             "KilledPlayerManySpy",
+            "Taunt: Curtain Call",
             "Taunt: Disco Fever"
         ],
         "rules": [
@@ -7199,7 +7201,8 @@
         ],
         "scenes": [
             "scenes/player/spy/low/773.vcd",
-            "scenes/workshop/player/spy/low/disco_fever.vcd"
+            "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh 1)"
@@ -12571,16 +12574,19 @@
             ]
         ],
         "events": [
-            "spy.yes01"
+            "spy.yes01",
+            "spy_taunt_curtain_call_vo_01"
         ],
         "responses": [
-            "PlayerYesSpy"
+            "PlayerYesSpy",
+            "Taunt: Curtain Call"
         ],
         "rules": [
             "PlayerYesSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/857.vcd"
+            "scenes/player/spy/low/857.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd"
         ],
         "state": "used",
         "transcript": "Yes."
@@ -13006,7 +13012,7 @@
             "scenes/player/spy/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
-        "transcript": "Ha ha!"
+        "transcript": ""
     },
     "sound/vo/taunts/spy/spy_taunt_cong_fun_01.mp3": {
         "base_name": "spy_taunt_cong_fun_01",
@@ -13048,15 +13054,18 @@
         "criteria": [],
         "events": [
             "spy_taunt_conga_random_fun1",
+            "spy_taunt_curtain_call_vo_02",
             "spy_taunt_tuefort_tango_a1"
         ],
         "responses": [
             "Taunt: Conga",
+            "Taunt: Curtain Call",
             "Taunt: Teufort Tango"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/spy/low/conga.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
@@ -13068,15 +13077,18 @@
         "criteria": [],
         "events": [
             "spy_taunt_conga_random_fun1",
+            "spy_taunt_curtain_call_vo_02",
             "spy_taunt_tuefort_tango_a1"
         ],
         "responses": [
             "Taunt: Conga",
+            "Taunt: Curtain Call",
             "Taunt: Teufort Tango"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/spy/low/conga.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
@@ -13127,15 +13139,18 @@
         "criteria": [],
         "events": [
             "spy_taunt_conga_random_fun2",
+            "spy_taunt_curtain_call_vo_02",
             "spy_taunt_tuefort_tango_a1"
         ],
         "responses": [
             "Taunt: Conga",
+            "Taunt: Curtain Call",
             "Taunt: Teufort Tango"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/spy/low/conga.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
@@ -13931,18 +13946,20 @@
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
-        "transcript": "Big Finish!"
+        "transcript": "Big finish!"
     },
     "sound/vo/taunts/spy/spy_taunt_flip_end_14.mp3": {
         "base_name": "spy_taunt_flip_end_14",
         "criteria": [],
         "events": [
+            "spy_taunt_curtain_call_vo_01",
             "spy_taunt_flip_random_flipfinish",
             "taunt_killer_joke_spy",
             "taunt_spy.disco_fever_end",
             "taunt_spy_aerobic_finish"
         ],
         "responses": [
+            "Taunt: Curtain Call",
             "Taunt: Disco Fever",
             "Taunt: Flippin' Awesome",
             "Taunt: Killer Joke",
@@ -13953,6 +13970,7 @@
             "scenes/player/spy/low/flip_success_receiver1.vcd",
             "scenes/player/spy/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -15327,13 +15345,16 @@
         "criteria": [],
         "events": [
             "spy.highfive07",
+            "spy_taunt_curtain_call_vo_01",
             "spy_taunt_flag"
         ],
         "responses": [
+            "Taunt: Curtain Call",
             "Taunt: Flying Colors"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -15442,13 +15463,16 @@
         "criteria": [],
         "events": [
             "spy.highfivesuccess01",
+            "spy_taunt_curtain_call_vo_01",
             "spy_taunt_flag"
         ],
         "responses": [
+            "Taunt: Curtain Call",
             "Taunt: Flying Colors"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
         "state": "used",

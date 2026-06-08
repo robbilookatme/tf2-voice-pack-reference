@@ -4224,13 +4224,15 @@
         ],
         "events": [
             "medic.laughhappy03",
+            "medic_taunt_peace_vo_01",
             "taunt.bearhug_medic_c",
             "taunt_medic_aerobic_shared_b"
         ],
         "responses": [
             "PlayerKilledDominatingMedic",
             "Taunt: Bear Hug",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Peace!"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -4239,7 +4241,8 @@
         "scenes": [
             "scenes/player/medic/low/1229.vcd",
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/medic/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laugh 3)"

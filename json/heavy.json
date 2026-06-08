@@ -7851,12 +7851,14 @@
         "events": [
             "heavy.laughevil02",
             "heavy_taunt_crushing_headache_2",
+            "heavy_taunt_peace_vo_02",
             "taunt_killer_joke_heavy"
         ],
         "responses": [
             "PlayerTauntsHeavy",
             "Taunt: Crushing Defeat",
-            "Taunt: Killer Joke"
+            "Taunt: Killer Joke",
+            "Taunt: Peace!"
         ],
         "rules": [
             "PlayerPositiveHeavy"
@@ -7864,7 +7866,8 @@
         "scenes": [
             "scenes/player/heavy/low/1270.vcd",
             "scenes/workshop/player/heavy/low/taunt_crushing_headache.vcd",
-            "scenes/workshop/player/heavy/low/taunt_killer_joke.vcd"
+            "scenes/workshop/player/heavy/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/heavy/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh"
@@ -7880,12 +7883,14 @@
         "events": [
             "heavy.laughevil03",
             "heavy_taunt_crushing_headache_2",
+            "heavy_taunt_peace_vo_02",
             "taunt_killer_joke_heavy"
         ],
         "responses": [
             "PlayerTauntsHeavy",
             "Taunt: Crushing Defeat",
-            "Taunt: Killer Joke"
+            "Taunt: Killer Joke",
+            "Taunt: Peace!"
         ],
         "rules": [
             "PlayerPositiveHeavy"
@@ -7893,7 +7898,8 @@
         "scenes": [
             "scenes/player/heavy/low/1271.vcd",
             "scenes/workshop/player/heavy/low/taunt_crushing_headache.vcd",
-            "scenes/workshop/player/heavy/low/taunt_killer_joke.vcd"
+            "scenes/workshop/player/heavy/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/heavy/low/taunt_peace.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh 2"

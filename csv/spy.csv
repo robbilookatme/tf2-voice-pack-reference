@@ -976,9 +976,9 @@ Transcription:,(Evil laugh 2),,Responses:,"['KilledPlayerManySpy', 'Taunt: Disco
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
-Filename:,spy_laughhappy01,,Events:,"['spy.laughhappy01', 'taunt_spy.disco_fever_middle']"
-Full Path:,sound/vo/spy_laughhappy01.mp3,,Scenes:,"['scenes/player/spy/low/773.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd']"
-Transcription:,(Happy laugh 1),,Responses:,"['KilledPlayerManySpy', 'Taunt: Disco Fever']"
+Filename:,spy_laughhappy01,,Events:,"['spy.laughhappy01', 'spy_taunt_curtain_call_vo_02', 'taunt_spy.disco_fever_middle']"
+Full Path:,sound/vo/spy_laughhappy01.mp3,,Scenes:,"['scenes/player/spy/low/773.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd']"
+Transcription:,(Happy laugh 1),,Responses:,"['KilledPlayerManySpy', 'Taunt: Curtain Call', 'Taunt: Disco Fever']"
 Your Line:,,,Rules:,['KilledPlayerManySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10']]"
 
@@ -1846,9 +1846,9 @@ Transcription:,"As if I would get blood on a $3,000 suit. Come on.",,Responses:,
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_yes01,,Events:,['spy.yes01']
-Full Path:,sound/vo/spy_yes01.mp3,,Scenes:,['scenes/player/spy/low/857.vcd']
-Transcription:,Yes.,,Responses:,['PlayerYesSpy']
+Filename:,spy_yes01,,Events:,"['spy.yes01', 'spy_taunt_curtain_call_vo_01']"
+Full Path:,sound/vo/spy_yes01.mp3,,Scenes:,"['scenes/player/spy/low/857.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd']"
+Transcription:,Yes.,,Responses:,"['PlayerYesSpy', 'Taunt: Curtain Call']"
 Your Line:,,,Rules:,['PlayerYesSpy']
 ,,,Criteria:,"[['ConceptPlayerYes', 'IsSpy']]"
 
@@ -1906,9 +1906,9 @@ Transcription:,I'm waiting.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_highfive07,,Events:,"['spy.highfive07', 'spy_taunt_flag']"
-Full Path:,sound/vo/taunts/spy_highfive07.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_flying_colors.vcd']
-Transcription:,Gentlemen!,,Responses:,['Taunt: Flying Colors']
+Filename:,spy_highfive07,,Events:,"['spy.highfive07', 'spy_taunt_curtain_call_vo_01', 'spy_taunt_flag']"
+Full Path:,sound/vo/taunts/spy_highfive07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
+Transcription:,Gentlemen!,,Responses:,"['Taunt: Curtain Call', 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1954,9 +1954,9 @@ Transcription:,Who will join me?,,Responses:,['Taunt: Flying Colors']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_highfive_success01,,Events:,"['spy.highfivesuccess01', 'spy_taunt_flag']"
-Full Path:,sound/vo/taunts/spy_highfive_success01.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_flying_colors.vcd']
-Transcription:,Yes!,,Responses:,['Taunt: Flying Colors']
+Filename:,spy_highfive_success01,,Events:,"['spy.highfivesuccess01', 'spy_taunt_curtain_call_vo_01', 'spy_taunt_flag']"
+Full Path:,sound/vo/taunts/spy_highfive_success01.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
+Transcription:,Yes!,,Responses:,"['Taunt: Curtain Call', 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2382,7 +2382,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,spy_taunt_bos_kick_02,,Events:,['spy_taunt_flip_random_flipthrowantic']
 Full Path:,sound/vo/taunts/spy/spy_taunt_bos_kick_02.mp3,,Scenes:,['scenes/player/spy/low/flip_success_initiator1.vcd']
-Transcription:,Ha ha!,,Responses:,"[""Taunt: Flippin' Awesome""]"
+Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2398,15 +2398,15 @@ Transcription:,Ahhh! Ho ho ho ho ho hah!,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_03,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_03.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Alright!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_03,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_curtain_call_vo_02', 'spy_taunt_tuefort_tango_a1']"
+Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_03.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,Alright!,,Responses:,"['Taunt: Conga', 'Taunt: Curtain Call', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_05,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,"Ah, c'est magnifique!",,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_05,,Events:,"['spy_taunt_conga_random_fun1', 'spy_taunt_curtain_call_vo_02', 'spy_taunt_tuefort_tango_a1']"
+Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_05.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,"Ah, c'est magnifique!",,Responses:,"['Taunt: Conga', 'Taunt: Curtain Call', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2422,9 +2422,9 @@ Transcription:,Eh hoo hoo!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_cong_fun_09,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_tuefort_tango_a1']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Oh ho ho ho ho!,,Responses:,"['Taunt: Conga', 'Taunt: Teufort Tango']"
+Filename:,spy_taunt_cong_fun_09,,Events:,"['spy_taunt_conga_random_fun2', 'spy_taunt_curtain_call_vo_02', 'spy_taunt_tuefort_tango_a1']"
+Full Path:,sound/vo/taunts/spy/spy_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/spy/low/conga.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,Oh ho ho ho ho!,,Responses:,"['Taunt: Conga', 'Taunt: Curtain Call', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2670,13 +2670,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,spy_taunt_flip_end_12,,Events:,"['spy_taunt_flip_random_flipfinish', 'spy_taunt_tuefort_tango_outro_a', 'taunt_spy_aerobic_finish']"
 Full Path:,sound/vo/taunts/spy/spy_taunt_flip_end_12.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
-Transcription:,Big Finish!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: Teufort Tango']"
+Transcription:,Big finish!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,spy_taunt_flip_end_14,,Events:,"['spy_taunt_flip_random_flipfinish', 'taunt_killer_joke_spy', 'taunt_spy.disco_fever_end', 'taunt_spy_aerobic_finish']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_flip_end_14.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd']"
-Transcription:,I make it look easy!,,Responses:,"['Taunt: Disco Fever', ""Taunt: Flippin' Awesome"", 'Taunt: Killer Joke', 'Taunt: Mannrobics']"
+Filename:,spy_taunt_flip_end_14,,Events:,"['spy_taunt_curtain_call_vo_01', 'spy_taunt_flip_random_flipfinish', 'taunt_killer_joke_spy', 'taunt_spy.disco_fever_end', 'taunt_spy_aerobic_finish']"
+Full Path:,sound/vo/taunts/spy/spy_taunt_flip_end_14.mp3,,Scenes:,"['scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_curtain_call.vcd', 'scenes/workshop/player/spy/low/taunt_killer_joke.vcd']"
+Transcription:,I make it look easy!,,Responses:,"['Taunt: Curtain Call', 'Taunt: Disco Fever', ""Taunt: Flippin' Awesome"", 'Taunt: Killer Joke', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

@@ -70,9 +70,9 @@ Transcription:,"Now it's our flippin' point, hehah!",,Responses:,"['PlayerCaptur
 Your Line:,,,Rules:,['PlayerCapturedPointDemoman']
 ,,,Criteria:,"[['ConceptPlayerCapturedPoint', 'IsDemoman']]"
 
-Filename:,demoman_autocappedintelligence01,,Events:,['demoman.autocappedintelligence01']
-Full Path:,sound/vo/demoman_autocappedintelligence01.mp3,,Scenes:,['scenes/player/demoman/low/866.vcd']
-Transcription:,"Aye, that's the way ye do it! Hehah!",,Responses:,"['AwardDemoman', 'PlayerCappedIntelligenceDemoman']"
+Filename:,demoman_autocappedintelligence01,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman.autocappedintelligence01']"
+Full Path:,sound/vo/demoman_autocappedintelligence01.mp3,,Scenes:,"['scenes/player/demoman/low/866.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Aye, that's the way ye do it! Hehah!",,Responses:,"['AwardDemoman', 'PlayerCappedIntelligenceDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,"['AwardDemoman', 'PlayerCappedIntelligenceDemoman']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsDemoman', 'DemomanNotAwardSpeech', 'AppliesContext:DemomanAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCapturedIntelligence', 'IsDemoman']]"
 
@@ -136,9 +136,9 @@ Transcription:,Freeeedooooom!,,Responses:,"['PlayerBattleCryDemoman', 'PlayerRou
 Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsDemoman'], ['ConceptPlayerRoundStart', 'IsDemoman']]"
 
-Filename:,demoman_battlecry02,,Events:,"['demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo', 'demoman.battlecry02']"
-Full Path:,sound/vo/demoman_battlecry02.mp3,,Scenes:,"['scenes/player/demoman/low/876.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,"Have at 'em, lads!",,Responses:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War""]"
+Filename:,demoman_battlecry02,,Events:,"['demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo', 'demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman.battlecry02']"
+Full Path:,sound/vo/demoman_battlecry02.mp3,,Scenes:,"['scenes/player/demoman/low/876.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
+Transcription:,"Have at 'em, lads!",,Responses:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", 'Taunt: Fore-Head Slice', ""Taunt: Roar O'War""]"
 Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsDemoman'], ['ConceptPlayerRoundStart', 'IsDemoman']]"
 
@@ -148,9 +148,9 @@ Transcription:,"Get 'am, boyos!",,Responses:,"['PlayerBattleCryDemoman', 'Player
 Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsDemoman'], ['ConceptPlayerRoundStart', 'IsDemoman']]"
 
-Filename:,demoman_battlecry04,,Events:,"['demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo', 'demoman.battlecry04']"
-Full Path:,sound/vo/demoman_battlecry04.mp3,,Scenes:,"['scenes/player/demoman/low/878.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
-Transcription:,Kill 'em aall!,,Responses:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", ""Taunt: Roar O'War""]"
+Filename:,demoman_battlecry04,,Events:,"['demo.drunk_manns_cannon_cheer', 'demo.taunt_roar_owar_vo', 'demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman.battlecry04']"
+Full Path:,sound/vo/demoman_battlecry04.mp3,,Scenes:,"['scenes/player/demoman/low/878.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd']"
+Transcription:,Kill 'em aall!,,Responses:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman', ""Taunt: Drunk Mann's Cannon"", 'Taunt: Fore-Head Slice', ""Taunt: Roar O'War""]"
 Your Line:,,,Rules:,"['PlayerBattleCryDemoman', 'PlayerRoundStartDemoman']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsDemoman'], ['ConceptPlayerRoundStart', 'IsDemoman']]"
 
@@ -922,15 +922,15 @@ Transcription:,Incoming.,,Responses:,['PlayerIncomingDemoman']
 Your Line:,,,Rules:,['PlayerIncomingDemoman']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsDemoman']]"
 
-Filename:,demoman_incoming02,,Events:,['demoman.incoming02']
-Full Path:,sound/vo/demoman_incoming02.mp3,,Scenes:,['scenes/player/demoman/low/933.vcd']
-Transcription:,Incoming!,,Responses:,['PlayerIncomingDemoman']
+Filename:,demoman_incoming02,,Events:,"['demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman.incoming02']"
+Full Path:,sound/vo/demoman_incoming02.mp3,,Scenes:,"['scenes/player/demoman/low/933.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,Incoming!,,Responses:,"['PlayerIncomingDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['PlayerIncomingDemoman']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsDemoman']]"
 
-Filename:,demoman_incoming03,,Events:,['demoman.incoming03']
-Full Path:,sound/vo/demoman_incoming03.mp3,,Scenes:,['scenes/player/demoman/low/934.vcd']
-Transcription:,Iincoomiing!,,Responses:,['PlayerIncomingDemoman']
+Filename:,demoman_incoming03,,Events:,"['demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman.incoming03']"
+Full Path:,sound/vo/demoman_incoming03.mp3,,Scenes:,"['scenes/player/demoman/low/934.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,Iincoomiing!,,Responses:,"['PlayerIncomingDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['PlayerIncomingDemoman']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsDemoman']]"
 
@@ -1000,15 +1000,15 @@ Transcription:,We're a sorry buncha' losers!,,Responses:,"['PlayerJeersDemoman',
 Your Line:,,,Rules:,"['PlayerJeersDemoman', 'PlayerSuddenDeathDemoman']"
 ,,,Criteria:,"[['ConceptPlayerJeers', 'IsDemoman'], ['ConceptPlayerSuddenDeathStart', 'IsDemoman']]"
 
-Filename:,demoman_laughevil01,,Events:,['demoman.laughevil01']
-Full Path:,sound/vo/demoman_laughevil01.mp3,,Scenes:,['scenes/player/demoman/low/910.vcd']
-Transcription:,(Evil laugh 1),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
+Filename:,demoman_laughevil01,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman.laughevil01']"
+Full Path:,sound/vo/demoman_laughevil01.mp3,,Scenes:,"['scenes/player/demoman/low/910.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,(Evil laugh 1),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30']]"
 
-Filename:,demoman_laughevil02,,Events:,"['demo.drunk_manns_cannon_laugh', 'demoman.laughevil02']"
-Full Path:,sound/vo/demoman_laughevil02.mp3,,Scenes:,"['scenes/player/demoman/low/950.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd']"
-Transcription:,(Evil laugh 2),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman', ""Taunt: Drunk Mann's Cannon""]"
+Filename:,demoman_laughevil02,,Events:,"['demo.drunk_manns_cannon_laugh', 'demo_taunt_forehead_slice_demoman_laughshort01', 'demoman.laughevil02']"
+Full Path:,sound/vo/demoman_laughevil02.mp3,,Scenes:,"['scenes/player/demoman/low/950.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,(Evil laugh 2),,Responses:,"['KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman', ""Taunt: Drunk Mann's Cannon"", 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,"['KilledPlayerKatanaDemoman', 'KilledPlayerSwordDemoman', 'PlayerKilledDominatingDemoman']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsKatana', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSword', '20PercentChance', 'IsNotVictimDemoman', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:30']]"
 
@@ -1186,9 +1186,9 @@ Transcription:,"Good shot, lad!",,Responses:,['PlayerNiceShotDemoman']
 Your Line:,,,Rules:,['PlayerNiceShotDemoman']
 ,,,Criteria:,"[['ConceptPlayerNiceShot', 'IsDemoman']]"
 
-Filename:,demoman_niceshot02,,Events:,['demoman.niceshot02']
-Full Path:,sound/vo/demoman_niceshot02.mp3,,Scenes:,['scenes/player/demoman/low/975.vcd']
-Transcription:,"Good shot, man!",,Responses:,['PlayerNiceShotDemoman']
+Filename:,demoman_niceshot02,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman.niceshot02']"
+Full Path:,sound/vo/demoman_niceshot02.mp3,,Scenes:,"['scenes/player/demoman/low/975.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Good shot, man!",,Responses:,"['PlayerNiceShotDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['PlayerNiceShotDemoman']
 ,,,Criteria:,"[['ConceptPlayerNiceShot', 'IsDemoman']]"
 
@@ -1330,9 +1330,9 @@ Transcription:,That's the spirit!,,Responses:,"['PlayerKilledCapperDemoman', 'Pl
 Your Line:,,,Rules:,"['PlayerKilledCapperDemoman', 'PlayerPositiveDemoman']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10'], ['ConceptPlayerPositive', 'IsDemoman']]"
 
-Filename:,demoman_positivevocalization04,,Events:,['demoman.positivevocalization04']
-Full Path:,sound/vo/demoman_positivevocalization04.mp3,,Scenes:,['scenes/player/demoman/low/992.vcd']
-Transcription:,"Ah, that's the stuff!",,Responses:,"['PlayerKilledCapperDemoman', 'PlayerPositiveDemoman']"
+Filename:,demoman_positivevocalization04,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman.positivevocalization04']"
+Full Path:,sound/vo/demoman_positivevocalization04.mp3,,Scenes:,"['scenes/player/demoman/low/992.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Ah, that's the stuff!",,Responses:,"['PlayerKilledCapperDemoman', 'PlayerPositiveDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,"['PlayerKilledCapperDemoman', 'PlayerPositiveDemoman']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10'], ['ConceptPlayerPositive', 'IsDemoman']]"
 
@@ -1582,9 +1582,9 @@ Transcription:,I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!
 Your Line:,,,Rules:,"['AcceptedDuelDemoman', 'MeleeDareCombatDemoman']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsDemoman'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsDemoman', 'IsCrosshairEnemy']]"
 
-Filename:,demoman_taunts04,,Events:,['demoman.taunts04']
-Full Path:,sound/vo/taunts/demoman_taunts04.mp3,,Scenes:,['scenes/player/demoman/low/1016.vcd']
-Transcription:,"Don't fret, boyo. I'll be gentle!",,Responses:,['KilledPlayerManyDemoman']
+Filename:,demoman_taunts04,,Events:,"['demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman.taunts04']"
+Full Path:,sound/vo/taunts/demoman_taunts04.mp3,,Scenes:,"['scenes/player/demoman/low/1016.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Don't fret, boyo. I'll be gentle!",,Responses:,"['KilledPlayerManyDemoman', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['KilledPlayerManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
@@ -1702,9 +1702,9 @@ Transcription:,Pure dead brilliant!,,Responses:,"['DemomanMvMLootRare', 'Taunt: 
 Your Line:,,,Rules:,['DemomanMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsDemoman']]"
 
-Filename:,demoman_mvm_loot_rare02,,Events:,['demoman_mvm_loot_rare02']
-Full Path:,sound/vo/demoman_mvm_loot_rare02.mp3,,Scenes:,['scenes/player/demoman/low/7796.vcd']
-Transcription:,"Oh, what's your name, ya pretty lit'le thing?",,Responses:,['DemomanMvMLootRare']
+Filename:,demoman_mvm_loot_rare02,,Events:,"['demo_taunt_forehead_slice_demoman_specialcompleted09', 'demoman_mvm_loot_rare02']"
+Full Path:,sound/vo/demoman_mvm_loot_rare02.mp3,,Scenes:,"['scenes/player/demoman/low/7796.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Oh, what's your name, ya pretty lit'le thing?",,Responses:,"['DemomanMvMLootRare', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['DemomanMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsDemoman']]"
 
@@ -1978,9 +1978,9 @@ Transcription:,And..boom goes the bomb!,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
-Filename:,demo_badpipes_02,,Events:,['taunt_true_scotsmans.vo']
-Full Path:,sound/vo/taunts/demo/demo_badpipes_02.mp3,,Scenes:,['scenes/workshop/player/demoman/low/true_scotsmans_call.vcd']
-Transcription:,Hah! Nailed it!,,Responses:,['Taunt: Bad Pipes']
+Filename:,demo_badpipes_02,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'taunt_true_scotsmans.vo']"
+Full Path:,sound/vo/taunts/demo/demo_badpipes_02.mp3,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/demoman/low/true_scotsmans_call.vcd']"
+Transcription:,Hah! Nailed it!,,Responses:,"['Taunt: Bad Pipes', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2086,7 +2086,7 @@ Transcription:,Look at this bonny thing!,,Responses:,"['Taunt: Burstchester', 'T
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_trade_04,,Events:,"['demo_taunt_trade_loop_rand', 'demo_taunt_trade_rand', 'demo_taunt_trade_start_rand']"
+Filename:,demo_trade_04,,Events:,"['demo_taunt_peace_vo_02', 'demo_taunt_trade_loop_rand', 'demo_taunt_trade_rand', 'demo_taunt_trade_start_rand']"
 Full Path:,sound/vo/taunts/demo/demo_trade_04.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_peace.vcd']
 Transcription:,Ya might like this!,,Responses:,['Taunt: Peace!']
 Your Line:,,,Rules:,[]
@@ -2614,9 +2614,9 @@ Transcription:,Ay!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_rps_win_08,,Events:,['taunt_demo_rps_win_08']
-Full Path:,sound/vo/taunts/demo/taunt_demo_rps_win_08.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd']"
-Transcription:,"Oh, perfect!",,Responses:,"['Taunt: Rock, Paper, Scissors']"
+Filename:,taunt_demo_rps_win_08,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'taunt_demo_rps_win_08']"
+Full Path:,sound/vo/taunts/demo/taunt_demo_rps_win_08.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_rps_rock_win.vcd', 'scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Oh, perfect!",,Responses:,"['Taunt: Fore-Head Slice', 'Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2884,15 +2884,15 @@ Transcription:,(Long scream),,Responses:,['DemomanSF13SkeletonKingAppear']
 Your Line:,,,Rules:,['DemomanSF13SkeletonKingAppear']
 ,,,Criteria:,"[['ConceptPlayerSkeletonKingAppear', '50PercentChance', 'IsMapHelltower', 'IsNotInHell']]"
 
-Filename:,demoman_sf13_influx_big01,,Events:,['demoman_sf13_influx_big01']
-Full Path:,sound/vo/demoman_sf13_influx_big01.mp3,,Scenes:,['scenes/player/demoman/low/7766.vcd']
-Transcription:,"Oh, bloody epic!",,Responses:,['DemomanSF13SpellPickupRare']
+Filename:,demoman_sf13_influx_big01,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman_sf13_influx_big01']"
+Full Path:,sound/vo/demoman_sf13_influx_big01.mp3,,Scenes:,"['scenes/player/demoman/low/7766.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,"Oh, bloody epic!",,Responses:,"['DemomanSF13SpellPickupRare', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['DemomanSF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsDemoman']]"
 
-Filename:,demoman_sf13_influx_big02,,Events:,['demoman_sf13_influx_big02']
-Full Path:,sound/vo/demoman_sf13_influx_big02.mp3,,Scenes:,['scenes/player/demoman/low/7767.vcd']
-Transcription:,Ha-ha-ha-ha!,,Responses:,['DemomanSF13SpellPickupRare']
+Filename:,demoman_sf13_influx_big02,,Events:,"['demo_taunt_forehead_slice_demoman_laughshort01', 'demoman_sf13_influx_big02']"
+Full Path:,sound/vo/demoman_sf13_influx_big02.mp3,,Scenes:,"['scenes/player/demoman/low/7767.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,Ha-ha-ha-ha!,,Responses:,"['DemomanSF13SpellPickupRare', 'Taunt: Fore-Head Slice']"
 Your Line:,,,Rules:,['DemomanSF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsDemoman']]"
 

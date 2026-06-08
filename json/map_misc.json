@@ -769,16 +769,6 @@
         "state": "used",
         "transcript": ""
     },
-    "sound/cam_move.wav": {
-        "base_name": "cam_move",
-        "criteria": [],
-        "events": [],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
-        "state": "used",
-        "transcript": ""
-    },
     "sound/canaveral/canaveralrockettakeoff.wav": {
         "base_name": "canaveralrockettakeoff",
         "criteria": [],

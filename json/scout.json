@@ -15825,13 +15825,15 @@
         "events": [
             "scout.positivevocalization04",
             "scout_taunt_boston_breakdance_end",
-            "scout_taunt_flag_a"
+            "scout_taunt_flag_a",
+            "scout_taunt_peace_vo_01"
         ],
         "responses": [
             "PlayerPositiveScout",
             "ScoutTauntPrimary",
             "ScoutTauntPrimaryDouble",
             "Taunt: Flying Colors",
+            "Taunt: Peace!",
             "Taunt: Spin-to-Win",
             "Taunt: The Boston Breakdance"
         ],
@@ -15848,6 +15850,7 @@
             "scenes/player/scout/low/taunt01_alt_vocal02.vcd",
             "scenes/player/scout/low/taunt01_vocal02.vcd",
             "scenes/workshop/player/scout/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/scout/low/taunt_peace.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
         ],
@@ -24904,31 +24907,49 @@
     "sound/vo/taunts/scout_taunts20.mp3": {
         "base_name": "scout_taunts20",
         "criteria": [],
-        "events": [],
-        "responses": [],
+        "events": [
+            "scout.taunts19"
+        ],
+        "responses": [
+            "Taunt: Deep Fried Desire"
+        ],
         "rules": [],
-        "scenes": [],
-        "state": "unused",
+        "scenes": [
+            "scenes/player/scout/low/taunt_chicken_bucket.vcd"
+        ],
+        "state": "used",
         "transcript": "Hey, yeah, yeah! [chews] How's it going there?"
     },
     "sound/vo/taunts/scout_taunts21.mp3": {
         "base_name": "scout_taunts21",
         "criteria": [],
-        "events": [],
-        "responses": [],
+        "events": [
+            "scout.taunts19"
+        ],
+        "responses": [
+            "Taunt: Deep Fried Desire"
+        ],
         "rules": [],
-        "scenes": [],
-        "state": "unused",
+        "scenes": [
+            "scenes/player/scout/low/taunt_chicken_bucket.vcd"
+        ],
+        "state": "used",
         "transcript": "Got a bucket of chicken! [chews] Let's do dis!"
     },
     "sound/vo/taunts/scout_taunts22.mp3": {
         "base_name": "scout_taunts22",
         "criteria": [],
-        "events": [],
-        "responses": [],
+        "events": [
+            "scout.taunts19"
+        ],
+        "responses": [
+            "Taunt: Deep Fried Desire"
+        ],
         "rules": [],
-        "scenes": [],
-        "state": "unused",
+        "scenes": [
+            "scenes/player/scout/low/taunt_chicken_bucket.vcd"
+        ],
+        "state": "used",
         "transcript": "Oh ho ho, man. [chews] Classic Scout."
     },
     "sound/vo/toughbreak/scout_quest_complete_easy_01.mp3": {

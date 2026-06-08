@@ -5312,7 +5312,7 @@
             "scenes/player/sniper/low/2402.vcd"
         ],
         "state": "used",
-        "transcript": "This ain't a walk-a-bout! Push that cart!"
+        "transcript": "This ain't a walkabout! Push that cart!"
     },
     "sound/vo/sniper_cartmovingforwardoffense05.mp3": {
         "base_name": "sniper_cartmovingforwardoffense05",
@@ -5602,7 +5602,7 @@
             "scenes/player/sniper/low/2525.vcd"
         ],
         "state": "used",
-        "transcript": "This ain't a walk-a-bout! Push that cart!"
+        "transcript": "This ain't a walkabout! Push that cart!"
     },
     "sound/vo/sniper_cartmovingforwardoffensesoft05.mp3": {
         "base_name": "sniper_cartmovingforwardoffensesoft05",
@@ -18564,10 +18564,12 @@
             "sniper.taunt_shooters_stake_intro",
             "sniper.taunt_shooters_stake_outro",
             "sniper_didgeriddrongo_outro",
-            "sniper_taunt_dosido_endlong_rand"
+            "sniper_taunt_dosido_endlong_rand",
+            "sniper_taunt_peace_vo_02"
         ],
         "responses": [
             "Taunt: Didgeridrongo",
+            "Taunt: Peace!",
             "Taunt: Shooter's Stakeout",
             "Taunt: Square Dance"
         ],
@@ -18575,6 +18577,7 @@
         "scenes": [
             "scenes/player/sniper/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
+            "scenes/workshop/player/sniper/low/taunt_peace.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
         ],

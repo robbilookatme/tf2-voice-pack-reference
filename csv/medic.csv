@@ -688,9 +688,9 @@ Transcription:,(Happy laugh 2),,Responses:,['PlayerKilledDominatingMedic']
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
-Filename:,medic_laughhappy03,,Events:,"['medic.laughhappy03', 'taunt.bearhug_medic_c', 'taunt_medic_aerobic_shared_b']"
-Full Path:,sound/vo/medic_laughhappy03.mp3,,Scenes:,"['scenes/player/medic/low/1229.vcd', 'scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd']"
-Transcription:,(Happy laugh 3),,Responses:,"['PlayerKilledDominatingMedic', 'Taunt: Bear Hug', 'Taunt: Mannrobics']"
+Filename:,medic_laughhappy03,,Events:,"['medic.laughhappy03', 'medic_taunt_peace_vo_01', 'taunt.bearhug_medic_c', 'taunt_medic_aerobic_shared_b']"
+Full Path:,sound/vo/medic_laughhappy03.mp3,,Scenes:,"['scenes/player/medic/low/1229.vcd', 'scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_peace.vcd']"
+Transcription:,(Happy laugh 3),,Responses:,"['PlayerKilledDominatingMedic', 'Taunt: Bear Hug', 'Taunt: Mannrobics', 'Taunt: Peace!']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 

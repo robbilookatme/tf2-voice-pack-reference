@@ -2098,9 +2098,9 @@ Transcription:,"Yo, we're on fire!",,Responses:,['PlayerPositiveScout']
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
-Filename:,scout_positivevocalization04,,Events:,"['scout.positivevocalization04', 'scout_taunt_boston_breakdance_end', 'scout_taunt_flag_a']"
-Full Path:,sound/vo/scout_positivevocalization04.mp3,,Scenes:,"['scenes/player/scout/low/470.vcd', 'scenes/player/scout/low/taunt01_alt_vocal02.vcd', 'scenes/player/scout/low/taunt01_vocal02.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,Woo!,,Responses:,"['PlayerPositiveScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', 'Taunt: Flying Colors', 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance']"
+Filename:,scout_positivevocalization04,,Events:,"['scout.positivevocalization04', 'scout_taunt_boston_breakdance_end', 'scout_taunt_flag_a', 'scout_taunt_peace_vo_01']"
+Full Path:,sound/vo/scout_positivevocalization04.mp3,,Scenes:,"['scenes/player/scout/low/470.vcd', 'scenes/player/scout/low/taunt01_alt_vocal02.vcd', 'scenes/player/scout/low/taunt01_vocal02.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/workshop/player/scout/low/taunt_peace.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,Woo!,,Responses:,"['PlayerPositiveScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', 'Taunt: Flying Colors', 'Taunt: Peace!', 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance']"
 Your Line:,,,Rules:,"['PlayerPositiveScout', 'ScoutTauntPEPBrawlerBlaster', 'ScoutTauntPlayerPrimary', 'ScoutTauntScattergunDouble', 'ScoutTauntScattergunDoubleFestive', 'ScoutTauntSodaPopper']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPEPBrawlerBlaster'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergun'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDouble'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDoubleFestive'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSodaPopper']]"
 
@@ -2650,23 +2650,23 @@ Transcription:,Got a bucket of chicken. [chews] Let's do dis.,,Responses:,['Taun
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunts20,,Events:,[]
-Full Path:,sound/vo/taunts/scout_taunts20.mp3,,Scenes:,[]
-Transcription:,"Hey, yeah, yeah! [chews] How's it going there?",,Responses:,[]
+Filename:,scout_taunts20,,Events:,['scout.taunts19']
+Full Path:,sound/vo/taunts/scout_taunts20.mp3,,Scenes:,['scenes/player/scout/low/taunt_chicken_bucket.vcd']
+Transcription:,"Hey, yeah, yeah! [chews] How's it going there?",,Responses:,['Taunt: Deep Fried Desire']
 Your Line:,,,Rules:,[]
-Unused?,,,Criteria:,[]
+,,,Criteria:,[]
 
-Filename:,scout_taunts21,,Events:,[]
-Full Path:,sound/vo/taunts/scout_taunts21.mp3,,Scenes:,[]
-Transcription:,Got a bucket of chicken! [chews] Let's do dis!,,Responses:,[]
+Filename:,scout_taunts21,,Events:,['scout.taunts19']
+Full Path:,sound/vo/taunts/scout_taunts21.mp3,,Scenes:,['scenes/player/scout/low/taunt_chicken_bucket.vcd']
+Transcription:,Got a bucket of chicken! [chews] Let's do dis!,,Responses:,['Taunt: Deep Fried Desire']
 Your Line:,,,Rules:,[]
-Unused?,,,Criteria:,[]
+,,,Criteria:,[]
 
-Filename:,scout_taunts22,,Events:,[]
-Full Path:,sound/vo/taunts/scout_taunts22.mp3,,Scenes:,[]
-Transcription:,"Oh ho ho, man. [chews] Classic Scout.",,Responses:,[]
+Filename:,scout_taunts22,,Events:,['scout.taunts19']
+Full Path:,sound/vo/taunts/scout_taunts22.mp3,,Scenes:,['scenes/player/scout/low/taunt_chicken_bucket.vcd']
+Transcription:,"Oh ho ho, man. [chews] Classic Scout.",,Responses:,['Taunt: Deep Fried Desire']
 Your Line:,,,Rules:,[]
-Unused?,,,Criteria:,[]
+,,,Criteria:,[]
 
 Filename:,scout_mvm_loot_common01,,Events:,['scout_mvm_loot_common01']
 Full Path:,sound/vo/scout_mvm_loot_common01.mp3,,Scenes:,['scenes/player/scout/low/8568.vcd']

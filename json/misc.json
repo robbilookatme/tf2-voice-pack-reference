@@ -11597,11 +11597,13 @@
     "sound/misc/your_team_lost.wav": {
         "base_name": "your_team_lost",
         "criteria": [],
-        "events": [],
+        "events": [
+            "game.yourteamlost"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "\"You've failed!\" (boos)"
     },
     "sound/misc/your_team_stalemate.mp3": {
@@ -11619,11 +11621,13 @@
     "sound/misc/your_team_stalemate.wav": {
         "base_name": "your_team_stalemate",
         "criteria": [],
-        "events": [],
+        "events": [
+            "game.stalemate"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "\"You've failed. Stalemate.\" (outcry of disapproval)"
     },
     "sound/misc/your_team_suddendeath.mp3": {
@@ -11641,11 +11645,13 @@
     "sound/misc/your_team_suddendeath.wav": {
         "base_name": "your_team_suddendeath",
         "criteria": [],
-        "events": [],
+        "events": [
+            "game.suddendeath"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "\"You've failed. Prepare for sudden death!\" (outcry of disapproval)"
     },
     "sound/misc/your_team_won.mp3": {
@@ -11663,11 +11669,13 @@
     "sound/misc/your_team_won.wav": {
         "base_name": "your_team_won",
         "criteria": [],
-        "events": [],
+        "events": [
+            "game.yourteamwon"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "\"Victory.\" (cheers)"
     },
     "sound/music/bonus_round_30.wav": {
@@ -11818,7 +11826,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": ""
+        "transcript": "Latin beats"
     },
     "sound/music/cossack_sandvich.wav": {
         "base_name": "cossack_sandvich",
@@ -15320,6 +15328,30 @@
     },
     "sound/physics/metal/metal_popcan_impact_hard1.wav": {
         "base_name": "metal_popcan_impact_hard1",
+        "criteria": [],
+        "events": [
+            "itemsoda.bounce"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "sound/physics/metal/metal_popcan_impact_hard2.wav": {
+        "base_name": "metal_popcan_impact_hard2",
+        "criteria": [],
+        "events": [
+            "itemsoda.bounce"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "sound/physics/metal/metal_popcan_impact_hard3.wav": {
+        "base_name": "metal_popcan_impact_hard3",
         "criteria": [],
         "events": [
             "itemsoda.bounce"
@@ -32238,11 +32270,13 @@
     "sound/ui/tv_tune.wav": {
         "base_name": "tv_tune",
         "criteria": [],
-        "events": [],
+        "events": [
+            "tv.tune"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/tv_tune2.mp3": {
@@ -32260,11 +32294,13 @@
     "sound/ui/tv_tune2.wav": {
         "base_name": "tv_tune2",
         "criteria": [],
-        "events": [],
+        "events": [
+            "tv.tune"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/tv_tune3.mp3": {
@@ -32282,11 +32318,13 @@
     "sound/ui/tv_tune3.wav": {
         "base_name": "tv_tune3",
         "criteria": [],
-        "events": [],
+        "events": [
+            "tv.tune"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/vote_failure.wav": {

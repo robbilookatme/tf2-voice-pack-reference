@@ -498,7 +498,7 @@ Your Line:,,,Rules:,['CartMovingForwardOffenseSniper']
 
 Filename:,sniper_cartmovingforwardoffense04,,Events:,['sniper.cartmovingforwardoffense04']
 Full Path:,sound/vo/sniper_cartmovingforwardoffense04.mp3,,Scenes:,['scenes/player/sniper/low/2402.vcd']
-Transcription:,This ain't a walk-a-bout! Push that cart!,,Responses:,['CartMovingForwardOffenseSniper']
+Transcription:,This ain't a walkabout! Push that cart!,,Responses:,['CartMovingForwardOffenseSniper']
 Your Line:,,,Rules:,['CartMovingForwardOffenseSniper']
 ,,,Criteria:,"[['ConceptCartMovingForward', 'IsOnOffense', 'IsSniper', 'Unzoomed', 'SniperNotSaidCartMovingForwardO', 'IsNotDisguised', '75PercentChance', 'AppliesContext:SaidCartMovingForwardO:1:20']]"
 
@@ -558,7 +558,7 @@ Your Line:,,,Rules:,['CartMovingForwardOffenseScopedSniper']
 
 Filename:,sniper_cartmovingforwardoffensesoft04,,Events:,['sniper.cartmovingforwardoffensesoft04']
 Full Path:,sound/vo/sniper_cartmovingforwardoffensesoft04.mp3,,Scenes:,['scenes/player/sniper/low/2525.vcd']
-Transcription:,This ain't a walk-a-bout! Push that cart!,,Responses:,['CartMovingForwardOffenseScopedSniper']
+Transcription:,This ain't a walkabout! Push that cart!,,Responses:,['CartMovingForwardOffenseScopedSniper']
 Your Line:,,,Rules:,['CartMovingForwardOffenseScopedSniper']
 ,,,Criteria:,"[['ConceptCartMovingForward', 'IsOnOffense', 'IsSniper', 'DeployedContext', 'SniperNotSaidCartMovingForwardO', 'IsNotDisguised', '75PercentChance', 'AppliesContext:SaidCartMovingForwardO:1:20']]"
 
@@ -3292,9 +3292,9 @@ Transcription:,Ha ha ha! Well done!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,sniper_taunt_admire_11,,Events:,"['sniper.taunt_shooters_stake_intro', 'sniper.taunt_shooters_stake_outro', 'sniper_didgeriddrongo_outro', 'sniper_taunt_dosido_endlong_rand']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_admire_11.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
-Transcription:,Heh heh heh! That'll do!,,Responses:,"['Taunt: Didgeridrongo', ""Taunt: Shooter's Stakeout"", 'Taunt: Square Dance']"
+Filename:,sniper_taunt_admire_11,,Events:,"['sniper.taunt_shooters_stake_intro', 'sniper.taunt_shooters_stake_outro', 'sniper_didgeriddrongo_outro', 'sniper_taunt_dosido_endlong_rand', 'sniper_taunt_peace_vo_02']"
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_admire_11.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd', 'scenes/workshop/player/sniper/low/taunt_peace.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
+Transcription:,Heh heh heh! That'll do!,,Responses:,"['Taunt: Didgeridrongo', 'Taunt: Peace!', ""Taunt: Shooter's Stakeout"", 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

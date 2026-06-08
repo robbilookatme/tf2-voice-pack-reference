@@ -1721,18 +1721,21 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman.autocappedintelligence01"
         ],
         "responses": [
             "AwardDemoman",
-            "PlayerCappedIntelligenceDemoman"
+            "PlayerCappedIntelligenceDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "AwardDemoman",
             "PlayerCappedIntelligenceDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/866.vcd"
+            "scenes/player/demoman/low/866.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Aye, that's the way ye do it! Hehah!"
@@ -2063,12 +2066,14 @@
         "events": [
             "demo.drunk_manns_cannon_cheer",
             "demo.taunt_roar_owar_vo",
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman.battlecry02"
         ],
         "responses": [
             "PlayerBattleCryDemoman",
             "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Fore-Head Slice",
             "Taunt: Roar O'War"
         ],
         "rules": [
@@ -2078,6 +2083,7 @@
         "scenes": [
             "scenes/player/demoman/low/876.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
             "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
         ],
         "state": "used",
@@ -2136,12 +2142,14 @@
         "events": [
             "demo.drunk_manns_cannon_cheer",
             "demo.taunt_roar_owar_vo",
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman.battlecry04"
         ],
         "responses": [
             "PlayerBattleCryDemoman",
             "PlayerRoundStartDemoman",
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Fore-Head Slice",
             "Taunt: Roar O'War"
         ],
         "rules": [
@@ -2151,6 +2159,7 @@
         "scenes": [
             "scenes/player/demoman/low/878.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
             "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd"
         ],
         "state": "used",
@@ -5945,16 +5954,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman.incoming02"
         ],
         "responses": [
-            "PlayerIncomingDemoman"
+            "PlayerIncomingDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "PlayerIncomingDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/933.vcd"
+            "scenes/player/demoman/low/933.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Incoming!"
@@ -5968,16 +5980,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman.incoming03"
         ],
         "responses": [
-            "PlayerIncomingDemoman"
+            "PlayerIncomingDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "PlayerIncomingDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/934.vcd"
+            "scenes/player/demoman/low/934.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Iincoomiing!"
@@ -6707,11 +6722,13 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman.laughevil01"
         ],
         "responses": [
             "KilledPlayerSwordDemoman",
-            "PlayerKilledDominatingDemoman"
+            "PlayerKilledDominatingDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "KilledPlayerKatanaDemoman",
@@ -6719,7 +6736,8 @@
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/910.vcd"
+            "scenes/player/demoman/low/910.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 1)"
@@ -6757,12 +6775,14 @@
         ],
         "events": [
             "demo.drunk_manns_cannon_laugh",
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman.laughevil02"
         ],
         "responses": [
             "KilledPlayerSwordDemoman",
             "PlayerKilledDominatingDemoman",
-            "Taunt: Drunk Mann's Cannon"
+            "Taunt: Drunk Mann's Cannon",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "KilledPlayerKatanaDemoman",
@@ -6771,7 +6791,8 @@
         ],
         "scenes": [
             "scenes/player/demoman/low/950.vcd",
-            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd"
+            "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 2)"
@@ -7473,16 +7494,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman_mvm_loot_rare02"
         ],
         "responses": [
-            "DemomanMvMLootRare"
+            "DemomanMvMLootRare",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "DemomanMvMLootRare"
         ],
         "scenes": [
-            "scenes/player/demoman/low/7796.vcd"
+            "scenes/player/demoman/low/7796.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Oh, what's your name, ya pretty lit'le thing?"
@@ -8173,16 +8197,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman.niceshot02"
         ],
         "responses": [
-            "PlayerNiceShotDemoman"
+            "PlayerNiceShotDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "PlayerNiceShotDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/975.vcd"
+            "scenes/player/demoman/low/975.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Good shot, man!"
@@ -8790,18 +8817,21 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman.positivevocalization04"
         ],
         "responses": [
             "PlayerKilledCapperDemoman",
-            "PlayerPositiveDemoman"
+            "PlayerPositiveDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "PlayerKilledCapperDemoman",
             "PlayerPositiveDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/992.vcd"
+            "scenes/player/demoman/low/992.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Ah, that's the stuff!"
@@ -9860,16 +9890,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman_sf13_influx_big01"
         ],
         "responses": [
-            "DemomanSF13SpellPickupRare"
+            "DemomanSF13SpellPickupRare",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "DemomanSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/player/demoman/low/7766.vcd"
+            "scenes/player/demoman/low/7766.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Oh, bloody epic!"
@@ -9883,16 +9916,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "demoman_sf13_influx_big02"
         ],
         "responses": [
-            "DemomanSF13SpellPickupRare"
+            "DemomanSF13SpellPickupRare",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "DemomanSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/player/demoman/low/7767.vcd"
+            "scenes/player/demoman/low/7767.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Ha-ha-ha-ha!"
@@ -11683,13 +11719,16 @@
         "base_name": "demo_badpipes_02",
         "criteria": [],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "taunt_true_scotsmans.vo"
         ],
         "responses": [
-            "Taunt: Bad Pipes"
+            "Taunt: Bad Pipes",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
             "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd"
         ],
         "state": "used",
@@ -11995,6 +12034,7 @@
         "base_name": "demo_trade_04",
         "criteria": [],
         "events": [
+            "demo_taunt_peace_vo_02",
             "demo_taunt_trade_loop_rand",
             "demo_taunt_trade_rand",
             "demo_taunt_trade_start_rand"
@@ -13589,15 +13629,18 @@
         "base_name": "taunt_demo_rps_win_08",
         "criteria": [],
         "events": [
+            "demo_taunt_forehead_slice_demoman_laughshort01",
             "taunt_demo_rps_win_08"
         ],
         "responses": [
+            "Taunt: Fore-Head Slice",
             "Taunt: Rock, Paper, Scissors"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/taunt_rps_rock_win.vcd",
-            "scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd"
+            "scenes/player/demoman/low/taunt_rps_rock_win_noinit.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Oh, perfect!"
@@ -13865,16 +13908,19 @@
             ]
         ],
         "events": [
+            "demo_taunt_forehead_slice_demoman_specialcompleted09",
             "demoman.taunts04"
         ],
         "responses": [
-            "KilledPlayerManyDemoman"
+            "KilledPlayerManyDemoman",
+            "Taunt: Fore-Head Slice"
         ],
         "rules": [
             "KilledPlayerManyDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1016.vcd"
+            "scenes/player/demoman/low/1016.vcd",
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
         ],
         "state": "used",
         "transcript": "Don't fret, boyo. I'll be gentle!"
