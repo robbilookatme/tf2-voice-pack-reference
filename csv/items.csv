@@ -862,11 +862,11 @@ Transcription:,[Helicopter engine,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,tf_music_upgrade_machine,,Events:,[]
+Filename:,tf_music_upgrade_machine,,Events:,['music.mvm_upgrade_machine']
 Full Path:,sound/items/tf_music_upgrade_machine.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-Unused?,,,Criteria:,[]
+,,,Criteria:,[]
 
 Filename:,wheatley_player_death01,,Events:,['psap.deathlong']
 Full Path:,sound/vo/items/wheatley_sapper/wheatley_player_death01.mp3,,Scenes:,[]

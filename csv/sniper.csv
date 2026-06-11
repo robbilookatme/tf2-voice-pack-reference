@@ -3750,19 +3750,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,sniper_taunt_kill_26,,Events:,['sniper_most_wanted_vo']
 Full Path:,sound/vo/taunts/sniper/sniper_taunt_kill_26.mp3,,Scenes:,['scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']
-Transcription:,Gotcha.,,Responses:,['Taunt: Most Wanted']
+Transcription:,Gotcha!,,Responses:,['Taunt: Most Wanted']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_kill_29,,Events:,['sniper_most_wanted_vo']
 Full Path:,sound/vo/taunts/sniper/sniper_taunt_kill_29.mp3,,Scenes:,['scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']
-Transcription:,Boom. Headshot.,,Responses:,['Taunt: Most Wanted']
+Transcription:,"Boom, head shot!",,Responses:,['Taunt: Most Wanted']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_kill_30,,Events:,['sniper_most_wanted_vo']
 Full Path:,sound/vo/taunts/sniper/sniper_taunt_kill_30.mp3,,Scenes:,['scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']
-Transcription:,Headshot.,,Responses:,['Taunt: Most Wanted']
+Transcription:,Head shot.,,Responses:,['Taunt: Most Wanted']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

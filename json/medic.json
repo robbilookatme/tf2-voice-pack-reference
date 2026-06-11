@@ -12126,7 +12126,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "(liltingly) \"Victorious!\""
+        "transcript": ""
     },
     "sound/vo/taunts/medic/medic_taunt_rps_win_08.mp3": {
         "base_name": "medic_taunt_rps_win_08",
@@ -12384,7 +12384,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "Heh ha ha ha ..."
+        "transcript": ""
     },
     "sound/vo/taunts/medic_taunt_kill_08.mp3": {
         "base_name": "medic_taunt_kill_08",
@@ -12394,7 +12394,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "Vell, you'll be dead soon!"
+        "transcript": ""
     },
     "sound/vo/taunts/medic_taunt_kill_12.mp3": {
         "base_name": "medic_taunt_kill_12",

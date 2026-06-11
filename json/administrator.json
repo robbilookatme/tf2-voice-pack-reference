@@ -863,91 +863,109 @@
     "sound/vo/announcer_captureflag_enemycaptured_01.mp3": {
         "base_name": "announcer_captureflag_enemycaptured_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemycaptured"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy has captured our reactor core!"
     },
     "sound/vo/announcer_captureflag_enemydropped_01.mp3": {
         "base_name": "announcer_captureflag_enemydropped_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemydropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy has dropped our reactor core!"
     },
     "sound/vo/announcer_captureflag_enemydropped_02.mp3": {
         "base_name": "announcer_captureflag_enemydropped_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemydropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy has dropped our core!"
     },
     "sound/vo/announcer_captureflag_enemyreturned_01.mp3": {
         "base_name": "announcer_captureflag_enemyreturned_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemyreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Our reactor core has returned to our vault!"
     },
     "sound/vo/announcer_captureflag_enemyreturned_02.mp3": {
         "base_name": "announcer_captureflag_enemyreturned_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemyreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The core has been returned to our vault!"
     },
     "sound/vo/announcer_captureflag_enemyreturned_03.mp3": {
         "base_name": "announcer_captureflag_enemyreturned_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemyreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The reactor core is back in our vault!"
     },
     "sound/vo/announcer_captureflag_enemyreturned_04.mp3": {
         "base_name": "announcer_captureflag_enemyreturned_04",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemyreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The reactor core has returned to our vault!"
     },
     "sound/vo/announcer_captureflag_enemystolen_01.mp3": {
         "base_name": "announcer_captureflag_enemystolen_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemystolen"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Alert! The enemy has stolen our core!"
     },
     "sound/vo/announcer_captureflag_enemystolen_02.mp3": {
         "base_name": "announcer_captureflag_enemystolen_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemystolen"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "ALERT! Our core has been taken!"
     },
     "sound/vo/announcer_captureflag_miscspace_01.mp3": {
@@ -1143,111 +1161,133 @@
     "sound/vo/announcer_captureflag_teamcaptured_01.mp3": {
         "base_name": "announcer_captureflag_teamcaptured_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamcaptured"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Excellent! We have captured the enemy reactor core!"
     },
     "sound/vo/announcer_captureflag_teamcaptured_02.mp3": {
         "base_name": "announcer_captureflag_teamcaptured_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamcaptured"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Good! We have the core!"
     },
     "sound/vo/announcer_captureflag_teamdropped_01.mp3": {
         "base_name": "announcer_captureflag_teamdropped_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamdropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Noo! We've lost the reactor core!"
     },
     "sound/vo/announcer_captureflag_teamdropped_04.mp3": {
         "base_name": "announcer_captureflag_teamdropped_04",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamdropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "You imbeciles! You've dropped the enemy reactor core!"
     },
     "sound/vo/announcer_captureflag_teamdropped_07.mp3": {
         "base_name": "announcer_captureflag_teamdropped_07",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamdropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Alert! We've lost the reactor core!"
     },
     "sound/vo/announcer_captureflag_teamdropped_08.mp3": {
         "base_name": "announcer_captureflag_teamdropped_08",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamdropped"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Alert! We've dropped the enemy reactor core!"
     },
     "sound/vo/announcer_captureflag_teamreturned_01.mp3": {
         "base_name": "announcer_captureflag_teamreturned_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy reactor core has returned to their vault!"
     },
     "sound/vo/announcer_captureflag_teamreturned_02.mp3": {
         "base_name": "announcer_captureflag_teamreturned_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamreturned"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy's core is back in their vault!"
     },
     "sound/vo/announcer_captureflag_teamstolen_01.mp3": {
         "base_name": "announcer_captureflag_teamstolen_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamstolen"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "We have taken the enemy reactor core!"
     },
     "sound/vo/announcer_captureflag_teamstolen_02.mp3": {
         "base_name": "announcer_captureflag_teamstolen_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamstolen"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "We have the enemy's core!"
     },
     "sound/vo/announcer_captureflag_teamstolen_03.mp3": {
         "base_name": "announcer_captureflag_teamstolen_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamstolen"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Yes! We have taken the enemy reactor core!"
     },
     "sound/vo/announcer_cart_attacker_finalwarning1.mp3": {
@@ -2129,81 +2169,97 @@
     "sound/vo/announcer_map.enemyclosetowinning_01.mp3": {
         "base_name": "announcer_map.enemyclosetowinning_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.enemyteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy team's reactor is almost online!"
     },
     "sound/vo/announcer_map.enemyclosetowinning_02.mp3": {
         "base_name": "announcer_map.enemyclosetowinning_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.enemyteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "No! The enemy's reactor is almost up!"
     },
     "sound/vo/announcer_map.enemyclosetowinning_03.mp3": {
         "base_name": "announcer_map.enemyclosetowinning_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.enemyteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "The enemy's reactor is almost up!"
     },
     "sound/vo/announcer_map.enemyclosetowinning_05.mp3": {
         "base_name": "announcer_map.enemyclosetowinning_05",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.enemyteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Hurry! The enemy's reactor is almost up!"
     },
     "sound/vo/announcer_map.teamclosetowinning_01.mp3": {
         "base_name": "announcer_map.teamclosetowinning_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.ourteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Our reactor is almost online!"
     },
     "sound/vo/announcer_map.teamclosetowinning_02.mp3": {
         "base_name": "announcer_map.teamclosetowinning_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.ourteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Yes! Our reactor is almost up!"
     },
     "sound/vo/announcer_map.teamclosetowinning_03.mp3": {
         "base_name": "announcer_map.teamclosetowinning_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.ourteamclosetowinning"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Our reactor is almost up!"
     },
     "sound/vo/announcer_map_intro_02.mp3": {
         "base_name": "announcer_map_intro_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "announcer.howtoplayrd"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "You must destroy the enemy's robots and collect their reactor cores to win. Retrieve stolen power cores by invading the Enemy Vault."
     },
     "sound/vo/announcer_mvm_eng_tele_activated01.mp3": {

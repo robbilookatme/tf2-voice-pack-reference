@@ -1775,11 +1775,13 @@
     "sound/items/tf_music_upgrade_machine.wav": {
         "base_name": "tf_music_upgrade_machine",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_upgrade_machine"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/items/wheatley_sapper/wheatley_player_death01.mp3": {

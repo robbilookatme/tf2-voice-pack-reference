@@ -2532,21 +2532,25 @@
     "sound/weapons/breadmonster/throwable/bm_throwable_inspect_shake.wav": {
         "base_name": "bm_throwable_inspect_shake",
         "criteria": [],
-        "events": [],
+        "events": [
+            "weapon_bm_throwable.inspectshake"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_inspect_ting.wav": {
         "base_name": "bm_throwable_inspect_ting",
         "criteria": [],
-        "events": [],
+        "events": [
+            "weapon_bm_throwable.inspectting"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_slosh_01.wav": {

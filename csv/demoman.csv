@@ -2136,7 +2136,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_burp_03,,Events:,"['demo_taunt_dosido_burp_rand', 'taunt_demo_burp_03']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_burp_03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_cheers.vcd', 'scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd']"
-Transcription:,[Burps,,Responses:,"['Taunt: Cheers!', 'Taunt: Mourning Mercs', 'Taunt: Rancho Relaxo', ""Taunt: Scotsmann's Stagger"", 'Taunt: Square Dance', 'Taunt: The Pooped Deck']"
+Transcription:,burp,,Responses:,"['Taunt: Cheers!', 'Taunt: Mourning Mercs', 'Taunt: Rancho Relaxo', ""Taunt: Scotsmann's Stagger"", 'Taunt: Square Dance', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

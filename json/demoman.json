@@ -12197,7 +12197,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[Burps"
+        "transcript": "burp"
     },
     "sound/vo/taunts/demo/taunt_demo_conga_fun_08.mp3": {
         "base_name": "taunt_demo_conga_fun_08",

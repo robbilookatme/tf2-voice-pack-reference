@@ -1206,13 +1206,13 @@ Your Line:,,,Rules:,['PlayerYesMedic']
 
 Filename:,medic_taunt_kill_06,,Events:,[]
 Full Path:,sound/vo/taunts/medic_taunt_kill_06.mp3,,Scenes:,[]
-Transcription:,Heh ha ha ha ...,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,medic_taunt_kill_08,,Events:,[]
 Full Path:,sound/vo/taunts/medic_taunt_kill_08.mp3,,Scenes:,[]
-Transcription:,"Vell, you'll be dead soon!",,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -2418,7 +2418,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,medic_taunt_rps_win_06,,Events:,[]
 Full Path:,sound/vo/taunts/medic/medic_taunt_rps_win_06.mp3,,Scenes:,[]
-Transcription:,"(liltingly) ""Victorious!""",,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 

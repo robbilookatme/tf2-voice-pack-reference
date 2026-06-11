@@ -19956,7 +19956,7 @@
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
-        "transcript": "Gotcha."
+        "transcript": "Gotcha!"
     },
     "sound/vo/taunts/sniper/sniper_taunt_kill_29.mp3": {
         "base_name": "sniper_taunt_kill_29",
@@ -19972,7 +19972,7 @@
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
-        "transcript": "Boom. Headshot."
+        "transcript": "Boom, head shot!"
     },
     "sound/vo/taunts/sniper/sniper_taunt_kill_30.mp3": {
         "base_name": "sniper_taunt_kill_30",
@@ -19988,7 +19988,7 @@
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
-        "transcript": "Headshot."
+        "transcript": "Head shot."
     },
     "sound/vo/taunts/sniper/sniper_taunt_rps_exert_01.mp3": {
         "base_name": "sniper_taunt_rps_exert_01",

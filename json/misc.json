@@ -25,12 +25,13 @@
         "base_name": "klaxon1",
         "criteria": [],
         "events": [
-            "halloween.platformalarm"
+            "halloween.platformalarm",
+            "rd.enemystealingpoints"
         ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "missing",
+        "state": "used",
         "transcript": ""
     },
     "sound/ambient/arrowlight.wav": {
@@ -11114,41 +11115,49 @@
     "sound/misc/outer_space_transition_01.wav": {
         "base_name": "outer_space_transition_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.spacegravitytransition"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/misc/rd_finale_beep01.wav": {
         "base_name": "rd_finale_beep01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.finalebeep"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/misc/rd_points_return01.wav": {
         "base_name": "rd_points_return01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.flagreturn"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/misc/rd_robot_explosion01.wav": {
         "base_name": "rd_robot_explosion01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.botdeathexplosion"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/misc/rd_spaceship01.wav": {
@@ -11691,91 +11700,109 @@
     "sound/music/bump_in_the_night.wav": {
         "base_name": "bump_in_the_night",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.kart_platform"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/carousel_of_curses.wav": {
         "base_name": "carousel_of_curses",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.carousel_of_curses"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_01.wav": {
         "base_name": "class_menu_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_01"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_02.wav": {
         "base_name": "class_menu_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_03"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_03.wav": {
         "base_name": "class_menu_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_07"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_04.wav": {
         "base_name": "class_menu_04",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_04"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_05.wav": {
         "base_name": "class_menu_05",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_06"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_06.wav": {
         "base_name": "class_menu_06",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_09"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_07.wav": {
         "base_name": "class_menu_07",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_05"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_07db.wav": {
@@ -11791,311 +11818,398 @@
     "sound/music/class_menu_08.wav": {
         "base_name": "class_menu_08",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_02"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_09.wav": {
         "base_name": "class_menu_09",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu_08"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/class_menu_bg.wav": {
         "base_name": "class_menu_bg",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.class_menu"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/conga_sketch_167bpm_01-04.wav": {
         "base_name": "conga_sketch_167bpm_01-04",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.conga_loop"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": "Latin beats"
     },
     "sound/music/cossack_sandvich.wav": {
         "base_name": "cossack_sandvich",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.russian"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/fortress_reel.wav": {
         "base_name": "fortress_reel",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.fortress_reel"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/music/fortress_reel_intro.wav": {
+        "base_name": "fortress_reel_intro",
+        "criteria": [],
+        "events": [
+            "music.fortress_reel_intro"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
+    "sound/music/fortress_reel_intro2.wav": {
+        "base_name": "fortress_reel_intro2",
+        "criteria": [],
+        "events": [
+            "music.fortress_reel_intro2"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
         "transcript": ""
     },
     "sound/music/fortress_reel_loop.wav": {
         "base_name": "fortress_reel_loop",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.fortress_reel_loop"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/fortress_reel_loop2.wav": {
         "base_name": "fortress_reel_loop2",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.fortress_reel_loop2"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mannrobics.wav": {
         "base_name": "mannrobics",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.aerobic_loop"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/misfortune_teller.wav": {
         "base_name": "misfortune_teller",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.kart_football",
+            "music.kart_racetrack"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_01.wav": {
         "base_name": "mvm_class_menu_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_01"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_02.wav": {
         "base_name": "mvm_class_menu_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_03"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_03.wav": {
         "base_name": "mvm_class_menu_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_07"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_04.wav": {
         "base_name": "mvm_class_menu_04",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_04"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_05.wav": {
         "base_name": "mvm_class_menu_05",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_06"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_06.wav": {
         "base_name": "mvm_class_menu_06",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_09"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_07.wav": {
         "base_name": "mvm_class_menu_07",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_05"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_08.wav": {
         "base_name": "mvm_class_menu_08",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_02"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_09.wav": {
         "base_name": "mvm_class_menu_09",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu_08"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_menu_bg.wav": {
         "base_name": "mvm_class_menu_bg",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_menu"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_class_select.wav": {
         "base_name": "mvm_class_select",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_class_select"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_end_last_wave.wav": {
         "base_name": "mvm_end_last_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_end_last_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_end_mid_wave.wav": {
         "base_name": "mvm_end_mid_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_end_mid_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_end_tank_wave.wav": {
         "base_name": "mvm_end_tank_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_end_tank_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_end_wave.wav": {
         "base_name": "mvm_end_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_end_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_lost_wave.wav": {
         "base_name": "mvm_lost_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_lost_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_start_last_wave.wav": {
         "base_name": "mvm_start_last_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_start_last_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_start_mid_wave.wav": {
         "base_name": "mvm_start_mid_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_start_mid_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_start_tank_wave.wav": {
         "base_name": "mvm_start_tank_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_start_tank_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/mvm_start_wave.wav": {
         "base_name": "mvm_start_wave",
         "criteria": [],
-        "events": [],
+        "events": [
+            "music.mvm_start_wave"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/rd_finale.wav": {
         "base_name": "rd_finale",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.finalemusic"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/music/taunt_bongos.wav": {
@@ -28384,21 +28498,25 @@
     "sound/ui/chime_rd_2base_neg.wav": {
         "base_name": "chime_rd_2base_neg",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.enemyscorecore"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/chime_rd_2base_pos.wav": {
         "base_name": "chime_rd_2base_pos",
         "criteria": [],
-        "events": [],
+        "events": [
+            "rd.teamscorecore"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/credits_updated.wav": {
@@ -32477,91 +32595,109 @@
     "sound/vo/bot_worker/tinybot_crosspaths_03.mp3": {
         "base_name": "tinybot_crosspaths_03",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.collide"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_crosspaths_05.mp3": {
         "base_name": "tinybot_crosspaths_05",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.collide"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_crosspaths_06.mp3": {
         "base_name": "tinybot_crosspaths_06",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.collide"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_death_01.mp3": {
         "base_name": "tinybot_death_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.death"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_death_02.mp3": {
         "base_name": "tinybot_death_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.death"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_incidental_01.mp3": {
         "base_name": "tinybot_incidental_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.greeting"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_incidental_02.mp3": {
         "base_name": "tinybot_incidental_02",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.greeting"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_takedamage_01.mp3": {
         "base_name": "tinybot_takedamage_01",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.pain"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_takedamage_09.mp3": {
         "base_name": "tinybot_takedamage_09",
         "criteria": [],
-        "events": [],
+        "events": [
+            "robot.pain"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/vo/medic1.mp3": {
