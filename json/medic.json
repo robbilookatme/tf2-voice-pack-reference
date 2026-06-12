@@ -1424,14 +1424,16 @@
         ],
         "responses": [
             "PlayerCheersMedic",
-            "Taunt: The High Five!"
+            "Taunt: The High Five!",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerCheersMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/544.vcd",
-            "scenes/player/medic/low/taunt_hi5_a.vcd"
+            "scenes/player/medic/low/taunt_hi5_a.vcd",
+            "scenes/player/medic/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Excellent!"
@@ -1504,13 +1506,15 @@
         ],
         "responses": [
             "PlayerCheersMedic",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerCheersMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/550.vcd",
+            "scenes/player/medic/low/yeti_taunt.vcd",
             "scenes/workshop/player/medic/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -4413,7 +4417,8 @@
         "responses": [
             "PlayerKilledDominatingMedic",
             "Taunt: Doctor's Defibrillators",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -4421,6 +4426,7 @@
         ],
         "scenes": [
             "scenes/player/medic/low/1230.vcd",
+            "scenes/player/medic/low/yeti_taunt.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],

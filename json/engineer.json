@@ -14634,12 +14634,14 @@
             "Taunt: Bucking Bronco",
             "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: Texas Twirl 'Em"
+            "Taunt: Texas Twirl 'Em",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/conga.vcd",
             "scenes/player/engineer/low/taunt_aerobic_a.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
@@ -15203,12 +15205,14 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Square Dance",
-            "Taunt: Texas Twirl 'Em"
+            "Taunt: Texas Twirl 'Em",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/flip_success_initiator1.vcd",
             "scenes/player/engineer/low/taunt_dosido_dance01.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd"
         ],
         "state": "used",
@@ -15227,12 +15231,14 @@
             "Taunt: Flippin' Awesome",
             "Taunt: Kazotsky Kick",
             "Taunt: Texas Truckin'",
-            "Taunt: The Dueling Banjo"
+            "Taunt: The Dueling Banjo",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/flip_success_initiator1.vcd",
             "scenes/player/engineer/low/taunt_russian.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd",
             "scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd"
         ],
@@ -15287,11 +15293,13 @@
             "taunt_yeti_engineer"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/engineer/low/flip_success_initiator1.vcd"
+            "scenes/player/engineer/low/flip_success_initiator1.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Ha hah!"
@@ -15582,11 +15590,13 @@
             "Taunt: Burstchester",
             "Taunt: Neck Snap",
             "Taunt: Skullcracker",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/taunt_headbutt_success.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd",
             "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
             "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd"
@@ -15624,11 +15634,13 @@
         ],
         "responses": [
             "Taunt: Skullcracker",
-            "Taunt: Texas Truckin'"
+            "Taunt: Texas Truckin'",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/engineer/low/taunt_headbutt_success.vcd",
+            "scenes/player/engineer/low/yeti_taunt.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd"
         ],
         "state": "used",

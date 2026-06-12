@@ -113,14 +113,14 @@ Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSoldier'], ['ConceptPlayerRoundStart', 'IsSoldier']]"
 
 Filename:,soldier_battlecry05,,Events:,"['soldier.battlecry05', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_battlecry05.mp3,,Scenes:,"['scenes/player/soldier/low/1056.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,Attaaack!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier', 'Taunt: Burstchester', 'Taunt: Panzer Pants', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy']"
+Full Path:,sound/vo/soldier_battlecry05.mp3,,Scenes:,"['scenes/player/soldier/low/1056.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
+Transcription:,Attaaack!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier', 'Taunt: Burstchester', 'Taunt: Panzer Pants', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSoldier'], ['ConceptPlayerRoundStart', 'IsSoldier']]"
 
 Filename:,soldier_battlecry06,,Events:,"['soldier.battlecry06', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn', 'taunt_burstchester_soldier_01', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_battlecry06.mp3,,Scenes:,"['scenes/player/soldier/low/1060.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,Heh heh heeeh!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerKilledForRevengeRobotSoldier', 'PlayerKilledForRevengeSoldier', 'PlayerRoundStartSoldier', 'Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Panzer Pants', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy']"
+Full Path:,sound/vo/soldier_battlecry06.mp3,,Scenes:,"['scenes/player/soldier/low/1060.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
+Transcription:,Heh heh heeeh!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerKilledForRevengeRobotSoldier', 'PlayerKilledForRevengeSoldier', 'PlayerRoundStartSoldier', 'Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Panzer Pants', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerKilledForRevengeRobotSoldier', 'PlayerKilledForRevengeSoldier', 'PlayerRoundStartSoldier']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsRevenge', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'IsSoldier', 'IsRevenge', 'IsRobotCostume', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerBattleCry', 'IsSoldier'], ['ConceptPlayerRoundStart', 'IsSoldier']]"
 
@@ -1439,14 +1439,14 @@ Your Line:,,,Rules:,['PlayerNoSoldier']
 ,,,Criteria:,"[['ConceptPlayerNo', 'IsSoldier']]"
 
 Filename:,soldier_paincrticialdeath01,,Events:,"['mvm.playerdiedsoldier', 'soldier.critdeath', 'soldier.meleedeath', 'soldier.paincrticialdeath01', 'soldier.scardy_cat', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_paincrticialdeath01.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v1.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd']"
-Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Burstchester', 'Taunt: Mourning Mercs', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!']"
+Full Path:,sound/vo/soldier_paincrticialdeath01.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v1.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd']"
+Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Burstchester', 'Taunt: Mourning Mercs', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['SoldierTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShovel']]"
 
 Filename:,soldier_paincrticialdeath02,,Events:,"['demo_taunt_unleashed_rage_demo_soldier_paincrticialdeath02', 'engineer_taunt_unleashed_rage_engineer_soldier_paincrticialdeath02', 'heavy_taunt_unleashed_rage_heavy_soldier_paincrticialdeath02', 'medic_taunt_unleashed_rage_medic_soldier_paincrticialdeath02', 'mvm.playerdiedsoldier', 'pyro_taunt_unleashed_rage_pyro_soldier_paincrticialdeath02', 'scout_taunt_unleashed_rage_scout_soldier_paincrticialdeath02', 'sniper_taunt_unleashed_rage_sniper_soldier_paincrticialdeath02', 'soldier.critdeath', 'soldier.meleedeath', 'soldier.paincrticialdeath02', 'soldier.scardy_cat', 'soldier_taunt_unleashed_rage_soldier_soldier_paincrticialdeath02', 'spy_taunt_unleashed_rage_spy_soldier_paincrticialdeath02', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_paincrticialdeath02.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v3.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd']"
-Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
+Full Path:,sound/vo/soldier_paincrticialdeath02.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v3.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd']"
+Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['SoldierTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShovel']]"
 
@@ -1457,8 +1457,8 @@ Your Line:,,,Rules:,['SoldierTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShovel']]"
 
 Filename:,soldier_paincrticialdeath04,,Events:,"['mvm.playerdiedsoldier', 'soldier.critdeath', 'soldier.meleedeath', 'soldier.paincrticialdeath04', 'soldier.scardy_cat', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_paincrticialdeath04.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v2.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd']"
-Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!']"
+Full Path:,sound/vo/soldier_paincrticialdeath04.mp3,,Scenes:,"['scenes/player/soldier/low/taunt03_v2.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd']"
+Transcription:,(Dying scream),,Responses:,"['SoldierTauntMelee', 'Taunt: Rocket Jockey', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['SoldierTauntPlayerMelee']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShovel']]"
 
@@ -1547,8 +1547,8 @@ Your Line:,,,Rules:,['PlayerPainSoldier']
 ,,,Criteria:,"[['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
 Filename:,soldier_pickaxetaunt01,,Events:,"['soldier.pickaxetaunt01', 'soldier_taunt_neck_snap_intro_02', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_jeers']"
-Full Path:,sound/vo/soldier_pickaxetaunt01.mp3,,Scenes:,"['scenes/player/soldier/low/3495.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_peace.vcd']"
-Transcription:,"C'mere, sweetheart...",,Responses:,"['MedicFollowSoldier', 'Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Peace!']"
+Full Path:,sound/vo/soldier_pickaxetaunt01.mp3,,Scenes:,"['scenes/player/soldier/low/3495.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_peace.vcd']"
+Transcription:,"C'mere, sweetheart...",,Responses:,"['MedicFollowSoldier', 'Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Peace!', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['MedicFollowSoldier']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsSoldier', 'IsNotCrossHairEnemy', 'NotLowHealth', 'SoldierIsNotStillonFire', 'AppliesContext:ScoutKillSpeech:1:10']]"
 
@@ -1565,14 +1565,14 @@ Your Line:,,,Rules:,['MedicFollowSoldier']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsSoldier', 'IsNotCrossHairEnemy', 'NotLowHealth', 'SoldierIsNotStillonFire', 'AppliesContext:ScoutKillSpeech:1:10']]"
 
 Filename:,soldier_pickaxetaunt04,,Events:,"['soldier.pickaxetaunt04', 'soldier_taunt_neck_snap_intro_02', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_jeers']"
-Full Path:,sound/vo/soldier_pickaxetaunt04.mp3,,Scenes:,"['scenes/player/soldier/low/taunt05.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd']"
-Transcription:,"C'mere, cupcake.",,Responses:,"['SoldierTauntPickaxe', 'Taunt: Burstchester', 'Taunt: Neck Snap']"
+Full Path:,sound/vo/soldier_pickaxetaunt04.mp3,,Scenes:,"['scenes/player/soldier/low/taunt05.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd']"
+Transcription:,"C'mere, cupcake.",,Responses:,"['SoldierTauntPickaxe', 'Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['SoldierTauntEqualizer', 'SoldierTauntEscapePlan']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsEqualizer'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsEscapePlan']]"
 
 Filename:,soldier_pickaxetaunt05,,Events:,"['soldier.pickaxetaunt05', 'soldier_taunt_neck_snap_intro_02', 'taunt_yetipunch_soldier_jeers']"
-Full Path:,sound/vo/soldier_pickaxetaunt05.mp3,,Scenes:,"['scenes/player/soldier/low/3499.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd']"
-Transcription:,"C'mere, pumpkin.",,Responses:,"['MedicFollowSoldier', 'Taunt: Neck Snap']"
+Full Path:,sound/vo/soldier_pickaxetaunt05.mp3,,Scenes:,"['scenes/player/soldier/low/3499.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd']"
+Transcription:,"C'mere, pumpkin.",,Responses:,"['MedicFollowSoldier', 'Taunt: Neck Snap', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,['MedicFollowSoldier']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsSoldier', 'IsNotCrossHairEnemy', 'NotLowHealth', 'SoldierIsNotStillonFire', 'AppliesContext:ScoutKillSpeech:1:10']]"
 
@@ -1841,8 +1841,8 @@ Your Line:,,,Rules:,['KilledPlayerManySoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
 Filename:,soldier_specialcompleted04,,Events:,"['soldier.specialcompleted04', 'soldier_taunt_star_spangled_strat_vo_fist', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_scream']"
-Full Path:,sound/vo/soldier_specialcompleted04.mp3,,Scenes:,"['scenes/player/soldier/low/1182.vcd', 'scenes/player/soldier/low/taunt02_v1.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,Screamin' Eagles!,,Responses:,"['AwardSoldier', 'PlayerKilledObjectSoldier', 'SoldierTauntBanner', 'Taunt: Burstchester', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy']"
+Full Path:,sound/vo/soldier_specialcompleted04.mp3,,Scenes:,"['scenes/player/soldier/low/1182.vcd', 'scenes/player/soldier/low/taunt02_v1.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
+Transcription:,Screamin' Eagles!,,Responses:,"['AwardSoldier', 'PlayerKilledObjectSoldier', 'SoldierTauntBanner', 'Taunt: Burstchester', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['AwardSoldier', 'PlayerKilledObjectSoldier', 'SoldierTauntBackup', 'SoldierTauntBanner', 'SoldierTauntFestiveBanner', 'SoldierTauntRayGun', 'SoldierTauntSashimono', 'SoldierTauntSaxxy']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsSoldier', 'SoldierNotAwardSpeech', 'AppliesContext:SoldierAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledObject', 'IsSoldier', '30PercentChance', 'IsARecentKill', 'AppliesContext:SoldierKillSpeechObject:1:30'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBackup'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBanner'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsFestiveBanner'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRayGun'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsSashimono'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsSaxxy']]"
 
@@ -3461,8 +3461,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_rps_int_05,,Events:,"['soldier_taunt_rps_intro_wait_rand', 'soldier_taunt_rps_start_rand', 'taunt_yetipunch_soldier_jeers']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_int_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_rps_start.vcd']"
-Transcription:,Let's throw down!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_int_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_rps_start.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd']"
+Transcription:,Let's throw down!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3473,8 +3473,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_rps_int_08,,Events:,"['soldier_taunt_rps_start_rand', 'taunt_yetipunch_soldier_jeers']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_int_08.mp3,,Scenes:,['scenes/player/soldier/low/taunt_rps_start.vcd']
-Transcription:,It's throw time!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_int_08.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_rps_start.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd']"
+Transcription:,It's throw time!,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

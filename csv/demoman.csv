@@ -1031,14 +1031,14 @@ Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughhappy01,,Events:,"['demo.drunk_manns_cannon_laugh', 'demoman.laughhappy01', 'taunt.bearhug_demoman_a', 'taunt_yeti_demo']"
-Full Path:,sound/vo/demoman_laughhappy01.mp3,,Scenes:,"['scenes/player/demoman/low/951.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd']"
-Transcription:,(Happy laugh),,Responses:,"['PlayerKilledDominatingDemoman', 'Taunt: Bear Hug', ""Taunt: Drunk Mann's Cannon""]"
+Full Path:,sound/vo/demoman_laughhappy01.mp3,,Scenes:,"['scenes/player/demoman/low/951.vcd', 'scenes/player/demoman/low/yeti_taunt.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd']"
+Transcription:,(Happy laugh),,Responses:,"['PlayerKilledDominatingDemoman', 'Taunt: Bear Hug', ""Taunt: Drunk Mann's Cannon"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,demoman_laughhappy02,,Events:,"['demo_taunt_flag', 'demoman.laughhappy02', 'taunt_yeti_demo']"
-Full Path:,sound/vo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/player/demoman/low/952.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd']"
-Transcription:,(Happy laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Flying Colors']"
+Full Path:,sound/vo/demoman_laughhappy02.mp3,,Scenes:,"['scenes/player/demoman/low/952.vcd', 'scenes/player/demoman/low/yeti_taunt.vcd', 'scenes/workshop/player/demoman/low/taunt_flying_colors.vcd']"
+Transcription:,(Happy laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Flying Colors', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledCapperDemoman']
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
@@ -1055,14 +1055,14 @@ Your Line:,,,Rules:,"['DemomanTauntAprilFools', 'DemomanTauntLaugh', 'PlayerKill
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsDemoman'], ['ConceptTauntLaugh', 'IsDemoman']]"
 
 Filename:,demoman_laughshort01,,Events:,"['demoman.laughshort01', 'taunt_yeti_demo']"
-Full Path:,sound/vo/demoman_laughshort01.mp3,,Scenes:,"['scenes/player/demoman/low/955.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_yetipunch.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Rock, Paper, Scissors', 'Taunt: Yeti Punch']"
+Full Path:,sound/vo/demoman_laughshort01.mp3,,Scenes:,"['scenes/player/demoman/low/955.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win.vcd', 'scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/demoman/low/taunt_yetipunch.vcd', 'scenes/player/demoman/low/yeti_taunt.vcd']"
+Transcription:,(Short laugh),,Responses:,"['PlayerKilledCapperDemoman', 'Taunt: Rock, Paper, Scissors', 'Taunt: Yeti Punch', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledCapperDemoman']
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_laughshort02,,Events:,"['demoman.laughshort02', 'taunt_yeti_demo']"
-Full Path:,sound/vo/demoman_laughshort02.mp3,,Scenes:,['scenes/player/demoman/low/956.vcd']
-Transcription:,(Short laugh 1),,Responses:,['PlayerKilledDominatingDemoman']
+Full Path:,sound/vo/demoman_laughshort02.mp3,,Scenes:,"['scenes/player/demoman/low/956.vcd', 'scenes/player/demoman/low/yeti_taunt.vcd']"
+Transcription:,(Short laugh 1),,Responses:,"['PlayerKilledDominatingDemoman', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsDemoman', 'IsDominated', 'AppliesContext:DemomanKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 

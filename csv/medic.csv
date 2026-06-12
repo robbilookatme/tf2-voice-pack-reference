@@ -299,8 +299,8 @@ Your Line:,,,Rules:,['CartMovingStoppedOffenseMedic']
 ,,,Criteria:,"[['ConceptCartMovingStopped', 'IsOnOffense', 'IsMedic', 'MedicNotSaidCartMovingStoppedO', 'IsNotDisguised', '75PercentChance', 'AppliesContext:SaidCartMovingStoppedO:1:20']]"
 
 Filename:,medic_cheers01,,Events:,"['medic.cheers01', 'taunt_yeti_medic']"
-Full Path:,sound/vo/medic_cheers01.mp3,,Scenes:,"['scenes/player/medic/low/544.vcd', 'scenes/player/medic/low/taunt_hi5_a.vcd']"
-Transcription:,Excellent!,,Responses:,"['PlayerCheersMedic', 'Taunt: The High Five!']"
+Full Path:,sound/vo/medic_cheers01.mp3,,Scenes:,"['scenes/player/medic/low/544.vcd', 'scenes/player/medic/low/taunt_hi5_a.vcd', 'scenes/player/medic/low/yeti_taunt.vcd']"
+Transcription:,Excellent!,,Responses:,"['PlayerCheersMedic', 'Taunt: The High Five!', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerCheersMedic']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsMedic']]"
 
@@ -317,8 +317,8 @@ Your Line:,,,Rules:,['PlayerCheersMedic']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsMedic']]"
 
 Filename:,medic_cheers04,,Events:,"['medic.cheers04', 'medic_taunt_flag', 'taunt_yeti_medic']"
-Full Path:,sound/vo/medic_cheers04.mp3,,Scenes:,"['scenes/player/medic/low/550.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd']"
-Transcription:,Sturm und Drang!,,Responses:,"['PlayerCheersMedic', 'Taunt: Flying Colors']"
+Full Path:,sound/vo/medic_cheers04.mp3,,Scenes:,"['scenes/player/medic/low/550.vcd', 'scenes/player/medic/low/yeti_taunt.vcd', 'scenes/workshop/player/medic/low/taunt_flying_colors.vcd']"
+Transcription:,Sturm und Drang!,,Responses:,"['PlayerCheersMedic', 'Taunt: Flying Colors', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerCheersMedic']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsMedic']]"
 
@@ -719,8 +719,8 @@ Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
 Filename:,medic_laughshort03,,Events:,"['medic.laughshort03', 'medic.taunt_doctors_defibrillators_outro', 'medic_taunt_heartbreaker_voice_c', 'taunt_yeti_medic']"
-Full Path:,sound/vo/medic_laughshort03.mp3,,Scenes:,"['scenes/player/medic/low/1230.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Heartbreaker']"
+Full Path:,sound/vo/medic_laughshort03.mp3,,Scenes:,"['scenes/player/medic/low/1230.vcd', 'scenes/player/medic/low/yeti_taunt.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,(Short laugh),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Heartbreaker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 

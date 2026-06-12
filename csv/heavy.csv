@@ -3197,8 +3197,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,heavy_taunt_end_03,,Events:,"['heavy.bare_knuckle_beatdown_outro', 'heavy_taunt_flip_random_flipfinish', 'heavy_taunt_russian_rubdown_outro', 'heavy_taunt_soviet_strongarm_heavy_taunt_end_03', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/taunts/heavy/heavy_taunt_end_03.mp3,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm_end.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown_outro.vcd']"
-Transcription:,We are done.,,Responses:,"['Taunt: Bare Knuckle Beatdown', ""Taunt: Flippin' Awesome"", 'Taunt: Russian Rubdown', 'Taunt: The Soviet Strongarm']"
+Full Path:,sound/vo/taunts/heavy/heavy_taunt_end_03.mp3,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_strongarm_end.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown_outro.vcd']"
+Transcription:,We are done.,,Responses:,"['Taunt: Bare Knuckle Beatdown', ""Taunt: Flippin' Awesome"", 'Taunt: Russian Rubdown', 'Taunt: The Soviet Strongarm', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3371,8 +3371,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,heavy_taunt_head_end_01,,Events:,"['heavy.bare_knuckle_beatdown_outro', 'heavy_taunt_headbutt_success_recover_2', 'heavy_taunt_neck_snap_01', 'heavy_taunt_russian_rubdown_loop_1', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/taunts/heavy/heavy_taunt_head_end_01.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_neck_snap.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']"
-Transcription:,Ahhh! Heha!,,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Neck Snap', 'Taunt: Russian Rubdown', 'Taunt: Skullcracker']"
+Full Path:,sound/vo/taunts/heavy/heavy_taunt_head_end_01.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd', 'scenes/workshop/player/heavy/low/taunt_neck_snap.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']"
+Transcription:,Ahhh! Heha!,,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Neck Snap', 'Taunt: Russian Rubdown', 'Taunt: Skullcracker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3581,14 +3581,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,heavy_trade_04,,Events:,"['heavy.bare_knuckle_beatdown_intro', 'heavy_taunt_russian_rubdown_loop_2', 'heavy_taunt_trade_loop_rand', 'taunt_table_flip_intro', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/taunts/heavy/heavy_trade_04.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_table_flip_intro.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']"
-Transcription:,"Oh, yes.",,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Russian Rubdown', 'Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
+Full Path:,sound/vo/taunts/heavy/heavy_trade_04.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_table_flip_intro.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']"
+Transcription:,"Oh, yes.",,Responses:,"['Taunt: Bare Knuckle Beatdown', 'Taunt: Russian Rubdown', 'Taunt: The Boiling Point', 'Taunt: The Table Tantrum', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,heavy_trade_06,,Events:,"['heavy_taunt_trade_start_rand', 'taunt_burstchester_heavy_01', 'taunt_table_flip_end', 'taunt_table_flip_intro', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/taunts/heavy/heavy_trade_06.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_table_flip_intro.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd']"
-Transcription:,Hmmm...,,Responses:,"['Taunt: Burstchester', 'Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
+Full Path:,sound/vo/taunts/heavy/heavy_trade_06.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_table_flip_intro.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd']"
+Transcription:,Hmmm...,,Responses:,"['Taunt: Burstchester', 'Taunt: The Boiling Point', 'Taunt: The Table Tantrum', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3641,8 +3641,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,tableflip_sandvich_eat_01,,Events:,"['heavy_taunt_russian_rubdown_loop_1', 'taunt_table_flip_eat']"
-Full Path:,sound/vo/taunts/heavy/tableflip_sandvich_eat_01.mp3,,Scenes:,['scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']
-Transcription:,Mmm! Mmm.,,Responses:,['Taunt: Russian Rubdown']
+Full Path:,sound/vo/taunts/heavy/tableflip_sandvich_eat_01.mp3,,Scenes:,"['scenes/player/heavy/low/taunt_table_flip_outro.vcd', 'scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd']"
+Transcription:,Mmm! Mmm.,,Responses:,"['Taunt: Russian Rubdown', 'Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3725,26 +3725,26 @@ Your Line:,,,Rules:,"['HeavySeeSpellMeteorSwarm', 'heavySmallHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isheavy'], ['ConceptPlayerSpellMeteorSwarm', 'IsHeavy']]"
 
 Filename:,heavy_sf12_badmagic07,,Events:,"['heavy_sf12_badmagic07', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/heavy_sf12_badmagic07.mp3,,Scenes:,['scenes/player/heavy/low/4750.vcd']
-Transcription:,"Huh, Heavy feel funny.",,Responses:,"['HeavySF13SpellMovementBuff', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
+Full Path:,sound/vo/heavy_sf12_badmagic07.mp3,,Scenes:,"['scenes/player/heavy/low/4750.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd']"
+Transcription:,"Huh, Heavy feel funny.",,Responses:,"['HeavySF13SpellMovementBuff', 'Taunt: Yeti Smash', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
 Your Line:,,,Rules:,"['HeavySF13SpellMovementBuff', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isheavy'], ['ConceptMagicSmallHead', 'Isheavy'], ['ConceptPlayerSpellMovementBuff', 'IsHeavy']]"
 
 Filename:,heavy_sf12_badmagic08,,Events:,"['heavy_sf12_badmagic08', 'taunt_burstchester_heavy_01', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/heavy_sf12_badmagic08.mp3,,Scenes:,"['scenes/player/heavy/low/4751.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd']"
-Transcription:,"Oh, Heavy does not feel right.",,Responses:,"['HeavySF13SpellMovementBuff', 'Taunt: Burstchester', 'heavySmallHeadReaction']"
+Full Path:,sound/vo/heavy_sf12_badmagic08.mp3,,Scenes:,"['scenes/player/heavy/low/4751.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd']"
+Transcription:,"Oh, Heavy does not feel right.",,Responses:,"['HeavySF13SpellMovementBuff', 'Taunt: Burstchester', 'Taunt: Yeti Smash', 'heavySmallHeadReaction']"
 Your Line:,,,Rules:,"['HeavySF13SpellMovementBuff', 'heavySmallHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isheavy'], ['ConceptPlayerSpellMovementBuff', 'IsHeavy']]"
 
 Filename:,heavy_sf12_badmagic09,,Events:,"['heavy_sf12_badmagic09', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/heavy_sf12_badmagic09.mp3,,Scenes:,['scenes/player/heavy/low/4752.vcd']
-Transcription:,"Hoh, something is different.",,Responses:,"['HeavySF13SpellMovementBuff', 'heavyGravityReaction']"
+Full Path:,sound/vo/heavy_sf12_badmagic09.mp3,,Scenes:,"['scenes/player/heavy/low/4752.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd']"
+Transcription:,"Hoh, something is different.",,Responses:,"['HeavySF13SpellMovementBuff', 'Taunt: Yeti Smash', 'heavyGravityReaction']"
 Your Line:,,,Rules:,"['HeavySF13SpellMovementBuff', 'heavyGravityReaction']"
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isheavy', '50PercentChance'], ['ConceptPlayerSpellMovementBuff', 'IsHeavy']]"
 
 Filename:,heavy_sf12_badmagic10,,Events:,"['heavy_sf12_badmagic10', 'taunt_yeti_heavy']"
-Full Path:,sound/vo/heavy_sf12_badmagic10.mp3,,Scenes:,['scenes/player/heavy/low/5456.vcd']
-Transcription:,"Ugh, Heavy hate magic.",,Responses:,"['HeavySeeSpellMeteorSwarm', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
+Full Path:,sound/vo/heavy_sf12_badmagic10.mp3,,Scenes:,"['scenes/player/heavy/low/5456.vcd', 'scenes/player/heavy/low/yeti_taunt.vcd']"
+Transcription:,"Ugh, Heavy hate magic.",,Responses:,"['HeavySeeSpellMeteorSwarm', 'Taunt: Yeti Smash', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
 Your Line:,,,Rules:,"['HeavySeeSpellMeteorSwarm', 'heavyBigHeadReaction', 'heavySmallHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isheavy'], ['ConceptMagicSmallHead', 'Isheavy'], ['ConceptPlayerSpellMeteorSwarm', 'IsHeavy']]"
 

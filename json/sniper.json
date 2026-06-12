@@ -19606,11 +19606,13 @@
         ],
         "responses": [
             "Taunt: Skullcracker",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/taunt_headbutt_success.vcd",
+            "scenes/player/sniper/low/yeti_taunt.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
@@ -19626,11 +19628,13 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/taunt_headbutt_success.vcd",
+            "scenes/player/sniper/low/yeti_taunt.vcd",
             "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
@@ -19644,11 +19648,13 @@
             "taunt_yeti_sniper"
         ],
         "responses": [
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/taunt_headbutt_success.vcd"
+            "scenes/player/sniper/low/taunt_headbutt_success.vcd",
+            "scenes/player/sniper/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Hooly dooley!"
@@ -20341,10 +20347,12 @@
             "taunt_yeti_sniper"
         ],
         "responses": [
-            "Taunt: Most Wanted"
+            "Taunt: Most Wanted",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/yeti_taunt.vcd",
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
@@ -20426,12 +20434,14 @@
         "responses": [
             "Taunt: Didgeridrongo",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: Shooter's Stakeout"
+            "Taunt: Shooter's Stakeout",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/sniper/low/taunt_rps_paper_win.vcd",
             "scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd",
+            "scenes/player/sniper/low/yeti_taunt.vcd",
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
         ],
@@ -20538,10 +20548,12 @@
         ],
         "responses": [
             "Taunt: Most Wanted",
-            "Taunt: Shooter's Stakeout"
+            "Taunt: Shooter's Stakeout",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/sniper/low/yeti_taunt.vcd",
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],

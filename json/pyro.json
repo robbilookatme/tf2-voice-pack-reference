@@ -3216,13 +3216,15 @@
             "Taunt: Flippin' Awesome",
             "Taunt: Kazotsky Kick",
             "Taunt: Neck Snap",
-            "Taunt: The Hot Wheeler"
+            "Taunt: The Hot Wheeler",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/player/pyro/low/taunt_russian.vcd",
+            "scenes/player/pyro/low/yeti_taunt.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd"
         ],
@@ -3405,13 +3407,15 @@
             "taunt_yeti_pyro"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_start.vcd",
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
-            "scenes/player/pyro/low/flip_success_receiver1.vcd"
+            "scenes/player/pyro/low/flip_success_receiver1.vcd",
+            "scenes/player/pyro/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Hah da-ra!"
@@ -3521,7 +3525,8 @@
             "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
             "Taunt: The Hot Wheeler",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
@@ -3531,6 +3536,7 @@
             "scenes/player/pyro/low/taunt_aerobic_b.vcd",
             "scenes/player/pyro/low/taunt_russian.vcd",
             "scenes/player/pyro/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/pyro/low/yeti_taunt.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",

@@ -2864,7 +2864,8 @@
             "Taunt: Burstchester",
             "Taunt: Panzer Pants",
             "Taunt: Rocket Jockey",
-            "Taunt: Star-Spangled Strategy"
+            "Taunt: Star-Spangled Strategy",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "PlayerBattleCrySoldier",
@@ -2873,6 +2874,7 @@
         "scenes": [
             "scenes/player/soldier/low/1056.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
@@ -2925,7 +2927,8 @@
             "Taunt: Mannrobics",
             "Taunt: Panzer Pants",
             "Taunt: Rocket Jockey",
-            "Taunt: Star-Spangled Strategy"
+            "Taunt: Star-Spangled Strategy",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "PlayerBattleCrySoldier",
@@ -2937,6 +2940,7 @@
             "scenes/player/soldier/low/1060.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
@@ -12287,13 +12291,15 @@
             "Taunt: Burstchester",
             "Taunt: Mourning Mercs",
             "Taunt: Rocket Jockey",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
             "scenes/player/soldier/low/taunt03_v1.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
@@ -12332,13 +12338,15 @@
             "SoldierTauntMelee",
             "Taunt: Rocket Jockey",
             "Taunt: The Scaredy-Cat!",
-            "Taunt: Unleashed Rage"
+            "Taunt: Unleashed Rage",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
             "scenes/player/soldier/low/taunt03_v3.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd"
@@ -12396,13 +12404,15 @@
         "responses": [
             "SoldierTauntMelee",
             "Taunt: Rocket Jockey",
-            "Taunt: The Scaredy-Cat!"
+            "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "SoldierTauntPlayerMelee"
         ],
         "scenes": [
             "scenes/player/soldier/low/taunt03_v2.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
@@ -12853,13 +12863,15 @@
             "MedicFollowSoldier",
             "Taunt: Burstchester",
             "Taunt: Neck Snap",
-            "Taunt: Peace!"
+            "Taunt: Peace!",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "MedicFollowSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/3495.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd"
@@ -12958,7 +12970,8 @@
         "responses": [
             "SoldierTauntPickaxe",
             "Taunt: Burstchester",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "SoldierTauntEqualizer",
@@ -12966,6 +12979,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/taunt05.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
@@ -12992,13 +13006,15 @@
         ],
         "responses": [
             "MedicFollowSoldier",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "MedicFollowSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/3499.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
         "state": "used",
@@ -16662,7 +16678,8 @@
             "SoldierTauntBanner",
             "Taunt: Burstchester",
             "Taunt: Rocket Jockey",
-            "Taunt: Star-Spangled Strategy"
+            "Taunt: Star-Spangled Strategy",
+            "Taunt: Yeti Punch"
         ],
         "rules": [
             "AwardSoldier",
@@ -16677,6 +16694,7 @@
         "scenes": [
             "scenes/player/soldier/low/1182.vcd",
             "scenes/player/soldier/low/taunt02_v1.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
@@ -19474,12 +19492,14 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_aerobic_b.vcd",
-            "scenes/player/soldier/low/taunt_rps_start.vcd"
+            "scenes/player/soldier/low/taunt_rps_start.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd"
         ],
         "state": "used",
         "transcript": "Let's throw down!"
@@ -19510,11 +19530,13 @@
             "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_rps_start.vcd"
+            "scenes/player/soldier/low/taunt_rps_start.vcd",
+            "scenes/player/soldier/low/taunt_yetipunch.vcd"
         ],
         "state": "used",
         "transcript": "It's throw time!"

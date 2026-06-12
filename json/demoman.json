@@ -6918,13 +6918,15 @@
         "responses": [
             "PlayerKilledDominatingDemoman",
             "Taunt: Bear Hug",
-            "Taunt: Drunk Mann's Cannon"
+            "Taunt: Drunk Mann's Cannon",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/951.vcd",
+            "scenes/player/demoman/low/yeti_taunt.vcd",
             "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd"
         ],
@@ -6947,13 +6949,15 @@
         ],
         "responses": [
             "PlayerKilledCapperDemoman",
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledCapperDemoman"
         ],
         "scenes": [
             "scenes/player/demoman/low/952.vcd",
+            "scenes/player/demoman/low/yeti_taunt.vcd",
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -7047,7 +7051,8 @@
         "responses": [
             "PlayerKilledCapperDemoman",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: Yeti Punch"
+            "Taunt: Yeti Punch",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledCapperDemoman"
@@ -7056,7 +7061,8 @@
             "scenes/player/demoman/low/955.vcd",
             "scenes/player/demoman/low/taunt_rps_scissors_win.vcd",
             "scenes/player/demoman/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/player/demoman/low/taunt_yetipunch.vcd"
+            "scenes/player/demoman/low/taunt_yetipunch.vcd",
+            "scenes/player/demoman/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh)"
@@ -7077,13 +7083,15 @@
             "taunt_yeti_demo"
         ],
         "responses": [
-            "PlayerKilledDominatingDemoman"
+            "PlayerKilledDominatingDemoman",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledDominatingDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/956.vcd"
+            "scenes/player/demoman/low/956.vcd",
+            "scenes/player/demoman/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh 1)"

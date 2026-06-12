@@ -1115,8 +1115,8 @@ Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization02,,Events:,"['spy.negativevocalization02', 'spy_taunt_tuefort_tango_outro_b', 'taunt_burstchester_spy_01', 'taunt_yeti_spy_negative']"
-Full Path:,sound/vo/spy_negativevocalization02.mp3,,Scenes:,"['scenes/player/spy/low/793.vcd', 'scenes/workshop/player/spy/low/secondrate_sorcery.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
-Transcription:,Argh...,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Second Rate Sorcery', 'Taunt: Teufort Tango']"
+Full Path:,sound/vo/spy_negativevocalization02.mp3,,Scenes:,"['scenes/player/spy/low/793.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/secondrate_sorcery.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Argh...,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Second Rate Sorcery', 'Taunt: Teufort Tango', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
@@ -1145,20 +1145,20 @@ Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization07,,Events:,"['spy.negativevocalization07', 'spy_taunt_tuefort_tango_outro_b', 'taunt_yeti_spy_negative']"
-Full Path:,sound/vo/spy_negativevocalization07.mp3,,Scenes:,"['scenes/player/spy/low/1319.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
-Transcription:,Agh!,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Teufort Tango']"
+Full Path:,sound/vo/spy_negativevocalization07.mp3,,Scenes:,"['scenes/player/spy/low/1319.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd']"
+Transcription:,Agh!,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Teufort Tango', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization08,,Events:,"['spy.negativevocalization08', 'spy_taunt_tailore_terminal_a2_01', 'spy_taunt_tuefort_tango_outro_b', 'taunt_burstchester_spy_01', 'taunt_yeti_spy_negative']"
-Full Path:,sound/vo/spy_negativevocalization08.mp3,,Scenes:,"['scenes/player/spy/low/1320.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Ugh!,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Rock, Paper, Scissors', 'Taunt: Tailored Terminal', 'Taunt: Teufort Tango']"
+Full Path:,sound/vo/spy_negativevocalization08.mp3,,Scenes:,"['scenes/player/spy/low/1320.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Transcription:,Ugh!,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Rock, Paper, Scissors', 'Taunt: Tailored Terminal', 'Taunt: Teufort Tango', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
 Filename:,spy_negativevocalization09,,Events:,"['spy.negativevocalization09', 'spy_taunt_tailore_terminal_a2_01', 'taunt_burstchester_spy_01', 'taunt_yeti_spy_negative']"
-Full Path:,sound/vo/spy_negativevocalization09.mp3,,Scenes:,"['scenes/player/spy/low/1321.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
-Transcription:,Ughhhh...,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Tailored Terminal', 'Taunt: The Critical Fail']"
+Full Path:,sound/vo/spy_negativevocalization09.mp3,,Scenes:,"['scenes/player/spy/low/1321.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd']"
+Transcription:,Ughhhh...,,Responses:,"['PlayerLostPointSpy', 'PlayerNegativeSpy', 'Taunt: Burstchester', 'Taunt: Tailored Terminal', 'Taunt: The Critical Fail', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['PlayerLostPointSpy', 'PlayerNegativeSpy']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsSpy'], ['ConceptPlayerNegative', 'IsSpy']]"
 
@@ -2483,14 +2483,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_dosi_end_06,,Events:,"['spy_taunt_dosido_end_rand', 'taunt_yeti_spy']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_dosi_end_06.mp3,,Scenes:,['scenes/player/spy/low/taunt_dosido_dance01.vcd']
-Transcription:,"If you speak of this, I will kill you!",,Responses:,['Taunt: Square Dance']
+Full Path:,sound/vo/taunts/spy/spy_taunt_dosi_end_06.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/player/spy/low/yeti_taunt.vcd']"
+Transcription:,"If you speak of this, I will kill you!",,Responses:,"['Taunt: Square Dance', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_taunt_dosi_end_11,,Events:,"['spy_taunt_dosido_end_rand', 'taunt_burstchester_spy_02', 'taunt_spy.disco_fever_end', 'taunt_yeti_spy']"
-Full Path:,sound/vo/taunts/spy/spy_taunt_dosi_end_11.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
-Transcription:,"Well, that was idiotic!",,Responses:,"['Taunt: Burstchester', 'Taunt: Disco Fever', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/spy/spy_taunt_dosi_end_11.mp3,,Scenes:,"['scenes/player/spy/low/taunt_dosido_dance01.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/disco_fever.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,"Well, that was idiotic!",,Responses:,"['Taunt: Burstchester', 'Taunt: Disco Fever', 'Taunt: Square Dance', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3113,14 +3113,14 @@ Your Line:,,,Rules:,['spySmallHeadReaction']
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isspy']]"
 
 Filename:,spy_sf12_badmagic02,,Events:,"['spy.scardy_cat_b', 'spy_sf12_badmagic02', 'taunt_burstchester_spy_01', 'taunt_yeti_spy']"
-Full Path:,sound/vo/spy_sf12_badmagic02.mp3,,Scenes:,"['scenes/player/spy/low/4711.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
-Transcription:,Sacrebleu.,,Responses:,"['SpySF13SpellMovementBuff', 'Taunt: Burstchester', 'Taunt: The Scaredy-Cat!', 'spyBigHeadReaction']"
+Full Path:,sound/vo/spy_sf12_badmagic02.mp3,,Scenes:,"['scenes/player/spy/low/4711.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
+Transcription:,Sacrebleu.,,Responses:,"['SpySF13SpellMovementBuff', 'Taunt: Burstchester', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Smash', 'spyBigHeadReaction']"
 Your Line:,,,Rules:,"['SpySF13SpellMovementBuff', 'spyBigHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isspy'], ['ConceptPlayerSpellMovementBuff', 'IsSpy']]"
 
 Filename:,spy_sf12_badmagic03,,Events:,"['spy.scardy_cat_b', 'spy_sf12_badmagic03', 'taunt_burstchester_spy_01', 'taunt_yeti_spy']"
-Full Path:,sound/vo/spy_sf12_badmagic03.mp3,,Scenes:,"['scenes/player/spy/low/4712.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
-Transcription:,What the hell?,,Responses:,"['SpySF13SpellMovementBuff', 'Taunt: Burstchester', 'Taunt: The Scaredy-Cat!', 'spyBigHeadReaction']"
+Full Path:,sound/vo/spy_sf12_badmagic03.mp3,,Scenes:,"['scenes/player/spy/low/4712.vcd', 'scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd']"
+Transcription:,What the hell?,,Responses:,"['SpySF13SpellMovementBuff', 'Taunt: Burstchester', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Smash', 'spyBigHeadReaction']"
 Your Line:,,,Rules:,"['SpySF13SpellMovementBuff', 'spyBigHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicBigHead', 'Isspy'], ['ConceptPlayerSpellMovementBuff', 'IsSpy']]"
 
@@ -3143,8 +3143,8 @@ Your Line:,,,Rules:,"['SpySeeSpellMeteorSwarm', 'spySmallHeadReaction']"
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isspy'], ['ConceptPlayerSpellMeteorSwarm', 'IsSpy']]"
 
 Filename:,spy_sf12_badmagic07,,Events:,"['spy_sf12_badmagic07', 'taunt.bearhug_spy_d', 'taunt_burstchester_spy_02', 'taunt_yeti_spy']"
-Full Path:,sound/vo/spy_sf12_badmagic07.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
-Transcription:,Tell no one of this.,,Responses:,"['Taunt: Bear Hug', 'Taunt: Burstchester']"
+Full Path:,sound/vo/spy_sf12_badmagic07.mp3,,Scenes:,"['scenes/player/spy/low/yeti_taunt.vcd', 'scenes/workshop/player/spy/low/taunt_bear_hug.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,Tell no one of this.,,Responses:,"['Taunt: Bear Hug', 'Taunt: Burstchester', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3281,8 +3281,8 @@ Your Line:,,,Rules:,"['SpySeeSpellMeteorSwarm', 'SpySeeSpellSkeletonHorde']"
 ,,,Criteria:,"[['ConceptPlayerSpellMeteorSwarm', 'IsSpy'], ['ConceptPlayerSpellSkeletonHorde', 'IsSpy']]"
 
 Filename:,spy_sf13_magic_reac03,,Events:,"['spy_sf13_magic_reac03', 'taunt_yeti_spy']"
-Full Path:,sound/vo/spy_sf13_magic_reac03.mp3,,Scenes:,['scenes/player/spy/low/7634.vcd']
-Transcription:,What the hell is that?!,,Responses:,"['SpySF13SkeletonKingAppear', 'SpySeeSpellMeteorSwarm', 'SpySeeSpellSkeletonHorde']"
+Full Path:,sound/vo/spy_sf13_magic_reac03.mp3,,Scenes:,"['scenes/player/spy/low/7634.vcd', 'scenes/player/spy/low/yeti_taunt.vcd']"
+Transcription:,What the hell is that?!,,Responses:,"['SpySF13SkeletonKingAppear', 'SpySeeSpellMeteorSwarm', 'SpySeeSpellSkeletonHorde', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['SpySF13SkeletonKingAppear', 'SpySeeSpellMeteorSwarm', 'SpySeeSpellSkeletonHorde']"
 ,,,Criteria:,"[['ConceptPlayerSkeletonKingAppear', '50PercentChance', 'IsMapHelltower', 'IsNotInHell'], ['ConceptPlayerSpellMeteorSwarm', 'IsSpy'], ['ConceptPlayerSpellSkeletonHorde', 'IsSpy']]"
 

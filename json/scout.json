@@ -7555,13 +7555,15 @@
         ],
         "responses": [
             "PlayerCheersScout",
-            "Taunt: Chairholder"
+            "Taunt: Chairholder",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerCheersScout"
         ],
         "scenes": [
             "scenes/player/scout/low/376.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
         ],
         "state": "used",
@@ -7592,7 +7594,8 @@
             "Taunt: Chairholder",
             "Taunt: Cheers!",
             "Taunt: Spin-to-Win",
-            "Taunt: The Boston Breakdance"
+            "Taunt: The Boston Breakdance",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerCheersScout",
@@ -7600,6 +7603,7 @@
         ],
         "scenes": [
             "scenes/player/scout/low/373.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/scout/low/taunt_cheers.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd",
@@ -12915,7 +12919,8 @@
         "responses": [
             "KilledPlayerManyScout",
             "Taunt: Mannrobics",
-            "Taunt: The Homerunner's Hobby"
+            "Taunt: The Homerunner's Hobby",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "KilledPlayerManyScout"
@@ -12923,6 +12928,7 @@
         "scenes": [
             "scenes/player/scout/low/432.vcd",
             "scenes/player/scout/low/taunt_aerobic_a.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd"
         ],
         "state": "used",
@@ -13244,13 +13250,15 @@
             "PlayerTauntsScout",
             "Taunt: Bear Hug",
             "Taunt: Chairholder",
-            "Taunt: The Homerunner's Hobby"
+            "Taunt: The Homerunner's Hobby",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerPositiveScout"
         ],
         "scenes": [
             "scenes/player/scout/low/437.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd"
@@ -14305,7 +14313,8 @@
         "responses": [
             "ScoutMvMLootRare",
             "ScoutSF13SpellPickupRare",
-            "Taunt: Chairholder"
+            "Taunt: Chairholder",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "ScoutMvMLootRare",
@@ -14313,6 +14322,7 @@
         ],
         "scenes": [
             "scenes/player/scout/low/8512.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
         ],
         "state": "used",
@@ -14388,14 +14398,16 @@
         ],
         "responses": [
             "ScoutMvMLootRare",
-            "ScoutSF13SpellPickupRare"
+            "ScoutSF13SpellPickupRare",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "ScoutMvMLootRare",
             "ScoutSF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/player/scout/low/6944.vcd"
+            "scenes/player/scout/low/6944.vcd",
+            "scenes/player/scout/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "WOW!"

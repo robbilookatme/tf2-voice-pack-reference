@@ -3641,20 +3641,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_head_end_33,,Events:,"['sniper.scardy_cat_b', 'sniper_taunt_headbutt_success_recover', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_33.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd']"
-Transcription:,Crikey!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Scaredy-Cat!']"
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_33.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/yeti_taunt.vcd', 'scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd']"
+Transcription:,Crikey!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_head_end_37,,Events:,"['sniper_taunt_headbutt_success_recover', 'taunt.bearhug_sniper_b', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_37.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/sniper/low/taunt_bear_hug.vcd']"
-Transcription:,"(laughing) ""Blimey!""",,Responses:,"['Taunt: Bear Hug', 'Taunt: Skullcracker']"
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_37.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/yeti_taunt.vcd', 'scenes/workshop/player/sniper/low/taunt_bear_hug.vcd']"
+Transcription:,"(laughing) ""Blimey!""",,Responses:,"['Taunt: Bear Hug', 'Taunt: Skullcracker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_head_end_39,,Events:,"['sniper_taunt_headbutt_success_recover', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_39.mp3,,Scenes:,['scenes/player/sniper/low/taunt_headbutt_success.vcd']
-Transcription:,Hooly dooley!,,Responses:,['Taunt: Skullcracker']
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_head_end_39.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/yeti_taunt.vcd']"
+Transcription:,Hooly dooley!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3869,8 +3869,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_rps_win_03,,Events:,"['sniper_most_wanted_laughs', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_rps_win_03.mp3,,Scenes:,['scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']
-Transcription:,Short laugh 3,,Responses:,['Taunt: Most Wanted']
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_rps_win_03.mp3,,Scenes:,"['scenes/player/sniper/low/yeti_taunt.vcd', 'scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']"
+Transcription:,Short laugh 3,,Responses:,"['Taunt: Most Wanted', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3899,8 +3899,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_taunt_rps_win_14,,Events:,"['sniper.taunt_shooters_stake_outro', 'sniper_didgeriddrongo_outro', 'sniper_taunt_rps_win_14', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_taunt_rps_win_14.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
-Transcription:,That was a ripsnorter!,,Responses:,"['Taunt: Didgeridrongo', 'Taunt: Rock, Paper, Scissors', ""Taunt: Shooter's Stakeout""]"
+Full Path:,sound/vo/taunts/sniper/sniper_taunt_rps_win_14.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/sniper/low/yeti_taunt.vcd', 'scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
+Transcription:,That was a ripsnorter!,,Responses:,"['Taunt: Didgeridrongo', 'Taunt: Rock, Paper, Scissors', ""Taunt: Shooter's Stakeout"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3935,8 +3935,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,sniper_trade_05,,Events:,"['sniper.taunt_shooters_stake_intro', 'sniper_most_wanted_vo', 'taunt_yeti_sniper']"
-Full Path:,sound/vo/taunts/sniper/sniper_trade_05.mp3,,Scenes:,"['scenes/workshop/player/sniper/low/taunt_most_wanted.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
-Transcription:,Ain't that something.,,Responses:,"['Taunt: Most Wanted', ""Taunt: Shooter's Stakeout""]"
+Full Path:,sound/vo/taunts/sniper/sniper_trade_05.mp3,,Scenes:,"['scenes/player/sniper/low/yeti_taunt.vcd', 'scenes/workshop/player/sniper/low/taunt_most_wanted.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
+Transcription:,Ain't that something.,,Responses:,"['Taunt: Most Wanted', ""Taunt: Shooter's Stakeout"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

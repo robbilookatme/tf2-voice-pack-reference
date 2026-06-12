@@ -755,14 +755,14 @@ Your Line:,,,Rules:,"['AcceptedDuelScout', 'KilledPlayerMeleeCandyScout', 'Playe
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsScout'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsCandy', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10'], ['ConceptPlayerCheers', 'IsScout']]"
 
 Filename:,scout_cheers05,,Events:,"['scout.cheers05', 'taunt_scout_chairholder_start_b', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_cheers05.mp3,,Scenes:,"['scenes/player/scout/low/376.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Wicked!,,Responses:,"['PlayerCheersScout', 'Taunt: Chairholder']"
+Full Path:,sound/vo/scout_cheers05.mp3,,Scenes:,"['scenes/player/scout/low/376.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
+Transcription:,Wicked!,,Responses:,"['PlayerCheersScout', 'Taunt: Chairholder', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerCheersScout']
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsScout']]"
 
 Filename:,scout_cheers06,,Events:,"['scout.cheers06', 'scout_taunt_boston_breakdance_end', 'taunt_scout_chairholder_start_a', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_cheers06.mp3,,Scenes:,"['scenes/player/scout/low/373.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_cheers.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,Oh yeah!,,Responses:,"['PlayerCheersScout', 'PlayerKilledCapperScout', 'Taunt: Chairholder', 'Taunt: Cheers!', 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/scout_cheers06.mp3,,Scenes:,"['scenes/player/scout/low/373.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_cheers.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,Oh yeah!,,Responses:,"['PlayerCheersScout', 'PlayerKilledCapperScout', 'Taunt: Chairholder', 'Taunt: Cheers!', 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['PlayerCheersScout', 'PlayerKilledCapperScout']"
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsScout', 'AppliesContext:ScoutKillSpeech:1:10'], ['ConceptPlayerCheers', 'IsScout']]"
 
@@ -1679,8 +1679,8 @@ Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
 Filename:,scout_laughhappy01,,Events:,"['scout.happy_laughs', 'scout.laughhappy01', 'taunt_scout_aerobic_shared_dance', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_laughhappy01.mp3,,Scenes:,"['scenes/player/scout/low/432.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,(Happy laughter 1),,Responses:,"['KilledPlayerManyScout', 'Taunt: Mannrobics', ""Taunt: The Homerunner's Hobby""]"
+Full Path:,sound/vo/scout_laughhappy01.mp3,,Scenes:,"['scenes/player/scout/low/432.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
+Transcription:,(Happy laughter 1),,Responses:,"['KilledPlayerManyScout', 'Taunt: Mannrobics', ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['KilledPlayerManyScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'ScoutNotKillSpeech', 'IsScout', 'AppliesContext:ScoutKillSpeech:1:5']]"
 
@@ -1721,8 +1721,8 @@ Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
 Filename:,scout_laughshort02,,Events:,"['scout.laughshort02', 'scout.short_laughs', 'taunt.bearhug_scout_d', 'taunt.runners_rythm_loop', 'taunt_scout_chairholder_start_c', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_laughshort02.mp3,,Scenes:,"['scenes/player/scout/low/437.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
+Full Path:,sound/vo/scout_laughshort02.mp3,,Scenes:,"['scenes/player/scout/low/437.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
+Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
@@ -2717,8 +2717,8 @@ Your Line:,,,Rules:,['ScoutMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsScout']]"
 
 Filename:,scout_mvm_loot_rare01,,Events:,"['scout_mvm_loot_rare01', 'taunt.bunnyhop_intro', 'taunt_scout_chairholder_loop_a', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_mvm_loot_rare01.mp3,,Scenes:,"['scenes/player/scout/low/8512.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Ooooh! Yeah!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare', 'Taunt: Chairholder']"
+Full Path:,sound/vo/scout_mvm_loot_rare01.mp3,,Scenes:,"['scenes/player/scout/low/8512.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
+Transcription:,Ooooh! Yeah!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare', 'Taunt: Chairholder', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsScout'], ['ConceptPlayerSpellPickupRare', 'IsScout']]"
 
@@ -2735,8 +2735,8 @@ Your Line:,,,Rules:,['ScoutMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsScout']]"
 
 Filename:,scout_mvm_loot_rare04,,Events:,"['scout_mvm_loot_rare04', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_mvm_loot_rare04.mp3,,Scenes:,['scenes/player/scout/low/6944.vcd']
-Transcription:,WOW!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare']"
+Full Path:,sound/vo/scout_mvm_loot_rare04.mp3,,Scenes:,"['scenes/player/scout/low/6944.vcd', 'scenes/player/scout/low/yeti_taunt.vcd']"
+Transcription:,WOW!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsScout'], ['ConceptPlayerSpellPickupRare', 'IsScout']]"
 

@@ -8423,7 +8423,8 @@
             "PlayerNegativeSpy",
             "Taunt: Burstchester",
             "Taunt: Second Rate Sorcery",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerLostPointSpy",
@@ -8431,6 +8432,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/793.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
@@ -8609,7 +8611,8 @@
         "responses": [
             "PlayerLostPointSpy",
             "PlayerNegativeSpy",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerLostPointSpy",
@@ -8617,6 +8620,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/1319.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
@@ -8647,7 +8651,8 @@
             "Taunt: Burstchester",
             "Taunt: Rock, Paper, Scissors",
             "Taunt: Tailored Terminal",
-            "Taunt: Teufort Tango"
+            "Taunt: Teufort Tango",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerLostPointSpy",
@@ -8661,6 +8666,7 @@
             "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
@@ -8691,7 +8697,8 @@
             "PlayerNegativeSpy",
             "Taunt: Burstchester",
             "Taunt: Tailored Terminal",
-            "Taunt: The Critical Fail"
+            "Taunt: The Critical Fail",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerLostPointSpy",
@@ -8699,6 +8706,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/1321.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
@@ -9941,6 +9949,7 @@
             "SpySF13SpellMovementBuff",
             "Taunt: Burstchester",
             "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Smash",
             "spyBigHeadReaction"
         ],
         "rules": [
@@ -9949,6 +9958,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/4711.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
@@ -9977,6 +9987,7 @@
             "SpySF13SpellMovementBuff",
             "Taunt: Burstchester",
             "Taunt: The Scaredy-Cat!",
+            "Taunt: Yeti Smash",
             "spyBigHeadReaction"
         ],
         "rules": [
@@ -9985,6 +9996,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/4712.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd",
             "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd"
         ],
@@ -10086,10 +10098,12 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
-            "Taunt: Burstchester"
+            "Taunt: Burstchester",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
@@ -10587,7 +10601,8 @@
         "responses": [
             "SpySF13SkeletonKingAppear",
             "SpySeeSpellMeteorSwarm",
-            "SpySeeSpellSkeletonHorde"
+            "SpySeeSpellSkeletonHorde",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "SpySF13SkeletonKingAppear",
@@ -10595,7 +10610,8 @@
             "SpySeeSpellSkeletonHorde"
         ],
         "scenes": [
-            "scenes/player/spy/low/7634.vcd"
+            "scenes/player/spy/low/7634.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "What the hell is that?!"
@@ -13331,11 +13347,13 @@
             "taunt_yeti_spy"
         ],
         "responses": [
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/spy/low/taunt_dosido_dance01.vcd"
+            "scenes/player/spy/low/taunt_dosido_dance01.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "If you speak of this, I will kill you!"
@@ -13352,11 +13370,13 @@
         "responses": [
             "Taunt: Burstchester",
             "Taunt: Disco Fever",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/spy/low/taunt_dosido_dance01.vcd",
+            "scenes/player/spy/low/yeti_taunt.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],

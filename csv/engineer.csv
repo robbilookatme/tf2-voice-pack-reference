@@ -2555,8 +2555,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_cong_fun_35,,Events:,"['eng_taunt_conga_random_fun3', 'engineer_bucking_bronco_taunt_yells_a', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_cong_fun_35.mp3,,Scenes:,"['scenes/player/engineer/low/conga.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,"Oh hee, hee, hee, hee, hee!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', 'Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em""]"
+Full Path:,sound/vo/taunts/engy/eng_taunt_cong_fun_35.mp3,,Scenes:,"['scenes/player/engineer/low/conga.vcd', 'scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,"Oh hee, hee, hee, hee, hee!",,Responses:,"['Taunt: Bucking Bronco', 'Taunt: Conga', 'Taunt: Mannrobics', ""Taunt: Texas Twirl 'Em"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2729,14 +2729,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_flip_admire_14,,Events:,"['eng_taunt_dosido_end_rand', 'eng_taunt_flip_random_flipadmire', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_flip_admire_14.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
-Transcription:,All right!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance', ""Taunt: Texas Twirl 'Em""]"
+Full Path:,sound/vo/taunts/engy/eng_taunt_flip_admire_14.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd']"
+Transcription:,All right!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance', ""Taunt: Texas Twirl 'Em"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_flip_admire_15,,Events:,"['eng_taunt_flip_random_flipadmire', 'engineer_taunt_bumpkins_banjo_engineer_outro', 'engy_taunt_russian_rand', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_flip_admire_15.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
-Transcription:,Ha! All right!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', ""Taunt: Texas Truckin'"", 'Taunt: The Dueling Banjo']"
+Full Path:,sound/vo/taunts/engy/eng_taunt_flip_admire_15.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/taunt_russian.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd', 'scenes/workshop/player/engineer/low/taunt_bumpkins_banjo_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd']"
+Transcription:,Ha! All right!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', ""Taunt: Texas Truckin'"", 'Taunt: The Dueling Banjo', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2753,8 +2753,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_flip_end_08,,Events:,"['eng_taunt_flip_random_flipthrowantic', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_flip_end_08.mp3,,Scenes:,['scenes/player/engineer/low/flip_success_initiator1.vcd']
-Transcription:,Ha hah!,,Responses:,"[""Taunt: Flippin' Awesome""]"
+Full Path:,sound/vo/taunts/engy/eng_taunt_flip_end_08.mp3,,Scenes:,"['scenes/player/engineer/low/flip_success_initiator1.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd']"
+Transcription:,Ha hah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2843,8 +2843,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_head_end_07,,Events:,"['eng_taunt_headbutt_success_recover_1', 'engineer.scardy_cat_b', 'engy_taunt_neck_snap_05', 'taunt_burstchester_engineer_02', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_head_end_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
-Transcription:,Whoo!,,Responses:,"['Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: The Scaredy-Cat!']"
+Full Path:,sound/vo/taunts/engy/eng_taunt_head_end_07.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_neck_snap.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd']"
+Transcription:,Whoo!,,Responses:,"['Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: The Scaredy-Cat!', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2855,8 +2855,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_taunt_head_end_13,,Events:,"['eng_taunt_headbutt_success_recover_2', 'taunt_yeti_engineer']"
-Full Path:,sound/vo/taunts/engy/eng_taunt_head_end_13.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd']"
-Transcription:,All right!,,Responses:,"['Taunt: Skullcracker', ""Taunt: Texas Truckin'""]"
+Full Path:,sound/vo/taunts/engy/eng_taunt_head_end_13.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/engineer/low/yeti_taunt.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd']"
+Transcription:,All right!,,Responses:,"['Taunt: Skullcracker', ""Taunt: Texas Truckin'"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

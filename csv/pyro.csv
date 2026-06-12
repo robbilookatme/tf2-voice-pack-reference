@@ -665,8 +665,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_flip_admire_05,,Events:,"['pyro_taunt_commending_clap_b', 'pyro_taunt_flip_random_flipfinish', 'pyro_taunt_neck_snap_01', 'pyro_taunt_russian_rand', 'taunt_yeti_pyro']"
-Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd']"
-Transcription:,Come to me!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', 'Taunt: Neck Snap', 'Taunt: The Hot Wheeler']"
+Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_admire_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/player/pyro/low/yeti_taunt.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd']"
+Transcription:,Come to me!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', 'Taunt: Neck Snap', 'Taunt: The Hot Wheeler', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -713,8 +713,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_flip_fun_05,,Events:,"['pyro_taunt_flip_random_flipfinish', 'pyro_taunt_flip_random_intro', 'taunt_yeti_pyro']"
-Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd']"
-Transcription:,Hah da-ra!,,Responses:,"[""Taunt: Flippin' Awesome""]"
+Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/pyro/low/flip_start.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/yeti_taunt.vcd']"
+Transcription:,Hah da-ra!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -731,8 +731,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_flip_fun_10,,Events:,"['pyro_taunt_flip_random_flipadmire', 'pyro_taunt_flip_random_flipfinish', 'pyro_taunt_roasty_toasty_outro', 'pyro_taunt_russian_rand', 'taunt.skating_scorcher_trick', 'taunt_burstchester_pyro_happy', 'taunt_killer_joke_pyro_laugh', 'taunt_springrider_giggles', 'taunt_yeti_pyro']"
-Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd']"
-Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Burstchester', ""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Peace!', 'Taunt: Pool Party', 'Taunt: Roasty Toasty', 'Taunt: The Balloonibouncer', 'Taunt: The Hot Wheeler', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/pyro/pyro_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/player/pyro/low/flip_success_initiator1.vcd', 'scenes/player/pyro/low/flip_success_receiver0.vcd', 'scenes/player/pyro/low/flip_success_receiver1.vcd', 'scenes/player/pyro/low/taunt_aerobic_b.vcd', 'scenes/player/pyro/low/taunt_russian.vcd', 'scenes/player/pyro/low/taunt_vehicle_allclass.vcd', 'scenes/player/pyro/low/yeti_taunt.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_peace.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd']"
+Transcription:,Woo hoo hoo hoo hoo hoo!,,Responses:,"['Taunt: Burstchester', ""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Peace!', 'Taunt: Pool Party', 'Taunt: Roasty Toasty', 'Taunt: The Balloonibouncer', 'Taunt: The Hot Wheeler', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
