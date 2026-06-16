@@ -14,7 +14,7 @@ Filename:,klaxon1,,Events:,"['halloween.platformalarm', 'rd.enemystealingpoints'
 Full Path:,sound/ambient/alarms/klaxon1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,arrowlight,,Events:,[]
 Full Path:,sound/ambient/arrowlight.wav,,Scenes:,[]
@@ -596,13 +596,13 @@ Filename:,spark5,,Events:,"['breakable.computer', 'breakable.spark', 'medic.taun
 Full Path:,sound/ambient/energy/spark5.wav,,Scenes:,['scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']
 Transcription:,,,Responses:,"[""Taunt: Doctor's Defibrillators""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,spark6,,Events:,"['breakable.computer', 'breakable.spark', 'medic.taunt_doctors_defibrillators_spark']"
 Full Path:,sound/ambient/energy/spark6.wav,,Scenes:,['scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']
 Transcription:,,,Responses:,"[""Taunt: Doctor's Defibrillators""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,engine_idle,,Events:,[]
 Full Path:,sound/ambient/engine_idle.wav,,Scenes:,[]
@@ -632,7 +632,7 @@ Filename:,fire_small_loop2,,Events:,"['general.burningobject', 'player.onfire']"
 Full Path:,sound/ambient/fire/fire_small_loop2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,gascan_ignite1,,Events:,['propanetank.burst']
 Full Path:,sound/ambient/fire/gascan_ignite1.wav,,Scenes:,[]
@@ -4424,7 +4424,7 @@ Filename:,puthammerhere,,Events:,"['halloween.hammergearcrankfast', 'halloween.h
 Full Path:,sound/ambient_mp3/puthammerhere.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,barrier_smash,,Events:,['mvm.barriersmash']
 Full Path:,sound/ambient_mp3/rottenburg/barrier_smash.mp3,,Scenes:,[]
@@ -5108,13 +5108,13 @@ Filename:,null,,Events:,"['basecombatcharacter.stopweaponsounds', 'crocs.growl',
 Full Path:,sound/common/null.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wpn_denyselect,,Events:,"['player.denyweaponselection', 'player.usedeny']"
 Full Path:,sound/common/wpn_denyselect.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wpn_moveselect,,Events:,['player.weaponselectionmoveslot']
 Full Path:,sound/common/wpn_moveselect.wav,,Scenes:,[]
@@ -5132,7 +5132,7 @@ Filename:,default_locked,,Events:,"['doorsound.defaultlocked', 'rotdoorsound.def
 Full Path:,sound/doors/default_locked.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,door_metal_rusty_move1,,Events:,"['doorsound.defaultmove', 'rotdoorsound.defaultmove']"
 Full Path:,sound/doors/door_metal_rusty_move1.wav,,Scenes:,[]
@@ -5162,7 +5162,7 @@ Filename:,metal_stop1,,Events:,"['doorsound.defaultarrive', 'rotdoorsound.defaul
 Full Path:,sound/doors/metal_stop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,achievement_earned,,Events:,['achievement.earned']
 Full Path:,sound/misc/achievement_earned.wav,,Scenes:,[]
@@ -7022,19 +7022,19 @@ Filename:,body_medium_break2,,Events:,"['breakable.matflesh', 'flesh.break']"
 Full Path:,sound/physics/body/body_medium_break2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,body_medium_break3,,Events:,"['breakable.matflesh', 'flesh.break']"
 Full Path:,sound/physics/body/body_medium_break3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,body_medium_break4,,Events:,"['breakable.matflesh', 'flesh.break']"
 Full Path:,sound/physics/body/body_medium_break4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,body_medium_impact_hard1,,Events:,['flesh.impacthard']
 Full Path:,sound/physics/body/body_medium_impact_hard1.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
@@ -7214,31 +7214,31 @@ Filename:,cardboard_box_impact_soft1,,Events:,"['cardboard.impactsoft', 'cardboa
 Full Path:,sound/physics/cardboard/cardboard_box_impact_soft1.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
 Transcription:,,,Responses:,['Taunt: The Box Trot']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_box_impact_soft2,,Events:,"['cardboard.impactsoft', 'cardboard.stepleft']"
 Full Path:,sound/physics/cardboard/cardboard_box_impact_soft2.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
 Transcription:,,,Responses:,['Taunt: The Box Trot']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_box_impact_soft3,,Events:,"['cardboard.impactsoft', 'cardboard.stepright']"
 Full Path:,sound/physics/cardboard/cardboard_box_impact_soft3.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
 Transcription:,,,Responses:,['Taunt: The Box Trot']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_box_impact_soft4,,Events:,"['cardboard.impactsoft', 'cardboard.stepright']"
 Full Path:,sound/physics/cardboard/cardboard_box_impact_soft4.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
 Transcription:,,,Responses:,['Taunt: The Box Trot']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_box_scrape_rough_loop1,,Events:,"['cardboard.scraperough', 'dirt.scrape']"
 Full Path:,sound/physics/cardboard/cardboard_box_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_box_scrape_smooth_loop1,,Events:,['cardboard.scrapesmooth']
 Full Path:,sound/physics/cardboard/cardboard_box_scrape_smooth_loop1.wav,,Scenes:,[]
@@ -7286,19 +7286,19 @@ Filename:,cardboard_cup_impact_hard1,,Events:,"['papercup.impact', 'papercup.scr
 Full Path:,sound/physics/cardboard/cardboard_cup_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_cup_impact_hard2,,Events:,"['papercup.impact', 'papercup.scrape']"
 Full Path:,sound/physics/cardboard/cardboard_cup_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,cardboard_cup_impact_hard3,,Events:,"['papercup.impact', 'papercup.scrape']"
 Full Path:,sound/physics/cardboard/cardboard_cup_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,boulder_impact_hard1,,Events:,['boulder.impacthard']
 Full Path:,sound/physics/concrete/boulder_impact_hard1.wav,,Scenes:,['scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']
@@ -7346,7 +7346,7 @@ Filename:,concrete_break2,,Events:,"['bounce.concrete', 'breakable.concrete', 'b
 Full Path:,sound/physics/concrete/concrete_break2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,concrete_break3,,Events:,['breakable.concrete']
 Full Path:,sound/physics/concrete/concrete_break3.wav,,Scenes:,[]
@@ -7358,25 +7358,25 @@ Filename:,concrete_impact_bullet1,,Events:,"['concrete.bulletimpact', 'default.b
 Full Path:,sound/physics/concrete/concrete_impact_bullet1.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,concrete_impact_bullet2,,Events:,"['concrete.bulletimpact', 'default.bulletimpact']"
 Full Path:,sound/physics/concrete/concrete_impact_bullet2.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,concrete_impact_bullet3,,Events:,"['concrete.bulletimpact', 'default.bulletimpact']"
 Full Path:,sound/physics/concrete/concrete_impact_bullet3.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,concrete_impact_bullet4,,Events:,"['concrete.bulletimpact', 'default.bulletimpact']"
 Full Path:,sound/physics/concrete/concrete_impact_bullet4.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd', 'scenes/workshop/player/spy/low/taunt_flying_colors.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Flying Colors']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,concrete_impact_flare1,,Events:,['default.flareimpact']
 Full Path:,sound/physics/concrete/concrete_impact_flare1.wav,,Scenes:,[]
@@ -7454,7 +7454,7 @@ Filename:,rock_impact_hard2,,Events:,"['boulder.impactsoft', 'pyro_taunt_roasty_
 Full Path:,sound/physics/concrete/rock_impact_hard2.wav,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd', 'scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd']"
 Transcription:,,,Responses:,"['Taunt: Mourning Mercs', 'Taunt: Roasty Toasty', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,rock_impact_hard3,,Events:,['boulder.impactsoft']
 Full Path:,sound/physics/concrete/rock_impact_hard3.wav,,Scenes:,['scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']
@@ -7502,7 +7502,7 @@ Filename:,rock_scrape_rough_loop1,,Events:,"['boulder.scrapesmooth', 'concrete.s
 Full Path:,sound/physics/concrete/rock_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_bloody_break,,Events:,['breakable.flesh']
 Full Path:,sound/physics/flesh/flesh_bloody_break.wav,,Scenes:,['scenes/player/scout/low/taunt_yetipunch.vcd']
@@ -7562,67 +7562,67 @@ Filename:,flesh_squishy_impact_hard2,,Events:,"['basecombatcharacter.corpsegib',
 Full Path:,sound/physics/flesh/flesh_squishy_impact_hard2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_squishy_impact_hard3,,Events:,"['bounce.flesh', 'flesh_bloody.impacthard', 'watermelon.bulletimpact', 'watermelon.impact']"
 Full Path:,sound/physics/flesh/flesh_squishy_impact_hard3.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_squishy_impact_hard4,,Events:,"['bounce.flesh', 'flesh_bloody.impacthard', 'watermelon.bulletimpact', 'watermelon.impact', 'watermelon.scrape']"
 Full Path:,sound/physics/flesh/flesh_squishy_impact_hard4.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_burstchester.vcd']
 Transcription:,,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_strider_impact_bullet1,,Events:,"['strider.impact', 'strider.scrape']"
 Full Path:,sound/physics/flesh/flesh_strider_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_strider_impact_bullet2,,Events:,"['strider.impact', 'strider.scrape']"
 Full Path:,sound/physics/flesh/flesh_strider_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,flesh_strider_impact_bullet3,,Events:,"['strider.impact', 'strider.scrape']"
 Full Path:,sound/physics/flesh/flesh_strider_impact_bullet3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_bottle_break1,,Events:,"['glassbottle.break', 'glassbottle.bulletimpact']"
 Full Path:,sound/physics/glass/glass_bottle_break1.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']
 Transcription:,,,Responses:,"[""Taunt: Dead Mann's Drink""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_bottle_break2,,Events:,"['breakable.matglass', 'glassbottle.break', 'glassbottle.bulletimpact']"
 Full Path:,sound/physics/glass/glass_bottle_break2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd']
 Transcription:,,,Responses:,"[""Taunt: Dead Mann's Drink""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_bottle_impact_hard1,,Events:,"['glassbottle.impacthard', 'glassbottle.scraperough']"
 Full Path:,sound/physics/glass/glass_bottle_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_bottle_impact_hard2,,Events:,"['glassbottle.impacthard', 'glassbottle.scraperough']"
 Full Path:,sound/physics/glass/glass_bottle_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_bottle_impact_hard3,,Events:,"['glassbottle.impacthard', 'glassbottle.scraperough']"
 Full Path:,sound/physics/glass/glass_bottle_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_cup_break1,,Events:,['breakable.matglass']
 Full Path:,sound/physics/glass/glass_cup_break1.wav,,Scenes:,[]
@@ -7640,13 +7640,13 @@ Filename:,glass_impact_bullet1,,Events:,"['computer.bulletimpact', 'glass.bullet
 Full Path:,sound/physics/glass/glass_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_bullet2,,Events:,"['computer.bulletimpact', 'glass.bulletimpact']"
 Full Path:,sound/physics/glass/glass_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_bullet3,,Events:,['glass.bulletimpact']
 Full Path:,sound/physics/glass/glass_impact_bullet3.wav,,Scenes:,[]
@@ -7664,37 +7664,37 @@ Filename:,glass_impact_hard1,,Events:,"['bounce.glass', 'pottery.impacthard']"
 Full Path:,sound/physics/glass/glass_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_hard2,,Events:,"['bounce.glass', 'pottery.impacthard']"
 Full Path:,sound/physics/glass/glass_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_hard3,,Events:,"['bounce.glass', 'pottery.impacthard']"
 Full Path:,sound/physics/glass/glass_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_soft1,,Events:,"['glassbottle.impactsoft', 'glassbottle.scrapesmooth', 'glassbottle.stepleft', 'pottery.impactsoft']"
 Full Path:,sound/physics/glass/glass_impact_soft1.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Shooter's Stakeout"", 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_soft2,,Events:,"['glassbottle.impactsoft', 'glassbottle.scrapesmooth', 'glassbottle.stepleft', 'glassbottle.stepright', 'pottery.impactsoft']"
 Full Path:,sound/physics/glass/glass_impact_soft2.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Shooter's Stakeout"", 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_impact_soft3,,Events:,"['glassbottle.impactsoft', 'glassbottle.scrapesmooth', 'glassbottle.stepright', 'pottery.impactsoft']"
 Full Path:,sound/physics/glass/glass_impact_soft3.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_shipwheel.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
 Transcription:,,,Responses:,['Taunt: The Drunken Sailor']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_largesheet_break1,,Events:,['breakable.glass']
 Full Path:,sound/physics/glass/glass_largesheet_break1.wav,,Scenes:,[]
@@ -7718,19 +7718,19 @@ Filename:,glass_pottery_break1,,Events:,"['pottery.break', 'pottery.bulletimpact
 Full Path:,sound/physics/glass/glass_pottery_break1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_pottery_break2,,Events:,"['pottery.break', 'pottery.bulletimpact']"
 Full Path:,sound/physics/glass/glass_pottery_break2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_pottery_break3,,Events:,"['pottery.break', 'pottery.bulletimpact']"
 Full Path:,sound/physics/glass/glass_pottery_break3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_break1,,Events:,['glass.break']
 Full Path:,sound/physics/glass/glass_sheet_break1.wav,,Scenes:,[]
@@ -7754,37 +7754,37 @@ Filename:,glass_sheet_impact_hard1,,Events:,"['glass.impacthard', 'glass.scraper
 Full Path:,sound/physics/glass/glass_sheet_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_impact_hard2,,Events:,"['glass.impacthard', 'glass.scraperough']"
 Full Path:,sound/physics/glass/glass_sheet_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_impact_hard3,,Events:,"['glass.impacthard', 'glass.scraperough']"
 Full Path:,sound/physics/glass/glass_sheet_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_impact_soft1,,Events:,"['glass.impactsoft', 'glass.scrapesmooth']"
 Full Path:,sound/physics/glass/glass_sheet_impact_soft1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_impact_soft2,,Events:,"['glass.impactsoft', 'glass.scrapesmooth']"
 Full Path:,sound/physics/glass/glass_sheet_impact_soft2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_impact_soft3,,Events:,"['glass.impactsoft', 'glass.scrapesmooth']"
 Full Path:,sound/physics/glass/glass_sheet_impact_soft3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,glass_sheet_step1,,Events:,['glass.stepleft']
 Full Path:,sound/physics/glass/glass_sheet_step1.wav,,Scenes:,[]
@@ -7814,7 +7814,7 @@ Filename:,canister_roll_loop1,,Events:,"['canister.roll', 'metal_barrel.roll']"
 Full Path:,sound/physics/metal/canister_roll_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,canister_scrape_rough_loop1,,Events:,['canister.scraperough']
 Full Path:,sound/physics/metal/canister_scrape_rough_loop1.wav,,Scenes:,[]
@@ -7832,13 +7832,13 @@ Filename:,chain_impact_hard1,,Events:,"['chain.bulletimpact', 'chain.impacthard'
 Full Path:,sound/physics/metal/chain_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,chain_impact_hard2,,Events:,"['chain.bulletimpact', 'chain.impacthard']"
 Full Path:,sound/physics/metal/chain_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,chain_impact_soft1,,Events:,['chain.impactsoft']
 Full Path:,sound/physics/metal/chain_impact_soft1.wav,,Scenes:,[]
@@ -7862,7 +7862,7 @@ Filename:,chain_scrape_rough_loop1,,Events:,"['chain.scraperough', 'chain.scrape
 Full Path:,sound/physics/metal/chain_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_barrel_impact_hard1,,Events:,['metal_barrel.impacthard']
 Full Path:,sound/physics/metal/metal_barrel_impact_hard1.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_killer_joke.vcd']
@@ -7910,13 +7910,13 @@ Filename:,metal_box_break1,,Events:,"['breakable.matmetal', 'breakable.metal', '
 Full Path:,sound/physics/metal/metal_box_break1.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd']
 Transcription:,,,Responses:,['Taunt: Bare Knuckle Beatdown']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_break2,,Events:,"['breakable.matmetal', 'breakable.metal', 'metal_box.break']"
 Full Path:,sound/physics/metal/metal_box_break2.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd']
 Transcription:,,,Responses:,['Taunt: Bare Knuckle Beatdown']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_footstep1,,Events:,['metal_box.stepleft']
 Full Path:,sound/physics/metal/metal_box_footstep1.wav,,Scenes:,[]
@@ -7964,25 +7964,25 @@ Filename:,metal_box_impact_hard1,,Events:,"['bounce.metal', 'metal_box.impacthar
 Full Path:,sound/physics/metal/metal_box_impact_hard1.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_impact_hard2,,Events:,"['bounce.metal', 'metal_box.impacthard']"
 Full Path:,sound/physics/metal/metal_box_impact_hard2.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_impact_hard3,,Events:,"['bounce.metal', 'metal_box.impacthard']"
 Full Path:,sound/physics/metal/metal_box_impact_hard3.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_impact_soft1,,Events:,"['metal_box.impactsoft', 'soldier_tauntcan_it_metal_box_impact_soft1']"
 Full Path:,sound/physics/metal/metal_box_impact_soft1.wav,,Scenes:,['scenes/workshop/player/soldier/low/tauntcan_it.vcd']
 Transcription:,,,Responses:,['Taunt: Can It!']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_impact_soft2,,Events:,['metal_box.impactsoft']
 Full Path:,sound/physics/metal/metal_box_impact_soft2.wav,,Scenes:,[]
@@ -8000,13 +8000,13 @@ Filename:,metal_box_scrape_rough_loop1,,Events:,"['metal_box.scraperough', 'meta
 Full Path:,sound/physics/metal/metal_box_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_scrape_smooth_loop1,,Events:,"['metal_box.scrapesmooth', 'metalgrate.scrapesmooth', 'solidmetal.scrapesmooth']"
 Full Path:,sound/physics/metal/metal_box_scrape_smooth_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_box_strain2,,Events:,['metal_box.strain']
 Full Path:,sound/physics/metal/metal_box_strain2.wav,,Scenes:,[]
@@ -8072,13 +8072,13 @@ Filename:,metal_chainlink_impact_hard2,,Events:,"['chainlink.bulletimpact', 'cha
 Full Path:,sound/physics/metal/metal_chainlink_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_chainlink_impact_hard3,,Events:,"['chainlink.bulletimpact', 'chainlink.impacthard']"
 Full Path:,sound/physics/metal/metal_chainlink_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_chainlink_impact_soft1,,Events:,['chainlink.impactsoft']
 Full Path:,sound/physics/metal/metal_chainlink_impact_soft1.wav,,Scenes:,[]
@@ -8102,13 +8102,13 @@ Filename:,metal_chainlink_scrape_rough_loop1,,Events:,"['chainlink.scraperough',
 Full Path:,sound/physics/metal/metal_chainlink_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_computer_impact_bullet1,,Events:,"['computer.bulletimpact', 'weapon.bulletimpact']"
 Full Path:,sound/physics/metal/metal_computer_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_computer_impact_bullet2,,Events:,['computer.bulletimpact']
 Full Path:,sound/physics/metal/metal_computer_impact_bullet2.wav,,Scenes:,[]
@@ -8120,7 +8120,7 @@ Filename:,metal_computer_impact_bullet3,,Events:,"['computer.bulletimpact', 'wea
 Full Path:,sound/physics/metal/metal_computer_impact_bullet3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_computer_impact_hard1,,Events:,['computer.impacthard']
 Full Path:,sound/physics/metal/metal_computer_impact_hard1.wav,,Scenes:,[]
@@ -8234,13 +8234,13 @@ Filename:,metal_sheet_impact_bullet1,,Events:,"['armorflesh.bulletimpact', 'meta
 Full Path:,sound/physics/metal/metal_sheet_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_sheet_impact_bullet2,,Events:,"['armorflesh.bulletimpact', 'metal_barrel.bulletimpact', 'metalgrate.bulletimpact']"
 Full Path:,sound/physics/metal/metal_sheet_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_sheet_impact_hard6,,Events:,['metalvent.impacthard']
 Full Path:,sound/physics/metal/metal_sheet_impact_hard6.wav,,Scenes:,[]
@@ -8264,31 +8264,31 @@ Filename:,metal_solid_impact_bullet1,,Events:,"['mvm_giant.bulletimpact', 'mvm_r
 Full Path:,sound/physics/metal/metal_solid_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_solid_impact_bullet2,,Events:,"['metal_barrel.bulletimpact', 'metalgrate.bulletimpact', 'mvm_giant.bulletimpact', 'mvm_robot.bulletimpact', 'mvm_tank.bulletimpact', 'roller.impact', 'solidmetal.bulletimpact']"
 Full Path:,sound/physics/metal/metal_solid_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_solid_impact_bullet3,,Events:,"['metal_barrel.bulletimpact', 'mvm_giant.bulletimpact', 'mvm_robot.bulletimpact', 'mvm_tank.bulletimpact', 'roller.impact', 'solidmetal.bulletimpact']"
 Full Path:,sound/physics/metal/metal_solid_impact_bullet3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_solid_impact_bullet4,,Events:,"['mvm_giant.bulletimpact', 'mvm_robot.bulletimpact', 'mvm_tank.bulletimpact', 'roller.impact', 'solidmetal.bulletimpact']"
 Full Path:,sound/physics/metal/metal_solid_impact_bullet4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_solid_impact_hard1,,Events:,"['gunship.impact', 'gunship.scrape', 'solidmetal.impacthard']"
 Full Path:,sound/physics/metal/metal_solid_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,metal_solid_impact_hard4,,Events:,['solidmetal.impacthard']
 Full Path:,sound/physics/metal/metal_solid_impact_hard4.wav,,Scenes:,[]
@@ -8402,19 +8402,19 @@ Filename:,soda_can_impact_hard1,,Events:,"['popcan.bulletimpact', 'popcan.impact
 Full Path:,sound/physics/metal/soda_can_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,soda_can_impact_hard2,,Events:,"['popcan.bulletimpact', 'popcan.impacthard']"
 Full Path:,sound/physics/metal/soda_can_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,soda_can_impact_hard3,,Events:,"['popcan.bulletimpact', 'popcan.impacthard']"
 Full Path:,sound/physics/metal/soda_can_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,soda_can_impact_soft1,,Events:,['popcan.impactsoft']
 Full Path:,sound/physics/metal/soda_can_impact_soft1.wav,,Scenes:,['scenes/workshop/player/sniper/low/taunt_cheers.vcd']
@@ -8438,7 +8438,7 @@ Filename:,soda_can_scrape_rough_loop1,,Events:,"['popcan.scraperough', 'weapon.s
 Full Path:,sound/physics/metal/soda_can_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,weapon_footstep1,,Events:,['weapon.stepleft']
 Full Path:,sound/physics/metal/weapon_footstep1.wav,,Scenes:,[]
@@ -8456,19 +8456,19 @@ Filename:,weapon_impact_hard1,,Events:,"['basecombatweapon.weapondrop', 'weapon.
 Full Path:,sound/physics/metal/weapon_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,weapon_impact_hard2,,Events:,"['basecombatweapon.weapondrop', 'weapon.impacthard']"
 Full Path:,sound/physics/metal/weapon_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,weapon_impact_hard3,,Events:,"['basecombatweapon.weapondrop', 'weapon.impacthard']"
 Full Path:,sound/physics/metal/weapon_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,weapon_impact_soft1,,Events:,['weapon.impactsoft']
 Full Path:,sound/physics/metal/weapon_impact_soft1.wav,,Scenes:,[]
@@ -8546,7 +8546,7 @@ Filename:,ceiling_tile_scrape_smooth_loop1,,Events:,"['ceiling_tile.scraperough'
 Full Path:,sound/physics/plaster/ceiling_tile_scrape_smooth_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,ceiling_tile_step1,,Events:,['ceiling_tile.stepleft']
 Full Path:,sound/physics/plaster/ceiling_tile_step1.wav,,Scenes:,[]
@@ -8576,13 +8576,13 @@ Filename:,ceilingtile_break1,,Events:,"['breakable.ceiling', 'ceiling_tile.break
 Full Path:,sound/physics/plaster/ceilingtile_break1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,ceilingtile_break2,,Events:,"['breakable.ceiling', 'ceiling_tile.break']"
 Full Path:,sound/physics/plaster/ceilingtile_break2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,drywall_footstep1,,Events:,['drywall.stepleft']
 Full Path:,sound/physics/plaster/drywall_footstep1.wav,,Scenes:,[]
@@ -8696,25 +8696,25 @@ Filename:,plastic_barrel_impact_soft1,,Events:,"['plastic_barrel.impactsoft', 'p
 Full Path:,sound/physics/plastic/plastic_barrel_impact_soft1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_barrel_impact_soft2,,Events:,"['plastic_barrel.impactsoft', 'plastic_barrel.stepleft']"
 Full Path:,sound/physics/plastic/plastic_barrel_impact_soft2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_barrel_impact_soft3,,Events:,"['plastic_barrel.impactsoft', 'plastic_barrel.stepright']"
 Full Path:,sound/physics/plastic/plastic_barrel_impact_soft3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_barrel_impact_soft4,,Events:,"['plastic_barrel.impactsoft', 'plastic_barrel.stepright']"
 Full Path:,sound/physics/plastic/plastic_barrel_impact_soft4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_barrel_roll_loop1,,Events:,['plastic_barrel.roll']
 Full Path:,sound/physics/plastic/plastic_barrel_roll_loop1.wav,,Scenes:,[]
@@ -8768,19 +8768,19 @@ Filename:,plastic_box_impact_bullet1,,Events:,"['computer.bulletimpact', 'plasti
 Full Path:,sound/physics/plastic/plastic_box_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_bullet2,,Events:,"['computer.bulletimpact', 'plastic_box.bulletimpact']"
 Full Path:,sound/physics/plastic/plastic_box_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_bullet3,,Events:,"['computer.bulletimpact', 'plastic_box.bulletimpact']"
 Full Path:,sound/physics/plastic/plastic_box_impact_bullet3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_bullet4,,Events:,['plastic_box.bulletimpact']
 Full Path:,sound/physics/plastic/plastic_box_impact_bullet4.wav,,Scenes:,[]
@@ -8792,25 +8792,25 @@ Filename:,plastic_box_impact_bullet5,,Events:,"['plastic_box.bulletimpact', 'wea
 Full Path:,sound/physics/plastic/plastic_box_impact_bullet5.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_hard1,,Events:,"['default.impacthard', 'plastic_box.impacthard']"
 Full Path:,sound/physics/plastic/plastic_box_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_hard2,,Events:,"['default.impacthard', 'plastic_box.impacthard']"
 Full Path:,sound/physics/plastic/plastic_box_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_hard3,,Events:,"['default.impacthard', 'plastic_box.impacthard']"
 Full Path:,sound/physics/plastic/plastic_box_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_hard4,,Events:,['plastic_box.impacthard']
 Full Path:,sound/physics/plastic/plastic_box_impact_hard4.wav,,Scenes:,[]
@@ -8822,25 +8822,25 @@ Filename:,plastic_box_impact_soft1,,Events:,"['plastic_box.impactsoft', 'plastic
 Full Path:,sound/physics/plastic/plastic_box_impact_soft1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_soft2,,Events:,"['default.impactsoft', 'plastic_box.impactsoft', 'plastic_box.stepleft']"
 Full Path:,sound/physics/plastic/plastic_box_impact_soft2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_soft3,,Events:,"['default.impactsoft', 'plastic_box.impactsoft', 'plastic_box.stepright']"
 Full Path:,sound/physics/plastic/plastic_box_impact_soft3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_impact_soft4,,Events:,"['default.impactsoft', 'plastic_box.impactsoft', 'plastic_box.stepright']"
 Full Path:,sound/physics/plastic/plastic_box_impact_soft4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_scrape_rough_loop1,,Events:,['plastic_box.scraperough']
 Full Path:,sound/physics/plastic/plastic_box_scrape_rough_loop1.wav,,Scenes:,[]
@@ -8858,7 +8858,7 @@ Filename:,plastic_box_scrape_smooth_loop2,,Events:,"['default.scrapesmooth', 'pl
 Full Path:,sound/physics/plastic/plastic_box_scrape_smooth_loop2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,plastic_box_strain1,,Events:,['plastic_box.strain']
 Full Path:,sound/physics/plastic/plastic_box_strain1.wav,,Scenes:,[]
@@ -8882,7 +8882,7 @@ Filename:,rubber_tire_impact_bullet1,,Events:,"['rubber.bulletimpact', 'rubber_t
 Full Path:,sound/physics/rubber/rubber_tire_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,rubber_tire_impact_bullet2,,Events:,['rubber_tire.bulletimpact']
 Full Path:,sound/physics/rubber/rubber_tire_impact_bullet2.wav,,Scenes:,[]
@@ -8912,13 +8912,13 @@ Filename:,rubber_tire_impact_hard3,,Events:,"['rubber.impacthard', 'rubber_tire.
 Full Path:,sound/physics/rubber/rubber_tire_impact_hard3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,rubber_tire_impact_soft1,,Events:,"['rubber.impactsoft', 'rubber.stepleft', 'rubber.stepright', 'rubber_tire.impactsoft']"
 Full Path:,sound/physics/rubber/rubber_tire_impact_soft1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,rubber_tire_impact_soft2,,Events:,['rubber_tire.impactsoft']
 Full Path:,sound/physics/rubber/rubber_tire_impact_soft2.wav,,Scenes:,[]
@@ -8954,25 +8954,25 @@ Filename:,sand_impact_bullet1,,Events:,"['carpet.bulletimpact', 'dirt.bulletimpa
 Full Path:,sound/physics/surfaces/sand_impact_bullet1.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sand_impact_bullet2,,Events:,"['carpet.bulletimpact', 'dirt.bulletimpact', 'dirt.impact', 'sand.bulletimpact']"
 Full Path:,sound/physics/surfaces/sand_impact_bullet2.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sand_impact_bullet3,,Events:,"['carpet.bulletimpact', 'dirt.bulletimpact', 'sand.bulletimpact']"
 Full Path:,sound/physics/surfaces/sand_impact_bullet3.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sand_impact_bullet4,,Events:,"['carpet.bulletimpact', 'dirt.bulletimpact', 'sand.bulletimpact']"
 Full Path:,sound/physics/surfaces/sand_impact_bullet4.wav,,Scenes:,"['scenes/player/heavy/low/flip_success_receiver0.vcd', 'scenes/player/heavy/low/flip_success_receiver1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,tile_impact_bullet1,,Events:,['tile.bulletimpact']
 Full Path:,sound/physics/surfaces/tile_impact_bullet1.wav,,Scenes:,[]
@@ -9020,7 +9020,7 @@ Filename:,wood_box_break1,,Events:,"['wood_box.break', 'wood_panel.break']"
 Full Path:,sound/physics/wood/wood_box_break1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_break2,,Events:,['wood_box.break']
 Full Path:,sound/physics/wood/wood_box_break2.wav,,Scenes:,[]
@@ -9032,73 +9032,73 @@ Filename:,wood_box_footstep1,,Events:,"['wood_box.stepleft', 'wood_crate.steplef
 Full Path:,sound/physics/wood/wood_box_footstep1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_footstep2,,Events:,"['wood_box.stepleft', 'wood_crate.stepleft']"
 Full Path:,sound/physics/wood/wood_box_footstep2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_footstep3,,Events:,"['wood_box.stepright', 'wood_crate.stepright']"
 Full Path:,sound/physics/wood/wood_box_footstep3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_footstep4,,Events:,"['wood_box.stepright', 'wood_crate.stepright']"
 Full Path:,sound/physics/wood/wood_box_footstep4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_bullet1,,Events:,"['wood_box.bulletimpact', 'wood_panel.bulletimpact', 'wood_plank.bulletimpact']"
 Full Path:,sound/physics/wood/wood_box_impact_bullet1.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_bullet2,,Events:,"['wood_box.bulletimpact', 'wood_panel.bulletimpact', 'wood_plank.bulletimpact']"
 Full Path:,sound/physics/wood/wood_box_impact_bullet2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_bullet3,,Events:,"['wood_box.bulletimpact', 'wood_panel.bulletimpact', 'wood_plank.bulletimpact']"
 Full Path:,sound/physics/wood/wood_box_impact_bullet3.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_bullet4,,Events:,"['wood_box.bulletimpact', 'wood_panel.bulletimpact', 'wood_plank.bulletimpact']"
 Full Path:,sound/physics/wood/wood_box_impact_bullet4.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_hard1,,Events:,"['wood.impacthard', 'wood_box.impacthard']"
 Full Path:,sound/physics/wood/wood_box_impact_hard1.wav,,Scenes:,"['scenes/player/items/taunts/taunt_table_flip_prop_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Scorcher's Solo"", 'Taunt: The Boiling Point', 'Taunt: The Crypt Creeper', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_hard2,,Events:,"['wood.impacthard', 'wood_box.impacthard']"
 Full Path:,sound/physics/wood/wood_box_impact_hard2.wav,,Scenes:,"['scenes/player/items/taunts/taunt_table_flip_prop_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Scorcher's Solo"", 'Taunt: The Boiling Point', 'Taunt: The Crypt Creeper', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_hard3,,Events:,"['wood.impacthard', 'wood_box.impacthard']"
 Full Path:,sound/physics/wood/wood_box_impact_hard3.wav,,Scenes:,"['scenes/player/items/taunts/taunt_table_flip_prop_intro.vcd', 'scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Scorcher's Solo"", 'Taunt: The Boiling Point', 'Taunt: The Crypt Creeper', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_soft1,,Events:,"['wood.impactsoft', 'wood_box.impactsoft', 'wood_panel.impactsoft']"
 Full Path:,sound/physics/wood/wood_box_impact_soft1.wav,,Scenes:,['scenes/player/items/taunts/yeti_standee_soldierbreak.vcd']
 Transcription:,,,Responses:,['Taunt: Yeti Punch']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_impact_soft2,,Events:,['wood_box.impactsoft']
 Full Path:,sound/physics/wood/wood_box_impact_soft2.wav,,Scenes:,[]
@@ -9110,25 +9110,25 @@ Filename:,wood_box_impact_soft3,,Events:,"['wood_box.impactsoft', 'wood_panel.im
 Full Path:,sound/physics/wood/wood_box_impact_soft3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_scrape_rough_loop1,,Events:,"['wood_box.scraperough', 'wood_panel.scraperough']"
 Full Path:,sound/physics/wood/wood_box_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_box_scrape_smooth_loop1,,Events:,"['wood_box.scrapesmooth', 'wood_crate.scrapesmooth', 'wood_panel.scrapesmooth']"
 Full Path:,sound/physics/wood/wood_box_scrape_smooth_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_crate_break1,,Events:,"['breakable.crate', 'wood_crate.break']"
 Full Path:,sound/physics/wood/wood_crate_break1.wav,,Scenes:,"['scenes/player/demoman/low/taunt_yetipunch.vcd', 'scenes/player/heavy/low/taunt_yetipunch.vcd', 'scenes/player/medic/low/taunt_yetipunch.vcd', 'scenes/player/scout/low/taunt_yetipunch.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/player/spy/low/taunt_yetipunch.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
 Transcription:,,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_crate_break2,,Events:,['wood_crate.break']
 Full Path:,sound/physics/wood/wood_crate_break2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']
@@ -9176,7 +9176,7 @@ Filename:,wood_crate_impact_soft2,,Events:,"['wood_crate.impactsoft', 'wood_pane
 Full Path:,sound/physics/wood/wood_crate_impact_soft2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_crate_impact_soft3,,Events:,['wood_crate.impactsoft']
 Full Path:,sound/physics/wood/wood_crate_impact_soft3.wav,,Scenes:,[]
@@ -9206,7 +9206,7 @@ Filename:,wood_furniture_impact_soft1,,Events:,"['pyro_taunt_roasty_toasty_wood_
 Full Path:,sound/physics/wood/wood_furniture_impact_soft1.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']
 Transcription:,,,Responses:,['Taunt: Roasty Toasty']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_furniture_impact_soft2,,Events:,['wood_furniture.impactsoft']
 Full Path:,sound/physics/wood/wood_furniture_impact_soft2.wav,,Scenes:,[]
@@ -9230,13 +9230,13 @@ Filename:,wood_panel_impact_hard1,,Events:,"['wood_crate.impacthard', 'wood_pane
 Full Path:,sound/physics/wood/wood_panel_impact_hard1.wav,,Scenes:,"['scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_outro.vcd']"
 Transcription:,,,Responses:,['Taunt: The Crypt Creeper']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_break1,,Events:,"['breakable.matwood', 'wood_plank.break', 'wood_solid.break']"
 Full Path:,sound/physics/wood/wood_plank_break1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_break2,,Events:,['wood.break']
 Full Path:,sound/physics/wood/wood_plank_break2.wav,,Scenes:,[]
@@ -9248,25 +9248,25 @@ Filename:,wood_plank_break3,,Events:,"['breakable.matwood', 'wood.break', 'wood_
 Full Path:,sound/physics/wood/wood_plank_break3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_break4,,Events:,"['breakable.matwood', 'wood.break', 'wood_plank.break']"
 Full Path:,sound/physics/wood/wood_plank_break4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_impact_hard1,,Events:,"['bounce.wood', 'wood_plank.impacthard']"
 Full Path:,sound/physics/wood/wood_plank_impact_hard1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_impact_hard2,,Events:,"['bounce.wood', 'wood_plank.impacthard']"
 Full Path:,sound/physics/wood/wood_plank_impact_hard2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_impact_hard3,,Events:,['bounce.wood']
 Full Path:,sound/physics/wood/wood_plank_impact_hard3.wav,,Scenes:,[]
@@ -9284,7 +9284,7 @@ Filename:,wood_plank_impact_soft1,,Events:,"['wood.impactsoft', 'wood_plank.impa
 Full Path:,sound/physics/wood/wood_plank_impact_soft1.wav,,Scenes:,['scenes/player/items/taunts/yeti_standee_soldierbreak.vcd']
 Transcription:,,,Responses:,['Taunt: Yeti Punch']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_plank_impact_soft2,,Events:,['wood_plank.impactsoft']
 Full Path:,sound/physics/wood/wood_plank_impact_soft2.wav,,Scenes:,[]
@@ -9308,43 +9308,43 @@ Filename:,wood_plank_scrape_smooth_loop1,,Events:,"['wood.scrapesmooth', 'wood_p
 Full Path:,sound/physics/wood/wood_plank_scrape_smooth_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_bullet1,,Events:,"['wood.bulletimpact', 'wood_solid.bulletimpact']"
 Full Path:,sound/physics/wood/wood_solid_impact_bullet1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_bullet2,,Events:,"['wood.bulletimpact', 'wood_solid.bulletimpact']"
 Full Path:,sound/physics/wood/wood_solid_impact_bullet2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_bullet3,,Events:,"['wood.bulletimpact', 'wood_solid.bulletimpact']"
 Full Path:,sound/physics/wood/wood_solid_impact_bullet3.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_bullet4,,Events:,"['wood.bulletimpact', 'wood_solid.bulletimpact']"
 Full Path:,sound/physics/wood/wood_solid_impact_bullet4.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_bullet5,,Events:,"['wood.bulletimpact', 'wood_solid.bulletimpact']"
 Full Path:,sound/physics/wood/wood_solid_impact_bullet5.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_hard1,,Events:,"['pyro_taunt_roasty_toasty_wood_solid_impact_hard1', 'wood_solid.impacthard']"
 Full Path:,sound/physics/wood/wood_solid_impact_hard1.wav,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/soldier/low/taunt_cheers.vcd']"
 Transcription:,,,Responses:,"['Taunt: Cheers!', 'Taunt: Roasty Toasty']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_hard2,,Events:,['wood_solid.impacthard']
 Full Path:,sound/physics/wood/wood_solid_impact_hard2.wav,,Scenes:,[]
@@ -9368,7 +9368,7 @@ Filename:,wood_solid_impact_soft2,,Events:,"['pyro_taunt_roasty_toasty_wood_soli
 Full Path:,sound/physics/wood/wood_solid_impact_soft2.wav,,Scenes:,"['scenes/player/items/taunts/yeti_standee_soldierbreak.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd', 'scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd']"
 Transcription:,,,Responses:,"['Taunt: Mourning Mercs', 'Taunt: Roasty Toasty', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_solid_impact_soft3,,Events:,['wood_solid.impactsoft']
 Full Path:,sound/physics/wood/wood_solid_impact_soft3.wav,,Scenes:,[]
@@ -9380,25 +9380,25 @@ Filename:,wood_solid_scrape_rough_loop1,,Events:,"['wood.scraperough', 'wood_sol
 Full Path:,sound/physics/wood/wood_solid_scrape_rough_loop1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_strain2,,Events:,"['wood.strain', 'wood_box.strain', 'wood_crate.strain', 'wood_furniture.strain', 'wood_panel.strain', 'wood_plank.strain', 'wood_solid.strain']"
 Full Path:,sound/physics/wood/wood_strain2.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_strain3,,Events:,"['wood.strain', 'wood_box.strain', 'wood_crate.strain', 'wood_furniture.strain', 'wood_panel.strain', 'wood_plank.strain', 'wood_solid.strain']"
 Full Path:,sound/physics/wood/wood_strain3.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,wood_strain4,,Events:,"['wood.strain', 'wood_box.strain', 'wood_crate.strain', 'wood_furniture.strain', 'wood_panel.strain', 'wood_plank.strain', 'wood_solid.strain']"
 Full Path:,sound/physics/wood/wood_strain4.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd']
 Transcription:,,,Responses:,['Taunt: The Pooped Deck']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,alarm_clock_alarm_3,,Events:,[]
 Full Path:,sound/pl_hoodoo/alarm_clock_alarm_3.wav,,Scenes:,[]
@@ -10364,7 +10364,7 @@ Filename:,pl_drown1,,Events:,"['player.drowncontinue', 'player.drownstart']"
 Full Path:,sound/player/pl_drown1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,pl_drown2,,Events:,['player.drowncontinue']
 Full Path:,sound/player/pl_drown2.wav,,Scenes:,[]
@@ -11156,7 +11156,7 @@ Filename:,taunt_equipment_jingle4,,Events:,"['engineer_bucking_bronco_taunt_equi
 Full Path:,sound/player/taunt_equipment_jingle4.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_truckin_outro.vcd', 'scenes/workshop/player/engineer/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/engineer/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd']"
 Transcription:,,,Responses:,"['Taunt: Bucking Bronco', ""Taunt: Texas Truckin'"", 'Taunt: The Fist Bump', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,taunt_equipment_jingle4,,Events:,"['demo_item_preview_demo_taunt_equipment_jingle4', 'demo_taunt_neck_snap_demo_taunt_equipment_jingle4', 'demo_taunt_roar_owar_taunt_equipment_jingle4', 'engineer_taunt_texas_twirl_em_taunt_equipment_jingle4', 'medic_taunt_borrowed_bones_taunt_equipment_jingle4', 'medic_tauntthe_head_doctor_taunt_equipment_jingle4', 'pyro_spring_rider_taunt_equipment_jingle4', 'pyro_taunt_roasty_toasty_taunt_equipment_jingle4', 'scout_item_preview_scout_taunt_equipment_jingle4', 'scout_taunt_neck_snap_scout_taunt_equipment_jingle4', 'scout_taunt_the_killer_signature_taunt_equipment_jingle4', 'soldier_item_preview_soldier_taunt_equipment_jingle4', 'soldier_taunt_neck_snap_soldier_taunt_equipment_jingle4', 'taunt.demo02equipmentjingle4']"
 Full Path:,sound/player/taunt_equipment_jingle4.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd', 'scenes/workshop/player/demoman/low/taunt_killer_joke.vcd', 'scenes/workshop/player/demoman/low/taunt_neck_snap.vcd', 'scenes/workshop/player/demoman/low/taunt_roar_owar.vcd', 'scenes/workshop/player/engineer/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/workshop/player/heavy/low/taunt_commending_clap.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_commending_clap.vcd', 'scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/medic/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/pyro/low/taunt_bear_hug.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/scout/low/taunt_commending_clap.vcd', 'scenes/workshop/player/scout/low/taunt_foul_play.vcd', 'scenes/workshop/player/scout/low/taunt_neck_snap.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd', 'scenes/workshop/player/scout/low/taunt_unleashed_rage.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd']"
@@ -14942,13 +14942,13 @@ Filename:,vehicle_rollover1,,Events:,"['metalvehicle.scraperough', 'metalvehicle
 Full Path:,sound/vehicles/v8/vehicle_rollover1.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,vehicle_rollover2,,Events:,"['metalvehicle.scraperough', 'metalvehicle.scrapesmooth']"
 Full Path:,sound/vehicles/v8/vehicle_rollover2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,tinybot_crosspaths_03,,Events:,['robot.collide']
 Full Path:,sound/vo/bot_worker/tinybot_crosspaths_03.mp3,,Scenes:,[]

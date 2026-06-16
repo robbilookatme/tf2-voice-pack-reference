@@ -8743,7 +8743,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath02.mp3": {
@@ -8756,7 +8756,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath03.mp3": {
@@ -8769,7 +8769,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath04.mp3": {
@@ -8782,7 +8782,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/medic_mvm_m_painsevere01.mp3": {
@@ -14738,7 +14738,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath02.mp3": {
@@ -14751,7 +14751,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath03.mp3": {
@@ -14764,7 +14764,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath04.mp3": {
@@ -14777,7 +14777,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/mvm/mght/sniper_mvm_m_painsevere01.mp3": {

@@ -9,7 +9,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/items/bomb_warning.wav": {
@@ -681,7 +681,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/items/japan_fundraiser/tf_zen_bell_01.wav": {

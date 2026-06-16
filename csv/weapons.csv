@@ -2954,7 +2954,7 @@ Filename:,gunslinger_draw,,Events:,"['engineer_bucking_bronco_gunslinger_draw', 
 Full Path:,sound/weapons/gunslinger_draw.mp3,,Scenes:,['scenes/workshop/player/engineer/low/bucking_bronco.vcd']
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,gunslinger_draw,,Events:,"['weapon_gunslinger.draw', 'weapon_gunslinger.inspectfinish']"
 Full Path:,sound/weapons/gunslinger_draw.wav,,Scenes:,[]
@@ -3038,7 +3038,7 @@ Filename:,gunslinger_swing,,Events:,"['engineer_bucking_bronco_gunslinger_swing'
 Full Path:,sound/weapons/gunslinger_swing.mp3,,Scenes:,['scenes/workshop/player/engineer/low/bucking_bronco.vcd']
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,gunslinger_swing,,Events:,['weapon_gunslinger.swing']
 Full Path:,sound/weapons/gunslinger_swing.wav,,Scenes:,[]
@@ -3788,7 +3788,7 @@ Filename:,pistol_empty,,Events:,"['weapon_compoundbow.clipempty', 'weapon_flareg
 Full Path:,sound/weapons/pistol/pistol_empty.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,pistol_clipin,,Events:,"['weapon_pistol.clipin', 'weapon_pistol.worldreloadengineer']"
 Full Path:,sound/weapons/pistol_clipin.wav,,Scenes:,[]
@@ -4520,7 +4520,7 @@ Filename:,sentry_move_short2,,Events:,"['engineer_bucking_bronco_sentry_move_sho
 Full Path:,sound/weapons/sentry_move_short2.mp3,,Scenes:,['scenes/workshop/player/engineer/low/bucking_bronco.vcd']
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sentry_move_short2,,Events:,"['building_dispenser.build3', 'building_dispenser.build6', 'building_dispenser.build8', 'building_sentrygun.build10', 'building_sentrygun.build2', 'building_sentrygun.rocketmove1', 'building_teleporter.build5']"
 Full Path:,sound/weapons/sentry_move_short2.wav,,Scenes:,[]
@@ -4622,7 +4622,7 @@ Filename:,sentry_upgrading2,,Events:,"['engineer_bucking_bronco_sentry_upgrading
 Full Path:,sound/weapons/sentry_upgrading2.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/bucking_bronco.vcd', 'scenes/workshop/player/engineer/low/bucking_bronco_end.vcd']"
 Transcription:,,,Responses:,['Taunt: Bucking Bronco']
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sentry_upgrading2,,Events:,"['building_dispenser.build24a', 'building_dispenser.build25', 'building_sentrygun.build3', 'building_teleporter.build1']"
 Full Path:,sound/weapons/sentry_upgrading2.wav,,Scenes:,[]
@@ -4856,7 +4856,7 @@ Filename:,smg1_reload,,Events:,"['weapon_nailgun.reload', 'weapon_supersmg.reloa
 Full Path:,sound/weapons/smg1/smg1_reload.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,smg_clip_in,,Events:,['weapon_smg.clipin']
 Full Path:,sound/weapons/smg_clip_in.wav,,Scenes:,[]

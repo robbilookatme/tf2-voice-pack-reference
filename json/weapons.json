@@ -6582,7 +6582,7 @@
         "scenes": [
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/gunslinger_draw.wav": {
@@ -6756,7 +6756,7 @@
         "scenes": [
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/gunslinger_swing.wav": {
@@ -8590,7 +8590,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/pistol_clipin.wav": {
@@ -10081,7 +10081,7 @@
         "scenes": [
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/sentry_move_short2.wav": {
@@ -10300,7 +10300,7 @@
             "scenes/workshop/player/engineer/low/bucking_bronco.vcd",
             "scenes/workshop/player/engineer/low/bucking_bronco_end.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/sentry_upgrading2.wav": {
@@ -10820,7 +10820,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/weapons/smg_clip_in.wav": {

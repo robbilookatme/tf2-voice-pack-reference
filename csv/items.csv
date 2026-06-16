@@ -2,7 +2,7 @@ Filename:,ammo_pickup,,Events:,"['basecombatcharacter.ammopickup', 'player.picku
 Full Path:,sound/items/ammo_pickup.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,bomb_warning,,Events:,[]
 Full Path:,sound/items/bomb_warning.wav,,Scenes:,[]
@@ -338,7 +338,7 @@ Filename:,itembk2,,Events:,"['captureflag.flagspawn', 'resource.flagspawn']"
 Full Path:,sound/items/itembk2.wav,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,tf_zen_bell_01,,Events:,['fundraiser.bell']
 Full Path:,sound/items/japan_fundraiser/tf_zen_bell_01.wav,,Scenes:,[]

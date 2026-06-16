@@ -31,7 +31,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/ambient/arrowlight.wav": {
@@ -1038,7 +1038,7 @@
         "scenes": [
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/ambient/energy/spark6.wav": {
@@ -1056,7 +1056,7 @@
         "scenes": [
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/ambient/engine_idle.wav": {
@@ -1115,7 +1115,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/ambient/fire/gascan_ignite1.wav": {
@@ -7600,7 +7600,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/ambient_mp3/rottenburg/barrier_smash.mp3": {
@@ -8809,7 +8809,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/common/wpn_denyselect.wav": {
@@ -8822,7 +8822,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/common/wpn_moveselect.wav": {
@@ -8859,7 +8859,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/doors/door_metal_rusty_move1.wav": {
@@ -8921,7 +8921,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/misc/achievement_earned.wav": {
@@ -12690,7 +12690,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/body/body_medium_break3.wav": {
@@ -12703,7 +12703,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/body/body_medium_break4.wav": {
@@ -12716,7 +12716,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/body/body_medium_impact_hard1.wav": {
@@ -13187,7 +13187,7 @@
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_box_impact_soft2.wav": {
@@ -13205,7 +13205,7 @@
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_box_impact_soft3.wav": {
@@ -13223,7 +13223,7 @@
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_box_impact_soft4.wav": {
@@ -13241,7 +13241,7 @@
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_hide.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_box_scrape_rough_loop1.wav": {
@@ -13254,7 +13254,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_box_scrape_smooth_loop1.wav": {
@@ -13351,7 +13351,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_cup_impact_hard2.wav": {
@@ -13364,7 +13364,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/cardboard/cardboard_cup_impact_hard3.wav": {
@@ -13377,7 +13377,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/boulder_impact_hard1.wav": {
@@ -13487,7 +13487,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/concrete_break3.wav": {
@@ -13519,7 +13519,7 @@
             "scenes/player/heavy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/concrete_impact_bullet2.wav": {
@@ -13539,7 +13539,7 @@
             "scenes/player/heavy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/concrete_impact_bullet3.wav": {
@@ -13559,7 +13559,7 @@
             "scenes/player/heavy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/concrete_impact_bullet4.wav": {
@@ -13579,7 +13579,7 @@
             "scenes/player/heavy/low/flip_success_receiver1.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/concrete_impact_flare1.wav": {
@@ -13748,7 +13748,7 @@
             "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/concrete/rock_impact_hard3.wav": {
@@ -13849,7 +13849,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_bloody_break.wav": {
@@ -14006,7 +14006,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_squishy_impact_hard3.wav": {
@@ -14025,7 +14025,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_squishy_impact_hard4.wav": {
@@ -14045,7 +14045,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_burstchester.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_strider_impact_bullet1.wav": {
@@ -14058,7 +14058,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_strider_impact_bullet2.wav": {
@@ -14071,7 +14071,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/flesh/flesh_strider_impact_bullet3.wav": {
@@ -14084,7 +14084,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_bottle_break1.wav": {
@@ -14101,7 +14101,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_bottle_break2.wav": {
@@ -14119,7 +14119,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_bottle_impact_hard1.wav": {
@@ -14132,7 +14132,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_bottle_impact_hard2.wav": {
@@ -14145,7 +14145,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_bottle_impact_hard3.wav": {
@@ -14158,7 +14158,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_cup_break1.wav": {
@@ -14195,7 +14195,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_bullet2.wav": {
@@ -14208,7 +14208,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_bullet3.wav": {
@@ -14245,7 +14245,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_hard2.wav": {
@@ -14258,7 +14258,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_hard3.wav": {
@@ -14271,7 +14271,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_soft1.wav": {
@@ -14293,7 +14293,7 @@
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_soft2.wav": {
@@ -14316,7 +14316,7 @@
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_impact_soft3.wav": {
@@ -14336,7 +14336,7 @@
             "scenes/workshop/player/demoman/low/taunt_shipwheel.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_largesheet_break1.wav": {
@@ -14385,7 +14385,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_pottery_break2.wav": {
@@ -14398,7 +14398,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_pottery_break3.wav": {
@@ -14411,7 +14411,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_break1.wav": {
@@ -14460,7 +14460,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_impact_hard2.wav": {
@@ -14473,7 +14473,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_impact_hard3.wav": {
@@ -14486,7 +14486,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_impact_soft1.wav": {
@@ -14499,7 +14499,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_impact_soft2.wav": {
@@ -14512,7 +14512,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_impact_soft3.wav": {
@@ -14525,7 +14525,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/glass/glass_sheet_step1.wav": {
@@ -14586,7 +14586,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/canister_scrape_rough_loop1.wav": {
@@ -14623,7 +14623,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/chain_impact_hard2.wav": {
@@ -14636,7 +14636,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/chain_impact_soft1.wav": {
@@ -14685,7 +14685,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_barrel_impact_hard1.wav": {
@@ -14799,7 +14799,7 @@
         "scenes": [
             "scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_break2.wav": {
@@ -14817,7 +14817,7 @@
         "scenes": [
             "scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_footstep1.wav": {
@@ -14919,7 +14919,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_impact_hard2.wav": {
@@ -14937,7 +14937,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_impact_hard3.wav": {
@@ -14955,7 +14955,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_impact_soft1.wav": {
@@ -14972,7 +14972,7 @@
         "scenes": [
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_impact_soft2.wav": {
@@ -15010,7 +15010,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_scrape_smooth_loop1.wav": {
@@ -15024,7 +15024,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_box_strain2.wav": {
@@ -15157,7 +15157,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_chainlink_impact_hard3.wav": {
@@ -15170,7 +15170,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_chainlink_impact_soft1.wav": {
@@ -15219,7 +15219,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_computer_impact_bullet1.wav": {
@@ -15232,7 +15232,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_computer_impact_bullet2.wav": {
@@ -15257,7 +15257,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_computer_impact_hard1.wav": {
@@ -15487,7 +15487,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_sheet_impact_bullet2.wav": {
@@ -15501,7 +15501,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_sheet_impact_hard6.wav": {
@@ -15553,7 +15553,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_solid_impact_bullet2.wav": {
@@ -15571,7 +15571,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_solid_impact_bullet3.wav": {
@@ -15588,7 +15588,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_solid_impact_bullet4.wav": {
@@ -15604,7 +15604,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_solid_impact_hard1.wav": {
@@ -15618,7 +15618,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/metal_solid_impact_hard4.wav": {
@@ -15859,7 +15859,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/soda_can_impact_hard2.wav": {
@@ -15872,7 +15872,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/soda_can_impact_hard3.wav": {
@@ -15885,7 +15885,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/soda_can_impact_soft1.wav": {
@@ -15946,7 +15946,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/weapon_footstep1.wav": {
@@ -15983,7 +15983,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/weapon_impact_hard2.wav": {
@@ -15996,7 +15996,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/weapon_impact_hard3.wav": {
@@ -16009,7 +16009,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/metal/weapon_impact_soft1.wav": {
@@ -16166,7 +16166,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plaster/ceiling_tile_step1.wav": {
@@ -16227,7 +16227,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plaster/ceilingtile_break2.wav": {
@@ -16240,7 +16240,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plaster/drywall_footstep1.wav": {
@@ -16469,7 +16469,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_barrel_impact_soft2.wav": {
@@ -16482,7 +16482,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_barrel_impact_soft3.wav": {
@@ -16495,7 +16495,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_barrel_impact_soft4.wav": {
@@ -16508,7 +16508,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_barrel_roll_loop1.wav": {
@@ -16617,7 +16617,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_bullet2.wav": {
@@ -16630,7 +16630,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_bullet3.wav": {
@@ -16643,7 +16643,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_bullet4.wav": {
@@ -16668,7 +16668,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_hard1.wav": {
@@ -16681,7 +16681,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_hard2.wav": {
@@ -16694,7 +16694,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_hard3.wav": {
@@ -16707,7 +16707,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_hard4.wav": {
@@ -16732,7 +16732,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_soft2.wav": {
@@ -16746,7 +16746,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_soft3.wav": {
@@ -16760,7 +16760,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_impact_soft4.wav": {
@@ -16774,7 +16774,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_scrape_rough_loop1.wav": {
@@ -16814,7 +16814,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/plastic/plastic_box_strain1.wav": {
@@ -16863,7 +16863,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/rubber/rubber_tire_impact_bullet2.wav": {
@@ -16924,7 +16924,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/rubber/rubber_tire_impact_soft1.wav": {
@@ -16939,7 +16939,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/rubber/rubber_tire_impact_soft2.wav": {
@@ -17018,7 +17018,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/surfaces/sand_impact_bullet2.wav": {
@@ -17038,7 +17038,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/surfaces/sand_impact_bullet3.wav": {
@@ -17057,7 +17057,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/surfaces/sand_impact_bullet4.wav": {
@@ -17076,7 +17076,7 @@
             "scenes/player/heavy/low/flip_success_receiver0.vcd",
             "scenes/player/heavy/low/flip_success_receiver1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/surfaces/tile_impact_bullet1.wav": {
@@ -17173,7 +17173,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_break2.wav": {
@@ -17198,7 +17198,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_footstep2.wav": {
@@ -17211,7 +17211,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_footstep3.wav": {
@@ -17224,7 +17224,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_footstep4.wav": {
@@ -17237,7 +17237,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_bullet1.wav": {
@@ -17255,7 +17255,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_bullet2.wav": {
@@ -17273,7 +17273,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_bullet3.wav": {
@@ -17291,7 +17291,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_bullet4.wav": {
@@ -17309,7 +17309,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_hard1.wav": {
@@ -17331,7 +17331,7 @@
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_hard2.wav": {
@@ -17353,7 +17353,7 @@
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_hard3.wav": {
@@ -17375,7 +17375,7 @@
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_soft1.wav": {
@@ -17393,7 +17393,7 @@
         "scenes": [
             "scenes/player/items/taunts/yeti_standee_soldierbreak.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_impact_soft2.wav": {
@@ -17418,7 +17418,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_scrape_rough_loop1.wav": {
@@ -17431,7 +17431,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_box_scrape_smooth_loop1.wav": {
@@ -17445,7 +17445,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_crate_break1.wav": {
@@ -17469,7 +17469,7 @@
             "scenes/player/spy/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_crate_break2.wav": {
@@ -17593,7 +17593,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_crate_impact_soft3.wav": {
@@ -17666,7 +17666,7 @@
         "scenes": [
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_furniture_impact_soft2.wav": {
@@ -17722,7 +17722,7 @@
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_outro.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_break1.wav": {
@@ -17736,7 +17736,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_break2.wav": {
@@ -17763,7 +17763,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_break4.wav": {
@@ -17777,7 +17777,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_impact_hard1.wav": {
@@ -17790,7 +17790,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_impact_hard2.wav": {
@@ -17803,7 +17803,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_impact_hard3.wav": {
@@ -17844,7 +17844,7 @@
         "scenes": [
             "scenes/player/items/taunts/yeti_standee_soldierbreak.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_plank_impact_soft2.wav": {
@@ -17894,7 +17894,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_bullet1.wav": {
@@ -17907,7 +17907,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_bullet2.wav": {
@@ -17920,7 +17920,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_bullet3.wav": {
@@ -17933,7 +17933,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_bullet4.wav": {
@@ -17946,7 +17946,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_bullet5.wav": {
@@ -17959,7 +17959,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_hard1.wav": {
@@ -17978,7 +17978,7 @@
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_hard2.wav": {
@@ -18036,7 +18036,7 @@
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_solid_impact_soft3.wav": {
@@ -18061,7 +18061,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_strain2.wav": {
@@ -18083,7 +18083,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_strain3.wav": {
@@ -18105,7 +18105,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/physics/wood/wood_strain4.wav": {
@@ -18127,7 +18127,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/pl_hoodoo/alarm_clock_alarm_3.wav": {
@@ -20808,7 +20808,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/player/pl_drown2.wav": {
@@ -23535,7 +23535,7 @@
             "scenes/workshop/player/engineer/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd"
         ],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/player/taunt_equipment_jingle4.wav": {
@@ -32576,7 +32576,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vehicles/v8/vehicle_rollover2.wav": {
@@ -32589,7 +32589,7 @@
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "used",
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/bot_worker/tinybot_crosspaths_03.mp3": {

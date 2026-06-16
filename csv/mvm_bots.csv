@@ -4346,25 +4346,25 @@ Filename:,medic_mvm_m_paincrticialdeath01,,Events:,"['medic.m_mvm_critdeath', 'm
 Full Path:,sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,medic_mvm_m_paincrticialdeath02,,Events:,"['medic.m_mvm_critdeath', 'medic.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,medic_mvm_m_paincrticialdeath03,,Events:,"['medic.m_mvm_critdeath', 'medic.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,medic_mvm_m_paincrticialdeath04,,Events:,"['medic.m_mvm_critdeath', 'medic.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/medic_mvm_m_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,medic_mvm_m_painsevere01,,Events:,['medic.m_mvm_death']
 Full Path:,sound/vo/mvm/mght/medic_mvm_m_painsevere01.mp3,,Scenes:,[]
@@ -7316,25 +7316,25 @@ Filename:,sniper_mvm_m_paincrticialdeath01,,Events:,"['sniper.m_mvm_critdeath', 
 Full Path:,sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath01.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sniper_mvm_m_paincrticialdeath02,,Events:,"['sniper.m_mvm_critdeath', 'sniper.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath02.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sniper_mvm_m_paincrticialdeath03,,Events:,"['sniper.m_mvm_critdeath', 'sniper.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath03.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sniper_mvm_m_paincrticialdeath04,,Events:,"['sniper.m_mvm_critdeath', 'sniper.m_mvm_meleedeath']"
 Full Path:,sound/vo/mvm/mght/sniper_mvm_m_paincrticialdeath04.mp3,,Scenes:,[]
 Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,sniper_mvm_m_painsevere01,,Events:,['sniper.m_mvm_death']
 Full Path:,sound/vo/mvm/mght/sniper_mvm_m_painsevere01.mp3,,Scenes:,[]
