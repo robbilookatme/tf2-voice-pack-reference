@@ -1146,13 +1146,13 @@ Your Line:,,,Rules:,['PlayerKilledDominatingHeavy']
 
 Filename:,heavy_laughevil02,,Events:,"['heavy.laughevil02', 'heavy_taunt_crushing_headache_2', 'heavy_taunt_peace_vo_02', 'taunt_killer_joke_heavy']"
 Full Path:,sound/vo/heavy_laughevil02.mp3,,Scenes:,"['scenes/player/heavy/low/1270.vcd', 'scenes/workshop/player/heavy/low/taunt_crushing_headache.vcd', 'scenes/workshop/player/heavy/low/taunt_killer_joke.vcd', 'scenes/workshop/player/heavy/low/taunt_peace.vcd']"
-Transcription:,Evil laugh,,Responses:,"['PlayerTauntsHeavy', 'Taunt: Crushing Defeat', 'Taunt: Killer Joke', 'Taunt: Peace!']"
+Transcription:,(evil laugh 2),,Responses:,"['PlayerTauntsHeavy', 'Taunt: Crushing Defeat', 'Taunt: Killer Joke', 'Taunt: Peace!']"
 Your Line:,,,Rules:,['PlayerPositiveHeavy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsHeavy']]"
 
 Filename:,heavy_laughevil03,,Events:,"['heavy.laughevil03', 'heavy_taunt_crushing_headache_2', 'heavy_taunt_peace_vo_02', 'taunt_killer_joke_heavy']"
 Full Path:,sound/vo/heavy_laughevil03.mp3,,Scenes:,"['scenes/player/heavy/low/1271.vcd', 'scenes/workshop/player/heavy/low/taunt_crushing_headache.vcd', 'scenes/workshop/player/heavy/low/taunt_killer_joke.vcd', 'scenes/workshop/player/heavy/low/taunt_peace.vcd']"
-Transcription:,Evil laugh 2,,Responses:,"['PlayerTauntsHeavy', 'Taunt: Crushing Defeat', 'Taunt: Killer Joke', 'Taunt: Peace!']"
+Transcription:,(Laugh 3),,Responses:,"['PlayerTauntsHeavy', 'Taunt: Crushing Defeat', 'Taunt: Killer Joke', 'Taunt: Peace!']"
 Your Line:,,,Rules:,['PlayerPositiveHeavy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsHeavy']]"
 
@@ -1218,7 +1218,7 @@ Your Line:,,,Rules:,"['KilledPlayerMeleeHeavy', 'KilledPlayerMeleeMetalHeavy']"
 
 Filename:,heavy_laughshort03,,Events:,"['heavy.laughshort03', 'taunt.bearhug_heavyinitiate_b']"
 Full Path:,sound/vo/heavy_laughshort03.mp3,,Scenes:,['scenes/player/heavy/low/1273.vcd']
-Transcription:,Short laugh,,Responses:,"['HeavyTimeFiringMinigunLong', 'PlayerTauntsHeavy']"
+Transcription:,(Short laugh),,Responses:,"['HeavyTimeFiringMinigunLong', 'PlayerTauntsHeavy']"
 Your Line:,,,Rules:,"['HeavyTimeFiringMinigunLong', 'PlayerPositiveHeavy']"
 ,,,Criteria:,"[['ConceptFireMinigunTalk', 'IsHeavy', 'WeaponIsMinigun', 'TimeFiringMinigunLong', '50PercentChance'], ['ConceptPlayerPositive', 'IsHeavy']]"
 

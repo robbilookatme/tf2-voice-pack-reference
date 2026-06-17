@@ -8464,7 +8464,7 @@
             "scenes/workshop/player/engineer/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
-        "transcript": "Short Laughter 4"
+        "transcript": "laugh"
     },
     "sound/vo/engineer_littlesentry01.mp3": {
         "base_name": "engineer_littlesentry01",

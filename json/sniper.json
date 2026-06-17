@@ -20337,7 +20337,7 @@
             "scenes/workshop/player/sniper/low/taunt_most_wanted.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 2"
+        "transcript": "Ah ha ha ha!"
     },
     "sound/vo/taunts/sniper/sniper_taunt_rps_win_03.mp3": {
         "base_name": "sniper_taunt_rps_win_03",

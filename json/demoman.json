@@ -5128,7 +5128,7 @@
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
-        "transcript": "Everyone thinks I'm-- God damn it, Finnegan..."
+        "transcript": "\"Everyone thinks I'm-- God damn it, Finnegan...\" (weeping)"
     },
     "sound/vo/demoman_gibberish08.mp3": {
         "base_name": "demoman_gibberish08",
@@ -7147,7 +7147,7 @@
             "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 2"
+        "transcript": "(Short laugh)"
     },
     "sound/vo/demoman_laughshort05.mp3": {
         "base_name": "demoman_laughshort05",

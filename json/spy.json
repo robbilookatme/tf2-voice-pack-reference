@@ -7338,7 +7338,7 @@
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh"
+        "transcript": "Hahaha!"
     },
     "sound/vo/spy_laughshort02.mp3": {
         "base_name": "spy_laughshort02",
@@ -7370,7 +7370,7 @@
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 2"
+        "transcript": "Aha huhuhu..."
     },
     "sound/vo/spy_laughshort03.mp3": {
         "base_name": "spy_laughshort03",
@@ -7406,7 +7406,7 @@
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 3"
+        "transcript": "Oh hohoho."
     },
     "sound/vo/spy_laughshort04.mp3": {
         "base_name": "spy_laughshort04",
@@ -7446,7 +7446,7 @@
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 4"
+        "transcript": "Hahahaha."
     },
     "sound/vo/spy_laughshort05.mp3": {
         "base_name": "spy_laughshort05",
@@ -7487,7 +7487,7 @@
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 5"
+        "transcript": "Huhuhuhuh."
     },
     "sound/vo/spy_laughshort06.mp3": {
         "base_name": "spy_laughshort06",

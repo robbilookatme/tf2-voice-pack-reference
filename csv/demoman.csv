@@ -756,7 +756,7 @@ Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerMe
 
 Filename:,demoman_gibberish07,,Events:,"['demo_taunt_scotsmans_stagger_demoman_gibberish', 'demoman.gibberish07']"
 Full Path:,sound/vo/demoman_gibberish07.mp3,,Scenes:,"['scenes/player/demoman/low/3572.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']"
-Transcription:,"Everyone thinks I'm-- God damn it, Finnegan...",,Responses:,"['KilledPlayerPanDemoman', ""Taunt: Scotsmann's Stagger""]"
+Transcription:,"""Everyone thinks I'm-- God damn it, Finnegan..."" (weeping)",,Responses:,"['KilledPlayerPanDemoman', ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,"['DrunkDemoman', 'KilledPlayerClubDemoman', 'KilledPlayerMeleeDemoman', 'KilledPlayerPanDemoman', 'KilledPlayerSaxxyDemoman']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsDrunk', 'IsDemoman', 'IsWeaponMelee', 'WeaponIsNotFryingPan'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsBottle', 'WeaponIsNotPainTrain', 'WeaponIsNotSaxxy', '30PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsFryingPan', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsPainTrain', '10PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:15'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'WeaponIsSaxxy', '20PercentChance', 'DemomanNotKillSpeechMelee', 'IsDemoman', 'AppliesContext:DemomanKillSpeechMelee:1:10']]"
 
@@ -1074,7 +1074,7 @@ Your Line:,,,Rules:,['PlayerPositiveDemoman']
 
 Filename:,demoman_laughshort04,,Events:,"['demo_taunt_commending_clap_b', 'demoman.laughshort04']"
 Full Path:,sound/vo/demoman_laughshort04.mp3,,Scenes:,"['scenes/player/demoman/low/1382.vcd', 'scenes/workshop/player/demoman/low/taunt_commending_clap.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsDemoman', 'Taunt: Commending Clap']"
+Transcription:,(Short laugh),,Responses:,"['PlayerTauntsDemoman', 'Taunt: Commending Clap']"
 Your Line:,,,Rules:,['PlayerPositiveDemoman']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsDemoman']]"
 

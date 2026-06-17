@@ -660,7 +660,7 @@ Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 
 Filename:,medic_laughevil03,,Events:,"['medic.laughevil03', 'medic_taunt_burrowed_bones_01', 'taunt.bearhug_medic_b']"
 Full Path:,sound/vo/medic_laughevil03.mp3,,Scenes:,"['scenes/player/medic/low/1228.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_cheers.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
-Transcription:,Evil laugh 2,,Responses:,"['PlayerTauntsMedic', 'Taunt: Bear Hug', 'Taunt: Borrowed Bones', 'Taunt: Cheers!', 'Taunt: Time Out Therapy']"
+Transcription:,(Evil laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Bear Hug', 'Taunt: Borrowed Bones', 'Taunt: Cheers!', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
@@ -714,7 +714,7 @@ Your Line:,,,Rules:,['PlayerPositiveMedic']
 
 Filename:,medic_laughshort02,,Events:,"['medic.laughshort02', 'medic_taunt_heartbreaker_voice_c']"
 Full Path:,sound/vo/medic_laughshort02.mp3,,Scenes:,"['scenes/player/medic/low/610.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsMedic', 'Taunt: Heartbreaker']"
+Transcription:,(Short laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Heartbreaker']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 

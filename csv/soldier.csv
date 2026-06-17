@@ -1278,7 +1278,7 @@ Your Line:,,,Rules:,"['AwardSoldier', 'PlayerKilledDominatingSoldier', 'SoldierT
 
 Filename:,soldier_laughlong02,,Events:,"['soldier.laughlong02', 'taunt_soldier_aerobic_shared_dance_a']"
 Full Path:,sound/vo/soldier_laughlong02.mp3,,Scenes:,"['scenes/player/soldier/low/1136.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd']"
-Transcription:,Long laughing,,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics']"
+Transcription:,(Long laughing),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -1290,19 +1290,19 @@ Your Line:,,,Rules:,"['PlayerKilledDominatingSoldier', 'SoldierTauntAprilFools',
 
 Filename:,soldier_laughshort01,,Events:,"['soldier.laughshort01', 'soldier_taunt_the_final_score_soldier_soldier_laughshort01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/soldier_laughshort01.mp3,,Scenes:,"['scenes/player/soldier/low/1137.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/soldier/low/taunt_the_final_score.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
-Transcription:,Short laugh,,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer']"
+Transcription:,(Short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
 Filename:,soldier_laughshort02,,Events:,"['soldier.laughshort02', 'soldier_taunt_commending_clap_b']"
 Full Path:,sound/vo/soldier_laughshort02.mp3,,Scenes:,"['scenes/player/soldier/low/1138.vcd', 'scenes/workshop/player/soldier/low/taunt_commending_clap.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsSoldier', 'Taunt: Commending Clap']"
+Transcription:,(short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Commending Clap']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
 Filename:,soldier_laughshort03,,Events:,['soldier.laughshort03']
 Full Path:,sound/vo/soldier_laughshort03.mp3,,Scenes:,['scenes/player/soldier/low/1351.vcd']
-Transcription:,Short laugh 3,,Responses:,['PlayerTauntsSoldier']
+Transcription:,(Short laugh),,Responses:,['PlayerTauntsSoldier']
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -3114,13 +3114,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,soldier_taunt_exert_02,,Events:,"['soldier_taunt_headbutt_success_windup', 'soldier_taunt_neck_snap_06', 'soldier_taunt_star_spangled_strat_vo_exert']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_exert_02.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,another grunt,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: Star-Spangled Strategy']"
+Transcription:,Urgh!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_exert_06,,Events:,"['soldier_taunt_headbutt_success_exert', 'soldier_taunt_neck_snap_05', 'soldier_taunt_star_spangled_strat_vo_exert']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_exert_06.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,pained grunt,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: Star-Spangled Strategy']"
+Transcription:,Uhng!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

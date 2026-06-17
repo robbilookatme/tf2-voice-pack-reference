@@ -7870,7 +7870,7 @@
             "scenes/workshop/player/heavy/low/taunt_peace.vcd"
         ],
         "state": "used",
-        "transcript": "Evil laugh"
+        "transcript": "(evil laugh 2)"
     },
     "sound/vo/heavy_laughevil03.mp3": {
         "base_name": "heavy_laughevil03",
@@ -7902,7 +7902,7 @@
             "scenes/workshop/player/heavy/low/taunt_peace.vcd"
         ],
         "state": "used",
-        "transcript": "Evil laugh 2"
+        "transcript": "(Laugh 3)"
     },
     "sound/vo/heavy_laughevil04.mp3": {
         "base_name": "heavy_laughevil04",
@@ -8239,7 +8239,7 @@
             "scenes/player/heavy/low/1273.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh"
+        "transcript": "(Short laugh)"
     },
     "sound/vo/heavy_laughterbig01.mp3": {
         "base_name": "heavy_laughterbig01",

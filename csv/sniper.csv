@@ -3864,7 +3864,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,sniper_taunt_rps_win_02,,Events:,"['sniper_most_wanted_laughs', 'sniper_taunt_rps_win_02', 'sniper_taunt_russian_rand_rand02']"
 Full Path:,sound/vo/taunts/sniper/sniper_taunt_rps_win_02.mp3,,Scenes:,"['scenes/player/sniper/low/taunt_rps_paper_win.vcd', 'scenes/player/sniper/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win.vcd', 'scenes/player/sniper/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win.vcd', 'scenes/player/sniper/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/sniper/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/sniper/low/taunt_most_wanted.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['Taunt: Most Wanted', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Victory Lap']"
+Transcription:,Ah ha ha ha!,,Responses:,"['Taunt: Most Wanted', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

@@ -1722,7 +1722,7 @@ Your Line:,,,Rules:,['PlayerPositiveScout']
 
 Filename:,scout_laughshort02,,Events:,"['scout.laughshort02', 'scout.short_laughs', 'taunt.bearhug_scout_d', 'taunt.runners_rythm_loop', 'taunt_scout_chairholder_start_c', 'taunt_yeti_scout']"
 Full Path:,sound/vo/scout_laughshort02.mp3,,Scenes:,"['scenes/player/scout/low/437.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
+Transcription:,Ha hah!,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 

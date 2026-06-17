@@ -4070,7 +4070,7 @@
             "scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd"
         ],
         "state": "used",
-        "transcript": "Evil laugh 2"
+        "transcript": "(Evil laugh 2)"
     },
     "sound/vo/medic_laughevil04.mp3": {
         "base_name": "medic_laughevil04",
@@ -4386,7 +4386,7 @@
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 2"
+        "transcript": "(Short laugh 2)"
     },
     "sound/vo/medic_laughshort03.mp3": {
         "base_name": "medic_laughshort03",

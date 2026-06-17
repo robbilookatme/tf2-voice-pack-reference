@@ -1158,7 +1158,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,engineer_laughshort04,,Events:,"['engie_taunt_commending_clap_b', 'engineer.laughshort04']"
 Full Path:,sound/vo/engineer_laughshort04.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_cheers.vcd', 'scenes/workshop/player/engineer/low/taunt_commending_clap.vcd']"
-Transcription:,Short Laughter 4,,Responses:,"['Taunt: Cheers!', 'Taunt: Commending Clap']"
+Transcription:,laugh,,Responses:,"['Taunt: Cheers!', 'Taunt: Commending Clap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

@@ -1002,31 +1002,31 @@ Your Line:,,,Rules:,"['KilledPlayerManySpy', 'SpyTauntAprilFools', 'SpyTauntLaug
 
 Filename:,spy_laughshort01,,Events:,"['spy.laughshort01', 'spy_taunt_boxtrot_intro', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
 Full Path:,sound/vo/spy_laughshort01.mp3,,Scenes:,"['scenes/player/spy/low/777.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
-Transcription:,Short laugh,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot']"
+Transcription:,Hahaha!,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort02,,Events:,"['spy.chuckle', 'spy.laughshort02', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_crypt_creeper_spy_laughshort02', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
 Full Path:,sound/vo/spy_laughshort02.mp3,,Scenes:,"['scenes/player/spy/low/778.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
-Transcription:,Short laugh 2,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot', 'Taunt: The Crypt Creeper']"
+Transcription:,Aha huhuhu...,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot', 'Taunt: The Crypt Creeper']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort03,,Events:,"['spy.chuckle', 'spy.laughshort03', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_final_score_spy_spy_laughshort03', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
 Full Path:,sound/vo/spy_laughshort03.mp3,,Scenes:,"['scenes/player/spy/low/1314.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Short laugh 3,,Responses:,"['PlayerTauntsSpy', 'Taunt: Teufort Tango', 'Taunt: The Box Trot', 'Taunt: The Final Score']"
+Transcription:,Oh hohoho.,,Responses:,"['PlayerTauntsSpy', 'Taunt: Teufort Tango', 'Taunt: The Box Trot', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort04,,Events:,"['spy.laughshort04', 'spy_taunt_boxtrot_intro', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
 Full Path:,sound/vo/spy_laughshort04.mp3,,Scenes:,"['scenes/player/spy/low/1315.vcd', 'scenes/player/spy/low/taunt04_v4.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Short laugh 4,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
+Transcription:,Hahahaha.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,"['PlayerPositiveSpy', 'SpyTauntPlayerPDA']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA']]"
 
 Filename:,spy_laughshort05,,Events:,"['spy.chuckle', 'spy.laughshort05', 'spy_taunt_boxtrot_intro', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
 Full Path:,sound/vo/spy_laughshort05.mp3,,Scenes:,"['scenes/player/spy/low/1316.vcd', 'scenes/player/spy/low/taunt04_v3.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Short laugh 5,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
+Transcription:,Huhuhuhuh.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,"['PlayerPositiveSpy', 'SpyTauntPlayerPDA']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA']]"
 

@@ -2761,7 +2761,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[rhythmic laughter"
+        "transcript": "Whoo, hoo hoo!"
     },
     "sound/vo/taunts/pyro/pyro_taunt_cong_fun_12.mp3": {
         "base_name": "pyro_taunt_cong_fun_12",
@@ -3021,7 +3021,7 @@
             "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
-        "transcript": "[gleeful laughter"
+        "transcript": "[mumbled] \"Do-si-do!\""
     },
     "sound/vo/taunts/pyro/pyro_taunt_dosi_int_05.mp3": {
         "base_name": "pyro_taunt_dosi_int_05",
@@ -3044,7 +3044,7 @@
             "scenes/workshop/player/pyro/low/taunt_peace.vcd"
         ],
         "state": "used",
-        "transcript": "[mumbled laughter"
+        "transcript": "[mumbled] \"Do-si-do time!\""
     },
     "sound/vo/taunts/pyro/pyro_taunt_dosi_int_07.mp3": {
         "base_name": "pyro_taunt_dosi_int_07",
@@ -3703,7 +3703,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
-        "transcript": "[muffled challenging"
+        "transcript": "[muffled challenging]\"I need a headbutt!\""
     },
     "sound/vo/taunts/pyro/pyro_taunt_head_int_04.mp3": {
         "base_name": "pyro_taunt_head_int_04",
@@ -3726,7 +3726,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
-        "transcript": "[menacing muffles"
+        "transcript": "[menacing muffles] \"Headbutt me!\""
     },
     "sound/vo/taunts/pyro/pyro_taunt_head_pain_03.mp3": {
         "base_name": "pyro_taunt_head_pain_03",

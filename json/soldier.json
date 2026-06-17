@@ -9531,7 +9531,7 @@
             "scenes/player/soldier/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
-        "transcript": "Long laughing"
+        "transcript": "(Long laughing)"
     },
     "sound/vo/soldier_laughlong03.mp3": {
         "base_name": "soldier_laughlong03",
@@ -9606,7 +9606,7 @@
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh"
+        "transcript": "(Short laugh)"
     },
     "sound/vo/soldier_laughshort02.mp3": {
         "base_name": "soldier_laughshort02",
@@ -9632,7 +9632,7 @@
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 2"
+        "transcript": "(short laugh)"
     },
     "sound/vo/soldier_laughshort03.mp3": {
         "base_name": "soldier_laughshort03",
@@ -9655,7 +9655,7 @@
             "scenes/player/soldier/low/1351.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 3"
+        "transcript": "(Short laugh)"
     },
     "sound/vo/soldier_laughshort04.mp3": {
         "base_name": "soldier_laughshort04",
@@ -18490,7 +18490,7 @@
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
-        "transcript": "another grunt"
+        "transcript": "Urgh!"
     },
     "sound/vo/taunts/soldier/soldier_taunt_exert_06.mp3": {
         "base_name": "soldier_taunt_exert_06",
@@ -18512,7 +18512,7 @@
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
-        "transcript": "pained grunt"
+        "transcript": "Uhng!"
     },
     "sound/vo/taunts/soldier/soldier_taunt_flip_end_01.mp3": {
         "base_name": "soldier_taunt_flip_end_01",
