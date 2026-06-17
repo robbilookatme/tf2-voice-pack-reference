@@ -2189,10 +2189,10 @@ Your Line:,,,Rules:,['PlayerKilledForRevengeSoldierSniper']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSniper', 'IsRevenge', 'IsVictimSoldier', 'AppliesContext:SniperKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,sniper_revenge22,,Events:,['sniper.revenge22']
-Full Path:,sound/vo/sniper_revenge22.mp3,,Scenes:,['scenes/player/sniper/low/2473.vcd']
-Transcription:,"Here's some advice: Next time, shoot first.",,Responses:,['PlayerKilledForRevengeSniperSniper']
-Your Line:,,,Rules:,['PlayerKilledForRevengeSniperSniper']
-,,,Criteria:,"[['ConceptKilledPlayer', 'IsSniper', 'IsRevenge', 'IsVictimSniper', 'AppliesContext:SniperKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
+Full Path:,sound/vo/sniper_revenge22.mp3,,Scenes:,['scenes/player/sniper/low/2473.vcd (bad timestamp)']
+Transcription:,"Here's some advice: Next time, shoot first.",,Responses:,[]
+Your Line:,,,Rules:,[]
+,,,Criteria:,[]
 
 Filename:,sniper_revenge23,,Events:,['sniper.revenge23']
 Full Path:,sound/vo/sniper_revenge23.mp3,,Scenes:,['scenes/player/sniper/low/2474.vcd']
@@ -2525,10 +2525,10 @@ Your Line:,,,Rules:,"['PlayerShinyCrySniper', 'PlayerShinyCrySniperBow', 'Player
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponMelee', 'IsNotCrossHairEnemy', 'WeaponIsNotVanillaMelee', 'WeaponIsNotTaggedKukri'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponPrimary', 'WeaponIsNotVanillaPrimary', 'WeaponIsNotTaggedRifle'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponSecondary', 'WeaponIsNotVanillaSecondary', 'WeaponIsNotTaggedSMG'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'WeaponIsBow', 'WeaponIsNotVanillaPrimary'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'WeaponIsJarate', 'WeaponIsNotVanillaSecondary']]"
 
 Filename:,sniper_specialweapon04,,Events:,"['sniper.specialweapon04', 'sniper.taunt_shooters_stake_rand01']"
-Full Path:,sound/vo/sniper_specialweapon04.mp3,,Scenes:,"['scenes/player/sniper/low/2287.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
-Transcription:,Someone's about to have a very bad day.,,Responses:,"['PlayerShinyCrySniper', ""Taunt: Shooter's Stakeout""]"
-Your Line:,,,Rules:,"['PlayerShinyCrySniper', 'PlayerShinyCrySniperBow', 'PlayerShinyCrySniperJarate', 'PlayerShinyCrySniperMelee', 'PlayerShinyCrySniperSecondary']"
-,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponMelee', 'IsNotCrossHairEnemy', 'WeaponIsNotVanillaMelee', 'WeaponIsNotTaggedKukri'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponPrimary', 'WeaponIsNotVanillaPrimary', 'WeaponIsNotTaggedRifle'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'IsWeaponSecondary', 'WeaponIsNotVanillaSecondary', 'WeaponIsNotTaggedSMG'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'WeaponIsBow', 'WeaponIsNotVanillaPrimary'], ['ConceptPlayerBattleCry', 'IsSniper', '30PercentChance', 'WeaponIsJarate', 'WeaponIsNotVanillaSecondary']]"
+Full Path:,sound/vo/sniper_specialweapon04.mp3,,Scenes:,"['scenes/player/sniper/low/2287.vcd (bad timestamp)', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
+Transcription:,Someone's about to have a very bad day.,,Responses:,"[""Taunt: Shooter's Stakeout""]"
+Your Line:,,,Rules:,[]
+,,,Criteria:,[]
 
 Filename:,sniper_specialweapon05,,Events:,['sniper.specialweapon05']
 Full Path:,sound/vo/sniper_specialweapon05.mp3,,Scenes:,['scenes/player/sniper/low/2288.vcd']

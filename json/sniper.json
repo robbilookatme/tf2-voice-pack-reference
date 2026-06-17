@@ -14465,27 +14465,14 @@
     },
     "sound/vo/sniper_revenge22.mp3": {
         "base_name": "sniper_revenge22",
-        "criteria": [
-            [
-                "ConceptKilledPlayer",
-                "IsSniper",
-                "IsRevenge",
-                "IsVictimSniper",
-                "AppliesContext:SniperKillSpeech:1:10",
-                "AppliesContext:IsDominating:1:10"
-            ]
-        ],
+        "criteria": [],
         "events": [
             "sniper.revenge22"
         ],
-        "responses": [
-            "PlayerKilledForRevengeSniperSniper"
-        ],
-        "rules": [
-            "PlayerKilledForRevengeSniperSniper"
-        ],
+        "responses": [],
+        "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/2473.vcd"
+            "scenes/player/sniper/low/2473.vcd (bad timestamp)"
         ],
         "state": "used",
         "transcript": "Here's some advice: Next time, shoot first."
@@ -17449,64 +17436,17 @@
     },
     "sound/vo/sniper_specialweapon04.mp3": {
         "base_name": "sniper_specialweapon04",
-        "criteria": [
-            [
-                "ConceptPlayerBattleCry",
-                "IsSniper",
-                "30PercentChance",
-                "IsWeaponMelee",
-                "IsNotCrossHairEnemy",
-                "WeaponIsNotVanillaMelee",
-                "WeaponIsNotTaggedKukri"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "IsSniper",
-                "30PercentChance",
-                "IsWeaponPrimary",
-                "WeaponIsNotVanillaPrimary",
-                "WeaponIsNotTaggedRifle"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "IsSniper",
-                "30PercentChance",
-                "IsWeaponSecondary",
-                "WeaponIsNotVanillaSecondary",
-                "WeaponIsNotTaggedSMG"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "IsSniper",
-                "30PercentChance",
-                "WeaponIsBow",
-                "WeaponIsNotVanillaPrimary"
-            ],
-            [
-                "ConceptPlayerBattleCry",
-                "IsSniper",
-                "30PercentChance",
-                "WeaponIsJarate",
-                "WeaponIsNotVanillaSecondary"
-            ]
-        ],
+        "criteria": [],
         "events": [
             "sniper.specialweapon04",
             "sniper.taunt_shooters_stake_rand01"
         ],
         "responses": [
-            "PlayerShinyCrySniper",
             "Taunt: Shooter's Stakeout"
         ],
-        "rules": [
-            "PlayerShinyCrySniper",
-            "PlayerShinyCrySniperBow",
-            "PlayerShinyCrySniperJarate",
-            "PlayerShinyCrySniperMelee",
-            "PlayerShinyCrySniperSecondary"
-        ],
+        "rules": [],
         "scenes": [
-            "scenes/player/sniper/low/2287.vcd",
+            "scenes/player/sniper/low/2287.vcd (bad timestamp)",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
