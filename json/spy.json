@@ -2847,7 +2847,8 @@
         "responses": [
             "AcceptedDuelSpy",
             "PlayerBattleCrySpy",
-            "PlayerRoundStartSpy"
+            "PlayerRoundStartSpy",
+            "Taunt: Luxury Lounge"
         ],
         "rules": [
             "AcceptedDuelSpy",
@@ -2855,7 +2856,8 @@
             "PlayerRoundStartSpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/709.vcd"
+            "scenes/player/spy/low/709.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
         "transcript": "Shall we?"
@@ -2919,7 +2921,8 @@
             "PlayerBattleCrySpy",
             "PlayerRoundStartSpy",
             "SpyTauntPrimary",
-            "SpyTauntSpycicle"
+            "SpyTauntSpycicle",
+            "Taunt: Luxury Lounge"
         ],
         "rules": [
             "PlayerBattleCrySpy",
@@ -2929,7 +2932,8 @@
         ],
         "scenes": [
             "scenes/player/spy/low/707.vcd",
-            "scenes/player/spy/low/taunt01_v5.vcd"
+            "scenes/player/spy/low/taunt01_v5.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
         "transcript": "Ahem..."
@@ -7328,6 +7332,7 @@
         ],
         "responses": [
             "PlayerTauntsSpy",
+            "Taunt: Luxury Lounge",
             "Taunt: The Box Trot"
         ],
         "rules": [
@@ -7335,6 +7340,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/777.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd"
         ],
         "state": "used",
@@ -7358,6 +7364,7 @@
         ],
         "responses": [
             "PlayerTauntsSpy",
+            "Taunt: Luxury Lounge",
             "Taunt: The Box Trot",
             "Taunt: The Crypt Creeper"
         ],
@@ -7366,6 +7373,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/778.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd"
         ],
@@ -7391,6 +7399,7 @@
         ],
         "responses": [
             "PlayerTauntsSpy",
+            "Taunt: Luxury Lounge",
             "Taunt: Teufort Tango",
             "Taunt: The Box Trot",
             "Taunt: The Final Score"
@@ -7400,6 +7409,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/1314.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
@@ -7431,6 +7441,7 @@
         "responses": [
             "PlayerTauntsSpy",
             "SpyTauntPDA",
+            "Taunt: Luxury Lounge",
             "Taunt: Teufort Tango",
             "Taunt: The Box Trot"
         ],
@@ -7441,6 +7452,7 @@
         "scenes": [
             "scenes/player/spy/low/1315.vcd",
             "scenes/player/spy/low/taunt04_v4.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
@@ -7472,6 +7484,7 @@
         "responses": [
             "PlayerTauntsSpy",
             "SpyTauntPDA",
+            "Taunt: Luxury Lounge",
             "Taunt: Teufort Tango",
             "Taunt: The Box Trot"
         ],
@@ -7482,6 +7495,7 @@
         "scenes": [
             "scenes/player/spy/low/1316.vcd",
             "scenes/player/spy/low/taunt04_v3.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd"
@@ -7772,6 +7786,7 @@
         "responses": [
             "SpyMvMLootCommon",
             "Taunt: Commending Clap",
+            "Taunt: Luxury Lounge",
             "Taunt: Tailored Terminal"
         ],
         "rules": [
@@ -7780,6 +7795,7 @@
         "scenes": [
             "scenes/player/spy/low/7513.vcd",
             "scenes/workshop/player/spy/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd"
         ],
         "state": "used",
@@ -7827,6 +7843,7 @@
         ],
         "responses": [
             "SpyMvMLootCommon",
+            "Taunt: Luxury Lounge",
             "Taunt: Peace!",
             "Taunt: Tailored Terminal",
             "Taunt: Teufort Tango"
@@ -7836,6 +7853,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/8547.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_peace.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
@@ -7990,14 +8008,16 @@
         ],
         "responses": [
             "SpyMvMLootRare",
-            "SpySF13SpellPickupRare"
+            "SpySF13SpellPickupRare",
+            "Taunt: Luxury Lounge"
         ],
         "rules": [
             "SpyMvMLootRare",
             "SpySF13SpellPickupRare"
         ],
         "scenes": [
-            "scenes/player/spy/low/8546.vcd"
+            "scenes/player/spy/low/8546.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
         "transcript": "Magnificent!"
@@ -8112,6 +8132,7 @@
         ],
         "responses": [
             "SpyMvmResurrected",
+            "Taunt: Luxury Lounge",
             "Taunt: Mourning Mercs"
         ],
         "rules": [
@@ -8119,6 +8140,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/7527.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd"
         ],
         "state": "used",
@@ -8281,6 +8303,7 @@
         ],
         "responses": [
             "SpyMvmResurrected",
+            "Taunt: Luxury Lounge",
             "Taunt: The Crypt Creeper"
         ],
         "rules": [
@@ -8288,6 +8311,7 @@
         ],
         "scenes": [
             "scenes/player/spy/low/7535.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd"
         ],
         "state": "used",
@@ -10394,13 +10418,15 @@
             "taunt.luxury_lounge_loop"
         ],
         "responses": [
-            "SpySF13SpellPickupCommon"
+            "SpySF13SpellPickupCommon",
+            "Taunt: Luxury Lounge"
         ],
         "rules": [
             "SpySF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/player/spy/low/7522.vcd"
+            "scenes/player/spy/low/7522.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
         "transcript": "Excellent."
@@ -10418,13 +10444,15 @@
             "taunt.luxury_lounge_loop"
         ],
         "responses": [
-            "SpySF13SpellPickupCommon"
+            "SpySF13SpellPickupCommon",
+            "Taunt: Luxury Lounge"
         ],
         "rules": [
             "SpySF13SpellPickupCommon"
         ],
         "scenes": [
-            "scenes/player/spy/low/7520.vcd"
+            "scenes/player/spy/low/7520.vcd",
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
         "transcript": "Marvelous."
@@ -15177,9 +15205,13 @@
             "spy_taunt_trade_loop_rand",
             "taunt.luxury_lounge_outro"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Luxury Lounge"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge_outro.vcd"
+        ],
         "state": "used",
         "transcript": "Very nice, yea?"
     },
@@ -15214,9 +15246,13 @@
             "spy_taunt_trade_loop_rand",
             "taunt.luxury_lounge_outro"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Luxury Lounge"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge_outro.vcd"
+        ],
         "state": "used",
         "transcript": "I have expensive tastes."
     },
@@ -15229,10 +15265,12 @@
             "taunt.luxury_lounge_intro"
         ],
         "responses": [
+            "Taunt: Luxury Lounge",
             "Taunt: Tailored Terminal"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd"
         ],
         "state": "used",

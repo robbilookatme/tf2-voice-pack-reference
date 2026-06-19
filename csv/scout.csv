@@ -137,8 +137,8 @@ Your Line:,,,Rules:,"['PlayerCappedIntelligenceScout', 'PlayerKilledCapperScout'
 ,,,Criteria:,"[['ConceptCapBlocked', 'IsScout', 'AppliesContext:ScoutKillSpeech:1:10'], ['ConceptPlayerCapturedIntelligence', 'IsScout']]"
 
 Filename:,scout_autocappedintelligence02,,Events:,"['scout.autocappedintelligence02', 'scout_taunt_trackmans_touchdown_end']"
-Full Path:,sound/vo/scout_autocappedintelligence02.mp3,,Scenes:,"['scenes/player/scout/low/360.vcd', 'scenes/player/scout/low/taunt02_vocal03.vcd']"
-Transcription:,I'm not even winded.,,Responses:,"['PlayerCappedIntelligenceScout', 'ScoutTauntSecondary']"
+Full Path:,sound/vo/scout_autocappedintelligence02.mp3,,Scenes:,"['scenes/player/scout/low/360.vcd', 'scenes/player/scout/low/taunt02_vocal03.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,I'm not even winded.,,Responses:,"['PlayerCappedIntelligenceScout', 'ScoutTauntSecondary', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,"['PlayerCappedIntelligenceScout', 'ScoutTauntHandgunScoutSecondary', 'ScoutTauntMadMilk', 'ScoutTauntMutatedMilk', 'ScoutTauntPlayerSecondary', 'ScoutTauntSDCleaver', 'ScoutTauntShortstop']"
 ,,,Criteria:,"[['ConceptPlayerCapturedIntelligence', 'IsScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsHandgunScoutSecondary'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsMadMilk'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsMutatedMilk'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPistolScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSDCleaver'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsShortstop']]"
 
@@ -251,8 +251,8 @@ Your Line:,,,Rules:,['AwardScout']
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsScout', 'ScoutNotAwardSpeech', 'AppliesContext:ScoutAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,scout_award12,,Events:,"['scout.award12', 'scout_mic_drop_scout_domination13', 'scout_taunt_trackmans_touchdown_end', 'taunt.runners_rythm_outro']"
-Full Path:,sound/vo/scout_award12.mp3,,Scenes:,['scenes/player/scout/low/2681.vcd']
-Transcription:,Bang! I make it look easy!,,Responses:,"['AwardScout', 'PlayerKilledForRevengeScout']"
+Full Path:,sound/vo/scout_award12.mp3,,Scenes:,"['scenes/player/scout/low/2681.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Bang! I make it look easy!,,Responses:,"['AwardScout', 'PlayerKilledForRevengeScout', ""Taunt: Runner's Rhythm"", ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,"['AwardScout', 'PlayerKilledForRevengeScout']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsScout', 'ScoutNotAwardSpeech', 'AppliesContext:ScoutAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'IsScout', 'IsRevenge', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -275,8 +275,8 @@ Your Line:,,,Rules:,"['PlayerBattleCryScout', 'PlayerRoundStartScout']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsScout'], ['ConceptPlayerRoundStart', 'IsScout']]"
 
 Filename:,scout_battlecry04,,Events:,"['scout.battlecry04', 'scout_taunt_flag_a', 'taunt.runners_rythm_loop']"
-Full Path:,sound/vo/scout_battlecry04.mp3,,Scenes:,"['scenes/player/scout/low/371.vcd', 'scenes/player/scout/low/taunt_rps_paper_win.vcd', 'scenes/player/scout/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_win.vcd', 'scenes/player/scout/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd']"
-Transcription:,Wohoooo!,,Responses:,"['PlayerBattleCryScout', 'PlayerRoundStartScout', 'Taunt: Flying Colors', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/scout_battlecry04.mp3,,Scenes:,"['scenes/player/scout/low/371.vcd', 'scenes/player/scout/low/taunt_rps_paper_win.vcd', 'scenes/player/scout/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_win.vcd', 'scenes/player/scout/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,Wohoooo!,,Responses:,"['PlayerBattleCryScout', 'PlayerRoundStartScout', 'Taunt: Flying Colors', 'Taunt: Rock, Paper, Scissors', ""Taunt: Runner's Rhythm""]"
 Your Line:,,,Rules:,"['PlayerBattleCryScout', 'PlayerRoundStartScout']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsScout'], ['ConceptPlayerRoundStart', 'IsScout']]"
 
@@ -743,8 +743,8 @@ Your Line:,,,Rules:,"['PlayerCheersScout', 'PlayerKilledForRevengeScout']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsRevenge', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerCheers', 'IsScout']]"
 
 Filename:,scout_cheers03,,Events:,"['scout.cheers03', 'scout_taunt_boston_breakdance_end', 'taunt.runners_rythm_loop', 'taunt_scout_chairholder_start_b']"
-Full Path:,sound/vo/scout_cheers03.mp3,,Scenes:,"['scenes/player/scout/low/375.vcd', 'scenes/player/scout/low/taunt01_alt_vocal01.vcd', 'scenes/player/scout/low/taunt01_vocal01.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,Wohohoo!,,Responses:,"['PlayerCheersScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', 'Taunt: Chairholder', 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/scout_cheers03.mp3,,Scenes:,"['scenes/player/scout/low/375.vcd', 'scenes/player/scout/low/taunt01_alt_vocal01.vcd', 'scenes/player/scout/low/taunt01_vocal01.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,Wohohoo!,,Responses:,"['PlayerCheersScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', 'Taunt: Chairholder', ""Taunt: Runner's Rhythm"", 'Taunt: Spin-to-Win', 'Taunt: The Boston Breakdance']"
 Your Line:,,,Rules:,"['PlayerCheersScout', 'ScoutTauntPEPBrawlerBlaster', 'ScoutTauntPlayerPrimary', 'ScoutTauntScattergunDouble', 'ScoutTauntScattergunDoubleFestive', 'ScoutTauntSodaPopper']"
 ,,,Criteria:,"[['ConceptPlayerCheers', 'IsScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPEPBrawlerBlaster'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergun'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDouble'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDoubleFestive'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSodaPopper']]"
 
@@ -1487,8 +1487,8 @@ Your Line:,,,Rules:,['PlayerHelpDefendScout']
 ,,,Criteria:,"[['ConceptPlayerHelp', 'IsScout', 'IsOnFriendlyControlPoint']]"
 
 Filename:,scout_incoming01,,Events:,"['scout.incoming01', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/scout_incoming01.mp3,,Scenes:,['scenes/player/scout/low/413.vcd']
-Transcription:,Incoming!,,Responses:,['PlayerIncomingScout']
+Full Path:,sound/vo/scout_incoming01.mp3,,Scenes:,"['scenes/player/scout/low/413.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Incoming!,,Responses:,"['PlayerIncomingScout', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,['PlayerIncomingScout']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsScout']]"
 
@@ -1499,8 +1499,8 @@ Your Line:,,,Rules:,['PlayerIncomingScout']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsScout']]"
 
 Filename:,scout_incoming03,,Events:,"['scout.incoming03', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/scout_incoming03.mp3,,Scenes:,['scenes/player/scout/low/415.vcd']
-Transcription:,Incoming!,,Responses:,['PlayerIncomingScout']
+Full Path:,sound/vo/scout_incoming03.mp3,,Scenes:,"['scenes/player/scout/low/415.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Incoming!,,Responses:,"['PlayerIncomingScout', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,['PlayerIncomingScout']
 ,,,Criteria:,"[['ConceptPlayerIncoming', 'IsScout']]"
 
@@ -1721,8 +1721,8 @@ Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
 Filename:,scout_laughshort02,,Events:,"['scout.laughshort02', 'scout.short_laughs', 'taunt.bearhug_scout_d', 'taunt.runners_rythm_loop', 'taunt_scout_chairholder_start_c', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_laughshort02.mp3,,Scenes:,"['scenes/player/scout/low/437.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Ha hah!,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
+Full Path:,sound/vo/scout_laughshort02.mp3,,Scenes:,"['scenes/player/scout/low/437.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
+Transcription:,Ha hah!,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: Runner's Rhythm"", ""Taunt: The Homerunner's Hobby"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
@@ -1799,8 +1799,8 @@ Your Line:,,,Rules:,"['MeleeDareCombatScout', 'MeleeDareScout']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsScout', 'IsCrosshairEnemy'], ['ConceptRequestDuel', 'IsScout']]"
 
 Filename:,scout_meleedare03,,Events:,"['scout.meleedare03', 'taunt.runners_rythm_intro']"
-Full Path:,sound/vo/scout_meleedare03.mp3,,Scenes:,['scenes/player/scout/low/2582.vcd']
-Transcription:,Let's do dis.,,Responses:,"['MeleeDareCombatScout', 'MeleeDareScout']"
+Full Path:,sound/vo/scout_meleedare03.mp3,,Scenes:,"['scenes/player/scout/low/2582.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,Let's do dis.,,Responses:,"['MeleeDareCombatScout', 'MeleeDareScout', ""Taunt: Runner's Rhythm""]"
 Your Line:,,,Rules:,"['MeleeDareCombatScout', 'MeleeDareScout']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsScout', 'IsCrosshairEnemy'], ['ConceptRequestDuel', 'IsScout']]"
 
@@ -2081,8 +2081,8 @@ Your Line:,,,Rules:,['PlayerPainScout']
 ,,,Criteria:,"[['ConceptPain', 'IsScout', 'IsNotDominating']]"
 
 Filename:,scout_positivevocalization01,,Events:,"['scout.positivevocalization01', 'taunt.runners_rythm_loop']"
-Full Path:,sound/vo/scout_positivevocalization01.mp3,,Scenes:,['scenes/player/scout/low/1302.vcd']
-Transcription:,"[quiet snortish laughter] ""Ha ha ha... yeah...""",,Responses:,['PlayerPositiveScout']
+Full Path:,sound/vo/scout_positivevocalization01.mp3,,Scenes:,"['scenes/player/scout/low/1302.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,"[quiet snortish laughter] ""Ha ha ha... yeah...""",,Responses:,"['PlayerPositiveScout', ""Taunt: Runner's Rhythm""]"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
@@ -2105,8 +2105,8 @@ Your Line:,,,Rules:,"['PlayerPositiveScout', 'ScoutTauntPEPBrawlerBlaster', 'Sco
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPEPBrawlerBlaster'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergun'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDouble'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDoubleFestive'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSodaPopper']]"
 
 Filename:,scout_positivevocalization05,,Events:,"['scout.positivevocalization05', 'scout_taunt_boston_breakdance_end', 'taunt.runners_rythm_outro']"
-Full Path:,sound/vo/scout_positivevocalization05.mp3,,Scenes:,"['scenes/player/scout/low/471.vcd', 'scenes/player/scout/low/taunt01_alt_vocal03.vcd', 'scenes/player/scout/low/taunt01_vocal03.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,That's what I'm talking about!,,Responses:,"['PlayerPositiveScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', 'Taunt: Spin-to-Win', 'Taunt: The Boston Boarder', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/scout_positivevocalization05.mp3,,Scenes:,"['scenes/player/scout/low/471.vcd', 'scenes/player/scout/low/taunt01_alt_vocal03.vcd', 'scenes/player/scout/low/taunt01_vocal03.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,That's what I'm talking about!,,Responses:,"['PlayerPositiveScout', 'ScoutTauntPrimary', 'ScoutTauntPrimaryDouble', ""Taunt: Runner's Rhythm"", 'Taunt: Spin-to-Win', 'Taunt: The Boston Boarder', 'Taunt: The Boston Breakdance']"
 Your Line:,,,Rules:,"['PlayerPositiveScout', 'ScoutTauntPEPBrawlerBlaster', 'ScoutTauntPlayerPrimary', 'ScoutTauntScattergunDouble', 'ScoutTauntScattergunDoubleFestive', 'ScoutTauntSodaPopper']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPEPBrawlerBlaster'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergun'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDouble'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsScattergunDoubleFestive'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSodaPopper']]"
 
@@ -2537,8 +2537,8 @@ Your Line:,,,Rules:,['PlayerYesScout']
 ,,,Criteria:,"[['ConceptPlayerYes', 'IsScout']]"
 
 Filename:,scout_taunts01,,Events:,"['scout.taunts01', 'scout_mic_drop_scout_domination13', 'scout_taunt_trackmans_touchdown_end']"
-Full Path:,sound/vo/taunts/scout_taunts01.mp3,,Scenes:,['scenes/player/scout/low/taunt02_vocal01.vcd']
-Transcription:,I'm runnin' circles around ya!,,Responses:,['ScoutTauntSecondary']
+Full Path:,sound/vo/taunts/scout_taunts01.mp3,,Scenes:,"['scenes/player/scout/low/taunt02_vocal01.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,I'm runnin' circles around ya!,,Responses:,"['ScoutTauntSecondary', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,"['ScoutTauntHandgunScoutSecondary', 'ScoutTauntMadMilk', 'ScoutTauntMutatedMilk', 'ScoutTauntPlayerSecondary', 'ScoutTauntSDCleaver', 'ScoutTauntShortstop']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsScout', 'WeaponIsHandgunScoutSecondary'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsMadMilk'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsMutatedMilk'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsPistolScout'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsSDCleaver'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsShortstop']]"
 
@@ -2573,8 +2573,8 @@ Your Line:,,,Rules:,"['AcceptedDuelScout', 'MeleeDareCombatScout']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsScout'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsScout', 'IsCrosshairEnemy']]"
 
 Filename:,scout_taunts07,,Events:,"['scout.taunts07', 'scout_taunt_trackmans_touchdown_end']"
-Full Path:,sound/vo/taunts/scout_taunts07.mp3,,Scenes:,['scenes/player/scout/low/taunt03_vocal05.vcd']
-Transcription:,Who wants some-a this?,,Responses:,['ScoutTauntMelee']
+Full Path:,sound/vo/taunts/scout_taunts07.mp3,,Scenes:,"['scenes/player/scout/low/taunt03_vocal05.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Who wants some-a this?,,Responses:,"['ScoutTauntMelee', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,"['ScoutTauntFestiveHolyMackerel', 'ScoutTauntHolyMackerel', 'ScoutTauntPlayerMelee', 'ScoutTauntUnarmedCombat', 'ScoutTauntWrapAssassin']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsScout', 'WeaponIsBat'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsFestiveHolyMackerel'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsHolyMackerel'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsUnarmedCombat'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsWrapAssassin']]"
 
@@ -2681,20 +2681,20 @@ Your Line:,,,Rules:,['ScoutMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsScout', '20PercentChance']]"
 
 Filename:,scout_mvm_loot_common03,,Events:,"['scout_mvm_loot_common03', 'taunt.runners_rythm_loop', 'taunt_scout_chairholder_loop_c']"
-Full Path:,sound/vo/scout_mvm_loot_common03.mp3,,Scenes:,"['scenes/player/scout/low/6935.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,(Laughs) Oh yeah!,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Chairholder']"
+Full Path:,sound/vo/scout_mvm_loot_common03.mp3,,Scenes:,"['scenes/player/scout/low/6935.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,(Laughs) Oh yeah!,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Chairholder', ""Taunt: Runner's Rhythm""]"
 Your Line:,,,Rules:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon']"
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsScout', '20PercentChance'], ['ConceptPlayerSpellPickupCommon', 'IsScout']]"
 
 Filename:,scout_mvm_loot_common04,,Events:,"['scout_mvm_loot_common04', 'taunt.bunnyhop_intro', 'taunt_scout_chairholder_loop_c']"
-Full Path:,sound/vo/scout_mvm_loot_common04.mp3,,Scenes:,"['scenes/player/scout/low/6936.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Sweet.,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Chairholder']"
+Full Path:,sound/vo/scout_mvm_loot_common04.mp3,,Scenes:,"['scenes/player/scout/low/6936.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Sweet.,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Chairholder', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon']"
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsScout', '20PercentChance'], ['ConceptPlayerSpellPickupCommon', 'IsScout']]"
 
 Filename:,scout_mvm_loot_common05,,Events:,"['scout_mvm_loot_common05', 'scout_taunt_medpack_voice_a', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/scout_mvm_loot_common05.mp3,,Scenes:,"['scenes/player/scout/low/6938.vcd', 'scenes/workshop/player/scout/low/taunt_healthcarehog.vcd']"
-Transcription:,Come to daddy!,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Healthcare Hog']"
+Full Path:,sound/vo/scout_mvm_loot_common05.mp3,,Scenes:,"['scenes/player/scout/low/6938.vcd', 'scenes/workshop/player/scout/low/taunt_healthcarehog.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Come to daddy!,,Responses:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon', 'Taunt: Healthcare Hog', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,"['ScoutMvMLootCommon', 'ScoutSF13SpellPickupCommon']"
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsScout', '20PercentChance'], ['ConceptPlayerSpellPickupCommon', 'IsScout']]"
 
@@ -2717,8 +2717,8 @@ Your Line:,,,Rules:,['ScoutMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsScout']]"
 
 Filename:,scout_mvm_loot_rare01,,Events:,"['scout_mvm_loot_rare01', 'taunt.bunnyhop_intro', 'taunt_scout_chairholder_loop_a', 'taunt_yeti_scout']"
-Full Path:,sound/vo/scout_mvm_loot_rare01.mp3,,Scenes:,"['scenes/player/scout/low/8512.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Ooooh! Yeah!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare', 'Taunt: Chairholder', 'Taunt: Yeti Smash']"
+Full Path:,sound/vo/scout_mvm_loot_rare01.mp3,,Scenes:,"['scenes/player/scout/low/8512.vcd', 'scenes/player/scout/low/yeti_taunt.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Ooooh! Yeah!,,Responses:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare', 'Taunt: Chairholder', 'Taunt: The Bunnyhopper', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['ScoutMvMLootRare', 'ScoutSF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsScout'], ['ConceptPlayerSpellPickupRare', 'IsScout']]"
 
@@ -3185,14 +3185,14 @@ Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,scout_taunt_bos_exert_01,,Events:,"['scout_taunt_bos_exert_01', 'scout_taunt_neck_snap_01', 'scout_taunt_trackmans_touchdown_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_bos_exert_01.mp3,,Scenes:,"['scenes/player/scout/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_neck_snap.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd']"
-Transcription:,"Hey, hey! Yeah!",,Responses:,"['Taunt: Neck Snap', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Fist Bump']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_bos_exert_01.mp3,,Scenes:,"['scenes/player/scout/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/workshop/player/scout/low/taunt_neck_snap.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Hey, hey! Yeah!",,Responses:,"['Taunt: Neck Snap', 'Taunt: Rock, Paper, Scissors', 'Taunt: The Fist Bump', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_01,,Events:,"['scout_taunt_conga_random_fun3', 'scout_taunt_trackmans_touchdown_dance', 'taunt.bearhug_scout_a', 'taunt.freshbeats', 'taunt.runners_rythm_intro', 'taunt.scoutmopedstart', 'taunt_killer_signature_scout']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_01.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
-Transcription:,"Heh hey, yeah!",,Responses:,"['Taunt: Bear Hug', 'Taunt: Conga', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_01.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Heh hey, yeah!",,Responses:,"['Taunt: Bear Hug', 'Taunt: Conga', ""Taunt: Runner's Rhythm"", 'Taunt: The Carlton', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3203,8 +3203,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_04,,Events:,"['scout_taunt_russian_rand01', 'taunt.runners_rythm_loop', 'taunt.scoutmopedstart']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_04.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd']"
-Transcription:,Oh yeah!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_04.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,Oh yeah!,,Responses:,"['Taunt: Kazotsky Kick', ""Taunt: Runner's Rhythm"", 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3215,38 +3215,38 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_06,,Events:,"['scout_taunt_conga_random_fun3', 'scout_taunt_trackmans_touchdown_dance', 'taunt.freshbeats']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_06.mp3,,Scenes:,['scenes/player/scout/low/conga.vcd']
-Transcription:,"Dun da dun dun da, yeah!",,Responses:,['Taunt: Conga']
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_06.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Dun da dun dun da, yeah!",,Responses:,"['Taunt: Conga', 'Taunt: The Carlton', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_07,,Events:,"['scout_taunt_conga_random_fun2', 'scout_taunt_trackmans_touchdown_dance', 'taunt.freshbeats', 'taunt_scout_aerobic_shared_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_07.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd']"
-Transcription:,"Heh hey, dun dum dum der!",,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_07.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Heh hey, dun dum dum der!",,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Carlton', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_08,,Events:,"['scout_taunt_conga_random_fun1', 'scout_taunt_russian_rand01', 'scout_taunt_trackmans_touchdown_dance', 'taunt.freshbeats']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_08.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_russian.vcd']"
-Transcription:,Yeah! Dancin' dancin'!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_08.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Yeah! Dancin' dancin'!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick', 'Taunt: The Carlton', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_09,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_conga_random_fun2', 'taunt.freshbeats', 'taunt_scout_aerobic_shared_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_09.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,"Dun dum der der, yeah!",,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_09.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,"Dun dum der der, yeah!",,Responses:,"['Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Boston Breakdance', 'Taunt: The Carlton']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_11,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_conga_random_fun2', 'scout_taunt_russian_rand01', 'scout_taunt_trackmans_touchdown_end']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_11.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,I'm dancin'!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_11.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,I'm dancin'!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick', 'Taunt: The Boston Breakdance', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_conga_fun_12,,Events:,"['scout_taunt_conga_random_fun3', 'taunt.runners_rythm_outro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_12.mp3,,Scenes:,['scenes/player/scout/low/conga.vcd']
-Transcription:,"S'no problem. I do dis all the time. I could do dis for money, I don't, but I could!",,Responses:,['Taunt: Conga']
+Full Path:,sound/vo/taunts/scout/scout_taunt_conga_fun_12.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd']"
+Transcription:,"S'no problem. I do dis all the time. I could do dis for money, I don't, but I could!",,Responses:,"['Taunt: Conga', ""Taunt: Runner's Rhythm""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3281,14 +3281,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_end_03,,Events:,"['scout_taunt_dosido_endlong_rand', 'taunt.runners_rythm_outro', 'taunt.scoutmopedwheely', 'taunt_scout_aerobic_shared_dance_buttslap']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_end_03.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd']"
-Transcription:,Yeah! Dat just happened!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_end_03.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd']"
+Transcription:,Yeah! Dat just happened!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Runner's Rhythm"", 'Taunt: Square Dance', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_end_05,,Events:,"['scout_taunt_dosido_endlong_rand', 'taunt.runners_rythm_outro', 'taunt_scout_aerobic_shared_dance_buttslap']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_end_05.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd']"
-Transcription:,Dat is how it's done!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_end_05.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd']"
+Transcription:,Dat is how it's done!,,Responses:,"['Taunt: Mannrobics', ""Taunt: Runner's Rhythm"", 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3311,20 +3311,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_fun_02,,Events:,"['scout_taunt_dosido_start_rand', 'scout_taunt_trackmans_touchdown_dance', 'taunt.freshbeats', 'taunt_scout_chairholder_loop_c']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_02.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,"Dun dah, yeah!",,Responses:,"['Taunt: Chairholder', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_02.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Dun dah, yeah!",,Responses:,"['Taunt: Chairholder', 'Taunt: Square Dance', 'Taunt: The Carlton', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_fun_03,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_flip_random_waiting2', 'scout_taunt_trackmans_touchdown_dance', 'taunt.runners_rythm_loop', 'taunt.scoutmopedend', 'taunt_scout_aerobic_shared_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_03.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,"Ooh, ho hoo!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Boston Boarder', 'Taunt: The Boston Breakdance', 'Taunt: The Hot Wheeler', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_03.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,"Ooh, ho hoo!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', ""Taunt: Runner's Rhythm"", 'Taunt: The Boston Boarder', 'Taunt: The Boston Breakdance', 'Taunt: The Hot Wheeler', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_fun_09,,Events:,"['scout_taunt_dosido_start_rand', 'taunt.freshbeats', 'taunt.runners_rythm_loop']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_09.mp3,,Scenes:,['scenes/player/scout/low/taunt_dosido_dance01.vcd']
-Transcription:,"Dah da daaaa, da dah!",,Responses:,['Taunt: Square Dance']
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_09.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,"Dah da daaaa, da dah!",,Responses:,"[""Taunt: Runner's Rhythm"", 'Taunt: Square Dance', 'Taunt: The Carlton']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3335,8 +3335,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_fun_15,,Events:,"['scout_taunt_russian_rand01', 'taunt.freshbeats', 'taunt.scoutmopedstart', 'taunt_scout_aerobic_shared_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_15.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd']"
-Transcription:,"Whoo hoo hoo, yeah! Hey hey hey hey!",,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_fun_15.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd']"
+Transcription:,"Whoo hoo hoo, yeah! Hey hey hey hey!",,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: The Carlton', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3353,8 +3353,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_int_10,,Events:,"['scout_taunt_dosido_intro_rand', 'scout_taunt_dosido_mid_rand', 'scout_taunt_trackmans_touchdown_end']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_10.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_dance00.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd']"
-Transcription:,I got da moves!,,Responses:,['Taunt: Square Dance']
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_10.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_dance00.vcd', 'scenes/player/scout/low/taunt_dosido_dance01.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,I got da moves!,,Responses:,"['Taunt: Square Dance', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3371,14 +3371,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_int_17,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_dosido_intro_rand', 'taunt.freshbeats']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_17.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,I got too many rhythms over here!,,Responses:,"['Taunt: Square Dance', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_17.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,I got too many rhythms over here!,,Responses:,"['Taunt: Square Dance', 'Taunt: The Boston Breakdance', 'Taunt: The Carlton']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_dosi_int_19,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_dosido_intro_rand', 'taunt.freshbeats']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_19.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,"Gotta dance, I gotta dance!",,Responses:,"['Taunt: Square Dance', 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_dosi_int_19.mp3,,Scenes:,"['scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_freshbeats.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
+Transcription:,"Gotta dance, I gotta dance!",,Responses:,"['Taunt: Square Dance', 'Taunt: The Boston Breakdance', 'Taunt: The Carlton']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3401,14 +3401,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_exert_21,,Events:,"['scout_taunt_headbutt_success_windup', 'scout_taunt_trackmans_touchdown_start']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_exert_21.mp3,,Scenes:,['scenes/player/scout/low/taunt_headbutt_success.vcd']
-Transcription:,Boom!,,Responses:,['Taunt: Skullcracker']
+Full Path:,sound/vo/taunts/scout/scout_taunt_exert_21.mp3,,Scenes:,"['scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Boom!,,Responses:,"['Taunt: Skullcracker', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_exert_23,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_exert_23.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd']"
-Transcription:,Boom!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_exert_23.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Boom!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3437,14 +3437,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_end_07,,Events:,"['scout_taunt_flip_random_flipadmire', 'taunt.bunnyhop_flip', 'taunt.scoutmopedend', 'taunt_killer_signature_scout']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_07.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
-Transcription:,Yeah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_07.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
+Transcription:,Yeah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_end_08,,Events:,"['scout_taunt_flip_random_flipadmire', 'taunt.bunnyhop_outro', 'taunt.scoutmopedend', 'taunt_killer_signature_scout']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_08.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
-Transcription:,Perfect landing!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_08.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
+Transcription:,Perfect landing!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3461,8 +3461,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_end_19,,Events:,"['scout_taunt_flip_random_flipadmire', 'taunt.runners_rythm_outro', 'taunt.scoutmopedend', 'taunt_killer_signature_scout']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_19.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
-Transcription:,"Ha hah, yeah!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_end_19.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
+Transcription:,"Ha hah, yeah!",,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Runner's Rhythm"", 'Taunt: The Boston Boarder', 'Taunt: The Hot Wheeler', 'Taunt: The Killer Signature', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3479,14 +3479,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_01,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_01.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd']"
-Transcription:,Uhrah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_01.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Uhrah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_05,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_05.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd']"
-Transcription:,UHRAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_05.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,UHRAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3497,74 +3497,74 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_09,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_flip_random_flipflipping1', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_09.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
-Transcription:,UHYEAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_09.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,UHYEAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_10,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_10.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd']"
-Transcription:,UHNNAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_10.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,UHNNAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_13,,Events:,"['scout_taunt_flip_random_flipexert', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin', 'taunt.scoutmopedend']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_13.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd']"
-Transcription:,[strained] Up yah go!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Hot Wheeler', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_13.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_end.vcd', 'scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd']"
+Transcription:,[strained] Up yah go!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Hot Wheeler', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_01,,Events:,"['scout_taunt_flip_random_flipflipping2', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt.scoutmopedstart', 'taunt_scout_chairholder_start_b']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Wooo!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome"", 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_01.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Wooo!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome"", 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_02,,Events:,"['scout_taunt_flip_random_flipflipping1', 'scout_taunt_flip_random_intro', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt.scoutmopedstart']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_02.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
-Transcription:,Woo hoo hoo!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Spin-to-Win', 'Taunt: The Boston Boarder', 'Taunt: The Scooty Scoot', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_02.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Woo hoo hoo!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Spin-to-Win', 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_03,,Events:,"['scout_taunt_conga_random_fun1', 'scout_taunt_flip_random_flipthrowantic', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt.scoutmopedstart', 'taunt_scout_chairholder_start_a']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_03.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,Yeah-eah!,,Responses:,"['Taunt: Chairholder', 'Taunt: Conga', ""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_03.mp3,,Scenes:,"['scenes/player/scout/low/conga.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Yeah-eah!,,Responses:,"['Taunt: Chairholder', 'Taunt: Conga', ""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_04,,Events:,"['scout_taunt_russian_rand01', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt.scoutmopedstart']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_04.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd']"
-Transcription:,Yeah!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_04.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Yeah!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_05,,Events:,"['scout_taunt_flip_random_flipflipping1', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt_scout_chairholder_start_b']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
-Transcription:,BOOM!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_05.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,BOOM!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_06,,Events:,"['scout_taunt_flip_random_flipflipping2', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_spin', 'taunt_scout_chairholder_start_b']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,BOOM!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome""]"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_06.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,BOOM!,,Responses:,"['Taunt: Chairholder', ""Taunt: Flippin' Awesome"", 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_08,,Events:,"['scout_taunt_flip_random_flipflipping2', 'scout_taunt_flip_random_flipthrowantic', 'taunt.bunnyhop_flip']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_08.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd']"
-Transcription:,I'm flyin'!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_08.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd']"
+Transcription:,I'm flyin'!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_09,,Events:,"['scout_taunt_flip_random_flipthrowantic', 'taunt.bunnyhop_flip', 'taunt.scoutmopedwheely']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd']"
-Transcription:,Grabbin' air!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_09.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd']"
+Transcription:,Grabbin' air!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_fun_10,,Events:,"['scout_taunt_flip_random_flipflipping1', 'taunt.bunnyhop_flip', 'taunt.scoutmopedwheely']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
-Transcription:,Grabbin air!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Scooty Scoot', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_fun_10.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/scout/low/taunt_vehicle_allclass.vcd', 'scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd']"
+Transcription:,Grabbin air!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3581,8 +3581,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_int_07,,Events:,"['scout_taunt_flip_random_intro', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_flip_int_07.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd']"
-Transcription:,"Whoo, let's do this!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Spin-to-Win']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_int_07.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,"Whoo, let's do this!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Spin-to-Win', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3635,8 +3635,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_head_pain_02,,Events:,"['scout_taunt_headbutt_success_recover', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.scoutmopedstart']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_head_pain_02.mp3,,Scenes:,"['scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd']"
-Transcription:,Whoo!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Scooty Scoot']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_head_pain_02.mp3,,Scenes:,"['scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_vehicle_moped.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
+Transcription:,Whoo!,,Responses:,"['Taunt: Skullcracker', 'Taunt: The Bunnyhopper', 'Taunt: The Scooty Scoot', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3689,20 +3689,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_int_08,,Events:,"['scout_taunt_dosido_intro_wait_rand', 'scout_taunt_rps_intro_wait_rand', 'scout_taunt_russian_rand_intro', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_int_08.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_rps_start.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump.vcd']"
-Transcription:,Let's do this!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Spin-to-Win', 'Taunt: Square Dance', 'Taunt: The Boston Boarder', 'Taunt: The Fist Bump']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_int_08.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_rps_start.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump.vcd']"
+Transcription:,Let's do this!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Spin-to-Win', 'Taunt: Square Dance', 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_int_12,,Events:,"['scout_taunt_boston_breakdance', 'scout_taunt_flip_random_waiting1', 'taunt.bunnyhop_intro', 'taunt.runners_rythm_intro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_int_12.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd']"
-Transcription:,Oh it's on!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Breakdance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_int_12.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Oh it's on!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Runner's Rhythm"", 'Taunt: The Boston Breakdance', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_int_14,,Events:,"['scout_taunt_dosido_intro_rand', 'scout_taunt_flip_random_waiting1', 'scout_taunt_peace_vo_02', 'taunt.runners_rythm_intro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_int_14.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/scout/low/taunt_peace.vcd']"
-Transcription:,Who wants some good times?,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Peace!', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_int_14.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/scout/low/taunt_peace.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd']"
+Transcription:,Who wants some good times?,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Peace!', ""Taunt: Runner's Rhythm"", 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3713,8 +3713,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_int_18,,Events:,"['scout_taunt_flip_random_waiting2', 'taunt.runners_rythm_intro']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_int_18.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
-Transcription:,We doin' this!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_int_18.mp3,,Scenes:,"['scenes/player/scout/low/flip_start.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd']"
+Transcription:,We doin' this!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Runner's Rhythm"", 'Taunt: The Boston Boarder']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3731,8 +3731,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_misc_10,,Events:,"['scout_taunt_dosido_intro_wait_rand', 'scout_taunt_russian_rand_intro', 'taunt.bunnyhop_outro', 'taunt_scout_aerobic_shared_dance']"
-Full Path:,sound/vo/taunts/scout/scout_taunt_misc_10.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd']"
-Transcription:,"He-hey, yeah!",,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: Spin-to-Win', 'Taunt: Square Dance', 'Taunt: The Boston Boarder']"
+Full Path:,sound/vo/taunts/scout/scout_taunt_misc_10.mp3,,Scenes:,"['scenes/player/scout/low/taunt_aerobic_a.vcd', 'scenes/player/scout/low/taunt_aerobic_b.vcd', 'scenes/player/scout/low/taunt_dosido_intro01.vcd', 'scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_spintowin.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd']"
+Transcription:,"He-hey, yeah!",,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: Spin-to-Win', 'Taunt: Square Dance', 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3893,8 +3893,8 @@ Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,scout_trade_07,,Events:,"['scout_taunt_medpack_voice_a', 'scout_taunt_russian_rand01', 'taunt.runners_rythm_outro', 'taunt_killer_signature_scout']"
-Full Path:,sound/vo/taunts/scout/scout_trade_07.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_healthcarehog.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
-Transcription:,What d'you think of dat?,,Responses:,"['Taunt: Healthcare Hog', 'Taunt: Kazotsky Kick', 'Taunt: The Killer Signature']"
+Full Path:,sound/vo/taunts/scout/scout_trade_07.mp3,,Scenes:,"['scenes/player/scout/low/taunt_russian.vcd', 'scenes/workshop/player/scout/low/taunt_healthcarehog.vcd', 'scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
+Transcription:,What d'you think of dat?,,Responses:,"['Taunt: Healthcare Hog', 'Taunt: Kazotsky Kick', ""Taunt: Runner's Rhythm"", 'Taunt: The Killer Signature']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3959,8 +3959,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_sf12_badmagic11,,Events:,"['scout_sf12_badmagic11', 'taunt.bunnyhop_outro']"
-Full Path:,sound/vo/scout_sf12_badmagic11.mp3,,Scenes:,['scenes/player/scout/low/4469.vcd']
-Transcription:,Gravity? Who gives a crap about gravity?,,Responses:,['scoutGravityReaction']
+Full Path:,sound/vo/scout_sf12_badmagic11.mp3,,Scenes:,"['scenes/player/scout/low/4469.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd']"
+Transcription:,Gravity? Who gives a crap about gravity?,,Responses:,"['Taunt: The Bunnyhopper', 'scoutGravityReaction']"
 Your Line:,,,Rules:,['scoutGravityReaction']
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isscout', '50PercentChance']]"
 
@@ -4097,20 +4097,20 @@ Your Line:,,,Rules:,['scoutMerasmusHideTaunt']
 ,,,Criteria:,"[['ConceptPlayerExpression', 'Isscout', 'IsMerasmusHiding', 'NotMerasmusHideCooldown', '20PercentChance', 'AppliesContextToWorld:MerasmusHideCooldown:1:30']]"
 
 Filename:,scout_sf12_goodmagic03,,Events:,"['scout_sf12_goodmagic03', 'scout_taunt_commending_clap_b', 'taunt.bunnyhop_intro']"
-Full Path:,sound/vo/scout_sf12_goodmagic03.mp3,,Scenes:,"['scenes/player/scout/low/4479.vcd', 'scenes/workshop/player/scout/low/taunt_commending_clap.vcd']"
-Transcription:,Ye-he-ha-yeah!,,Responses:,"['Taunt: Commending Clap', 'scoutGoodMagicReaction']"
+Full Path:,sound/vo/scout_sf12_goodmagic03.mp3,,Scenes:,"['scenes/player/scout/low/4479.vcd', 'scenes/workshop/player/scout/low/taunt_commending_clap.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,Ye-he-ha-yeah!,,Responses:,"['Taunt: Commending Clap', 'Taunt: The Bunnyhopper', 'scoutGoodMagicReaction']"
 Your Line:,,,Rules:,['scoutGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Isscout', '50PercentChance']]"
 
 Filename:,scout_sf12_goodmagic04,,Events:,"['scout_sf12_goodmagic04', 'taunt.bunnyhop_intro', 'taunt_scout_chairholder_start_a']"
-Full Path:,sound/vo/scout_sf12_goodmagic04.mp3,,Scenes:,"['scenes/player/scout/low/4480.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd']"
-Transcription:,"Oh, hell yeah!",,Responses:,"['Taunt: Chairholder', 'scoutGoodMagicReaction']"
+Full Path:,sound/vo/scout_sf12_goodmagic04.mp3,,Scenes:,"['scenes/player/scout/low/4480.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd']"
+Transcription:,"Oh, hell yeah!",,Responses:,"['Taunt: Chairholder', 'Taunt: The Bunnyhopper', 'scoutGoodMagicReaction']"
 Your Line:,,,Rules:,['scoutGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Isscout', '50PercentChance']]"
 
 Filename:,scout_sf12_goodmagic05,,Events:,"['scout_sf12_goodmagic05', 'scout_taunt_runners_rhythm_scout_sf12_goodmagic05', 'taunt.bunnyhop_flip']"
-Full Path:,sound/vo/scout_sf12_goodmagic05.mp3,,Scenes:,['scenes/player/scout/low/4481.vcd']
-Transcription:,Wuh huh huh hoo!,,Responses:,['scoutGoodMagicReaction']
+Full Path:,sound/vo/scout_sf12_goodmagic05.mp3,,Scenes:,"['scenes/player/scout/low/4481.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd']"
+Transcription:,Wuh huh huh hoo!,,Responses:,"['Taunt: The Bunnyhopper', 'scoutGoodMagicReaction']"
 Your Line:,,,Rules:,['scoutGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Isscout', '50PercentChance']]"
 

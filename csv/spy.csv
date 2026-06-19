@@ -95,8 +95,8 @@ Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy']]"
 
 Filename:,spy_battlecry02,,Events:,"['spy.battlecry02', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/spy_battlecry02.mp3,,Scenes:,['scenes/player/spy/low/709.vcd']
-Transcription:,Shall we?,,Responses:,"['AcceptedDuelSpy', 'PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
+Full Path:,sound/vo/spy_battlecry02.mp3,,Scenes:,"['scenes/player/spy/low/709.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Shall we?,,Responses:,"['AcceptedDuelSpy', 'PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,"['AcceptedDuelSpy', 'PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSpy'], ['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy']]"
 
@@ -107,8 +107,8 @@ Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy']]"
 
 Filename:,spy_battlecry04,,Events:,"['spy.battlecry04', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/707.vcd', 'scenes/player/spy/low/taunt01_v5.vcd']"
-Transcription:,Ahem...,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle']"
+Full Path:,sound/vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/707.vcd', 'scenes/player/spy/low/taunt01_v5.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Ahem...,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle']]"
 
@@ -1001,32 +1001,32 @@ Your Line:,,,Rules:,"['KilledPlayerManySpy', 'SpyTauntAprilFools', 'SpyTauntLaug
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'SpyNotKillSpeech', 'IsSpy', 'AppliesContext:SpyKillSpeech:1:10'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsSpy'], ['ConceptTauntLaugh', 'IsSpy']]"
 
 Filename:,spy_laughshort01,,Events:,"['spy.laughshort01', 'spy_taunt_boxtrot_intro', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_laughshort01.mp3,,Scenes:,"['scenes/player/spy/low/777.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
-Transcription:,Hahaha!,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot']"
+Full Path:,sound/vo/spy_laughshort01.mp3,,Scenes:,"['scenes/player/spy/low/777.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd']"
+Transcription:,Hahaha!,,Responses:,"['PlayerTauntsSpy', 'Taunt: Luxury Lounge', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort02,,Events:,"['spy.chuckle', 'spy.laughshort02', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_crypt_creeper_spy_laughshort02', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_laughshort02.mp3,,Scenes:,"['scenes/player/spy/low/778.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
-Transcription:,Aha huhuhu...,,Responses:,"['PlayerTauntsSpy', 'Taunt: The Box Trot', 'Taunt: The Crypt Creeper']"
+Full Path:,sound/vo/spy_laughshort02.mp3,,Scenes:,"['scenes/player/spy/low/778.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd']"
+Transcription:,Aha huhuhu...,,Responses:,"['PlayerTauntsSpy', 'Taunt: Luxury Lounge', 'Taunt: The Box Trot', 'Taunt: The Crypt Creeper']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort03,,Events:,"['spy.chuckle', 'spy.laughshort03', 'spy_taunt_boxtrot_intro', 'spy_taunt_the_final_score_spy_spy_laughshort03', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_laughshort03.mp3,,Scenes:,"['scenes/player/spy/low/1314.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Oh hohoho.,,Responses:,"['PlayerTauntsSpy', 'Taunt: Teufort Tango', 'Taunt: The Box Trot', 'Taunt: The Final Score']"
+Full Path:,sound/vo/spy_laughshort03.mp3,,Scenes:,"['scenes/player/spy/low/1314.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_final_score.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,Oh hohoho.,,Responses:,"['PlayerTauntsSpy', 'Taunt: Luxury Lounge', 'Taunt: Teufort Tango', 'Taunt: The Box Trot', 'Taunt: The Final Score']"
 Your Line:,,,Rules:,['PlayerPositiveSpy']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy']]"
 
 Filename:,spy_laughshort04,,Events:,"['spy.laughshort04', 'spy_taunt_boxtrot_intro', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_laughshort04.mp3,,Scenes:,"['scenes/player/spy/low/1315.vcd', 'scenes/player/spy/low/taunt04_v4.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Hahahaha.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
+Full Path:,sound/vo/spy_laughshort04.mp3,,Scenes:,"['scenes/player/spy/low/1315.vcd', 'scenes/player/spy/low/taunt04_v4.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,Hahahaha.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Luxury Lounge', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,"['PlayerPositiveSpy', 'SpyTauntPlayerPDA']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA']]"
 
 Filename:,spy_laughshort05,,Events:,"['spy.chuckle', 'spy.laughshort05', 'spy_taunt_boxtrot_intro', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_laughshort05.mp3,,Scenes:,"['scenes/player/spy/low/1316.vcd', 'scenes/player/spy/low/taunt04_v3.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
-Transcription:,Huhuhuhuh.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
+Full Path:,sound/vo/spy_laughshort05.mp3,,Scenes:,"['scenes/player/spy/low/1316.vcd', 'scenes/player/spy/low/taunt04_v3.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_spy_boxtrot_intro.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd']"
+Transcription:,Huhuhuhuh.,,Responses:,"['PlayerTauntsSpy', 'SpyTauntPDA', 'Taunt: Luxury Lounge', 'Taunt: Teufort Tango', 'Taunt: The Box Trot']"
 Your Line:,,,Rules:,"['PlayerPositiveSpy', 'SpyTauntPlayerPDA']"
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpyPDA']]"
 
@@ -2081,8 +2081,8 @@ Your Line:,,,Rules:,['PlayerKilledForRevengeSpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsRevenge', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,spy_mvm_loot_common01,,Events:,"['spy_mvm_loot_common01', 'spy_taunt_commending_clap_a', 'spy_taunt_tailore_terminal_intro_1', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_mvm_loot_common01.mp3,,Scenes:,"['scenes/player/spy/low/7513.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
-Transcription:,Very nice.,,Responses:,"['SpyMvMLootCommon', 'Taunt: Commending Clap', 'Taunt: Tailored Terminal']"
+Full Path:,sound/vo/spy_mvm_loot_common01.mp3,,Scenes:,"['scenes/player/spy/low/7513.vcd', 'scenes/workshop/player/spy/low/taunt_commending_clap.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
+Transcription:,Very nice.,,Responses:,"['SpyMvMLootCommon', 'Taunt: Commending Clap', 'Taunt: Luxury Lounge', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
 
@@ -2093,8 +2093,8 @@ Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
 
 Filename:,spy_mvm_loot_common03,,Events:,"['spy_mvm_loot_common03', 'spy_taunt_tailore_terminal_intro_1', 'spy_taunt_tuefort_tango_laugh', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_mvm_loot_common03.mp3,,Scenes:,"['scenes/player/spy/low/8547.vcd', 'scenes/workshop/player/spy/low/taunt_peace.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
-Transcription:,He he he he!,,Responses:,"['SpyMvMLootCommon', 'Taunt: Peace!', 'Taunt: Tailored Terminal', 'Taunt: Teufort Tango']"
+Full Path:,sound/vo/spy_mvm_loot_common03.mp3,,Scenes:,"['scenes/player/spy/low/8547.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_peace.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd', 'scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
+Transcription:,He he he he!,,Responses:,"['SpyMvMLootCommon', 'Taunt: Luxury Lounge', 'Taunt: Peace!', 'Taunt: Tailored Terminal', 'Taunt: Teufort Tango']"
 Your Line:,,,Rules:,['SpyMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsSpy', '20PercentChance']]"
 
@@ -2129,8 +2129,8 @@ Your Line:,,,Rules:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsSpy'], ['ConceptPlayerSpellPickupRare', 'IsSpy']]"
 
 Filename:,spy_mvm_loot_rare03,,Events:,"['spy_mvm_loot_rare03', 'spy_taunt_art_of_war', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/spy_mvm_loot_rare03.mp3,,Scenes:,['scenes/player/spy/low/8546.vcd']
-Transcription:,Magnificent!,,Responses:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
+Full Path:,sound/vo/spy_mvm_loot_rare03.mp3,,Scenes:,"['scenes/player/spy/low/8546.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Magnificent!,,Responses:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,"['SpyMvMLootRare', 'SpySF13SpellPickupRare']"
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsSpy'], ['ConceptPlayerSpellPickupRare', 'IsSpy']]"
 
@@ -2159,8 +2159,8 @@ Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
 Filename:,spy_mvm_resurrect02,,Events:,"['spy_mvm_resurrect02', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/spy_mvm_resurrect02.mp3,,Scenes:,"['scenes/player/spy/low/7527.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd']"
-Transcription:,Hah. Much better.,,Responses:,"['SpyMvmResurrected', 'Taunt: Mourning Mercs']"
+Full Path:,sound/vo/spy_mvm_resurrect02.mp3,,Scenes:,"['scenes/player/spy/low/7527.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd']"
+Transcription:,Hah. Much better.,,Responses:,"['SpyMvmResurrected', 'Taunt: Luxury Lounge', 'Taunt: Mourning Mercs']"
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
@@ -2201,8 +2201,8 @@ Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
 Filename:,spy_mvm_resurrect09,,Events:,"['spy_mvm_resurrect09', 'spy_taunt_the_crypt_creeper_spy_mvm_resurrect09', 'taunt.luxury_lounge_laugh', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_mvm_resurrect09.mp3,,Scenes:,"['scenes/player/spy/low/7535.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd']"
-Transcription:,He he he he.,,Responses:,"['SpyMvmResurrected', 'Taunt: The Crypt Creeper']"
+Full Path:,sound/vo/spy_mvm_resurrect09.mp3,,Scenes:,"['scenes/player/spy/low/7535.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd']"
+Transcription:,He he he he.,,Responses:,"['SpyMvmResurrected', 'Taunt: Luxury Lounge', 'Taunt: The Crypt Creeper']"
 Your Line:,,,Rules:,['SpyMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSpy']]"
 
@@ -3065,8 +3065,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_trade_13,,Events:,"['spy_taunt_trade_loop_rand', 'taunt.luxury_lounge_outro']"
-Full Path:,sound/vo/taunts/spy/spy_trade_13.mp3,,Scenes:,[]
-Transcription:,"Very nice, yea?",,Responses:,[]
+Full Path:,sound/vo/taunts/spy/spy_trade_13.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_luxury_lounge_outro.vcd']
+Transcription:,"Very nice, yea?",,Responses:,['Taunt: Luxury Lounge']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3083,14 +3083,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_trade_20,,Events:,"['spy_taunt_trade_loop_rand', 'taunt.luxury_lounge_outro']"
-Full Path:,sound/vo/taunts/spy/spy_trade_20.mp3,,Scenes:,[]
-Transcription:,I have expensive tastes.,,Responses:,[]
+Full Path:,sound/vo/taunts/spy/spy_trade_20.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunt_luxury_lounge_outro.vcd']
+Transcription:,I have expensive tastes.,,Responses:,['Taunt: Luxury Lounge']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,spy_trade_22,,Events:,"['spy_taunt_tailore_terminal_outro', 'spy_taunt_trade_loop_rand', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/taunts/spy/spy_trade_22.mp3,,Scenes:,['scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']
-Transcription:,I spare no expense on luxuries.,,Responses:,['Taunt: Tailored Terminal']
+Full Path:,sound/vo/taunts/spy/spy_trade_22.mp3,,Scenes:,"['scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
+Transcription:,I spare no expense on luxuries.,,Responses:,"['Taunt: Luxury Lounge', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3239,14 +3239,14 @@ Your Line:,,,Rules:,['SpySF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsSpy']]"
 
 Filename:,spy_sf13_influx_small02,,Events:,"['spy_sf13_influx_small02', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_sf13_influx_small02.mp3,,Scenes:,['scenes/player/spy/low/7522.vcd']
-Transcription:,Excellent.,,Responses:,['SpySF13SpellPickupCommon']
+Full Path:,sound/vo/spy_sf13_influx_small02.mp3,,Scenes:,"['scenes/player/spy/low/7522.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Excellent.,,Responses:,"['SpySF13SpellPickupCommon', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
 
 Filename:,spy_sf13_influx_small03,,Events:,"['spy_sf13_influx_small03', 'taunt.luxury_lounge_loop']"
-Full Path:,sound/vo/spy_sf13_influx_small03.mp3,,Scenes:,['scenes/player/spy/low/7520.vcd']
-Transcription:,Marvelous.,,Responses:,['SpySF13SpellPickupCommon']
+Full Path:,sound/vo/spy_sf13_influx_small03.mp3,,Scenes:,"['scenes/player/spy/low/7520.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Marvelous.,,Responses:,"['SpySF13SpellPickupCommon', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,['SpySF13SpellPickupCommon']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupCommon', 'IsSpy']]"
 

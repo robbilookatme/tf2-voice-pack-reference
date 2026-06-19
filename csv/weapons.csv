@@ -467,8 +467,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bat_baseball_hit_flesh,,Events:,"['demo_taunt_forehead_slice_bat_baseball_hit_flesh', 'taunt_headbutt_sfx_head_impact', 'weapon_baseballbat.hitflesh']"
-Full Path:,sound/weapons/bat_baseball_hit_flesh.wav,,Scenes:,"['scenes/player/demoman/low/taunt_headbutt_success.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/player/medic/low/taunt_headbutt_success.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
-Transcription:,,,Responses:,"['Taunt: Fore-Head Slice', 'Taunt: Mannrobics', 'Taunt: Skullcracker']"
+Full Path:,sound/weapons/bat_baseball_hit_flesh.wav,,Scenes:,"['scenes/player/demoman/low/taunt_headbutt_success.vcd', 'scenes/player/engineer/low/taunt_headbutt_success.vcd', 'scenes/player/heavy/low/taunt_headbutt_success.vcd', 'scenes/player/medic/low/taunt_headbutt_success.vcd', 'scenes/player/pyro/low/taunt_headbutt_success.vcd', 'scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/player/sniper/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/player/spy/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/heavy/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/spy/low/taunt_the_fist_bump_action.vcd']"
+Transcription:,,,Responses:,"['Taunt: Fore-Head Slice', 'Taunt: Mannrobics', 'Taunt: Skullcracker', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -935,134 +935,134 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_scream_01,,Events:,"['taunt_burstchester_screams', 'weapon_bm_sapper.scream']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_scream_01.wav,,Scenes:,[]
-Transcription:,[Long scream 1,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_scream_01.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Long scream 1,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_scream_02,,Events:,"['taunt_burstchester_screams', 'weapon_bm_sapper.scream']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_scream_02.wav,,Scenes:,[]
-Transcription:,[Long scream 2,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_scream_02.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Long scream 2,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_01,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_01.wav,,Scenes:,[]
-Transcription:,[Snap 1,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_01.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 1,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_02,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_02.wav,,Scenes:,[]
-Transcription:,[Snap 2,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_02.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 2,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_03,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_03.wav,,Scenes:,[]
-Transcription:,[Snap 3,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_03.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 3,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_04,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_04.wav,,Scenes:,[]
-Transcription:,[Snap 4,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_04.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 4,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_05,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_05.wav,,Scenes:,[]
-Transcription:,[Snap 5,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_05.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 5,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_06,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_06.wav,,Scenes:,[]
-Transcription:,[Snap 6,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_06.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 6,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_07,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_07.wav,,Scenes:,[]
-Transcription:,[Snap 7,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_07.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 7,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_sapper_snap_08,,Events:,"['taunt_burstchester_snaps', 'weapon_bm_gloves.snap', 'weapon_bm_sapper.snap']"
-Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_08.wav,,Scenes:,[]
-Transcription:,[Snap 8,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/sapper/bm_sapper_snap_08.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_burstchester.vcd', 'scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/heavy/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/scout/low/taunt_burstchester.vcd', 'scenes/workshop/player/sniper/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/spy/low/taunt_burstchester.vcd']"
+Transcription:,[Snap 8,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_01,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_01.wav,,Scenes:,[]
-Transcription:,[Growl 1,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_01.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 1,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_02,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_02.wav,,Scenes:,[]
-Transcription:,[Growl 2,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_02.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 2,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_03,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_03.wav,,Scenes:,[]
-Transcription:,[Growl 3,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_03.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 3,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_04,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_04.wav,,Scenes:,[]
-Transcription:,[Growl 4,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_04.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 4,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_05,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_05.wav,,Scenes:,[]
-Transcription:,[Growl 5,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_05.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 5,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_06,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_06.wav,,Scenes:,[]
-Transcription:,[Growl 6,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_06.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 6,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_07,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_07.wav,,Scenes:,[]
-Transcription:,[Growl 7,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_07.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 7,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_08,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_08.wav,,Scenes:,[]
-Transcription:,[Growl 8,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_08.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 8,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_09,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_09.wav,,Scenes:,[]
-Transcription:,[Growl 9,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_09.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 9,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_attack_10,,Events:,"['taunt_burstchester_screams_happy_01', 'weapon_bm_throwable.attack']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_10.wav,,Scenes:,[]
-Transcription:,[Growl 10,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_attack_10.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_burstchester.vcd']
+Transcription:,[Growl 10,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_growl_01,,Events:,"['taunt_burstchester_screams_happy_02', 'taunt_burstchester_screams_short', 'weapon_bm_throwable.growl']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_growl_01.wav,,Scenes:,[]
-Transcription:,[Happy scream 1,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_growl_01.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,[Happy scream 1,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,bm_throwable_growl_02,,Events:,"['taunt_burstchester_screams_happy_02', 'taunt_burstchester_screams_short', 'weapon_bm_throwable.growl']"
-Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_growl_02.wav,,Scenes:,[]
-Transcription:,[Happy scream 2,,Responses:,[]
+Full Path:,sound/weapons/breadmonster/throwable/bm_throwable_growl_02.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd']"
+Transcription:,[Happy scream 2,,Responses:,['Taunt: Burstchester']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1409,10 +1409,10 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,cbar_miss1,,Events:,"['weapon_bat.miss', 'weapon_bonesaw.miss', 'weapon_bottle.miss', 'weapon_club.miss', 'weapon_crowbar.miss', 'weapon_fireaxe.miss', 'weapon_flag.miss', 'weapon_pipe.miss']"
-Full Path:,sound/weapons/cbar_miss1.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/weapons/cbar_miss1.wav,,Scenes:,['scenes/player/scout/low/taunt05_v1.vcd']
+Transcription:,,,Responses:,['ScoutTauntGrandSlam']
+Your Line:,,,Rules:,"['ScoutTauntAtomizer', 'ScoutTauntWoodBat']"
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsScout', 'WeaponIsAtomizer'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsWoodBat']]"
 
 Filename:,cbar_miss1_crit,,Events:,"['weapon_bat.misscrit', 'weapon_bonesaw.misscrit', 'weapon_bottle.misscrit', 'weapon_club.misscrit', 'weapon_fireaxe.misscrit']"
 Full Path:,sound/weapons/cbar_miss1_crit.wav,,Scenes:,[]
@@ -1751,10 +1751,10 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_sword_swing1,,Events:,"['demo_taunt_forehead_slice_demo_sword_swing1', 'weapon_sword.swing']"
-Full Path:,sound/weapons/demo_sword_swing1.wav,,Scenes:,"['scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/flip_success_receiver0.vcd', 'scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
-Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Fore-Head Slice', 'Taunt: Rock, Paper, Scissors']"
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/weapons/demo_sword_swing1.wav,,Scenes:,"['scenes/player/demoman/low/taunt09.vcd', 'scenes/player/scout/low/flip_success_receiver0.vcd', 'scenes/player/scout/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/flip_success_receiver0.vcd', 'scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/flip_success_receiver0.vcd', 'scenes/player/spy/low/flip_success_receiver1.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose.vcd', 'scenes/player/spy/low/taunt_rps_paper_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose.vcd', 'scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose.vcd', 'scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd', 'scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd']"
+Transcription:,,,Responses:,"['DemomanTauntSword', ""Taunt: Flippin' Awesome"", 'Taunt: Fore-Head Slice', 'Taunt: Rock, Paper, Scissors']"
+Your Line:,,,Rules:,"['DemomanTauntKatana', 'DemomanTauntSword']"
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsKatana'], ['ConceptPlayerTaunt', 'IsDemoman', 'WeaponIsSword', 'WeaponIsNotAxe']]"
 
 Filename:,demo_sword_swing2,,Events:,[]
 Full Path:,sound/weapons/demo_sword_swing2.wav,,Scenes:,[]
@@ -2105,8 +2105,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,draw_default,,Events:,"['medic_tauntdoctors_defibrillators_draw_default', 'pyro_taunt_the_grilled_gunman_draw_default']"
-Full Path:,sound/weapons/draw_default.wav,,Scenes:,['scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']
-Transcription:,,,Responses:,"[""Taunt: Doctor's Defibrillators""]"
+Full Path:,sound/weapons/draw_default.wav,,Scenes:,"['scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd', 'scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd']"
+Transcription:,,,Responses:,"[""Taunt: Doctor's Defibrillators"", 'Taunt: The Headcase']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -4745,16 +4745,16 @@ Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
 Filename:,shotgun_cock_back,,Events:,"['taunt.soldiershotguncockback', 'weapon_shotgunengineer.cock_back']"
-Full Path:,sound/weapons/shotgun_cock_back.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/weapons/shotgun_cock_back.wav,,Scenes:,['scenes/player/soldier/low/taunt04.vcd']
+Transcription:,,,Responses:,['SoldierTauntSecondary']
+Your Line:,,,Rules:,['SoldierTauntPlayerSecondary']
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShotgunSoldier']]"
 
 Filename:,shotgun_cock_forward,,Events:,"['taunt.soldiershotguncockforward', 'weapon_shotgunengineer.cock_forward']"
-Full Path:,sound/weapons/shotgun_cock_forward.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/weapons/shotgun_cock_forward.wav,,Scenes:,['scenes/player/soldier/low/taunt04.vcd']
+Transcription:,,,Responses:,['SoldierTauntSecondary']
+Your Line:,,,Rules:,['SoldierTauntPlayerSecondary']
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShotgunSoldier']]"
 
 Filename:,shotgun_empty,,Events:,"['weapon_reserve_shooter.empty', 'weapon_scatter_gun.empty', 'weapon_shotgun.empty']"
 Full Path:,sound/weapons/shotgun_empty.wav,,Scenes:,[]
@@ -4769,10 +4769,10 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,shotgun_shoot,,Events:,"['taunt.soldiershotgunfire', 'weapon_shotgun.single']"
-Full Path:,sound/weapons/shotgun_shoot.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/weapons/shotgun_shoot.wav,,Scenes:,['scenes/player/soldier/low/taunt04.vcd']
+Transcription:,,,Responses:,['SoldierTauntSecondary']
+Your Line:,,,Rules:,['SoldierTauntPlayerSecondary']
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsShotgunSoldier']]"
 
 Filename:,shotgun_shoot_crit,,Events:,['weapon_shotgun.singlecrit']
 Full Path:,sound/weapons/shotgun_shoot_crit.wav,,Scenes:,[]

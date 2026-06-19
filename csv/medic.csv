@@ -1847,14 +1847,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_admire_01,,Events:,"['medic.taunt_doctors_defibrillators_outro', 'medic_taunt_burrowed_bones_01', 'medic_taunt_flip_random_flipadmire', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_outro', 'taunt_medic_aerobic_shared_b']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_admire_01.mp3,,Scenes:,"['scenes/player/medic/low/flip_success_initiator1.vcd', 'scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,Ha ha ha!,,Responses:,"['Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators"", ""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_admire_01.mp3,,Scenes:,"['scenes/player/medic/low/flip_success_initiator1.vcd', 'scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,Ha ha ha!,,Responses:,"['Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators"", ""Taunt: Flippin' Awesome"", 'Taunt: Mannrobics', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_admire_02,,Events:,"['medic.taunt_doctors_defibrillators_outro', 'medic_secondrate_sorcery_medic_medic_taunt_admire_02', 'medic_taunt_rps_setting_up', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_shared_b']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_admire_02.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,Ha ha ha!,,Responses:,"[""Taunt: Doctor's Defibrillators"", 'Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_admire_02.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_rps_paper_lose.vcd', 'scenes/player/medic/low/taunt_rps_paper_win.vcd', 'scenes/player/medic/low/taunt_rps_rock_lose.vcd', 'scenes/player/medic/low/taunt_rps_rock_win.vcd', 'scenes/player/medic/low/taunt_rps_scissors_lose.vcd', 'scenes/player/medic/low/taunt_rps_scissors_win.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,Ha ha ha!,,Responses:,"[""Taunt: Doctor's Defibrillators"", 'Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1919,20 +1919,20 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_cong_fun_08,,Events:,"['medic_taunt_burrowed_bones_02', 'medic_taunt_conga_random_fun1', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_spin']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']"
-Transcription:,Whoo hoo ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_08.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Whoo hoo ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', ""Taunt: Surgeon's Squeezebox"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_cong_fun_09,,Events:,"['medic_taunt_burrowed_bones_01', 'medic_taunt_conga_random_fun1', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_spin']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']"
-Transcription:,Yeh ha ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_09.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Yeh ha ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', ""Taunt: Surgeon's Squeezebox"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_cong_fun_12,,Events:,"['medic_taunt_burrowed_bones_01', 'medic_taunt_conga_random_fun1', 'medic_taunt_conga_random_fun2', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_spin']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_12.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']"
-Transcription:,Whooo ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_cong_fun_12.mp3,,Scenes:,"['scenes/player/medic/low/conga.vcd', 'scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/player/medic/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Whooo ha!,,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Conga', 'Taunt: Mannrobics', ""Taunt: Surgeon's Squeezebox"", 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1967,8 +1967,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_dosi_fun_08,,Events:,"['medic_taunt_dosido_start_rand', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_shared_a']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_dosi_fun_08.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_dance00.vcd', 'scenes/player/medic/low/taunt_dosido_dance01.vcd']"
-Transcription:,Ha ha ha! Whoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_dosi_fun_08.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_dance00.vcd', 'scenes/player/medic/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Ha ha ha! Whoo!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1997,8 +1997,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_dosi_fun_14,,Events:,"['medic_taunt_dosido_mid_rand', 'taunt.bearhug_medic_b', 'taunt.surgeon_squeezebox_laugh', 'taunt_burstchester_medic_01', 'taunt_medic_aerobic_shared_a']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_dosi_fun_14.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd']"
-Transcription:,Hoo ha ha! I love it!,,Responses:,"['Taunt: Bear Hug', 'Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_dosi_fun_14.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_dance01.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_burstchester.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Hoo ha ha! I love it!,,Responses:,"['Taunt: Bear Hug', 'Taunt: Burstchester', 'Taunt: Mannrobics', 'Taunt: Square Dance', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2249,26 +2249,26 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_int_09,,Events:,"['medic_taunt_dosido_intro_rand', 'medic_taunt_fistbump_start', 'medic_taunt_flip_random_waiting', 'medic_taunt_headbutt_start_1', 'taunt.bearhug_medic_a', 'taunt.surgeon_squeezebox_intro']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_int_09.mp3,,Scenes:,"['scenes/player/medic/low/flip_start.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd', 'scenes/player/medic/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd']"
-Transcription:,Shall we?,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker', 'Taunt: Square Dance', 'Taunt: The Fist Bump']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_int_09.mp3,,Scenes:,"['scenes/player/medic/low/flip_start.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd', 'scenes/player/medic/low/taunt_headbutt_start.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd']"
+Transcription:,Shall we?,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome"", 'Taunt: Skullcracker', 'Taunt: Square Dance', ""Taunt: Surgeon's Squeezebox"", 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_int_10,,Events:,"['medic_taunt_rps_intro_wait_rand', 'taunt.surgeon_squeezebox_intro']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_int_10.mp3,,Scenes:,['scenes/player/medic/low/taunt_rps_start.vcd']
-Transcription:,Shall we?,,Responses:,"['Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_int_10.mp3,,Scenes:,"['scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Shall we?,,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_int_11,,Events:,"['medic_taunt_dosido_intro_rand', 'medic_taunt_fistbump_start', 'medic_taunt_flip_random_waiting2', 'taunt.surgeon_squeezebox_intro']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_int_11.mp3,,Scenes:,"['scenes/player/medic/low/flip_start.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd']"
-Transcription:,Let's begin!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance', 'Taunt: The Fist Bump']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_int_11.mp3,,Scenes:,"['scenes/player/medic/low/flip_start.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd']"
+Transcription:,Let's begin!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance', ""Taunt: Surgeon's Squeezebox"", 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_int_12,,Events:,"['medic_taunt_rps_intro_wait_rand', 'taunt.surgeon_squeezebox_intro']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_int_12.mp3,,Scenes:,['scenes/player/medic/low/taunt_rps_start.vcd']
-Transcription:,Let's begin!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_int_12.mp3,,Scenes:,"['scenes/player/medic/low/taunt_rps_start.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,Let's begin!,,Responses:,"['Taunt: Rock, Paper, Scissors', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2291,8 +2291,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_int_22,,Events:,"['medic_secondrate_sorcery_medic_medic_taunt_int_22', 'medic_taunt_dosido_intro_rand', 'taunt.surgeon_squeezebox_laugh', 'taunt_medic_aerobic_shared_a']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_int_22.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd']"
-Transcription:,"Ho ho hoh! Hoo hoo! Oh, it's on!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_int_22.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_a.vcd', 'scenes/player/medic/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd']"
+Transcription:,"Ho ho hoh! Hoo hoo! Oh, it's on!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Square Dance', ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2471,8 +2471,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_trade_11,,Events:,"['medic.taunt_doctors_defibrillators_intro', 'medic_taunt_burrowed_bones_02', 'medic_taunt_trade_start_rand', 'taunt.surgeon_squeezebox_intro']"
-Full Path:,sound/vo/taunts/medic/medic_trade_11.mp3,,Scenes:,"['scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,"I found zis, inside a patient. Ha ha!",,Responses:,"['Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators""]"
+Full Path:,sound/vo/taunts/medic/medic_trade_11.mp3,,Scenes:,"['scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,"I found zis, inside a patient. Ha ha!",,Responses:,"['Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators"", ""Taunt: Surgeon's Squeezebox""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

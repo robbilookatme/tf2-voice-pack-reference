@@ -4442,14 +4442,38 @@
     },
     "sound/vo/soldier_directhittaunt02.mp3": {
         "base_name": "soldier_directhittaunt02",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsBeggarsBazooka"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsDirectHit"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsKatana"
+            ]
+        ],
         "events": [
             "soldier.directhittaunt02",
             "taunt.tauntchestthumpyell"
         ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
+        "responses": [
+            "SoldierTauntDirectHit"
+        ],
+        "rules": [
+            "SoldierTauntBeggarsBazooka",
+            "SoldierTauntDirectHit",
+            "SoldierTauntKatana"
+        ],
+        "scenes": [
+            "scenes/player/soldier/low/taunt07.vcd"
+        ],
         "state": "used",
         "transcript": "Yaaaaarrrrrgggh!"
     },
@@ -9243,13 +9267,15 @@
         "responses": [
             "PlayerKilledDominatingSoldier",
             "Taunt: Bear Hug",
-            "Taunt: Killer Joke"
+            "Taunt: Killer Joke",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
         ],
         "scenes": [
             "scenes/player/soldier/low/1132.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd"
         ],
@@ -9278,7 +9304,8 @@
             "PlayerKilledDominatingSoldier",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Neck Snap"
+            "Taunt: Neck Snap",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
@@ -9286,6 +9313,7 @@
         "scenes": [
             "scenes/player/soldier/low/1346.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
@@ -9314,7 +9342,8 @@
             "PlayerKilledDominatingSoldier",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
-            "Taunt: Panzer Pants"
+            "Taunt: Panzer Pants",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerKilledDominatingSoldier"
@@ -9323,6 +9352,7 @@
             "scenes/player/soldier/low/1348.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -9594,7 +9624,8 @@
             "PlayerTauntsSoldier",
             "Taunt: Mannrobics",
             "Taunt: The Final Score",
-            "Taunt: The Profane Puppeteer"
+            "Taunt: The Profane Puppeteer",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "PlayerPositiveSoldier"
@@ -9602,6 +9633,7 @@
         "scenes": [
             "scenes/player/soldier/low/1137.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
@@ -13131,7 +13163,8 @@
         "responses": [
             "AcceptedDuelSoldier",
             "PlayerKilledObjectSoldier",
-            "PlayerPositiveSoldier"
+            "PlayerPositiveSoldier",
+            "Taunt: Yeti Smash"
         ],
         "rules": [
             "AcceptedDuelSoldier",
@@ -13139,7 +13172,8 @@
             "PlayerPositiveSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/1175.vcd"
+            "scenes/player/soldier/low/1175.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Okay!"
@@ -14564,13 +14598,15 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
+            "Taunt: Yeti Smash",
             "soldierGoodMagicReaction"
         ],
         "rules": [
             "soldierGoodMagicReaction"
         ],
         "scenes": [
-            "scenes/player/soldier/low/4564.vcd"
+            "scenes/player/soldier/low/4564.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Yaaay!"
@@ -14591,6 +14627,7 @@
         ],
         "responses": [
             "Taunt: Star-Spangled Strategy",
+            "Taunt: Yeti Smash",
             "soldierGoodMagicReaction"
         ],
         "rules": [
@@ -14598,6 +14635,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/4565.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -17787,11 +17825,13 @@
         ],
         "responses": [
             "Taunt: Commending Clap",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_success_receiver1.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
@@ -17864,11 +17904,13 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_success_receiver1.vcd"
+            "scenes/player/soldier/low/flip_success_receiver1.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "Mission accomplished!"
@@ -18278,13 +18320,15 @@
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -18359,7 +18403,8 @@
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
-            "Taunt: The Victory Lap"
+            "Taunt: The Victory Lap",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
@@ -18367,6 +18412,7 @@
             "scenes/player/soldier/low/taunt_aerobic_b.vcd",
             "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -18384,7 +18430,8 @@
         "responses": [
             "Taunt: Mannrobics",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
@@ -18396,7 +18443,8 @@
             "scenes/player/soldier/low/taunt_rps_rock_win.vcd",
             "scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd",
             "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
-            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd"
+            "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "He he he he he hah hah!"
@@ -18923,11 +18971,13 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_headbutt_success.vcd"
+            "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/player/soldier/low/yeti_taunt.vcd"
         ],
         "state": "used",
         "transcript": "U. S. A.!"

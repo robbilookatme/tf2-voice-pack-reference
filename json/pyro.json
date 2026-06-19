@@ -1897,7 +1897,8 @@
             "PyroMvMLootRare",
             "Taunt: Kazotsky Kick",
             "Taunt: Roasty Toasty",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [
             "PlayerPositivePyro",
@@ -1907,7 +1908,9 @@
             "scenes/player/pyro/low/1510.vcd",
             "scenes/player/pyro/low/taunt_russian.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Exfellend!"
@@ -2669,13 +2672,16 @@
         "responses": [
             "Taunt: Bear Hug",
             "Taunt: Burstchester",
-            "Taunt: Party Trick"
+            "Taunt: Party Trick",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_party_trick.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "[amused laughter"
@@ -2691,13 +2697,16 @@
         "responses": [
             "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/conga.vcd",
             "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "[gleeful laughter"
@@ -2752,13 +2761,16 @@
         "responses": [
             "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/conga.vcd",
             "scenes/player/pyro/low/taunt_aerobic_a.vcd",
-            "scenes/workshop/player/pyro/low/spring_rider.vcd"
+            "scenes/workshop/player/pyro/low/spring_rider.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Whoo, hoo hoo!"
@@ -2808,12 +2820,15 @@
         ],
         "responses": [
             "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/conga.vcd",
-            "scenes/player/pyro/low/taunt_aerobic_a.vcd"
+            "scenes/player/pyro/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo!"
@@ -2897,7 +2912,8 @@
             "Taunt: Bear Hug",
             "Taunt: Burstchester",
             "Taunt: Square Dance",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
@@ -2905,7 +2921,9 @@
             "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "[gleeful laughter"
@@ -2957,13 +2975,16 @@
         "responses": [
             "Taunt: Burstchester",
             "Taunt: Square Dance",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "[muffled laughter"
@@ -3259,7 +3280,8 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
@@ -3268,7 +3290,10 @@
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Uhrah!"
@@ -3284,7 +3309,8 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
@@ -3293,7 +3319,10 @@
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Uhhrah!"
@@ -3312,7 +3341,8 @@
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
             "Taunt: Roasty Toasty",
-            "Taunt: The Hot Wheeler"
+            "Taunt: The Hot Wheeler",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
@@ -3322,7 +3352,10 @@
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Ah-oop!"
@@ -3339,7 +3372,8 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
-            "Taunt: Roasty Toasty"
+            "Taunt: Roasty Toasty",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
@@ -3348,7 +3382,9 @@
             "scenes/player/pyro/low/flip_success_receiver0.vcd",
             "scenes/player/pyro/low/flip_success_receiver1.vcd",
             "scenes/player/pyro/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Huppo hoh!"
@@ -3441,6 +3477,7 @@
             "Taunt: Pool Party",
             "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -3454,7 +3491,9 @@
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Wooo hoo hoo hoo!"
@@ -3481,6 +3520,7 @@
             "Taunt: Pool Party",
             "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -3495,7 +3535,9 @@
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
@@ -3525,6 +3567,7 @@
             "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
             "Taunt: The Hot Wheeler",
+            "Taunt: The Skating Scorcher",
             "Taunt: The Victory Lap",
             "Taunt: Yeti Smash"
         ],
@@ -3543,7 +3586,9 @@
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_action.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo hoo hoo hoo!"
@@ -3622,13 +3667,16 @@
         "responses": [
             "Taunt: Bear Hug",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Balloonibouncer"
+            "Taunt: The Balloonibouncer",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_start.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "Hoo! Hud hudda!"
@@ -3659,12 +3707,14 @@
         ],
         "responses": [
             "Taunt: Roasty Toasty",
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
         ],
         "state": "used",
         "transcript": "[muffled grunt of effort"
@@ -3809,12 +3859,14 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/flip_start.vcd",
-            "scenes/player/pyro/low/taunt_dosido_intro01.vcd"
+            "scenes/player/pyro/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
         ],
         "state": "used",
         "transcript": "[muffled]\"Right here!\""
@@ -4577,13 +4629,16 @@
         "responses": [
             "Taunt: Roasty Toasty",
             "Taunt: The Balloonibouncer",
-            "Taunt: The High Five!"
+            "Taunt: The High Five!",
+            "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_hi5_a.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
-            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_roasty_toasty_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd"
         ],
         "state": "used",
         "transcript": "*Gleeful laugh*"

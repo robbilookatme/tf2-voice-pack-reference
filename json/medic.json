@@ -10268,7 +10268,8 @@
             "Taunt: Borrowed Bones",
             "Taunt: Doctor's Defibrillators",
             "Taunt: Flippin' Awesome",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
@@ -10276,6 +10277,7 @@
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
@@ -10294,7 +10296,8 @@
         "responses": [
             "Taunt: Doctor's Defibrillators",
             "Taunt: Mannrobics",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
@@ -10305,6 +10308,7 @@
             "scenes/player/medic/low/taunt_rps_rock_win.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/medic/low/taunt_rps_scissors_win.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
@@ -10534,6 +10538,7 @@
             "Taunt: Borrowed Bones",
             "Taunt: Conga",
             "Taunt: Mannrobics",
+            "Taunt: Surgeon's Squeezebox",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -10541,7 +10546,8 @@
             "scenes/player/medic/low/conga.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Whoo hoo ha!"
@@ -10559,6 +10565,7 @@
             "Taunt: Borrowed Bones",
             "Taunt: Conga",
             "Taunt: Mannrobics",
+            "Taunt: Surgeon's Squeezebox",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -10566,7 +10573,8 @@
             "scenes/player/medic/low/conga.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Yeh ha ha!"
@@ -10585,6 +10593,7 @@
             "Taunt: Borrowed Bones",
             "Taunt: Conga",
             "Taunt: Mannrobics",
+            "Taunt: Surgeon's Squeezebox",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -10592,7 +10601,8 @@
             "scenes/player/medic/low/conga.vcd",
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/player/medic/low/taunt_vehicle_allclass.vcd",
-            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
+            "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Whooo ha!"
@@ -10697,13 +10707,15 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/player/medic/low/taunt_dosido_dance00.vcd",
-            "scenes/player/medic/low/taunt_dosido_dance01.vcd"
+            "scenes/player/medic/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Ha ha ha! Whoo!"
@@ -10789,14 +10801,16 @@
             "Taunt: Bear Hug",
             "Taunt: Burstchester",
             "Taunt: Mannrobics",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
             "scenes/player/medic/low/taunt_dosido_dance01.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/medic/low/taunt_burstchester.vcd"
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Hoo ha ha! I love it!"
@@ -11574,6 +11588,7 @@
             "Taunt: Flippin' Awesome",
             "Taunt: Skullcracker",
             "Taunt: Square Dance",
+            "Taunt: Surgeon's Squeezebox",
             "Taunt: The Fist Bump"
         ],
         "rules": [],
@@ -11582,6 +11597,7 @@
             "scenes/player/medic/low/taunt_dosido_intro01.vcd",
             "scenes/player/medic/low/taunt_headbutt_start.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -11595,11 +11611,13 @@
             "taunt.surgeon_squeezebox_intro"
         ],
         "responses": [
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_start.vcd"
+            "scenes/player/medic/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Shall we?"
@@ -11616,12 +11634,14 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Square Dance",
+            "Taunt: Surgeon's Squeezebox",
             "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/flip_start.vcd",
             "scenes/player/medic/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -11635,11 +11655,13 @@
             "taunt.surgeon_squeezebox_intro"
         ],
         "responses": [
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/medic/low/taunt_rps_start.vcd"
+            "scenes/player/medic/low/taunt_rps_start.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Let's begin!"
@@ -11718,12 +11740,14 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_a.vcd",
-            "scenes/player/medic/low/taunt_dosido_intro01.vcd"
+            "scenes/player/medic/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd"
         ],
         "state": "used",
         "transcript": "Ho ho hoh! Hoo hoo! Oh, it's on!"
@@ -12336,11 +12360,13 @@
         ],
         "responses": [
             "Taunt: Borrowed Bones",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: Surgeon's Squeezebox"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",

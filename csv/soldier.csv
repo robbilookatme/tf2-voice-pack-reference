@@ -443,10 +443,10 @@ Your Line:,,,Rules:,['KilledPlayerMeleeSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SoldierNotKillSpeechMelee', 'IsSoldier', 'AppliesContext:SoldierKillSpeechMelee:1:10']]"
 
 Filename:,soldier_directhittaunt02,,Events:,"['soldier.directhittaunt02', 'taunt.tauntchestthumpyell']"
-Full Path:,sound/vo/soldier_directhittaunt02.mp3,,Scenes:,[]
-Transcription:,Yaaaaarrrrrgggh!,,Responses:,[]
-Your Line:,,,Rules:,[]
-,,,Criteria:,[]
+Full Path:,sound/vo/soldier_directhittaunt02.mp3,,Scenes:,['scenes/player/soldier/low/taunt07.vcd']
+Transcription:,Yaaaaarrrrrgggh!,,Responses:,['SoldierTauntDirectHit']
+Your Line:,,,Rules:,"['SoldierTauntBeggarsBazooka', 'SoldierTauntDirectHit', 'SoldierTauntKatana']"
+,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBeggarsBazooka'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsDirectHit'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsKatana']]"
 
 Filename:,soldier_directhittaunt03,,Events:,"['soldier.directhittaunt03', 'soldier_taunt_star_spangled_strat_vo_fist']"
 Full Path:,sound/vo/soldier_directhittaunt03.mp3,,Scenes:,"['scenes/player/soldier/low/3405.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
@@ -1235,20 +1235,20 @@ Your Line:,,,Rules:,['SpreeMedicSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsSoldier', 'IsBeingHealed', 'SoldierNotKillSpeech', 'IsVeryManyRecentKills', 'IsWeaponPrimary', 'AppliesContext:SoldierKillSpeech:1:20']]"
 
 Filename:,soldier_laughevil01,,Events:,"['soldier.laughevil01', 'taunt.bearhug_soldier_b', 'taunt_killer_joke_soldier', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_laughevil01.mp3,,Scenes:,"['scenes/player/soldier/low/1132.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd']"
-Transcription:,(Evil laughter 1),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Bear Hug', 'Taunt: Killer Joke']"
+Full Path:,sound/vo/soldier_laughevil01.mp3,,Scenes:,"['scenes/player/soldier/low/1132.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd']"
+Transcription:,(Evil laughter 1),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Bear Hug', 'Taunt: Killer Joke', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,soldier_laughevil02,,Events:,"['soldier.laughevil02', 'soldier_taunt_neck_snap_03', 'taunt_killer_joke_soldier', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_laughevil02.mp3,,Scenes:,"['scenes/player/soldier/low/1346.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
-Transcription:,(Evil laughter 2),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Neck Snap']"
+Full Path:,sound/vo/soldier_laughevil02.mp3,,Scenes:,"['scenes/player/soldier/low/1346.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
+Transcription:,(Evil laughter 2),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Neck Snap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,soldier_laughevil03,,Events:,"['soldier.laughevil03', 'soldier_taunt_tank_shoot', 'taunt_killer_joke_soldier', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_laughevil03.mp3,,Scenes:,"['scenes/player/soldier/low/1348.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd']"
-Transcription:,(Evil laughter 3),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Panzer Pants']"
+Full Path:,sound/vo/soldier_laughevil03.mp3,,Scenes:,"['scenes/player/soldier/low/1348.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank_fire.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_killer_joke.vcd']"
+Transcription:,(Evil laughter 3),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Killer Joke', 'Taunt: Mannrobics', 'Taunt: Panzer Pants', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -1289,8 +1289,8 @@ Your Line:,,,Rules:,"['PlayerKilledDominatingSoldier', 'SoldierTauntAprilFools',
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsSoldier'], ['ConceptTauntLaugh', 'IsSoldier']]"
 
 Filename:,soldier_laughshort01,,Events:,"['soldier.laughshort01', 'soldier_taunt_the_final_score_soldier_soldier_laughshort01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_laughshort01.mp3,,Scenes:,"['scenes/player/soldier/low/1137.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/soldier/low/taunt_the_final_score.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer']"
+Full Path:,sound/vo/soldier_laughshort01.mp3,,Scenes:,"['scenes/player/soldier/low/1137.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_the_final_score.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
+Transcription:,(Short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -1589,8 +1589,8 @@ Your Line:,,,Rules:,"['AcceptedDuelSoldier', 'PlayerKilledObjectSoldier', 'Playe
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSoldier'], ['ConceptKilledObject', 'IsSoldier', '30PercentChance', 'IsARecentKill', 'AppliesContext:SoldierKillSpeechObject:1:30'], ['ConceptPlayerPositive', 'IsSoldier']]"
 
 Filename:,soldier_positivevocalization03,,Events:,"['soldier.positivevocalization03', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_positivevocalization03.mp3,,Scenes:,['scenes/player/soldier/low/1175.vcd']
-Transcription:,Okay!,,Responses:,"['AcceptedDuelSoldier', 'PlayerKilledObjectSoldier', 'PlayerPositiveSoldier']"
+Full Path:,sound/vo/soldier_positivevocalization03.mp3,,Scenes:,"['scenes/player/soldier/low/1175.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
+Transcription:,Okay!,,Responses:,"['AcceptedDuelSoldier', 'PlayerKilledObjectSoldier', 'PlayerPositiveSoldier', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['AcceptedDuelSoldier', 'PlayerKilledObjectSoldier', 'PlayerPositiveSoldier']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsSoldier'], ['ConceptKilledObject', 'IsSoldier', '30PercentChance', 'IsARecentKill', 'AppliesContext:SoldierKillSpeechObject:1:30'], ['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -2885,8 +2885,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_admire_01,,Events:,"['soldier_taunt_commending_clap_a', 'soldier_taunt_flip_random_flipfinish', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_01.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/workshop/player/soldier/low/taunt_commending_clap.vcd']"
-Transcription:,Well done!,,Responses:,"['Taunt: Commending Clap', ""Taunt: Flippin' Awesome""]"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_01.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_commending_clap.vcd']"
+Transcription:,Well done!,,Responses:,"['Taunt: Commending Clap', ""Taunt: Flippin' Awesome"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2909,8 +2909,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_admire_16,,Events:,"['soldier_taunt_flip_random_flipfinish', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_16.mp3,,Scenes:,['scenes/player/soldier/low/flip_success_receiver1.vcd']
-Transcription:,Mission accomplished!,,Responses:,"[""Taunt: Flippin' Awesome""]"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_16.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
+Transcription:,Mission accomplished!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3053,8 +3053,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_dosi_fun_05,,Events:,"['soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
-Transcription:,Whoa! Ha ha ha!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
+Transcription:,Whoa! Ha ha ha!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3077,14 +3077,14 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_dosi_fun_29,,Events:,"['soldier_taunt_dosido_mid_rand', 'soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
-Transcription:,"Whaa, ho ho ha ha!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap']"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
+Transcription:,"Whaa, ho ho ha ha!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_dosi_fun_30,,Events:,"['soldier_taunt_dosi_fun_30', 'soldier_taunt_dosido_mid_rand', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_30.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd']"
-Transcription:,He he he he he hah hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Square Dance']"
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_30.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win.vcd', 'scenes/player/soldier/low/taunt_rps_paper_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win.vcd', 'scenes/player/soldier/low/taunt_rps_rock_win_noinit.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win.vcd', 'scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
+Transcription:,He he he he he hah hah!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock, Paper, Scissors', 'Taunt: Square Dance', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3269,8 +3269,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_head_end_13,,Events:,"['soldier_taunt_headbutt_success_recover', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/taunts/soldier/soldier_taunt_head_end_13.mp3,,Scenes:,['scenes/player/soldier/low/taunt_headbutt_success.vcd']
-Transcription:,U. S. A.!,,Responses:,['Taunt: Skullcracker']
+Full Path:,sound/vo/taunts/soldier/soldier_taunt_head_end_13.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_headbutt_success.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
+Transcription:,U. S. A.!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3731,14 +3731,14 @@ Your Line:,,,Rules:,['soldierHalloweenMerasmusPitFall']
 ,,,Criteria:,"[['ConceptHalloweenPlayerPitFall', 'Issoldier']]"
 
 Filename:,soldier_sf12_goodmagic01,,Events:,"['soldier_sf12_goodmagic01', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_sf12_goodmagic01.mp3,,Scenes:,['scenes/player/soldier/low/4564.vcd']
-Transcription:,Yaaay!,,Responses:,['soldierGoodMagicReaction']
+Full Path:,sound/vo/soldier_sf12_goodmagic01.mp3,,Scenes:,"['scenes/player/soldier/low/4564.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
+Transcription:,Yaaay!,,Responses:,"['Taunt: Yeti Smash', 'soldierGoodMagicReaction']"
 Your Line:,,,Rules:,['soldierGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Issoldier', '50PercentChance']]"
 
 Filename:,soldier_sf12_goodmagic02,,Events:,"['soldier_sf12_goodmagic02', 'soldier_taunt_star_spangled_strat_vo_fist', 'taunt_yeti_soldier']"
-Full Path:,sound/vo/soldier_sf12_goodmagic02.mp3,,Scenes:,"['scenes/player/soldier/low/4565.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
-Transcription:,(Happy laughter),,Responses:,"['Taunt: Star-Spangled Strategy', 'soldierGoodMagicReaction']"
+Full Path:,sound/vo/soldier_sf12_goodmagic02.mp3,,Scenes:,"['scenes/player/soldier/low/4565.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
+Transcription:,(Happy laughter),,Responses:,"['Taunt: Star-Spangled Strategy', 'Taunt: Yeti Smash', 'soldierGoodMagicReaction']"
 Your Line:,,,Rules:,['soldierGoodMagicReaction']
 ,,,Criteria:,"[['ConceptMagicGood', 'Issoldier', '50PercentChance']]"
 

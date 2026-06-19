@@ -4692,7 +4692,8 @@
         ],
         "responses": [
             "PlayerCappedIntelligenceScout",
-            "ScoutTauntSecondary"
+            "ScoutTauntSecondary",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [
             "PlayerCappedIntelligenceScout",
@@ -4705,7 +4706,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/360.vcd",
-            "scenes/player/scout/low/taunt02_vocal03.vcd"
+            "scenes/player/scout/low/taunt02_vocal03.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "I'm not even winded."
@@ -5275,14 +5277,18 @@
         ],
         "responses": [
             "AwardScout",
-            "PlayerKilledForRevengeScout"
+            "PlayerKilledForRevengeScout",
+            "Taunt: Runner's Rhythm",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [
             "AwardScout",
             "PlayerKilledForRevengeScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2681.vcd"
+            "scenes/player/scout/low/2681.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Bang! I make it look easy!"
@@ -5395,7 +5401,8 @@
             "PlayerBattleCryScout",
             "PlayerRoundStartScout",
             "Taunt: Flying Colors",
-            "Taunt: Rock, Paper, Scissors"
+            "Taunt: Rock, Paper, Scissors",
+            "Taunt: Runner's Rhythm"
         ],
         "rules": [
             "PlayerBattleCryScout",
@@ -5409,7 +5416,8 @@
             "scenes/player/scout/low/taunt_rps_rock_win_noinit.vcd",
             "scenes/player/scout/low/taunt_rps_scissors_win.vcd",
             "scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd",
-            "scenes/workshop/player/scout/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/scout/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "Wohoooo!"
@@ -7470,6 +7478,7 @@
             "ScoutTauntPrimary",
             "ScoutTauntPrimaryDouble",
             "Taunt: Chairholder",
+            "Taunt: Runner's Rhythm",
             "Taunt: Spin-to-Win",
             "Taunt: The Boston Breakdance"
         ],
@@ -7486,6 +7495,7 @@
             "scenes/player/scout/low/taunt01_alt_vocal01.vcd",
             "scenes/player/scout/low/taunt01_vocal01.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
         ],
@@ -10787,13 +10797,15 @@
             "taunt.bunnyhop_intro"
         ],
         "responses": [
-            "PlayerIncomingScout"
+            "PlayerIncomingScout",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [
             "PlayerIncomingScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/413.vcd"
+            "scenes/player/scout/low/413.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Incoming!"
@@ -10834,13 +10846,15 @@
             "taunt.bunnyhop_intro"
         ],
         "responses": [
-            "PlayerIncomingScout"
+            "PlayerIncomingScout",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [
             "PlayerIncomingScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/415.vcd"
+            "scenes/player/scout/low/415.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Incoming!"
@@ -13250,6 +13264,7 @@
             "PlayerTauntsScout",
             "Taunt: Bear Hug",
             "Taunt: Chairholder",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Homerunner's Hobby",
             "Taunt: Yeti Smash"
         ],
@@ -13261,6 +13276,7 @@
             "scenes/player/scout/low/yeti_taunt.vcd",
             "scenes/workshop/player/scout/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd"
         ],
         "state": "used",
@@ -13612,14 +13628,16 @@
         ],
         "responses": [
             "MeleeDareCombatScout",
-            "MeleeDareScout"
+            "MeleeDareScout",
+            "Taunt: Runner's Rhythm"
         ],
         "rules": [
             "MeleeDareCombatScout",
             "MeleeDareScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2582.vcd"
+            "scenes/player/scout/low/2582.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "Let's do dis."
@@ -14132,7 +14150,8 @@
         "responses": [
             "ScoutMvMLootCommon",
             "ScoutSF13SpellPickupCommon",
-            "Taunt: Chairholder"
+            "Taunt: Chairholder",
+            "Taunt: Runner's Rhythm"
         ],
         "rules": [
             "ScoutMvMLootCommon",
@@ -14140,7 +14159,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/6935.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "(Laughs) Oh yeah!"
@@ -14166,7 +14186,8 @@
         "responses": [
             "ScoutMvMLootCommon",
             "ScoutSF13SpellPickupCommon",
-            "Taunt: Chairholder"
+            "Taunt: Chairholder",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [
             "ScoutMvMLootCommon",
@@ -14174,7 +14195,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/6936.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Sweet."
@@ -14200,7 +14222,8 @@
         "responses": [
             "ScoutMvMLootCommon",
             "ScoutSF13SpellPickupCommon",
-            "Taunt: Healthcare Hog"
+            "Taunt: Healthcare Hog",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [
             "ScoutMvMLootCommon",
@@ -14208,7 +14231,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/6938.vcd",
-            "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd"
+            "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Come to daddy!"
@@ -14314,6 +14338,7 @@
             "ScoutMvMLootRare",
             "ScoutSF13SpellPickupRare",
             "Taunt: Chairholder",
+            "Taunt: The Bunnyhopper",
             "Taunt: Yeti Smash"
         ],
         "rules": [
@@ -14323,7 +14348,8 @@
         "scenes": [
             "scenes/player/scout/low/8512.vcd",
             "scenes/player/scout/low/yeti_taunt.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Ooooh! Yeah!"
@@ -15739,13 +15765,15 @@
             "taunt.runners_rythm_loop"
         ],
         "responses": [
-            "PlayerPositiveScout"
+            "PlayerPositiveScout",
+            "Taunt: Runner's Rhythm"
         ],
         "rules": [
             "PlayerPositiveScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/1302.vcd"
+            "scenes/player/scout/low/1302.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "[quiet snortish laughter] \"Ha ha ha... yeah...\""
@@ -15911,6 +15939,7 @@
             "PlayerPositiveScout",
             "ScoutTauntPrimary",
             "ScoutTauntPrimaryDouble",
+            "Taunt: Runner's Rhythm",
             "Taunt: Spin-to-Win",
             "Taunt: The Boston Boarder",
             "Taunt: The Boston Breakdance"
@@ -15927,6 +15956,7 @@
             "scenes/player/scout/low/471.vcd",
             "scenes/player/scout/low/taunt01_alt_vocal03.vcd",
             "scenes/player/scout/low/taunt01_vocal03.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
@@ -16491,13 +16521,15 @@
             "taunt.bunnyhop_outro"
         ],
         "responses": [
+            "Taunt: The Bunnyhopper",
             "scoutGravityReaction"
         ],
         "rules": [
             "scoutGravityReaction"
         ],
         "scenes": [
-            "scenes/player/scout/low/4469.vcd"
+            "scenes/player/scout/low/4469.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd"
         ],
         "state": "used",
         "transcript": "Gravity? Who gives a crap about gravity?"
@@ -17025,6 +17057,7 @@
         ],
         "responses": [
             "Taunt: Commending Clap",
+            "Taunt: The Bunnyhopper",
             "scoutGoodMagicReaction"
         ],
         "rules": [
@@ -17032,7 +17065,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/4479.vcd",
-            "scenes/workshop/player/scout/low/taunt_commending_clap.vcd"
+            "scenes/workshop/player/scout/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Ye-he-ha-yeah!"
@@ -17053,6 +17087,7 @@
         ],
         "responses": [
             "Taunt: Chairholder",
+            "Taunt: The Bunnyhopper",
             "scoutGoodMagicReaction"
         ],
         "rules": [
@@ -17060,7 +17095,8 @@
         ],
         "scenes": [
             "scenes/player/scout/low/4480.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Oh, hell yeah!"
@@ -17080,13 +17116,15 @@
             "taunt.bunnyhop_flip"
         ],
         "responses": [
+            "Taunt: The Bunnyhopper",
             "scoutGoodMagicReaction"
         ],
         "rules": [
             "scoutGoodMagicReaction"
         ],
         "scenes": [
-            "scenes/player/scout/low/4481.vcd"
+            "scenes/player/scout/low/4481.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd"
         ],
         "state": "used",
         "transcript": "Wuh huh huh hoo!"
@@ -21746,7 +21784,8 @@
         "responses": [
             "Taunt: Neck Snap",
             "Taunt: Rock, Paper, Scissors",
-            "Taunt: The Fist Bump"
+            "Taunt: The Fist Bump",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
@@ -21757,7 +21796,8 @@
             "scenes/player/scout/low/taunt_rps_scissors_lose_noinit.vcd",
             "scenes/player/scout/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/workshop/player/scout/low/taunt_neck_snap.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Hey, hey! Yeah!"
@@ -21777,15 +21817,21 @@
         "responses": [
             "Taunt: Bear Hug",
             "Taunt: Conga",
+            "Taunt: Runner's Rhythm",
+            "Taunt: The Carlton",
             "Taunt: The Killer Signature",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/conga.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped.vcd",
             "scenes/workshop/player/scout/low/taunt_bear_hug.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Heh hey, yeah!"
@@ -21816,12 +21862,14 @@
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Scooty Scoot"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_russian.vcd",
-            "scenes/player/scout/low/taunt_vehicle_moped.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "Oh yeah!"
@@ -21851,11 +21899,15 @@
             "taunt.freshbeats"
         ],
         "responses": [
-            "Taunt: Conga"
+            "Taunt: Conga",
+            "Taunt: The Carlton",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/conga.vcd"
+            "scenes/player/scout/low/conga.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Dun da dun dun da, yeah!"
@@ -21871,12 +21923,16 @@
         ],
         "responses": [
             "Taunt: Conga",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: The Carlton",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/conga.vcd",
-            "scenes/player/scout/low/taunt_aerobic_a.vcd"
+            "scenes/player/scout/low/taunt_aerobic_a.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Heh hey, dun dum dum der!"
@@ -21892,12 +21948,16 @@
         ],
         "responses": [
             "Taunt: Conga",
-            "Taunt: Kazotsky Kick"
+            "Taunt: Kazotsky Kick",
+            "Taunt: The Carlton",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/conga.vcd",
-            "scenes/player/scout/low/taunt_russian.vcd"
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
+            "scenes/player/scout/low/taunt_russian.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Yeah! Dancin' dancin'!"
@@ -21914,12 +21974,14 @@
         "responses": [
             "Taunt: Conga",
             "Taunt: Mannrobics",
-            "Taunt: The Boston Breakdance"
+            "Taunt: The Boston Breakdance",
+            "Taunt: The Carlton"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/conga.vcd",
             "scenes/player/scout/low/taunt_aerobic_a.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
         ],
         "state": "used",
@@ -21937,13 +21999,15 @@
         "responses": [
             "Taunt: Conga",
             "Taunt: Kazotsky Kick",
-            "Taunt: The Boston Breakdance"
+            "Taunt: The Boston Breakdance",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/conga.vcd",
             "scenes/player/scout/low/taunt_russian.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "I'm dancin'!"
@@ -21956,11 +22020,13 @@
             "taunt.runners_rythm_outro"
         ],
         "responses": [
-            "Taunt: Conga"
+            "Taunt: Conga",
+            "Taunt: Runner's Rhythm"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/conga.vcd"
+            "scenes/player/scout/low/conga.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd"
         ],
         "state": "used",
         "transcript": "S'no problem. I do dis all the time. I could do dis for money, I don't, but I could!"
@@ -22056,6 +22122,7 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
+            "Taunt: Runner's Rhythm",
             "Taunt: Square Dance",
             "Taunt: The Scooty Scoot"
         ],
@@ -22063,7 +22130,8 @@
         "scenes": [
             "scenes/player/scout/low/taunt_aerobic_b.vcd",
             "scenes/player/scout/low/taunt_dosido_dance01.vcd",
-            "scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd"
         ],
         "state": "used",
         "transcript": "Yeah! Dat just happened!"
@@ -22078,12 +22146,14 @@
         ],
         "responses": [
             "Taunt: Mannrobics",
+            "Taunt: Runner's Rhythm",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_aerobic_b.vcd",
-            "scenes/player/scout/low/taunt_dosido_dance01.vcd"
+            "scenes/player/scout/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd"
         ],
         "state": "used",
         "transcript": "Dat is how it's done!"
@@ -22162,12 +22232,16 @@
         ],
         "responses": [
             "Taunt: Chairholder",
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Carlton",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_dosido_dance01.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Dun dah, yeah!"
@@ -22186,10 +22260,12 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Boston Boarder",
             "Taunt: The Boston Breakdance",
             "Taunt: The Hot Wheeler",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
@@ -22197,10 +22273,12 @@
             "scenes/player/scout/low/taunt_aerobic_a.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped_end.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, ho hoo!"
@@ -22214,11 +22292,15 @@
             "taunt.runners_rythm_loop"
         ],
         "responses": [
-            "Taunt: Square Dance"
+            "Taunt: Runner's Rhythm",
+            "Taunt: Square Dance",
+            "Taunt: The Carlton"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/taunt_dosido_dance01.vcd"
+            "scenes/player/scout/low/taunt_dosido_dance01.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "Dah da daaaa, da dah!"
@@ -22251,11 +22333,13 @@
         "responses": [
             "Taunt: Kazotsky Kick",
             "Taunt: Mannrobics",
+            "Taunt: The Carlton",
             "Taunt: The Scooty Scoot"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_aerobic_a.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
             "scenes/player/scout/low/taunt_russian.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped.vcd"
         ],
@@ -22303,13 +22387,15 @@
             "scout_taunt_trackmans_touchdown_end"
         ],
         "responses": [
-            "Taunt: Square Dance"
+            "Taunt: Square Dance",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_dosido_dance00.vcd",
             "scenes/player/scout/low/taunt_dosido_dance01.vcd",
-            "scenes/player/scout/low/taunt_dosido_intro01.vcd"
+            "scenes/player/scout/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "I got da moves!"
@@ -22365,11 +22451,13 @@
         ],
         "responses": [
             "Taunt: Square Dance",
-            "Taunt: The Boston Breakdance"
+            "Taunt: The Boston Breakdance",
+            "Taunt: The Carlton"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_dosido_intro01.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
         ],
         "state": "used",
@@ -22385,11 +22473,13 @@
         ],
         "responses": [
             "Taunt: Square Dance",
-            "Taunt: The Boston Breakdance"
+            "Taunt: The Boston Breakdance",
+            "Taunt: The Carlton"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_dosido_intro01.vcd",
+            "scenes/player/scout/low/taunt_freshbeats.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
         ],
         "state": "used",
@@ -22456,11 +22546,13 @@
             "scout_taunt_trackmans_touchdown_start"
         ],
         "responses": [
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/taunt_headbutt_success.vcd"
+            "scenes/player/scout/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Boom!"
@@ -22474,13 +22566,15 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: The Boston Boarder"
+            "Taunt: The Boston Boarder",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Boom!"
@@ -22561,6 +22655,7 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Hot Wheeler",
             "Taunt: The Killer Signature",
             "Taunt: The Scooty Scoot"
@@ -22571,6 +22666,7 @@
             "scenes/player/scout/low/taunt_vehicle_moped_end.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
         ],
         "state": "used",
@@ -22588,6 +22684,7 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Hot Wheeler",
             "Taunt: The Killer Signature",
             "Taunt: The Scooty Scoot"
@@ -22598,6 +22695,7 @@
             "scenes/player/scout/low/taunt_vehicle_moped_end.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
         ],
         "state": "used",
@@ -22656,6 +22754,7 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Boston Boarder",
             "Taunt: The Hot Wheeler",
             "Taunt: The Killer Signature",
@@ -22666,6 +22765,7 @@
             "scenes/player/scout/low/flip_success_initiator1.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped_end.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
         ],
@@ -22722,13 +22822,18 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: The Boston Boarder"
+            "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Uhrah!"
@@ -22744,13 +22849,18 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: The Boston Boarder"
+            "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "UHRAH!"
@@ -22788,6 +22898,8 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -22797,7 +22909,10 @@
             "scenes/player/scout/low/flip_success_receiver1.vcd",
             "scenes/player/scout/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "UHYEAH!"
@@ -22813,13 +22928,18 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: The Boston Boarder"
+            "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "UHNNAH!"
@@ -22836,6 +22956,7 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Hot Wheeler",
             "Taunt: The Scooty Scoot"
         ],
@@ -22845,7 +22966,9 @@
             "scenes/player/scout/low/flip_success_initiator1.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped_end.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd"
         ],
         "state": "used",
         "transcript": "[strained] Up yah go!"
@@ -22863,13 +22986,17 @@
         "responses": [
             "Taunt: Chairholder",
             "Taunt: Flippin' Awesome",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_receiver1.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Wooo!"
@@ -22888,7 +23015,9 @@
             "Taunt: Flippin' Awesome",
             "Taunt: Spin-to-Win",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -22900,7 +23029,9 @@
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Woo hoo hoo!"
@@ -22921,7 +23052,9 @@
             "Taunt: Conga",
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
@@ -22929,7 +23062,9 @@
             "scenes/player/scout/low/flip_success_initiator1.vcd",
             "scenes/player/scout/low/taunt_aerobic_b.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Yeah-eah!"
@@ -22945,12 +23080,16 @@
         ],
         "responses": [
             "Taunt: Kazotsky Kick",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_russian.vcd",
-            "scenes/player/scout/low/taunt_vehicle_moped.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Yeah!"
@@ -22968,6 +23107,8 @@
             "Taunt: Chairholder",
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown",
             "Taunt: The Victory Lap"
         ],
         "rules": [],
@@ -22975,7 +23116,9 @@
             "scenes/player/scout/low/flip_success_receiver1.vcd",
             "scenes/player/scout/low/taunt_vehicle_allclass.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "BOOM!"
@@ -22991,12 +23134,16 @@
         ],
         "responses": [
             "Taunt: Chairholder",
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "BOOM!"
@@ -23011,13 +23158,15 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: Mannrobics"
+            "Taunt: Mannrobics",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator1.vcd",
             "scenes/player/scout/low/flip_success_receiver1.vcd",
-            "scenes/player/scout/low/taunt_aerobic_b.vcd"
+            "scenes/player/scout/low/taunt_aerobic_b.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd"
         ],
         "state": "used",
         "transcript": "I'm flyin'!"
@@ -23033,13 +23182,15 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Mannrobics",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Scooty Scoot"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator1.vcd",
             "scenes/player/scout/low/taunt_aerobic_b.vcd",
-            "scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd"
         ],
         "state": "used",
         "transcript": "Grabbin' air!"
@@ -23055,6 +23206,7 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Scooty Scoot",
             "Taunt: The Victory Lap"
         ],
@@ -23063,7 +23215,8 @@
             "scenes/player/scout/low/flip_success_receiver1.vcd",
             "scenes/player/scout/low/taunt_vehicle_allclass.vcd",
             "scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd"
         ],
         "state": "used",
         "transcript": "Grabbin air!"
@@ -23109,14 +23262,16 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: Spin-to-Win"
+            "Taunt: Spin-to-Win",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_start.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd",
-            "scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd"
+            "scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Whoo, let's do this!"
@@ -23271,12 +23426,16 @@
         ],
         "responses": [
             "Taunt: Skullcracker",
-            "Taunt: The Scooty Scoot"
+            "Taunt: The Bunnyhopper",
+            "Taunt: The Scooty Scoot",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_headbutt_success.vcd",
-            "scenes/player/scout/low/taunt_vehicle_moped.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Whoo!"
@@ -23474,6 +23633,7 @@
             "Taunt: Spin-to-Win",
             "Taunt: Square Dance",
             "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper",
             "Taunt: The Fist Bump"
         ],
         "rules": [],
@@ -23484,6 +23644,7 @@
             "scenes/player/scout/low/taunt_russian.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -23500,12 +23661,16 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
-            "Taunt: The Boston Breakdance"
+            "Taunt: Runner's Rhythm",
+            "Taunt: The Boston Breakdance",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_start.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd"
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_boston_breakdance.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_intro.vcd"
         ],
         "state": "used",
         "transcript": "Oh it's on!"
@@ -23522,13 +23687,15 @@
         "responses": [
             "Taunt: Flippin' Awesome",
             "Taunt: Peace!",
+            "Taunt: Runner's Rhythm",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_start.vcd",
             "scenes/player/scout/low/taunt_dosido_intro01.vcd",
-            "scenes/workshop/player/scout/low/taunt_peace.vcd"
+            "scenes/workshop/player/scout/low/taunt_peace.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd"
         ],
         "state": "used",
         "transcript": "Who wants some good times?"
@@ -23562,11 +23729,13 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Boston Boarder"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/flip_start.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd"
@@ -23626,7 +23795,8 @@
             "Taunt: Mannrobics",
             "Taunt: Spin-to-Win",
             "Taunt: Square Dance",
-            "Taunt: The Boston Boarder"
+            "Taunt: The Boston Boarder",
+            "Taunt: The Bunnyhopper"
         ],
         "rules": [],
         "scenes": [
@@ -23635,7 +23805,8 @@
             "scenes/player/scout/low/taunt_dosido_intro01.vcd",
             "scenes/player/scout/low/taunt_russian.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_outro.vcd"
         ],
         "state": "used",
         "transcript": "He-hey, yeah!"
@@ -24129,12 +24300,14 @@
         "responses": [
             "Taunt: Healthcare Hog",
             "Taunt: Kazotsky Kick",
+            "Taunt: Runner's Rhythm",
             "Taunt: The Killer Signature"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_russian.vcd",
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
+            "scenes/workshop/player/scout/low/taunt_runners_rhythm_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
         ],
         "state": "used",
@@ -24180,7 +24353,8 @@
             "scout_taunt_trackmans_touchdown_end"
         ],
         "responses": [
-            "ScoutTauntSecondary"
+            "ScoutTauntSecondary",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [
             "ScoutTauntHandgunScoutSecondary",
@@ -24191,7 +24365,8 @@
             "ScoutTauntShortstop"
         ],
         "scenes": [
-            "scenes/player/scout/low/taunt02_vocal01.vcd"
+            "scenes/player/scout/low/taunt02_vocal01.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "I'm runnin' circles around ya!"
@@ -24412,7 +24587,8 @@
             "scout_taunt_trackmans_touchdown_end"
         ],
         "responses": [
-            "ScoutTauntMelee"
+            "ScoutTauntMelee",
+            "Taunt: The Trackman's Touchdown"
         ],
         "rules": [
             "ScoutTauntFestiveHolyMackerel",
@@ -24422,7 +24598,8 @@
             "ScoutTauntWrapAssassin"
         ],
         "scenes": [
-            "scenes/player/scout/low/taunt03_vocal05.vcd"
+            "scenes/player/scout/low/taunt03_vocal05.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
         "transcript": "Who wants some-a this?"

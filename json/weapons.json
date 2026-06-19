@@ -952,7 +952,8 @@
         "responses": [
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
-            "Taunt: Skullcracker"
+            "Taunt: Skullcracker",
+            "Taunt: The Fist Bump"
         ],
         "rules": [],
         "scenes": [
@@ -966,7 +967,16 @@
             "scenes/player/soldier/low/taunt_aerobic_b.vcd",
             "scenes/player/soldier/low/taunt_headbutt_success.vcd",
             "scenes/player/spy/low/taunt_headbutt_success.vcd",
-            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
+            "scenes/workshop/player/demoman/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/engineer/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/spy/low/taunt_the_fist_bump_action.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -2144,9 +2154,20 @@
             "taunt_burstchester_screams",
             "weapon_bm_sapper.scream"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Long scream 1"
     },
@@ -2157,9 +2178,20 @@
             "taunt_burstchester_screams",
             "weapon_bm_sapper.scream"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Long scream 2"
     },
@@ -2171,9 +2203,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 1"
     },
@@ -2185,9 +2228,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 2"
     },
@@ -2199,9 +2253,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 3"
     },
@@ -2213,9 +2278,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 4"
     },
@@ -2227,9 +2303,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 5"
     },
@@ -2241,9 +2328,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 6"
     },
@@ -2255,9 +2353,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 7"
     },
@@ -2269,9 +2378,20 @@
             "weapon_bm_gloves.snap",
             "weapon_bm_sapper.snap"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/heavy/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/scout/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/sniper/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Snap 8"
     },
@@ -2282,9 +2402,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 1"
     },
@@ -2295,9 +2419,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 2"
     },
@@ -2308,9 +2436,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 3"
     },
@@ -2321,9 +2453,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 4"
     },
@@ -2334,9 +2470,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 5"
     },
@@ -2347,9 +2487,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 6"
     },
@@ -2360,9 +2504,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 7"
     },
@@ -2373,9 +2521,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 8"
     },
@@ -2386,9 +2538,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 9"
     },
@@ -2399,9 +2555,13 @@
             "taunt_burstchester_screams_happy_01",
             "weapon_bm_throwable.attack"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Growl 10"
     },
@@ -2413,9 +2573,14 @@
             "taunt_burstchester_screams_short",
             "weapon_bm_throwable.growl"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Happy scream 1"
     },
@@ -2427,9 +2592,14 @@
             "taunt_burstchester_screams_short",
             "weapon_bm_throwable.growl"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Burstchester"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/engineer/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
+        ],
         "state": "used",
         "transcript": "[Happy scream 2"
     },
@@ -3285,7 +3455,18 @@
     },
     "sound/weapons/cbar_miss1.wav": {
         "base_name": "cbar_miss1",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsScout",
+                "WeaponIsAtomizer"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsScout",
+                "WeaponIsWoodBat"
+            ]
+        ],
         "events": [
             "weapon_bat.miss",
             "weapon_bonesaw.miss",
@@ -3296,9 +3477,16 @@
             "weapon_flag.miss",
             "weapon_pipe.miss"
         ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
+        "responses": [
+            "ScoutTauntGrandSlam"
+        ],
+        "rules": [
+            "ScoutTauntAtomizer",
+            "ScoutTauntWoodBat"
+        ],
+        "scenes": [
+            "scenes/player/scout/low/taunt05_v1.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -3985,18 +4173,35 @@
     },
     "sound/weapons/demo_sword_swing1.wav": {
         "base_name": "demo_sword_swing1",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsDemoman",
+                "WeaponIsKatana"
+            ],
+            [
+                "ConceptPlayerTaunt",
+                "IsDemoman",
+                "WeaponIsSword",
+                "WeaponIsNotAxe"
+            ]
+        ],
         "events": [
             "demo_taunt_forehead_slice_demo_sword_swing1",
             "weapon_sword.swing"
         ],
         "responses": [
+            "DemomanTauntSword",
             "Taunt: Flippin' Awesome",
             "Taunt: Fore-Head Slice",
             "Taunt: Rock, Paper, Scissors"
         ],
-        "rules": [],
+        "rules": [
+            "DemomanTauntKatana",
+            "DemomanTauntSword"
+        ],
         "scenes": [
+            "scenes/player/demoman/low/taunt09.vcd",
             "scenes/player/scout/low/flip_success_receiver0.vcd",
             "scenes/player/scout/low/flip_success_receiver1.vcd",
             "scenes/player/soldier/low/flip_success_receiver0.vcd",
@@ -4714,11 +4919,13 @@
             "pyro_taunt_the_grilled_gunman_draw_default"
         ],
         "responses": [
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
+            "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -10577,27 +10784,51 @@
     },
     "sound/weapons/shotgun_cock_back.wav": {
         "base_name": "shotgun_cock_back",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsShotgunSoldier"
+            ]
+        ],
         "events": [
             "taunt.soldiershotguncockback",
             "weapon_shotgunengineer.cock_back"
         ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
+        "responses": [
+            "SoldierTauntSecondary"
+        ],
+        "rules": [
+            "SoldierTauntPlayerSecondary"
+        ],
+        "scenes": [
+            "scenes/player/soldier/low/taunt04.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
     "sound/weapons/shotgun_cock_forward.wav": {
         "base_name": "shotgun_cock_forward",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsShotgunSoldier"
+            ]
+        ],
         "events": [
             "taunt.soldiershotguncockforward",
             "weapon_shotgunengineer.cock_forward"
         ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
+        "responses": [
+            "SoldierTauntSecondary"
+        ],
+        "rules": [
+            "SoldierTauntPlayerSecondary"
+        ],
+        "scenes": [
+            "scenes/player/soldier/low/taunt04.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -10629,14 +10860,26 @@
     },
     "sound/weapons/shotgun_shoot.wav": {
         "base_name": "shotgun_shoot",
-        "criteria": [],
+        "criteria": [
+            [
+                "ConceptPlayerTaunt",
+                "IsSoldier",
+                "WeaponIsShotgunSoldier"
+            ]
+        ],
         "events": [
             "taunt.soldiershotgunfire",
             "weapon_shotgun.single"
         ],
-        "responses": [],
-        "rules": [],
-        "scenes": [],
+        "responses": [
+            "SoldierTauntSecondary"
+        ],
+        "rules": [
+            "SoldierTauntPlayerSecondary"
+        ],
+        "scenes": [
+            "scenes/player/soldier/low/taunt04.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
