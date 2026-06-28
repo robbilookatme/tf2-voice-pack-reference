@@ -1618,7 +1618,7 @@
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
-        "transcript": "[bones rattling, as the skeleton is put away"
+        "transcript": "[bones rattling, as the skeleton is put away]"
     },
     "sound/items/taunts/borrowed_bones/borrowed_bones_mid.wav": {
         "base_name": "borrowed_bones_mid",
@@ -1634,7 +1634,7 @@
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
-        "transcript": "[bones rattling, as the skeleton is made to wave"
+        "transcript": "[bones rattling, as the skeleton is made to wave]"
     },
     "sound/items/taunts/borrowed_bones/borrowed_bones_start.wav": {
         "base_name": "borrowed_bones_start",
@@ -1650,7 +1650,7 @@
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd"
         ],
         "state": "used",
-        "transcript": "[bones rattling, as the skeleton is pulled out"
+        "transcript": "[bones rattling, as the skeleton is pulled out]"
     },
     "sound/items/taunts/killer_solo/killer_solo_01.mp3": {
         "base_name": "killer_solo_01",
@@ -1770,7 +1770,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[Helicopter engine"
+        "transcript": "[Helicopter engine]"
     },
     "sound/items/tf_music_upgrade_machine.wav": {
         "base_name": "tf_music_upgrade_machine",

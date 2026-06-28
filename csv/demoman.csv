@@ -1530,19 +1530,19 @@ Your Line:,,,Rules:,['PlayerYesDemoman']
 
 Filename:,demo_guzzle_01,,Events:,"['demo_taunt_loot_guzzle', 'heavy_taunt_cheers_heavy_demo_guzzle_01']"
 Full Path:,sound/vo/taunts/demo_guzzle_01.mp3,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_cheers.vcd', 'scenes/workshop/player/heavy/low/taunt_cheers.vcd']"
-Transcription:,"[glugging, smacks lips",,Responses:,['Taunt: Cheers!']
+Transcription:,drinking enthusiastically,,Responses:,['Taunt: Cheers!']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_25,,Events:,[]
 Full Path:,sound/vo/taunts/demo_taunt_wild_25.mp3,,Scenes:,[]
-Transcription:,Argh! Phht!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,demo_taunt_wild_27,,Events:,[]
 Full Path:,sound/vo/taunts/demo_taunt_wild_27.mp3,,Scenes:,[]
-Transcription:,Pbbbbt! Ergh!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -1944,13 +1944,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,demo_aerobic_37,,Events:,['taunt_demo_aerobic_shared_dance']
 Full Path:,sound/vo/taunts/demo/demo_aerobic_37.mp3,,Scenes:,['scenes/player/demoman/low/taunt_aerobic_a.vcd']
-Transcription:,(happy laughter),,Responses:,['Taunt: Mannrobics']
+Transcription:,(Happy laughter),,Responses:,['Taunt: Mannrobics']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_aerobic_38,,Events:,['taunt_demo_aerobic_shared_dance']
 Full Path:,sound/vo/taunts/demo/demo_aerobic_38.mp3,,Scenes:,['scenes/player/demoman/low/taunt_aerobic_a.vcd']
-Transcription:,(excited grunting),,Responses:,['Taunt: Mannrobics']
+Transcription:,(Excited grunting),,Responses:,['Taunt: Mannrobics']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1962,19 +1962,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,demo_aerobic_boom_02,,Events:,[]
 Full Path:,sound/vo/taunts/demo/demo_aerobic_boom_02.mp3,,Scenes:,[]
-Transcription:,And boom!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,demo_aerobic_boom_03,,Events:,[]
 Full Path:,sound/vo/taunts/demo/demo_aerobic_boom_03.mp3,,Scenes:,[]
-Transcription:,And...boom goes the bomb! Ha ha!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,demo_aerobic_boom_04,,Events:,[]
 Full Path:,sound/vo/taunts/demo/demo_aerobic_boom_04.mp3,,Scenes:,[]
-Transcription:,And..boom goes the bomb!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -2040,7 +2040,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,demo_taunt_wild_32,,Events:,[]
 Full Path:,sound/vo/taunts/demo/demo_taunt_wild_32.mp3,,Scenes:,[]
-Transcription:,Woo hoo!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -2112,13 +2112,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,demo_trade_18,,Events:,['demo_taunt_trade_loop_rand']
 Full Path:,sound/vo/taunts/demo/demo_trade_18.mp3,,Scenes:,[]
-Transcription:,[hopeful encouraging grunts and a laugh,,Responses:,[]
+Transcription:,[hopeful encouraging grunts and a laugh],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,demo_trade_20,,Events:,['demo_taunt_trade_loop_rand']
 Full Path:,sound/vo/taunts/demo/demo_trade_20.mp3,,Scenes:,[]
-Transcription:,"[questioning, hopeful and pleased grunts with a laugh",,Responses:,[]
+Transcription:,"[questioning, hopeful and pleased grunts with a laugh]",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2136,7 +2136,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_burp_03,,Events:,"['demo_taunt_dosido_burp_rand', 'taunt_demo_burp_03']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_burp_03.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_cheers.vcd', 'scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd']"
-Transcription:,burp,,Responses:,"['Taunt: Cheers!', 'Taunt: Mourning Mercs', 'Taunt: Rancho Relaxo', ""Taunt: Scotsmann's Stagger"", 'Taunt: Square Dance', 'Taunt: The Pooped Deck']"
+Transcription:,(Burp),,Responses:,"['Taunt: Cheers!', 'Taunt: Mourning Mercs', 'Taunt: Rancho Relaxo', ""Taunt: Scotsmann's Stagger"", 'Taunt: Square Dance', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2256,7 +2256,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_dose_fun_08,,Events:,['demo_taunt_dosido_end_rand']
 Full Path:,sound/vo/taunts/demo/taunt_demo_dose_fun_08.mp3,,Scenes:,['scenes/player/demoman/low/taunt_dosido_dance01.vcd']
-Transcription:,[drunkenness,,Responses:,['Taunt: Square Dance']
+Transcription:,[drunkenness],,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2280,7 +2280,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_exert_04,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_exert_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
-Transcription:,"Hwap, ouww.",,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger"", 'Taunt: The Fist Bump']"
+Transcription:,Heyap!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger"", 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2376,7 +2376,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_flip_neg_01,,Events:,['demo_taunt_flip_random_flipflipfinish']
 Full Path:,sound/vo/taunts/demo/taunt_demo_flip_neg_01.mp3,,Scenes:,[]
-Transcription:,Heyeah!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2520,49 +2520,49 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_demo_nuke_1_grenade_get,,Events:,['taunt_demo_nuke_1_grenade_get']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_1_grenade_get.mp3,,Scenes:,['scenes/player/demoman/low/taunt_nuke.vcd']
-Transcription:,[pulls out grenade,,Responses:,['Taunt: Spent Well Spirits']
+Transcription:,[pulls out grenade],,Responses:,['Taunt: Spent Well Spirits']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_2_grenade_open,,Events:,['taunt_demo_nuke_2_grenade_open']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/soldier/low/taunt_cheers.vcd']"
-Transcription:,[cracks open grenade,,Responses:,"['Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", 'Taunt: Spent Well Spirits']"
+Transcription:,[cracks open grenade],,Responses:,"['Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", 'Taunt: Spent Well Spirits']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_3_spit_lid,,Events:,['taunt_demo_nuke_3_spit_lid']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_3_spit_lid.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
-Transcription:,[spits out lid,,Responses:,"['Taunt: Spent Well Spirits', 'Taunt: The Pooped Deck']"
+Transcription:,[spits out lid],,Responses:,"['Taunt: Spent Well Spirits', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_4_pour,,Events:,['taunt_demo_nuke_4_pour']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_4_pour.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd']"
-Transcription:,[pours both liquids in his mouth,,Responses:,"[""Taunt: Dead Mann's Drink"", 'Taunt: Pool Party', 'Taunt: Spent Well Spirits']"
+Transcription:,[pours both liquids in his mouth],,Responses:,"[""Taunt: Dead Mann's Drink"", 'Taunt: Pool Party', 'Taunt: Spent Well Spirits']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_5_grenade_drop,,Events:,['taunt_demo_nuke_5_grenade_drop']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_5_grenade_drop.mp3,,Scenes:,['scenes/player/demoman/low/taunt_nuke.vcd']
-Transcription:,[drops grenade,,Responses:,['Taunt: Spent Well Spirits']
+Transcription:,[drops grenade],,Responses:,['Taunt: Spent Well Spirits']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_6_bottle_drop,,Events:,['taunt_demo_nuke_6_bottle_drop']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_6_bottle_drop.mp3,,Scenes:,['scenes/player/demoman/low/taunt_nuke.vcd']
-Transcription:,[drops bottle,,Responses:,['Taunt: Spent Well Spirits']
+Transcription:,[drops bottle],,Responses:,['Taunt: Spent Well Spirits']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_7_spit,,Events:,['taunt_demo_nuke_7_spit']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_7_spit.mp3,,Scenes:,['scenes/player/demoman/low/taunt_nuke.vcd']
-Transcription:,[spits liquids into the air,,Responses:,['Taunt: Spent Well Spirits']
+Transcription:,[spits liquids into the air],,Responses:,['Taunt: Spent Well Spirits']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_8_explosion,,Events:,['taunt_demo_nuke_8_explosion']
 Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_8_explosion.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd']"
-Transcription:,[explosion,,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Spent Well Spirits']"
+Transcription:,[explosion],,Responses:,"[""Taunt: Drunk Mann's Cannon"", 'Taunt: Spent Well Spirits']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

@@ -786,19 +786,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,borrowed_bones_end,,Events:,['medic_taunt_burrowed_bones_end']
 Full Path:,sound/items/taunts/borrowed_bones/borrowed_bones_end.wav,,Scenes:,['scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']
-Transcription:,"[bones rattling, as the skeleton is put away",,Responses:,['Taunt: Borrowed Bones']
+Transcription:,"[bones rattling, as the skeleton is put away]",,Responses:,['Taunt: Borrowed Bones']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,borrowed_bones_mid,,Events:,['medic_taunt_burrowed_bones_mid']
 Full Path:,sound/items/taunts/borrowed_bones/borrowed_bones_mid.wav,,Scenes:,['scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']
-Transcription:,"[bones rattling, as the skeleton is made to wave",,Responses:,['Taunt: Borrowed Bones']
+Transcription:,"[bones rattling, as the skeleton is made to wave]",,Responses:,['Taunt: Borrowed Bones']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,borrowed_bones_start,,Events:,['medic_taunt_burrowed_bones_start']
 Full Path:,sound/items/taunts/borrowed_bones/borrowed_bones_start.wav,,Scenes:,['scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd']
-Transcription:,"[bones rattling, as the skeleton is pulled out",,Responses:,['Taunt: Borrowed Bones']
+Transcription:,"[bones rattling, as the skeleton is pulled out]",,Responses:,['Taunt: Borrowed Bones']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -858,7 +858,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,spy.travel_agent_helicopter_loop,,Events:,['spy.travel_agent_helicopter_loop']
 Full Path:,sound/items/taunts/spy_travel_agent/spy.travel_agent_helicopter_loop.wav,,Scenes:,[]
-Transcription:,[Helicopter engine,,Responses:,[]
+Transcription:,[Helicopter engine],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

@@ -11659,7 +11659,7 @@
             "scenes/player/demoman/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
-        "transcript": "(happy laughter)"
+        "transcript": "(Happy laughter)"
     },
     "sound/vo/taunts/demo/demo_aerobic_38.mp3": {
         "base_name": "demo_aerobic_38",
@@ -11675,7 +11675,7 @@
             "scenes/player/demoman/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
-        "transcript": "(excited grunting)"
+        "transcript": "(Excited grunting)"
     },
     "sound/vo/taunts/demo/demo_aerobic_40.mp3": {
         "base_name": "demo_aerobic_40",
@@ -11701,7 +11701,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "And boom!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo/demo_aerobic_boom_03.mp3": {
         "base_name": "demo_aerobic_boom_03",
@@ -11711,7 +11711,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "And...boom goes the bomb! Ha ha!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo/demo_aerobic_boom_04.mp3": {
         "base_name": "demo_aerobic_boom_04",
@@ -11721,7 +11721,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "And..boom goes the bomb!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo/demo_badpipes_02.mp3": {
         "base_name": "demo_badpipes_02",
@@ -11911,7 +11911,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "Woo hoo!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo/demo_taunt_wild_33.mp3": {
         "base_name": "demo_taunt_wild_33",
@@ -12121,7 +12121,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[hopeful encouraging grunts and a laugh"
+        "transcript": "[hopeful encouraging grunts and a laugh]"
     },
     "sound/vo/taunts/demo/demo_trade_20.mp3": {
         "base_name": "demo_trade_20",
@@ -12133,7 +12133,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[questioning, hopeful and pleased grunts with a laugh"
+        "transcript": "[questioning, hopeful and pleased grunts with a laugh]"
     },
     "sound/vo/taunts/demo/demoman_laughhappy02.mp3": {
         "base_name": "demoman_laughhappy02",
@@ -12205,7 +12205,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd"
         ],
         "state": "used",
-        "transcript": "burp"
+        "transcript": "(Burp)"
     },
     "sound/vo/taunts/demo/taunt_demo_conga_fun_08.mp3": {
         "base_name": "taunt_demo_conga_fun_08",
@@ -12546,7 +12546,7 @@
             "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
         ],
         "state": "used",
-        "transcript": "[drunkenness"
+        "transcript": "[drunkenness]"
     },
     "sound/vo/taunts/demo/taunt_demo_dose_int_04.mp3": {
         "base_name": "taunt_demo_dose_int_04",
@@ -12618,7 +12618,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
-        "transcript": "Hwap, ouww."
+        "transcript": "Heyap!"
     },
     "sound/vo/taunts/demo/taunt_demo_exert_06.mp3": {
         "base_name": "taunt_demo_exert_06",
@@ -12893,7 +12893,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "Heyeah!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo/taunt_demo_flip_neg_02.mp3": {
         "base_name": "taunt_demo_flip_neg_02",
@@ -13356,7 +13356,7 @@
             "scenes/player/demoman/low/taunt_nuke.vcd"
         ],
         "state": "used",
-        "transcript": "[pulls out grenade"
+        "transcript": "[pulls out grenade]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3": {
         "base_name": "taunt_demo_nuke_2_grenade_open",
@@ -13376,7 +13376,7 @@
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd"
         ],
         "state": "used",
-        "transcript": "[cracks open grenade"
+        "transcript": "[cracks open grenade]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_3_spit_lid.mp3": {
         "base_name": "taunt_demo_nuke_3_spit_lid",
@@ -13394,7 +13394,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
         "state": "used",
-        "transcript": "[spits out lid"
+        "transcript": "[spits out lid]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_4_pour.mp3": {
         "base_name": "taunt_demo_nuke_4_pour",
@@ -13414,7 +13414,7 @@
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd"
         ],
         "state": "used",
-        "transcript": "[pours both liquids in his mouth"
+        "transcript": "[pours both liquids in his mouth]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_5_grenade_drop.mp3": {
         "base_name": "taunt_demo_nuke_5_grenade_drop",
@@ -13430,7 +13430,7 @@
             "scenes/player/demoman/low/taunt_nuke.vcd"
         ],
         "state": "used",
-        "transcript": "[drops grenade"
+        "transcript": "[drops grenade]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_6_bottle_drop.mp3": {
         "base_name": "taunt_demo_nuke_6_bottle_drop",
@@ -13446,7 +13446,7 @@
             "scenes/player/demoman/low/taunt_nuke.vcd"
         ],
         "state": "used",
-        "transcript": "[drops bottle"
+        "transcript": "[drops bottle]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_7_spit.mp3": {
         "base_name": "taunt_demo_nuke_7_spit",
@@ -13462,7 +13462,7 @@
             "scenes/player/demoman/low/taunt_nuke.vcd"
         ],
         "state": "used",
-        "transcript": "[spits liquids into the air"
+        "transcript": "[spits liquids into the air]"
     },
     "sound/vo/taunts/demo/taunt_demo_nuke_8_explosion.mp3": {
         "base_name": "taunt_demo_nuke_8_explosion",
@@ -13480,7 +13480,7 @@
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a1.vcd"
         ],
         "state": "used",
-        "transcript": "[explosion"
+        "transcript": "[explosion]"
     },
     "sound/vo/taunts/demo/taunt_demo_rps_exert_04.mp3": {
         "base_name": "taunt_demo_rps_exert_04",
@@ -13756,7 +13756,7 @@
             "scenes/workshop/player/heavy/low/taunt_cheers.vcd"
         ],
         "state": "used",
-        "transcript": "[glugging, smacks lips"
+        "transcript": "drinking enthusiastically"
     },
     "sound/vo/taunts/demo_taunt_wild_25.mp3": {
         "base_name": "demo_taunt_wild_25",
@@ -13766,7 +13766,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "Argh! Phht!"
+        "transcript": ""
     },
     "sound/vo/taunts/demo_taunt_wild_27.mp3": {
         "base_name": "demo_taunt_wild_27",
@@ -13776,7 +13776,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "Pbbbbt! Ergh!"
+        "transcript": ""
     },
     "sound/vo/taunts/demoman_laughevil01.mp3": {
         "base_name": "demoman_laughevil01",

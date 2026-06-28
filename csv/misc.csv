@@ -6480,19 +6480,19 @@ Unused?,,,Criteria:,[]
 
 Filename:,wolf_howl_01,,Events:,['halloween.wolf_01']
 Full Path:,sound/misc/wolf_howl_01.wav,,Scenes:,['scenes/player/demoman/low/taunt11.vcd']
-Transcription:,[wolf howl 1,,Responses:,['DemomanTauntWolfHowl']
+Transcription:,[wolf howl 1],,Responses:,['DemomanTauntWolfHowl']
 Your Line:,,,Rules:,['DemomanTauntWolfHowl']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsDemoman', 'IsDemowolf']]"
 
 Filename:,wolf_howl_02,,Events:,['halloween.wolf_02']
 Full Path:,sound/misc/wolf_howl_02.wav,,Scenes:,[]
-Transcription:,[wolf howl 2,,Responses:,[]
+Transcription:,[wolf howl 2],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,wolf_howl_03,,Events:,['halloween.wolf_03']
 Full Path:,sound/misc/wolf_howl_03.wav,,Scenes:,[]
-Transcription:,[wolf howl 3,,Responses:,[]
+Transcription:,[wolf howl 3],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -6822,7 +6822,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,trombonetauntv2,,Events:,['taunt_fumblers_fanfare_soldier']
 Full Path:,sound/music/trombonetauntv2.mp3,,Scenes:,['scenes/workshop/player/soldier/low/fumblers_fanfare.vcd']
-Transcription:,[failure notes,,Responses:,['Taunt: The Fubar Fanfare']
+Transcription:,[failure notes],,Responses:,['Taunt: The Fubar Fanfare']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -11016,37 +11016,37 @@ Unused?,,,Criteria:,[]
 
 Filename:,taunt_demo_stagger_slosh1,,Events:,['taunt.demostaggerslosh1']
 Full Path:,sound/player/taunt_demo_stagger_slosh1.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd']"
-Transcription:,[beer slosh,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The Drunken Sailor']"
+Transcription:,[beer slosh],,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_stagger_slosh2,,Events:,['taunt.demostaggerslosh2']
 Full Path:,sound/player/taunt_demo_stagger_slosh2.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd']"
-Transcription:,[beer slosh 2,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The Drunken Sailor', 'Taunt: The Pooped Deck']"
+Transcription:,[beer slosh 2],,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The Drunken Sailor', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_stagger_slosh3,,Events:,['taunt.demostaggerslosh3']
 Full Path:,sound/player/taunt_demo_stagger_slosh3.wav,,Scenes:,"['scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/medic/low/taunt_cheers.vcd']"
-Transcription:,[beer slosh 3,,Responses:,"['Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", ""Taunt: Scotsmann's Stagger""]"
+Transcription:,[beer slosh 3],,Responses:,"['Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", ""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_stagger_slosh4,,Events:,['taunt.demostaggerslosh4']
 Full Path:,sound/player/taunt_demo_stagger_slosh4.wav,,Scenes:,['scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd']
-Transcription:,[beer slosh 4,,Responses:,"[""Taunt: Scotsmann's Stagger""]"
+Transcription:,[beer slosh 4],,Responses:,"[""Taunt: Scotsmann's Stagger""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_didgeridoo_sit_down,,Events:,['taunt.didgeridoositdown']
 Full Path:,sound/player/taunt_didgeridoo_sit_down.wav,,Scenes:,['scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd']
-Transcription:,[sitting down,,Responses:,['Taunt: Didgeridrongo']
+Transcription:,[sitting down],,Responses:,['Taunt: Didgeridrongo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_didgeridoo_stand_up,,Events:,['taunt.didgeridoostandup']
 Full Path:,sound/player/taunt_didgeridoo_stand_up.wav,,Scenes:,['scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd']
-Transcription:,[standing up,,Responses:,['Taunt: Didgeridrongo']
+Transcription:,[standing up],,Responses:,['Taunt: Didgeridrongo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -11058,7 +11058,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_didgeridoo_stop,,Events:,['taunt.didgeridoostop']
 Full Path:,sound/player/taunt_didgeridoo_stop.wav,,Scenes:,['scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd']
-Transcription:,[end of didgeridoo music,,Responses:,['Taunt: Didgeridrongo']
+Transcription:,[end of didgeridoo music],,Responses:,['Taunt: Didgeridrongo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -11316,7 +11316,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_knuckle_crack,,Events:,"['heavy_item_preview_heavy_taunt_knuckle_crack', 'heavy_taunt_neck_snap_heavy_taunt_knuckle_crack', 'sniper_item_preview_sniper_taunt_knuckle_crack', 'soldier_item_preview_soldier_taunt_knuckle_crack', 'soldier_taunt_neck_snap_soldier_taunt_knuckle_crack', 'spy_item_preview_spy_taunt_knuckle_crack', 'spy_taunt_neck_snap_spy_taunt_knuckle_crack', 'taunt.soldierknucklecrack']"
 Full Path:,sound/player/taunt_knuckle_crack.wav,,Scenes:,"['scenes/player/sniper/low/taunt_russian.vcd', 'scenes/player/soldier/low/taunt05.vcd', 'scenes/workshop/player/engineer/low/taunt_bear_hug.vcd', 'scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd', 'scenes/workshop/player/heavy/low/taunt_neck_snap.vcd', 'scenes/workshop/player/heavy/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/medic/low/taunt_the_fist_bump_action.vcd', 'scenes/workshop/player/sniper/low/taunt_bear_hug.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd', 'scenes/workshop/player/spy/low/taunt_neck_snap.vcd']"
-Transcription:,[knuckle crack,,Responses:,"['SoldierTauntPickaxe', 'Taunt: Bare Knuckle Beatdown', 'Taunt: Bear Hug', 'Taunt: Kazotsky Kick', 'Taunt: Neck Snap', 'Taunt: The Fist Bump']"
+Transcription:,[knuckle crack],,Responses:,"['SoldierTauntPickaxe', 'Taunt: Bare Knuckle Beatdown', 'Taunt: Bear Hug', 'Taunt: Kazotsky Kick', 'Taunt: Neck Snap', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,"['SoldierTauntEqualizer', 'SoldierTauntEscapePlan']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsEqualizer'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsEscapePlan']]"
 
@@ -11544,13 +11544,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_pyro_balloonicorn,,Events:,['taunt.pyroballoonicorn']
 Full Path:,sound/player/taunt_pyro_balloonicorn.wav,,Scenes:,['scenes/player/pyro/low/taunt_bubbles.vcd']
-Transcription:,,,Responses:,['PyroTauntRainblower']
+Transcription:,"Bubbles and chimes, Balloonicorn braying, interrupted by menacing strings and Pyro laughing demonically",,Responses:,['PyroTauntRainblower']
 Your Line:,,,Rules:,['PyroTauntPlayerRainblower']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsRainblower']]"
 
 Filename:,taunt_pyro_hellicorn,,Events:,['taunt.pyrohellicorn']
 Full Path:,sound/player/taunt_pyro_hellicorn.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
+Transcription:,"Dramatic music builds to a climax, followed by Pyro laughing demonically",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -11832,43 +11832,43 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_springrider_getup,,Events:,['taunt.taunt.springridergetup']
 Full Path:,sound/player/taunt_springrider_getup.wav,,Scenes:,"['scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/pyro/low/spring_rider_outro.vcd', 'scenes/workshop/player/scout/low/taunt_healthcarehog.vcd', 'scenes/workshop/player/scout/low/taunt_peace_out.vcd']"
-Transcription:,[getting up,,Responses:,"['Taunt: Bear Hug', 'Taunt: Healthcare Hog', 'Taunt: Peace Out', 'Taunt: The Balloonibouncer']"
+Transcription:,[getting up],,Responses:,"['Taunt: Bear Hug', 'Taunt: Healthcare Hog', 'Taunt: Peace Out', 'Taunt: The Balloonibouncer']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_sit,,Events:,['taunt.springridersit']
 Full Path:,sound/player/taunt_springrider_sit.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_texas_truckin.vcd', 'scenes/workshop/player/pyro/low/spring_rider.vcd', 'scenes/workshop/player/scout/low/taunt_flying_colors.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
-Transcription:,[sitting down,,Responses:,"['Taunt: Flying Colors', ""Taunt: Shooter's Stakeout"", ""Taunt: Texas Truckin'"", 'Taunt: The Balloonibouncer']"
+Transcription:,[sitting down],,Responses:,"['Taunt: Flying Colors', ""Taunt: Shooter's Stakeout"", ""Taunt: Texas Truckin'"", 'Taunt: The Balloonibouncer']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_squeak1,,Events:,['taunt.taunt.springridersqueak1']
 Full Path:,sound/player/taunt_springrider_squeak1.wav,,Scenes:,['scenes/workshop/player/pyro/low/spring_rider.vcd']
-Transcription:,[Squeak 1,,Responses:,['Taunt: The Balloonibouncer']
+Transcription:,[Squeak 1],,Responses:,['Taunt: The Balloonibouncer']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_squeak2,,Events:,['taunt.taunt.springridersqueak2']
 Full Path:,sound/player/taunt_springrider_squeak2.wav,,Scenes:,['scenes/workshop/player/pyro/low/spring_rider.vcd']
-Transcription:,[Squeak 2,,Responses:,['Taunt: The Balloonibouncer']
+Transcription:,[Squeak 2],,Responses:,['Taunt: The Balloonibouncer']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_squeak3,,Events:,['taunt.taunt.springridersqueak3']
 Full Path:,sound/player/taunt_springrider_squeak3.wav,,Scenes:,['scenes/workshop/player/pyro/low/spring_rider.vcd']
-Transcription:,[Squeak 3,,Responses:,['Taunt: The Balloonibouncer']
+Transcription:,[Squeak 3],,Responses:,['Taunt: The Balloonibouncer']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_squeak4,,Events:,['taunt.taunt.springridersqueak4']
 Full Path:,sound/player/taunt_springrider_squeak4.wav,,Scenes:,['scenes/workshop/player/pyro/low/spring_rider.vcd']
-Transcription:,[Squeak 4,,Responses:,['Taunt: The Balloonibouncer']
+Transcription:,[Squeak 4],,Responses:,['Taunt: The Balloonibouncer']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_springrider_squeak5,,Events:,['taunt.taunt.springridersqueak5']
 Full Path:,sound/player/taunt_springrider_squeak5.wav,,Scenes:,['scenes/workshop/player/pyro/low/spring_rider.vcd']
-Transcription:,[Squeak 5,,Responses:,['Taunt: The Balloonibouncer']
+Transcription:,[Squeak 5],,Responses:,['Taunt: The Balloonibouncer']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -11904,19 +11904,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_table_flip_bubbly_pot_water,,Events:,['taunt.tableflipbubblypotwater']
 Full Path:,sound/player/taunt_table_flip_bubbly_pot_water.wav,,Scenes:,['scenes/player/items/taunts/taunt_table_flip_prop_intro.vcd']
-Transcription:,[bubbling water,,Responses:,"['Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
+Transcription:,[bubbling water],,Responses:,"['Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_table_flip_flipping_table,,Events:,['taunt.tableflipflippingtable']
 Full Path:,sound/player/taunt_table_flip_flipping_table.wav,,Scenes:,"['scenes/player/items/taunts/taunt_table_flip_prop_outro.vcd', 'scenes/player/items/taunts/taunt_table_flip_prop_outro_nojoule.vcd']"
-Transcription:,"[flipping table, food landing on the ground, Heavy eating the steak",,Responses:,"['Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
+Transcription:,"[flipping table, food landing on the ground, Heavy eating the steak]",,Responses:,"['Taunt: The Boiling Point', 'Taunt: The Table Tantrum']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_table_flip_notification,,Events:,['taunt.tableflipnotification']
 Full Path:,sound/player/taunt_table_flip_notification.wav,,Scenes:,['scenes/player/items/taunts/taunt_table_flip_prop_outro.vcd']
-Transcription:,[Joule sous-vide cooker ding,,Responses:,['Taunt: The Boiling Point']
+Transcription:,[Joule sous-vide cooker ding],,Responses:,['Taunt: The Boiling Point']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -12120,97 +12120,97 @@ Unused?,,,Criteria:,[]
 
 Filename:,taunt_yeti_appear_snow,,Events:,['taunt.yetiappearsnow']
 Full Path:,sound/player/taunt_yeti_appear_snow.wav,,Scenes:,[]
-Transcription:,"[snow falling, loud roar",,Responses:,[]
+Transcription:,"[snow falling, loud roar]",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit1,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit1.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 1,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 1],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit2,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit2.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 2,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 2],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit3,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit3.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 3,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 3],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit4,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit4.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 4,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 4],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit5,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit5.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 5,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 5],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit6,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit6.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 6,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 6],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit7,,Events:,"['engineer_taunt_texas_twirl_em_taunt_yeti_chest_hit7', 'soldier_item_preview_soldier_taunt_yeti_chest_hit7', 'taunt.yetichesthit']"
 Full Path:,sound/player/taunt_yeti_chest_hit7.wav,,Scenes:,"['scenes/workshop/player/engineer/low/taunt_peace.vcd', 'scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd', 'scenes/workshop/player/heavy/low/taunt_peace.vcd', 'scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']"
-Transcription:,[chest hit 7,,Responses:,"['Taunt: Bear Hug', 'Taunt: Peace!', 'Taunt: Ring King', ""Taunt: Texas Twirl 'Em""]"
+Transcription:,[chest hit 7],,Responses:,"['Taunt: Bear Hug', 'Taunt: Peace!', 'Taunt: Ring King', ""Taunt: Texas Twirl 'Em""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit8,,Events:,"['soldier_item_preview_soldier_taunt_yeti_chest_hit8', 'taunt.yetichesthit']"
 Full Path:,sound/player/taunt_yeti_chest_hit8.wav,,Scenes:,"['scenes/workshop/player/heavy/low/taunt_ring_king.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']"
-Transcription:,[chest hit 8,,Responses:,"['Taunt: Bear Hug', 'Taunt: Ring King']"
+Transcription:,[chest hit 8],,Responses:,"['Taunt: Bear Hug', 'Taunt: Ring King']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_chest_hit9,,Events:,['taunt.yetichesthit']
 Full Path:,sound/player/taunt_yeti_chest_hit9.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_ring_king.vcd']
-Transcription:,[chest hit 9,,Responses:,['Taunt: Ring King']
+Transcription:,[chest hit 9],,Responses:,['Taunt: Ring King']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_ground_pound,,Events:,['taunt.yetigroundpound']
 Full Path:,sound/player/taunt_yeti_ground_pound.wav,,Scenes:,[]
-Transcription:,[slamming the ground,,Responses:,[]
+Transcription:,[slamming the ground],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_land,,Events:,['taunt.yetiland']
 Full Path:,sound/player/taunt_yeti_land.wav,,Scenes:,[]
-Transcription:,[landing from jump,,Responses:,[]
+Transcription:,[landing from jump],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_roar_beginning,,Events:,['taunt.yetiroarbeginning']
 Full Path:,sound/player/taunt_yeti_roar_beginning.wav,,Scenes:,[]
-Transcription:,[short roar,,Responses:,[]
+Transcription:,[short roar],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_roar_first,,Events:,['taunt.yetiroarfirst']
 Full Path:,sound/player/taunt_yeti_roar_first.wav,,Scenes:,[]
-Transcription:,[long roar 1,,Responses:,[]
+Transcription:,[long roar 1],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_roar_second,,Events:,['taunt.yetiroarsecond']
 Full Path:,sound/player/taunt_yeti_roar_second.wav,,Scenes:,[]
-Transcription:,[long roar 2,,Responses:,[]
+Transcription:,[long roar 2],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_standee_break,,Events:,['taunt.yetistandeebreak']
 Full Path:,sound/player/taunt_yeti_standee_break.wav,,Scenes:,[]
-Transcription:,[breaking wood,,Responses:,[]
+Transcription:,[breaking wood],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -12558,13 +12558,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_yeti_standee_speaker_growl,,Events:,['taunt.yetistandeespeakergrowl']
 Full Path:,sound/player/taunt_yeti_standee_speaker_growl.wav,,Scenes:,[]
-Transcription:,[roar 1,,Responses:,[]
+Transcription:,[roar 1],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_yeti_standee_speaker_growl_broken,,Events:,['taunt.yetistandeespeakergrowlbroken']
 Full Path:,sound/player/taunt_yeti_standee_speaker_growl_broken.wav,,Scenes:,[]
-Transcription:,[roar 2,,Responses:,[]
+Transcription:,[roar 2],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -15066,25 +15066,25 @@ Your Line:,,,Rules:,[]
 
 Filename:,whistle_01,,Events:,['scout_taunt_foul_play_whistle']
 Full Path:,sound/vo/taunts/common/whistle_01.wav,,Scenes:,['scenes/workshop/player/scout/low/taunt_foul_play.vcd']
-Transcription:,[whistle 1,,Responses:,['Taunt: Foul Play']
+Transcription:,[whistle 1],,Responses:,['Taunt: Foul Play']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,whistle_02,,Events:,['scout_taunt_foul_play_whistle']
 Full Path:,sound/vo/taunts/common/whistle_02.wav,,Scenes:,['scenes/workshop/player/scout/low/taunt_foul_play.vcd']
-Transcription:,[whistle 2,,Responses:,['Taunt: Foul Play']
+Transcription:,[whistle 2],,Responses:,['Taunt: Foul Play']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,whistle_03,,Events:,['scout_taunt_foul_play_whistle']
 Full Path:,sound/vo/taunts/common/whistle_03.wav,,Scenes:,['scenes/workshop/player/scout/low/taunt_foul_play.vcd']
-Transcription:,[whistle 3,,Responses:,['Taunt: Foul Play']
+Transcription:,[whistle 3],,Responses:,['Taunt: Foul Play']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,whistle_04,,Events:,['scout_taunt_foul_play_whistle']
 Full Path:,sound/vo/taunts/common/whistle_04.wav,,Scenes:,['scenes/workshop/player/scout/low/taunt_foul_play.vcd']
-Transcription:,[whistle 4,,Responses:,['Taunt: Foul Play']
+Transcription:,[whistle 4],,Responses:,['Taunt: Foul Play']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

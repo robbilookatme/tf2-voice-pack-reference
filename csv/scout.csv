@@ -1716,7 +1716,7 @@ Your Line:,,,Rules:,"['KilledPlayerManyScout', 'KilledPlayerMeleeFestiveFishScou
 
 Filename:,scout_laughshort01,,Events:,"['scout.laughshort01', 'scout.short_laughs', 'taunt.bearhug_scout_d', 'taunt_scout_chairholder_start_c']"
 Full Path:,sound/vo/scout_laughshort01.mp3,,Scenes:,"['scenes/player/scout/low/436.vcd', 'scenes/workshop/player/scout/low/taunt_bear_hug.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Short laugh,,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
+Transcription:,(Short laugh),,Responses:,"['PlayerTauntsScout', 'Taunt: Bear Hug', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
@@ -1728,13 +1728,13 @@ Your Line:,,,Rules:,['PlayerPositiveScout']
 
 Filename:,scout_laughshort03,,Events:,"['scout.laughshort03', 'scout.short_laughs', 'taunt_scout_chairholder_start_c']"
 Full Path:,sound/vo/scout_laughshort03.mp3,,Scenes:,"['scenes/player/scout/low/1299.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Short laugh 3,,Responses:,"['PlayerTauntsScout', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
+Transcription:,(Short laugh 2),,Responses:,"['PlayerTauntsScout', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
 Filename:,scout_laughshort04,,Events:,"['scout.laughshort04', 'scout.short_laughs', 'taunt_scout_chairholder_start_c']"
 Full Path:,sound/vo/scout_laughshort04.mp3,,Scenes:,"['scenes/player/scout/low/1300.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd']"
-Transcription:,Short laugh 4,,Responses:,"['PlayerTauntsScout', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
+Transcription:,(Short laugh 3),,Responses:,"['PlayerTauntsScout', 'Taunt: Chairholder', ""Taunt: The Homerunner's Hobby""]"
 Your Line:,,,Rules:,['PlayerPositiveScout']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsScout']]"
 
@@ -2940,7 +2940,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_aerobic_pos_45,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_aerobic_pos_45.mp3,,Scenes:,[]
-Transcription:,Time to kill some calories!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3084,7 +3084,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_motorcycle_08,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_motorcycle_08.wav,,Scenes:,[]
-Transcription:,Wooo!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3120,7 +3120,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_motorcycle_17,,Events:,['taunt.scoutmopedwheely']
 Full Path:,sound/vo/taunts/scout/scout_motorcycle_17.wav,,Scenes:,['scenes/player/scout/low/taunt_vehicle_moped_wheely.vcd']
-Transcription:,,,Responses:,['Taunt: The Scooty Scoot']
+Transcription:,Wheelie time!,,Responses:,['Taunt: The Scooty Scoot']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3156,7 +3156,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_motorcycle_31,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_motorcycle_31.wav,,Scenes:,[]
-Transcription:,Pretty manly motorcycle here!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3180,7 +3180,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_motorcycle_35,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_motorcycle_35.wav,,Scenes:,[]
-Transcription:,Vrrroooommm! Beep! Beep!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3570,7 +3570,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_taunt_flip_int_03,,Events:,['scout_taunt_flip_random_flipflipping2']
 Full Path:,sound/vo/taunts/scout/scout_taunt_flip_int_03.mp3,,Scenes:,['scenes/player/scout/low/flip_success_receiver1.vcd']
-Transcription:,Flip it!,,Responses:,"[""Taunt: Flippin' Awesome""]"
+Transcription:,,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3768,13 +3768,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_taunt_nun_81,,Events:,['scout_taunt_batman_1_twirl']
 Full Path:,sound/vo/taunts/scout/scout_taunt_nun_81.mp3,,Scenes:,['scenes/player/scout/low/taunt_bat_man.vcd']
-Transcription:,[mock Kung fu noises,,Responses:,"[""Taunt: Battin' a Thousand""]"
+Transcription:,[mock Kung fu noises],,Responses:,"[""Taunt: Battin' a Thousand""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_taunt_nun_83,,Events:,['scout_taunt_batman_1_twirl']
 Full Path:,sound/vo/taunts/scout/scout_taunt_nun_83.mp3,,Scenes:,['scenes/player/scout/low/taunt_bat_man.vcd']
-Transcription:,[mock Kung fu sound effects,,Responses:,"[""Taunt: Battin' a Thousand""]"
+Transcription:,[mock Kung fu sound effects],,Responses:,"[""Taunt: Battin' a Thousand""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3798,7 +3798,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_taunt_rps_exert_23,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_taunt_rps_exert_23.mp3,,Scenes:,[]
-Transcription:,"One, two, three!",,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3888,7 +3888,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,scout_taunt_rps_win_51,,Events:,[]
 Full Path:,sound/vo/taunts/scout/scout_taunt_rps_win_51.mp3,,Scenes:,[]
-Transcription:,Paper!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -4602,7 +4602,7 @@ Your Line:,,,Rules:,['item_haunthat_on_fireScout']
 
 Filename:,scout_item_haunthat_on_fire03,,Events:,['scout_item_haunthat_on_fire03']
 Full Path:,sound/vo/scout_item_haunthat_on_fire03.mp3,,Scenes:,['scenes/player/scout/low/7078.vcd']
-Transcription:,"(Scream) Oh, God, my ghost hat's on fire!",,Responses:,['item_haunthat_on_fireScout']
+Transcription:,"Oh, God, my ghost hat's on fire!",,Responses:,['item_haunthat_on_fireScout']
 Your Line:,,,Rules:,['item_haunthat_on_fireScout']
 ,,,Criteria:,"[['ConceptFire', 'IsScout', 'ScoutIsNotStillonFire', '20PercentChance', 'IsHauntedHat', 'AppliesContext:ScoutOnFire:1:7']]"
 

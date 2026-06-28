@@ -9561,7 +9561,7 @@
             "scenes/player/soldier/low/taunt_aerobic_a.vcd"
         ],
         "state": "used",
-        "transcript": "(Long laughing)"
+        "transcript": "(Laugh 3)"
     },
     "sound/vo/soldier_laughlong03.mp3": {
         "base_name": "soldier_laughlong03",
@@ -9638,7 +9638,7 @@
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
         "state": "used",
-        "transcript": "(Short laugh)"
+        "transcript": "(Laugh 1)"
     },
     "sound/vo/soldier_laughshort02.mp3": {
         "base_name": "soldier_laughshort02",
@@ -9687,7 +9687,7 @@
             "scenes/player/soldier/low/1351.vcd"
         ],
         "state": "used",
-        "transcript": "(Short laugh)"
+        "transcript": "Short laugh 3"
     },
     "sound/vo/soldier_laughshort04.mp3": {
         "base_name": "soldier_laughshort04",
@@ -9715,7 +9715,7 @@
             "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd"
         ],
         "state": "used",
-        "transcript": "Short laugh 4"
+        "transcript": "(Laugh 3)"
     },
     "sound/vo/soldier_medic01.mp3": {
         "base_name": "soldier_medic01",
@@ -12780,7 +12780,7 @@
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": ""
+        "transcript": "(Grunt 5)"
     },
     "sound/vo/soldier_painsharp06.mp3": {
         "base_name": "soldier_painsharp06",
@@ -12870,7 +12870,7 @@
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": ""
+        "transcript": "(Grunt 8)"
     },
     "sound/vo/soldier_pickaxetaunt01.mp3": {
         "base_name": "soldier_pickaxetaunt01",
@@ -18244,7 +18244,7 @@
             "scenes/player/soldier/low/conga.vcd"
         ],
         "state": "used",
-        "transcript": "Ha ha! Conga!"
+        "transcript": ""
     },
     "sound/vo/taunts/soldier/soldier_taunt_cong_int_11.mp3": {
         "base_name": "soldier_taunt_cong_int_11",
@@ -18692,7 +18692,7 @@
             "scenes/player/soldier/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
-        "transcript": "[strained]\"Up you go!\""
+        "transcript": "[strained] \"Up you go!\""
     },
     "sound/vo/taunts/soldier/soldier_taunt_flip_exert_06.mp3": {
         "base_name": "soldier_taunt_flip_exert_06",
@@ -18709,7 +18709,7 @@
             "scenes/player/soldier/low/flip_success_initiator1.vcd"
         ],
         "state": "used",
-        "transcript": "[strained]\"Up you go!\""
+        "transcript": "[strained] \"Up you go!\""
     },
     "sound/vo/taunts/soldier/soldier_taunt_flip_exert_21.mp3": {
         "base_name": "soldier_taunt_flip_exert_21",
@@ -19104,7 +19104,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "Eahhhhhh!"
+        "transcript": ""
     },
     "sound/vo/taunts/soldier/soldier_taunt_head_pain_13.mp3": {
         "base_name": "soldier_taunt_head_pain_13",
@@ -19464,7 +19464,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "One, two, three!"
+        "transcript": ""
     },
     "sound/vo/taunts/soldier/soldier_taunt_rps_exert_11.mp3": {
         "base_name": "soldier_taunt_rps_exert_11",
@@ -19838,7 +19838,7 @@
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
-        "transcript": "[bag swishes into existence"
+        "transcript": "[bag swishes into existence]"
     },
     "sound/vo/taunts/soldier/taunt_soldier_coffee_2_bag_can_drop.mp3": {
         "base_name": "taunt_soldier_coffee_2_bag_can_drop",
@@ -19850,7 +19850,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[coffee can drops"
+        "transcript": "[coffee can drops]"
     },
     "sound/vo/taunts/soldier/taunt_soldier_coffee_3_coffee_splash.mp3": {
         "base_name": "taunt_soldier_coffee_3_coffee_splash",
@@ -19866,7 +19866,7 @@
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd"
         ],
         "state": "used",
-        "transcript": "[coffee drips"
+        "transcript": "[coffee drips]"
     },
     "sound/vo/taunts/soldier/taunt_soldier_coffee_4_coffee_sip.mp3": {
         "base_name": "taunt_soldier_coffee_4_coffee_sip",
@@ -19885,7 +19885,7 @@
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
-        "transcript": "[sip"
+        "transcript": "[sip]"
     },
     "sound/vo/taunts/soldier/taunt_soldier_coffee_5_coffee_ahh.mp3": {
         "base_name": "taunt_soldier_coffee_5_coffee_ahh",
@@ -19901,7 +19901,7 @@
             "scenes/player/soldier/low/taunt_coffee.vcd"
         ],
         "state": "used",
-        "transcript": "[sigh of contentment"
+        "transcript": "[sigh of contentment]"
     },
     "sound/vo/taunts/soldier_taunts01.mp3": {
         "base_name": "soldier_taunts01",

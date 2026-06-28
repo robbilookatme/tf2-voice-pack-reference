@@ -14803,7 +14803,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "[wolf howl 1"
+        "transcript": "[wolf howl 1]"
     },
     "sound/vo/wolf_howl_02.mp3": {
         "base_name": "wolf_howl_02",
@@ -14813,7 +14813,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "[wolf howl 2"
+        "transcript": "[wolf howl 2]"
     },
     "sound/vo/wolf_howl_03.mp3": {
         "base_name": "wolf_howl_03",
@@ -14823,6 +14823,6 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "[wolf howl 3"
+        "transcript": "[wolf howl 3]"
     }
 }

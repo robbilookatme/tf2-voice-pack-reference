@@ -2169,7 +2169,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Long scream 1"
+        "transcript": "[Long scream 1]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_scream_02.wav": {
         "base_name": "bm_sapper_scream_02",
@@ -2193,7 +2193,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Long scream 2"
+        "transcript": "[Long scream 2]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_01.wav": {
         "base_name": "bm_sapper_snap_01",
@@ -2218,7 +2218,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 1"
+        "transcript": "[Snap 1]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_02.wav": {
         "base_name": "bm_sapper_snap_02",
@@ -2243,7 +2243,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 2"
+        "transcript": "[Snap 2]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_03.wav": {
         "base_name": "bm_sapper_snap_03",
@@ -2268,7 +2268,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 3"
+        "transcript": "[Snap 3]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_04.wav": {
         "base_name": "bm_sapper_snap_04",
@@ -2293,7 +2293,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 4"
+        "transcript": "[Snap 4]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_05.wav": {
         "base_name": "bm_sapper_snap_05",
@@ -2318,7 +2318,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 5"
+        "transcript": "[Snap 5]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_06.wav": {
         "base_name": "bm_sapper_snap_06",
@@ -2343,7 +2343,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 6"
+        "transcript": "[Snap 6]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_07.wav": {
         "base_name": "bm_sapper_snap_07",
@@ -2368,7 +2368,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 7"
+        "transcript": "[Snap 7]"
     },
     "sound/weapons/breadmonster/sapper/bm_sapper_snap_08.wav": {
         "base_name": "bm_sapper_snap_08",
@@ -2393,7 +2393,7 @@
             "scenes/workshop/player/spy/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Snap 8"
+        "transcript": "[Snap 8]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_01.wav": {
         "base_name": "bm_throwable_attack_01",
@@ -2410,7 +2410,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 1"
+        "transcript": "[Growl 1]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_02.wav": {
         "base_name": "bm_throwable_attack_02",
@@ -2427,7 +2427,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 2"
+        "transcript": "[Growl 2]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_03.wav": {
         "base_name": "bm_throwable_attack_03",
@@ -2444,7 +2444,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 3"
+        "transcript": "[Growl 3]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_04.wav": {
         "base_name": "bm_throwable_attack_04",
@@ -2461,7 +2461,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 4"
+        "transcript": "[Growl 4]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_05.wav": {
         "base_name": "bm_throwable_attack_05",
@@ -2478,7 +2478,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 5"
+        "transcript": "[Growl 5]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_06.wav": {
         "base_name": "bm_throwable_attack_06",
@@ -2495,7 +2495,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 6"
+        "transcript": "[Growl 6]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_07.wav": {
         "base_name": "bm_throwable_attack_07",
@@ -2512,7 +2512,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 7"
+        "transcript": "[Growl 7]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_08.wav": {
         "base_name": "bm_throwable_attack_08",
@@ -2529,7 +2529,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 8"
+        "transcript": "[Growl 8]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_09.wav": {
         "base_name": "bm_throwable_attack_09",
@@ -2546,7 +2546,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 9"
+        "transcript": "[Growl 9]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_attack_10.wav": {
         "base_name": "bm_throwable_attack_10",
@@ -2563,7 +2563,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Growl 10"
+        "transcript": "[Growl 10]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_growl_01.wav": {
         "base_name": "bm_throwable_growl_01",
@@ -2582,7 +2582,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Happy scream 1"
+        "transcript": "[Happy scream 1]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_growl_02.wav": {
         "base_name": "bm_throwable_growl_02",
@@ -2601,7 +2601,7 @@
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd"
         ],
         "state": "used",
-        "transcript": "[Happy scream 2"
+        "transcript": "[Happy scream 2]"
     },
     "sound/weapons/breadmonster/throwable/bm_throwable_grunt_01.wav": {
         "base_name": "bm_throwable_grunt_01",

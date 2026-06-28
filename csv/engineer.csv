@@ -1134,7 +1134,7 @@ Your Line:,,,Rules:,"['EngineerTauntPlayerMelee', 'EngineerTauntPlayerShortCircu
 
 Filename:,engineer_laughlong02,,Events:,"['engineer.laughlong02', 'taunt_engineer_aerobic_shared_dance_intro']"
 Full Path:,sound/vo/engineer_laughlong02.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_aerobic_a.vcd', 'scenes/player/engineer/low/taunt_laugh.vcd']"
-Transcription:,laughs a little too hard,,Responses:,"['EngineerTauntLaugh', 'Taunt: Mannrobics', 'Taunt: The Schadenfreude']"
+Transcription:,(Laugh),,Responses:,"['EngineerTauntLaugh', 'Taunt: Mannrobics', 'Taunt: The Schadenfreude']"
 Your Line:,,,Rules:,"['EngineerTauntAprilFools', 'EngineerTauntLaugh']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsEngineer'], ['ConceptTauntLaugh', 'IsEngineer']]"
 
@@ -2454,13 +2454,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_guzzle_03,,Events:,"['engy_taunt_killertime_4_drink', 'sniper.taunt_shooters_stake_drink', 'taunt.demopoopeddeckdrink']"
 Full Path:,sound/vo/taunts/engy/eng_guzzle_03.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a1.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck_a2.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
-Transcription:,[loud slurp,,Responses:,"['Taunt: Rancho Relaxo', ""Taunt: Shooter's Stakeout"", 'Taunt: The Drunken Sailor', 'Taunt: The Pooped Deck']"
+Transcription:,[loud slurp],,Responses:,"['Taunt: Rancho Relaxo', ""Taunt: Shooter's Stakeout"", 'Taunt: The Drunken Sailor', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,eng_guzzle_04_burp,,Events:,['engy_taunt_killertime_4_4_burp']
 Full Path:,sound/vo/taunts/engy/eng_guzzle_04_burp.mp3,,Scenes:,[]
-Transcription:,"[Belch] ""Ooh, mmmh that's good!""",,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -2472,7 +2472,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_guzzle_06,,Events:,['engy_taunt_killertime_4_2_drink_long']
 Full Path:,sound/vo/taunts/engy/eng_guzzle_06.mp3,,Scenes:,['scenes/player/engineer/low/taunt_killer_time_intro.vcd']
-Transcription:,"[gluggin] ""Aaaah, life of Riley! Mmm.""",,Responses:,['Taunt: Rancho Relaxo']
+Transcription:,"[glugging] ""Aaaah, life of Riley! Mmm.""",,Responses:,['Taunt: Rancho Relaxo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3078,7 +3078,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,eng_taunt_rps_win_26,,Events:,[]
 Full Path:,sound/vo/taunts/engy/eng_taunt_rps_win_26.mp3,,Scenes:,[]
-Transcription:,You're all wore out boy!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3096,25 +3096,25 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_engineer_lounge_button_press,,Events:,['engy_taunt_killertime_1_button']
 Full Path:,sound/vo/taunts/engy/taunt_engineer_lounge_button_press.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd']"
-Transcription:,[beep,,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal']"
+Transcription:,[beep],,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_engineer_lounge_sit,,Events:,['engy_taunt_killertime_5_sit']
 Full Path:,sound/vo/taunts/engy/taunt_engineer_lounge_sit.mp3,,Scenes:,[]
-Transcription:,[settling into a comfortable position,,Responses:,[]
+Transcription:,[settling into a comfortable position],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_engineer_lounge_toolbox_close,,Events:,['engy_taunt_killertime_6_close']
 Full Path:,sound/vo/taunts/engy/taunt_engineer_lounge_toolbox_close.mp3,,Scenes:,['scenes/player/engineer/low/taunt_killer_time_outro.vcd']
-Transcription:,[electric crackling and clanking,,Responses:,['Taunt: Rancho Relaxo']
+Transcription:,[electric crackling and clanking],,Responses:,['Taunt: Rancho Relaxo']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_engineer_lounge_toolbox_open,,Events:,['engy_taunt_killertime_2_open']
 Full Path:,sound/vo/taunts/engy/taunt_engineer_lounge_toolbox_open.mp3,,Scenes:,"['scenes/player/engineer/low/taunt_killer_time_intro.vcd', 'scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd', 'scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd']"
-Transcription:,[steam hissing and gears clanking,,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal', 'Taunt: The Travel Agent']"
+Transcription:,[steam hissing and gears clanking],,Responses:,"['Taunt: Rancho Relaxo', 'Taunt: Tailored Terminal', 'Taunt: The Travel Agent']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

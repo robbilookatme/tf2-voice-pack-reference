@@ -12382,7 +12382,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[ambulance engine, siren, horns"
+        "transcript": "[ambulance engine, siren, horns]"
     },
     "sound/vo/taunts/medic/taunt_medic_xray_1_open.mp3": {
         "base_name": "taunt_medic_xray_1_open",
@@ -12394,7 +12394,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[rustling film paper"
+        "transcript": "[rustling film paper]"
     },
     "sound/vo/taunts/medic/taunt_medic_xray_2_crumple.mp3": {
         "base_name": "taunt_medic_xray_2_crumple",
@@ -12406,7 +12406,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[crumpling film paper"
+        "transcript": "[crumpling film paper]"
     },
     "sound/vo/taunts/medic_taunt_kill_06.mp3": {
         "base_name": "medic_taunt_kill_06",

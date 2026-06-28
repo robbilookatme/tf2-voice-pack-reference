@@ -11581,7 +11581,7 @@
             "scenes/player/demoman/low/taunt11.vcd"
         ],
         "state": "used",
-        "transcript": "[wolf howl 1"
+        "transcript": "[wolf howl 1]"
     },
     "sound/misc/wolf_howl_02.wav": {
         "base_name": "wolf_howl_02",
@@ -11593,7 +11593,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[wolf howl 2"
+        "transcript": "[wolf howl 2]"
     },
     "sound/misc/wolf_howl_03.wav": {
         "base_name": "wolf_howl_03",
@@ -11605,7 +11605,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[wolf howl 3"
+        "transcript": "[wolf howl 3]"
     },
     "sound/misc/your_team_lost.mp3": {
         "base_name": "your_team_lost",
@@ -12274,7 +12274,7 @@
             "scenes/workshop/player/soldier/low/fumblers_fanfare.vcd"
         ],
         "state": "used",
-        "transcript": "[failure notes"
+        "transcript": "[failure notes]"
     },
     "sound/npc/headcrab/headcrab_burning_loop2.wav": {
         "base_name": "headcrab_burning_loop2",
@@ -23400,7 +23400,7 @@
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd"
         ],
         "state": "used",
-        "transcript": "[beer slosh"
+        "transcript": "[beer slosh]"
     },
     "sound/player/taunt_demo_stagger_slosh2.wav": {
         "base_name": "taunt_demo_stagger_slosh2",
@@ -23420,7 +23420,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[beer slosh 2"
+        "transcript": "[beer slosh 2]"
     },
     "sound/player/taunt_demo_stagger_slosh3.wav": {
         "base_name": "taunt_demo_stagger_slosh3",
@@ -23440,7 +23440,7 @@
             "scenes/workshop/player/medic/low/taunt_cheers.vcd"
         ],
         "state": "used",
-        "transcript": "[beer slosh 3"
+        "transcript": "[beer slosh 3]"
     },
     "sound/player/taunt_demo_stagger_slosh4.wav": {
         "base_name": "taunt_demo_stagger_slosh4",
@@ -23456,7 +23456,7 @@
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
         ],
         "state": "used",
-        "transcript": "[beer slosh 4"
+        "transcript": "[beer slosh 4]"
     },
     "sound/player/taunt_didgeridoo_sit_down.wav": {
         "base_name": "taunt_didgeridoo_sit_down",
@@ -23472,7 +23472,7 @@
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo.vcd"
         ],
         "state": "used",
-        "transcript": "[sitting down"
+        "transcript": "[sitting down]"
     },
     "sound/player/taunt_didgeridoo_stand_up.wav": {
         "base_name": "taunt_didgeridoo_stand_up",
@@ -23488,7 +23488,7 @@
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[standing up"
+        "transcript": "[standing up]"
     },
     "sound/player/taunt_didgeridoo_start.wav": {
         "base_name": "taunt_didgeridoo_start",
@@ -23520,7 +23520,7 @@
             "scenes/workshop/player/sniper/low/taunt_didgeridrongo_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[end of didgeridoo music"
+        "transcript": "[end of didgeridoo music]"
     },
     "sound/player/taunt_disco.wav": {
         "base_name": "taunt_disco",
@@ -26615,7 +26615,7 @@
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
-        "transcript": "[knuckle crack"
+        "transcript": "[knuckle crack]"
     },
     "sound/player/taunt_launcher_hit.wav": {
         "base_name": "taunt_launcher_hit",
@@ -27435,7 +27435,7 @@
             "scenes/player/pyro/low/taunt_bubbles.vcd"
         ],
         "state": "used",
-        "transcript": ""
+        "transcript": "Bubbles and chimes, Balloonicorn braying, interrupted by menacing strings and Pyro laughing demonically"
     },
     "sound/player/taunt_pyro_hellicorn.wav": {
         "base_name": "taunt_pyro_hellicorn",
@@ -27447,7 +27447,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": ""
+        "transcript": "Dramatic music builds to a climax, followed by Pyro laughing demonically"
     },
     "sound/player/taunt_pyro_twirl.wav": {
         "base_name": "taunt_pyro_twirl",
@@ -28502,7 +28502,7 @@
             "scenes/workshop/player/scout/low/taunt_peace_out.vcd"
         ],
         "state": "used",
-        "transcript": "[getting up"
+        "transcript": "[getting up]"
     },
     "sound/player/taunt_springrider_sit.wav": {
         "base_name": "taunt_springrider_sit",
@@ -28524,7 +28524,7 @@
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
-        "transcript": "[sitting down"
+        "transcript": "[sitting down]"
     },
     "sound/player/taunt_springrider_squeak1.wav": {
         "base_name": "taunt_springrider_squeak1",
@@ -28540,7 +28540,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[Squeak 1"
+        "transcript": "[Squeak 1]"
     },
     "sound/player/taunt_springrider_squeak2.wav": {
         "base_name": "taunt_springrider_squeak2",
@@ -28556,7 +28556,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[Squeak 2"
+        "transcript": "[Squeak 2]"
     },
     "sound/player/taunt_springrider_squeak3.wav": {
         "base_name": "taunt_springrider_squeak3",
@@ -28572,7 +28572,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[Squeak 3"
+        "transcript": "[Squeak 3]"
     },
     "sound/player/taunt_springrider_squeak4.wav": {
         "base_name": "taunt_springrider_squeak4",
@@ -28588,7 +28588,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[Squeak 4"
+        "transcript": "[Squeak 4]"
     },
     "sound/player/taunt_springrider_squeak5.wav": {
         "base_name": "taunt_springrider_squeak5",
@@ -28604,7 +28604,7 @@
             "scenes/workshop/player/pyro/low/spring_rider.vcd"
         ],
         "state": "used",
-        "transcript": "[Squeak 5"
+        "transcript": "[Squeak 5]"
     },
     "sound/player/taunt_surgeons_squeezebox_draw_accordion.wav": {
         "base_name": "taunt_surgeons_squeezebox_draw_accordion",
@@ -28714,7 +28714,7 @@
             "scenes/player/items/taunts/taunt_table_flip_prop_intro.vcd"
         ],
         "state": "used",
-        "transcript": "[bubbling water"
+        "transcript": "[bubbling water]"
     },
     "sound/player/taunt_table_flip_flipping_table.wav": {
         "base_name": "taunt_table_flip_flipping_table",
@@ -28732,7 +28732,7 @@
             "scenes/player/items/taunts/taunt_table_flip_prop_outro_nojoule.vcd"
         ],
         "state": "used",
-        "transcript": "[flipping table, food landing on the ground, Heavy eating the steak"
+        "transcript": "[flipping table, food landing on the ground, Heavy eating the steak]"
     },
     "sound/player/taunt_table_flip_notification.wav": {
         "base_name": "taunt_table_flip_notification",
@@ -28748,7 +28748,7 @@
             "scenes/player/items/taunts/taunt_table_flip_prop_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[Joule sous-vide cooker ding"
+        "transcript": "[Joule sous-vide cooker ding]"
     },
     "sound/player/taunt_tank_appear.wav": {
         "base_name": "taunt_tank_appear",
@@ -29423,7 +29423,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[snow falling, loud roar"
+        "transcript": "[snow falling, loud roar]"
     },
     "sound/player/taunt_yeti_chest_hit1.wav": {
         "base_name": "taunt_yeti_chest_hit1",
@@ -29439,7 +29439,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 1"
+        "transcript": "[chest hit 1]"
     },
     "sound/player/taunt_yeti_chest_hit2.wav": {
         "base_name": "taunt_yeti_chest_hit2",
@@ -29455,7 +29455,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 2"
+        "transcript": "[chest hit 2]"
     },
     "sound/player/taunt_yeti_chest_hit3.wav": {
         "base_name": "taunt_yeti_chest_hit3",
@@ -29471,7 +29471,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 3"
+        "transcript": "[chest hit 3]"
     },
     "sound/player/taunt_yeti_chest_hit4.wav": {
         "base_name": "taunt_yeti_chest_hit4",
@@ -29487,7 +29487,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 4"
+        "transcript": "[chest hit 4]"
     },
     "sound/player/taunt_yeti_chest_hit5.wav": {
         "base_name": "taunt_yeti_chest_hit5",
@@ -29503,7 +29503,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 5"
+        "transcript": "[chest hit 5]"
     },
     "sound/player/taunt_yeti_chest_hit6.wav": {
         "base_name": "taunt_yeti_chest_hit6",
@@ -29519,7 +29519,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 6"
+        "transcript": "[chest hit 6]"
     },
     "sound/player/taunt_yeti_chest_hit7.wav": {
         "base_name": "taunt_yeti_chest_hit7",
@@ -29544,7 +29544,7 @@
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 7"
+        "transcript": "[chest hit 7]"
     },
     "sound/player/taunt_yeti_chest_hit8.wav": {
         "base_name": "taunt_yeti_chest_hit8",
@@ -29563,7 +29563,7 @@
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 8"
+        "transcript": "[chest hit 8]"
     },
     "sound/player/taunt_yeti_chest_hit9.wav": {
         "base_name": "taunt_yeti_chest_hit9",
@@ -29579,7 +29579,7 @@
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd"
         ],
         "state": "used",
-        "transcript": "[chest hit 9"
+        "transcript": "[chest hit 9]"
     },
     "sound/player/taunt_yeti_ground_pound.wav": {
         "base_name": "taunt_yeti_ground_pound",
@@ -29591,7 +29591,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[slamming the ground"
+        "transcript": "[slamming the ground]"
     },
     "sound/player/taunt_yeti_land.wav": {
         "base_name": "taunt_yeti_land",
@@ -29603,7 +29603,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[landing from jump"
+        "transcript": "[landing from jump]"
     },
     "sound/player/taunt_yeti_roar_beginning.wav": {
         "base_name": "taunt_yeti_roar_beginning",
@@ -29615,7 +29615,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[short roar"
+        "transcript": "[short roar]"
     },
     "sound/player/taunt_yeti_roar_first.wav": {
         "base_name": "taunt_yeti_roar_first",
@@ -29627,7 +29627,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[long roar 1"
+        "transcript": "[long roar 1]"
     },
     "sound/player/taunt_yeti_roar_second.wav": {
         "base_name": "taunt_yeti_roar_second",
@@ -29639,7 +29639,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[long roar 2"
+        "transcript": "[long roar 2]"
     },
     "sound/player/taunt_yeti_standee_break.wav": {
         "base_name": "taunt_yeti_standee_break",
@@ -29651,7 +29651,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[breaking wood"
+        "transcript": "[breaking wood]"
     },
     "sound/player/taunt_yeti_standee_demo_clothes_rustle.wav": {
         "base_name": "taunt_yeti_standee_demo_clothes_rustle",
@@ -31002,7 +31002,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[roar 1"
+        "transcript": "[roar 1]"
     },
     "sound/player/taunt_yeti_standee_speaker_growl_broken.wav": {
         "base_name": "taunt_yeti_standee_speaker_growl_broken",
@@ -31014,7 +31014,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[roar 2"
+        "transcript": "[roar 2]"
     },
     "sound/player/taunt_yeti_standee_spy_clothes_rustle.wav": {
         "base_name": "taunt_yeti_standee_spy_clothes_rustle",
@@ -36232,7 +36232,7 @@
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd"
         ],
         "state": "used",
-        "transcript": "[whistle 1"
+        "transcript": "[whistle 1]"
     },
     "sound/vo/taunts/common/whistle_02.wav": {
         "base_name": "whistle_02",
@@ -36248,7 +36248,7 @@
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd"
         ],
         "state": "used",
-        "transcript": "[whistle 2"
+        "transcript": "[whistle 2]"
     },
     "sound/vo/taunts/common/whistle_03.wav": {
         "base_name": "whistle_03",
@@ -36264,7 +36264,7 @@
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd"
         ],
         "state": "used",
-        "transcript": "[whistle 3"
+        "transcript": "[whistle 3]"
     },
     "sound/vo/taunts/common/whistle_04.wav": {
         "base_name": "whistle_04",
@@ -36280,7 +36280,7 @@
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd"
         ],
         "state": "used",
-        "transcript": "[whistle 4"
+        "transcript": "[whistle 4]"
     },
     "sound/vo/taunts/skateboard_loop_01.wav": {
         "base_name": "skateboard_loop_01",

@@ -1278,7 +1278,7 @@ Your Line:,,,Rules:,"['AwardSoldier', 'PlayerKilledDominatingSoldier', 'SoldierT
 
 Filename:,soldier_laughlong02,,Events:,"['soldier.laughlong02', 'taunt_soldier_aerobic_shared_dance_a']"
 Full Path:,sound/vo/soldier_laughlong02.mp3,,Scenes:,"['scenes/player/soldier/low/1136.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd']"
-Transcription:,(Long laughing),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics']"
+Transcription:,(Laugh 3),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -1290,7 +1290,7 @@ Your Line:,,,Rules:,"['PlayerKilledDominatingSoldier', 'SoldierTauntAprilFools',
 
 Filename:,soldier_laughshort01,,Events:,"['soldier.laughshort01', 'soldier_taunt_the_final_score_soldier_soldier_laughshort01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/soldier_laughshort01.mp3,,Scenes:,"['scenes/player/soldier/low/1137.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_the_final_score.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer', 'Taunt: Yeti Smash']"
+Transcription:,(Laugh 1),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -1302,13 +1302,13 @@ Your Line:,,,Rules:,['PlayerPositiveSoldier']
 
 Filename:,soldier_laughshort03,,Events:,['soldier.laughshort03']
 Full Path:,sound/vo/soldier_laughshort03.mp3,,Scenes:,['scenes/player/soldier/low/1351.vcd']
-Transcription:,(Short laugh),,Responses:,['PlayerTauntsSoldier']
+Transcription:,Short laugh 3,,Responses:,['PlayerTauntsSoldier']
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
 Filename:,soldier_laughshort04,,Events:,"['soldier.laughshort04', 'taunt_soldier_aerobic_shared_dance_b']"
 Full Path:,sound/vo/soldier_laughshort04.mp3,,Scenes:,"['scenes/player/soldier/low/1352.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/workshop/player/soldier/low/secondrate_sorcery.vcd']"
-Transcription:,Short laugh 4,,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: Second Rate Sorcery']"
+Transcription:,(Laugh 3),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: Second Rate Sorcery']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
@@ -1524,7 +1524,7 @@ Your Line:,,,Rules:,['PlayerPainSoldier']
 
 Filename:,soldier_painsharp05,,Events:,"['soldier.explosiondeath', 'soldier.painsharp05', 'taunt_burstchester_soldier_pain']"
 Full Path:,sound/vo/soldier_painsharp05.mp3,,Scenes:,"['scenes/player/soldier/low/1375.vcd', 'scenes/player/soldier/low/1926.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
-Transcription:,,,Responses:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier', 'Taunt: Burstchester']"
+Transcription:,(Grunt 5),,Responses:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier']"
 ,,,Criteria:,"[['ConceptFire', 'IsSoldier', 'SoldierIsStillonFire', 'IsNotDominating', 'AppliesContext:SoldierOnFire:1:7'], ['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
@@ -1542,7 +1542,7 @@ Your Line:,,,Rules:,['PlayerPainSoldier']
 
 Filename:,soldier_painsharp08,,Events:,"['soldier.explosiondeath', 'soldier.painsharp08', 'taunt_burstchester_soldier_pain']"
 Full Path:,sound/vo/soldier_painsharp08.mp3,,Scenes:,"['scenes/player/soldier/low/1378.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
-Transcription:,,,Responses:,"['PlayerPainSoldier', 'Taunt: Burstchester']"
+Transcription:,(Grunt 8),,Responses:,"['PlayerPainSoldier', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainSoldier']
 ,,,Criteria:,"[['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
@@ -3024,7 +3024,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,soldier_taunt_cong_int_04,,Events:,['soldier_taunt_conga_random_fun2']
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_cong_int_04.mp3,,Scenes:,['scenes/player/soldier/low/conga.vcd']
-Transcription:,Ha ha! Conga!,,Responses:,['Taunt: Conga']
+Transcription:,,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3168,13 +3168,13 @@ Your Line:,,,Rules:,[]
 
 Filename:,soldier_taunt_flip_exert_02,,Events:,['soldier_taunt_flip_random_flipexert']
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_exert_02.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_initiator0.vcd', 'scenes/player/soldier/low/flip_success_initiator1.vcd']"
-Transcription:,"[strained]""Up you go!""",,Responses:,"[""Taunt: Flippin' Awesome""]"
+Transcription:,"[strained] ""Up you go!""",,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,soldier_taunt_flip_exert_06,,Events:,['soldier_taunt_flip_random_flipexert']
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_exert_06.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_initiator0.vcd', 'scenes/player/soldier/low/flip_success_initiator1.vcd']"
-Transcription:,"[strained]""Up you go!""",,Responses:,"[""Taunt: Flippin' Awesome""]"
+Transcription:,"[strained] ""Up you go!""",,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3318,7 +3318,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,soldier_taunt_head_pain_02,,Events:,['soldier_lose_random']
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_head_pain_02.mp3,,Scenes:,[]
-Transcription:,Eahhhhhh!,,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -3438,7 +3438,7 @@ Your Line:,,,Rules:,[]
 
 Filename:,soldier_taunt_rps_exert_01,,Events:,[]
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_exert_01.mp3,,Scenes:,[]
-Transcription:,"One, two, three!",,Responses:,[]
+Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
@@ -3570,31 +3570,31 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_soldier_coffee_1_bag_can_swoosh,,Events:,"['pyro_taunt_roasty_toasty_taunt_soldier_coffee_1_bag_can_swoosh', 'soldier_taunt_coffee_4_can_swoosh']"
 Full Path:,sound/vo/taunts/soldier/taunt_soldier_coffee_1_bag_can_swoosh.mp3,,Scenes:,['scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']
-Transcription:,[bag swishes into existence,,Responses:,['Taunt: Roasty Toasty']
+Transcription:,[bag swishes into existence],,Responses:,['Taunt: Roasty Toasty']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_soldier_coffee_2_bag_can_drop,,Events:,['soldier_taunt_coffee_4_can_drop']
 Full Path:,sound/vo/taunts/soldier/taunt_soldier_coffee_2_bag_can_drop.mp3,,Scenes:,[]
-Transcription:,[coffee can drops,,Responses:,[]
+Transcription:,[coffee can drops],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_soldier_coffee_3_coffee_splash,,Events:,['soldier_taunt_coffee_5_can_splash']
 Full Path:,sound/vo/taunts/soldier/taunt_soldier_coffee_3_coffee_splash.mp3,,Scenes:,['scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd']
-Transcription:,[coffee drips,,Responses:,['Taunt: Pool Party']
+Transcription:,[coffee drips],,Responses:,['Taunt: Pool Party']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_soldier_coffee_4_coffee_sip,,Events:,"['sniper.taunt_shooters_stake_drink', 'soldier_taunt_coffee_2_slurp']"
 Full Path:,sound/vo/taunts/soldier/taunt_soldier_coffee_4_coffee_sip.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_coffee.vcd', 'scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd']"
-Transcription:,[sip,,Responses:,"['Taunt: Fresh Brewed Victory', ""Taunt: Shooter's Stakeout""]"
+Transcription:,[sip],,Responses:,"['Taunt: Fresh Brewed Victory', ""Taunt: Shooter's Stakeout""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_soldier_coffee_5_coffee_ahh,,Events:,['soldier_taunt_coffee_3_ahhhh']
 Full Path:,sound/vo/taunts/soldier/taunt_soldier_coffee_5_coffee_ahh.mp3,,Scenes:,['scenes/player/soldier/low/taunt_coffee.vcd']
-Transcription:,[sigh of contentment,,Responses:,['Taunt: Fresh Brewed Victory']
+Transcription:,[sigh of contentment],,Responses:,['Taunt: Fresh Brewed Victory']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

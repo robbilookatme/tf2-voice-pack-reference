@@ -15286,7 +15286,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[grabbing the cardboard box"
+        "transcript": "[grabbing the cardboard box]"
     },
     "sound/vo/taunts/spy/taunt_spy_buyalife_bill_throw.mp3": {
         "base_name": "taunt_spy_buyalife_bill_throw",
@@ -15304,7 +15304,7 @@
             "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
         "state": "used",
-        "transcript": "[throwing cash"
+        "transcript": "[throwing cash]"
     },
     "sound/vo/taunts/spy_feelgood01.mp3": {
         "base_name": "spy_feelgood01",

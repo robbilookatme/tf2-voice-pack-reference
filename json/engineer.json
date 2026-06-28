@@ -8405,7 +8405,7 @@
             "scenes/player/engineer/low/taunt_laugh.vcd"
         ],
         "state": "used",
-        "transcript": "laughs a little too hard"
+        "transcript": "(Laugh)"
     },
     "sound/vo/engineer_laughshort01.mp3": {
         "base_name": "engineer_laughshort01",
@@ -14313,7 +14313,7 @@
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd"
         ],
         "state": "used",
-        "transcript": "[loud slurp"
+        "transcript": "[loud slurp]"
     },
     "sound/vo/taunts/engy/eng_guzzle_04_burp.mp3": {
         "base_name": "eng_guzzle_04_burp",
@@ -14325,7 +14325,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[Belch] \"Ooh, mmmh that's good!\""
+        "transcript": ""
     },
     "sound/vo/taunts/engy/eng_guzzle_05.mp3": {
         "base_name": "eng_guzzle_05",
@@ -14360,7 +14360,7 @@
             "scenes/player/engineer/low/taunt_killer_time_intro.vcd"
         ],
         "state": "used",
-        "transcript": "[gluggin] \"Aaaah, life of Riley! Mmm.\""
+        "transcript": "[glugging] \"Aaaah, life of Riley! Mmm.\""
     },
     "sound/vo/taunts/engy/eng_taunt_cong_fun_02.mp3": {
         "base_name": "eng_taunt_cong_fun_02",
@@ -16338,7 +16338,7 @@
         "rules": [],
         "scenes": [],
         "state": "unused",
-        "transcript": "You're all wore out boy!"
+        "transcript": ""
     },
     "sound/vo/taunts/engy/engineer_cheers02.mp3": {
         "base_name": "engineer_cheers02",
@@ -16399,7 +16399,7 @@
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd"
         ],
         "state": "used",
-        "transcript": "[beep"
+        "transcript": "[beep]"
     },
     "sound/vo/taunts/engy/taunt_engineer_lounge_sit.mp3": {
         "base_name": "taunt_engineer_lounge_sit",
@@ -16411,7 +16411,7 @@
         "rules": [],
         "scenes": [],
         "state": "used",
-        "transcript": "[settling into a comfortable position"
+        "transcript": "[settling into a comfortable position]"
     },
     "sound/vo/taunts/engy/taunt_engineer_lounge_toolbox_close.mp3": {
         "base_name": "taunt_engineer_lounge_toolbox_close",
@@ -16427,7 +16427,7 @@
             "scenes/player/engineer/low/taunt_killer_time_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[electric crackling and clanking"
+        "transcript": "[electric crackling and clanking]"
     },
     "sound/vo/taunts/engy/taunt_engineer_lounge_toolbox_open.mp3": {
         "base_name": "taunt_engineer_lounge_toolbox_open",
@@ -16448,7 +16448,7 @@
             "scenes/workshop/player/spy/low/taunttailored_terminal_outro.vcd"
         ],
         "state": "used",
-        "transcript": "[steam hissing and gears clanking"
+        "transcript": "[steam hissing and gears clanking]"
     },
     "sound/vo/toughbreak/eng_quest_complete_easy_01.mp3": {
         "base_name": "eng_quest_complete_easy_01",

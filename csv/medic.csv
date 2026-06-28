@@ -2478,19 +2478,19 @@ Your Line:,,,Rules:,[]
 
 Filename:,taunt_ambulance_loop_01,,Events:,['medic.mannbulance_siren_loop']
 Full Path:,sound/vo/taunts/medic/taunt_ambulance_loop_01.wav,,Scenes:,[]
-Transcription:,"[ambulance engine, siren, horns",,Responses:,[]
+Transcription:,"[ambulance engine, siren, horns]",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_medic_xray_1_open,,Events:,['medic_taunt_xray_3_open']
 Full Path:,sound/vo/taunts/medic/taunt_medic_xray_1_open.mp3,,Scenes:,[]
-Transcription:,[rustling film paper,,Responses:,[]
+Transcription:,[rustling film paper],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_medic_xray_2_crumple,,Events:,['medic_taunt_xray_4_crumple']
 Full Path:,sound/vo/taunts/medic/taunt_medic_xray_2_crumple.mp3,,Scenes:,[]
-Transcription:,[crumpling film paper,,Responses:,[]
+Transcription:,[crumpling film paper],,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
