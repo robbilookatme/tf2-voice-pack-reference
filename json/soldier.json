@@ -2718,7 +2718,8 @@
             "soldier.battlecry01",
             "soldier.statue",
             "soldier_taunt_star_spangled_strat_vo_fist",
-            "soldier_taunt_tank_spawn"
+            "soldier_taunt_tank_spawn",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "PlayerBattleCrySoldier",
@@ -2754,7 +2755,8 @@
         ],
         "events": [
             "soldier.battlecry02",
-            "soldier.statue"
+            "soldier.statue",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "PlayerBattleCrySoldier",
@@ -2856,6 +2858,7 @@
             "soldier_taunt_star_spangled_strat_vo_fist",
             "soldier_taunt_tank_spawn",
             "taunt_burstchester_soldier_01",
+            "taunt_soldier_buffoons_bivouac_end_a",
             "taunt_yetipunch_soldier_scream"
         ],
         "responses": [
@@ -4492,7 +4495,8 @@
         ],
         "events": [
             "soldier.directhittaunt03",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "KilledPlayerMeleeSoldier",
@@ -4522,7 +4526,8 @@
             ]
         ],
         "events": [
-            "soldier.directhittaunt04"
+            "soldier.directhittaunt04",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "KilledPlayerMeleeSoldier"
@@ -6661,7 +6666,8 @@
             ]
         ],
         "events": [
-            "soldier.go03"
+            "soldier.go03",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "MeleeDareSoldier",
@@ -6830,7 +6836,8 @@
         "criteria": [],
         "events": [
             "soldier.statue",
-            "soldier_hat_taunts19"
+            "soldier_hat_taunts19",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [],
         "rules": [],
@@ -6929,6 +6936,7 @@
         ],
         "events": [
             "soldier.hatoverhearttaunt03",
+            "spy_taunt_fauxcolization_a",
             "taunt_maggots_condolence_soldier",
             "taunt_yetipunch_soldier_end"
         ],
@@ -9371,7 +9379,8 @@
         ],
         "events": [
             "soldier.laughhappy01",
-            "taunt_soldier_aerobic_shared_dance_b"
+            "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
             "PlayerKilledDominatingSoldier",
@@ -9401,7 +9410,8 @@
         "events": [
             "soldier.laughhappy02",
             "taunt.bearhug_soldier_b",
-            "taunt_soldier_aerobic_shared_dance_b"
+            "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
             "PlayerKilledDominatingSoldier",
@@ -9441,7 +9451,8 @@
         ],
         "events": [
             "soldier.laughhappy03",
-            "taunt_soldier_aerobic_shared_dance_b"
+            "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
             "AwardSoldier",
@@ -9618,6 +9629,7 @@
             "soldier.laughshort01",
             "soldier_taunt_the_final_score_soldier_soldier_laughshort01",
             "taunt_soldier_aerobic_shared_dance_b",
+            "taunt_soldier_buffoons_bivouac_end_b",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -9650,7 +9662,8 @@
         ],
         "events": [
             "soldier.laughshort02",
-            "soldier_taunt_commending_clap_b"
+            "soldier_taunt_commending_clap_b",
+            "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
             "PlayerTauntsSoldier",
@@ -9818,7 +9831,8 @@
             ]
         ],
         "events": [
-            "soldier.moveup02"
+            "soldier.moveup02",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "PlayerMoveUpSoldier"
@@ -10405,7 +10419,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_collect_credits02"
+            "soldier_mvm_collect_credits02",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "MvMMoneyPickupSoldier"
@@ -10455,7 +10470,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_get_upgrade01"
+            "soldier_mvm_get_upgrade01",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "MvMUpgradeCompleteSoldier"
@@ -10480,7 +10496,8 @@
             ]
         ],
         "events": [
-            "soldier_mvm_get_upgrade02"
+            "soldier_mvm_get_upgrade02",
+            "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
             "MvMUpgradeCompleteSoldier"
@@ -10937,7 +10954,8 @@
         ],
         "events": [
             "soldier.statue",
-            "soldier_mvm_resurrect01"
+            "soldier_mvm_resurrect01",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "SoldierMvmResurrected"
@@ -11008,7 +11026,8 @@
         ],
         "events": [
             "soldier_mvm_resurrect04",
-            "taunt_burstchester_soldier_01"
+            "taunt_burstchester_soldier_01",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "SoldierMvmResurrected",
@@ -11143,7 +11162,8 @@
             "soldier.readycomp",
             "soldier.readymvm",
             "soldier_mvm_say_ready02",
-            "taunt.bearhug_soldier_a"
+            "taunt.bearhug_soldier_a",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "Taunt: Bear Hug"
@@ -12626,7 +12646,8 @@
         "events": [
             "soldier.explosiondeath",
             "soldier.painsharp01",
-            "taunt_burstchester_soldier_pain"
+            "taunt_burstchester_soldier_pain",
+            "taunt_soldier_buffoons_bivouac_end_fall"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12657,7 +12678,8 @@
         "events": [
             "soldier.explosiondeath",
             "soldier.painsharp02",
-            "taunt_burstchester_soldier_pain"
+            "taunt_burstchester_soldier_pain",
+            "taunt_soldier_buffoons_bivouac_end_fall"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12692,7 +12714,8 @@
         "events": [
             "soldier.explosiondeath",
             "soldier.painsharp03",
-            "taunt_burstchester_soldier_pain"
+            "taunt_burstchester_soldier_pain",
+            "taunt_soldier_buffoons_bivouac_end_fall"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12856,7 +12879,8 @@
         "events": [
             "soldier.explosiondeath",
             "soldier.painsharp08",
-            "taunt_burstchester_soldier_pain"
+            "taunt_burstchester_soldier_pain",
+            "taunt_soldier_buffoons_bivouac_end_fall"
         ],
         "responses": [
             "PlayerPainSoldier",
@@ -12997,6 +13021,7 @@
             "soldier.pickaxetaunt04",
             "soldier_taunt_neck_snap_intro_02",
             "taunt_burstchester_soldier_01",
+            "taunt_soldier_buffoons_bivouac_action_02",
             "taunt_yetipunch_soldier_jeers"
         ],
         "responses": [
@@ -13071,7 +13096,8 @@
             "soldier.positivevocalization01",
             "soldier_taunt_flag",
             "soldier_taunt_neck_snap_03",
-            "taunt.bearhug_soldier_c"
+            "taunt.bearhug_soldier_c",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "PlayerKilledObjectSoldier",
@@ -14251,7 +14277,8 @@
             ]
         ],
         "events": [
-            "soldier_sf12_badmagic05"
+            "soldier_sf12_badmagic05",
+            "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
             "SoldierSF13SpellMovementBuff",
@@ -14595,6 +14622,7 @@
         ],
         "events": [
             "soldier_sf12_goodmagic01",
+            "taunt_soldier_buffoons_bivouac_action_01",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -15980,7 +16008,8 @@
         ],
         "events": [
             "soldier.scardy_cat_b",
-            "soldier_sf13_influx_big02"
+            "soldier_sf13_influx_big02",
+            "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
             "SoldierSF13SpellPickupRare",
@@ -16757,7 +16786,8 @@
         "events": [
             "soldier.specialcompleted05",
             "soldier_taunt_neck_snap_02",
-            "soldier_taunt_star_spangled_strat_vo_fist"
+            "soldier_taunt_star_spangled_strat_vo_fist",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "KilledPlayerMeleeSoldier",
@@ -17882,7 +17912,8 @@
         "criteria": [],
         "events": [
             "soldier_taunt_flip_random_flipfinish",
-            "taunt.bearhug_soldier_c"
+            "taunt.bearhug_soldier_c",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -17958,7 +17989,8 @@
             "soldier_taunt_conga_random_fun3",
             "soldier_taunt_flip_random_flipflipping",
             "soldier_taunt_star_spangled_strat_vo",
-            "taunt_soldier_aerobic_shared_dance_a"
+            "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Conga",
@@ -17985,7 +18017,8 @@
         "criteria": [],
         "events": [
             "soldier.statue",
-            "soldier_taunt_flip_random_flipfinish"
+            "soldier_taunt_flip_random_flipfinish",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -18072,7 +18105,8 @@
         "criteria": [],
         "events": [
             "soldier_taunt_conga_random_fun1",
-            "taunt.bearhug_soldier_a"
+            "taunt.bearhug_soldier_a",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Bear Hug",
@@ -18183,7 +18217,8 @@
         "base_name": "soldier_taunt_cong_fun_29",
         "criteria": [],
         "events": [
-            "soldier_taunt_conga_random_fun2"
+            "soldier_taunt_conga_random_fun2",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Conga"
@@ -18314,6 +18349,7 @@
         "events": [
             "soldier_taunt_dosido_start_rand",
             "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_soldier_buffoons_bivouac_action_01",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -18397,6 +18433,7 @@
             "soldier_taunt_dosido_mid_rand",
             "soldier_taunt_dosido_start_rand",
             "taunt_soldier_aerobic_shared_dance_a",
+            "taunt_soldier_buffoons_bivouac_action_01",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -18566,7 +18603,8 @@
         "base_name": "soldier_taunt_flip_end_01",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_flipadmire"
+            "soldier_taunt_flip_random_flipadmire",
+            "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -18598,7 +18636,8 @@
         "base_name": "soldier_taunt_flip_end_03",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_flipadmire"
+            "soldier_taunt_flip_random_flipadmire",
+            "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -18665,7 +18704,8 @@
         "base_name": "soldier_taunt_flip_end_17",
         "criteria": [],
         "events": [
-            "soldier_taunt_dosido_end_rand"
+            "soldier_taunt_dosido_end_rand",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Square Dance"
@@ -18716,7 +18756,8 @@
         "criteria": [],
         "events": [
             "soldier_taunt_flip_random_flipexert",
-            "soldier_taunt_neck_snap_01"
+            "soldier_taunt_neck_snap_01",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -18736,6 +18777,7 @@
         "criteria": [],
         "events": [
             "soldier_taunt_flip_random_flipexert",
+            "taunt_soldier_buffoons_bivouac_action_02",
             "taunt_yetipunch_soldier_intro"
         ],
         "responses": [
@@ -18753,7 +18795,8 @@
         "base_name": "soldier_taunt_flip_fun_04",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_flipflipping"
+            "soldier_taunt_flip_random_flipflipping",
+            "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -19018,7 +19061,8 @@
         "base_name": "soldier_taunt_head_exert_02",
         "criteria": [],
         "events": [
-            "soldier_taunt_headbutt_success_recover"
+            "soldier_taunt_headbutt_success_recover",
+            "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -19284,7 +19328,8 @@
         "base_name": "soldier_taunt_int_15",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_flipthrowantic"
+            "soldier_taunt_flip_random_flipthrowantic",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -19319,7 +19364,8 @@
         "criteria": [],
         "events": [
             "soldier_taunt_dosido_intro_rand",
-            "soldier_taunt_flip_random_waiting2"
+            "soldier_taunt_flip_random_waiting2",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -19376,7 +19422,8 @@
         "base_name": "soldier_taunt_kill_01",
         "criteria": [],
         "events": [
-            "soldier_taunt_coffee_1_speech"
+            "soldier_taunt_coffee_1_speech",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Fresh Brewed Victory"
@@ -19410,7 +19457,8 @@
         "events": [
             "soldier.statue",
             "soldier_taunt_coffee_1_speech",
-            "soldier_taunt_star_spangled_strat_vo"
+            "soldier_taunt_star_spangled_strat_vo",
+            "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
             "Taunt: Fresh Brewed Victory",
@@ -19978,7 +20026,8 @@
         ],
         "events": [
             "soldier.statue",
-            "soldier.taunts02"
+            "soldier.taunts02",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "KilledPlayerVeryManySoldier",
@@ -20012,7 +20061,8 @@
             "soldier.profane_puppeteer",
             "soldier.statue",
             "soldier.taunts03",
-            "taunt_burstchester_soldier_02"
+            "taunt_burstchester_soldier_02",
+            "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
             "AcceptedDuelSoldier",

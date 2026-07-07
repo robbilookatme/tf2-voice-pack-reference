@@ -1023,12 +1023,25 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/ambient/energy/spark3.wav": {
+        "base_name": "spark3",
+        "criteria": [],
+        "events": [
+            "heavy_taunt_the_circuit_breaker_spark3"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
     "sound/ambient/energy/spark5.wav": {
         "base_name": "spark5",
         "criteria": [],
         "events": [
             "breakable.computer",
             "breakable.spark",
+            "heavy_taunt_the_circuit_breaker_spark5",
             "medic.taunt_doctors_defibrillators_spark"
         ],
         "responses": [
@@ -1047,6 +1060,7 @@
         "events": [
             "breakable.computer",
             "breakable.spark",
+            "heavy_taunt_the_circuit_breaker_spark6",
             "medic.taunt_doctors_defibrillators_spark"
         ],
         "responses": [
@@ -18578,6 +18592,7 @@
             "pda.soldierclothesrustlelight",
             "pda.spyclothesrustlelight",
             "pyro_item_preview_pyro_cyoa_pda_clothes_rustle_light",
+            "pyro_taunt_friendly_fire_cyoa_pda_clothes_rustle_light",
             "pyro_taunt_neck_snap_pyro_cyoa_pda_clothes_rustle_light",
             "pyro_taunt_the_final_score_pyro_cyoa_pda_clothes_rustle_light",
             "scout_item_preview_scout_cyoa_pda_clothes_rustle_light",
@@ -19420,6 +19435,7 @@
             "demo_taunt_forehead_slice_concrete1",
             "engineer_taunt_texan_trickshot_concrete1",
             "engineer_taunt_texas_twirl_em_concrete1",
+            "heavy_taunt_the_circuit_breaker_concrete1",
             "heavy_taunt_the_final_score_heavy_concrete1",
             "medic_taunt_the_final_score_medic_concrete1",
             "medic_tauntthe_head_doctor_concrete1",
@@ -19497,6 +19513,7 @@
             "demo_taunt_the_final_score_demo_concrete2",
             "engineer_taunt_texan_trickshot_concrete2",
             "engineer_taunt_texas_twirl_em_concrete2",
+            "heavy_taunt_the_circuit_breaker_concrete2",
             "medic_taunt_the_final_score_medic_concrete2",
             "medic_tauntthe_head_doctor_concrete2",
             "pyro_spring_rider_concrete2",
@@ -21810,6 +21827,7 @@
         "base_name": "spy_shield_break",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_spy_shield_break",
             "player.spy_shield_break"
         ],
         "responses": [],
@@ -23145,6 +23163,7 @@
             "medic_taunt_the_final_score_medic_taunt_clothes_swipe2",
             "pyro_item_preview_pyro_taunt_clothes_swipe2",
             "pyro_spring_rider_taunt_clothes_swipe2",
+            "pyro_taunt_friendly_fire_taunt_clothes_swipe2",
             "pyro_taunt_neck_snap_pyro_taunt_clothes_swipe2",
             "pyro_taunt_roasty_toasty_taunt_clothes_swipe2",
             "pyro_taunt_the_final_score_pyro_taunt_clothes_swipe2",
@@ -24058,6 +24077,7 @@
             "medic_taunt_borrowed_bones_taunt_equipment_jingle",
             "medic_tauntthe_head_doctor_taunt_equipment_jingle",
             "pyro_spring_rider_taunt_equipment_jingle",
+            "pyro_taunt_friendly_fire_taunt_equipment_jingle",
             "pyro_taunt_roasty_toasty_taunt_equipment_jingle",
             "pyro_taunt_the_skating_scorcher_taunt_equipment_jingle",
             "soldier_item_preview_soldier_taunt_equipment_jingle",
@@ -24140,6 +24160,7 @@
             "heavy_tauntrussian_rubdown_taunt_equipment_jingle2",
             "medic_tauntthe_head_doctor_taunt_equipment_jingle2",
             "pyro_item_preview_pyro_taunt_equipment_jingle2",
+            "pyro_taunt_friendly_fire_taunt_equipment_jingle2",
             "pyro_taunt_neck_snap_pyro_taunt_equipment_jingle2",
             "pyro_taunt_the_final_score_pyro_taunt_equipment_jingle2",
             "selection.pyroequipment2",
@@ -26859,6 +26880,7 @@
         "base_name": "taunt_machete_draw",
         "criteria": [],
         "events": [
+            "pyro_taunt_friendly_fire_taunt_machete_draw",
             "taunt.sniper03macheteunsheath"
         ],
         "responses": [],
@@ -27136,6 +27158,7 @@
         "base_name": "taunt_moped_start_handle_grab",
         "criteria": [],
         "events": [
+            "pyro_taunt_friendly_fire_taunt_moped_start_handle_grab",
             "taunt.mopedstarthandlegrab"
         ],
         "responses": [
@@ -30621,6 +30644,7 @@
         "base_name": "taunt_yeti_standee_pyro_equipment",
         "criteria": [],
         "events": [
+            "pyro_taunt_friendly_fire_taunt_yeti_standee_pyro_equipment",
             "taunt.yetistandeepyroequipment"
         ],
         "responses": [
@@ -30960,6 +30984,7 @@
         "base_name": "taunt_yeti_standee_soldier_step3",
         "criteria": [],
         "events": [
+            "pyro_taunt_friendly_fire_taunt_yeti_standee_soldier_step3",
             "taunt.yetistandeesoldierstep"
         ],
         "responses": [
@@ -33409,11 +33434,13 @@
     "sound/ui/item_metal_scrap_drop.wav": {
         "base_name": "item_metal_scrap_drop",
         "criteria": [],
-        "events": [],
+        "events": [
+            "heavy_taunt_the_circuit_breaker_item_metal_scrap_drop"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/item_metal_scrap_pickup.wav": {

@@ -1030,6 +1030,7 @@
         "base_name": "bat_draw_swoosh1",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_bat_draw_swoosh1",
             "soldier_tauntcan_it_bat_draw_swoosh1",
             "spy_taunt_the_punchline_bat_draw_swoosh1",
             "weapon_bat.drawswoosh1",
@@ -1111,6 +1112,7 @@
         "base_name": "bat_draw_swoosh2",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_bat_draw_swoosh2",
             "spy_taunt_the_punchline_bat_draw_swoosh2",
             "weapon_bat.drawswoosh2",
             "weapon_fist.miss"
@@ -5741,6 +5743,7 @@
         "base_name": "flare_detonator_explode_world",
         "criteria": [],
         "events": [
+            "pyro_taunt_friendly_fire_flare_detonator_explode_world",
             "weapon_detonator.detonateworld"
         ],
         "responses": [],
@@ -7803,6 +7806,7 @@
         "base_name": "metal_gloves_hit",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_metal_gloves_hit",
             "weapon_metalgloves.hitglove"
         ],
         "responses": [],
@@ -7959,6 +7963,7 @@
         "base_name": "metal_hit_hand1",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_metal_hit_hand1",
             "medic_tauntthe_head_doctor_metal_hit_hand1",
             "weapon_ball.drawcatch",
             "weapon_bat.drawcatch",
@@ -8043,6 +8048,7 @@
         "base_name": "metal_hit_hand2",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_metal_hit_hand2",
             "medic_item_preview_medic_metal_hit_hand2",
             "medic_taunt_neck_snap_medic_metal_hit_hand2",
             "pyro_spring_rider_metal_hit_hand2",

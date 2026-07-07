@@ -238,9 +238,9 @@ Transcription:,(Muffled dying scream 3),,Responses:,"['PyroTauntPrimary', 'Taunt
 Your Line:,,,Rules:,"['PyroTauntDragonsFury', 'PyroTauntPlayerPrimary']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsDragonsFury'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlamethrower']]"
 
-Filename:,pyro_painsevere01,,Events:,"['pyro.death', 'pyro.painsevere01']"
-Full Path:,sound/vo/pyro_painsevere01.mp3,,Scenes:,"['scenes/player/pyro/low/1581.vcd', 'scenes/player/pyro/low/taunt02.vcd']"
-Transcription:,Aaah!,,Responses:,"['PlayerAttackerPainPyro', 'PyroTauntItem1', 'PyroTauntSecondary']"
+Filename:,pyro_painsevere01,,Events:,"['pyro.death', 'pyro.painsevere01', 'taunt_killer_joke_pyro']"
+Full Path:,sound/vo/pyro_painsevere01.mp3,,Scenes:,"['scenes/player/pyro/low/1581.vcd', 'scenes/player/pyro/low/taunt02.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd']"
+Transcription:,Aaah!,,Responses:,"['PlayerAttackerPainPyro', 'PyroTauntItem1', 'PyroTauntSecondary', 'Taunt: Killer Joke']"
 Your Line:,,,Rules:,"['PlayerAttackerPainPyro', 'PyroTauntGasCan', 'PyroTauntManmelter', 'PyroTauntPlayerItem1', 'PyroTauntPlayerSecondary', 'PyroTauntSlap']"
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsPyro', 'IsNotDominating'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsFlaregun'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsGasCan'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsManmelter'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsShotgunPyro'], ['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsSlap']]"
 
@@ -334,7 +334,7 @@ Transcription:,Mmph mphna mprh.,,Responses:,"['KilledPlayerAssistAutoPyro', 'Kil
 Your Line:,,,Rules:,"['KilledPlayerAssistAutoPyro', 'KilledPlayerAssistPyro', 'MeleeDarePyro']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsBeingHealed', 'IsManyRecentKills', 'KilledPlayerDelay', '20PercentChance', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsPyro', 'IsARecentKill', 'KilledPlayerDelay', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20'], ['ConceptRequestDuel', 'IsPyro']]"
 
-Filename:,pyro_specialcompleted01,,Events:,['pyro.specialcompleted01']
+Filename:,pyro_specialcompleted01,,Events:,"['pyro.specialcompleted01', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/pyro_specialcompleted01.mp3,,Scenes:,['scenes/player/pyro/low/1517.vcd']
 Transcription:,Mhhph mh mh mhhp mh mhp mhpph mhhpp!,,Responses:,"['InvulnerableSpeechPyro', 'MeleeDareCombatPyro']"
 Your Line:,,,Rules:,"['InvulnerableSpeechPyro', 'MeleeDareCombatPyro']"
@@ -405,12 +405,6 @@ Full Path:,sound/vo/taunts/pyro_lollichop.mp3,,Scenes:,['scenes/player/pyro/low/
 Transcription:,,,Responses:,['PyroTauntLollichop']
 Your Line:,,,Rules:,['PyroTauntPlayerLollichop']
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsPyro', 'WeaponIsLollichop']]"
-
-Filename:,pyro_painsevere01,,Events:,['taunt_killer_joke_pyro']
-Full Path:,sound/vo/taunts/pyro_painsevere01.mp3,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_killer_joke.vcd', 'scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd']"
-Transcription:,,,Responses:,['Taunt: Killer Joke']
-Your Line:,,,Rules:,[]
-Missing?,,,Criteria:,[]
 
 Filename:,pyro_taunts01,,Events:,['pyro.taunts01']
 Full Path:,sound/vo/taunts/pyro_taunts01.mp3,,Scenes:,['scenes/player/pyro/low/1532.vcd']

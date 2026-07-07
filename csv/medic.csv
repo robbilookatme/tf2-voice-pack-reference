@@ -604,7 +604,7 @@ Transcription:,Booo!,,Responses:,"['PlayerJeersMedic', 'PlayerSuddenDeathMedic',
 Your Line:,,,Rules:,"['PlayerJeersMedic', 'PlayerSuddenDeathMedic', 'RejectedDuelMedic']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsMedic'], ['ConceptPlayerJeers', 'IsMedic'], ['ConceptPlayerSuddenDeathStart', 'IsMedic']]"
 
-Filename:,medic_jeers06,,Events:,['medic.jeers06']
+Filename:,medic_jeers06,,Events:,"['medic.jeers06', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/medic_jeers06.mp3,,Scenes:,['scenes/player/medic/low/597.vcd']
 Transcription:,You are trying my patience!,,Responses:,"['MeleeDareMedic', 'PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
 Your Line:,,,Rules:,"['MeleeDareMedic', 'PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
@@ -1042,7 +1042,7 @@ Transcription:,Good to go!,,Responses:,"['InvulnerableSpeechCombatMedic', 'Playe
 Your Line:,,,Rules:,"['InvulnerableSpeechCombatMedic', 'KilledPlayerMedic', 'PlayerKilledObjectMedic']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsMedic', 'IsInvulnerable', 'WeaponIsNotMediGun', 'MedicNotInvulnerableSpeech', 'AppliesContext:MedicInvulnerableSpeech:1:30'], ['ConceptKilledObject', 'IsMedic', '30PercentChance', 'IsARecentKill', 'AppliesContext:MedicKillSpeechObject:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
-Filename:,medic_specialcompleted08,,Events:,['medic.specialcompleted08']
+Filename:,medic_specialcompleted08,,Events:,"['medic.specialcompleted08', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/medic_specialcompleted08.mp3,,Scenes:,['scenes/player/medic/low/654.vcd']
 Transcription:,Did ze Fräuleins have zeir Mittelschmerz?,,Responses:,['PlayerKilledObjectMedic']
 Your Line:,,,Rules:,['PlayerKilledObjectMedic']

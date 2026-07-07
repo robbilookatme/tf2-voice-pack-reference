@@ -1491,12 +1491,14 @@
         ],
         "events": [
             "pyro.death",
-            "pyro.painsevere01"
+            "pyro.painsevere01",
+            "taunt_killer_joke_pyro"
         ],
         "responses": [
             "PlayerAttackerPainPyro",
             "PyroTauntItem1",
-            "PyroTauntSecondary"
+            "PyroTauntSecondary",
+            "Taunt: Killer Joke"
         ],
         "rules": [
             "PlayerAttackerPainPyro",
@@ -1508,7 +1510,9 @@
         ],
         "scenes": [
             "scenes/player/pyro/low/1581.vcd",
-            "scenes/player/pyro/low/taunt02.vcd"
+            "scenes/player/pyro/low/taunt02.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
         ],
         "state": "used",
         "transcript": "Aaah!"
@@ -2277,7 +2281,8 @@
             ]
         ],
         "events": [
-            "pyro.specialcompleted01"
+            "pyro.specialcompleted01",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "InvulnerableSpeechPyro",
@@ -4665,23 +4670,6 @@
             "scenes/player/pyro/low/taunt_lollichop.vcd"
         ],
         "state": "used",
-        "transcript": ""
-    },
-    "sound/vo/taunts/pyro_painsevere01.mp3": {
-        "base_name": "pyro_painsevere01",
-        "criteria": [],
-        "events": [
-            "taunt_killer_joke_pyro"
-        ],
-        "responses": [
-            "Taunt: Killer Joke"
-        ],
-        "rules": [],
-        "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
-            "scenes/workshop/player/pyro/low/taunt_killer_joke_drum.vcd"
-        ],
-        "state": "missing",
         "transcript": ""
     },
     "sound/vo/taunts/pyro_taunts01.mp3": {

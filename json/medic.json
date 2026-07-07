@@ -3767,7 +3767,8 @@
             ]
         ],
         "events": [
-            "medic.jeers06"
+            "medic.jeers06",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "MeleeDareMedic",
@@ -9505,7 +9506,8 @@
             ]
         ],
         "events": [
-            "medic.specialcompleted08"
+            "medic.specialcompleted08",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledObjectMedic"

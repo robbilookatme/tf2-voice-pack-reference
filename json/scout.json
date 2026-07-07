@@ -8121,7 +8121,8 @@
             ]
         ],
         "events": [
-            "scout.domination08"
+            "scout.domination08",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingHeavyScout"
@@ -8441,7 +8442,8 @@
             ]
         ],
         "events": [
-            "scout.domination19"
+            "scout.domination19",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "KilledPlayerMeleeFishScout",

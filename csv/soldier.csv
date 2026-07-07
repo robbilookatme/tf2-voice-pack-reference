@@ -88,13 +88,13 @@ Transcription:,"The burning, the burning!",,Responses:,['PlayerOnFireRareSoldier
 Your Line:,,,Rules:,['PlayerOnFireRareSoldier']
 ,,,Criteria:,"[['ConceptFire', 'IsSoldier', '10PercentChance', 'SoldierIsNotStillonFire', 'IsNotDominating', 'AppliesContext:SoldierOnFire:1:7']]"
 
-Filename:,soldier_battlecry01,,Events:,"['soldier.battlecry01', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn']"
+Filename:,soldier_battlecry01,,Events:,"['soldier.battlecry01', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_battlecry01.mp3,,Scenes:,"['scenes/player/soldier/low/1055.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,Charge!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerKilledObjectSoldier', 'PlayerRoundStartSoldier', 'Taunt: Panzer Pants', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerKilledObjectSoldier', 'PlayerRoundStartSoldier']"
 ,,,Criteria:,"[['ConceptKilledObject', 'IsSoldier', '30PercentChance', 'IsARecentKill', 'AppliesContext:SoldierKillSpeechObject:1:30'], ['ConceptPlayerBattleCry', 'IsSoldier'], ['ConceptPlayerRoundStart', 'IsSoldier']]"
 
-Filename:,soldier_battlecry02,,Events:,"['soldier.battlecry02', 'soldier.statue']"
+Filename:,soldier_battlecry02,,Events:,"['soldier.battlecry02', 'soldier.statue', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_battlecry02.mp3,,Scenes:,['scenes/player/soldier/low/1057.vcd']
 Transcription:,Forward!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
@@ -112,7 +112,7 @@ Transcription:,"Last one alive, lock the door!",,Responses:,"['PlayerBattleCrySo
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSoldier'], ['ConceptPlayerRoundStart', 'IsSoldier']]"
 
-Filename:,soldier_battlecry05,,Events:,"['soldier.battlecry05', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_scream']"
+Filename:,soldier_battlecry05,,Events:,"['soldier.battlecry05', 'soldier.statue', 'soldier_taunt_star_spangled_strat_vo_fist', 'soldier_taunt_tank_spawn', 'taunt_burstchester_soldier_01', 'taunt_soldier_buffoons_bivouac_end_a', 'taunt_yetipunch_soldier_scream']"
 Full Path:,sound/vo/soldier_battlecry05.mp3,,Scenes:,"['scenes/player/soldier/low/1056.vcd', 'scenes/player/soldier/low/taunt_vehicle_tank.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,Attaaack!,,Responses:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier', 'Taunt: Burstchester', 'Taunt: Panzer Pants', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['PlayerBattleCrySoldier', 'PlayerRoundStartSoldier']"
@@ -448,13 +448,13 @@ Transcription:,Yaaaaarrrrrgggh!,,Responses:,['SoldierTauntDirectHit']
 Your Line:,,,Rules:,"['SoldierTauntBeggarsBazooka', 'SoldierTauntDirectHit', 'SoldierTauntKatana']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBeggarsBazooka'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsDirectHit'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsKatana']]"
 
-Filename:,soldier_directhittaunt03,,Events:,"['soldier.directhittaunt03', 'soldier_taunt_star_spangled_strat_vo_fist']"
+Filename:,soldier_directhittaunt03,,Events:,"['soldier.directhittaunt03', 'soldier_taunt_star_spangled_strat_vo_fist', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/soldier_directhittaunt03.mp3,,Scenes:,"['scenes/player/soldier/low/3405.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,Raagh!,,Responses:,"['KilledPlayerMeleeSoldier', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,['KilledPlayerMeleeSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SoldierNotKillSpeechMelee', 'IsSoldier', 'AppliesContext:SoldierKillSpeechMelee:1:10']]"
 
-Filename:,soldier_directhittaunt04,,Events:,['soldier.directhittaunt04']
+Filename:,soldier_directhittaunt04,,Events:,"['soldier.directhittaunt04', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/soldier_directhittaunt04.mp3,,Scenes:,['scenes/player/soldier/low/3406.vcd']
 Transcription:,Aaaah!!,,Responses:,['KilledPlayerMeleeSoldier']
 Your Line:,,,Rules:,['KilledPlayerMeleeSoldier']
@@ -946,7 +946,7 @@ Transcription:,Move out!,,Responses:,['PlayerGoSoldier']
 Your Line:,,,Rules:,['PlayerGoSoldier']
 ,,,Criteria:,"[['ConceptPlayerGo', 'IsSoldier']]"
 
-Filename:,soldier_go03,,Events:,['soldier.go03']
+Filename:,soldier_go03,,Events:,"['soldier.go03', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_go03.mp3,,Scenes:,"['scenes/player/soldier/low/1094.vcd', 'scenes/player/soldier/low/taunt_hi5_start.vcd']"
 Transcription:,Let's go!,,Responses:,"['MeleeDareSoldier', 'PlayerGoSoldier', 'Taunt: The High Five!']"
 Your Line:,,,Rules:,"['MeleeDareSoldier', 'PlayerGoSoldier']"
@@ -1000,7 +1000,7 @@ Transcription:,Do you call that a hat? That is a pile of nonsense!,,Responses:,[
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_hat_taunts19,,Events:,"['soldier.statue', 'soldier_hat_taunts19']"
+Filename:,soldier_hat_taunts19,,Events:,"['soldier.statue', 'soldier_hat_taunts19', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/soldier_hat_taunts19.mp3,,Scenes:,[]
 Transcription:,"Son, your fashion sense has gone AWOL!",,Responses:,[]
 Your Line:,,,Rules:,[]
@@ -1018,7 +1018,7 @@ Transcription:,I never liked you.,,Responses:,"['KilledDemomanSoldier', 'Rejecte
 Your Line:,,,Rules:,"['KilledDemomanSoldier', 'RejectedDuelSoldier']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsSoldier'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimDemoman', '10PercentChance', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
-Filename:,soldier_hatoverhearttaunt03,,Events:,"['soldier.hatoverhearttaunt03', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
+Filename:,soldier_hatoverhearttaunt03,,Events:,"['soldier.hatoverhearttaunt03', 'spy_taunt_fauxcolization_a', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt03.mp3,,Scenes:,"['scenes/player/soldier/low/3488.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']"
 Transcription:,"You were loud and ugly, and now you're DEAD! Amen.",,Responses:,"['KilledDemomanSoldier', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,['KilledDemomanSoldier']
@@ -1252,19 +1252,19 @@ Transcription:,(Evil laughter 3),,Responses:,"['PlayerKilledDominatingSoldier', 
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,soldier_laughhappy01,,Events:,"['soldier.laughhappy01', 'taunt_soldier_aerobic_shared_dance_b']"
+Filename:,soldier_laughhappy01,,Events:,"['soldier.laughhappy01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_soldier_buffoons_bivouac_action_01']"
 Full Path:,sound/vo/soldier_laughhappy01.mp3,,Scenes:,"['scenes/player/soldier/low/1133.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd']"
 Transcription:,(Happy laughter 1),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,soldier_laughhappy02,,Events:,"['soldier.laughhappy02', 'taunt.bearhug_soldier_b', 'taunt_soldier_aerobic_shared_dance_b']"
+Filename:,soldier_laughhappy02,,Events:,"['soldier.laughhappy02', 'taunt.bearhug_soldier_b', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_soldier_buffoons_bivouac_action_01']"
 Full Path:,sound/vo/soldier_laughhappy02.mp3,,Scenes:,"['scenes/player/soldier/low/1134.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_russian.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']"
 Transcription:,(Happy laughter 2),,Responses:,"['PlayerKilledDominatingSoldier', 'Taunt: Bear Hug', 'Taunt: Kazotsky Kick', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,soldier_laughhappy03,,Events:,"['soldier.laughhappy03', 'taunt_soldier_aerobic_shared_dance_b']"
+Filename:,soldier_laughhappy03,,Events:,"['soldier.laughhappy03', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_soldier_buffoons_bivouac_action_01']"
 Full Path:,sound/vo/soldier_laughhappy03.mp3,,Scenes:,"['scenes/player/soldier/low/1347.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_russian.vcd']"
 Transcription:,(Happy laughter 3),,Responses:,"['AwardSoldier', 'PlayerKilledDominatingSoldier', 'Taunt: Kazotsky Kick', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,"['AwardSoldier', 'PlayerKilledDominatingSoldier']"
@@ -1288,13 +1288,13 @@ Transcription:,"(Long, wheezing laughter)",,Responses:,"['PlayerKilledDominating
 Your Line:,,,Rules:,"['PlayerKilledDominatingSoldier', 'SoldierTauntAprilFools', 'SoldierTauntLaugh']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptPlayerTaunt', 'IsAprilFoolsTaunt', 'IsSoldier'], ['ConceptTauntLaugh', 'IsSoldier']]"
 
-Filename:,soldier_laughshort01,,Events:,"['soldier.laughshort01', 'soldier_taunt_the_final_score_soldier_soldier_laughshort01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_yeti_soldier']"
+Filename:,soldier_laughshort01,,Events:,"['soldier.laughshort01', 'soldier_taunt_the_final_score_soldier_soldier_laughshort01', 'taunt_soldier_aerobic_shared_dance_b', 'taunt_soldier_buffoons_bivouac_end_b', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/soldier_laughshort01.mp3,,Scenes:,"['scenes/player/soldier/low/1137.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_the_final_score.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
 Transcription:,(Laugh 1),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Mannrobics', 'Taunt: The Final Score', 'Taunt: The Profane Puppeteer', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsSoldier']]"
 
-Filename:,soldier_laughshort02,,Events:,"['soldier.laughshort02', 'soldier_taunt_commending_clap_b']"
+Filename:,soldier_laughshort02,,Events:,"['soldier.laughshort02', 'soldier_taunt_commending_clap_b', 'taunt_soldier_buffoons_bivouac_end_b']"
 Full Path:,sound/vo/soldier_laughshort02.mp3,,Scenes:,"['scenes/player/soldier/low/1138.vcd', 'scenes/workshop/player/soldier/low/taunt_commending_clap.vcd']"
 Transcription:,(short laugh),,Responses:,"['PlayerTauntsSoldier', 'Taunt: Commending Clap']"
 Your Line:,,,Rules:,['PlayerPositiveSoldier']
@@ -1336,7 +1336,7 @@ Transcription:,Move up!,,Responses:,['PlayerMoveUpSoldier']
 Your Line:,,,Rules:,['PlayerMoveUpSoldier']
 ,,,Criteria:,"[['ConceptPlayerMoveUp', 'IsSoldier']]"
 
-Filename:,soldier_moveup02,,Events:,['soldier.moveup02']
+Filename:,soldier_moveup02,,Events:,"['soldier.moveup02', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_moveup02.mp3,,Scenes:,['scenes/player/soldier/low/1143.vcd']
 Transcription:,Gear forward!,,Responses:,['PlayerMoveUpSoldier']
 Your Line:,,,Rules:,['PlayerMoveUpSoldier']
@@ -1498,19 +1498,19 @@ Transcription:,Daawww!,,Responses:,"['PlayerAttackerPainSoldier', 'Taunt: Neck S
 Your Line:,,,Rules:,['PlayerAttackerPainSoldier']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsSoldier', 'IsNotDominating']]"
 
-Filename:,soldier_painsharp01,,Events:,"['soldier.explosiondeath', 'soldier.painsharp01', 'taunt_burstchester_soldier_pain']"
+Filename:,soldier_painsharp01,,Events:,"['soldier.explosiondeath', 'soldier.painsharp01', 'taunt_burstchester_soldier_pain', 'taunt_soldier_buffoons_bivouac_end_fall']"
 Full Path:,sound/vo/soldier_painsharp01.mp3,,Scenes:,"['scenes/player/soldier/low/1168.vcd', 'scenes/player/soldier/low/1926.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
 Transcription:,Oof!,,Responses:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier']"
 ,,,Criteria:,"[['ConceptFire', 'IsSoldier', 'SoldierIsStillonFire', 'IsNotDominating', 'AppliesContext:SoldierOnFire:1:7'], ['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
-Filename:,soldier_painsharp02,,Events:,"['soldier.explosiondeath', 'soldier.painsharp02', 'taunt_burstchester_soldier_pain']"
+Filename:,soldier_painsharp02,,Events:,"['soldier.explosiondeath', 'soldier.painsharp02', 'taunt_burstchester_soldier_pain', 'taunt_soldier_buffoons_bivouac_end_fall']"
 Full Path:,sound/vo/soldier_painsharp02.mp3,,Scenes:,"['scenes/player/soldier/low/1169.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
 Transcription:,Urg!,,Responses:,"['PlayerPainSoldier', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainSoldier']
 ,,,Criteria:,"[['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
-Filename:,soldier_painsharp03,,Events:,"['soldier.explosiondeath', 'soldier.painsharp03', 'taunt_burstchester_soldier_pain']"
+Filename:,soldier_painsharp03,,Events:,"['soldier.explosiondeath', 'soldier.painsharp03', 'taunt_burstchester_soldier_pain', 'taunt_soldier_buffoons_bivouac_end_fall']"
 Full Path:,sound/vo/soldier_painsharp03.mp3,,Scenes:,"['scenes/player/soldier/low/1170.vcd', 'scenes/player/soldier/low/1926.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd']"
 Transcription:,Unf!,,Responses:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier', 'Taunt: Burstchester', 'Taunt: The Critical Fail']"
 Your Line:,,,Rules:,"['PlayerPainSoldier', 'PlayerStillOnFireSoldier']"
@@ -1540,7 +1540,7 @@ Transcription:,Ungh!,,Responses:,"['PlayerPainSoldier', 'Taunt: Burstchester', '
 Your Line:,,,Rules:,['PlayerPainSoldier']
 ,,,Criteria:,"[['ConceptPain', 'IsSoldier', 'IsNotDominating']]"
 
-Filename:,soldier_painsharp08,,Events:,"['soldier.explosiondeath', 'soldier.painsharp08', 'taunt_burstchester_soldier_pain']"
+Filename:,soldier_painsharp08,,Events:,"['soldier.explosiondeath', 'soldier.painsharp08', 'taunt_burstchester_soldier_pain', 'taunt_soldier_buffoons_bivouac_end_fall']"
 Full Path:,sound/vo/soldier_painsharp08.mp3,,Scenes:,"['scenes/player/soldier/low/1378.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
 Transcription:,(Grunt 8),,Responses:,"['PlayerPainSoldier', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['PlayerPainSoldier']
@@ -1564,7 +1564,7 @@ Transcription:,"C'mere, Sally.",,Responses:,"['MedicFollowSoldier', 'Taunt: Burs
 Your Line:,,,Rules:,['MedicFollowSoldier']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsSoldier', 'IsNotCrossHairEnemy', 'NotLowHealth', 'SoldierIsNotStillonFire', 'AppliesContext:ScoutKillSpeech:1:10']]"
 
-Filename:,soldier_pickaxetaunt04,,Events:,"['soldier.pickaxetaunt04', 'soldier_taunt_neck_snap_intro_02', 'taunt_burstchester_soldier_01', 'taunt_yetipunch_soldier_jeers']"
+Filename:,soldier_pickaxetaunt04,,Events:,"['soldier.pickaxetaunt04', 'soldier_taunt_neck_snap_intro_02', 'taunt_burstchester_soldier_01', 'taunt_soldier_buffoons_bivouac_action_02', 'taunt_yetipunch_soldier_jeers']"
 Full Path:,sound/vo/soldier_pickaxetaunt04.mp3,,Scenes:,"['scenes/player/soldier/low/taunt05.vcd', 'scenes/player/soldier/low/taunt_yetipunch.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd']"
 Transcription:,"C'mere, cupcake.",,Responses:,"['SoldierTauntPickaxe', 'Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,"['SoldierTauntEqualizer', 'SoldierTauntEscapePlan']"
@@ -1576,7 +1576,7 @@ Transcription:,"C'mere, pumpkin.",,Responses:,"['MedicFollowSoldier', 'Taunt: Ne
 Your Line:,,,Rules:,['MedicFollowSoldier']
 ,,,Criteria:,"[['ConceptPlayerMedic', 'IsOnMedic', 'IsSoldier', 'IsNotCrossHairEnemy', 'NotLowHealth', 'SoldierIsNotStillonFire', 'AppliesContext:ScoutKillSpeech:1:10']]"
 
-Filename:,soldier_positivevocalization01,,Events:,"['soldier.positivevocalization01', 'soldier_taunt_flag', 'soldier_taunt_neck_snap_03', 'taunt.bearhug_soldier_c']"
+Filename:,soldier_positivevocalization01,,Events:,"['soldier.positivevocalization01', 'soldier_taunt_flag', 'soldier_taunt_neck_snap_03', 'taunt.bearhug_soldier_c', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/soldier_positivevocalization01.mp3,,Scenes:,"['scenes/player/soldier/low/1345.vcd', 'scenes/player/soldier/low/taunt_hi5_a.vcd', 'scenes/player/soldier/low/taunt_hi5_b.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd', 'scenes/workshop/player/soldier/low/taunt_flying_colors.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
 Transcription:,Hoo.. ah!,,Responses:,"['PlayerKilledObjectSoldier', 'PlayerPositiveSoldier', 'Taunt: Bear Hug', 'Taunt: Flying Colors', 'Taunt: Neck Snap', 'Taunt: The High Five!']"
 Your Line:,,,Rules:,"['PlayerKilledObjectSoldier', 'PlayerPositiveSoldier']"
@@ -1846,7 +1846,7 @@ Transcription:,Screamin' Eagles!,,Responses:,"['AwardSoldier', 'PlayerKilledObje
 Your Line:,,,Rules:,"['AwardSoldier', 'PlayerKilledObjectSoldier', 'SoldierTauntBackup', 'SoldierTauntBanner', 'SoldierTauntFestiveBanner', 'SoldierTauntRayGun', 'SoldierTauntSashimono', 'SoldierTauntSaxxy']"
 ,,,Criteria:,"[['ConceptAchievementAward', 'IsSoldier', 'SoldierNotAwardSpeech', 'AppliesContext:SoldierAwardSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledObject', 'IsSoldier', '30PercentChance', 'IsARecentKill', 'AppliesContext:SoldierKillSpeechObject:1:30'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBackup'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsBanner'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsFestiveBanner'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRayGun'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsSashimono'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsSaxxy']]"
 
-Filename:,soldier_specialcompleted05,,Events:,"['soldier.specialcompleted05', 'soldier_taunt_neck_snap_02', 'soldier_taunt_star_spangled_strat_vo_fist']"
+Filename:,soldier_specialcompleted05,,Events:,"['soldier.specialcompleted05', 'soldier_taunt_neck_snap_02', 'soldier_taunt_star_spangled_strat_vo_fist', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/soldier_specialcompleted05.mp3,,Scenes:,"['scenes/player/soldier/low/1185.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,Yaaaaagh!,,Responses:,"['KilledPlayerMeleeSoldier', 'Taunt: Neck Snap', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,['KilledPlayerMeleeSoldier']
@@ -2014,13 +2014,13 @@ Transcription:,Maggots!,,Responses:,"['KilledPlayerManySoldier', 'SoldierTauntPr
 Your Line:,,,Rules:,"['KilledPlayerManySoldier', 'SoldierTauntPlayerAirStrike', 'SoldierTauntPlayerPrimary']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRocket'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRocketLauncherAirStrike']]"
 
-Filename:,soldier_taunts02,,Events:,"['soldier.statue', 'soldier.taunts02']"
+Filename:,soldier_taunts02,,Events:,"['soldier.statue', 'soldier.taunts02', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/taunts/soldier_taunts02.mp3,,Scenes:,['scenes/player/soldier/low/1188.vcd']
 Transcription:,Time to inform your next of kin!,,Responses:,"['KilledPlayerVeryManySoldier', 'MeleeDareSoldier']"
 Your Line:,,,Rules:,"['KilledPlayerVeryManySoldier', 'MeleeDareSoldier']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10'], ['ConceptRequestDuel', 'IsSoldier']]"
 
-Filename:,soldier_taunts03,,Events:,"['soldier.profane_puppeteer', 'soldier.statue', 'soldier.taunts03', 'taunt_burstchester_soldier_02']"
+Filename:,soldier_taunts03,,Events:,"['soldier.profane_puppeteer', 'soldier.statue', 'soldier.taunts03', 'taunt_burstchester_soldier_02', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/taunts/soldier_taunts03.mp3,,Scenes:,"['scenes/player/soldier/low/1190.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd']"
 Transcription:,"If you know what's good for ya, you will run!",,Responses:,"['AcceptedDuelSoldier', 'MeleeDareCombatSoldier', 'Taunt: Burstchester', 'Taunt: The Profane Puppeteer']"
 Your Line:,,,Rules:,"['AcceptedDuelSoldier', 'MeleeDareCombatSoldier']"
@@ -2266,7 +2266,7 @@ Transcription:,"Grab that cash, boys, we earned it.",,Responses:,['MvMEncourageM
 Your Line:,,,Rules:,['MvMEncourageMoneySoldier']
 ,,,Criteria:,"[['ConceptMvMEncourageMoney', '50PercentChance', 'IsMvMDefender', 'IsSoldier']]"
 
-Filename:,soldier_mvm_collect_credits02,,Events:,['soldier_mvm_collect_credits02']
+Filename:,soldier_mvm_collect_credits02,,Events:,"['soldier_mvm_collect_credits02', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/soldier_mvm_collect_credits02.mp3,,Scenes:,['scenes/player/soldier/low/4269.vcd']
 Transcription:,Mwaha! The spoils of war.,,Responses:,['MvMMoneyPickupSoldier']
 Your Line:,,,Rules:,['MvMMoneyPickupSoldier']
@@ -2278,13 +2278,13 @@ Transcription:,"Men, get to the Upgrade Stations.",,Responses:,['MvMEncourageUpg
 Your Line:,,,Rules:,['MvMEncourageUpgradeSoldier']
 ,,,Criteria:,"[['ConceptMvMEncourageUpgrade', '50PercentChance', 'IsMvMDefender', 'IsSoldier']]"
 
-Filename:,soldier_mvm_get_upgrade01,,Events:,['soldier_mvm_get_upgrade01']
+Filename:,soldier_mvm_get_upgrade01,,Events:,"['soldier_mvm_get_upgrade01', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/soldier_mvm_get_upgrade01.mp3,,Scenes:,['scenes/player/soldier/low/4271.vcd']
 Transcription:,Ahhh... Much better.,,Responses:,['MvMUpgradeCompleteSoldier']
 Your Line:,,,Rules:,['MvMUpgradeCompleteSoldier']
 ,,,Criteria:,"[['ConceptMvMUpgradeComplete', '5PercentChance', 'IsMvMDefender', 'IsSoldier']]"
 
-Filename:,soldier_mvm_get_upgrade02,,Events:,['soldier_mvm_get_upgrade02']
+Filename:,soldier_mvm_get_upgrade02,,Events:,"['soldier_mvm_get_upgrade02', 'taunt_soldier_buffoons_bivouac_end_b']"
 Full Path:,sound/vo/soldier_mvm_get_upgrade02.mp3,,Scenes:,['scenes/player/soldier/low/4273.vcd']
 Transcription:,"Well, back to the front.",,Responses:,['MvMUpgradeCompleteSoldier']
 Your Line:,,,Rules:,['MvMUpgradeCompleteSoldier']
@@ -2392,7 +2392,7 @@ Transcription:,The robots took the gate!,,Responses:,['SoldierMannhattanGateTake
 Your Line:,,,Rules:,['SoldierMannhattanGateTake']
 ,,,Criteria:,"[['ConceptMannhattanGateTake', 'IsSoldier']]"
 
-Filename:,soldier_mvm_resurrect01,,Events:,"['soldier.statue', 'soldier_mvm_resurrect01']"
+Filename:,soldier_mvm_resurrect01,,Events:,"['soldier.statue', 'soldier_mvm_resurrect01', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_mvm_resurrect01.mp3,,Scenes:,['scenes/player/soldier/low/7319.vcd']
 Transcription:,TEN HUT!,,Responses:,['SoldierMvmResurrected']
 Your Line:,,,Rules:,['SoldierMvmResurrected']
@@ -2410,7 +2410,7 @@ Transcription:,Back from Hell!,,Responses:,['SoldierMvmResurrected']
 Your Line:,,,Rules:,['SoldierMvmResurrected']
 ,,,Criteria:,"[['ConceptMvMResurrected', 'IsSoldier']]"
 
-Filename:,soldier_mvm_resurrect04,,Events:,"['soldier_mvm_resurrect04', 'taunt_burstchester_soldier_01']"
+Filename:,soldier_mvm_resurrect04,,Events:,"['soldier_mvm_resurrect04', 'taunt_burstchester_soldier_01', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/soldier_mvm_resurrect04.mp3,,Scenes:,"['scenes/player/soldier/low/7326.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd']"
 Transcription:,Hello again!,,Responses:,"['SoldierMvmResurrected', 'Taunt: Burstchester']"
 Your Line:,,,Rules:,['SoldierMvmResurrected']
@@ -2446,7 +2446,7 @@ Transcription:,Ready.,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_mvm_say_ready02,,Events:,"['soldier.ready', 'soldier.readycomp', 'soldier.readymvm', 'soldier_mvm_say_ready02', 'taunt.bearhug_soldier_a']"
+Filename:,soldier_mvm_say_ready02,,Events:,"['soldier.ready', 'soldier.readycomp', 'soldier.readymvm', 'soldier_mvm_say_ready02', 'taunt.bearhug_soldier_a', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/soldier_mvm_say_ready02.mp3,,Scenes:,['scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']
 Transcription:,I am ready.,,Responses:,['Taunt: Bear Hug']
 Your Line:,,,Rules:,[]
@@ -2902,7 +2902,7 @@ Transcription:,Hooah!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick', 'Tau
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_admire_10,,Events:,"['soldier_taunt_flip_random_flipfinish', 'taunt.bearhug_soldier_c']"
+Filename:,soldier_taunt_admire_10,,Events:,"['soldier_taunt_flip_random_flipfinish', 'taunt.bearhug_soldier_c', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_10.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']"
 Transcription:,Done and done!,,Responses:,"['Taunt: Bear Hug', ""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -2926,13 +2926,13 @@ Transcription:,Mission accomplished!,,Responses:,['Taunt: Fresh Brewed Victory']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_admire_22,,Events:,"['soldier.statue', 'soldier_taunt_conga_random_fun3', 'soldier_taunt_flip_random_flipflipping', 'soldier_taunt_star_spangled_strat_vo', 'taunt_soldier_aerobic_shared_dance_a']"
+Filename:,soldier_taunt_admire_22,,Events:,"['soldier.statue', 'soldier_taunt_conga_random_fun3', 'soldier_taunt_flip_random_flipflipping', 'soldier_taunt_star_spangled_strat_vo', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_22.mp3,,Scenes:,"['scenes/player/soldier/low/conga.vcd', 'scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_russian.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,Medals for everyone!,,Responses:,"['Taunt: Conga', ""Taunt: Flippin' Awesome"", 'Taunt: Kazotsky Kick', 'Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_admire_24,,Events:,"['soldier.statue', 'soldier_taunt_flip_random_flipfinish']"
+Filename:,soldier_taunt_admire_24,,Events:,"['soldier.statue', 'soldier_taunt_flip_random_flipfinish', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_24.mp3,,Scenes:,['scenes/player/soldier/low/flip_success_receiver1.vcd']
 Transcription:,Stay frosty!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -2962,7 +2962,7 @@ Transcription:,Argh!,,Responses:,"['Taunt: Conga', 'Taunt: Star-Spangled Strateg
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_cong_fun_01,,Events:,"['soldier_taunt_conga_random_fun1', 'taunt.bearhug_soldier_a']"
+Filename:,soldier_taunt_cong_fun_01,,Events:,"['soldier_taunt_conga_random_fun1', 'taunt.bearhug_soldier_a', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_cong_fun_01.mp3,,Scenes:,"['scenes/player/soldier/low/conga.vcd', 'scenes/workshop/player/soldier/low/taunt_bear_hug.vcd']"
 Transcription:,"Oooh, yeah!",,Responses:,"['Taunt: Bear Hug', 'Taunt: Conga']"
 Your Line:,,,Rules:,[]
@@ -3004,7 +3004,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_cong_fun_29,,Events:,['soldier_taunt_conga_random_fun2']
+Filename:,soldier_taunt_cong_fun_29,,Events:,"['soldier_taunt_conga_random_fun2', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_cong_fun_29.mp3,,Scenes:,['scenes/player/soldier/low/conga.vcd']
 Transcription:,[singing] Duh da da da!,,Responses:,['Taunt: Conga']
 Your Line:,,,Rules:,[]
@@ -3052,7 +3052,7 @@ Transcription:,Dance terminated!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_dosi_fun_05,,Events:,"['soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yeti_soldier']"
+Filename:,soldier_taunt_dosi_fun_05,,Events:,"['soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
 Transcription:,Whoa! Ha ha ha!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
@@ -3076,7 +3076,7 @@ Transcription:,Ah ha ha!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_dosi_fun_29,,Events:,"['soldier_taunt_dosido_mid_rand', 'soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_yeti_soldier']"
+Filename:,soldier_taunt_dosi_fun_29,,Events:,"['soldier_taunt_dosido_mid_rand', 'soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
 Transcription:,"Whaa, ho ho ha ha!",,Responses:,"['Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
@@ -3124,7 +3124,7 @@ Transcription:,Uhng!,,Responses:,"['Taunt: Neck Snap', 'Taunt: Skullcracker', 'T
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_end_01,,Events:,['soldier_taunt_flip_random_flipadmire']
+Filename:,soldier_taunt_flip_end_01,,Events:,"['soldier_taunt_flip_random_flipadmire', 'taunt_soldier_buffoons_bivouac_end_b']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_end_01.mp3,,Scenes:,['scenes/player/soldier/low/flip_success_initiator1.vcd']
 Transcription:,Perfect landing!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -3136,7 +3136,7 @@ Transcription:,Perfect landing!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_end_03,,Events:,['soldier_taunt_flip_random_flipadmire']
+Filename:,soldier_taunt_flip_end_03,,Events:,"['soldier_taunt_flip_random_flipadmire', 'taunt_soldier_buffoons_bivouac_end_b']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_end_03.mp3,,Scenes:,['scenes/player/soldier/low/flip_success_initiator1.vcd']
 Transcription:,Perfect landing.,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -3160,7 +3160,7 @@ Transcription:,Duty and honor!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_end_17,,Events:,['soldier_taunt_dosido_end_rand']
+Filename:,soldier_taunt_flip_end_17,,Events:,"['soldier_taunt_dosido_end_rand', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_end_17.mp3,,Scenes:,['scenes/player/soldier/low/taunt_dosido_dance01.vcd']
 Transcription:,Duty and honor.,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
@@ -3178,19 +3178,19 @@ Transcription:,"[strained] ""Up you go!""",,Responses:,"[""Taunt: Flippin' Aweso
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_exert_21,,Events:,"['soldier_taunt_flip_random_flipexert', 'soldier_taunt_neck_snap_01']"
+Filename:,soldier_taunt_flip_exert_21,,Events:,"['soldier_taunt_flip_random_flipexert', 'soldier_taunt_neck_snap_01', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_exert_21.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_initiator0.vcd', 'scenes/player/soldier/low/flip_success_initiator1.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
 Transcription:,Hut hut hut!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_exert_31,,Events:,"['soldier_taunt_flip_random_flipexert', 'taunt_yetipunch_soldier_intro']"
+Filename:,soldier_taunt_flip_exert_31,,Events:,"['soldier_taunt_flip_random_flipexert', 'taunt_soldier_buffoons_bivouac_action_02', 'taunt_yetipunch_soldier_intro']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_exert_31.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_initiator0.vcd', 'scenes/player/soldier/low/flip_success_initiator1.vcd']"
 Transcription:,Hut-ta!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_fun_04,,Events:,['soldier_taunt_flip_random_flipflipping']
+Filename:,soldier_taunt_flip_fun_04,,Events:,"['soldier_taunt_flip_random_flipflipping', 'taunt_soldier_buffoons_bivouac_action_01']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_fun_04.mp3,,Scenes:,"['scenes/player/soldier/low/flip_success_receiver1.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd']"
 Transcription:,Wheee!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Rocket Jockey']"
 Your Line:,,,Rules:,[]
@@ -3286,7 +3286,7 @@ Transcription:,"Gaaawd, Guuuuts, Guuuns!",,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_head_exert_02,,Events:,['soldier_taunt_headbutt_success_recover']
+Filename:,soldier_taunt_head_exert_02,,Events:,"['soldier_taunt_headbutt_success_recover', 'taunt_soldier_buffoons_bivouac_action_02']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_head_exert_02.mp3,,Scenes:,['scenes/player/soldier/low/taunt_headbutt_success.vcd']
 Transcription:,Ahhhhh!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
@@ -3376,7 +3376,7 @@ Transcription:,Go go go!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_int_15,,Events:,['soldier_taunt_flip_random_flipthrowantic']
+Filename:,soldier_taunt_int_15,,Events:,"['soldier_taunt_flip_random_flipthrowantic', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_int_15.mp3,,Scenes:,['scenes/player/soldier/low/flip_success_initiator1.vcd']
 Transcription:,Go go go!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -3388,7 +3388,7 @@ Transcription:,"Come on, maggot!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Ta
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_int_19,,Events:,"['soldier_taunt_dosido_intro_rand', 'soldier_taunt_flip_random_waiting2']"
+Filename:,soldier_taunt_int_19,,Events:,"['soldier_taunt_dosido_intro_rand', 'soldier_taunt_flip_random_waiting2', 'taunt_soldier_buffoons_bivouac_end_a']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_int_19.mp3,,Scenes:,"['scenes/player/soldier/low/flip_start.vcd', 'scenes/player/soldier/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd']"
 Transcription:,"Let's go, maggot!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Square Dance', 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
@@ -3406,7 +3406,7 @@ Transcription:,Come on maggots!,,Responses:,"['Taunt: Mannrobics', 'Taunt: Rock,
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_kill_01,,Events:,['soldier_taunt_coffee_1_speech']
+Filename:,soldier_taunt_kill_01,,Events:,"['soldier_taunt_coffee_1_speech', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_kill_01.mp3,,Scenes:,['scenes/player/soldier/low/taunt_coffee.vcd']
 Transcription:,A big cup of kicking your ass!,,Responses:,['Taunt: Fresh Brewed Victory']
 Your Line:,,,Rules:,[]
@@ -3418,7 +3418,7 @@ Transcription:,A big mug of my foot up your ass!,,Responses:,['Taunt: Fresh Brew
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_kill_10,,Events:,"['soldier.statue', 'soldier_taunt_coffee_1_speech', 'soldier_taunt_star_spangled_strat_vo']"
+Filename:,soldier_taunt_kill_10,,Events:,"['soldier.statue', 'soldier_taunt_coffee_1_speech', 'soldier_taunt_star_spangled_strat_vo', 'taunt_soldier_buffoons_bivouac_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_kill_10.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_coffee.vcd', 'scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd']"
 Transcription:,I love the smell of a kicked ass in the morning!,,Responses:,"['Taunt: Fresh Brewed Victory', 'Taunt: Star-Spangled Strategy']"
 Your Line:,,,Rules:,[]
@@ -3622,7 +3622,7 @@ Transcription:,Ahhrrr!,,Responses:,"['SoldierSF13SpellMovementBuff', 'SoldierSee
 Your Line:,,,Rules:,"['SoldierSF13SpellMovementBuff', 'SoldierSeeSpellMeteorSwarm', 'soldierDanceMagicReaction']"
 ,,,Criteria:,"[['ConceptMagicDance', 'Issoldier', '50PercentChance'], ['ConceptPlayerSpellMeteorSwarm', 'IsSoldier'], ['ConceptPlayerSpellMovementBuff', 'IsSoldier']]"
 
-Filename:,soldier_sf12_badmagic05,,Events:,['soldier_sf12_badmagic05']
+Filename:,soldier_sf12_badmagic05,,Events:,"['soldier_sf12_badmagic05', 'taunt_soldier_buffoons_bivouac_end_b']"
 Full Path:,sound/vo/soldier_sf12_badmagic05.mp3,,Scenes:,['scenes/player/soldier/low/4546.vcd']
 Transcription:,"Oh, my head!",,Responses:,"['SoldierSF13SpellMovementBuff', 'soldierBigHeadReaction', 'soldierSmallHeadReaction']"
 Your Line:,,,Rules:,"['SoldierSF13SpellMovementBuff', 'soldierBigHeadReaction', 'soldierSmallHeadReaction']"
@@ -3730,7 +3730,7 @@ Transcription:,"""Damn you, Merasmuuuuus! You are the worst roommaaaaaaaaate!"" 
 Your Line:,,,Rules:,['soldierHalloweenMerasmusPitFall']
 ,,,Criteria:,"[['ConceptHalloweenPlayerPitFall', 'Issoldier']]"
 
-Filename:,soldier_sf12_goodmagic01,,Events:,"['soldier_sf12_goodmagic01', 'taunt_yeti_soldier']"
+Filename:,soldier_sf12_goodmagic01,,Events:,"['soldier_sf12_goodmagic01', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/soldier_sf12_goodmagic01.mp3,,Scenes:,"['scenes/player/soldier/low/4564.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd']"
 Transcription:,Yaaay!,,Responses:,"['Taunt: Yeti Smash', 'soldierGoodMagicReaction']"
 Your Line:,,,Rules:,['soldierGoodMagicReaction']
@@ -4036,7 +4036,7 @@ Transcription:,Reporting for duty!,,Responses:,['SoldierSF13SpellPickupRare']
 Your Line:,,,Rules:,['SoldierSF13SpellPickupRare']
 ,,,Criteria:,"[['ConceptPlayerSpellPickupRare', 'IsSoldier']]"
 
-Filename:,soldier_sf13_influx_big02,,Events:,"['soldier.scardy_cat_b', 'soldier_sf13_influx_big02']"
+Filename:,soldier_sf13_influx_big02,,Events:,"['soldier.scardy_cat_b', 'soldier_sf13_influx_big02', 'taunt_soldier_buffoons_bivouac_action_01']"
 Full Path:,sound/vo/soldier_sf13_influx_big02.mp3,,Scenes:,"['scenes/player/soldier/low/7440.vcd', 'scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd']"
 Transcription:,I am having a heart attack!,,Responses:,"['SoldierSF13SpellPickupRare', 'Taunt: The Scaredy-Cat!']"
 Your Line:,,,Rules:,['SoldierSF13SpellPickupRare']

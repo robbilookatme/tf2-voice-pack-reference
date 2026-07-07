@@ -8966,7 +8966,8 @@
         ],
         "events": [
             "sniper.dominationsniper19",
-            "sniper.taunt_shooter_tutor_vo_1"
+            "sniper.taunt_shooter_tutor_vo_1",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingSniperSniper",
@@ -14395,7 +14396,8 @@
             ]
         ],
         "events": [
-            "sniper.revenge19"
+            "sniper.revenge19",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledForRevengeSniperSniper"

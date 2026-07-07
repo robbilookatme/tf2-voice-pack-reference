@@ -3006,6 +3006,18 @@
         "state": "used",
         "transcript": "Raaaaaaaaagh!"
     },
+    "sound/vo/heavy_battlecry03.wav": {
+        "base_name": "heavy_battlecry03",
+        "criteria": [],
+        "events": [
+            "heavy_taunt_the_circuit_breaker_heavy_battlecry03"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
     "sound/vo/heavy_battlecry04.mp3": {
         "base_name": "heavy_battlecry04",
         "criteria": [
@@ -5545,7 +5557,8 @@
             ]
         ],
         "events": [
-            "heavy.domination15"
+            "heavy.domination15",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingHeavy",
@@ -12564,7 +12577,8 @@
             ]
         ],
         "events": [
-            "heavy.revenge09"
+            "heavy.revenge09",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledForRevengeHeavy"

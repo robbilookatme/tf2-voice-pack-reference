@@ -220,6 +220,12 @@ Transcription:,Raaaaaaaaagh!,,Responses:,"['HeavyTimeFiringMinigunShort', 'Playe
 Your Line:,,,Rules:,"['HeavyTimeFiringMinigunShort', 'PlayerBattleCryHeavy', 'PlayerRoundStartHeavy']"
 ,,,Criteria:,"[['ConceptFireMinigunTalk', 'IsHeavy', 'WeaponIsMinigun', 'TimeFiringMinigunShort', '30PercentChance'], ['ConceptPlayerBattleCry', 'IsHeavy'], ['ConceptPlayerRoundStart', 'IsHeavy']]"
 
+Filename:,heavy_battlecry03,,Events:,['heavy_taunt_the_circuit_breaker_heavy_battlecry03']
+Full Path:,sound/vo/heavy_battlecry03.wav,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
+
 Filename:,heavy_battlecry04,,Events:,['heavy.battlecry04']
 Full Path:,sound/vo/heavy_battlecry04.mp3,,Scenes:,['scenes/player/heavy/low/208.vcd']
 Transcription:,Hide cowards!,,Responses:,"['PlayerBattleCryHeavy', 'PlayerRoundStartHeavy']"
@@ -760,7 +766,7 @@ Transcription:,You cannot beat me!,,Responses:,['PlayerKilledDominatingHeavy']
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsHeavy', 'IsDominated', 'AppliesContext:HeavyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,heavy_domination15,,Events:,['heavy.domination15']
+Filename:,heavy_domination15,,Events:,"['heavy.domination15', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/heavy_domination15.mp3,,Scenes:,['scenes/player/heavy/low/2103.vcd']
 Transcription:,The burning you feel? It is shame.,,Responses:,"['PlayerKilledDominatingHeavy', 'RejectedDuelHeavy']"
 Your Line:,,,Rules:,"['PlayerKilledDominatingHeavy', 'RejectedDuelHeavy']"
@@ -1684,7 +1690,7 @@ Transcription:,Did you think you could beat me?,,Responses:,['PlayerKilledForRev
 Your Line:,,,Rules:,['PlayerKilledForRevengeHeavy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsHeavy', 'IsRevenge', 'AppliesContext:HeavyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,heavy_revenge09,,Events:,['heavy.revenge09']
+Filename:,heavy_revenge09,,Events:,"['heavy.revenge09', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/heavy_revenge09.mp3,,Scenes:,['scenes/player/heavy/low/2108.vcd']
 Transcription:,Did you think I would forget you?!,,Responses:,['PlayerKilledForRevengeHeavy']
 Your Line:,,,Rules:,['PlayerKilledForRevengeHeavy']

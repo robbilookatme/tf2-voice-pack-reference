@@ -5002,7 +5002,8 @@
             ]
         ],
         "events": [
-            "engineer_dominationheavy09"
+            "engineer_dominationheavy09",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingHeavyEngineer"
@@ -6686,7 +6687,8 @@
             ]
         ],
         "events": [
-            "engineer_dominationspy11"
+            "engineer_dominationspy11",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingSpyEngineer",

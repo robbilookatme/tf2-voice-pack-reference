@@ -1402,7 +1402,7 @@ Transcription:,You appear to have trodden on a mine!,,Responses:,['KilledPlayerV
 Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
-Filename:,demoman_specialcompleted04,,Events:,['demoman.specialcompleted04']
+Filename:,demoman_specialcompleted04,,Events:,"['demoman.specialcompleted04', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/demoman_specialcompleted04.mp3,,Scenes:,['scenes/player/demoman/low/1000.vcd']
 Transcription:,"How's that feel, ya blockhead?",,Responses:,['KilledPlayerManyDemoman']
 Your Line:,,,Rules:,['KilledPlayerManyDemoman']
@@ -1426,7 +1426,7 @@ Transcription:,"Bloody hell, those ones were me favorites!",,Responses:,['Killed
 Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
-Filename:,demoman_specialcompleted08,,Events:,['demoman.specialcompleted08']
+Filename:,demoman_specialcompleted08,,Events:,"['demoman.specialcompleted08', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/demoman_specialcompleted08.mp3,,Scenes:,['scenes/player/demoman/low/1004.vcd']
 Transcription:,Let that be a bloody lesson to yeh!,,Responses:,['KilledPlayerVeryManyDemoman']
 Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']

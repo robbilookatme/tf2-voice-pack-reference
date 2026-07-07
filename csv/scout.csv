@@ -886,7 +886,7 @@ Transcription:,Ha ha! Look at you! You look like you ran through traffic!,,Respo
 Your Line:,,,Rules:,['PlayerKilledDominatingScoutScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimScout', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,scout_domination08,,Events:,['scout.domination08']
+Filename:,scout_domination08,,Events:,"['scout.domination08', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/scout_domination08.mp3,,Scenes:,['scenes/player/scout/low/2646.vcd']
 Transcription:,"Drink it in, pal. That's how failure tastes.",,Responses:,['PlayerKilledDominatingHeavyScout']
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyScout']
@@ -952,7 +952,7 @@ Transcription:,,,Responses:,[]
 Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
-Filename:,scout_domination19,,Events:,['scout.domination19']
+Filename:,scout_domination19,,Events:,"['scout.domination19', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/scout_domination19.mp3,,Scenes:,['scenes/player/scout/low/2554.vcd']
 Transcription:,"Yeah, I dare ya, rage quit. C'mon, make us both happy.",,Responses:,"['KilledPlayerMeleeFishScout', 'PlayerKilledDominatingScoutScout', 'RejectedDuelScout']"
 Your Line:,,,Rules:,"['KilledPlayerMeleeFestiveFishScout', 'KilledPlayerMeleeFishScout', 'KilledPlayerMeleeGunbaiScout', 'KilledPlayerMeleeSaxxyScout', 'PlayerKilledDominatingScoutScout', 'RejectedDuelScout']"

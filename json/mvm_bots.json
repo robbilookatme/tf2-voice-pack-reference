@@ -1062,6 +1062,7 @@
         "base_name": "mvm_money_pickup",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_mvm_money_pickup",
             "mvm.moneypickup"
         ],
         "responses": [],
@@ -12516,6 +12517,7 @@
         "base_name": "scout_mvm_m_helpme03",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_scout_mvm_m_helpme03",
             "scout.m_mvm_helpme03"
         ],
         "responses": [],
@@ -12912,6 +12914,7 @@
         "base_name": "scout_mvm_m_jeers09",
         "criteria": [],
         "events": [
+            "heavy_taunt_the_circuit_breaker_scout_mvm_m_jeers09",
             "scout.m_mvm_jeers09"
         ],
         "responses": [],

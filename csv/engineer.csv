@@ -460,7 +460,7 @@ Transcription:,Y'all just got branded.,,Responses:,['PlayerKilledDominatingHeavy
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimHeavy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,engineer_dominationheavy09,,Events:,['engineer_dominationheavy09']
+Filename:,engineer_dominationheavy09,,Events:,"['engineer_dominationheavy09', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/engineer_dominationheavy09.mp3,,Scenes:,['scenes/player/engineer/low/3648.vcd']
 Transcription:,And another thing: you're ugly.,,Responses:,['PlayerKilledDominatingHeavyEngineer']
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyEngineer']
@@ -832,7 +832,7 @@ Transcription:,Don't go meddlin' in my business.,,Responses:,['PlayerKilledDomin
 Your Line:,,,Rules:,['PlayerKilledDominatingSpyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimSpy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,engineer_dominationspy11,,Events:,['engineer_dominationspy11']
+Filename:,engineer_dominationspy11,,Events:,"['engineer_dominationspy11', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/engineer_dominationspy11.mp3,,Scenes:,['scenes/player/engineer/low/3658.vcd']
 Transcription:,You are a coward and a scoundrel!,,Responses:,"['PlayerKilledDominatingSpyEngineer', 'RejectedDuelEngineer']"
 Your Line:,,,Rules:,"['PlayerKilledDominatingSpyEngineer', 'RejectedDuelEngineer']"

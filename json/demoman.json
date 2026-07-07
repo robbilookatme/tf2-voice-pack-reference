@@ -10826,7 +10826,8 @@
             ]
         ],
         "events": [
-            "demoman.specialcompleted04"
+            "demoman.specialcompleted04",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "KilledPlayerManyDemoman"
@@ -10932,7 +10933,8 @@
             ]
         ],
         "events": [
-            "demoman.specialcompleted08"
+            "demoman.specialcompleted08",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "KilledPlayerVeryManyDemoman"

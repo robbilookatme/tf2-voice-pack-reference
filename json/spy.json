@@ -2489,7 +2489,9 @@
         "criteria": [
             [
                 "ConceptPlayerCapturedPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ]
         ],
         "events": [
@@ -2512,7 +2514,9 @@
         "criteria": [
             [
                 "ConceptPlayerCapturedPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ]
         ],
         "events": [
@@ -2535,7 +2539,9 @@
         "criteria": [
             [
                 "ConceptPlayerCapturedPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ]
         ],
         "events": [
@@ -2915,6 +2921,7 @@
         ],
         "events": [
             "spy.battlecry04",
+            "spy_taunt_fauxcolization_b",
             "taunt.luxury_lounge_intro"
         ],
         "responses": [
@@ -5750,7 +5757,8 @@
             ]
         ],
         "events": [
-            "spy.dominationspy03"
+            "spy.dominationspy03",
+            "spy_taunt_fauxcolization_a"
         ],
         "responses": [
             "PlayerKilledDominatingSpySpy"
@@ -7154,12 +7162,14 @@
             "spy.laughevil02",
             "spy_taunt_tailore_terminal_a1_01",
             "spy_taunt_tuefort_tango_a2",
+            "taunt_killer_joke_spy",
             "taunt_spy.disco_fever_middle"
         ],
         "responses": [
             "KilledPlayerManySpy",
             "Taunt: Disco Fever",
             "Taunt: Kazotsky Kick",
+            "Taunt: Killer Joke",
             "Taunt: Tailored Terminal",
             "Taunt: Teufort Tango"
         ],
@@ -7170,6 +7180,7 @@
             "scenes/player/spy/low/1312.vcd",
             "scenes/player/spy/low/taunt_russian.vcd",
             "scenes/workshop/player/spy/low/disco_fever.vcd",
+            "scenes/workshop/player/spy/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a1.vcd"
         ],
@@ -8391,7 +8402,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8429,7 +8442,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8473,7 +8488,9 @@
             ],
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8508,7 +8525,9 @@
             ],
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8547,7 +8566,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8579,7 +8600,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8620,7 +8643,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8655,7 +8680,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -8703,7 +8730,9 @@
         "criteria": [
             [
                 "ConceptPlayerLostPoint",
-                "IsSpy"
+                "IsSpy",
+                "IsNotDisguised",
+                "IsNotCloaked"
             ],
             [
                 "ConceptPlayerNegative",
@@ -13007,22 +13036,6 @@
         "state": "used",
         "transcript": "Here. Keep the change."
     },
-    "sound/vo/taunts/spy/spy_laughevil02.mp3": {
-        "base_name": "spy_laughevil02",
-        "criteria": [],
-        "events": [
-            "taunt_killer_joke_spy"
-        ],
-        "responses": [
-            "Taunt: Killer Joke"
-        ],
-        "rules": [],
-        "scenes": [
-            "scenes/workshop/player/spy/low/taunt_killer_joke.vcd"
-        ],
-        "state": "missing",
-        "transcript": ""
-    },
     "sound/vo/taunts/spy/spy_taunt_bos_int_05.mp3": {
         "base_name": "spy_taunt_bos_int_05",
         "criteria": [],
@@ -13372,16 +13385,19 @@
         "criteria": [],
         "events": [
             "spy_taunt_dosido_end_rand",
+            "taunt.bearhug_spy_d",
             "taunt_yeti_spy"
         ],
         "responses": [
+            "Taunt: Bear Hug",
             "Taunt: Square Dance",
             "Taunt: Yeti Smash"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/spy/low/taunt_dosido_dance01.vcd",
-            "scenes/player/spy/low/yeti_taunt.vcd"
+            "scenes/player/spy/low/yeti_taunt.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd"
         ],
         "state": "used",
         "transcript": "If you speak of this, I will kill you!"
@@ -13794,9 +13810,11 @@
         "criteria": [],
         "events": [
             "spy_taunt_boxtrot_outro",
-            "spy_taunt_flip_random_flipexert"
+            "spy_taunt_flip_random_flipexert",
+            "taunt.bearhug_spy_c"
         ],
         "responses": [
+            "Taunt: Bear Hug",
             "Taunt: Flippin' Awesome",
             "Taunt: The Box Trot"
         ],
@@ -13805,6 +13823,7 @@
             "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd"
         ],
         "state": "used",
@@ -13816,9 +13835,11 @@
         "events": [
             "spy_taunt_boxtrot_outro",
             "spy_taunt_flip_random_flipexert",
-            "spy_taunt_tailore_terminal_intro_grunt"
+            "spy_taunt_tailore_terminal_intro_grunt",
+            "taunt.bearhug_spy_c"
         ],
         "responses": [
+            "Taunt: Bear Hug",
             "Taunt: Flippin' Awesome",
             "Taunt: Tailored Terminal",
             "Taunt: The Box Trot"
@@ -13828,6 +13849,7 @@
             "scenes/player/spy/low/flip_success_initiator0.vcd",
             "scenes/player/spy/low/flip_success_receiver0.vcd",
             "scenes/player/spy/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_spy_boxtrot_outro.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_intro.vcd"
         ],
@@ -14956,9 +14978,11 @@
         "criteria": [],
         "events": [
             "spy_taunt_rps_lose_05",
-            "spy_taunt_the_punchline"
+            "spy_taunt_the_punchline",
+            "taunt.bearhug_spy_d"
         ],
         "responses": [
+            "Taunt: Bear Hug",
             "Taunt: Rock, Paper, Scissors",
             "Taunt: The Punchline"
         ],
@@ -14966,6 +14990,7 @@
         "scenes": [
             "scenes/player/spy/low/taunt_rps_rock_lose.vcd",
             "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
+            "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd"
         ],
         "state": "used",

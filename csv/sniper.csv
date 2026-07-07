@@ -1282,7 +1282,7 @@ Transcription:,"The bullets come outta the slim end, mate!",,Responses:,"['Playe
 Your Line:,,,Rules:,['PlayerKilledDominatingSniperSniper']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSniper', 'IsDominated', 'IsVictimSniper', 'AppliesContext:SniperKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,sniper_dominationsniper19,,Events:,"['sniper.dominationsniper19', 'sniper.taunt_shooter_tutor_vo_1']"
+Filename:,sniper_dominationsniper19,,Events:,"['sniper.dominationsniper19', 'sniper.taunt_shooter_tutor_vo_1', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/sniper_dominationsniper19.mp3,,Scenes:,"['scenes/player/sniper/low/3114.vcd', 'scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd']"
 Transcription:,"Nice try, mate, but I'm the best!",,Responses:,"['PlayerKilledDominatingSniperSniper', 'Taunt: Straight Shooter Tutor']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSniperSniper']
@@ -2170,7 +2170,7 @@ Transcription:,You... are... a... bloody... disgrace.,,Responses:,['PlayerKilled
 Your Line:,,,Rules:,['PlayerKilledForRevengeSniperSniper']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSniper', 'IsRevenge', 'IsVictimSniper', 'AppliesContext:SniperKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,sniper_revenge19,,Events:,['sniper.revenge19']
+Filename:,sniper_revenge19,,Events:,"['sniper.revenge19', 'spy_taunt_fauxcolization_a']"
 Full Path:,sound/vo/sniper_revenge19.mp3,,Scenes:,['scenes/player/sniper/low/2469.vcd']
 Transcription:,"Nothing personal, mate. I'm just better.",,Responses:,['PlayerKilledForRevengeSniperSniper']
 Your Line:,,,Rules:,['PlayerKilledForRevengeSniperSniper']
