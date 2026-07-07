@@ -461,8 +461,8 @@ Your Line:,,,Rules:,['PlayerKilledDominatingHeavyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimHeavy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,engineer_dominationheavy09,,Events:,"['engineer_dominationheavy09', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/engineer_dominationheavy09.mp3,,Scenes:,['scenes/player/engineer/low/3648.vcd']
-Transcription:,And another thing: you're ugly.,,Responses:,['PlayerKilledDominatingHeavyEngineer']
+Full Path:,sound/vo/engineer_dominationheavy09.mp3,,Scenes:,"['scenes/player/engineer/low/3648.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,And another thing: you're ugly.,,Responses:,"['PlayerKilledDominatingHeavyEngineer', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimHeavy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -833,8 +833,8 @@ Your Line:,,,Rules:,['PlayerKilledDominatingSpyEngineer']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimSpy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,engineer_dominationspy11,,Events:,"['engineer_dominationspy11', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/engineer_dominationspy11.mp3,,Scenes:,['scenes/player/engineer/low/3658.vcd']
-Transcription:,You are a coward and a scoundrel!,,Responses:,"['PlayerKilledDominatingSpyEngineer', 'RejectedDuelEngineer']"
+Full Path:,sound/vo/engineer_dominationspy11.mp3,,Scenes:,"['scenes/player/engineer/low/3658.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,You are a coward and a scoundrel!,,Responses:,"['PlayerKilledDominatingSpyEngineer', 'RejectedDuelEngineer', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,"['PlayerKilledDominatingSpyEngineer', 'RejectedDuelEngineer']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsEngineer'], ['ConceptKilledPlayer', 'IsEngineer', 'IsDominated', 'IsVictimSpy', 'AppliesContext:EngineerKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 

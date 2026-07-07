@@ -2725,6 +2725,7 @@
             "PlayerBattleCrySoldier",
             "PlayerKilledObjectSoldier",
             "PlayerRoundStartSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Panzer Pants",
             "Taunt: Star-Spangled Strategy"
         ],
@@ -2736,6 +2737,7 @@
         "scenes": [
             "scenes/player/soldier/low/1055.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -2760,14 +2762,16 @@
         ],
         "responses": [
             "PlayerBattleCrySoldier",
-            "PlayerRoundStartSoldier"
+            "PlayerRoundStartSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "PlayerBattleCrySoldier",
             "PlayerRoundStartSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/1057.vcd"
+            "scenes/player/soldier/low/1057.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Forward!"
@@ -2864,6 +2868,7 @@
         "responses": [
             "PlayerBattleCrySoldier",
             "PlayerRoundStartSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester",
             "Taunt: Panzer Pants",
             "Taunt: Rocket Jockey",
@@ -2878,6 +2883,7 @@
             "scenes/player/soldier/low/1056.vcd",
             "scenes/player/soldier/low/taunt_vehicle_tank.vcd",
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
@@ -4500,6 +4506,7 @@
         ],
         "responses": [
             "KilledPlayerMeleeSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [
@@ -4507,6 +4514,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/3405.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -4530,13 +4538,15 @@
             "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
-            "KilledPlayerMeleeSoldier"
+            "KilledPlayerMeleeSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "KilledPlayerMeleeSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/3406.vcd"
+            "scenes/player/soldier/low/3406.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd"
         ],
         "state": "used",
         "transcript": "Aaaah!!"
@@ -6672,6 +6682,7 @@
         "responses": [
             "MeleeDareSoldier",
             "PlayerGoSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: The High Five!"
         ],
         "rules": [
@@ -6680,7 +6691,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1094.vcd",
-            "scenes/player/soldier/low/taunt_hi5_start.vcd"
+            "scenes/player/soldier/low/taunt_hi5_start.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Let's go!"
@@ -6839,9 +6851,13 @@
             "soldier_hat_taunts19",
             "spy_taunt_fauxcolization_a"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Faux-calization"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
+        ],
         "state": "used",
         "transcript": "Son, your fashion sense has gone AWOL!"
     },
@@ -6942,6 +6958,7 @@
         ],
         "responses": [
             "KilledDemomanSoldier",
+            "Taunt: Faux-calization",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -6949,7 +6966,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/3488.vcd",
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "You were loud and ugly, and now you're DEAD! Amen."
@@ -9384,6 +9402,7 @@
         ],
         "responses": [
             "PlayerKilledDominatingSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics"
         ],
         "rules": [
@@ -9391,7 +9410,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1133.vcd",
-            "scenes/player/soldier/low/taunt_aerobic_a.vcd"
+            "scenes/player/soldier/low/taunt_aerobic_a.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter 1)"
@@ -9416,6 +9436,7 @@
         "responses": [
             "PlayerKilledDominatingSoldier",
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Kazotsky Kick",
             "Taunt: Mannrobics"
         ],
@@ -9426,7 +9447,8 @@
             "scenes/player/soldier/low/1134.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/taunt_russian.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter 2)"
@@ -9457,6 +9479,7 @@
         "responses": [
             "AwardSoldier",
             "PlayerKilledDominatingSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Kazotsky Kick",
             "Taunt: Mannrobics"
         ],
@@ -9467,7 +9490,8 @@
         "scenes": [
             "scenes/player/soldier/low/1347.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
-            "scenes/player/soldier/low/taunt_russian.vcd"
+            "scenes/player/soldier/low/taunt_russian.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd"
         ],
         "state": "used",
         "transcript": "(Happy laughter 3)"
@@ -9634,6 +9658,7 @@
         ],
         "responses": [
             "PlayerTauntsSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics",
             "Taunt: The Final Score",
             "Taunt: The Profane Puppeteer",
@@ -9646,6 +9671,7 @@
             "scenes/player/soldier/low/1137.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/yeti_taunt.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],
@@ -9667,6 +9693,7 @@
         ],
         "responses": [
             "PlayerTauntsSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Commending Clap"
         ],
         "rules": [
@@ -9674,6 +9701,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1138.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd"
         ],
         "state": "used",
@@ -9835,13 +9863,15 @@
             "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
-            "PlayerMoveUpSoldier"
+            "PlayerMoveUpSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "PlayerMoveUpSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/1143.vcd"
+            "scenes/player/soldier/low/1143.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Gear forward!"
@@ -10423,13 +10453,15 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
-            "MvMMoneyPickupSoldier"
+            "MvMMoneyPickupSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "MvMMoneyPickupSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/4269.vcd"
+            "scenes/player/soldier/low/4269.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Mwaha! The spoils of war."
@@ -10474,13 +10506,15 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
-            "MvMUpgradeCompleteSoldier"
+            "MvMUpgradeCompleteSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "MvMUpgradeCompleteSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/4271.vcd"
+            "scenes/player/soldier/low/4271.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Ahhh... Much better."
@@ -10500,13 +10534,15 @@
             "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
-            "MvMUpgradeCompleteSoldier"
+            "MvMUpgradeCompleteSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "MvMUpgradeCompleteSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/4273.vcd"
+            "scenes/player/soldier/low/4273.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Well, back to the front."
@@ -10958,13 +10994,15 @@
             "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
-            "SoldierMvmResurrected"
+            "SoldierMvmResurrected",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "SoldierMvmResurrected"
         ],
         "scenes": [
-            "scenes/player/soldier/low/7319.vcd"
+            "scenes/player/soldier/low/7319.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "TEN HUT!"
@@ -11031,6 +11069,7 @@
         ],
         "responses": [
             "SoldierMvmResurrected",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester"
         ],
         "rules": [
@@ -11038,6 +11077,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/7326.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -11166,11 +11206,13 @@
             "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
-            "Taunt: Bear Hug"
+            "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "I am ready."
@@ -12652,6 +12694,7 @@
         "responses": [
             "PlayerPainSoldier",
             "PlayerStillOnFireSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester"
         ],
         "rules": [
@@ -12661,6 +12704,7 @@
         "scenes": [
             "scenes/player/soldier/low/1168.vcd",
             "scenes/player/soldier/low/1926.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -12683,6 +12727,7 @@
         ],
         "responses": [
             "PlayerPainSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester"
         ],
         "rules": [
@@ -12690,6 +12735,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1169.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -12720,6 +12766,7 @@
         "responses": [
             "PlayerPainSoldier",
             "PlayerStillOnFireSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester",
             "Taunt: The Critical Fail"
         ],
@@ -12730,6 +12777,7 @@
         "scenes": [
             "scenes/player/soldier/low/1170.vcd",
             "scenes/player/soldier/low/1926.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd"
         ],
@@ -12884,6 +12932,7 @@
         ],
         "responses": [
             "PlayerPainSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester"
         ],
         "rules": [
@@ -12891,6 +12940,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1378.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd"
         ],
         "state": "used",
@@ -13026,6 +13076,7 @@
         ],
         "responses": [
             "SoldierTauntPickaxe",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester",
             "Taunt: Neck Snap",
             "Taunt: Yeti Punch"
@@ -13037,6 +13088,7 @@
         "scenes": [
             "scenes/player/soldier/low/taunt05.vcd",
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_intro.vcd"
         ],
@@ -13103,6 +13155,7 @@
             "PlayerKilledObjectSoldier",
             "PlayerPositiveSoldier",
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flying Colors",
             "Taunt: Neck Snap",
             "Taunt: The High Five!"
@@ -13116,6 +13169,7 @@
             "scenes/player/soldier/low/taunt_hi5_a.vcd",
             "scenes/player/soldier/low/taunt_hi5_b.vcd",
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
@@ -14282,6 +14336,7 @@
         ],
         "responses": [
             "SoldierSF13SpellMovementBuff",
+            "Taunt: Buffoon's Bivouac",
             "soldierBigHeadReaction",
             "soldierSmallHeadReaction"
         ],
@@ -14291,7 +14346,8 @@
             "soldierSmallHeadReaction"
         ],
         "scenes": [
-            "scenes/player/soldier/low/4546.vcd"
+            "scenes/player/soldier/low/4546.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Oh, my head!"
@@ -14626,6 +14682,7 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Yeti Smash",
             "soldierGoodMagicReaction"
         ],
@@ -14634,7 +14691,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/4564.vcd",
-            "scenes/player/soldier/low/yeti_taunt.vcd"
+            "scenes/player/soldier/low/yeti_taunt.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd"
         ],
         "state": "used",
         "transcript": "Yaaay!"
@@ -16013,6 +16071,7 @@
         ],
         "responses": [
             "SoldierSF13SpellPickupRare",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: The Scaredy-Cat!"
         ],
         "rules": [
@@ -16020,6 +16079,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/7440.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd"
         ],
         "state": "used",
@@ -16791,6 +16851,7 @@
         ],
         "responses": [
             "KilledPlayerMeleeSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Neck Snap",
             "Taunt: Star-Spangled Strategy"
         ],
@@ -16799,6 +16860,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1185.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
@@ -17917,12 +17979,14 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_success_receiver1.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Done and done!"
@@ -17993,6 +18057,7 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Conga",
             "Taunt: Flippin' Awesome",
             "Taunt: Kazotsky Kick",
@@ -18006,6 +18071,7 @@
             "scenes/player/soldier/low/flip_success_receiver1.vcd",
             "scenes/player/soldier/low/taunt_aerobic_a.vcd",
             "scenes/player/soldier/low/taunt_russian.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
@@ -18021,11 +18087,13 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_success_receiver1.vcd"
+            "scenes/player/soldier/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Stay frosty!"
@@ -18110,12 +18178,14 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/conga.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Oooh, yeah!"
@@ -18221,11 +18291,13 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Conga"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/conga.vcd"
+            "scenes/player/soldier/low/conga.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "[singing] Duh da da da!"
@@ -18353,6 +18425,7 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
@@ -18365,6 +18438,7 @@
             "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
             "scenes/player/soldier/low/yeti_taunt.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -18437,6 +18511,7 @@
             "taunt_yeti_soldier"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
@@ -18450,6 +18525,7 @@
             "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
             "scenes/player/soldier/low/yeti_taunt.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -18607,11 +18683,13 @@
             "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Perfect landing!"
@@ -18640,11 +18718,13 @@
             "taunt_soldier_buffoons_bivouac_end_b"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Perfect landing."
@@ -18708,11 +18788,13 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_dosido_dance01.vcd"
+            "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "Duty and honor."
@@ -18760,6 +18842,7 @@
             "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome",
             "Taunt: Neck Snap"
         ],
@@ -18767,6 +18850,7 @@
         "scenes": [
             "scenes/player/soldier/low/flip_success_initiator0.vcd",
             "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
         ],
         "state": "used",
@@ -18781,12 +18865,14 @@
             "taunt_yetipunch_soldier_intro"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_success_initiator0.vcd",
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd"
         ],
         "state": "used",
         "transcript": "Hut-ta!"
@@ -18799,12 +18885,14 @@
             "taunt_soldier_buffoons_bivouac_action_01"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome",
             "Taunt: Rocket Jockey"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_intro.vcd"
         ],
         "state": "used",
@@ -19065,11 +19153,13 @@
             "taunt_soldier_buffoons_bivouac_action_02"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_headbutt_success.vcd"
+            "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd"
         ],
         "state": "used",
         "transcript": "Ahhhhh!"
@@ -19332,11 +19422,13 @@
             "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_success_initiator1.vcd"
+            "scenes/player/soldier/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Go go go!"
@@ -19368,6 +19460,7 @@
             "taunt_soldier_buffoons_bivouac_end_a"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flippin' Awesome",
             "Taunt: Square Dance",
             "Taunt: The Fist Bump"
@@ -19376,6 +19469,7 @@
         "scenes": [
             "scenes/player/soldier/low/flip_start.vcd",
             "scenes/player/soldier/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd"
         ],
         "state": "used",
@@ -19426,11 +19520,13 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Fresh Brewed Victory"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_coffee.vcd"
+            "scenes/player/soldier/low/taunt_coffee.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "A big cup of kicking your ass!"
@@ -19461,12 +19557,14 @@
             "taunt_soldier_buffoons_bivouac_start"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Fresh Brewed Victory",
             "Taunt: Star-Spangled Strategy"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_coffee.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd"
         ],
         "state": "used",
@@ -20031,14 +20129,16 @@
         ],
         "responses": [
             "KilledPlayerVeryManySoldier",
-            "MeleeDareSoldier"
+            "MeleeDareSoldier",
+            "Taunt: Buffoon's Bivouac"
         ],
         "rules": [
             "KilledPlayerVeryManySoldier",
             "MeleeDareSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/1188.vcd"
+            "scenes/player/soldier/low/1188.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "Time to inform your next of kin!"
@@ -20067,6 +20167,7 @@
         "responses": [
             "AcceptedDuelSoldier",
             "MeleeDareCombatSoldier",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Burstchester",
             "Taunt: The Profane Puppeteer"
         ],
@@ -20076,6 +20177,7 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1190.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd"
         ],

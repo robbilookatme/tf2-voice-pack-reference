@@ -1040,6 +1040,7 @@
             "Taunt: Can It!",
             "Taunt: Flying Colors",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Drunken Sailor",
             "Taunt: The Profane Puppeteer",
             "Taunt: The Punchline",
@@ -1100,6 +1101,7 @@
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/scout/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
@@ -1120,6 +1122,7 @@
         "responses": [
             "Taunt: Flying Colors",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Punchline"
         ],
         "rules": [],
@@ -1174,6 +1177,7 @@
             "scenes/player/soldier/low/taunt_rps_scissors_win.vcd",
             "scenes/player/soldier/low/taunt_rps_scissors_win_noinit.vcd",
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/spy/low/taunt_the_punchline.vcd"
         ],
         "state": "used",
@@ -1967,6 +1971,7 @@
         ],
         "responses": [
             "Taunt: Bare Knuckle Beatdown",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
             "Taunt: Flying Colors",
             "Taunt: Fore-Head Slice",
@@ -1984,6 +1989,7 @@
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors_outro.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors.vcd",
@@ -4921,13 +4927,15 @@
             "pyro_taunt_the_grilled_gunman_draw_default"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Doctor's Defibrillators",
             "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -4951,11 +4959,13 @@
             "weapon_jarate.draw"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Heartbreaker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -5746,9 +5756,13 @@
             "pyro_taunt_friendly_fire_flare_detonator_explode_world",
             "weapon_detonator.detonateworld"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Friendly Fire"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -6158,6 +6172,7 @@
             "weapon_arrow.impactwood"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flying Colors"
         ],
         "rules": [],
@@ -6168,6 +6183,7 @@
             "scenes/workshop/player/medic/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -6180,6 +6196,7 @@
             "weapon_arrow.impactwood"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flying Colors"
         ],
         "rules": [],
@@ -6190,6 +6207,7 @@
             "scenes/workshop/player/medic/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -6202,6 +6220,7 @@
             "weapon_arrow.impactwood"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Flying Colors"
         ],
         "rules": [],
@@ -6212,6 +6231,7 @@
             "scenes/workshop/player/medic/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd"
         ],
         "state": "used",
@@ -7809,9 +7829,13 @@
             "heavy_taunt_the_circuit_breaker_metal_gloves_hit",
             "weapon_metalgloves.hitglove"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -7976,6 +8000,7 @@
             "Taunt: Rock, Paper, Scissors",
             "Taunt: Second Rate Sorcery",
             "Taunt: Straight Shooter Tutor",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Head Doctor",
             "Taunt: Yeti Punch"
         ],
@@ -8035,6 +8060,7 @@
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
@@ -8061,6 +8087,7 @@
             "Taunt: Neck Snap",
             "Taunt: Rock, Paper, Scissors",
             "Taunt: Straight Shooter Tutor",
+            "Taunt: The Circuit Breaker",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
@@ -8119,6 +8146,7 @@
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
@@ -10953,11 +10981,13 @@
             "weapon_slap.draw"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/scout/low/taunt_chairholder.vcd"
+            "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd"
         ],
         "state": "used",
         "transcript": ""

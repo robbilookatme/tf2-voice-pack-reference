@@ -5006,13 +5006,15 @@
             "spy_taunt_fauxcolization_a"
         ],
         "responses": [
-            "PlayerKilledDominatingHeavyEngineer"
+            "PlayerKilledDominatingHeavyEngineer",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledDominatingHeavyEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/3648.vcd"
+            "scenes/player/engineer/low/3648.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "And another thing: you're ugly."
@@ -6692,14 +6694,16 @@
         ],
         "responses": [
             "PlayerKilledDominatingSpyEngineer",
-            "RejectedDuelEngineer"
+            "RejectedDuelEngineer",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledDominatingSpyEngineer",
             "RejectedDuelEngineer"
         ],
         "scenes": [
-            "scenes/player/engineer/low/3658.vcd"
+            "scenes/player/engineer/low/3658.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "You are a coward and a scoundrel!"

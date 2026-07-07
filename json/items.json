@@ -850,11 +850,13 @@
             "pyro_taunt_the_skating_scorcher_para_close"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -867,11 +869,13 @@
             "pyro_taunt_the_skating_scorcher_para_open"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": ""

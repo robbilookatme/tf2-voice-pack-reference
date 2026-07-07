@@ -1065,9 +1065,13 @@
             "heavy_taunt_the_circuit_breaker_mvm_money_pickup",
             "mvm.moneypickup"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -12520,9 +12524,13 @@
             "heavy_taunt_the_circuit_breaker_scout_mvm_m_helpme03",
             "scout.m_mvm_helpme03"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -12917,9 +12925,13 @@
             "heavy_taunt_the_circuit_breaker_scout_mvm_m_jeers09",
             "scout.m_mvm_jeers09"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },

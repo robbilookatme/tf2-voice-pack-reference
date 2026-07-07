@@ -605,8 +605,8 @@ Your Line:,,,Rules:,"['PlayerJeersMedic', 'PlayerSuddenDeathMedic', 'RejectedDue
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsMedic'], ['ConceptPlayerJeers', 'IsMedic'], ['ConceptPlayerSuddenDeathStart', 'IsMedic']]"
 
 Filename:,medic_jeers06,,Events:,"['medic.jeers06', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/medic_jeers06.mp3,,Scenes:,['scenes/player/medic/low/597.vcd']
-Transcription:,You are trying my patience!,,Responses:,"['MeleeDareMedic', 'PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
+Full Path:,sound/vo/medic_jeers06.mp3,,Scenes:,"['scenes/player/medic/low/597.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,You are trying my patience!,,Responses:,"['MeleeDareMedic', 'PlayerJeersMedic', 'PlayerSuddenDeathMedic', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,"['MeleeDareMedic', 'PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
 ,,,Criteria:,"[['ConceptPlayerJeers', 'IsMedic'], ['ConceptPlayerSuddenDeathStart', 'IsMedic'], ['ConceptRequestDuel', 'IsMedic']]"
 
@@ -1043,8 +1043,8 @@ Your Line:,,,Rules:,"['InvulnerableSpeechCombatMedic', 'KilledPlayerMedic', 'Pla
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsMedic', 'IsInvulnerable', 'WeaponIsNotMediGun', 'MedicNotInvulnerableSpeech', 'AppliesContext:MedicInvulnerableSpeech:1:30'], ['ConceptKilledObject', 'IsMedic', '30PercentChance', 'IsARecentKill', 'AppliesContext:MedicKillSpeechObject:1:30'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
 Filename:,medic_specialcompleted08,,Events:,"['medic.specialcompleted08', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/medic_specialcompleted08.mp3,,Scenes:,['scenes/player/medic/low/654.vcd']
-Transcription:,Did ze Fräuleins have zeir Mittelschmerz?,,Responses:,['PlayerKilledObjectMedic']
+Full Path:,sound/vo/medic_specialcompleted08.mp3,,Scenes:,"['scenes/player/medic/low/654.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,Did ze Fräuleins have zeir Mittelschmerz?,,Responses:,"['PlayerKilledObjectMedic', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['PlayerKilledObjectMedic']
 ,,,Criteria:,"[['ConceptKilledObject', 'IsMedic', '30PercentChance', 'IsARecentKill', 'AppliesContext:MedicKillSpeechObject:1:30']]"
 

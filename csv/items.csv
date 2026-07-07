@@ -425,14 +425,14 @@ Your Line:,,,Rules:,[]
 Unused?,,,Criteria:,[]
 
 Filename:,para_close,,Events:,"['parachute_close', 'pyro_taunt_the_skating_scorcher_para_close']"
-Full Path:,sound/items/para_close.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd']
-Transcription:,,,Responses:,['Taunt: The Skating Scorcher']
+Full Path:,sound/items/para_close.wav,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd']"
+Transcription:,,,Responses:,"[""Taunt: Buffoon's Bivouac"", 'Taunt: The Skating Scorcher']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,para_open,,Events:,"['parachute_open', 'pyro_taunt_the_skating_scorcher_para_open']"
-Full Path:,sound/items/para_open.wav,,Scenes:,['scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd']
-Transcription:,,,Responses:,['Taunt: The Skating Scorcher']
+Full Path:,sound/items/para_open.wav,,Scenes:,"['scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd']"
+Transcription:,,,Responses:,"[""Taunt: Buffoon's Bivouac"", 'Taunt: The Skating Scorcher']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

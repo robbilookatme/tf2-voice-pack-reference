@@ -107,8 +107,8 @@ Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy']]"
 
 Filename:,spy_battlecry04,,Events:,"['spy.battlecry04', 'spy_taunt_fauxcolization_b', 'taunt.luxury_lounge_intro']"
-Full Path:,sound/vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/707.vcd', 'scenes/player/spy/low/taunt01_v5.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
-Transcription:,Ahem...,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle', 'Taunt: Luxury Lounge']"
+Full Path:,sound/vo/spy_battlecry04.mp3,,Scenes:,"['scenes/player/spy/low/707.vcd', 'scenes/player/spy/low/taunt01_v5.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd', 'scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd']"
+Transcription:,Ahem...,,Responses:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPrimary', 'SpyTauntSpycicle', 'Taunt: Faux-calization', 'Taunt: Luxury Lounge']"
 Your Line:,,,Rules:,"['PlayerBattleCrySpy', 'PlayerRoundStartSpy', 'SpyTauntPlayerPrimary', 'SpyTauntSpycicle']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsSpy'], ['ConceptPlayerRoundStart', 'IsSpy'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsRevolver'], ['ConceptPlayerTaunt', 'IsSpy', 'WeaponIsSpycicle']]"
 
@@ -731,8 +731,8 @@ Your Line:,,,Rules:,['PlayerKilledDominatingSpySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSpy', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,spy_dominationspy03,,Events:,"['spy.dominationspy03', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/spy_dominationspy03.mp3,,Scenes:,['scenes/player/spy/low/3059.vcd']
-Transcription:,You are an amateur and a fool!,,Responses:,['PlayerKilledDominatingSpySpy']
+Full Path:,sound/vo/spy_dominationspy03.mp3,,Scenes:,"['scenes/player/spy/low/3059.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,You are an amateur and a fool!,,Responses:,"['PlayerKilledDominatingSpySpy', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['PlayerKilledDominatingSpySpy']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSpy', 'IsDominated', 'IsVictimSpy', 'AppliesContext:SpyKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 

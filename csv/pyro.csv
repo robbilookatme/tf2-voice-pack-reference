@@ -203,8 +203,8 @@ Your Line:,,,Rules:,['PlayerTeleporterHerePyro']
 ,,,Criteria:,"[['ConceptPlayerTeleporterHere', 'IsPyro']]"
 
 Filename:,pyro_negativevocalization01,,Events:,"['pyro.negativevocalization01', 'pyro.scardy_cat_b', 'pyro_taunt_neck_snap_04', 'taunt_burstchester_pyro_happy']"
-Full Path:,sound/vo/pyro_negativevocalization01.mp3,,Scenes:,"['scenes/player/pyro/low/1499.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd']"
-Transcription:,Eeuaghafvada...,,Responses:,"['MeleeDarePyro', 'PlayerLostPointPyro', 'PlayerNegativePyro', 'Taunt: Burstchester', 'Taunt: Neck Snap', 'Taunt: The Critical Fail', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
+Full Path:,sound/vo/pyro_negativevocalization01.mp3,,Scenes:,"['scenes/player/pyro/low/1499.vcd', 'scenes/workshop/player/pyro/low/taunt_burstchester.vcd', 'scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd', 'scenes/workshop/player/pyro/low/taunt_neck_snap.vcd', 'scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd', 'scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd', 'scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd']"
+Transcription:,Eeuaghafvada...,,Responses:,"['MeleeDarePyro', 'PlayerLostPointPyro', 'PlayerNegativePyro', 'Taunt: Burstchester', 'Taunt: Friendly Fire', 'Taunt: Neck Snap', 'Taunt: The Critical Fail', 'Taunt: The Scaredy-Cat!', 'Taunt: Unleashed Rage']"
 Your Line:,,,Rules:,"['MeleeDarePyro', 'PlayerLostPointPyro', 'PlayerNegativePyro']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsPyro'], ['ConceptPlayerNegative', 'IsPyro'], ['ConceptRequestDuel', 'IsPyro']]"
 
@@ -335,8 +335,8 @@ Your Line:,,,Rules:,"['KilledPlayerAssistAutoPyro', 'KilledPlayerAssistPyro', 'M
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsPyro', 'IsBeingHealed', 'IsManyRecentKills', 'KilledPlayerDelay', '20PercentChance', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20'], ['ConceptPlayerThanks', 'IsPyro', 'IsARecentKill', 'KilledPlayerDelay', 'PyroNotAssistSpeech', 'AppliesContext:PyroAssistSpeech:1:20'], ['ConceptRequestDuel', 'IsPyro']]"
 
 Filename:,pyro_specialcompleted01,,Events:,"['pyro.specialcompleted01', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/pyro_specialcompleted01.mp3,,Scenes:,['scenes/player/pyro/low/1517.vcd']
-Transcription:,Mhhph mh mh mhhp mh mhp mhpph mhhpp!,,Responses:,"['InvulnerableSpeechPyro', 'MeleeDareCombatPyro']"
+Full Path:,sound/vo/pyro_specialcompleted01.mp3,,Scenes:,"['scenes/player/pyro/low/1517.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,Mhhph mh mh mhhp mh mhp mhpph mhhpp!,,Responses:,"['InvulnerableSpeechPyro', 'MeleeDareCombatPyro', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,"['InvulnerableSpeechPyro', 'MeleeDareCombatPyro']"
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsPyro', 'IsInvulnerable', 'PyroNotInvulnerableSpeech', 'AppliesContext:PyroInvulnerableSpeech:1:30'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsPyro', 'IsCrosshairEnemy']]"
 
@@ -635,8 +635,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_exert_12,,Events:,"['pyro_taunt_headbutt_success_exert', 'pyro_taunt_roasty_toasty_exert']"
-Full Path:,sound/vo/taunts/pyro/pyro_taunt_exert_12.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_yetipunch.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
-Transcription:,Huhyah!,,Responses:,"['Taunt: Roasty Toasty', 'Taunt: Yeti Punch']"
+Full Path:,sound/vo/taunts/pyro/pyro_taunt_exert_12.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_yetipunch.vcd', 'scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd', 'scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd']"
+Transcription:,Huhyah!,,Responses:,"['Taunt: Friendly Fire', 'Taunt: Roasty Toasty', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -785,8 +785,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,pyro_taunt_head_pain_04,,Events:,"['pyro_taunt_headbutt_success_exert', 'pyro_taunt_spring_rider_pyro_taunt_head_pain_04']"
-Full Path:,sound/vo/taunts/pyro/pyro_taunt_head_pain_04.mp3,,Scenes:,['scenes/player/pyro/low/taunt_yetipunch.vcd']
-Transcription:,Ow!,,Responses:,['Taunt: Yeti Punch']
+Full Path:,sound/vo/taunts/pyro/pyro_taunt_head_pain_04.mp3,,Scenes:,"['scenes/player/pyro/low/taunt_yetipunch.vcd', 'scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd']"
+Transcription:,Ow!,,Responses:,"['Taunt: Friendly Fire', 'Taunt: Yeti Punch']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

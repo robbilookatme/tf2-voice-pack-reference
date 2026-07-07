@@ -1291,6 +1291,7 @@
             "PlayerLostPointPyro",
             "PlayerNegativePyro",
             "Taunt: Burstchester",
+            "Taunt: Friendly Fire",
             "Taunt: Neck Snap",
             "Taunt: The Critical Fail",
             "Taunt: The Scaredy-Cat!",
@@ -1304,6 +1305,7 @@
         "scenes": [
             "scenes/player/pyro/low/1499.vcd",
             "scenes/workshop/player/pyro/low/taunt_burstchester.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
@@ -2286,14 +2288,16 @@
         ],
         "responses": [
             "InvulnerableSpeechPyro",
-            "MeleeDareCombatPyro"
+            "MeleeDareCombatPyro",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "InvulnerableSpeechPyro",
             "MeleeDareCombatPyro"
         ],
         "scenes": [
-            "scenes/player/pyro/low/1517.vcd"
+            "scenes/player/pyro/low/1517.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!"
@@ -3159,12 +3163,14 @@
             "pyro_taunt_roasty_toasty_exert"
         ],
         "responses": [
+            "Taunt: Friendly Fire",
             "Taunt: Roasty Toasty",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd"
         ],
         "state": "used",
@@ -3807,11 +3813,13 @@
             "pyro_taunt_spring_rider_pyro_taunt_head_pain_04"
         ],
         "responses": [
+            "Taunt: Friendly Fire",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_yetipunch.vcd"
+            "scenes/player/pyro/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd"
         ],
         "state": "used",
         "transcript": "Ow!"

@@ -887,8 +887,8 @@ Your Line:,,,Rules:,['PlayerKilledDominatingScoutScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimScout', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
 Filename:,scout_domination08,,Events:,"['scout.domination08', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/scout_domination08.mp3,,Scenes:,['scenes/player/scout/low/2646.vcd']
-Transcription:,"Drink it in, pal. That's how failure tastes.",,Responses:,['PlayerKilledDominatingHeavyScout']
+Full Path:,sound/vo/scout_domination08.mp3,,Scenes:,"['scenes/player/scout/low/2646.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,"Drink it in, pal. That's how failure tastes.",,Responses:,"['PlayerKilledDominatingHeavyScout', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimHeavy', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -953,8 +953,8 @@ Your Line:,,,Rules:,[]
 Missing?,,,Criteria:,[]
 
 Filename:,scout_domination19,,Events:,"['scout.domination19', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/scout_domination19.mp3,,Scenes:,['scenes/player/scout/low/2554.vcd']
-Transcription:,"Yeah, I dare ya, rage quit. C'mon, make us both happy.",,Responses:,"['KilledPlayerMeleeFishScout', 'PlayerKilledDominatingScoutScout', 'RejectedDuelScout']"
+Full Path:,sound/vo/scout_domination19.mp3,,Scenes:,"['scenes/player/scout/low/2554.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,"Yeah, I dare ya, rage quit. C'mon, make us both happy.",,Responses:,"['KilledPlayerMeleeFishScout', 'PlayerKilledDominatingScoutScout', 'RejectedDuelScout', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,"['KilledPlayerMeleeFestiveFishScout', 'KilledPlayerMeleeFishScout', 'KilledPlayerMeleeGunbaiScout', 'KilledPlayerMeleeSaxxyScout', 'PlayerKilledDominatingScoutScout', 'RejectedDuelScout']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsScout'], ['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimScout', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsFestiveHolyMackerel', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsGunbai', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsHolyMackerel', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsSaxxy', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10']]"
 

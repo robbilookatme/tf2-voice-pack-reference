@@ -497,8 +497,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,mvm_money_pickup,,Events:,"['heavy_taunt_the_circuit_breaker_mvm_money_pickup', 'mvm.moneypickup']"
-Full Path:,sound/mvm/mvm_money_pickup.wav,,Scenes:,[]
-Transcription:,,,Responses:,[]
+Full Path:,sound/mvm/mvm_money_pickup.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd']
+Transcription:,,,Responses:,['Taunt: The Circuit Breaker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -6215,8 +6215,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_mvm_m_helpme03,,Events:,"['heavy_taunt_the_circuit_breaker_scout_mvm_m_helpme03', 'scout.m_mvm_helpme03']"
-Full Path:,sound/vo/mvm/mght/scout_mvm_m_helpme03.mp3,,Scenes:,[]
-Transcription:,,,Responses:,[]
+Full Path:,sound/vo/mvm/mght/scout_mvm_m_helpme03.mp3,,Scenes:,['scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd']
+Transcription:,,,Responses:,['Taunt: The Circuit Breaker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -6413,8 +6413,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,scout_mvm_m_jeers09,,Events:,"['heavy_taunt_the_circuit_breaker_scout_mvm_m_jeers09', 'scout.m_mvm_jeers09']"
-Full Path:,sound/vo/mvm/mght/scout_mvm_m_jeers09.mp3,,Scenes:,[]
-Transcription:,,,Responses:,[]
+Full Path:,sound/vo/mvm/mght/scout_mvm_m_jeers09.mp3,,Scenes:,['scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd']
+Transcription:,,,Responses:,['Taunt: The Circuit Breaker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

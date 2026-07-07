@@ -8125,13 +8125,15 @@
             "spy_taunt_fauxcolization_a"
         ],
         "responses": [
-            "PlayerKilledDominatingHeavyScout"
+            "PlayerKilledDominatingHeavyScout",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledDominatingHeavyScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2646.vcd"
+            "scenes/player/scout/low/2646.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "Drink it in, pal. That's how failure tastes."
@@ -8448,7 +8450,8 @@
         "responses": [
             "KilledPlayerMeleeFishScout",
             "PlayerKilledDominatingScoutScout",
-            "RejectedDuelScout"
+            "RejectedDuelScout",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "KilledPlayerMeleeFestiveFishScout",
@@ -8459,7 +8462,8 @@
             "RejectedDuelScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2554.vcd"
+            "scenes/player/scout/low/2554.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "Yeah, I dare ya, rage quit. C'mon, make us both happy."

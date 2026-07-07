@@ -2929,6 +2929,7 @@
             "PlayerRoundStartSpy",
             "SpyTauntPrimary",
             "SpyTauntSpycicle",
+            "Taunt: Faux-calization",
             "Taunt: Luxury Lounge"
         ],
         "rules": [
@@ -2940,6 +2941,7 @@
         "scenes": [
             "scenes/player/spy/low/707.vcd",
             "scenes/player/spy/low/taunt01_v5.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
@@ -5761,13 +5763,15 @@
             "spy_taunt_fauxcolization_a"
         ],
         "responses": [
-            "PlayerKilledDominatingSpySpy"
+            "PlayerKilledDominatingSpySpy",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledDominatingSpySpy"
         ],
         "scenes": [
-            "scenes/player/spy/low/3059.vcd"
+            "scenes/player/spy/low/3059.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "You are an amateur and a fool!"

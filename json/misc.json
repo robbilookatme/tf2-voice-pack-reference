@@ -1029,9 +1029,13 @@
         "events": [
             "heavy_taunt_the_circuit_breaker_spark3"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },
@@ -1045,10 +1049,12 @@
             "medic.taunt_doctors_defibrillators_spark"
         ],
         "responses": [
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: The Circuit Breaker"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "missing",
@@ -1064,10 +1070,12 @@
             "medic.taunt_doctors_defibrillators_spark"
         ],
         "responses": [
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: The Circuit Breaker"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "missing",
@@ -18554,6 +18562,7 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Fore-Head Slice",
             "Taunt: Teufort Tango",
             "Taunt: The Critical Fail",
@@ -18563,6 +18572,7 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_critical_fail.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/spy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
@@ -18610,6 +18620,8 @@
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Faux-calization",
+            "Taunt: Friendly Fire",
             "Taunt: Healthcare Hog",
             "Taunt: Killer Joke",
             "Taunt: Neck Snap",
@@ -18666,6 +18678,7 @@
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
@@ -18694,6 +18707,7 @@
             "scenes/workshop/player/soldier/low/taunt_the_profane_puppeteer.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/spy/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/spy/low/taunt_the_travel_agent.vcd",
@@ -18867,6 +18881,7 @@
             "spy_taunt_tuefort_tango_cyoa_pda_equipment"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Fore-Head Slice",
             "Taunt: Mourning Mercs",
@@ -18891,6 +18906,7 @@
             "scenes/workshop/player/demoman/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/workshop/player/heavy/low/taunt_peace.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
@@ -19090,6 +19106,7 @@
             "scout_taunt_the_killer_signature_cyoa_pda_swipe"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
             "Taunt: Cheers!",
             "Taunt: Tailored Terminal",
@@ -19104,6 +19121,7 @@
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
@@ -19448,6 +19466,7 @@
         ],
         "responses": [
             "Taunt: Bad Pipes",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
             "Taunt: Curtain Call",
             "Taunt: Fore-Head Slice",
@@ -19457,6 +19476,7 @@
             "Taunt: Star-Spangled Strategy",
             "Taunt: Texan Trickshot",
             "Taunt: Texas Twirl 'Em",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Final Score",
             "Taunt: The Head Doctor"
         ],
@@ -19488,6 +19508,7 @@
             "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/workshop/player/heavy/low/taunt_peace.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/heavy/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/medic/low/taunt_peace.vcd",
             "scenes/workshop/player/medic/low/taunt_the_final_score.vcd",
@@ -19495,6 +19516,7 @@
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/scout/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
@@ -19529,6 +19551,7 @@
         ],
         "responses": [
             "Taunt: Bad Pipes",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Curtain Call",
             "Taunt: Flying Colors",
             "Taunt: Fore-Head Slice",
@@ -19540,6 +19563,7 @@
             "Taunt: Texan Trickshot",
             "Taunt: Texas Twirl 'Em",
             "Taunt: The Boston Boarder",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Final Score",
             "Taunt: The Head Doctor",
             "Taunt: The Headcase",
@@ -19572,6 +19596,7 @@
             "scenes/workshop/player/demoman/low/true_scotsmans_call.vcd",
             "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
             "scenes/workshop/player/medic/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
@@ -19580,6 +19605,7 @@
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd",
             "scenes/workshop/player/sniper/low/taunt_peace.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
@@ -19615,6 +19641,7 @@
         "responses": [
             "Taunt: Bad Pipes",
             "Taunt: Borrowed Bones",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Curtain Call",
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
@@ -19663,6 +19690,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_outro.vcd",
             "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd"
@@ -19693,6 +19721,7 @@
         ],
         "responses": [
             "Taunt: Bad Pipes",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
             "Taunt: Flying Colors",
             "Taunt: Fore-Head Slice",
@@ -19748,6 +19777,7 @@
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd",
             "scenes/workshop/player/sniper/low/taunt_peace.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
@@ -21830,9 +21860,13 @@
             "heavy_taunt_the_circuit_breaker_spy_shield_break",
             "player.spy_shield_break"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -21955,6 +21989,7 @@
         ],
         "responses": [
             "DemomanTauntMelee",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Cheers!",
             "Taunt: Shooter's Stakeout",
             "Taunt: The Drunken Sailor",
@@ -21973,6 +22008,8 @@
             "scenes/workshop/player/heavy/low/taunt_cheers.vcd",
             "scenes/workshop/player/sniper/low/taunt_cheers.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd"
         ],
         "state": "used",
@@ -22716,10 +22753,12 @@
             "SoldierTauntPrimary",
             "Taunt: Bad Pipes",
             "Taunt: Borrowed Bones",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
             "Taunt: Crushing Defeat",
             "Taunt: Curtain Call",
+            "Taunt: Faux-calization",
             "Taunt: Flippin' Awesome",
             "Taunt: Heartbreaker",
             "Taunt: Killer Joke",
@@ -22862,6 +22901,9 @@
             "scenes/workshop/player/sniper/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
             "scenes/workshop/player/soldier/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
@@ -22876,6 +22918,7 @@
             "scenes/workshop/player/spy/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/spy/low/taunt_cheers.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/spy/low/taunt_peace.vcd",
@@ -22982,10 +23025,12 @@
             "SoldierTauntMelee",
             "SoldierTauntPrimary",
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
             "Taunt: Cremators Condolences",
+            "Taunt: Faux-calization",
             "Taunt: Flying Colors",
             "Taunt: Foul Play",
             "Taunt: Healthcare Hog",
@@ -23108,6 +23153,8 @@
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap.vcd",
@@ -23115,6 +23162,7 @@
             "scenes/workshop/player/soldier/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/spy/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/spy/low/taunt_cheers.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_flying_colors_outro.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
@@ -23190,14 +23238,17 @@
             "SoldierTauntPickaxe",
             "SoldierTauntSecondary",
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
             "Taunt: Chairholder",
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
             "Taunt: Cremators Condolences",
             "Taunt: Curtain Call",
+            "Taunt: Faux-calization",
             "Taunt: Flippin' Awesome",
             "Taunt: Foul Play",
+            "Taunt: Friendly Fire",
             "Taunt: Heartbreaker",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
@@ -23313,6 +23364,7 @@
             "scenes/workshop/player/pyro/low/taunt_cheers.vcd",
             "scenes/workshop/player/pyro/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/pyro/low/taunt_cremators_condolences.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
@@ -23352,6 +23404,10 @@
             "scenes/workshop/player/sniper/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
@@ -23369,6 +23425,7 @@
             "scenes/workshop/player/spy/low/taunt_cheers.vcd",
             "scenes/workshop/player/spy/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/spy/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
@@ -23428,6 +23485,7 @@
             "taunt.demostaggerslosh2"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Scotsmann's Stagger",
             "Taunt: The Drunken Sailor",
             "Taunt: The Pooped Deck"
@@ -23436,7 +23494,8 @@
         "scenes": [
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
-            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd"
+            "scenes/workshop/player/demoman/low/taunt_the_pooped_deck_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd"
         ],
         "state": "used",
         "transcript": "[beer slosh 2]"
@@ -23468,11 +23527,13 @@
             "taunt.demostaggerslosh4"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Scotsmann's Stagger"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd"
+            "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd"
         ],
         "state": "used",
         "transcript": "[beer slosh 4]"
@@ -24090,6 +24151,7 @@
             "Taunt: Can It!",
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
+            "Taunt: Friendly Fire",
             "Taunt: Neck Snap",
             "Taunt: Peace!",
             "Taunt: Roar O'War",
@@ -24120,6 +24182,7 @@
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
             "scenes/workshop/player/pyro/low/taunt_cheers.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd",
@@ -24180,6 +24243,7 @@
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Flippin' Awesome",
             "Taunt: Flying Colors",
+            "Taunt: Friendly Fire",
             "Taunt: Mourning Mercs",
             "Taunt: Neck Snap",
             "Taunt: Peace!",
@@ -24231,6 +24295,7 @@
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
@@ -24370,6 +24435,7 @@
             "SoldierTauntMelee",
             "SoldierTauntPickaxe",
             "SoldierTauntPrimary",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
             "Taunt: Cheers!",
             "Taunt: Commending Clap",
@@ -24443,6 +24509,7 @@
             "scenes/workshop/player/scout/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
             "scenes/workshop/player/sniper/low/taunt_cheers.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
@@ -25274,6 +25341,7 @@
             "Taunt: Commending Clap",
             "Taunt: Cremators Condolences",
             "Taunt: Drunk Mann's Cannon",
+            "Taunt: Faux-calization",
             "Taunt: Flippin' Awesome",
             "Taunt: Heartbreaker",
             "Taunt: Killer Joke",
@@ -25442,6 +25510,7 @@
             "scenes/workshop/player/soldier/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/spy/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd",
             "scenes/workshop/player/spy/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/spy/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/spy/low/taunt_the_critical_fail.vcd",
@@ -26803,12 +26872,14 @@
             "taunt.luxuryloungegetup"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Luxury Lounge",
             "Taunt: The Homerunner's Hobby"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
             "scenes/workshop/player/spy/low/taunt_luxury_lounge_outro.vcd"
         ],
         "state": "used",
@@ -26822,6 +26893,7 @@
             "taunt.luxuryloungesip"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Cheers!",
             "Taunt: Luxury Lounge",
             "Taunt: Shooter's Stakeout",
@@ -26832,6 +26904,9 @@
             "scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd",
             "scenes/workshop/player/sniper/low/taunt_cheers.vcd",
             "scenes/workshop/player/sniper/low/tauntshooters_stakeout.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/spy/low/taunt_cheers.vcd",
             "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
@@ -26845,12 +26920,15 @@
             "taunt.luxuryloungesit"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
             "Taunt: Luxury Lounge"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/scout/low/taunt_chairholder_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/spy/low/taunt_luxury_lounge.vcd"
         ],
         "state": "used",
@@ -26883,9 +26961,13 @@
             "pyro_taunt_friendly_fire_taunt_machete_draw",
             "taunt.sniper03macheteunsheath"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Friendly Fire"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -27162,11 +27244,13 @@
             "taunt.mopedstarthandlegrab"
         ],
         "responses": [
+            "Taunt: Friendly Fire",
             "Taunt: The Scooty Scoot"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/taunt_vehicle_moped.vcd"
+            "scenes/player/scout/low/taunt_vehicle_moped.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -29554,6 +29638,7 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Peace!",
             "Taunt: Ring King",
             "Taunt: Texas Twirl 'Em"
@@ -29564,7 +29649,8 @@
             "scenes/workshop/player/engineer/low/taunt_texas_twirl_em.vcd",
             "scenes/workshop/player/heavy/low/taunt_peace.vcd",
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
-            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": "[chest hit 7]"
@@ -30648,12 +30734,14 @@
             "taunt.yetistandeepyroequipment"
         ],
         "responses": [
+            "Taunt: Friendly Fire",
             "Taunt: Scorcher's Solo",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/pyro/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd"
         ],
         "state": "used",
@@ -30912,6 +31000,7 @@
         ],
         "responses": [
             "Taunt: Bear Hug",
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Killer Joke",
             "Taunt: Neck Snap",
             "Taunt: Unleashed Rage",
@@ -30921,6 +31010,7 @@
         "scenes": [
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd",
             "scenes/workshop/player/soldier/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd"
@@ -30988,12 +31078,14 @@
             "taunt.yetistandeesoldierstep"
         ],
         "responses": [
+            "Taunt: Friendly Fire",
             "Taunt: Unleashed Rage",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd"
         ],
         "state": "used",
@@ -33253,13 +33345,15 @@
             "scout_taunt_the_homerunners_hobby_item_hat_drop"
         ],
         "responses": [
+            "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
             "Taunt: The Homerunner's Hobby"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
-            "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd"
+            "scenes/workshop/player/scout/low/taunt_the_homerunners_hobby.vcd",
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -33437,9 +33531,13 @@
         "events": [
             "heavy_taunt_the_circuit_breaker_item_metal_scrap_drop"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },

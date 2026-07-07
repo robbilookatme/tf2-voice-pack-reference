@@ -1403,8 +1403,8 @@ Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_specialcompleted04,,Events:,"['demoman.specialcompleted04', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/demoman_specialcompleted04.mp3,,Scenes:,['scenes/player/demoman/low/1000.vcd']
-Transcription:,"How's that feel, ya blockhead?",,Responses:,['KilledPlayerManyDemoman']
+Full Path:,sound/vo/demoman_specialcompleted04.mp3,,Scenes:,"['scenes/player/demoman/low/1000.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,"How's that feel, ya blockhead?",,Responses:,"['KilledPlayerManyDemoman', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['KilledPlayerManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
@@ -1427,8 +1427,8 @@ Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
 Filename:,demoman_specialcompleted08,,Events:,"['demoman.specialcompleted08', 'spy_taunt_fauxcolization_a']"
-Full Path:,sound/vo/demoman_specialcompleted08.mp3,,Scenes:,['scenes/player/demoman/low/1004.vcd']
-Transcription:,Let that be a bloody lesson to yeh!,,Responses:,['KilledPlayerVeryManyDemoman']
+Full Path:,sound/vo/demoman_specialcompleted08.mp3,,Scenes:,"['scenes/player/demoman/low/1004.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
+Transcription:,Let that be a bloody lesson to yeh!,,Responses:,"['KilledPlayerVeryManyDemoman', 'Taunt: Faux-calization']"
 Your Line:,,,Rules:,['KilledPlayerVeryManyDemoman']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponSecondary', 'KilledPlayerDelay', 'DemomanNotKillSpeech', 'IsDemoman', 'AppliesContext:DemomanKillSpeech:1:10']]"
 
@@ -2525,8 +2525,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,taunt_demo_nuke_2_grenade_open,,Events:,['taunt_demo_nuke_2_grenade_open']
-Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/soldier/low/taunt_cheers.vcd']"
-Transcription:,[cracks open grenade],,Responses:,"['Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", 'Taunt: Spent Well Spirits']"
+Full Path:,sound/vo/taunts/demo/taunt_demo_nuke_2_grenade_open.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_nuke.vcd', 'scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac.vcd', 'scenes/workshop/player/soldier/low/taunt_cheers.vcd']"
+Transcription:,[cracks open grenade],,Responses:,"[""Taunt: Buffoon's Bivouac"", 'Taunt: Cheers!', ""Taunt: Dead Mann's Drink"", 'Taunt: Spent Well Spirits']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

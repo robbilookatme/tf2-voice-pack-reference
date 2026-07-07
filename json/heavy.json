@@ -3012,9 +3012,13 @@
         "events": [
             "heavy_taunt_the_circuit_breaker_heavy_battlecry03"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: The Circuit Breaker"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },
@@ -5562,14 +5566,16 @@
         ],
         "responses": [
             "PlayerKilledDominatingHeavy",
-            "RejectedDuelHeavy"
+            "RejectedDuelHeavy",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledDominatingHeavy",
             "RejectedDuelHeavy"
         ],
         "scenes": [
-            "scenes/player/heavy/low/2103.vcd"
+            "scenes/player/heavy/low/2103.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "The burning you feel? It is shame."
@@ -12581,13 +12587,15 @@
             "spy_taunt_fauxcolization_a"
         ],
         "responses": [
-            "PlayerKilledForRevengeHeavy"
+            "PlayerKilledForRevengeHeavy",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledForRevengeHeavy"
         ],
         "scenes": [
-            "scenes/player/heavy/low/2108.vcd"
+            "scenes/player/heavy/low/2108.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "Did you think I would forget you?!"

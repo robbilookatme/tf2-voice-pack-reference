@@ -3773,7 +3773,8 @@
         "responses": [
             "MeleeDareMedic",
             "PlayerJeersMedic",
-            "PlayerSuddenDeathMedic"
+            "PlayerSuddenDeathMedic",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "MeleeDareMedic",
@@ -3781,7 +3782,8 @@
             "PlayerSuddenDeathMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/597.vcd"
+            "scenes/player/medic/low/597.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "You are trying my patience!"
@@ -9510,13 +9512,15 @@
             "spy_taunt_fauxcolization_a"
         ],
         "responses": [
-            "PlayerKilledObjectMedic"
+            "PlayerKilledObjectMedic",
+            "Taunt: Faux-calization"
         ],
         "rules": [
             "PlayerKilledObjectMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/654.vcd"
+            "scenes/player/medic/low/654.vcd",
+            "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
         "transcript": "Did ze Fr\u00e4uleins have zeir Mittelschmerz?"
