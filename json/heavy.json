@@ -2982,6 +2982,7 @@
         "events": [
             "heavy.battlecry03",
             "heavy_soviet_showoff_03",
+            "heavy_taunt_the_circuit_breaker_heavy_battlecry03",
             "taunt_heavy_aerobic_flex"
         ],
         "responses": [
@@ -2989,6 +2990,7 @@
             "PlayerBattleCryHeavy",
             "PlayerRoundStartHeavy",
             "Taunt: Mannrobics",
+            "Taunt: The Circuit Breaker",
             "Taunt: The Proletariat Posedown"
         ],
         "rules": [
@@ -3001,26 +3003,11 @@
             "scenes/player/heavy/low/attackminigun01.vcd",
             "scenes/player/heavy/low/attackminigun_vocal02.vcd",
             "scenes/player/heavy/low/taunt_aerobic_b.vcd",
-            "scenes/workshop/player/heavy/low/taunt_soviet_showoff.vcd"
+            "scenes/workshop/player/heavy/low/taunt_soviet_showoff.vcd",
+            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
         ],
         "state": "used",
         "transcript": "Raaaaaaaaagh!"
-    },
-    "sound/vo/heavy_battlecry03.wav": {
-        "base_name": "heavy_battlecry03",
-        "criteria": [],
-        "events": [
-            "heavy_taunt_the_circuit_breaker_heavy_battlecry03"
-        ],
-        "responses": [
-            "Taunt: The Circuit Breaker"
-        ],
-        "rules": [],
-        "scenes": [
-            "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd"
-        ],
-        "state": "missing",
-        "transcript": ""
     },
     "sound/vo/heavy_battlecry04.mp3": {
         "base_name": "heavy_battlecry04",

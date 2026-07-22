@@ -214,17 +214,11 @@ Transcription:,"Run, cowards!",,Responses:,"['PlayerBattleCryHeavy', 'PlayerRoun
 Your Line:,,,Rules:,"['PlayerBattleCryHeavy', 'PlayerRoundStartHeavy']"
 ,,,Criteria:,"[['ConceptPlayerBattleCry', 'IsHeavy'], ['ConceptPlayerRoundStart', 'IsHeavy']]"
 
-Filename:,heavy_battlecry03,,Events:,"['heavy.battlecry03', 'heavy_soviet_showoff_03', 'taunt_heavy_aerobic_flex']"
-Full Path:,sound/vo/heavy_battlecry03.mp3,,Scenes:,"['scenes/player/heavy/low/207.vcd', 'scenes/player/heavy/low/attackminigun01.vcd', 'scenes/player/heavy/low/attackminigun_vocal02.vcd', 'scenes/player/heavy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_showoff.vcd']"
-Transcription:,Raaaaaaaaagh!,,Responses:,"['HeavyTimeFiringMinigunShort', 'PlayerBattleCryHeavy', 'PlayerRoundStartHeavy', 'Taunt: Mannrobics', 'Taunt: The Proletariat Posedown']"
+Filename:,heavy_battlecry03,,Events:,"['heavy.battlecry03', 'heavy_soviet_showoff_03', 'heavy_taunt_the_circuit_breaker_heavy_battlecry03', 'taunt_heavy_aerobic_flex']"
+Full Path:,sound/vo/heavy_battlecry03.mp3,,Scenes:,"['scenes/player/heavy/low/207.vcd', 'scenes/player/heavy/low/attackminigun01.vcd', 'scenes/player/heavy/low/attackminigun_vocal02.vcd', 'scenes/player/heavy/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/heavy/low/taunt_soviet_showoff.vcd', 'scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd']"
+Transcription:,Raaaaaaaaagh!,,Responses:,"['HeavyTimeFiringMinigunShort', 'PlayerBattleCryHeavy', 'PlayerRoundStartHeavy', 'Taunt: Mannrobics', 'Taunt: The Circuit Breaker', 'Taunt: The Proletariat Posedown']"
 Your Line:,,,Rules:,"['HeavyTimeFiringMinigunShort', 'PlayerBattleCryHeavy', 'PlayerRoundStartHeavy']"
 ,,,Criteria:,"[['ConceptFireMinigunTalk', 'IsHeavy', 'WeaponIsMinigun', 'TimeFiringMinigunShort', '30PercentChance'], ['ConceptPlayerBattleCry', 'IsHeavy'], ['ConceptPlayerRoundStart', 'IsHeavy']]"
-
-Filename:,heavy_battlecry03,,Events:,['heavy_taunt_the_circuit_breaker_heavy_battlecry03']
-Full Path:,sound/vo/heavy_battlecry03.wav,,Scenes:,['scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd']
-Transcription:,,,Responses:,['Taunt: The Circuit Breaker']
-Your Line:,,,Rules:,[]
-Missing?,,,Criteria:,[]
 
 Filename:,heavy_battlecry04,,Events:,['heavy.battlecry04']
 Full Path:,sound/vo/heavy_battlecry04.mp3,,Scenes:,['scenes/player/heavy/low/208.vcd']

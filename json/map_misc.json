@@ -769,6 +769,46 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/camp_saxton/tpt_assembly.mp3": {
+        "base_name": "tpt_assembly",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/camp_saxton/tpt_firstcall.mp3": {
+        "base_name": "tpt_firstcall",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/camp_saxton/tpt_messcall.mp3": {
+        "base_name": "tpt_messcall",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/camp_saxton/tpt_reveille.mp3": {
+        "base_name": "tpt_reveille",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/canaveral/canaveralrockettakeoff.wav": {
         "base_name": "canaveralrockettakeoff",
         "criteria": [],
@@ -20861,6 +20901,26 @@
     },
     "sound/powerhouse_event/organ.wav": {
         "base_name": "organ",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/premuda/cp_premuda_cartfalling.mp3": {
+        "base_name": "cp_premuda_cartfalling",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/premuda/cp_premuda_explosion.mp3": {
+        "base_name": "cp_premuda_explosion",
         "criteria": [],
         "events": [],
         "responses": [],
