@@ -1813,6 +1813,7 @@
         "base_name": "bow_shoot_pull_short",
         "criteria": [],
         "events": [
+            "scout_taunt_showrunners_spirit_bow_shoot_pull_short",
             "weapon_bow.pullshort"
         ],
         "responses": [],
@@ -4924,7 +4925,8 @@
         "criteria": [],
         "events": [
             "medic_tauntdoctors_defibrillators_draw_default",
-            "pyro_taunt_the_grilled_gunman_draw_default"
+            "pyro_taunt_the_grilled_gunman_draw_default",
+            "scout_taunt_showrunners_spirit_draw_default"
         ],
         "responses": [
             "Taunt: Buffoon's Bivouac",

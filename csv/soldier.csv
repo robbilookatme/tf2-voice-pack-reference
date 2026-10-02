@@ -1006,31 +1006,31 @@ Transcription:,"Son, your fashion sense has gone AWOL!",,Responses:,['Taunt: Fau
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_hatoverhearttaunt01,,Events:,"['soldier.hatoverhearttaunt01', 'taunt_burstchester_soldier_02', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
+Filename:,soldier_hatoverhearttaunt01,,Events:,"['soldier.hatoverhearttaunt01', 'taunt_burstchester_soldier_02', 'taunt_maggots_condolence_soldier', 'taunt_soldier_oneeyedpunt_end', 'taunt_yetipunch_soldier_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt01.mp3,,Scenes:,"['scenes/player/soldier/low/3486.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']"
 Transcription:,You will not be missed.,,Responses:,"['KilledDemomanSoldier', 'Taunt: Burstchester', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,['KilledDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimDemoman', '10PercentChance', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
-Filename:,soldier_hatoverhearttaunt02,,Events:,"['soldier.hatoverhearttaunt02', 'taunt_burstchester_soldier_02', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
+Filename:,soldier_hatoverhearttaunt02,,Events:,"['soldier.hatoverhearttaunt02', 'taunt_burstchester_soldier_02', 'taunt_maggots_condolence_soldier', 'taunt_soldier_oneeyedpunt_end', 'taunt_yetipunch_soldier_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt02.mp3,,Scenes:,"['scenes/player/soldier/low/3487.vcd', 'scenes/workshop/player/soldier/low/taunt_burstchester.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']"
 Transcription:,I never liked you.,,Responses:,"['KilledDemomanSoldier', 'RejectedDuelSoldier', 'Taunt: Burstchester', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,"['KilledDemomanSoldier', 'RejectedDuelSoldier']"
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsSoldier'], ['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimDemoman', '10PercentChance', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
-Filename:,soldier_hatoverhearttaunt03,,Events:,"['soldier.hatoverhearttaunt03', 'spy_taunt_fauxcolization_a', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
+Filename:,soldier_hatoverhearttaunt03,,Events:,"['soldier.hatoverhearttaunt03', 'spy_taunt_fauxcolization_a', 'taunt_maggots_condolence_soldier', 'taunt_soldier_oneeyedpunt_end', 'taunt_yetipunch_soldier_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt03.mp3,,Scenes:,"['scenes/player/soldier/low/3488.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd', 'scenes/workshop/player/spy/low/taunt_fauxcalization.vcd']"
 Transcription:,"You were loud and ugly, and now you're DEAD! Amen.",,Responses:,"['KilledDemomanSoldier', 'Taunt: Faux-calization', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,['KilledDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimDemoman', '10PercentChance', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
-Filename:,soldier_hatoverhearttaunt04,,Events:,"['soldier.hatoverhearttaunt04', 'taunt_maggots_condolence_soldier']"
+Filename:,soldier_hatoverhearttaunt04,,Events:,"['soldier.hatoverhearttaunt04', 'taunt_maggots_condolence_soldier', 'taunt_soldier_oneeyedpunt_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt04.mp3,,Scenes:,"['scenes/player/soldier/low/3489.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']"
 Transcription:,"You're dead, that's good, amen.",,Responses:,"['KilledDemomanSoldier', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,['KilledDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', 'IsVictimDemoman', '10PercentChance', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10']]"
 
-Filename:,soldier_hatoverhearttaunt05,,Events:,"['soldier.hatoverhearttaunt05', 'taunt_maggots_condolence_soldier', 'taunt_yetipunch_soldier_end']"
+Filename:,soldier_hatoverhearttaunt05,,Events:,"['soldier.hatoverhearttaunt05', 'taunt_maggots_condolence_soldier', 'taunt_soldier_oneeyedpunt_end', 'taunt_yetipunch_soldier_end']"
 Full Path:,sound/vo/soldier_hatoverhearttaunt05.mp3,,Scenes:,"['scenes/player/soldier/low/3490.vcd', 'scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd']"
 Transcription:,"Godspeed, you magnificent bastard.",,Responses:,"['KilledDemomanSoldier', ""Taunt: Soldier's Requiem""]"
 Your Line:,,,Rules:,['KilledDemomanSoldier']
@@ -2896,7 +2896,7 @@ Transcription:,Perfect!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_admire_09,,Events:,"['soldier_taunt_conga_random_fun3', 'soldier_taunt_dosido_end_rand', 'soldier_taunt_neck_snap_03']"
+Filename:,soldier_taunt_admire_09,,Events:,"['soldier_taunt_conga_random_fun3', 'soldier_taunt_dosido_end_rand', 'soldier_taunt_neck_snap_03', 'taunt_soldier_oneeyedpunt_end']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_09.mp3,,Scenes:,"['scenes/player/soldier/low/conga.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_russian.vcd', 'scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd']"
 Transcription:,Hooah!,,Responses:,"['Taunt: Conga', 'Taunt: Kazotsky Kick', 'Taunt: Neck Snap', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
@@ -2920,7 +2920,7 @@ Transcription:,Mission accomplished!,,Responses:,"[""Taunt: Flippin' Awesome"", 
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_admire_18,,Events:,['soldier_taunt_coffee_1_speech']
+Filename:,soldier_taunt_admire_18,,Events:,"['soldier_taunt_coffee_1_speech', 'taunt_soldier_oneeyedpunt_end']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_admire_18.mp3,,Scenes:,['scenes/player/soldier/low/taunt_coffee.vcd']
 Transcription:,Mission accomplished!,,Responses:,['Taunt: Fresh Brewed Victory']
 Your Line:,,,Rules:,[]
@@ -3052,7 +3052,7 @@ Transcription:,Dance terminated!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_dosi_fun_05,,Events:,"['soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_yeti_soldier']"
+Filename:,soldier_taunt_dosi_fun_05,,Events:,"['soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_soldier_oneeyedpunt_end', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_05.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
 Transcription:,Whoa! Ha ha ha!,,Responses:,"[""Taunt: Buffoon's Bivouac"", 'Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
@@ -3076,7 +3076,7 @@ Transcription:,Ah ha ha!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_dosi_fun_29,,Events:,"['soldier_taunt_dosido_mid_rand', 'soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_yeti_soldier']"
+Filename:,soldier_taunt_dosi_fun_29,,Events:,"['soldier_taunt_dosido_mid_rand', 'soldier_taunt_dosido_start_rand', 'taunt_soldier_aerobic_shared_dance_a', 'taunt_soldier_buffoons_bivouac_action_01', 'taunt_soldier_oneeyedpunt_end', 'taunt_yeti_soldier']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_dosi_fun_29.mp3,,Scenes:,"['scenes/player/soldier/low/taunt_aerobic_a.vcd', 'scenes/player/soldier/low/taunt_aerobic_b.vcd', 'scenes/player/soldier/low/taunt_dosido_dance01.vcd', 'scenes/player/soldier/low/taunt_vehicle_allclass.vcd', 'scenes/player/soldier/low/yeti_taunt.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd', 'scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd']"
 Transcription:,"Whaa, ho ho ha ha!",,Responses:,"[""Taunt: Buffoon's Bivouac"", 'Taunt: Mannrobics', 'Taunt: Rocket Jockey', 'Taunt: Square Dance', 'Taunt: The Victory Lap', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,[]
@@ -3250,13 +3250,13 @@ Transcription:,"Get over here, sky-meat!",,Responses:,"[""Taunt: Flippin' Awesom
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_int_20,,Events:,['soldier_taunt_flip_random_waiting1']
+Filename:,soldier_taunt_flip_int_20,,Events:,"['soldier_taunt_flip_random_waiting1', 'taunt_soldier_oneeyedpunt_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_int_20.mp3,,Scenes:,['scenes/player/soldier/low/flip_start.vcd']
 Transcription:,Say your prayers and grab some air!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_flip_int_24,,Events:,['soldier_taunt_flip_random_waiting1']
+Filename:,soldier_taunt_flip_int_24,,Events:,"['soldier_taunt_flip_random_waiting1', 'taunt_soldier_oneeyedpunt_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_flip_int_24.mp3,,Scenes:,['scenes/player/soldier/low/flip_start.vcd']
 Transcription:,Operation: Soaring Eagle!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
@@ -3274,7 +3274,7 @@ Transcription:,U. S. A.!,,Responses:,"['Taunt: Skullcracker', 'Taunt: Yeti Smash
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,soldier_taunt_head_end_24,,Events:,['soldier_taunt_headbutt_success_recover']
+Filename:,soldier_taunt_head_end_24,,Events:,"['soldier_taunt_headbutt_success_recover', 'taunt_soldier_oneeyedpunt_start']"
 Full Path:,sound/vo/taunts/soldier/soldier_taunt_head_end_24.mp3,,Scenes:,['scenes/player/soldier/low/taunt_headbutt_success.vcd']
 Transcription:,"God, Guts, Guns!",,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
@@ -3531,6 +3531,12 @@ Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_win_61.mp3,,Scenes:,"['scen
 Transcription:,Scissors win!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
+
+Filename:,soldier_taunts02,,Events:,['taunt_soldier_oneeyedpunt_start']
+Full Path:,sound/vo/taunts/soldier/soldier_taunts02.mp3,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,soldier_trade_03,,Events:,['soldier_taunt_trade_start_rand']
 Full Path:,sound/vo/taunts/soldier/soldier_trade_03.mp3,,Scenes:,[]
@@ -4232,13 +4238,13 @@ Filename:,soldier_item_birdhead_uber01,,Events:,['soldier_item_birdhead_uber01']
 Full Path:,sound/vo/soldier_item_birdhead_uber01.mp3,,Scenes:,['scenes/player/soldier/low/7473.vcd']
 Transcription:,"Brark! Brark, brark, brark, braaaaarrrrk!",,Responses:,['item_birdhead_uberSoldier']
 Your Line:,,,Rules:,['item_birdhead_uberSoldier']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSoldier', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsSoldierBirdHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSoldier', 'IsInvulnerable', 'SoldierNotInvulnerableSpeech', '20PercentChance', 'IsSoldierBirdHead', 'AppliesContext:SoldierInvulnerableSpeech:1:30']]"
 
 Filename:,soldier_item_birdhead_uber02,,Events:,['soldier_item_birdhead_uber02']
 Full Path:,sound/vo/soldier_item_birdhead_uber02.mp3,,Scenes:,['scenes/player/soldier/low/7474.vcd']
 Transcription:,"The Great Eagle Scourge returns, hippies!",,Responses:,['item_birdhead_uberSoldier']
 Your Line:,,,Rules:,['item_birdhead_uberSoldier']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSoldier', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsSoldierBirdHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSoldier', 'IsInvulnerable', 'SoldierNotInvulnerableSpeech', '20PercentChance', 'IsSoldierBirdHead', 'AppliesContext:SoldierInvulnerableSpeech:1:30']]"
 
 Filename:,soldier_item_maggot_domination01,,Events:,['soldier_item_maggot_domination01']
 Full Path:,sound/vo/soldier_item_maggot_domination01.mp3,,Scenes:,['scenes/player/soldier/low/7510.vcd']
@@ -4370,13 +4376,13 @@ Filename:,soldier_item_maggot_uber01,,Events:,['soldier_item_maggot_uber01']
 Full Path:,sound/vo/soldier_item_maggot_uber01.mp3,,Scenes:,['scenes/player/soldier/low/7490.vcd']
 Transcription:,"You're all maggots, you scum sucking fruit baskets!"" [Quietly] ""No offense, brain maggot.",,Responses:,['item_maggot_uberSoldier']
 Your Line:,,,Rules:,['item_maggot_uberSoldier']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSoldier', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsSoldierMaggotHat']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSoldier', 'IsInvulnerable', 'SoldierNotInvulnerableSpeech', '20PercentChance', 'IsSoldierMaggotHat', 'AppliesContext:SoldierInvulnerableSpeech:1:30']]"
 
 Filename:,soldier_item_maggot_uber02,,Events:,['soldier_item_maggot_uber02']
 Full Path:,sound/vo/soldier_item_maggot_uber02.mp3,,Scenes:,['scenes/player/soldier/low/7491.vcd']
 Transcription:,"You sissified maggot scum have just signed your death warrants! [Quietly] No offense, brain maggot.",,Responses:,['item_maggot_uberSoldier']
 Your Line:,,,Rules:,['item_maggot_uberSoldier']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSoldier', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsSoldierMaggotHat']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSoldier', 'IsInvulnerable', 'SoldierNotInvulnerableSpeech', '20PercentChance', 'IsSoldierMaggotHat', 'AppliesContext:SoldierInvulnerableSpeech:1:30']]"
 
 Filename:,soldier_item_unicorn_domination01,,Events:,"['soldier.statue', 'soldier_item_unicorn_domination01']"
 Full Path:,sound/vo/soldier_item_unicorn_domination01.mp3,,Scenes:,['scenes/player/soldier/low/7460.vcd']

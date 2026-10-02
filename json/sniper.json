@@ -10551,12 +10551,13 @@
         "base_name": "sniper_item_birdhead_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSniper",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SniperNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsSniperBirdHead"
+                "IsSniperBirdHead",
+                "AppliesContext:SniperInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -10840,12 +10841,13 @@
         "base_name": "sniper_item_unicorn_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSniper",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SniperNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:SniperInvulnerableSpeech:1:30"
             ]
         ],
         "events": [

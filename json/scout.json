@@ -8037,7 +8037,8 @@
             ]
         ],
         "events": [
-            "scout.domination05"
+            "scout.domination05",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "PlayerKilledDominatingScoutScout"
@@ -8178,7 +8179,8 @@
             ]
         ],
         "events": [
-            "scout.domination10"
+            "scout.domination10",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "PlayerKilledDominatingDemomanScout"
@@ -8307,7 +8309,8 @@
             ]
         ],
         "events": [
-            "scout.domination15"
+            "scout.domination15",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "PlayerKilledDominatingScout"
@@ -12447,12 +12450,13 @@
         "base_name": "scout_item_unicorn_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsScout",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "ScoutNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:ScoutInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -12474,12 +12478,13 @@
         "base_name": "scout_item_unicorn_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsScout",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "ScoutNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:ScoutInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -15415,7 +15420,8 @@
             "civilian.m_mvm_death",
             "civilian.mvm_death",
             "scout.death",
-            "scout.painsevere04"
+            "scout.painsevere04",
+            "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
             "PlayerAttackerPainScout"
@@ -15428,6 +15434,18 @@
         ],
         "state": "used",
         "transcript": "Nnrg!"
+    },
+    "sound/vo/scout_painsevere04.wav": {
+        "base_name": "scout_painsevere04",
+        "criteria": [],
+        "events": [
+            "scout_taunt_showrunners_spirit_scout_painsevere04"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
     },
     "sound/vo/scout_painsevere05.mp3": {
         "base_name": "scout_painsevere05",
@@ -22516,7 +22534,8 @@
         "base_name": "scout_taunt_exert_05",
         "criteria": [],
         "events": [
-            "scout_taunt_headbutt_success_windup"
+            "scout_taunt_headbutt_success_windup",
+            "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -22549,7 +22568,8 @@
         "criteria": [],
         "events": [
             "scout_taunt_headbutt_success_windup",
-            "scout_taunt_trackmans_touchdown_start"
+            "scout_taunt_trackmans_touchdown_start",
+            "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
             "Taunt: Skullcracker",
@@ -22824,7 +22844,8 @@
             "scout_taunt_flip_random_flipexert",
             "scout_taunt_trackmans_touchdown_start",
             "taunt.bunnyhop_flip",
-            "taunt.bunnyhop_spin"
+            "taunt.bunnyhop_spin",
+            "taunt_scout_showrunners_spirit_voice_c"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -22843,6 +22864,18 @@
         ],
         "state": "used",
         "transcript": "Uhrah!"
+    },
+    "sound/vo/taunts/scout/scout_taunt_flip_exert_01.wav": {
+        "base_name": "scout_taunt_flip_exert_01",
+        "criteria": [],
+        "events": [
+            "scout_taunt_showrunners_spirit_scout_taunt_flip_exert_01"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
     },
     "sound/vo/taunts/scout/scout_taunt_flip_exert_05.mp3": {
         "base_name": "scout_taunt_flip_exert_05",
@@ -22930,7 +22963,8 @@
             "scout_taunt_flip_random_flipexert",
             "scout_taunt_trackmans_touchdown_start",
             "taunt.bunnyhop_flip",
-            "taunt.bunnyhop_spin"
+            "taunt.bunnyhop_spin",
+            "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -23887,7 +23921,8 @@
         "events": [
             "scout_taunt_batman_2_yawn",
             "taunt_killer_signature_scout_intro",
-            "taunt_scout_chairholder_loop_c"
+            "taunt_scout_chairholder_loop_c",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "Taunt: Battin' a Thousand",
@@ -24483,7 +24518,8 @@
         ],
         "events": [
             "scout.taunts04",
-            "scout_mic_drop_scout_domination13"
+            "scout_mic_drop_scout_domination13",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "KilledPlayerManyScout"
@@ -24590,7 +24626,8 @@
         ],
         "events": [
             "scout.taunts07",
-            "scout_taunt_trackmans_touchdown_end"
+            "scout_taunt_trackmans_touchdown_end",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "ScoutTauntMelee",
@@ -24974,7 +25011,8 @@
         ],
         "events": [
             "scout.taunts16",
-            "scout_mic_drop_scout_domination13"
+            "scout_mic_drop_scout_domination13",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "KilledPlayerManyScout"
@@ -24999,7 +25037,8 @@
             ]
         ],
         "events": [
-            "scout.taunts17"
+            "scout.taunts17",
+            "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
             "PlayerCritColaVocalScout"
@@ -25012,6 +25051,18 @@
         ],
         "state": "used",
         "transcript": "You morons are about to catch a real beatin'."
+    },
+    "sound/vo/taunts/scout_taunts17.wav": {
+        "base_name": "scout_taunts17",
+        "criteria": [],
+        "events": [
+            "scout_taunt_showrunners_spirit_scout_taunts17"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
     },
     "sound/vo/taunts/scout_taunts18.mp3": {
         "base_name": "scout_taunts18",

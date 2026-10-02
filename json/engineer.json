@@ -7911,12 +7911,13 @@
         "base_name": "engineer_item_unicorn_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsEngineer",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "EngineerNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:EngineerInvulnerableSpeech:1:30"
             ]
         ],
         "events": [

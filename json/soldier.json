@@ -6878,6 +6878,7 @@
             "soldier.hatoverhearttaunt01",
             "taunt_burstchester_soldier_02",
             "taunt_maggots_condolence_soldier",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
@@ -6917,6 +6918,7 @@
             "soldier.hatoverhearttaunt02",
             "taunt_burstchester_soldier_02",
             "taunt_maggots_condolence_soldier",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
@@ -6954,6 +6956,7 @@
             "soldier.hatoverhearttaunt03",
             "spy_taunt_fauxcolization_a",
             "taunt_maggots_condolence_soldier",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
@@ -6987,7 +6990,8 @@
         ],
         "events": [
             "soldier.hatoverhearttaunt04",
-            "taunt_maggots_condolence_soldier"
+            "taunt_maggots_condolence_soldier",
+            "taunt_soldier_oneeyedpunt_end"
         ],
         "responses": [
             "KilledDemomanSoldier",
@@ -7019,6 +7023,7 @@
         "events": [
             "soldier.hatoverhearttaunt05",
             "taunt_maggots_condolence_soldier",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yetipunch_soldier_end"
         ],
         "responses": [
@@ -7720,12 +7725,13 @@
         "base_name": "soldier_item_birdhead_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSoldier",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SoldierNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsSoldierBirdHead"
+                "IsSoldierBirdHead",
+                "AppliesContext:SoldierInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7747,12 +7753,13 @@
         "base_name": "soldier_item_birdhead_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSoldier",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SoldierNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsSoldierBirdHead"
+                "IsSoldierBirdHead",
+                "AppliesContext:SoldierInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -8368,12 +8375,13 @@
         "base_name": "soldier_item_maggot_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSoldier",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SoldierNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsSoldierMaggotHat"
+                "IsSoldierMaggotHat",
+                "AppliesContext:SoldierInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -8395,12 +8403,13 @@
         "base_name": "soldier_item_maggot_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsSoldier",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "SoldierNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsSoldierMaggotHat"
+                "IsSoldierMaggotHat",
+                "AppliesContext:SoldierInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -17951,7 +17960,8 @@
         "events": [
             "soldier_taunt_conga_random_fun3",
             "soldier_taunt_dosido_end_rand",
-            "soldier_taunt_neck_snap_03"
+            "soldier_taunt_neck_snap_03",
+            "taunt_soldier_oneeyedpunt_end"
         ],
         "responses": [
             "Taunt: Conga",
@@ -18033,7 +18043,8 @@
         "base_name": "soldier_taunt_admire_18",
         "criteria": [],
         "events": [
-            "soldier_taunt_coffee_1_speech"
+            "soldier_taunt_coffee_1_speech",
+            "taunt_soldier_oneeyedpunt_end"
         ],
         "responses": [
             "Taunt: Fresh Brewed Victory"
@@ -18422,6 +18433,7 @@
             "soldier_taunt_dosido_start_rand",
             "taunt_soldier_aerobic_shared_dance_a",
             "taunt_soldier_buffoons_bivouac_action_01",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -18508,6 +18520,7 @@
             "soldier_taunt_dosido_start_rand",
             "taunt_soldier_aerobic_shared_dance_a",
             "taunt_soldier_buffoons_bivouac_action_01",
+            "taunt_soldier_oneeyedpunt_end",
             "taunt_yeti_soldier"
         ],
         "responses": [
@@ -19050,7 +19063,8 @@
         "base_name": "soldier_taunt_flip_int_20",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_waiting1"
+            "soldier_taunt_flip_random_waiting1",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -19066,7 +19080,8 @@
         "base_name": "soldier_taunt_flip_int_24",
         "criteria": [],
         "events": [
-            "soldier_taunt_flip_random_waiting1"
+            "soldier_taunt_flip_random_waiting1",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -19117,7 +19132,8 @@
         "base_name": "soldier_taunt_head_end_24",
         "criteria": [],
         "events": [
-            "soldier_taunt_headbutt_success_recover"
+            "soldier_taunt_headbutt_success_recover",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -19896,6 +19912,18 @@
         ],
         "state": "used",
         "transcript": "Scissors win!"
+    },
+    "sound/vo/taunts/soldier/soldier_taunts02.mp3": {
+        "base_name": "soldier_taunts02",
+        "criteria": [],
+        "events": [
+            "taunt_soldier_oneeyedpunt_start"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
     },
     "sound/vo/taunts/soldier/soldier_trade_03.mp3": {
         "base_name": "soldier_trade_03",

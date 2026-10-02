@@ -646,19 +646,19 @@ Transcription:,Schweinhunds!,,Responses:,"['PlayerJeersMedic', 'PlayerSuddenDeat
 Your Line:,,,Rules:,"['PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
 ,,,Criteria:,"[['ConceptPlayerJeers', 'IsMedic'], ['ConceptPlayerSuddenDeathStart', 'IsMedic']]"
 
-Filename:,medic_laughevil01,,Events:,['medic.laughevil01']
+Filename:,medic_laughevil01,,Events:,"['medic.laughevil01', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/medic_laughevil01.mp3,,Scenes:,['scenes/player/medic/low/604.vcd']
 Transcription:,Evil laugh,,Responses:,['PlayerTauntsMedic']
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
-Filename:,medic_laughevil02,,Events:,"['medic.laughevil02', 'medic_taunt_burrowed_bones_01', 'medic_taunt_heartbreaker_voice_c', 'medic_tauntdoctors_defibrillators_medic_laughevil02']"
+Filename:,medic_laughevil02,,Events:,"['medic.laughevil02', 'medic_taunt_burrowed_bones_01', 'medic_taunt_heartbreaker_voice_c', 'medic_tauntdoctors_defibrillators_medic_laughevil02', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/medic_laughevil02.mp3,,Scenes:,"['scenes/player/medic/low/1227.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
 Transcription:,(Evil laugh 1),,Responses:,"['PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', 'Taunt: Heartbreaker']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
-Filename:,medic_laughevil03,,Events:,"['medic.laughevil03', 'medic_taunt_burrowed_bones_01', 'taunt.bearhug_medic_b']"
+Filename:,medic_laughevil03,,Events:,"['medic.laughevil03', 'medic_taunt_burrowed_bones_01', 'taunt.bearhug_medic_b', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/medic_laughevil03.mp3,,Scenes:,"['scenes/player/medic/low/1228.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_cheers.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
 Transcription:,(Evil laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Bear Hug', 'Taunt: Borrowed Bones', 'Taunt: Cheers!', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
@@ -670,7 +670,7 @@ Transcription:,Evil laugh 3,,Responses:,['PlayerTauntsMedic']
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
-Filename:,medic_laughevil05,,Events:,"['medic.laughevil05', 'medic.taunt_doctors_defibrillators_outro']"
+Filename:,medic_laughevil05,,Events:,"['medic.laughevil05', 'medic.taunt_doctors_defibrillators_outro', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/medic_laughevil05.mp3,,Scenes:,"['scenes/player/medic/low/1232.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
 Transcription:,(Evil laugh 2),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators""]"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
@@ -706,19 +706,19 @@ Transcription:,(Long laugh 2),,Responses:,['PlayerKilledDominatingMedic']
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
-Filename:,medic_laughshort01,,Events:,['medic.laughshort01']
+Filename:,medic_laughshort01,,Events:,"['medic.laughshort01', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/medic_laughshort01.mp3,,Scenes:,"['scenes/player/medic/low/609.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
 Transcription:,Short laugh,,Responses:,"['PlayerTauntsMedic', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
-Filename:,medic_laughshort02,,Events:,"['medic.laughshort02', 'medic_taunt_heartbreaker_voice_c']"
+Filename:,medic_laughshort02,,Events:,"['medic.laughshort02', 'medic_taunt_heartbreaker_voice_c', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/medic_laughshort02.mp3,,Scenes:,"['scenes/player/medic/low/610.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
 Transcription:,(Short laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Heartbreaker']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
-Filename:,medic_laughshort03,,Events:,"['medic.laughshort03', 'medic.taunt_doctors_defibrillators_outro', 'medic_taunt_heartbreaker_voice_c', 'taunt_yeti_medic']"
+Filename:,medic_laughshort03,,Events:,"['medic.laughshort03', 'medic.taunt_doctors_defibrillators_outro', 'medic_taunt_heartbreaker_voice_c', 'taunt_medic_medbottle_voice_b', 'taunt_yeti_medic']"
 Full Path:,sound/vo/medic_laughshort03.mp3,,Scenes:,"['scenes/player/medic/low/1230.vcd', 'scenes/player/medic/low/yeti_taunt.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
 Transcription:,(Short laugh),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Heartbreaker', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
@@ -1054,7 +1054,7 @@ Transcription:,Zat vas doktor-assisted homicide!,,Responses:,"['KilledPlayerVery
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'KilledPlayerVeryManyMedic', 'MedicTauntBust', 'MedicTauntHealArrow', 'MedicTauntPlayerPrimary']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'KilledPlayerDelay', 'MedicNotKillSpeech', 'IsMedic', 'AppliesContext:MedicKillSpeech:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHealArrow'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHippocrates'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsSyringe']]"
 
-Filename:,medic_specialcompleted10,,Events:,"['medic.specialcompleted10', 'medic_taunt_heartbreaker_voice_b']"
+Filename:,medic_specialcompleted10,,Events:,"['medic.specialcompleted10', 'medic_taunt_heartbreaker_voice_b', 'taunt_medic_medbottle_voice_oops']"
 Full Path:,sound/vo/medic_specialcompleted10.mp3,,Scenes:,"['scenes/player/medic/low/656.vcd', 'scenes/player/medic/low/taunt01_vocal05.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
 Transcription:,Oops! Zat vas not Medizin!,,Responses:,"['KilledPlayerVeryManyMedic', 'MedicTauntPrimary', 'Taunt: Heartbreaker']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'KilledPlayerVeryManyMedic', 'MedicTauntBust', 'MedicTauntHealArrow', 'MedicTauntPlayerPrimary']"
@@ -1150,7 +1150,7 @@ Transcription:,Ve should trade!,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_trade_taunts02,,Events:,"['medic_taunt_burrowed_bones_02', 'medic_taunt_heartbreaker_voice_a', 'medic_trade_taunts02', 'taunt_medic_aerobic_outro']"
+Filename:,medic_trade_taunts02,,Events:,"['medic_taunt_burrowed_bones_02', 'medic_taunt_heartbreaker_voice_a', 'medic_trade_taunts02', 'taunt_medic_aerobic_outro', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/medic_trade_taunts02.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
 Transcription:,"Oh, I see you looking!",,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Heartbreaker', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,[]
@@ -1324,7 +1324,7 @@ Transcription:,You are... schtupid!,,Responses:,"['RejectedDuelMedic', 'Taunt: T
 Your Line:,,,Rules:,['RejectedDuelMedic']
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsMedic']]"
 
-Filename:,medic_taunts12,,Events:,"['medic.taunt_doctors_defibrillators_intro', 'medic.taunts12', 'medic_taunt_burrowed_bones_02']"
+Filename:,medic_taunts12,,Events:,"['medic.taunt_doctors_defibrillators_intro', 'medic.taunts12', 'medic_taunt_burrowed_bones_02', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/taunts/medic_taunts12.mp3,,Scenes:,"['scenes/player/medic/low/679.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
 Transcription:,Come over here. I promise I vill heal you!,,Responses:,"['MeleeDareCombatMedic', 'PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators""]"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'MeleeDareCombatMedic', 'PlayerKilledDominatingMedic']"
@@ -1576,7 +1576,7 @@ Transcription:,(Laughter) Zhis wall is robot death!,,Responses:,['MedicMvMMedicS
 Your Line:,,,Rules:,['MedicMvMMedicShield']
 ,,,Criteria:,"[['ConceptMvMMedicShield', 'IsMedic', '75PercentChance']]"
 
-Filename:,medic_mvm_loot_common01,,Events:,['medic_mvm_loot_common01']
+Filename:,medic_mvm_loot_common01,,Events:,"['medic_mvm_loot_common01', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/medic_mvm_loot_common01.mp3,,Scenes:,['scenes/player/medic/low/6736.vcd']
 Transcription:,"Ooh, zhis vill do nicely.",,Responses:,['MedicMvMLootCommon']
 Your Line:,,,Rules:,['MedicMvMLootCommon']
@@ -1600,7 +1600,7 @@ Transcription:,Vunderbar.,,Responses:,['MedicMvMLootUltraRare']
 Your Line:,,,Rules:,['MedicMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsMedic']]"
 
-Filename:,medic_mvm_loot_godlike02,,Events:,['medic_mvm_loot_godlike02']
+Filename:,medic_mvm_loot_godlike02,,Events:,"['medic_mvm_loot_godlike02', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/medic_mvm_loot_godlike02.mp3,,Scenes:,['scenes/player/medic/low/6743.vcd']
 Transcription:,(Gasp) It's beautiful.,,Responses:,['MedicMvMLootUltraRare']
 Your Line:,,,Rules:,['MedicMvMLootUltraRare']
@@ -1618,7 +1618,7 @@ Transcription:,"Oh, now zhis is a rare piece!",,Responses:,['MedicMvMLootRare']
 Your Line:,,,Rules:,['MedicMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsMedic']]"
 
-Filename:,medic_mvm_loot_rare02,,Events:,"['medic_mvm_loot_rare02', 'medic_tauntthe_head_doctor_medic_sf12_badmagic02']"
+Filename:,medic_mvm_loot_rare02,,Events:,"['medic_mvm_loot_rare02', 'medic_tauntthe_head_doctor_medic_sf12_badmagic02', 'taunt_medic_medbottle_voice_a']"
 Full Path:,sound/vo/medic_mvm_loot_rare02.mp3,,Scenes:,"['scenes/player/medic/low/6739.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd']"
 Transcription:,"Ooh, very nice.",,Responses:,"['MedicMvMLootRare', 'Taunt: The Head Doctor']"
 Your Line:,,,Rules:,['MedicMvMLootRare']
@@ -2332,7 +2332,7 @@ Transcription:,...you're dead!,,Responses:,"['Taunt: Killer Joke', 'Taunt: Resul
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,medic_taunt_kill_24,,Events:,"['medic_secondrate_sorcery_medic_medic_taunt_kill_24', 'medic_taunt_xray_2b_dead', 'taunt_killer_joke_medic_2']"
+Filename:,medic_taunt_kill_24,,Events:,"['medic_secondrate_sorcery_medic_medic_taunt_kill_24', 'medic_taunt_xray_2b_dead', 'taunt_killer_joke_medic_2', 'taunt_medic_medbottle_voice_b']"
 Full Path:,sound/vo/taunts/medic/medic_taunt_kill_24.mp3,,Scenes:,"['scenes/player/medic/low/taunt_xray.vcd', 'scenes/workshop/player/medic/low/taunt_killer_joke.vcd']"
 Transcription:,...you're dead!,,Responses:,"['Taunt: Killer Joke', 'Taunt: Results Are In']"
 Your Line:,,,Rules:,[]
@@ -2995,8 +2995,8 @@ Your Line:,,,Rules:,['item_birdhead_round_startMedic']
 Filename:,medic_item_birdhead_uber01,,Events:,['medic_item_birdhead_uber01']
 Full Path:,sound/vo/medic_item_birdhead_uber01.mp3,,Scenes:,['scenes/player/medic/low/6918.vcd']
 Transcription:,I am zhe angry bird god of zhe Badlands! Fear me!,,Responses:,['item_birdhead_uberMedic']
-Your Line:,,,Rules:,['item_birdhead_uberMedic']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsMedic', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsMedicBirdHead']]"
+Your Line:,,,Rules:,"['item_birdhead_uberMedic', 'item_birdhead_uberMedic2']"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsMedic', 'IsInvulnerable', 'WeaponIsNotMediGun', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsMedicBirdHead', 'AppliesContext:MedicInvulnerableSpeech:1:30'], ['ConceptMedicChargeDeployed', 'IsMedic', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsMedicBirdHead', 'AppliesContext:MedicInvulnerableSpeech:1:30']]"
 
 Filename:,medic_item_secop_cart_push03,,Events:,['medic_item_secop_cart_push03']
 Full Path:,sound/vo/medic_item_secop_cart_push03.mp3,,Scenes:,['scenes/player/medic/low/6856.vcd']
@@ -3097,8 +3097,8 @@ Your Line:,,,Rules:,['item_secop_round_startMedic']
 Filename:,medic_item_secop_uber01,,Events:,['medic_item_secop_uber01']
 Full Path:,sound/vo/medic_item_secop_uber01.mp3,,Scenes:,['scenes/player/medic/low/6853.vcd']
 Transcription:,"Normally: ""Ve are invincible!"" Evilly: ""Yes, ve are.""",,Responses:,['item_secop_uberMedic']
-Your Line:,,,Rules:,['item_secop_uberMedic']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsMedic', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '30PercentChance', 'IsMedicDoubleFace']]"
+Your Line:,,,Rules:,"['item_secop_uberMedic', 'item_secop_uberMedic2']"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsMedic', 'IsInvulnerable', 'WeaponIsNotMediGun', 'MedicNotInvulnerableSpeech', '30PercentChance', 'IsMedicDoubleFace', 'AppliesContext:MedicInvulnerableSpeech:1:30'], ['ConceptMedicChargeDeployed', 'IsMedic', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '30PercentChance', 'IsMedicDoubleFace', 'AppliesContext:MedicInvulnerableSpeech:1:30']]"
 
 Filename:,medic_item_zombiebird_dominated01,,Events:,['medic_item_zombiebird_dominated01']
 Full Path:,sound/vo/medic_item_zombiebird_dominated01.mp3,,Scenes:,['scenes/player/medic/low/6833.vcd']

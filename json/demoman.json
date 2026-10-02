@@ -6265,12 +6265,13 @@
         "base_name": "demoman_item_unicorn_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsDemoman",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "DemomanNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:DemomanInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -6292,12 +6293,13 @@
         "base_name": "demoman_item_unicorn_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsDemoman",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "DemomanNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:DemomanInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -6319,12 +6321,13 @@
         "base_name": "demoman_item_unicorn_uber03",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireWeapon",
                 "IsDemoman",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "DemomanNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:DemomanInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -8048,7 +8051,8 @@
         ],
         "events": [
             "demo.drunk_manns_cannon_outro",
-            "demoman.negativevocalization03"
+            "demoman.negativevocalization03",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "DemomanJarateHit",
@@ -8119,7 +8123,8 @@
         ],
         "events": [
             "demo.drunk_manns_cannon_outro",
-            "demoman.negativevocalization05"
+            "demoman.negativevocalization05",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "DemomanJarateHit",
@@ -8153,7 +8158,8 @@
         ],
         "events": [
             "demo.drunk_manns_cannon_outro",
-            "demoman.negativevocalization06"
+            "demoman.negativevocalization06",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "PlayerLostPointDemoman",
@@ -8438,7 +8444,8 @@
         ],
         "events": [
             "demoman.death",
-            "demoman.painsevere02"
+            "demoman.painsevere02",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "PlayerAttackerPainDemoman"
@@ -8589,7 +8596,8 @@
         ],
         "events": [
             "demoman.explosiondeath",
-            "demoman.painsharp03"
+            "demoman.painsharp03",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "PlayerPainDemoman",
@@ -8960,7 +8968,8 @@
             ]
         ],
         "events": [
-            "demoman_sf12_badmagic01"
+            "demoman_sf12_badmagic01",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "DemomanSF13SpellMovementBuff",
@@ -9109,7 +9118,8 @@
             ]
         ],
         "events": [
-            "demoman_sf12_badmagic07"
+            "demoman_sf12_badmagic07",
+            "taunt_demo_barrel_roll_a2"
         ],
         "responses": [
             "demomanSmallHeadReaction"
@@ -9137,7 +9147,8 @@
             ]
         ],
         "events": [
-            "demoman_sf12_badmagic08"
+            "demoman_sf12_badmagic08",
+            "taunt_demo_barrel_roll_a2"
         ],
         "responses": [
             "DemomanSF13SpellMovementBuff",
@@ -9157,7 +9168,8 @@
         "base_name": "demoman_sf12_badmagic09",
         "criteria": [],
         "events": [
-            "demoman_sf12_badmagic09"
+            "demoman_sf12_badmagic09",
+            "taunt_demo_barrel_roll_a"
         ],
         "responses": [],
         "rules": [],
@@ -9174,7 +9186,8 @@
             ]
         ],
         "events": [
-            "demoman_sf12_badmagic10"
+            "demoman_sf12_badmagic10",
+            "taunt_demo_barrel_roll_a"
         ],
         "responses": [
             "DemomanSeeSpellMeteorSwarm"
@@ -11324,7 +11337,8 @@
             ]
         ],
         "events": [
-            "demoman.thanksfortheteleporter01"
+            "demoman.thanksfortheteleporter01",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "PlayerTeleporterThanksDemoman"
@@ -11841,7 +11855,8 @@
         "criteria": [],
         "events": [
             "demo_taunt_flip_random_waiting2",
-            "demo_taunt_neck_snap_04"
+            "demo_taunt_neck_snap_04",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -11878,7 +11893,8 @@
         "criteria": [],
         "events": [
             "demo_taunt_dosido_intro_rand",
-            "demo_taunt_dosido_start_rand"
+            "demo_taunt_dosido_start_rand",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Shanty Shipmate",
@@ -11943,6 +11959,8 @@
         "criteria": [],
         "events": [
             "demo_taunt_dosido_balance_rand",
+            "taunt_demo_barrel_roll_b",
+            "taunt_demo_barrel_roll_b2",
             "taunt_killer_joke_demo"
         ],
         "responses": [
@@ -11964,6 +11982,7 @@
         "base_name": "demo_taunt_wild_35",
         "criteria": [],
         "events": [
+            "taunt_demo_barrel_roll_b2",
             "taunt_killer_joke_demo"
         ],
         "responses": [
@@ -12508,7 +12527,8 @@
         "base_name": "taunt_demo_dose_end_05",
         "criteria": [],
         "events": [
-            "demo_taunt_dosido_end_rand"
+            "demo_taunt_dosido_end_rand",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Square Dance"
@@ -12602,12 +12622,25 @@
         "state": "used",
         "transcript": "Let's do-si-do, he he he!"
     },
+    "sound/vo/taunts/demo/taunt_demo_exert_03.mp3": {
+        "base_name": "taunt_demo_exert_03",
+        "criteria": [],
+        "events": [
+            "taunt_demo_barrel_roll_b"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
+        "transcript": ""
+    },
     "sound/vo/taunts/demo/taunt_demo_exert_04.mp3": {
         "base_name": "taunt_demo_exert_04",
         "criteria": [],
         "events": [
             "demo_taunt_flip_random_flipexert",
-            "demo_taunt_scotsmans_stagger_taunt_hop"
+            "demo_taunt_scotsmans_stagger_taunt_hop",
+            "taunt_demo_barrel_roll_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -12630,7 +12663,8 @@
         "base_name": "taunt_demo_exert_06",
         "criteria": [],
         "events": [
-            "demo_taunt_flip_random_flipexert"
+            "demo_taunt_flip_random_flipexert",
+            "taunt_demo_barrel_roll_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -12650,7 +12684,8 @@
         "criteria": [],
         "events": [
             "demo_taunt_flip_random_flipexert",
-            "demo_taunt_scotsmans_stagger_taunt_hop"
+            "demo_taunt_scotsmans_stagger_taunt_hop",
+            "taunt_demo_barrel_roll_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -12717,7 +12752,8 @@
         "base_name": "taunt_demo_flip_fun_03",
         "criteria": [],
         "events": [
-            "demo_taunt_neck_snap_03"
+            "demo_taunt_neck_snap_03",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Neck Snap"
@@ -12925,7 +12961,8 @@
         "criteria": [],
         "events": [
             "demo.shanty_shipmate_outro",
-            "demo_taunt_flip_random_flipflipfinish1"
+            "demo_taunt_flip_random_flipflipfinish1",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -12970,7 +13007,8 @@
         "criteria": [],
         "events": [
             "demo.shanty_shipmate_outro",
-            "demo_taunt_flip_random_flipflipfinish1"
+            "demo_taunt_flip_random_flipflipfinish1",
+            "taunt_demo_barrel_roll_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -12991,7 +13029,8 @@
         "criteria": [],
         "events": [
             "demo.shanty_shipmate_outro",
-            "demo_taunt_flip_random_flipflipfinish1"
+            "demo_taunt_flip_random_flipflipfinish1",
+            "taunt_demo_barrel_roll_b"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -13083,7 +13122,8 @@
         "base_name": "taunt_demo_head_exert_05",
         "criteria": [],
         "events": [
-            "demo_taunt_headbutt_success_exert"
+            "demo_taunt_headbutt_success_exert",
+            "taunt_demo_barrel_roll_c"
         ],
         "responses": [
             "Taunt: Skullcracker"
@@ -13713,7 +13753,8 @@
         "criteria": [],
         "events": [
             "demo_taunt_russian_randend",
-            "taunt.bearhug_demoman_a"
+            "taunt.bearhug_demoman_a",
+            "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
             "Taunt: Bear Hug",

@@ -4238,7 +4238,7 @@ Filename:,sniper_item_birdhead_uber01,,Events:,['sniper_item_birdhead_uber01']
 Full Path:,sound/vo/sniper_item_birdhead_uber01.mp3,,Scenes:,['scenes/player/sniper/low/7306.vcd']
 Transcription:,Hoot! HOOOOT!,,Responses:,['item_birdhead_uberSniper']
 Your Line:,,,Rules:,['item_birdhead_uberSniper']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSniper', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsSniperBirdHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSniper', 'IsInvulnerable', 'SniperNotInvulnerableSpeech', '20PercentChance', 'IsSniperBirdHead', 'AppliesContext:SniperInvulnerableSpeech:1:30']]"
 
 Filename:,sniper_item_unicorn_cart_forward01,,Events:,['sniper_item_unicorn_cart_forward01']
 Full Path:,sound/vo/sniper_item_unicorn_cart_forward01.mp3,,Scenes:,['scenes/player/sniper/low/7286.vcd']
@@ -4304,7 +4304,7 @@ Filename:,sniper_item_unicorn_uber01,,Events:,['sniper_item_unicorn_uber01']
 Full Path:,sound/vo/sniper_item_unicorn_uber01.mp3,,Scenes:,['scenes/player/sniper/low/7287.vcd']
 Transcription:,Who wants some bloody horn?!,,Responses:,['item_unicorn_uberSniper']
 Your Line:,,,Rules:,['item_unicorn_uberSniper']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsSniper', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsSniper', 'IsInvulnerable', 'SniperNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:SniperInvulnerableSpeech:1:30']]"
 
 Filename:,cm_sniper_gamewon_01,,Events:,['cm_sniper_gamewon_01']
 Full Path:,sound/vo/compmode/cm_sniper_gamewon_01.mp3,,Scenes:,['scenes/player/sniper/low/cm_sniper_gamewon_01.vcd']

@@ -7159,12 +7159,14 @@
         "base_name": "heavy_item_birdhead_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsHeavyBirdHead"
+                "IsHeavyBirdHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7186,12 +7188,14 @@
         "base_name": "heavy_item_birdhead_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsHeavyBirdHead"
+                "IsHeavyBirdHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7213,12 +7217,14 @@
         "base_name": "heavy_item_birdhead_uber03",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsHeavyBirdHead"
+                "IsHeavyBirdHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7419,12 +7425,14 @@
         "base_name": "heavy_item_unicorn_uber01",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7446,12 +7454,14 @@
         "base_name": "heavy_item_unicorn_uber02",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -7473,12 +7483,14 @@
         "base_name": "heavy_item_unicorn_uber03",
         "criteria": [
             [
-                "ConceptMedicChargeDeployed",
+                "ConceptFireMinigun",
                 "IsHeavy",
+                "WeaponIsMinigun",
                 "IsInvulnerable",
-                "MedicNotInvulnerableSpeech",
+                "HeavyNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsUnicornHead"
+                "IsUnicornHead",
+                "AppliesContext:HeavyInvulnerableSpeech:1:30"
             ]
         ],
         "events": [

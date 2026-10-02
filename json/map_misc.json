@@ -4219,6 +4219,16 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/demo_charge_01.mp3": {
+        "base_name": "demo_charge_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/demo_charge_01.wav": {
         "base_name": "demo_charge_01",
         "criteria": [],
@@ -4229,8 +4239,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/demo_charge_02.mp3": {
+        "base_name": "demo_charge_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/demo_charge_02.wav": {
         "base_name": "demo_charge_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/demo_charge_03.mp3": {
+        "base_name": "demo_charge_03",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4279,8 +4309,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/engineer_emp_01.mp3": {
+        "base_name": "engineer_emp_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/engineer_emp_01.wav": {
         "base_name": "engineer_emp_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/engineer_emp_02.mp3": {
+        "base_name": "engineer_emp_02",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4299,8 +4349,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/engineer_emp_03.mp3": {
+        "base_name": "engineer_emp_03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/engineer_emp_03.wav": {
         "base_name": "engineer_emp_03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/engineer_emp_04.mp3": {
+        "base_name": "engineer_emp_04",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4319,8 +4389,188 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/heavy_rock_grab1.mp3": {
+        "base_name": "heavy_rock_grab1",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab1.wav": {
+        "base_name": "heavy_rock_grab1",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab2.mp3": {
+        "base_name": "heavy_rock_grab2",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab2.wav": {
+        "base_name": "heavy_rock_grab2",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab3.mp3": {
+        "base_name": "heavy_rock_grab3",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab3.wav": {
+        "base_name": "heavy_rock_grab3",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab4.mp3": {
+        "base_name": "heavy_rock_grab4",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab4.wav": {
+        "base_name": "heavy_rock_grab4",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab5.mp3": {
+        "base_name": "heavy_rock_grab5",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_grab5.wav": {
+        "base_name": "heavy_rock_grab5",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_impact.mp3": {
+        "base_name": "heavy_rock_impact",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_impact.wav": {
+        "base_name": "heavy_rock_impact",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_throw.mp3": {
+        "base_name": "heavy_rock_throw",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/heavy_rock_throw.wav": {
+        "base_name": "heavy_rock_throw",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/medic_zombie_heal.wav": {
         "base_name": "medic_zombie_heal",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/pyro_spew_cast01.wav": {
+        "base_name": "pyro_spew_cast01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/pyro_spew_cast02.wav": {
+        "base_name": "pyro_spew_cast02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/pyro_spew_cast03.wav": {
+        "base_name": "pyro_spew_cast03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/pyro_spew_song.wav": {
+        "base_name": "pyro_spew_song",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4349,8 +4599,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/sniper_spit_01.mp3": {
+        "base_name": "sniper_spit_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/sniper_spit_01.wav": {
         "base_name": "sniper_spit_01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/sniper_spit_end.mp3": {
+        "base_name": "sniper_spit_end",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4369,8 +4639,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/sniper_spit_start.mp3": {
+        "base_name": "sniper_spit_start",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/sniper_spit_start.wav": {
         "base_name": "sniper_spit_start",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/soldier_pounce_01.mp3": {
+        "base_name": "soldier_pounce_01",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4389,8 +4679,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/soldier_pounce_02.mp3": {
+        "base_name": "soldier_pounce_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/soldier_pounce_02.wav": {
         "base_name": "soldier_pounce_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/soldier_pounce_03.mp3": {
+        "base_name": "soldier_pounce_03",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4409,8 +4719,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/soldier_pounce_04.mp3": {
+        "base_name": "soldier_pounce_04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/soldier_pounce_04.wav": {
         "base_name": "soldier_pounce_04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/spy_reveal_01.mp3": {
+        "base_name": "spy_reveal_01",
         "criteria": [],
         "events": [],
         "responses": [],
@@ -4429,8 +4759,28 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/infection/spy_reveal_02.mp3": {
+        "base_name": "spy_reveal_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
     "sound/infection/spy_reveal_02.wav": {
         "base_name": "spy_reveal_02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/infection/spy_reveal_03.mp3": {
+        "base_name": "spy_reveal_03",
         "criteria": [],
         "events": [],
         "responses": [],

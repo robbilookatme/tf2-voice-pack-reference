@@ -2736,12 +2736,23 @@
         "base_name": "medic_item_birdhead_uber01",
         "criteria": [
             [
+                "ConceptFireWeapon",
+                "IsMedic",
+                "IsInvulnerable",
+                "WeaponIsNotMediGun",
+                "MedicNotInvulnerableSpeech",
+                "20PercentChance",
+                "IsMedicBirdHead",
+                "AppliesContext:MedicInvulnerableSpeech:1:30"
+            ],
+            [
                 "ConceptMedicChargeDeployed",
                 "IsMedic",
                 "IsInvulnerable",
                 "MedicNotInvulnerableSpeech",
                 "20PercentChance",
-                "IsMedicBirdHead"
+                "IsMedicBirdHead",
+                "AppliesContext:MedicInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -2751,7 +2762,8 @@
             "item_birdhead_uberMedic"
         ],
         "rules": [
-            "item_birdhead_uberMedic"
+            "item_birdhead_uberMedic",
+            "item_birdhead_uberMedic2"
         ],
         "scenes": [
             "scenes/player/medic/low/6918.vcd"
@@ -3184,12 +3196,23 @@
         "base_name": "medic_item_secop_uber01",
         "criteria": [
             [
+                "ConceptFireWeapon",
+                "IsMedic",
+                "IsInvulnerable",
+                "WeaponIsNotMediGun",
+                "MedicNotInvulnerableSpeech",
+                "30PercentChance",
+                "IsMedicDoubleFace",
+                "AppliesContext:MedicInvulnerableSpeech:1:30"
+            ],
+            [
                 "ConceptMedicChargeDeployed",
                 "IsMedic",
                 "IsInvulnerable",
                 "MedicNotInvulnerableSpeech",
                 "30PercentChance",
-                "IsMedicDoubleFace"
+                "IsMedicDoubleFace",
+                "AppliesContext:MedicInvulnerableSpeech:1:30"
             ]
         ],
         "events": [
@@ -3199,7 +3222,8 @@
             "item_secop_uberMedic"
         ],
         "rules": [
-            "item_secop_uberMedic"
+            "item_secop_uberMedic",
+            "item_secop_uberMedic2"
         ],
         "scenes": [
             "scenes/player/medic/low/6853.vcd"
@@ -3985,7 +4009,8 @@
             ]
         ],
         "events": [
-            "medic.laughevil01"
+            "medic.laughevil01",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "PlayerTauntsMedic"
@@ -4023,7 +4048,8 @@
             "medic.laughevil02",
             "medic_taunt_burrowed_bones_01",
             "medic_taunt_heartbreaker_voice_c",
-            "medic_tauntdoctors_defibrillators_medic_laughevil02"
+            "medic_tauntdoctors_defibrillators_medic_laughevil02",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "PlayerKilledDominatingMedic",
@@ -4053,7 +4079,8 @@
         "events": [
             "medic.laughevil03",
             "medic_taunt_burrowed_bones_01",
-            "taunt.bearhug_medic_b"
+            "taunt.bearhug_medic_b",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "PlayerTauntsMedic",
@@ -4120,7 +4147,8 @@
         ],
         "events": [
             "medic.laughevil05",
-            "medic.taunt_doctors_defibrillators_outro"
+            "medic.taunt_doctors_defibrillators_outro",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "PlayerKilledDominatingMedic",
@@ -4349,7 +4377,8 @@
             ]
         ],
         "events": [
-            "medic.laughshort01"
+            "medic.laughshort01",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "PlayerTauntsMedic",
@@ -4375,7 +4404,8 @@
         ],
         "events": [
             "medic.laughshort02",
-            "medic_taunt_heartbreaker_voice_c"
+            "medic_taunt_heartbreaker_voice_c",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "PlayerTauntsMedic",
@@ -4415,6 +4445,7 @@
             "medic.laughshort03",
             "medic.taunt_doctors_defibrillators_outro",
             "medic_taunt_heartbreaker_voice_c",
+            "taunt_medic_medbottle_voice_b",
             "taunt_yeti_medic"
         ],
         "responses": [
@@ -5480,7 +5511,8 @@
             ]
         ],
         "events": [
-            "medic_mvm_loot_common01"
+            "medic_mvm_loot_common01",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "MedicMvMLootCommon"
@@ -5589,7 +5621,8 @@
             ]
         ],
         "events": [
-            "medic_mvm_loot_godlike02"
+            "medic_mvm_loot_godlike02",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "MedicMvMLootUltraRare"
@@ -5659,7 +5692,8 @@
         ],
         "events": [
             "medic_mvm_loot_rare02",
-            "medic_tauntthe_head_doctor_medic_sf12_badmagic02"
+            "medic_tauntthe_head_doctor_medic_sf12_badmagic02",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "MedicMvMLootRare",
@@ -9622,7 +9656,8 @@
         ],
         "events": [
             "medic.specialcompleted10",
-            "medic_taunt_heartbreaker_voice_b"
+            "medic_taunt_heartbreaker_voice_b",
+            "taunt_medic_medbottle_voice_oops"
         ],
         "responses": [
             "KilledPlayerVeryManyMedic",
@@ -10100,7 +10135,8 @@
             "medic_taunt_burrowed_bones_02",
             "medic_taunt_heartbreaker_voice_a",
             "medic_trade_taunts02",
-            "taunt_medic_aerobic_outro"
+            "taunt_medic_aerobic_outro",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "Taunt: Borrowed Bones",
@@ -11875,7 +11911,8 @@
         "events": [
             "medic_secondrate_sorcery_medic_medic_taunt_kill_24",
             "medic_taunt_xray_2b_dead",
-            "taunt_killer_joke_medic_2"
+            "taunt_killer_joke_medic_2",
+            "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
             "Taunt: Killer Joke",
@@ -12858,7 +12895,8 @@
         "events": [
             "medic.taunt_doctors_defibrillators_intro",
             "medic.taunts12",
-            "medic_taunt_burrowed_bones_02"
+            "medic_taunt_burrowed_bones_02",
+            "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
             "MeleeDareCombatMedic",

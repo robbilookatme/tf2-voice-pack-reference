@@ -3326,7 +3326,7 @@ Filename:,engineer_item_unicorn_uber01,,Events:,['engineer_item_unicorn_uber01']
 Full Path:,sound/vo/engineer_item_unicorn_uber01.mp3,,Scenes:,['scenes/player/engineer/low/7963.vcd']
 Transcription:,I am a pink pony god!,,Responses:,['item_unicorn_uberEngineer']
 Your Line:,,,Rules:,['item_unicorn_uberEngineer']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsEngineer', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsEngineer', 'IsInvulnerable', 'EngineerNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:EngineerInvulnerableSpeech:1:30']]"
 
 Filename:,cm_engie_gamewon_01,,Events:,['cm_engie_gamewon_01']
 Full Path:,sound/vo/compmode/cm_engie_gamewon_01.mp3,,Scenes:,['scenes/player/engineer/low/cm_engie_gamewon_01.vcd']

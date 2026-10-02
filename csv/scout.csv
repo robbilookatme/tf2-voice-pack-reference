@@ -868,7 +868,7 @@ Transcription:,"Yo, did ya even see me hittin' ya?",,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_domination05,,Events:,['scout.domination05']
+Filename:,scout_domination05,,Events:,"['scout.domination05', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/scout_domination05.mp3,,Scenes:,['scenes/player/scout/low/2555.vcd']
 Transcription:,"Hey, knucklehead, you ain't gonna win.",,Responses:,['PlayerKilledDominatingScoutScout']
 Your Line:,,,Rules:,['PlayerKilledDominatingScoutScout']
@@ -898,7 +898,7 @@ Transcription:,"Would you look at you? I mean, look at you.",,Responses:,['Playe
 Your Line:,,,Rules:,['PlayerKilledDominatingHeavyScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimHeavy', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,scout_domination10,,Events:,['scout.domination10']
+Filename:,scout_domination10,,Events:,"['scout.domination10', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/scout_domination10.mp3,,Scenes:,['scenes/player/scout/low/2649.vcd']
 Transcription:,I don't usually kill morons this fast.,,Responses:,['PlayerKilledDominatingDemomanScout']
 Your Line:,,,Rules:,['PlayerKilledDominatingDemomanScout']
@@ -928,7 +928,7 @@ Transcription:,You... are... terrible!,,Responses:,"['PlayerKilledDominatingScou
 Your Line:,,,Rules:,['PlayerKilledDominatingScoutScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsScout', 'IsDominated', 'IsVictimScout', 'AppliesContext:ScoutKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,scout_domination15,,Events:,['scout.domination15']
+Filename:,scout_domination15,,Events:,"['scout.domination15', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/scout_domination15.mp3,,Scenes:,['scenes/player/scout/low/2764.vcd']
 Transcription:,"You're gettin' dominated, chucklehead!",,Responses:,['PlayerKilledDominatingScout']
 Your Line:,,,Rules:,['PlayerKilledDominatingScout']
@@ -2014,11 +2014,17 @@ Transcription:,Ah!,,Responses:,['PlayerAttackerPainScout']
 Your Line:,,,Rules:,['PlayerAttackerPainScout']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsScout', 'IsNotDominating']]"
 
-Filename:,scout_painsevere04,,Events:,"['civilian.death', 'civilian.m_mvm_death', 'civilian.mvm_death', 'scout.death', 'scout.painsevere04']"
+Filename:,scout_painsevere04,,Events:,"['civilian.death', 'civilian.m_mvm_death', 'civilian.mvm_death', 'scout.death', 'scout.painsevere04', 'taunt_scout_showrunners_spirit_voice_a']"
 Full Path:,sound/vo/scout_painsevere04.mp3,,Scenes:,['scenes/player/scout/low/1361.vcd']
 Transcription:,Nnrg!,,Responses:,['PlayerAttackerPainScout']
 Your Line:,,,Rules:,['PlayerAttackerPainScout']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsScout', 'IsNotDominating']]"
+
+Filename:,scout_painsevere04,,Events:,['scout_taunt_showrunners_spirit_scout_painsevere04']
+Full Path:,sound/vo/scout_painsevere04.wav,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,scout_painsevere05,,Events:,"['civilian.death', 'civilian.m_mvm_death', 'civilian.mvm_death', 'scout.death', 'scout.painsevere05']"
 Full Path:,sound/vo/scout_painsevere05.mp3,,Scenes:,"['scenes/player/scout/low/1362.vcd', 'scenes/player/scout/low/taunt_yetipunch.vcd']"
@@ -2554,7 +2560,7 @@ Transcription:,"Yeah, why don't you come over and say that to my face, tough guy
 Your Line:,,,Rules:,"['ScoutTauntFestiveHolyMackerel', 'ScoutTauntHolyMackerel', 'ScoutTauntPlayerMelee', 'ScoutTauntUnarmedCombat', 'ScoutTauntWrapAssassin']"
 ,,,Criteria:,"[['ConceptPlayerTaunt', 'IsScout', 'WeaponIsBat'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsFestiveHolyMackerel'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsHolyMackerel'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsUnarmedCombat'], ['ConceptPlayerTaunt', 'IsScout', 'WeaponIsWrapAssassin']]"
 
-Filename:,scout_taunts04,,Events:,"['scout.taunts04', 'scout_mic_drop_scout_domination13']"
+Filename:,scout_taunts04,,Events:,"['scout.taunts04', 'scout_mic_drop_scout_domination13', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/taunts/scout_taunts04.mp3,,Scenes:,['scenes/player/scout/low/493.vcd']
 Transcription:,"Not so tough now, are ya? Are ya?!",,Responses:,['KilledPlayerManyScout']
 Your Line:,,,Rules:,['KilledPlayerManyScout']
@@ -2572,7 +2578,7 @@ Transcription:,"Yeah, come get some, you frickin' wuss!",,Responses:,"['Accepted
 Your Line:,,,Rules:,"['AcceptedDuelScout', 'MeleeDareCombatScout']"
 ,,,Criteria:,"[['ConceptIAcceptDuel', 'IsScout'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsScout', 'IsCrosshairEnemy']]"
 
-Filename:,scout_taunts07,,Events:,"['scout.taunts07', 'scout_taunt_trackmans_touchdown_end']"
+Filename:,scout_taunts07,,Events:,"['scout.taunts07', 'scout_taunt_trackmans_touchdown_end', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/taunts/scout_taunts07.mp3,,Scenes:,"['scenes/player/scout/low/taunt03_vocal05.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
 Transcription:,Who wants some-a this?,,Responses:,"['ScoutTauntMelee', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,"['ScoutTauntFestiveHolyMackerel', 'ScoutTauntHolyMackerel', 'ScoutTauntPlayerMelee', 'ScoutTauntUnarmedCombat', 'ScoutTauntWrapAssassin']"
@@ -2626,17 +2632,23 @@ Transcription:,You wimps suck!,,Responses:,['KilledPlayerMeleeCandyScout']
 Your Line:,,,Rules:,['KilledPlayerMeleeCandyScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'WeaponIsCandy', 'ScoutNotKillSpeechMelee', 'IsScout', 'AppliesContext:ScoutKillSpeechMelee:1:10']]"
 
-Filename:,scout_taunts16,,Events:,"['scout.taunts16', 'scout_mic_drop_scout_domination13']"
+Filename:,scout_taunts16,,Events:,"['scout.taunts16', 'scout_mic_drop_scout_domination13', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/taunts/scout_taunts16.mp3,,Scenes:,['scenes/player/scout/low/506.vcd']
 Transcription:,You knuckleheads ain't even worth the effort.,,Responses:,['KilledPlayerManyScout']
 Your Line:,,,Rules:,['KilledPlayerManyScout']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'ScoutNotKillSpeech', 'IsScout', 'AppliesContext:ScoutKillSpeech:1:5']]"
 
-Filename:,scout_taunts17,,Events:,['scout.taunts17']
+Filename:,scout_taunts17,,Events:,"['scout.taunts17', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/taunts/scout_taunts17.mp3,,Scenes:,['scenes/player/scout/low/507.vcd']
 Transcription:,You morons are about to catch a real beatin'.,,Responses:,['PlayerCritColaVocalScout']
 Your Line:,,,Rules:,['PlayerCritColaVocalScout']
 ,,,Criteria:,"[['ConceptFireWeapon', 'IsScout', 'LoadoutIsCritDrink', 'ScoutIsNotCrit']]"
+
+Filename:,scout_taunts17,,Events:,['scout_taunt_showrunners_spirit_scout_taunts17']
+Full Path:,sound/vo/taunts/scout_taunts17.wav,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,scout_taunts18,,Events:,"['scout.taunts18', 'scout_mic_drop_scout_domination13']"
 Full Path:,sound/vo/taunts/scout_taunts18.mp3,,Scenes:,['scenes/player/scout/low/1308.vcd']
@@ -3388,7 +3400,7 @@ Transcription:,I gotta dance!,,Responses:,"['Taunt: Square Dance', 'Taunt: The B
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunt_exert_05,,Events:,['scout_taunt_headbutt_success_windup']
+Filename:,scout_taunt_exert_05,,Events:,"['scout_taunt_headbutt_success_windup', 'taunt_scout_showrunners_spirit_voice_a']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_exert_05.mp3,,Scenes:,['scenes/player/scout/low/taunt_headbutt_success.vcd']
 Transcription:,Uhhyah!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
@@ -3400,7 +3412,7 @@ Transcription:,Oogh!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunt_exert_21,,Events:,"['scout_taunt_headbutt_success_windup', 'scout_taunt_trackmans_touchdown_start']"
+Filename:,scout_taunt_exert_21,,Events:,"['scout_taunt_headbutt_success_windup', 'scout_taunt_trackmans_touchdown_start', 'taunt_scout_showrunners_spirit_voice_a']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_exert_21.mp3,,Scenes:,"['scenes/player/scout/low/taunt_headbutt_success.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
 Transcription:,Boom!,,Responses:,"['Taunt: Skullcracker', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
@@ -3478,11 +3490,17 @@ Transcription:,"You, it's all you, baby!",,Responses:,"[""Taunt: Flippin' Awesom
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunt_flip_exert_01,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
+Filename:,scout_taunt_flip_exert_01,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin', 'taunt_scout_showrunners_spirit_voice_c']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_01.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
 Transcription:,Uhrah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
+
+Filename:,scout_taunt_flip_exert_01,,Events:,['scout_taunt_showrunners_spirit_scout_taunt_flip_exert_01']
+Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_01.wav,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
 
 Filename:,scout_taunt_flip_exert_05,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_05.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
@@ -3502,7 +3520,7 @@ Transcription:,UHYEAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Bo
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunt_flip_exert_10,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin']"
+Filename:,scout_taunt_flip_exert_10,,Events:,"['scout_taunt_flip_random_flipexert', 'scout_taunt_trackmans_touchdown_start', 'taunt.bunnyhop_flip', 'taunt.bunnyhop_spin', 'taunt_scout_showrunners_spirit_voice_a']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_flip_exert_10.mp3,,Scenes:,"['scenes/player/scout/low/flip_success_initiator0.vcd', 'scenes/player/scout/low/flip_success_initiator1.vcd', 'scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd', 'scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd', 'scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd']"
 Transcription:,UHNNAH!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Boston Boarder', 'Taunt: The Bunnyhopper', ""Taunt: The Trackman's Touchdown""]"
 Your Line:,,,Rules:,[]
@@ -3754,7 +3772,7 @@ Transcription:,"[yawns] ""I'm a death machine.""",,Responses:,"[""Taunt: Battin'
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,scout_taunt_nun_65,,Events:,"['scout_taunt_batman_2_yawn', 'taunt_killer_signature_scout_intro', 'taunt_scout_chairholder_loop_c']"
+Filename:,scout_taunt_nun_65,,Events:,"['scout_taunt_batman_2_yawn', 'taunt_killer_signature_scout_intro', 'taunt_scout_chairholder_loop_c', 'taunt_scout_showrunners_spirit_voice_b']"
 Full Path:,sound/vo/taunts/scout/scout_taunt_nun_65.mp3,,Scenes:,"['scenes/player/scout/low/taunt_bat_man.vcd', 'scenes/workshop/player/scout/low/taunt_chairholder.vcd', 'scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd']"
 Transcription:,"[yawns] ""Oh yeah. I'm da best.""",,Responses:,"[""Taunt: Battin' a Thousand"", 'Taunt: Chairholder', 'Taunt: The Killer Signature']"
 Your Line:,,,Rules:,[]
@@ -4778,13 +4796,13 @@ Filename:,scout_item_unicorn_uber01,,Events:,['scout_item_unicorn_uber01']
 Full Path:,sound/vo/scout_item_unicorn_uber01.mp3,,Scenes:,['scenes/player/scout/low/7030.vcd']
 Transcription:,I am a horned nightmare!,,Responses:,['item_unicorn_uberScout']
 Your Line:,,,Rules:,['item_unicorn_uberScout']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsScout', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsScout', 'IsInvulnerable', 'ScoutNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:ScoutInvulnerableSpeech:1:30']]"
 
 Filename:,scout_item_unicorn_uber02,,Events:,['scout_item_unicorn_uber02']
 Full Path:,sound/vo/scout_item_unicorn_uber02.mp3,,Scenes:,['scenes/player/scout/low/8517.vcd']
 Transcription:,I am an invincible unicorn!,,Responses:,['item_unicorn_uberScout']
 Your Line:,,,Rules:,['item_unicorn_uberScout']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsScout', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsScout', 'IsInvulnerable', 'ScoutNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:ScoutInvulnerableSpeech:1:30']]"
 
 Filename:,cm_scout_gamewon_01,,Events:,['cm_scout_gamewon_01']
 Full Path:,sound/vo/compmode/cm_scout_gamewon_01.mp3,,Scenes:,['scenes/player/scout/low/cm_scout_gamewon_01.vcd']

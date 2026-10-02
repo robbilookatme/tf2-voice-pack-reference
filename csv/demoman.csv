@@ -1156,7 +1156,7 @@ Transcription:,Eh.,,Responses:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoma
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
-Filename:,demoman_negativevocalization03,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization03']"
+Filename:,demoman_negativevocalization03,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization03', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_negativevocalization03.mp3,,Scenes:,"['scenes/player/demoman/low/969.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
 Transcription:,ACH!,,Responses:,"['DemomanJarateHit', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman', ""Taunt: Drunk Mann's Cannon""]"
 Your Line:,,,Rules:,"['DemomanJarateHit', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
@@ -1168,13 +1168,13 @@ Transcription:,Bloody hell!,,Responses:,"['PlayerLostPointDemoman', 'PlayerNegat
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
-Filename:,demoman_negativevocalization05,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization05']"
+Filename:,demoman_negativevocalization05,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization05', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_negativevocalization05.mp3,,Scenes:,"['scenes/player/demoman/low/971.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd']"
 Transcription:,AW CRIPE!,,Responses:,"['DemomanJarateHit', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman', ""Taunt: Drunk Mann's Cannon""]"
 Your Line:,,,Rules:,"['DemomanJarateHit', 'PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
 ,,,Criteria:,"[['ConceptJarateHit', 'IsDemoman', '50PercentChance'], ['ConceptPlayerLostPoint', 'IsDemoman'], ['ConceptPlayerNegative', 'IsDemoman']]"
 
-Filename:,demoman_negativevocalization06,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization06']"
+Filename:,demoman_negativevocalization06,,Events:,"['demo.drunk_manns_cannon_outro', 'demoman.negativevocalization06', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_negativevocalization06.mp3,,Scenes:,"['scenes/player/demoman/low/972.vcd', 'scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd', 'scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd']"
 Transcription:,BAW!,,Responses:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman', ""Taunt: Drunk Mann's Cannon"", 'Taunt: Unleashed Rage']"
 Your Line:,,,Rules:,"['PlayerLostPointDemoman', 'PlayerNegativeDemoman']"
@@ -1252,7 +1252,7 @@ Transcription:,(Yell 1),,Responses:,"['PlayerAttackerPainDemoman', 'Taunt: The S
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
 ,,,Criteria:,"[['ConceptAttackerPain', 'IsDemoman', 'IsNotDominating']]"
 
-Filename:,demoman_painsevere02,,Events:,"['demoman.death', 'demoman.painsevere02']"
+Filename:,demoman_painsevere02,,Events:,"['demoman.death', 'demoman.painsevere02', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_painsevere02.mp3,,Scenes:,['scenes/player/demoman/low/984.vcd']
 Transcription:,(Yell 2),,Responses:,['PlayerAttackerPainDemoman']
 Your Line:,,,Rules:,['PlayerAttackerPainDemoman']
@@ -1282,7 +1282,7 @@ Transcription:,(Grunt 2),,Responses:,"['PlayerPainDemoman', 'PlayerStillOnFireDe
 Your Line:,,,Rules:,"['PlayerPainDemoman', 'PlayerStillOnFireDemoman']"
 ,,,Criteria:,"[['ConceptFire', 'IsDemoman', 'DemomanIsStillonFire', 'IsNotDominating', 'AppliesContext:DemomanOnFire:1:7'], ['ConceptPain', 'IsDemoman', 'IsNotDominating']]"
 
-Filename:,demoman_painsharp03,,Events:,"['demoman.explosiondeath', 'demoman.painsharp03']"
+Filename:,demoman_painsharp03,,Events:,"['demoman.explosiondeath', 'demoman.painsharp03', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_painsharp03.mp3,,Scenes:,"['scenes/player/demoman/low/988.vcd', 'scenes/workshop/player/demoman/low/secondrate_sorcery.vcd']"
 Transcription:,(Grunt3 ),,Responses:,"['PlayerPainDemoman', 'Taunt: Second Rate Sorcery']"
 Your Line:,,,Rules:,['PlayerPainDemoman']
@@ -1498,7 +1498,7 @@ Transcription:,"Thanks, doc!",,Responses:,['HealThanksDemoman']
 Your Line:,,,Rules:,['HealThanksDemoman']
 ,,,Criteria:,"[['ConceptMedicChargeStopped', 'IsDemoman', 'SuperHighHealthContext', 'DemomanNotSaidHealThanks', '50PercentChance', 'AppliesContext:DemomanSaidHealThanks:1:20']]"
 
-Filename:,demoman_thanksfortheteleporter01,,Events:,['demoman.thanksfortheteleporter01']
+Filename:,demoman_thanksfortheteleporter01,,Events:,"['demoman.thanksfortheteleporter01', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_thanksfortheteleporter01.mp3,,Scenes:,['scenes/player/demoman/low/1035.vcd']
 Transcription:,Thanks fer the ride!,,Responses:,['PlayerTeleporterThanksDemoman']
 Your Line:,,,Rules:,['PlayerTeleporterThanksDemoman']
@@ -2014,7 +2014,7 @@ Transcription:,I love cheap whiskey!,,Responses:,"['Taunt: Spent Well Spirits', 
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_taunt_wild_24,,Events:,"['demo_taunt_flip_random_waiting2', 'demo_taunt_neck_snap_04']"
+Filename:,demo_taunt_wild_24,,Events:,"['demo_taunt_flip_random_waiting2', 'demo_taunt_neck_snap_04', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/demo_taunt_wild_24.mp3,,Scenes:,"['scenes/player/demoman/low/flip_start.vcd', 'scenes/workshop/player/demoman/low/taunt_neck_snap.vcd']"
 Transcription:,Hah ha!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Neck Snap']"
 Your Line:,,,Rules:,[]
@@ -2026,7 +2026,7 @@ Transcription:,Ah hah ha!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_taunt_wild_30,,Events:,"['demo_taunt_dosido_intro_rand', 'demo_taunt_dosido_start_rand']"
+Filename:,demo_taunt_wild_30,,Events:,"['demo_taunt_dosido_intro_rand', 'demo_taunt_dosido_start_rand', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/demo_taunt_wild_30.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_dosido_intro01.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd']"
 Transcription:,Whoop de doo!,,Responses:,"['Taunt: Shanty Shipmate', 'Taunt: Square Dance']"
 Your Line:,,,Rules:,[]
@@ -2050,13 +2050,13 @@ Transcription:,Wooh hoo!,,Responses:,"['Taunt: Square Dance', 'Taunt: The Victor
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_taunt_wild_34,,Events:,"['demo_taunt_dosido_balance_rand', 'taunt_killer_joke_demo']"
+Filename:,demo_taunt_wild_34,,Events:,"['demo_taunt_dosido_balance_rand', 'taunt_demo_barrel_roll_b', 'taunt_demo_barrel_roll_b2', 'taunt_killer_joke_demo']"
 Full Path:,sound/vo/taunts/demo/demo_taunt_wild_34.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_dosido_dance00.vcd', 'scenes/player/demoman/low/taunt_dosido_dance01.vcd', 'scenes/player/demoman/low/taunt_vehicle_allclass.vcd', 'scenes/workshop/player/demoman/low/taunt_killer_joke.vcd']"
 Transcription:,Woo hooh.,,Responses:,"['Taunt: Killer Joke', 'Taunt: Square Dance', 'Taunt: The Victory Lap']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demo_taunt_wild_35,,Events:,['taunt_killer_joke_demo']
+Filename:,demo_taunt_wild_35,,Events:,"['taunt_demo_barrel_roll_b2', 'taunt_killer_joke_demo']"
 Full Path:,sound/vo/taunts/demo/demo_taunt_wild_35.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_killer_joke.vcd']
 Transcription:,[weakly] Whoo hoo!,,Responses:,['Taunt: Killer Joke']
 Your Line:,,,Rules:,[]
@@ -2242,7 +2242,7 @@ Transcription:,He hee hoo!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Sh
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_dose_end_05,,Events:,['demo_taunt_dosido_end_rand']
+Filename:,taunt_demo_dose_end_05,,Events:,"['demo_taunt_dosido_end_rand', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_dose_end_05.mp3,,Scenes:,['scenes/player/demoman/low/taunt_dosido_dance01.vcd']
 Transcription:,Ooogh!,,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
@@ -2278,19 +2278,25 @@ Transcription:,"Let's do-si-do, he he he!",,Responses:,['Taunt: Square Dance']
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_exert_04,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
+Filename:,taunt_demo_exert_03,,Events:,['taunt_demo_barrel_roll_b']
+Full Path:,sound/vo/taunts/demo/taunt_demo_exert_03.mp3,,Scenes:,[]
+Transcription:,,,Responses:,[]
+Your Line:,,,Rules:,[]
+Missing?,,,Criteria:,[]
+
+Filename:,taunt_demo_exert_04,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop', 'taunt_demo_barrel_roll_b']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_exert_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
 Transcription:,Heyap!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger"", 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_exert_06,,Events:,['demo_taunt_flip_random_flipexert']
+Filename:,taunt_demo_exert_06,,Events:,"['demo_taunt_flip_random_flipexert', 'taunt_demo_barrel_roll_b']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_exert_06.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd']"
 Transcription:,Howup!,,Responses:,"[""Taunt: Flippin' Awesome""]"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_exert_08,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop']"
+Filename:,taunt_demo_exert_08,,Events:,"['demo_taunt_flip_random_flipexert', 'demo_taunt_scotsmans_stagger_taunt_hop', 'taunt_demo_barrel_roll_b']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_exert_08.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_initiator0.vcd', 'scenes/player/demoman/low/flip_success_initiator1.vcd', 'scenes/player/demoman/low/flip_success_receiver0.vcd', 'scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd', 'scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd']"
 Transcription:,Heyup!,,Responses:,"[""Taunt: Flippin' Awesome"", ""Taunt: Scotsmann's Stagger"", 'Taunt: The Fist Bump']"
 Your Line:,,,Rules:,[]
@@ -2308,7 +2314,7 @@ Transcription:,Wooohooo!,,Responses:,"['Taunt: Kazotsky Kick', 'Taunt: Mannrobic
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_fun_03,,Events:,['demo_taunt_neck_snap_03']
+Filename:,taunt_demo_flip_fun_03,,Events:,"['demo_taunt_neck_snap_03', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_flip_fun_03.mp3,,Scenes:,['scenes/workshop/player/demoman/low/taunt_neck_snap.vcd']
 Transcription:,Whoaaaa!,,Responses:,['Taunt: Neck Snap']
 Your Line:,,,Rules:,[]
@@ -2386,7 +2392,7 @@ Transcription:,Uhhh!,,Responses:,"[""Taunt: Scotsmann's Stagger"", 'Taunt: The F
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_01,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1']"
+Filename:,taunt_demo_flip_post_fun_01,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_flip_post_fun_01.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
 Transcription:,"Oof, I'm dizzy!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
@@ -2398,13 +2404,13 @@ Transcription:,"Oh ho ah ho, I'm dizzy!",,Responses:,"['Taunt: Burstchester', ""
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_04,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1']"
+Filename:,taunt_demo_flip_post_fun_04,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1', 'taunt_demo_barrel_roll_b']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_flip_post_fun_04.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
 Transcription:,"Ough, I must be drunk!",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_flip_post_fun_05,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1']"
+Filename:,taunt_demo_flip_post_fun_05,,Events:,"['demo.shanty_shipmate_outro', 'demo_taunt_flip_random_flipflipfinish1', 'taunt_demo_barrel_roll_b']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_flip_post_fun_05.mp3,,Scenes:,"['scenes/player/demoman/low/flip_success_receiver1.vcd', 'scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd', 'scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd']"
 Transcription:,"Hwap, ouww.",,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: Shanty Shipmate', 'Taunt: The Pooped Deck']"
 Your Line:,,,Rules:,[]
@@ -2428,7 +2434,7 @@ Transcription:,"Ha ha, ya crazy man!",,Responses:,"['Taunt: Bear Hug', 'Taunt: B
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_head_exert_05,,Events:,['demo_taunt_headbutt_success_exert']
+Filename:,taunt_demo_head_exert_05,,Events:,"['demo_taunt_headbutt_success_exert', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_head_exert_05.mp3,,Scenes:,['scenes/player/demoman/low/taunt_headbutt_success.vcd']
 Transcription:,Erroough!,,Responses:,['Taunt: Skullcracker']
 Your Line:,,,Rules:,[]
@@ -2632,7 +2638,7 @@ Transcription:,Yeh hah!,,Responses:,"['Taunt: Rock, Paper, Scissors', 'Taunt: Se
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,taunt_demo_rps_win_28,,Events:,"['demo_taunt_russian_randend', 'taunt.bearhug_demoman_a']"
+Filename:,taunt_demo_rps_win_28,,Events:,"['demo_taunt_russian_randend', 'taunt.bearhug_demoman_a', 'taunt_demo_barrel_roll_b2']"
 Full Path:,sound/vo/taunts/demo/taunt_demo_rps_win_28.mp3,,Scenes:,"['scenes/player/demoman/low/taunt_russian.vcd', 'scenes/workshop/player/demoman/low/taunt_bear_hug.vcd', 'scenes/workshop/player/demoman/low/taunt_shipwheel.vcd']"
 Transcription:,That's a wee!,,Responses:,"['Taunt: Bear Hug', 'Taunt: Kazotsky Kick', 'Taunt: The Drunken Sailor']"
 Your Line:,,,Rules:,[]
@@ -2644,7 +2650,7 @@ Transcription:,Hah!,,Responses:,"[""Taunt: Flippin' Awesome"", 'Taunt: The Final
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_sf12_badmagic01,,Events:,['demoman_sf12_badmagic01']
+Filename:,demoman_sf12_badmagic01,,Events:,"['demoman_sf12_badmagic01', 'taunt_demo_barrel_roll_c']"
 Full Path:,sound/vo/demoman_sf12_badmagic01.mp3,,Scenes:,['scenes/player/demoman/low/4586.vcd']
 Transcription:,Ahhh! Me head!,,Responses:,"['DemomanSF13SpellMovementBuff', 'demomanBigHeadReaction', 'demomanSmallHeadReaction']"
 Your Line:,,,Rules:,"['DemomanSF13SpellMovementBuff', 'demomanBigHeadReaction', 'demomanSmallHeadReaction']"
@@ -2680,25 +2686,25 @@ Transcription:,"Yer wicked! And you'll burn fer it, Merasmus!",,Responses:,['dem
 Your Line:,,,Rules:,['demomanGravityReaction']
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isdemoman', '50PercentChance']]"
 
-Filename:,demoman_sf12_badmagic07,,Events:,['demoman_sf12_badmagic07']
+Filename:,demoman_sf12_badmagic07,,Events:,"['demoman_sf12_badmagic07', 'taunt_demo_barrel_roll_a2']"
 Full Path:,sound/vo/demoman_sf12_badmagic07.mp3,,Scenes:,['scenes/player/demoman/low/4592.vcd']
 Transcription:,"Oh, this is not good.",,Responses:,['demomanSmallHeadReaction']
 Your Line:,,,Rules:,['demomanSmallHeadReaction']
 ,,,Criteria:,"[['ConceptMagicSmallHead', 'Isdemoman']]"
 
-Filename:,demoman_sf12_badmagic08,,Events:,['demoman_sf12_badmagic08']
+Filename:,demoman_sf12_badmagic08,,Events:,"['demoman_sf12_badmagic08', 'taunt_demo_barrel_roll_a2']"
 Full Path:,sound/vo/demoman_sf12_badmagic08.mp3,,Scenes:,['scenes/player/demoman/low/4593.vcd']
 Transcription:,Wot is happenin'?,,Responses:,"['DemomanSF13SpellMovementBuff', 'demomanGravityReaction']"
 Your Line:,,,Rules:,"['DemomanSF13SpellMovementBuff', 'demomanGravityReaction']"
 ,,,Criteria:,"[['ConceptMagicGravity', 'Isdemoman', '50PercentChance'], ['ConceptPlayerSpellMovementBuff', 'IsDemoman']]"
 
-Filename:,demoman_sf12_badmagic09,,Events:,['demoman_sf12_badmagic09']
+Filename:,demoman_sf12_badmagic09,,Events:,"['demoman_sf12_badmagic09', 'taunt_demo_barrel_roll_a']"
 Full Path:,sound/vo/demoman_sf12_badmagic09.mp3,,Scenes:,[]
 Transcription:,Wot's this now?,,Responses:,[]
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
-Filename:,demoman_sf12_badmagic10,,Events:,['demoman_sf12_badmagic10']
+Filename:,demoman_sf12_badmagic10,,Events:,"['demoman_sf12_badmagic10', 'taunt_demo_barrel_roll_a']"
 Full Path:,sound/vo/demoman_sf12_badmagic10.mp3,,Scenes:,['scenes/player/demoman/low/4595.vcd']
 Transcription:,Wot the bloody hell?,,Responses:,['DemomanSeeSpellMeteorSwarm']
 Your Line:,,,Rules:,['DemomanSeeSpellMeteorSwarm']
@@ -3122,19 +3128,19 @@ Filename:,demoman_item_unicorn_uber01,,Events:,['demoman_item_unicorn_uber01']
 Full Path:,sound/vo/demoman_item_unicorn_uber01.mp3,,Scenes:,['scenes/player/demoman/low/7780.vcd']
 Transcription:,"I'm a unicorn from Hell, and I'm comin' for ya!",,Responses:,['item_unicorn_uberDemoman']
 Your Line:,,,Rules:,['item_unicorn_uberDemoman']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsDemoman', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsDemoman', 'IsInvulnerable', 'DemomanNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:DemomanInvulnerableSpeech:1:30']]"
 
 Filename:,demoman_item_unicorn_uber02,,Events:,['demoman_item_unicorn_uber02']
 Full Path:,sound/vo/demoman_item_unicorn_uber02.mp3,,Scenes:,['scenes/player/demoman/low/7781.vcd']
 Transcription:,You cannot stop the magic!,,Responses:,['item_unicorn_uberDemoman']
 Your Line:,,,Rules:,['item_unicorn_uberDemoman']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsDemoman', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsDemoman', 'IsInvulnerable', 'DemomanNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:DemomanInvulnerableSpeech:1:30']]"
 
 Filename:,demoman_item_unicorn_uber03,,Events:,['demoman_item_unicorn_uber03']
 Full Path:,sound/vo/demoman_item_unicorn_uber03.mp3,,Scenes:,['scenes/player/demoman/low/7784.vcd']
 Transcription:,I'm bearin' a message of peace!,,Responses:,['item_unicorn_uberDemoman']
 Your Line:,,,Rules:,['item_unicorn_uberDemoman']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsDemoman', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireWeapon', 'IsDemoman', 'IsInvulnerable', 'DemomanNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:DemomanInvulnerableSpeech:1:30']]"
 
 Filename:,cm_demo_gamewon_01,,Events:,['cm_demo_gamewon_01']
 Full Path:,sound/vo/compmode/cm_demo_gamewon_01.mp3,,Scenes:,['scenes/player/demoman/low/cm_demo_gamewon_01.vcd']

@@ -8962,6 +8962,7 @@
         "base_name": "banana_slip",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_banana_slip",
             "general.banana_slip"
         ],
         "responses": [
@@ -9420,7 +9421,8 @@
         "base_name": "hwn_bomb_fuse",
         "criteria": [],
         "events": [
-            "player.bomb_fuse"
+            "player.bomb_fuse",
+            "taunt_demo_barrel_roll_fuse"
         ],
         "responses": [],
         "rules": [],
@@ -12603,8 +12605,10 @@
         "base_name": "projectile_swoosh5",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_projectile_swoosh5",
             "passtime.throw",
-            "pyro_taunt_the_skating_scorcher_projectile_swoosh5"
+            "pyro_taunt_the_skating_scorcher_projectile_swoosh5",
+            "scout_taunt_showrunners_spirit_projectile_swoosh5"
         ],
         "responses": [
             "Taunt: Second Rate Sorcery",
@@ -17546,7 +17550,8 @@
         "base_name": "wood_crate_break4",
         "criteria": [],
         "events": [
-            "breakable.crate"
+            "breakable.crate",
+            "demo_taunt_barrel_roll_wood_crate_break4"
         ],
         "responses": [
             "Taunt: Yeti Punch"
@@ -17579,6 +17584,7 @@
         "base_name": "wood_crate_impact_hard3",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_wood_crate_impact_hard3",
             "wood_panel.impacthard"
         ],
         "responses": [],
@@ -17591,6 +17597,7 @@
         "base_name": "wood_crate_impact_hard4",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_wood_crate_impact_hard4",
             "wood_crate.impacthard"
         ],
         "responses": [
@@ -18558,6 +18565,7 @@
             "demo_taunt_forehead_slice_cyoa_pda_clothes_rustle",
             "pda.sniperclothesrustle",
             "pda.soldierclothesrustle",
+            "scout_taunt_showrunners_spirit_cyoa_pda_clothes_rustle",
             "spy_taunt_tuefort_tango_cyoa_pda_clothes_rustle"
         ],
         "responses": [
@@ -18927,6 +18935,7 @@
             "pda.sniperequipmentlight",
             "scout_item_preview_scout_cyoa_pda_equipment_light",
             "scout_taunt_neck_snap_scout_cyoa_pda_equipment_light",
+            "scout_taunt_showrunners_spirit_cyoa_pda_equipment_light",
             "spy_taunt_tuefort_tango_cyoa_pda_equipment_light"
         ],
         "responses": [
@@ -19078,6 +19087,7 @@
         "base_name": "cyoa_pda_spin",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_cyoa_pda_spin",
             "engineer_item_preview_engineer_cyoa_pda_spin",
             "engineer_taunt_neck_snap_engineer_cyoa_pda_spin",
             "pda.heavyspin",
@@ -20714,6 +20724,7 @@
         "base_name": "woodpanel1",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_woodpanel1",
             "wood_panel.stepleft"
         ],
         "responses": [],
@@ -20726,6 +20737,7 @@
         "base_name": "woodpanel2",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_woodpanel2",
             "wood_panel.stepright"
         ],
         "responses": [
@@ -20742,6 +20754,7 @@
         "base_name": "woodpanel3",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_woodpanel3",
             "wood_panel.stepleft"
         ],
         "responses": [],
@@ -20754,6 +20767,7 @@
         "base_name": "woodpanel4",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_woodpanel4",
             "wood_panel.stepright"
         ],
         "responses": [
@@ -22999,6 +23013,7 @@
             ]
         ],
         "events": [
+            "demo_taunt_barrel_roll_taunt_clothes_swipe",
             "demo_taunt_roar_owar_taunt_clothes_swipe",
             "engineer_taunt_texas_twirl_em_taunt_clothes_swipe",
             "heavy_taunt_heavy_workout_taunt_clothes_swipe",
@@ -23006,6 +23021,7 @@
             "medic_taunt_the_final_score_medic_taunt_clothes_swipe",
             "pyro_spring_rider_taunt_clothes_swipe",
             "pyro_taunt_roasty_toasty_taunt_clothes_swipe",
+            "scout_taunt_showrunners_spirit_taunt_clothes_swipe",
             "scout_taunt_the_final_score_scout_taunt_clothes_swipe",
             "scout_taunt_the_killer_signature_taunt_clothes_swipe",
             "scout_taunt_the_trackmans_touchdown_taunt_clothes_swipe",
@@ -23196,6 +23212,7 @@
         ],
         "events": [
             "demo_item_preview_demo_taunt_clothes_swipe2",
+            "demo_taunt_barrel_roll_taunt_clothes_swipe2",
             "demo_taunt_neck_snap_demo_taunt_clothes_swipe2",
             "demo_taunt_roar_owar_taunt_clothes_swipe2",
             "engineer_taunt_texas_twirl_em_taunt_clothes_swipe2",
@@ -23942,6 +23959,7 @@
             "heavy_taunt_soviet_strongarm_taunt_equipment_gun2",
             "heavy_tauntrussian_rubdown_taunt_equipment_gun1",
             "pyro_taunt_the_skating_scorcher_taunt_equipment_gun1",
+            "scout_taunt_showrunners_spirit_taunt_equipment_gun1",
             "selection.demoequipment2",
             "selection.heavyequipment2",
             "selection.soldierlaunchersetstop",
@@ -24064,6 +24082,7 @@
             "heavy_tauntrussian_rubdown_taunt_equipment_gun2",
             "pyro_taunt_the_skating_scorcher_taunt_equipment_gun2",
             "scout_item_preview_scout_taunt_equipment_gun2",
+            "scout_taunt_showrunners_spirit_taunt_equipment_gun2",
             "selection.demoequipment1",
             "selection.heavyequipment1",
             "selection.soldierlaunchersetstart",
@@ -24131,6 +24150,7 @@
         "base_name": "taunt_equipment_jingle",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_taunt_equipment_jingle",
             "demo_taunt_roar_owar_taunt_equipment_jingle",
             "engineer_item_preview_engineer_taunt_equipment_jingle",
             "engineer_taunt_neck_snap_engineer_taunt_equipment_jingle",
@@ -24630,6 +24650,7 @@
         "criteria": [],
         "events": [
             "demo_item_preview_demo_taunt_equipment_jingle4",
+            "demo_taunt_barrel_roll_taunt_equipment_jingle4",
             "demo_taunt_neck_snap_demo_taunt_equipment_jingle4",
             "demo_taunt_roar_owar_taunt_equipment_jingle4",
             "engineer_taunt_texas_twirl_em_taunt_equipment_jingle4",
@@ -24759,6 +24780,7 @@
             "demo_item_preview_demo_taunt_foot_spin",
             "demo_taunt_neck_snap_demo_taunt_foot_spin",
             "heavy_taunt_soviet_strongarm_taunt_foot_spin",
+            "scout_taunt_showrunners_spirit_taunt_foot_spin",
             "selection.medicfootslide",
             "taunt.demo01footspin",
             "taunt.sniper02footslide"
@@ -25296,6 +25318,7 @@
             "pyro_taunt_roasty_toasty_taunt_foot_stomp",
             "scout_item_preview_scout_taunt_foot_stomp",
             "scout_taunt_neck_snap_scout_taunt_foot_stomp",
+            "scout_taunt_showrunners_spirit_taunt_foot_stomp",
             "scout_taunt_the_killer_signature_taunt_foot_stomp",
             "scout_taunt_the_trackmans_touchdown_taunt_foot_stomp",
             "selection.engineerfootstomp",
@@ -25627,6 +25650,7 @@
             "pyro_taunt_neck_snap_pyro_taunt_foot_stomp_light",
             "scout_item_preview_scout_taunt_foot_stomp_light",
             "scout_taunt_neck_snap_scout_taunt_foot_stomp_light",
+            "scout_taunt_showrunners_spirit_taunt_foot_stomp_light",
             "scout_taunt_the_killer_signature_taunt_foot_stomp_light",
             "sniper_item_preview_sniper_taunt_foot_stomp_light",
             "sniper_taunt_neck_snap_sniper_taunt_foot_stomp_light",
@@ -26466,6 +26490,7 @@
         "base_name": "taunt_heel_click",
         "criteria": [],
         "events": [
+            "scout_taunt_showrunners_spirit_taunt_heel_click",
             "selection.medicheelclick",
             "soldier_taunt_the_final_score_soldier_taunt_heel_click"
         ],
@@ -29863,6 +29888,7 @@
         "base_name": "taunt_yeti_standee_demo_step2",
         "criteria": [],
         "events": [
+            "demo_taunt_barrel_roll_taunt_yeti_standee_demo_step2",
             "demo_taunt_roar_owar_taunt_yeti_standee_demo_step2",
             "taunt.yetistandeedemostep"
         ],
@@ -29919,6 +29945,7 @@
         "criteria": [],
         "events": [
             "demo_item_preview_demo_taunt_yeti_standee_demo_step3",
+            "demo_taunt_barrel_roll_taunt_yeti_standee_demo_step3",
             "demo_taunt_bear_hug_demo_taunt_yeti_standee_demo_step3",
             "taunt.yetistandeedemostep"
         ],
@@ -29959,6 +29986,7 @@
         "criteria": [],
         "events": [
             "demo_item_preview_demo_taunt_yeti_standee_demo_step4",
+            "demo_taunt_barrel_roll_taunt_yeti_standee_demo_step4",
             "demo_taunt_bear_hug_demo_taunt_yeti_standee_demo_step4",
             "demo_taunt_roar_owar_taunt_yeti_standee_demo_step4",
             "taunt.yetistandeedemostep"
@@ -30829,6 +30857,7 @@
         "base_name": "taunt_yeti_standee_sniper_clothes_rustle",
         "criteria": [],
         "events": [
+            "scout_taunt_showrunners_spirit_taunt_yeti_standee_sniper_clothes_rustle",
             "sniper_item_preview_sniper_taunt_yeti_standee_sniper_clothes_rustle",
             "sniper_taunt_neck_snap_sniper_taunt_yeti_standee_sniper_clothes_rustle",
             "taunt.yetistandeesniperclothesrustle"
@@ -33725,11 +33754,13 @@
     "sound/ui/item_rubber_pickup.wav": {
         "base_name": "item_rubber_pickup",
         "criteria": [],
-        "events": [],
+        "events": [
+            "scout_taunt_showrunners_spirit_item_rubber_pickup"
+        ],
         "responses": [],
         "rules": [],
         "scenes": [],
-        "state": "unused",
+        "state": "used",
         "transcript": ""
     },
     "sound/ui/item_sandwich_drop.wav": {
@@ -36175,6 +36206,18 @@
             "scenes/workshop/player/spy/low/taunt_the_travel_agent_outro.vcd"
         ],
         "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/taunts/common/taunt_flip_land3.wav": {
+        "base_name": "taunt_flip_land3",
+        "criteria": [],
+        "events": [
+            "demo_taunt_barrel_roll_taunt_flip_land3"
+        ],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "missing",
         "transcript": ""
     },
     "sound/vo/taunts/common/taunt_flip_land4.mp3": {

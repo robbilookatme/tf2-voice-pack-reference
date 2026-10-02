@@ -348,7 +348,8 @@
             ]
         ],
         "events": [
-            "pyro.battlecry01"
+            "pyro.battlecry01",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "PlayerBattleCryPyro",
@@ -415,7 +416,8 @@
             ]
         ],
         "events": [
-            "pyro.cheers01"
+            "pyro.cheers01",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "PlayerCheersPyro",
@@ -778,7 +780,8 @@
             ]
         ],
         "events": [
-            "pyro.incoming01"
+            "pyro.incoming01",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "PlayerIncomingPyro"
@@ -913,7 +916,8 @@
             ]
         ],
         "events": [
-            "pyro.laughevil01"
+            "pyro.laughevil01",
+            "taunt_pyro_sear_ya_later_b"
         ],
         "responses": [
             "PlayerKilledDominatingPyro",
@@ -1029,6 +1033,7 @@
             "pyro.laughevil04",
             "pyro_taunt_roasty_toasty_outro",
             "pyro_taunt_roasty_toasty_pyro_laughevil04",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -1069,7 +1074,8 @@
             ]
         ],
         "events": [
-            "pyro.laughhappy01"
+            "pyro.laughhappy01",
+            "taunt_pyro_sear_ya_later_b"
         ],
         "responses": [
             "PlayerKilledDominatingPyro",
@@ -1494,7 +1500,8 @@
         "events": [
             "pyro.death",
             "pyro.painsevere01",
-            "taunt_killer_joke_pyro"
+            "taunt_killer_joke_pyro",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "PlayerAttackerPainPyro",
@@ -2495,6 +2502,7 @@
         "criteria": [],
         "events": [
             "pyro_taunt_partytrick_4_laugh",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -2979,6 +2987,7 @@
             "pyro_taunt_dosido_mid_rand",
             "taunt.skating_scorcher_trick",
             "taunt_burstchester_pyro_happy",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -3477,6 +3486,7 @@
             "pyro_taunt_spring_rider_pyro_taunt_flip_fun_06",
             "taunt.skating_scorcher_trick",
             "taunt_killer_joke_pyro_laugh",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -3519,6 +3529,7 @@
             "taunt.skating_scorcher_trick",
             "taunt_burstchester_pyro_happy",
             "taunt_killer_joke_pyro_laugh",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -3612,6 +3623,7 @@
             "pyro_taunt_roasty_toasty_outro",
             "taunt_burstchester_pyro_happy",
             "taunt_killer_joke_pyro_laugh",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -3673,6 +3685,7 @@
             "pyro_taunt_spring_rider_pyro_taunt_flip_int_05",
             "taunt.bearhug_pyro_b",
             "taunt.skating_scorcher_trick",
+            "taunt_pyro_sear_ya_later_a",
             "taunt_springrider_giggles"
         ],
         "responses": [
@@ -3696,7 +3709,8 @@
         "base_name": "pyro_taunt_flip_int_07",
         "criteria": [],
         "events": [
-            "pyro_taunt_flip_random_intro"
+            "pyro_taunt_flip_random_intro",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "Taunt: Flippin' Awesome"
@@ -3868,7 +3882,8 @@
         "events": [
             "pyro_taunt_dosido_intro_wait_rand",
             "pyro_taunt_flip_random_waiting1",
-            "pyro_taunt_the_grilled_gunman_pyro_taunt_int_05"
+            "pyro_taunt_the_grilled_gunman_pyro_taunt_int_05",
+            "taunt_pyro_sear_ya_later_a"
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
@@ -4637,6 +4652,7 @@
             "pyro.highfivesuccess03",
             "pyro_taunt_roasty_toasty_outro",
             "taunt.skating_scorcher_trick",
+            "taunt_pyro_sear_ya_later_b",
             "taunt_springrider_intro"
         ],
         "responses": [

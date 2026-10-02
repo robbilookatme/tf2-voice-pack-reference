@@ -4028,19 +4028,19 @@ Filename:,heavy_item_birdhead_uber01,,Events:,['heavy_item_birdhead_uber01']
 Full Path:,sound/vo/heavy_item_birdhead_uber01.mp3,,Scenes:,['scenes/player/heavy/low/6707.vcd']
 Transcription:,Tweet-tweeeeet! Ha-ha-ha!,,Responses:,['item_birdhead_uberHeavy']
 Your Line:,,,Rules:,['item_birdhead_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,heavy_item_birdhead_uber02,,Events:,['heavy_item_birdhead_uber02']
 Full Path:,sound/vo/heavy_item_birdhead_uber02.mp3,,Scenes:,['scenes/player/heavy/low/6708.vcd']
 Transcription:,"Hide, worms! Ha-ha-ha-ha!!",,Responses:,['item_birdhead_uberHeavy']
 Your Line:,,,Rules:,['item_birdhead_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,heavy_item_birdhead_uber03,,Events:,['heavy_item_birdhead_uber03']
 Full Path:,sound/vo/heavy_item_birdhead_uber03.mp3,,Scenes:,['scenes/player/heavy/low/6709.vcd']
 Transcription:,"Hide, worms! Crawl from bulletproof Bird-Heavy!",,Responses:,['item_birdhead_uberHeavy']
 Your Line:,,,Rules:,['item_birdhead_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsHeavyBirdHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,heavy_item_unicorn_domination01,,Events:,['heavy_item_unicorn_domination01']
 Full Path:,sound/vo/heavy_item_unicorn_domination01.mp3,,Scenes:,['scenes/player/heavy/low/6693.vcd']
@@ -4088,19 +4088,19 @@ Filename:,heavy_item_unicorn_uber01,,Events:,['heavy_item_unicorn_uber01']
 Full Path:,sound/vo/heavy_item_unicorn_uber01.mp3,,Scenes:,['scenes/player/heavy/low/6695.vcd']
 Transcription:,Ha-ha-ha! I am bulletproof pink pony!,,Responses:,['item_unicorn_uberHeavy']
 Your Line:,,,Rules:,['item_unicorn_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,heavy_item_unicorn_uber02,,Events:,['heavy_item_unicorn_uber02']
 Full Path:,sound/vo/heavy_item_unicorn_uber02.mp3,,Scenes:,['scenes/player/heavy/low/6696.vcd']
 Transcription:,"Get behind pretty pink pony mane, Doctor!",,Responses:,['item_unicorn_uberHeavy']
 Your Line:,,,Rules:,['item_unicorn_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,heavy_item_unicorn_uber03,,Events:,['heavy_item_unicorn_uber03']
 Full Path:,sound/vo/heavy_item_unicorn_uber03.mp3,,Scenes:,['scenes/player/heavy/low/6698.vcd']
 Transcription:,I am magic death pony.,,Responses:,['item_unicorn_uberHeavy']
 Your Line:,,,Rules:,['item_unicorn_uberHeavy']
-,,,Criteria:,"[['ConceptMedicChargeDeployed', 'IsHeavy', 'IsInvulnerable', 'MedicNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead']]"
+,,,Criteria:,"[['ConceptFireMinigun', 'IsHeavy', 'WeaponIsMinigun', 'IsInvulnerable', 'HeavyNotInvulnerableSpeech', '20PercentChance', 'IsUnicornHead', 'AppliesContext:HeavyInvulnerableSpeech:1:30']]"
 
 Filename:,cm_heavy_gamewon_01,,Events:,['cm_heavy_gamewon_01']
 Full Path:,sound/vo/compmode/cm_heavy_gamewon_01.mp3,,Scenes:,['scenes/player/heavy/low/cm_heavy_gamewon_01.vcd']
