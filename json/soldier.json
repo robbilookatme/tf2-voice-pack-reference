@@ -6884,6 +6884,7 @@
         "responses": [
             "KilledDemomanSoldier",
             "Taunt: Burstchester",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -6892,7 +6893,8 @@
         "scenes": [
             "scenes/player/soldier/low/3486.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "You will not be missed."
@@ -6925,6 +6927,7 @@
             "KilledDemomanSoldier",
             "RejectedDuelSoldier",
             "Taunt: Burstchester",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -6934,7 +6937,8 @@
         "scenes": [
             "scenes/player/soldier/low/3487.vcd",
             "scenes/workshop/player/soldier/low/taunt_burstchester.vcd",
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "I never liked you."
@@ -6962,6 +6966,7 @@
         "responses": [
             "KilledDemomanSoldier",
             "Taunt: Faux-calization",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -6970,6 +6975,7 @@
         "scenes": [
             "scenes/player/soldier/low/3488.vcd",
             "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/spy/low/taunt_fauxcalization.vcd"
         ],
         "state": "used",
@@ -6995,6 +7001,7 @@
         ],
         "responses": [
             "KilledDemomanSoldier",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -7002,7 +7009,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/3489.vcd",
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "You're dead, that's good, amen."
@@ -7028,6 +7036,7 @@
         ],
         "responses": [
             "KilledDemomanSoldier",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Soldier's Requiem"
         ],
         "rules": [
@@ -7035,7 +7044,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/3490.vcd",
-            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd"
+            "scenes/workshop/player/soldier/low/taunt_maggots_condolence.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Godspeed, you magnificent bastard."
@@ -17967,6 +17977,7 @@
             "Taunt: Conga",
             "Taunt: Kazotsky Kick",
             "Taunt: Neck Snap",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Square Dance"
         ],
         "rules": [],
@@ -17974,7 +17985,8 @@
             "scenes/player/soldier/low/conga.vcd",
             "scenes/player/soldier/low/taunt_dosido_dance01.vcd",
             "scenes/player/soldier/low/taunt_russian.vcd",
-            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd"
+            "scenes/workshop/player/soldier/low/taunt_neck_snap_initiator.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Hooah!"
@@ -18047,11 +18059,13 @@
             "taunt_soldier_oneeyedpunt_end"
         ],
         "responses": [
-            "Taunt: Fresh Brewed Victory"
+            "Taunt: Fresh Brewed Victory",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_coffee.vcd"
+            "scenes/player/soldier/low/taunt_coffee.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Mission accomplished!"
@@ -18439,6 +18453,7 @@
         "responses": [
             "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
             "Taunt: The Victory Lap",
@@ -18451,6 +18466,7 @@
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
             "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -18526,6 +18542,7 @@
         "responses": [
             "Taunt: Buffoon's Bivouac",
             "Taunt: Mannrobics",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Rocket Jockey",
             "Taunt: Square Dance",
             "Taunt: The Victory Lap",
@@ -18539,6 +18556,7 @@
             "scenes/player/soldier/low/taunt_vehicle_allclass.vcd",
             "scenes/player/soldier/low/yeti_taunt.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action1.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_rocket_jockey_cheer.vcd"
         ],
         "state": "used",
@@ -19067,11 +19085,13 @@
             "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_start.vcd"
+            "scenes/player/soldier/low/flip_start.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Say your prayers and grab some air!"
@@ -19084,11 +19104,13 @@
             "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
-            "Taunt: Flippin' Awesome"
+            "Taunt: Flippin' Awesome",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/flip_start.vcd"
+            "scenes/player/soldier/low/flip_start.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Operation: Soaring Eagle!"
@@ -19136,11 +19158,13 @@
             "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
+            "Taunt: One-Eyed Punt!",
             "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/soldier/low/taunt_headbutt_success.vcd"
+            "scenes/player/soldier/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "God, Guts, Guns!"
@@ -19919,9 +19943,13 @@
         "events": [
             "taunt_soldier_oneeyedpunt_start"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: One-Eyed Punt!"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },

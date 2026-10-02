@@ -8966,11 +8966,13 @@
             "general.banana_slip"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Second Rate Sorcery"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "slips"
@@ -12611,13 +12613,17 @@
             "scout_taunt_showrunners_spirit_projectile_swoosh5"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Second Rate Sorcery",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Skating Scorcher"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
-            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -12886,11 +12892,13 @@
             "pyro_taunt_the_grilled_gunman_body_medium_impact_hard4"
         ],
         "responses": [
+            "Taunt: One-Eyed Punt!",
             "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -12961,11 +12969,13 @@
             "pyro_taunt_the_grilled_gunman_body_medium_impact_soft4"
         ],
         "responses": [
+            "Taunt: One-Eyed Punt!",
             "Taunt: The Headcase"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd"
+            "scenes/workshop/player/pyro/low/taunt_the_grilled_gunman.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -17554,6 +17564,7 @@
             "demo_taunt_barrel_roll_wood_crate_break4"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
@@ -17563,7 +17574,8 @@
             "scenes/player/medic/low/taunt_yetipunch.vcd",
             "scenes/player/scout/low/taunt_yetipunch.vcd",
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
-            "scenes/player/spy/low/taunt_yetipunch.vcd"
+            "scenes/player/spy/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "missing",
         "transcript": ""
@@ -17587,9 +17599,13 @@
             "demo_taunt_barrel_roll_wood_crate_impact_hard3",
             "wood_panel.impacthard"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },
@@ -17601,10 +17617,12 @@
             "wood_crate.impacthard"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: The Crypt Creeper"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a1.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_the_crypt_creeper_intro.vcd",
@@ -18631,6 +18649,7 @@
             "Taunt: Faux-calization",
             "Taunt: Friendly Fire",
             "Taunt: Healthcare Hog",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Neck Snap",
             "Taunt: Peace!",
@@ -18681,6 +18700,7 @@
             "scenes/workshop/player/heavy/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/medic/low/taunt_surgeons_squeezebox_outro.vcd",
             "scenes/workshop/player/medic/low/taunt_the_fist_bump.vcd",
@@ -18748,6 +18768,7 @@
             "Taunt: Chairholder",
             "Taunt: Cheers!",
             "Taunt: Fore-Head Slice",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mourning Mercs",
             "Taunt: Neck Snap",
@@ -18767,6 +18788,7 @@
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel_action1.vcd",
             "scenes/workshop/player/heavy/low/taunt_bear_hug_initiator.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_peace.vcd",
             "scenes/workshop/player/medic/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
@@ -18942,6 +18964,7 @@
             "Taunt: Commending Clap",
             "Taunt: Neck Snap",
             "Taunt: Peace Out",
+            "Taunt: Showrunner's Spirit",
             "Taunt: Teufort Tango",
             "Taunt: The Scaredy-Cat!",
             "Taunt: Unleashed Rage"
@@ -18953,6 +18976,7 @@
             "scenes/workshop/player/pyro/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/scout/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/scout/low/taunt_peace_out.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a2.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_intro.vcd"
@@ -19096,11 +19120,13 @@
             "pda.spyspin"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Killer Joke",
             "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/engineer/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/engineer/low/taunt_neck_snap.vcd"
         ],
@@ -19119,6 +19145,7 @@
             "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
             "Taunt: Cheers!",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Tailored Terminal",
             "Taunt: The Fist Bump",
             "Taunt: The Homerunner's Hobby",
@@ -19133,6 +19160,7 @@
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_action2.vcd",
             "scenes/workshop/player/soldier/low/taunt_cheers.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/spy/low/taunttailored_terminal_a2.vcd"
         ],
@@ -19481,6 +19509,7 @@
             "Taunt: Curtain Call",
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Peace!",
             "Taunt: Scotsmann's Stagger",
             "Taunt: Star-Spangled Strategy",
@@ -19527,6 +19556,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/scout/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
@@ -19567,6 +19597,7 @@
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Peace!",
             "Taunt: Scotsmann's Stagger",
             "Taunt: Star-Spangled Strategy",
@@ -19616,6 +19647,7 @@
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd",
             "scenes/workshop/player/sniper/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
@@ -19655,6 +19687,7 @@
             "Taunt: Curtain Call",
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Peace!",
             "Taunt: Roasty Toasty",
             "Taunt: Runner's Rhythm",
@@ -19701,6 +19734,7 @@
             "scenes/workshop/player/scout/low/taunt_runners_rhythm.vcd",
             "scenes/workshop/player/scout/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/tauntstarspangled_strategy.vcd",
             "scenes/workshop/player/spy/low/taunt_curtain_call.vcd"
@@ -19737,6 +19771,7 @@
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Peace!",
             "Taunt: Roasty Toasty",
             "Taunt: Scotsmann's Stagger",
@@ -19788,6 +19823,7 @@
             "scenes/workshop/player/sniper/low/taunt_peace.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd",
@@ -20727,9 +20763,13 @@
             "demo_taunt_barrel_roll_woodpanel1",
             "wood_panel.stepleft"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -20741,10 +20781,12 @@
             "wood_panel.stepright"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Straight Shooter Tutor"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
         "state": "used",
@@ -20757,9 +20799,13 @@
             "demo_taunt_barrel_roll_woodpanel3",
             "wood_panel.stepleft"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -20771,10 +20817,12 @@
             "wood_panel.stepright"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Straight Shooter Tutor"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
         "state": "used",
@@ -22775,6 +22823,7 @@
             "Taunt: Faux-calization",
             "Taunt: Flippin' Awesome",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
@@ -22785,6 +22834,7 @@
             "Taunt: Rocket Jockey",
             "Taunt: Runner's Rhythm",
             "Taunt: Russian Rubdown",
+            "Taunt: Sear You Later",
             "Taunt: Second Rate Sorcery",
             "Taunt: Shanty Shipmate",
             "Taunt: Shooter's Stakeout",
@@ -22877,6 +22927,7 @@
             "scenes/workshop/player/medic/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_peace.vcd",
             "scenes/workshop/player/medic/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/medic/low/taunt_the_mannbulance.vcd",
@@ -22888,6 +22939,7 @@
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_peace.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_hot_wheeler_outro.vcd",
@@ -23040,6 +23092,7 @@
             "HeavyTauntMelee",
             "SoldierTauntMelee",
             "SoldierTauntPrimary",
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Buffoon's Bivouac",
             "Taunt: Chairholder",
@@ -23051,6 +23104,7 @@
             "Taunt: Foul Play",
             "Taunt: Healthcare Hog",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
@@ -23062,6 +23116,7 @@
             "Taunt: Russian Rubdown",
             "Taunt: Second Rate Sorcery",
             "Taunt: Shanty Shipmate",
+            "Taunt: Showrunner's Spirit",
             "Taunt: Straight Shooter Tutor",
             "Taunt: Texas Twirl 'Em",
             "Taunt: The Balloonibouncer",
@@ -23110,6 +23165,7 @@
             "scenes/player/spy/low/taunt_rps_rock_lose_noinit.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_lose.vcd",
             "scenes/player/spy/low/taunt_rps_scissors_lose_noinit.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_cheers.vcd",
             "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd",
@@ -23139,6 +23195,7 @@
             "scenes/workshop/player/medic/low/taunt_cheers.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/medic/low/taunt_the_critical_fail.vcd",
             "scenes/workshop/player/medic/low/taunt_the_final_score.vcd",
@@ -23157,6 +23214,7 @@
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd",
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
             "scenes/workshop/player/scout/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_final_score.vcd",
@@ -23254,6 +23312,7 @@
         "responses": [
             "SoldierTauntPickaxe",
             "SoldierTauntSecondary",
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Buffoon's Bivouac",
             "Taunt: Can It!",
@@ -23267,6 +23326,7 @@
             "Taunt: Foul Play",
             "Taunt: Friendly Fire",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
@@ -23320,6 +23380,7 @@
             "scenes/player/soldier/low/taunt_aerobic_b.vcd",
             "scenes/player/soldier/low/taunt_yetipunch.vcd",
             "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_cheers.vcd",
             "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
@@ -23366,6 +23427,7 @@
             "scenes/workshop/player/medic/low/taunt_cheers.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
@@ -23979,6 +24041,7 @@
             "Taunt: Ring King",
             "Taunt: Russian Rubdown",
             "Taunt: Shanty Shipmate",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Dueling Banjo",
             "Taunt: The Fist Bump",
             "Taunt: The Scaredy-Cat!",
@@ -24021,6 +24084,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick1.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd",
             "scenes/workshop/player/scout/low/taunt_peace.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd"
         ],
@@ -24101,6 +24165,7 @@
             "Taunt: Ring King",
             "Taunt: Russian Rubdown",
             "Taunt: Shanty Shipmate",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Russian Arms Race",
             "Taunt: The Scaredy-Cat!",
             "Taunt: The Skating Scorcher",
@@ -24141,7 +24206,8 @@
             "scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd",
             "scenes/workshop/player/pyro/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_trick2.vcd",
-            "scenes/workshop/player/scout/low/taunt_bear_hug.vcd"
+            "scenes/workshop/player/scout/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -24166,6 +24232,7 @@
             "taunt.demo02equipmentjingle"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Borrowed Bones",
             "Taunt: Can It!",
@@ -24177,6 +24244,7 @@
             "Taunt: Roar O'War",
             "Taunt: Roasty Toasty",
             "Taunt: Scorcher's Solo",
+            "Taunt: Sear You Later",
             "Taunt: Texas Twirl 'Em",
             "Taunt: The Balloonibouncer",
             "Taunt: The Boston Boarder",
@@ -24187,6 +24255,7 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/demoman/low/taunt_peace.vcd",
             "scenes/workshop/player/demoman/low/taunt_roar_owar.vcd",
@@ -24205,6 +24274,7 @@
             "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_roasty_toasty.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_skating_scorcher_intro.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick02.vcd",
@@ -24269,6 +24339,7 @@
             "Taunt: Peace!",
             "Taunt: Russian Rubdown",
             "Taunt: Scorcher's Solo",
+            "Taunt: Sear You Later",
             "Taunt: Texas Twirl 'Em",
             "Taunt: The Critical Fail",
             "Taunt: The Final Score",
@@ -24318,6 +24389,7 @@
             "scenes/workshop/player/pyro/low/taunt_friendly_fire.vcd",
             "scenes/workshop/player/pyro/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_scorchers_solo_outro.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_final_score.vcd",
             "scenes/workshop/player/soldier/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/soldier/low/taunt_mourning_mercs.vcd",
@@ -24576,6 +24648,7 @@
             "SoldierTauntSecondary",
             "Taunt: Bear Hug",
             "Taunt: Doctor's Defibrillators",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mourning Mercs",
             "Taunt: Neck Snap",
@@ -24608,6 +24681,7 @@
             "scenes/workshop/player/heavy/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/heavy/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
@@ -24666,12 +24740,14 @@
             "taunt.demo02equipmentjingle4"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Borrowed Bones",
             "Taunt: Commending Clap",
             "Taunt: Dead Mann's Drink",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Foul Play",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mourning Mercs",
             "Taunt: Neck Snap",
@@ -24685,6 +24761,7 @@
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_a2.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
@@ -24695,6 +24772,7 @@
             "scenes/workshop/player/heavy/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/medic/low/taunt_unleashed_rage.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
@@ -24791,6 +24869,7 @@
             "Taunt: Flying Colors",
             "Taunt: Neck Snap",
             "Taunt: Second Rate Sorcery",
+            "Taunt: Showrunner's Spirit",
             "Taunt: Spin-to-Win",
             "Taunt: Tailored Terminal",
             "Taunt: The Soviet Strongarm"
@@ -24803,6 +24882,7 @@
             "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd",
             "scenes/workshop/player/heavy/low/taunt_soviet_strongarm.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
             "scenes/workshop/player/sniper/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
@@ -25367,6 +25447,7 @@
             "Taunt: Faux-calization",
             "Taunt: Flippin' Awesome",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Mannrobics",
             "Taunt: Mourning Mercs",
@@ -25376,6 +25457,7 @@
             "Taunt: Rock, Paper, Scissors",
             "Taunt: Second Rate Sorcery",
             "Taunt: Shooter's Stakeout",
+            "Taunt: Showrunner's Spirit",
             "Taunt: Spin-to-Win",
             "Taunt: Square Dance",
             "Taunt: Tailored Terminal",
@@ -25496,6 +25578,7 @@
             "scenes/workshop/player/medic/low/taunt_burstchester.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/pyro/low/spring_rider.vcd",
@@ -25510,6 +25593,7 @@
             "scenes/workshop/player/scout/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/scout/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/scout/low/taunt_neck_snap.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_a1.vcd",
             "scenes/workshop/player/scout/low/taunt_spintowin_a2.vcd",
@@ -25670,9 +25754,11 @@
             "EngineerTauntPrimary",
             "Taunt: Commending Clap",
             "Taunt: Healthcare Hog",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Neck Snap",
             "Taunt: Russian Rubdown",
+            "Taunt: Showrunner's Spirit",
             "Taunt: Tailored Terminal",
             "Taunt: Teufort Tango",
             "Taunt: The Balloonibouncer",
@@ -25710,6 +25796,7 @@
             "scenes/workshop/player/heavy/low/taunt_the_road_rager_intro.vcd",
             "scenes/workshop/player/heavy/low/tauntrussian_rubdown.vcd",
             "scenes/workshop/player/medic/low/taunt_commending_clap.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/medic/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/medic/low/taunt_unleashed_rage.vcd",
@@ -25719,6 +25806,7 @@
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
             "scenes/workshop/player/scout/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/scout/low/taunt_neck_snap.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/sniper/low/taunt_killer_joke.vcd",
@@ -26498,8 +26586,10 @@
             "Taunt: Bear Hug",
             "Taunt: Flippin' Awesome",
             "Taunt: Flying Colors",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Peace!",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Final Score",
             "Taunt: Yeti Smash"
         ],
@@ -26521,7 +26611,9 @@
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors_outro.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/soldier/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_peace.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_final_score.vcd"
         ],
@@ -29252,6 +29344,7 @@
         ],
         "responses": [
             "Taunt: Healthcare Hog",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: The Russian Arms Race",
             "Taunt: The Scaredy-Cat!"
@@ -29263,6 +29356,7 @@
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_heavy_workout_end.vcd",
             "scenes/workshop/player/heavy/low/taunt_killer_joke.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/pyro/low/taunt_the_scaredycat.vcd",
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd"
         ],
@@ -29279,6 +29373,7 @@
         "responses": [
             "Taunt: Bear Hug",
             "Taunt: Healthcare Hog",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Tailored Terminal",
             "Taunt: The Russian Arms Race",
             "Taunt: The Scaredy-Cat!",
@@ -29290,6 +29385,7 @@
             "scenes/workshop/player/heavy/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_heavy_workout_end.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/pyro/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/scout/low/taunt_healthcarehog.vcd",
             "scenes/workshop/player/soldier/low/taunt_bear_hug.vcd",
@@ -29417,6 +29513,7 @@
         "responses": [
             "Taunt: Chairholder",
             "Taunt: Commending Clap",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Neck Snap",
             "Taunt: Ring King",
             "Taunt: Russian Rubdown",
@@ -29431,6 +29528,7 @@
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
             "scenes/workshop/player/heavy/low/tauntrussian_rubdown_outro.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
@@ -29452,6 +29550,7 @@
             "Taunt: Bear Hug",
             "Taunt: Chairholder",
             "Taunt: Commending Clap",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Ring King",
             "Taunt: Teufort Tango",
             "Taunt: Texas Twirl 'Em",
@@ -29465,6 +29564,7 @@
             "scenes/workshop/player/heavy/low/taunt_bear_hug_start.vcd",
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_a1.vcd",
@@ -29486,6 +29586,7 @@
             "Taunt: Bear Hug",
             "Taunt: Chairholder",
             "Taunt: Commending Clap",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Ring King",
             "Taunt: The Russian Arms Race"
         ],
@@ -29493,6 +29594,7 @@
         "scenes": [
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/sniper/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
@@ -29510,6 +29612,7 @@
         "responses": [
             "Taunt: Chairholder",
             "Taunt: Commending Clap",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Ring King",
             "Taunt: The Russian Arms Race"
         ],
@@ -29517,6 +29620,7 @@
         "scenes": [
             "scenes/workshop/player/heavy/low/taunt_heavy_workout.vcd",
             "scenes/workshop/player/heavy/low/taunt_ring_king.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd"
         ],
@@ -29893,6 +29997,7 @@
             "taunt.yetistandeedemostep"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Cheers!",
             "Taunt: Crushing Defeat",
             "Taunt: Dead Mann's Drink",
@@ -29911,6 +30016,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_dead_manns_drink.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd",
@@ -29950,6 +30056,7 @@
             "taunt.yetistandeedemostep"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Killer Joke",
             "Taunt: Shanty Shipmate",
@@ -29963,6 +30070,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
@@ -29992,6 +30100,7 @@
             "taunt.yetistandeedemostep"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Cheers!",
             "Taunt: Killer Joke",
@@ -30009,6 +30118,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/demoman/low/taunt_mourning_mercs.vcd",
@@ -30745,11 +30855,13 @@
             "taunt.yetistandeepyroclothesrustle"
         ],
         "responses": [
+            "Taunt: Sear You Later",
             "Taunt: Yeti Punch"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/pyro/low/taunt_yetipunch.vcd"
+            "scenes/player/pyro/low/taunt_yetipunch.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -30870,6 +30982,7 @@
             "Taunt: Killer Joke",
             "Taunt: Mourning Mercs",
             "Taunt: Neck Snap",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Scaredy-Cat!",
             "Taunt: Yeti Punch"
         ],
@@ -30880,6 +30993,7 @@
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd",
             "scenes/workshop/player/heavy/low/taunt_bare_knuckle_beatdown.vcd",
             "scenes/workshop/player/scout/low/taunt_foul_play.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/sniper/low/taunt_commending_clap.vcd",
             "scenes/workshop/player/sniper/low/taunt_mourning_mercs.vcd",
             "scenes/workshop/player/sniper/low/taunt_neck_snap.vcd",
@@ -33430,10 +33544,12 @@
             "spy_taunt_tuefort_tango_item_helmet_drop"
         ],
         "responses": [
+            "Taunt: One-Eyed Punt!",
             "Taunt: Teufort Tango"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/spy/low/taunt_tuefort_tango_outro.vcd"
         ],
         "state": "used",
@@ -33757,9 +33873,13 @@
         "events": [
             "scout_taunt_showrunners_spirit_item_rubber_pickup"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Showrunner's Spirit"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -35908,6 +36028,7 @@
         ],
         "responses": [
             "HeavyTauntMelee",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Pool Party",
             "Taunt: Texan Trickshot"
         ],
@@ -35918,6 +36039,7 @@
         "scenes": [
             "scenes/player/heavy/low/taunt03_v1.vcd",
             "scenes/workshop/player/engineer/low/taunt_texan_trickshot.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/pyro/low/taunt_pool_party_intro.vcd"
         ],
         "state": "used",
@@ -36214,9 +36336,13 @@
         "events": [
             "demo_taunt_barrel_roll_taunt_flip_land3"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },

@@ -8058,6 +8058,7 @@
             "DemomanJarateHit",
             "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "Taunt: Barrel Roll",
             "Taunt: Drunk Mann's Cannon"
         ],
         "rules": [
@@ -8067,6 +8068,7 @@
         ],
         "scenes": [
             "scenes/player/demoman/low/969.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd"
         ],
         "state": "used",
@@ -8130,6 +8132,7 @@
             "DemomanJarateHit",
             "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "Taunt: Barrel Roll",
             "Taunt: Drunk Mann's Cannon"
         ],
         "rules": [
@@ -8139,6 +8142,7 @@
         ],
         "scenes": [
             "scenes/player/demoman/low/971.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd"
         ],
         "state": "used",
@@ -8164,6 +8168,7 @@
         "responses": [
             "PlayerLostPointDemoman",
             "PlayerNegativeDemoman",
+            "Taunt: Barrel Roll",
             "Taunt: Drunk Mann's Cannon",
             "Taunt: Unleashed Rage"
         ],
@@ -8173,6 +8178,7 @@
         ],
         "scenes": [
             "scenes/player/demoman/low/972.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_drunk_manns_cannon_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_unleashed_rage.vcd"
         ],
@@ -8448,13 +8454,15 @@
             "taunt_demo_barrel_roll_c"
         ],
         "responses": [
-            "PlayerAttackerPainDemoman"
+            "PlayerAttackerPainDemoman",
+            "Taunt: Barrel Roll"
         ],
         "rules": [
             "PlayerAttackerPainDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/984.vcd"
+            "scenes/player/demoman/low/984.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "(Yell 2)"
@@ -8601,6 +8609,7 @@
         ],
         "responses": [
             "PlayerPainDemoman",
+            "Taunt: Barrel Roll",
             "Taunt: Second Rate Sorcery"
         ],
         "rules": [
@@ -8608,7 +8617,8 @@
         ],
         "scenes": [
             "scenes/player/demoman/low/988.vcd",
-            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd"
+            "scenes/workshop/player/demoman/low/secondrate_sorcery.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "(Grunt3 )"
@@ -8973,6 +8983,7 @@
         ],
         "responses": [
             "DemomanSF13SpellMovementBuff",
+            "Taunt: Barrel Roll",
             "demomanBigHeadReaction",
             "demomanSmallHeadReaction"
         ],
@@ -8982,7 +8993,8 @@
             "demomanSmallHeadReaction"
         ],
         "scenes": [
-            "scenes/player/demoman/low/4586.vcd"
+            "scenes/player/demoman/low/4586.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "Ahhh! Me head!"
@@ -9122,13 +9134,15 @@
             "taunt_demo_barrel_roll_a2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "demomanSmallHeadReaction"
         ],
         "rules": [
             "demomanSmallHeadReaction"
         ],
         "scenes": [
-            "scenes/player/demoman/low/4592.vcd"
+            "scenes/player/demoman/low/4592.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
         ],
         "state": "used",
         "transcript": "Oh, this is not good."
@@ -9152,6 +9166,7 @@
         ],
         "responses": [
             "DemomanSF13SpellMovementBuff",
+            "Taunt: Barrel Roll",
             "demomanGravityReaction"
         ],
         "rules": [
@@ -9159,7 +9174,8 @@
             "demomanGravityReaction"
         ],
         "scenes": [
-            "scenes/player/demoman/low/4593.vcd"
+            "scenes/player/demoman/low/4593.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
         ],
         "state": "used",
         "transcript": "Wot is happenin'?"
@@ -9171,9 +9187,13 @@
             "demoman_sf12_badmagic09",
             "taunt_demo_barrel_roll_a"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
+        ],
         "state": "used",
         "transcript": "Wot's this now?"
     },
@@ -9190,13 +9210,15 @@
             "taunt_demo_barrel_roll_a"
         ],
         "responses": [
-            "DemomanSeeSpellMeteorSwarm"
+            "DemomanSeeSpellMeteorSwarm",
+            "Taunt: Barrel Roll"
         ],
         "rules": [
             "DemomanSeeSpellMeteorSwarm"
         ],
         "scenes": [
-            "scenes/player/demoman/low/4595.vcd"
+            "scenes/player/demoman/low/4595.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
         ],
         "state": "used",
         "transcript": "Wot the bloody hell?"
@@ -11341,13 +11363,15 @@
             "taunt_demo_barrel_roll_c"
         ],
         "responses": [
-            "PlayerTeleporterThanksDemoman"
+            "PlayerTeleporterThanksDemoman",
+            "Taunt: Barrel Roll"
         ],
         "rules": [
             "PlayerTeleporterThanksDemoman"
         ],
         "scenes": [
-            "scenes/player/demoman/low/1035.vcd"
+            "scenes/player/demoman/low/1035.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "Thanks fer the ride!"
@@ -11859,12 +11883,14 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/flip_start.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
@@ -11897,6 +11923,7 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Shanty Shipmate",
             "Taunt: Square Dance"
         ],
@@ -11904,6 +11931,7 @@
         "scenes": [
             "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
             "scenes/player/demoman/low/taunt_dosido_intro01.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate.vcd"
         ],
         "state": "used",
@@ -11964,6 +11992,7 @@
             "taunt_killer_joke_demo"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Killer Joke",
             "Taunt: Square Dance",
             "Taunt: The Victory Lap"
@@ -11973,6 +12002,7 @@
             "scenes/player/demoman/low/taunt_dosido_dance00.vcd",
             "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
             "scenes/player/demoman/low/taunt_vehicle_allclass.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -11986,10 +12016,12 @@
             "taunt_killer_joke_demo"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Killer Joke"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -12531,11 +12563,13 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Square Dance"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_dosido_dance01.vcd"
+            "scenes/player/demoman/low/taunt_dosido_dance01.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
         ],
         "state": "used",
         "transcript": "Ooogh!"
@@ -12628,9 +12662,13 @@
         "events": [
             "taunt_demo_barrel_roll_b"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Barrel Roll"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
+        ],
         "state": "missing",
         "transcript": ""
     },
@@ -12643,6 +12681,7 @@
             "taunt_demo_barrel_roll_b"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Scotsmann's Stagger",
             "Taunt: The Fist Bump"
@@ -12653,6 +12692,7 @@
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/flip_success_receiver0.vcd",
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
@@ -12667,6 +12707,7 @@
             "taunt_demo_barrel_roll_b"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome"
         ],
         "rules": [],
@@ -12674,7 +12715,8 @@
             "scenes/player/demoman/low/flip_success_initiator0.vcd",
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/flip_success_receiver0.vcd",
-            "scenes/player/demoman/low/flip_success_receiver1.vcd"
+            "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd"
         ],
         "state": "used",
         "transcript": "Howup!"
@@ -12688,6 +12730,7 @@
             "taunt_demo_barrel_roll_b"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Scotsmann's Stagger",
             "Taunt: The Fist Bump"
@@ -12698,6 +12741,7 @@
             "scenes/player/demoman/low/flip_success_initiator1.vcd",
             "scenes/player/demoman/low/flip_success_receiver0.vcd",
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_scotsmans_stagger.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_fist_bump.vcd"
         ],
@@ -12756,10 +12800,12 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Neck Snap"
         ],
         "rules": [],
         "scenes": [
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_neck_snap.vcd"
         ],
         "state": "used",
@@ -12965,6 +13011,7 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
@@ -12972,6 +13019,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
@@ -13011,6 +13059,7 @@
             "taunt_demo_barrel_roll_b"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
@@ -13018,6 +13067,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
@@ -13033,6 +13083,7 @@
             "taunt_demo_barrel_roll_b"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Flippin' Awesome",
             "Taunt: Shanty Shipmate",
             "Taunt: The Pooped Deck"
@@ -13040,6 +13091,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/flip_success_receiver1.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_shanty_shipmate_outro.vcd",
             "scenes/workshop/player/demoman/low/taunt_the_pooped_deck.vcd"
         ],
@@ -13126,11 +13178,13 @@
             "taunt_demo_barrel_roll_c"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/demoman/low/taunt_headbutt_success.vcd"
+            "scenes/player/demoman/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll_outro.vcd"
         ],
         "state": "used",
         "transcript": "Erroough!"
@@ -13757,6 +13811,7 @@
             "taunt_demo_barrel_roll_b2"
         ],
         "responses": [
+            "Taunt: Barrel Roll",
             "Taunt: Bear Hug",
             "Taunt: Kazotsky Kick",
             "Taunt: The Drunken Sailor"
@@ -13764,6 +13819,7 @@
         "rules": [],
         "scenes": [
             "scenes/player/demoman/low/taunt_russian.vcd",
+            "scenes/workshop/player/demoman/low/taunt_barrel_roll.vcd",
             "scenes/workshop/player/demoman/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/demoman/low/taunt_shipwheel.vcd"
         ],

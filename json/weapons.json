@@ -952,6 +952,7 @@
         "responses": [
             "Taunt: Fore-Head Slice",
             "Taunt: Mannrobics",
+            "Taunt: One-Eyed Punt!",
             "Taunt: Skullcracker",
             "Taunt: The Fist Bump"
         ],
@@ -975,6 +976,7 @@
             "scenes/workshop/player/pyro/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/scout/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/sniper/low/taunt_the_fist_bump_action.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/taunt_the_fist_bump_action.vcd",
             "scenes/workshop/player/spy/low/taunt_the_fist_bump_action.vcd"
         ],
@@ -1816,9 +1818,13 @@
             "scout_taunt_showrunners_spirit_bow_shoot_pull_short",
             "weapon_bow.pullshort"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Showrunner's Spirit"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },
@@ -5010,12 +5016,14 @@
         ],
         "responses": [
             "Taunt: Can It!",
+            "Taunt: One-Eyed Punt!",
             "Taunt: The Boston Boarder"
         ],
         "rules": [],
         "scenes": [
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd",
             "scenes/workshop/player/soldier/low/tauntcan_it.vcd"
         ],
         "state": "used",
@@ -6110,11 +6118,13 @@
             "weapon_arrow.impactflesh"
         ],
         "responses": [
-            "Taunt: Fore-Head Slice"
+            "Taunt: Fore-Head Slice",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd"
+            "scenes/workshop/player/demoman/low/taunt_forehead_slice.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -7802,11 +7812,13 @@
             "meleeinspect.movement3"
         ],
         "responses": [
-            "Taunt: Flying Colors"
+            "Taunt: Flying Colors",
+            "Taunt: Sear You Later"
         ],
         "rules": [],
         "scenes": [
-            "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd"
+            "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd"
         ],
         "state": "used",
         "transcript": ""
@@ -7999,7 +8011,9 @@
         ],
         "responses": [
             "Taunt: Flying Colors",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: Sear You Later",
             "Taunt: Second Rate Sorcery",
             "Taunt: Straight Shooter Tutor",
             "Taunt: The Circuit Breaker",
@@ -8063,9 +8077,11 @@
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/secondrate_sorcery.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
@@ -8086,8 +8102,10 @@
         ],
         "responses": [
             "Taunt: Flying Colors",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Neck Snap",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: Sear You Later",
             "Taunt: Straight Shooter Tutor",
             "Taunt: The Circuit Breaker",
             "Taunt: Yeti Punch"
@@ -8149,8 +8167,10 @@
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_the_circuit_breaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_neck_snap.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
         ],
@@ -8168,8 +8188,10 @@
         ],
         "responses": [
             "Taunt: Flying Colors",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Peace Out",
             "Taunt: Rock, Paper, Scissors",
+            "Taunt: Sear You Later",
             "Taunt: Straight Shooter Tutor",
             "Taunt: The Head Doctor",
             "Taunt: Yeti Punch"
@@ -8230,8 +8252,10 @@
             "scenes/workshop/player/demoman/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/engineer/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/heavy/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd",
             "scenes/workshop/player/pyro/low/taunt_flying_colors.vcd",
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd",
             "scenes/workshop/player/scout/low/taunt_peace_out.vcd",
             "scenes/workshop/player/sniper/low/taunt_flying_colors.vcd",
             "scenes/workshop/player/sniper/low/taunt_straight_shooter_tutor.vcd"
@@ -12426,9 +12450,13 @@
         "events": [
             "weaponinspect.movement4"
         ],
-        "responses": [],
+        "responses": [
+            "Taunt: Sear You Later"
+        ],
         "rules": [],
-        "scenes": [],
+        "scenes": [
+            "scenes/workshop/player/pyro/low/taunt_sear_you_later.vcd"
+        ],
         "state": "used",
         "transcript": ""
     },

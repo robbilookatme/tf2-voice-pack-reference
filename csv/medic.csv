@@ -647,20 +647,20 @@ Your Line:,,,Rules:,"['PlayerJeersMedic', 'PlayerSuddenDeathMedic']"
 ,,,Criteria:,"[['ConceptPlayerJeers', 'IsMedic'], ['ConceptPlayerSuddenDeathStart', 'IsMedic']]"
 
 Filename:,medic_laughevil01,,Events:,"['medic.laughevil01', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/medic_laughevil01.mp3,,Scenes:,['scenes/player/medic/low/604.vcd']
-Transcription:,Evil laugh,,Responses:,['PlayerTauntsMedic']
+Full Path:,sound/vo/medic_laughevil01.mp3,,Scenes:,"['scenes/player/medic/low/604.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,Evil laugh,,Responses:,"['PlayerTauntsMedic', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
 Filename:,medic_laughevil02,,Events:,"['medic.laughevil02', 'medic_taunt_burrowed_bones_01', 'medic_taunt_heartbreaker_voice_c', 'medic_tauntdoctors_defibrillators_medic_laughevil02', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/medic_laughevil02.mp3,,Scenes:,"['scenes/player/medic/low/1227.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,(Evil laugh 1),,Responses:,"['PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', 'Taunt: Heartbreaker']"
+Full Path:,sound/vo/medic_laughevil02.mp3,,Scenes:,"['scenes/player/medic/low/1227.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,(Evil laugh 1),,Responses:,"['PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', 'Taunt: Heartbreaker', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
 Filename:,medic_laughevil03,,Events:,"['medic.laughevil03', 'medic_taunt_burrowed_bones_01', 'taunt.bearhug_medic_b', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/medic_laughevil03.mp3,,Scenes:,"['scenes/player/medic/low/1228.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_cheers.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
-Transcription:,(Evil laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Bear Hug', 'Taunt: Borrowed Bones', 'Taunt: Cheers!', 'Taunt: Time Out Therapy']"
+Full Path:,sound/vo/medic_laughevil03.mp3,,Scenes:,"['scenes/player/medic/low/1228.vcd', 'scenes/workshop/player/medic/low/taunt_bear_hug.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_cheers.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
+Transcription:,(Evil laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Bear Hug', 'Taunt: Borrowed Bones', 'Taunt: Cheers!', 'Taunt: Hippocratic Hypocrite', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
@@ -671,8 +671,8 @@ Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
 Filename:,medic_laughevil05,,Events:,"['medic.laughevil05', 'medic.taunt_doctors_defibrillators_outro', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/medic_laughevil05.mp3,,Scenes:,"['scenes/player/medic/low/1232.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,(Evil laugh 2),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators""]"
+Full Path:,sound/vo/medic_laughevil05.mp3,,Scenes:,"['scenes/player/medic/low/1232.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,(Evil laugh 2),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
@@ -707,20 +707,20 @@ Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
 Filename:,medic_laughshort01,,Events:,"['medic.laughshort01', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/medic_laughshort01.mp3,,Scenes:,"['scenes/player/medic/low/609.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
-Transcription:,Short laugh,,Responses:,"['PlayerTauntsMedic', 'Taunt: Time Out Therapy']"
+Full Path:,sound/vo/medic_laughshort01.mp3,,Scenes:,"['scenes/player/medic/low/609.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd']"
+Transcription:,Short laugh,,Responses:,"['PlayerTauntsMedic', 'Taunt: Hippocratic Hypocrite', 'Taunt: Time Out Therapy']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
 Filename:,medic_laughshort02,,Events:,"['medic.laughshort02', 'medic_taunt_heartbreaker_voice_c', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/medic_laughshort02.mp3,,Scenes:,"['scenes/player/medic/low/610.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,(Short laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Heartbreaker']"
+Full Path:,sound/vo/medic_laughshort02.mp3,,Scenes:,"['scenes/player/medic/low/610.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,(Short laugh 2),,Responses:,"['PlayerTauntsMedic', 'Taunt: Heartbreaker', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,['PlayerPositiveMedic']
 ,,,Criteria:,"[['ConceptPlayerPositive', 'IsMedic']]"
 
 Filename:,medic_laughshort03,,Events:,"['medic.laughshort03', 'medic.taunt_doctors_defibrillators_outro', 'medic_taunt_heartbreaker_voice_c', 'taunt_medic_medbottle_voice_b', 'taunt_yeti_medic']"
-Full Path:,sound/vo/medic_laughshort03.mp3,,Scenes:,"['scenes/player/medic/low/1230.vcd', 'scenes/player/medic/low/yeti_taunt.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,(Short laugh),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Heartbreaker', 'Taunt: Yeti Smash']"
+Full Path:,sound/vo/medic_laughshort03.mp3,,Scenes:,"['scenes/player/medic/low/1230.vcd', 'scenes/player/medic/low/yeti_taunt.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,(Short laugh),,Responses:,"['PlayerKilledDominatingMedic', ""Taunt: Doctor's Defibrillators"", 'Taunt: Heartbreaker', 'Taunt: Hippocratic Hypocrite', 'Taunt: Yeti Smash']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10']]"
 
@@ -1055,8 +1055,8 @@ Your Line:,,,Rules:,"['KilledPlayerMedic', 'KilledPlayerVeryManyMedic', 'MedicTa
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'KilledPlayerDelay', 'MedicNotKillSpeech', 'IsMedic', 'AppliesContext:MedicKillSpeech:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHealArrow'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHippocrates'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsSyringe']]"
 
 Filename:,medic_specialcompleted10,,Events:,"['medic.specialcompleted10', 'medic_taunt_heartbreaker_voice_b', 'taunt_medic_medbottle_voice_oops']"
-Full Path:,sound/vo/medic_specialcompleted10.mp3,,Scenes:,"['scenes/player/medic/low/656.vcd', 'scenes/player/medic/low/taunt01_vocal05.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,Oops! Zat vas not Medizin!,,Responses:,"['KilledPlayerVeryManyMedic', 'MedicTauntPrimary', 'Taunt: Heartbreaker']"
+Full Path:,sound/vo/medic_specialcompleted10.mp3,,Scenes:,"['scenes/player/medic/low/656.vcd', 'scenes/player/medic/low/taunt01_vocal05.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,Oops! Zat vas not Medizin!,,Responses:,"['KilledPlayerVeryManyMedic', 'MedicTauntPrimary', 'Taunt: Heartbreaker', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'KilledPlayerVeryManyMedic', 'MedicTauntBust', 'MedicTauntHealArrow', 'MedicTauntPlayerPrimary']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'KilledPlayerDelay', 'MedicNotKillSpeech', 'IsMedic', 'AppliesContext:MedicKillSpeech:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHealArrow'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsHippocrates'], ['ConceptPlayerTaunt', 'IsMedic', 'WeaponIsSyringe']]"
 
@@ -1151,8 +1151,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_trade_taunts02,,Events:,"['medic_taunt_burrowed_bones_02', 'medic_taunt_heartbreaker_voice_a', 'medic_trade_taunts02', 'taunt_medic_aerobic_outro', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/medic_trade_taunts02.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd']"
-Transcription:,"Oh, I see you looking!",,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Heartbreaker', 'Taunt: Mannrobics']"
+Full Path:,sound/vo/medic_trade_taunts02.mp3,,Scenes:,"['scenes/player/medic/low/taunt_aerobic_b.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_heartbreaker.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,"Oh, I see you looking!",,Responses:,"['Taunt: Borrowed Bones', 'Taunt: Heartbreaker', 'Taunt: Hippocratic Hypocrite', 'Taunt: Mannrobics']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
@@ -1325,8 +1325,8 @@ Your Line:,,,Rules:,['RejectedDuelMedic']
 ,,,Criteria:,"[['ConceptDuelRejected', 'IsMedic']]"
 
 Filename:,medic_taunts12,,Events:,"['medic.taunt_doctors_defibrillators_intro', 'medic.taunts12', 'medic_taunt_burrowed_bones_02', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/taunts/medic_taunts12.mp3,,Scenes:,"['scenes/player/medic/low/679.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
-Transcription:,Come over here. I promise I vill heal you!,,Responses:,"['MeleeDareCombatMedic', 'PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators""]"
+Full Path:,sound/vo/taunts/medic_taunts12.mp3,,Scenes:,"['scenes/player/medic/low/679.vcd', 'scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd']"
+Transcription:,Come over here. I promise I vill heal you!,,Responses:,"['MeleeDareCombatMedic', 'PlayerKilledDominatingMedic', 'Taunt: Borrowed Bones', ""Taunt: Doctor's Defibrillators"", 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,"['KilledPlayerMedic', 'MeleeDareCombatMedic', 'PlayerKilledDominatingMedic']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsMedic', 'IsDominated', 'AppliesContext:MedicKillSpeech:1:10', 'AppliesContext:IsDominating:1:10'], ['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'MedicNotKillSpeech', 'MedicNotKillSpeechMelee', 'IsMedic', 'AppliesContext:MedicKillSpeechMelee:1:10'], ['ConceptPlayerBattleCry', 'IsWeaponMelee', 'IsMedic', 'IsCrosshairEnemy']]"
 
@@ -1577,8 +1577,8 @@ Your Line:,,,Rules:,['MedicMvMMedicShield']
 ,,,Criteria:,"[['ConceptMvMMedicShield', 'IsMedic', '75PercentChance']]"
 
 Filename:,medic_mvm_loot_common01,,Events:,"['medic_mvm_loot_common01', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/medic_mvm_loot_common01.mp3,,Scenes:,['scenes/player/medic/low/6736.vcd']
-Transcription:,"Ooh, zhis vill do nicely.",,Responses:,['MedicMvMLootCommon']
+Full Path:,sound/vo/medic_mvm_loot_common01.mp3,,Scenes:,"['scenes/player/medic/low/6736.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,"Ooh, zhis vill do nicely.",,Responses:,"['MedicMvMLootCommon', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,['MedicMvMLootCommon']
 ,,,Criteria:,"[['ConceptMvMLootCommon', 'IsMedic', '20PercentChance']]"
 
@@ -1601,8 +1601,8 @@ Your Line:,,,Rules:,['MedicMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsMedic']]"
 
 Filename:,medic_mvm_loot_godlike02,,Events:,"['medic_mvm_loot_godlike02', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/medic_mvm_loot_godlike02.mp3,,Scenes:,['scenes/player/medic/low/6743.vcd']
-Transcription:,(Gasp) It's beautiful.,,Responses:,['MedicMvMLootUltraRare']
+Full Path:,sound/vo/medic_mvm_loot_godlike02.mp3,,Scenes:,"['scenes/player/medic/low/6743.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd']"
+Transcription:,(Gasp) It's beautiful.,,Responses:,"['MedicMvMLootUltraRare', 'Taunt: Hippocratic Hypocrite']"
 Your Line:,,,Rules:,['MedicMvMLootUltraRare']
 ,,,Criteria:,"[['ConceptMvMLootUltraRare', 'IsMedic']]"
 
@@ -1619,8 +1619,8 @@ Your Line:,,,Rules:,['MedicMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsMedic']]"
 
 Filename:,medic_mvm_loot_rare02,,Events:,"['medic_mvm_loot_rare02', 'medic_tauntthe_head_doctor_medic_sf12_badmagic02', 'taunt_medic_medbottle_voice_a']"
-Full Path:,sound/vo/medic_mvm_loot_rare02.mp3,,Scenes:,"['scenes/player/medic/low/6739.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd']"
-Transcription:,"Ooh, very nice.",,Responses:,"['MedicMvMLootRare', 'Taunt: The Head Doctor']"
+Full Path:,sound/vo/medic_mvm_loot_rare02.mp3,,Scenes:,"['scenes/player/medic/low/6739.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd']"
+Transcription:,"Ooh, very nice.",,Responses:,"['MedicMvMLootRare', 'Taunt: Hippocratic Hypocrite', 'Taunt: The Head Doctor']"
 Your Line:,,,Rules:,['MedicMvMLootRare']
 ,,,Criteria:,"[['ConceptMvMLootRare', 'IsMedic']]"
 
@@ -2333,8 +2333,8 @@ Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 
 Filename:,medic_taunt_kill_24,,Events:,"['medic_secondrate_sorcery_medic_medic_taunt_kill_24', 'medic_taunt_xray_2b_dead', 'taunt_killer_joke_medic_2', 'taunt_medic_medbottle_voice_b']"
-Full Path:,sound/vo/taunts/medic/medic_taunt_kill_24.mp3,,Scenes:,"['scenes/player/medic/low/taunt_xray.vcd', 'scenes/workshop/player/medic/low/taunt_killer_joke.vcd']"
-Transcription:,...you're dead!,,Responses:,"['Taunt: Killer Joke', 'Taunt: Results Are In']"
+Full Path:,sound/vo/taunts/medic/medic_taunt_kill_24.mp3,,Scenes:,"['scenes/player/medic/low/taunt_xray.vcd', 'scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd', 'scenes/workshop/player/medic/low/taunt_killer_joke.vcd']"
+Transcription:,...you're dead!,,Responses:,"['Taunt: Hippocratic Hypocrite', 'Taunt: Killer Joke', 'Taunt: Results Are In']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
 

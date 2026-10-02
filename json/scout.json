@@ -8041,13 +8041,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "PlayerKilledDominatingScoutScout"
+            "PlayerKilledDominatingScoutScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "PlayerKilledDominatingScoutScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2555.vcd"
+            "scenes/player/scout/low/2555.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "Hey, knucklehead, you ain't gonna win."
@@ -8183,13 +8185,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "PlayerKilledDominatingDemomanScout"
+            "PlayerKilledDominatingDemomanScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "PlayerKilledDominatingDemomanScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2649.vcd"
+            "scenes/player/scout/low/2649.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "I don't usually kill morons this fast."
@@ -8313,13 +8317,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "PlayerKilledDominatingScout"
+            "PlayerKilledDominatingScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "PlayerKilledDominatingScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/2764.vcd"
+            "scenes/player/scout/low/2764.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "You're gettin' dominated, chucklehead!"
@@ -15424,13 +15430,15 @@
             "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
-            "PlayerAttackerPainScout"
+            "PlayerAttackerPainScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "PlayerAttackerPainScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/1361.vcd"
+            "scenes/player/scout/low/1361.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "Nnrg!"
@@ -22538,11 +22546,13 @@
             "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
+            "Taunt: Showrunner's Spirit",
             "Taunt: Skullcracker"
         ],
         "rules": [],
         "scenes": [
-            "scenes/player/scout/low/taunt_headbutt_success.vcd"
+            "scenes/player/scout/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "Uhhyah!"
@@ -22572,12 +22582,14 @@
             "taunt_scout_showrunners_spirit_voice_a"
         ],
         "responses": [
+            "Taunt: Showrunner's Spirit",
             "Taunt: Skullcracker",
             "Taunt: The Trackman's Touchdown"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_headbutt_success.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
@@ -22849,6 +22861,7 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Boston Boarder",
             "Taunt: The Bunnyhopper",
             "Taunt: The Trackman's Touchdown"
@@ -22857,6 +22870,7 @@
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
             "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
@@ -22968,6 +22982,7 @@
         ],
         "responses": [
             "Taunt: Flippin' Awesome",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Boston Boarder",
             "Taunt: The Bunnyhopper",
             "Taunt: The Trackman's Touchdown"
@@ -22976,6 +22991,7 @@
         "scenes": [
             "scenes/player/scout/low/flip_success_initiator0.vcd",
             "scenes/player/scout/low/flip_success_initiator1.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_boston_boarder_trick01.vcd",
             "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_flip.vcd",
             "scenes/workshop/player/scout/low/taunt_the_bunnyhopper_spin.vcd",
@@ -23927,12 +23943,14 @@
         "responses": [
             "Taunt: Battin' a Thousand",
             "Taunt: Chairholder",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Killer Signature"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/scout/low/taunt_bat_man.vcd",
             "scenes/workshop/player/scout/low/taunt_chairholder.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_killer_signature.vcd"
         ],
         "state": "used",
@@ -24522,13 +24540,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "KilledPlayerManyScout"
+            "KilledPlayerManyScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "KilledPlayerManyScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/493.vcd"
+            "scenes/player/scout/low/493.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "Not so tough now, are ya? Are ya?!"
@@ -24631,6 +24651,7 @@
         ],
         "responses": [
             "ScoutTauntMelee",
+            "Taunt: Showrunner's Spirit",
             "Taunt: The Trackman's Touchdown"
         ],
         "rules": [
@@ -24642,6 +24663,7 @@
         ],
         "scenes": [
             "scenes/player/scout/low/taunt03_vocal05.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd",
             "scenes/workshop/player/scout/low/taunt_the_trackmans_touchdown.vcd"
         ],
         "state": "used",
@@ -25015,13 +25037,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "KilledPlayerManyScout"
+            "KilledPlayerManyScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "KilledPlayerManyScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/506.vcd"
+            "scenes/player/scout/low/506.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "You knuckleheads ain't even worth the effort."
@@ -25041,13 +25065,15 @@
             "taunt_scout_showrunners_spirit_voice_b"
         ],
         "responses": [
-            "PlayerCritColaVocalScout"
+            "PlayerCritColaVocalScout",
+            "Taunt: Showrunner's Spirit"
         ],
         "rules": [
             "PlayerCritColaVocalScout"
         ],
         "scenes": [
-            "scenes/player/scout/low/507.vcd"
+            "scenes/player/scout/low/507.vcd",
+            "scenes/workshop/player/scout/low/taunt_showrunners_spirit.vcd"
         ],
         "state": "used",
         "transcript": "You morons are about to catch a real beatin'."

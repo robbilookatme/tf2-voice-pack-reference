@@ -4013,13 +4013,15 @@
             "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
-            "PlayerTauntsMedic"
+            "PlayerTauntsMedic",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "PlayerPositiveMedic"
         ],
         "scenes": [
-            "scenes/player/medic/low/604.vcd"
+            "scenes/player/medic/low/604.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "Evil laugh"
@@ -4054,7 +4056,8 @@
         "responses": [
             "PlayerKilledDominatingMedic",
             "Taunt: Borrowed Bones",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -4063,7 +4066,8 @@
         "scenes": [
             "scenes/player/medic/low/1227.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "(Evil laugh 1)"
@@ -4087,6 +4091,7 @@
             "Taunt: Bear Hug",
             "Taunt: Borrowed Bones",
             "Taunt: Cheers!",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Time Out Therapy"
         ],
         "rules": [
@@ -4097,6 +4102,7 @@
             "scenes/workshop/player/medic/low/taunt_bear_hug.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
             "scenes/workshop/player/medic/low/taunt_cheers.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd"
         ],
         "state": "used",
@@ -4152,7 +4158,8 @@
         ],
         "responses": [
             "PlayerKilledDominatingMedic",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -4160,6 +4167,7 @@
         ],
         "scenes": [
             "scenes/player/medic/low/1232.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
@@ -4382,6 +4390,7 @@
         ],
         "responses": [
             "PlayerTauntsMedic",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Time Out Therapy"
         ],
         "rules": [
@@ -4389,6 +4398,7 @@
         ],
         "scenes": [
             "scenes/player/medic/low/609.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_time_out_therapy.vcd"
         ],
         "state": "used",
@@ -4409,14 +4419,16 @@
         ],
         "responses": [
             "PlayerTauntsMedic",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "PlayerPositiveMedic"
         ],
         "scenes": [
             "scenes/player/medic/low/610.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "(Short laugh 2)"
@@ -4452,6 +4464,7 @@
             "PlayerKilledDominatingMedic",
             "Taunt: Doctor's Defibrillators",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Yeti Smash"
         ],
         "rules": [
@@ -4462,6 +4475,7 @@
             "scenes/player/medic/low/1230.vcd",
             "scenes/player/medic/low/yeti_taunt.vcd",
             "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
@@ -5515,13 +5529,15 @@
             "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
-            "MedicMvMLootCommon"
+            "MedicMvMLootCommon",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "MedicMvMLootCommon"
         ],
         "scenes": [
-            "scenes/player/medic/low/6736.vcd"
+            "scenes/player/medic/low/6736.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "Ooh, zhis vill do nicely."
@@ -5625,13 +5641,15 @@
             "taunt_medic_medbottle_voice_a"
         ],
         "responses": [
-            "MedicMvMLootUltraRare"
+            "MedicMvMLootUltraRare",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "MedicMvMLootUltraRare"
         ],
         "scenes": [
-            "scenes/player/medic/low/6743.vcd"
+            "scenes/player/medic/low/6743.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "(Gasp) It's beautiful."
@@ -5697,6 +5715,7 @@
         ],
         "responses": [
             "MedicMvMLootRare",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: The Head Doctor"
         ],
         "rules": [
@@ -5704,6 +5723,7 @@
         ],
         "scenes": [
             "scenes/player/medic/low/6739.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntthe_head_doctor.vcd"
         ],
         "state": "used",
@@ -9662,7 +9682,8 @@
         "responses": [
             "KilledPlayerVeryManyMedic",
             "MedicTauntPrimary",
-            "Taunt: Heartbreaker"
+            "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -9674,7 +9695,8 @@
         "scenes": [
             "scenes/player/medic/low/656.vcd",
             "scenes/player/medic/low/taunt01_vocal05.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "Oops! Zat vas not Medizin!"
@@ -10141,13 +10163,15 @@
         "responses": [
             "Taunt: Borrowed Bones",
             "Taunt: Heartbreaker",
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Mannrobics"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_aerobic_b.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
-            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd"
+            "scenes/workshop/player/medic/low/taunt_heartbreaker.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd"
         ],
         "state": "used",
         "transcript": "Oh, I see you looking!"
@@ -11915,12 +11939,14 @@
             "taunt_medic_medbottle_voice_b"
         ],
         "responses": [
+            "Taunt: Hippocratic Hypocrite",
             "Taunt: Killer Joke",
             "Taunt: Results Are In"
         ],
         "rules": [],
         "scenes": [
             "scenes/player/medic/low/taunt_xray.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/taunt_killer_joke.vcd"
         ],
         "state": "used",
@@ -12902,7 +12928,8 @@
             "MeleeDareCombatMedic",
             "PlayerKilledDominatingMedic",
             "Taunt: Borrowed Bones",
-            "Taunt: Doctor's Defibrillators"
+            "Taunt: Doctor's Defibrillators",
+            "Taunt: Hippocratic Hypocrite"
         ],
         "rules": [
             "KilledPlayerMedic",
@@ -12912,6 +12939,7 @@
         "scenes": [
             "scenes/player/medic/low/679.vcd",
             "scenes/workshop/player/medic/low/taunt_borrowed_bones.vcd",
+            "scenes/workshop/player/medic/low/taunt_hippocratic_hypocrite.vcd",
             "scenes/workshop/player/medic/low/tauntdoctors_defibrillators.vcd"
         ],
         "state": "used",
