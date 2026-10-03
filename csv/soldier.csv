@@ -460,21 +460,21 @@ Transcription:,Aaaah!!,,Responses:,"['KilledPlayerMeleeSoldier', ""Taunt: Buffoo
 Your Line:,,,Rules:,['KilledPlayerMeleeSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'KilledPlayerDelay', '30PercentChance', 'IsWeaponMelee', 'SoldierNotKillSpeechMelee', 'IsSoldier', 'AppliesContext:SoldierKillSpeechMelee:1:10']]"
 
-Filename:,soldier_dominationdemoman01,,Events:,['soldier.dominationdemoman01']
-Full Path:,sound/vo/soldier_dominationdemoman01.mp3,,Scenes:,['scenes/player/soldier/low/3407.vcd']
-Transcription:,"Dominated, you one-eyed cross-dresser.",,Responses:,['PlayerKilledDominatingDemomanSoldier']
+Filename:,soldier_dominationdemoman01,,Events:,"['soldier.dominationdemoman01', 'taunt_soldier_oneeyedpunt_start']"
+Full Path:,sound/vo/soldier_dominationdemoman01.mp3,,Scenes:,"['scenes/player/soldier/low/3407.vcd', 'scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd']"
+Transcription:,"Dominated, you one-eyed cross-dresser.",,Responses:,"['PlayerKilledDominatingDemomanSoldier', 'Taunt: One-Eyed Punt!']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'IsVictimDemoman', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,soldier_dominationdemoman02,,Events:,['soldier.dominationdemoman02']
-Full Path:,sound/vo/soldier_dominationdemoman02.mp3,,Scenes:,['scenes/player/soldier/low/3408.vcd']
-Transcription:,"Consider yourself dominated, you Scotch son of a bitch!",,Responses:,['PlayerKilledDominatingDemomanSoldier']
+Filename:,soldier_dominationdemoman02,,Events:,"['soldier.dominationdemoman02', 'taunt_soldier_oneeyedpunt_start']"
+Full Path:,sound/vo/soldier_dominationdemoman02.mp3,,Scenes:,"['scenes/player/soldier/low/3408.vcd', 'scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd']"
+Transcription:,"Consider yourself dominated, you Scotch son of a bitch!",,Responses:,"['PlayerKilledDominatingDemomanSoldier', 'Taunt: One-Eyed Punt!']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'IsVictimDemoman', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
-Filename:,soldier_dominationdemoman03,,Events:,['soldier.dominationdemoman03']
-Full Path:,sound/vo/soldier_dominationdemoman03.mp3,,Scenes:,['scenes/player/soldier/low/3409.vcd']
-Transcription:,"Dominated, you skirt-twirling drunk.",,Responses:,['PlayerKilledDominatingDemomanSoldier']
+Filename:,soldier_dominationdemoman03,,Events:,"['soldier.dominationdemoman03', 'taunt_soldier_oneeyedpunt_start']"
+Full Path:,sound/vo/soldier_dominationdemoman03.mp3,,Scenes:,"['scenes/player/soldier/low/3409.vcd', 'scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd']"
+Transcription:,"Dominated, you skirt-twirling drunk.",,Responses:,"['PlayerKilledDominatingDemomanSoldier', 'Taunt: One-Eyed Punt!']"
 Your Line:,,,Rules:,['PlayerKilledDominatingDemomanSoldier']
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsSoldier', 'IsDominated', 'IsVictimDemoman', 'AppliesContext:SoldierKillSpeech:1:10', 'AppliesContext:IsDominating:1:10']]"
 
@@ -2014,9 +2014,9 @@ Transcription:,Maggots!,,Responses:,"['KilledPlayerManySoldier', 'SoldierTauntPr
 Your Line:,,,Rules:,"['KilledPlayerManySoldier', 'SoldierTauntPlayerAirStrike', 'SoldierTauntPlayerPrimary']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsManyRecentKills', '30PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRocket'], ['ConceptPlayerTaunt', 'IsSoldier', 'WeaponIsRocketLauncherAirStrike']]"
 
-Filename:,soldier_taunts02,,Events:,"['soldier.statue', 'soldier.taunts02', 'taunt_soldier_buffoons_bivouac_end_a']"
-Full Path:,sound/vo/taunts/soldier_taunts02.mp3,,Scenes:,"['scenes/player/soldier/low/1188.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd']"
-Transcription:,Time to inform your next of kin!,,Responses:,"['KilledPlayerVeryManySoldier', 'MeleeDareSoldier', ""Taunt: Buffoon's Bivouac""]"
+Filename:,soldier_taunts02,,Events:,"['soldier.statue', 'soldier.taunts02', 'taunt_soldier_buffoons_bivouac_end_a', 'taunt_soldier_oneeyedpunt_start']"
+Full Path:,sound/vo/taunts/soldier_taunts02.mp3,,Scenes:,"['scenes/player/soldier/low/1188.vcd', 'scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd', 'scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd']"
+Transcription:,Time to inform your next of kin!,,Responses:,"['KilledPlayerVeryManySoldier', 'MeleeDareSoldier', ""Taunt: Buffoon's Bivouac"", 'Taunt: One-Eyed Punt!']"
 Your Line:,,,Rules:,"['KilledPlayerVeryManySoldier', 'MeleeDareSoldier']"
 ,,,Criteria:,"[['ConceptKilledPlayer', 'IsVeryManyRecentKills', '50PercentChance', 'IsWeaponPrimary', 'KilledPlayerDelay', 'SoldierNotKillSpeech', 'IsSoldier', 'AppliesContext:SoldierKillSpeech:1:10'], ['ConceptRequestDuel', 'IsSoldier']]"
 
@@ -3531,12 +3531,6 @@ Full Path:,sound/vo/taunts/soldier/soldier_taunt_rps_win_61.mp3,,Scenes:,"['scen
 Transcription:,Scissors win!,,Responses:,"['Taunt: Rock, Paper, Scissors']"
 Your Line:,,,Rules:,[]
 ,,,Criteria:,[]
-
-Filename:,soldier_taunts02,,Events:,['taunt_soldier_oneeyedpunt_start']
-Full Path:,sound/vo/taunts/soldier/soldier_taunts02.mp3,,Scenes:,['scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd']
-Transcription:,,,Responses:,['Taunt: One-Eyed Punt!']
-Your Line:,,,Rules:,[]
-Missing?,,,Criteria:,[]
 
 Filename:,soldier_trade_03,,Events:,['soldier_taunt_trade_start_rand']
 Full Path:,sound/vo/taunts/soldier/soldier_trade_03.mp3,,Scenes:,[]

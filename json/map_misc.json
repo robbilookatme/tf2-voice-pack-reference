@@ -2619,6 +2619,96 @@
         "state": "used",
         "transcript": ""
     },
+    "sound/ctf_medievil/enemyscore.wav": {
+        "base_name": "enemyscore",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/mm_match_end_lose_music_casual.wav": {
+        "base_name": "mm_match_end_lose_music_casual",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/mm_match_end_win_music_casual.wav": {
+        "base_name": "mm_match_end_win_music_casual",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/roundstart01.wav": {
+        "base_name": "roundstart01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/roundstart02.wav": {
+        "base_name": "roundstart02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/teamscore.wav": {
+        "base_name": "teamscore",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/ctf_medievil/your_team_lost.wav": {
+        "base_name": "your_team_lost",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"You've failed!\" (boos)"
+    },
+    "sound/ctf_medievil/your_team_stalemate.wav": {
+        "base_name": "your_team_stalemate",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"You've failed. Stalemate.\" (outcry of disapproval)"
+    },
+    "sound/ctf_medievil/your_team_won.wav": {
+        "base_name": "your_team_won",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": "\"Victory.\" (cheers)"
+    },
     "sound/ctf_pressure/megalodon_roar1.wav": {
         "base_name": "megalodon_roar1",
         "criteria": [],
@@ -23921,6 +24011,576 @@
     },
     "sound/vo/pirate_zone_leave_002.mp3": {
         "base_name": "pirate_zone_leave_002",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/deadringer01.mp3": {
+        "base_name": "deadringer01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/deadringer02.mp3": {
+        "base_name": "deadringer02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/deadringer03.mp3": {
+        "base_name": "deadringer03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/hellintro01.mp3": {
+        "base_name": "hellintro01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/hellintro02.mp3": {
+        "base_name": "hellintro02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/hellintro03.mp3": {
+        "base_name": "hellintro03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/hellintro04.mp3": {
+        "base_name": "hellintro04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro01.mp3": {
+        "base_name": "intro01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro02.mp3": {
+        "base_name": "intro02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro03.mp3": {
+        "base_name": "intro03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro04.mp3": {
+        "base_name": "intro04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro05.mp3": {
+        "base_name": "intro05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro06.mp3": {
+        "base_name": "intro06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro07.mp3": {
+        "base_name": "intro07",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro08.mp3": {
+        "base_name": "intro08",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/intro09.mp3": {
+        "base_name": "intro09",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare01.mp3": {
+        "base_name": "onkillrare01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare02.mp3": {
+        "base_name": "onkillrare02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare03.mp3": {
+        "base_name": "onkillrare03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare04.mp3": {
+        "base_name": "onkillrare04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare05.mp3": {
+        "base_name": "onkillrare05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare06.mp3": {
+        "base_name": "onkillrare06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/onkillrare07.mp3": {
+        "base_name": "onkillrare07",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro01.mp3": {
+        "base_name": "outro01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro02.mp3": {
+        "base_name": "outro02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro03.mp3": {
+        "base_name": "outro03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro04.mp3": {
+        "base_name": "outro04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro05.mp3": {
+        "base_name": "outro05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/outro06.mp3": {
+        "base_name": "outro06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/scoutkilled01.mp3": {
+        "base_name": "scoutkilled01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/scoutkilled02.mp3": {
+        "base_name": "scoutkilled02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn01.mp3": {
+        "base_name": "spellspawn01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn02.mp3": {
+        "base_name": "spellspawn02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn03.mp3": {
+        "base_name": "spellspawn03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn04.mp3": {
+        "base_name": "spellspawn04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn05.mp3": {
+        "base_name": "spellspawn05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/spellspawn06.mp3": {
+        "base_name": "spellspawn06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain01.mp3": {
+        "base_name": "trainrain01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain02.mp3": {
+        "base_name": "trainrain02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain03.mp3": {
+        "base_name": "trainrain03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain04.mp3": {
+        "base_name": "trainrain04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain05.mp3": {
+        "base_name": "trainrain05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain06.mp3": {
+        "base_name": "trainrain06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain07.mp3": {
+        "base_name": "trainrain07",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain08.mp3": {
+        "base_name": "trainrain08",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain09.mp3": {
+        "base_name": "trainrain09",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain10.mp3": {
+        "base_name": "trainrain10",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain11.mp3": {
+        "base_name": "trainrain11",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrain12.mp3": {
+        "base_name": "trainrain12",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare01.mp3": {
+        "base_name": "trainrainrare01",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare02.mp3": {
+        "base_name": "trainrainrare02",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare03.mp3": {
+        "base_name": "trainrainrare03",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare04.mp3": {
+        "base_name": "trainrainrare04",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare05.mp3": {
+        "base_name": "trainrainrare05",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare06.mp3": {
+        "base_name": "trainrainrare06",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare07.mp3": {
+        "base_name": "trainrainrare07",
+        "criteria": [],
+        "events": [],
+        "responses": [],
+        "rules": [],
+        "scenes": [],
+        "state": "used",
+        "transcript": ""
+    },
+    "sound/vo/trainsawlaser/trainrainrare08.mp3": {
+        "base_name": "trainrainrare08",
         "criteria": [],
         "events": [],
         "responses": [],

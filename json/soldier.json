@@ -4564,16 +4564,19 @@
             ]
         ],
         "events": [
-            "soldier.dominationdemoman01"
+            "soldier.dominationdemoman01",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
-            "PlayerKilledDominatingDemomanSoldier"
+            "PlayerKilledDominatingDemomanSoldier",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [
             "PlayerKilledDominatingDemomanSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/3407.vcd"
+            "scenes/player/soldier/low/3407.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Dominated, you one-eyed cross-dresser."
@@ -4591,16 +4594,19 @@
             ]
         ],
         "events": [
-            "soldier.dominationdemoman02"
+            "soldier.dominationdemoman02",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
-            "PlayerKilledDominatingDemomanSoldier"
+            "PlayerKilledDominatingDemomanSoldier",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [
             "PlayerKilledDominatingDemomanSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/3408.vcd"
+            "scenes/player/soldier/low/3408.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Consider yourself dominated, you Scotch son of a bitch!"
@@ -4618,16 +4624,19 @@
             ]
         ],
         "events": [
-            "soldier.dominationdemoman03"
+            "soldier.dominationdemoman03",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
-            "PlayerKilledDominatingDemomanSoldier"
+            "PlayerKilledDominatingDemomanSoldier",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [
             "PlayerKilledDominatingDemomanSoldier"
         ],
         "scenes": [
-            "scenes/player/soldier/low/3409.vcd"
+            "scenes/player/soldier/low/3409.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Dominated, you skirt-twirling drunk."
@@ -19937,22 +19946,6 @@
         "state": "used",
         "transcript": "Scissors win!"
     },
-    "sound/vo/taunts/soldier/soldier_taunts02.mp3": {
-        "base_name": "soldier_taunts02",
-        "criteria": [],
-        "events": [
-            "taunt_soldier_oneeyedpunt_start"
-        ],
-        "responses": [
-            "Taunt: One-Eyed Punt!"
-        ],
-        "rules": [],
-        "scenes": [
-            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
-        ],
-        "state": "missing",
-        "transcript": ""
-    },
     "sound/vo/taunts/soldier/soldier_trade_03.mp3": {
         "base_name": "soldier_trade_03",
         "criteria": [],
@@ -20181,12 +20174,14 @@
         "events": [
             "soldier.statue",
             "soldier.taunts02",
-            "taunt_soldier_buffoons_bivouac_end_a"
+            "taunt_soldier_buffoons_bivouac_end_a",
+            "taunt_soldier_oneeyedpunt_start"
         ],
         "responses": [
             "KilledPlayerVeryManySoldier",
             "MeleeDareSoldier",
-            "Taunt: Buffoon's Bivouac"
+            "Taunt: Buffoon's Bivouac",
+            "Taunt: One-Eyed Punt!"
         ],
         "rules": [
             "KilledPlayerVeryManySoldier",
@@ -20194,7 +20189,8 @@
         ],
         "scenes": [
             "scenes/player/soldier/low/1188.vcd",
-            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd"
+            "scenes/workshop/player/soldier/low/taunt_buffoons_bivouac_outro.vcd",
+            "scenes/workshop/player/soldier/low/taunt_oneeyed_punt.vcd"
         ],
         "state": "used",
         "transcript": "Time to inform your next of kin!"
